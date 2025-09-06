@@ -113,7 +113,7 @@ dicht halten?
 Die kurze Fahrt endet vor der Schule. Beim Aussteigen gehen wir Schüler
 durch die Gruppe der Betreuer. Herr Fischer, sichtbar aufgewühlt, meidet
 aber meinen Blick konsequent. Auch Mielke hat wieder ein Auge auf uns.
-Jetzt bloß nicht auffällig wirken. Sei Eddie-2, die Frohnatur.
+Jetzt bloß nicht auffällig wirken. Sei Edmila, die Frohnatur.
 
 „Edda!“, ruft Mielke plötzlich. Ich fahre erschrocken herum.
 

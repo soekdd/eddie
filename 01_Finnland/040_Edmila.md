@@ -1,4 +1,4 @@
-# Eddie 2
+# Edmila
 
 ```json
 {
@@ -6,7 +6,7 @@
     "daytime": "day",
     "place": "Wohnung der Eltern Dresden",
     "persons": ["Eddie", "Eddies Vater" ],
-    "synopsis": "Eddies Vater erklärt Eddie, dass sie sich vor der Flucht verstellen muss, Eddie-2 wird geboren",
+    "synopsis": "Eddies Vater erklärt Eddie, dass sie sich vor der Flucht verstellen muss, Edmila wird geboren",
     "mood": "ernst, konspirativ, leicht humorvoll",
     "tense": "past, Eddies first-person perspective",
     "mode": "flashback",   // flashback | mainline
@@ -27,7 +27,7 @@
 }
 ```
 
-„Wenn du die Sache durchziehen willst, dann musst du eine andere Edda werden –
+„Wenn du die Sache durchziehen willst, dann musst du eine andere Eddie werden –
 eine Eddie 2!“, begann mein Vater damals ohne Vorwarnung.
 
 „Was stimmt nicht mit Eddie 1?“, fragte ich.
@@ -126,7 +126,8 @@ Sonst immer ‚sowjetisch‘.“
 
 „Sowjetisch“, sagte ich artig.
 
-„Я красивая типичная советская девочка. Ich bin schlank, trage oft Kleidchen,
+„Я Эдмила, красивая типичная советская девочка. Ich bin Edmila, ein hübsches,
+typisch sowjetisches Mädchen. Ich bin schlank, trage oft Kleidchen,
 alberne Spangen und Bänder im Haar, bin notorisch unpünktlich und habe immer
 eine viel zu große Tasche. Politisch aber zuverlässig.“
 
@@ -149,9 +150,9 @@ Jungenschuhen, die ich irgendwie ‚mädchenhaft‘ verzieren könnte?“
 Ich rollte innerlich mit den Augen und musste grinsen. Trotz allem, trotz aller
 Schleifen, Kleidchen und Schuhprobleme – irgendwie fand ich es auch aufregend.
 
-Eddie 2 war geboren und damit der erste echte Schritt in mein neues Abenteuer.
+Edmila war geboren und damit der erste echte Schritt in mein neues Abenteuer.
 
-Nun werde ich sehen, ob Eddie-2 ihren Job hinbekommt und mir die nötige Zeit
+Nun werde ich sehen, ob Эдмила/Edmila ihren Job hinbekommt und mir die nötige Zeit
 zur Flucht verschafft.
 
 Fast zwei Jahre bin ich sie gewesen, habe mich verstellt, meine frechen
@@ -159,5 +160,5 @@ Kommentare runtergeschluckt, mich ob meines Outfits dem Spot meiner Klasse
 ausgesetzt. Habe in Staatsbürgerkunde, Geschichte und schließlich sogar
 in Russisch geglänzt.
 
-Wenn es sich auszahlt, müsste ich Eddie-2 dankbar sein.
+Wenn es sich auszahlt, müsste ich Edmila dankbar sein.
 Sterben wird sie morgen trotzdem – und ich werde sie nicht vermissen.

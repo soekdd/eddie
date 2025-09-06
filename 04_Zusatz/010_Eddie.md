@@ -3,11 +3,13 @@
 _AKA:_ Eddie
 
 ## Basic
+
 - Age: 17
 - Birth Year: 1968
 - Origin: Dresden
 
 ## Family
+
 - Father:
   - Occupation: Ingenieur an der Uni für Automatisierungstechnik
   - Notes: Kann nicht promovieren, weil er nicht in die SED eintreten will; einziger, der Eddies Fluchtpläne kennt
@@ -16,18 +18,20 @@ _AKA:_ Eddie
   - Notes: Hat ein Reißbrett in der Wohnung; Eddie findet sie wunderschön; nicht eingeweiht, ahnt aber sehr genau, was Eddie vorhat
 
 ## Appearance Static
+
 - Body: sehr schlank, sportlich, unaufdringliche Körperhaltung
 - Height: leicht überdurchschnittlich
 - Eyes: hellbraun bis dunkelblau (je nach Licht), neugierig und lebendig
 - Skin: hell, glatte Haut, leichte Röte auf den Wangen
 
 ## Appearance Timeline
+
 - Item 1:
   - From: 1985-06-30
   - To: 1985-07-05
   - Hair: kurzer blonder Pixie-Cut, mit bunten Bändern gebunden
   - Clothing: rosa Wendejacke (innen schwarz), Hose aus verwaschenem roten Trainingsanzug, schwarze Lederschuhe
-  - Notes: Eddie-2 Phase, während der IMO in Finnland
+  - Notes: Edmila Phase, während der IMO in Finnland
 - Item 2:
   - From: 1985-07-05
   - To: 1985-07-06
@@ -48,6 +52,7 @@ _AKA:_ Eddie
   - Notes: Stockholm-Phase, erwachsener und klarer Stil
 
 ## Personality
+
 - Traits:
   - lebendig
   - neugierig
@@ -65,6 +70,7 @@ _AKA:_ Eddie
 - Friends: klein, aber tief verbunden
 
 ## Inner World
+
 - Feelings:
   - fühlt sich manchmal ‚anders‘
   - fühlt sich ‚ein bisschen allein‘
@@ -72,11 +78,13 @@ _AKA:_ Eddie
 - Habits: beobachtet Menschen gern und kommentiert gedanklich mit Witz
 
 ## Relationships
+
 - Sini: Bewundert ihre charmante Selbstsicherheit; neckt sie liebevoll, spürt aber auch Respekt
 - Authorities: Misstrauisch gegenüber offiziellen Strukturen, reagiert kreativ auf Einschränkungen
 - Self: Selbstironisch, aber innerlich stolz auf ihre Eigenheiten
 
 ## Preferences
+
 - Likes:
   - Rätsel
   - Kopfrechnen
@@ -95,6 +103,7 @@ _AKA:_ Eddie
   - kleine Mutproben
 
 ## Motivation Conflict
+
 - Goals: Mehr von der Welt sehen als ihre kleine DDR-Umgebung
 - Conflict: Der Wunsch nach Freiheit kollidiert mit den realen Grenzen ihrer Zeit und ihres Landes
 - Fears:
@@ -102,6 +111,7 @@ _AKA:_ Eddie
   - Bloßstellung – als ‚anders‘ auffallen, ohne verstanden zu werden
 
 ## Narrative Voice
+
 - Perspective: Ich-Form
 - Style: Lebendig, humorvoll, leicht ironisch, voller Alltagsbeobachtungen und innerer Kommentare
 - Special: Wechsel zwischen kindlichem Staunen und reifer Selbstreflexion

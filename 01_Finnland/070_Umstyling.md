@@ -34,7 +34,7 @@ in die Ohren hämmert. Jeder Augenblick zählt -- draußen könnten schon
 Augen auf mich gerichtet sein.
 
 Ich reiße die Wendejacke von mir, drehe sie. Schwarz nach außen. Die
-rosa Seite verschwindet -- und mit ihr Eddie-2. Ich ziehe mir die verhassten
+rosa Seite verschwindet -- und mit ihr Edmila. Ich ziehe mir die verhassten
 bunten Bänder aus den Haaren, so lange habe ich auf diesem Moment gewartet.
 
 Die Dose Schuhcreme liegt auf der Zeitung neben mir. Papa hat sie mir

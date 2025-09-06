@@ -29,11 +29,11 @@
 }
 ```
 
-Eddie-2 wird sterben.
+Edmila wird sterben.
 
 Morgen, nach dem Wettkampf. Daran gibt es keinen Zweifel. Ich habe es so geplant.
 Ob sie dann im Netz der Aufpasser hängenbleibt oder ob ich sie endlich abstreife
-wie eine vertrocknete Haut -- das weiß ich nicht. Aber sicher ist: Eddie-2 wird
+wie eine vertrocknete Haut -- das weiß ich nicht. Aber sicher ist: Edmila wird
 verschwinden.
 
 Die Luft steht still, warm und schwer, als hätte der Tag sich in den Holzwänden
