@@ -1,0 +1,89 @@
+{
+  "name": "Eddies Familie",
+  "basic": {
+    "relation_to_eddie": "Eltern und kleiner Bruder",
+    "residence": "Dresden, DDR",
+    "family_status": "gehobene Bildungsschicht, politisch jedoch eingeschränkt"
+  },
+  "father": {
+    "occupation": "Ingenieur an der TU für Automatisierungstechnik",
+    "notes": "außerordentlich begabt, darf nicht promovieren, weil er nicht in die SED eintreten will",
+    "role_in_story": "einziger, der in Eddies Fluchtpläne eingeweiht ist; unterstützt sie mit mathematischen Tricks und Kartenübungen",
+    "appearance_static": {
+      "body": "normal, etwas schmal durch viel Schreibtischarbeit",
+      "hair": "dunkel, erste graue Strähnen möglich",
+      "clothing": "schlichte Arbeitskleidung, oft Hemd und Stoffhose"
+    },
+    "personality": {
+      "traits": ["klug", "zurückhaltend", "besonnen"],
+      "strengths": ["analytisch", "guter Lehrer", "unterstützend"],
+      "weaknesses": ["politisch blockiert", "wirkt manchmal resigniert"]
+    },
+    "inner_world": {
+      "drive": "will Eddie intellektuell fördern",
+      "conflict": "weiß, dass sein Nichtbeitritt zur SED die Familie einschränkt",
+      "emotions": "stolz auf Eddie, gleichzeitig ängstlich um ihre Zukunft"
+    }
+  },
+  "mother": {
+    "occupation": "freischaffende Projektantin",
+    "notes": "arbeitet am Reißbrett in der Wohnung; von Eddie als wunderschön beschrieben",
+    "role_in_story": "nicht in die Flucht eingeweiht, ahnt jedoch sehr genau, was Eddie vorhat",
+    "appearance_static": {
+      "body": "elegant, gepflegt",
+      "hair": "braun, mittellang, praktisch frisiert",
+      "clothing": "modisch im Rahmen der DDR-Möglichkeiten, oft Arbeitskleidung am Reißbrett"
+    },
+    "personality": {
+      "traits": ["kreativ", "warmherzig", "ästhetisch orientiert"],
+      "strengths": ["gestalterisch begabt", "standhaft"],
+      "weaknesses": ["emotional verletzlich, besonders in Bezug auf Familie"]
+    },
+    "inner_world": {
+      "drive": "will die Familie zusammenhalten",
+      "conflict": "ahnt Eddies Pläne, wagt aber nicht einzugreifen",
+      "emotions": "liebevoll und sorgend, aber voller stiller Sorge"
+    }
+  },
+  "brother": {
+    "age": "Kind (Schulalter)",
+    "role_in_story": "wird rechtzeitig zu den Großeltern gebracht, bevor die Verhöre beginnen; dadurch geschützt",
+    "appearance_static": {
+      "body": "kindlich, gesund",
+      "hair": "hellbraun oder blond",
+      "clothing": "schlichte DDR-Kinderkleidung"
+    },
+    "personality": {
+      "traits": ["lebendig", "unbeschwert"],
+      "strengths": ["unschuldig, fröhlich"],
+      "weaknesses": ["abhängig vom Schutz der Eltern"]
+    },
+    "inner_world": {
+      "emotions": "ahnt wenig von der Gefahr, spürt aber die Anspannung der Eltern"
+    }
+  },
+  "relationships": {
+    "eddie": "enge Bindung: Vater als Mentor, Mutter als emotionale Stütze, Bruder als Schutzbefohlener",
+    "others": "keine hervorgehobenen Beziehungen außerhalb der Familie"
+  },
+  "preferences": {
+    "father_likes": ["Mathematik", "Geheimprojekte mit Eddie", "akademische Arbeit"],
+    "mother_likes": ["Design", "ästhetische Lösungen", "Familienzeit"],
+    "brother_likes": ["Ferien bei den Großeltern", "Spiele"],
+    "dislikes": ["politische Bevormundung", "SED-Druck", "Ungerechtigkeit"]
+  },
+  "motivation_conflict": {
+    "goals": "das Beste für Eddie und die Familie; Schutz und Förderung gleichermaßen",
+    "conflict": "müssen in der DDR überleben, während sie Eddies Drang nach Freiheit erahnen",
+    "fears": [
+      "politische Repression",
+      "Eddies mögliche Entdeckung durch die Stasi",
+      "Verlust der Familie durch ihre Entscheidungen"
+    ]
+  },
+  "narrative_voice": {
+    "perspective": "wenn aus ihrer Sicht: reflektierend, beschützend, nüchtern-realistisch",
+    "style": "sachlich, aber durchzogen von Wärme",
+    "special": "Vater als Mentor mit mathematischer Strenge; Mutter als emotionale, ahnende Kraft; Bruder als unschuldige Stimme der Kindheit"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": {
+    "full": "Streuner",
+    "nickname": "Streuni",
+    "notes": "zugelaufener Hund; Straßenhund-Vergangenheit"
+  },
+  "basic": {
+    "species": "Hund",
+    "breed": "Mischling (unbekannt)",
+    "sex": "männlich (vermutet)",
+    "age": "jung erwachsen",
+    "origin": "zugelaufen; lebt zeitweise bei/um Eddie"
+  },
+  "family": {
+    "background": "keine bekannte Vorbesitzer-Familie; soziale Bindung primär zu Eddie"
+  },
+  "appearance_static": {
+    "size": "mittelgroß",
+    "build": "drahtig, wendig, ausdauernd",
+    "coat": "kurz bis mittellang, dunkel mit hellen Partien",
+    "eyes": "wach, bernstein- bis dunkelbraun",
+    "ears": "halbstehend, aufmerksam",
+    "special": "kleine alte Narben; schneller, leiser Lauf; ausdrucksstarker Blick"
+  },
+  "appearance_timeline": [],
+  "personality": {
+    "traits": ["loyal", "vorsichtig bei Fremden", "verspielt bei Vertrauten", "wachsam"],
+    "strengths": ["guter Orientierungssinn", "Geruchssinn", "Ausdauer", "leise Fortbewegung"],
+    "weaknesses": ["misstrauisch gegenüber Uniformen/Greifbewegungen", "lässt sich von Essen ablenken"],
+    "social_role": "Gefährte und stiller Beschützer; spürt Stimmungen und warnt durch Verhalten"
+  },
+  "inner_world": {
+    "conditioning": "Straßenhund-Erfahrung: reagiert sensibel auf Druck und Stimmenlage",
+    "attachments": "starke Bindung an Eddie; akzeptiert Menschen nach Beobachtungsphase",
+    "comfort_signals": ["schwanzwedeln, wenn Eddie lacht", "legt sich zwischen Eddie und mögliche Gefahr"]
+  },
+  "profession": {
+    "occupation": "Begleiter",
+    "skills": ["Fährten folgen (kurze Distanzen)", "frühes Warnen bei Geräuschen", "ruhiges Verharren"],
+    "special": "findet Schlafplätze/Windschatten; liest Körpersprache gut"
+  },
+  "relationships": {
+    "eddie": "primäre Bezugsperson; folgt ihr, bringt Ruhe; reagiert auf ihre Stimme sofort",
+    "vidar": "akzeptiert ihn schnell; erkennt seine stille Art und fühlt sich sicher in seiner Nähe",
+    "vidars_mother": "fühlt sich bei ihr willkommen, da sie ihn füttert und duldet",
+    "others": "vorsichtig, bellt selten, weicht aus wenn bedrängt"
+  },
+  "preferences": {
+    "likes": ["warme, trockene Schlafplätze", "kurze, häufige Mahlzeiten", "Routinen", "leise Anerkennung (Streicheln am Hals)"],
+    "dislikes": ["laute Stimmen", "hektische Bewegungen", "enge Räume ohne Ausweg", "Zigarettenrauch"],
+    "hobbies": ["Schnüffelrunden", "am Wasser sitzen", "Eddies Spur halten"]
+  },
+  "motivation_conflict": {
+    "goals": "bei Eddie bleiben; Sicherheit und Futter sichern",
+    "conflict": "Neugier vs. Vorsicht; Nähe zu Eddie vs. Angst vor Fremden/Uniformen",
+    "fears": ["plötzliche Trennung von Eddie", "eingesperrt werden", "Knallgeräusche"]
+  },
+  "health": {
+    "status": "robust, aber leichte alte Blessuren",
+    "care_notes": ["regelmäßig Wasser", "ruhige Fütterung", "Zecken-/Flohcheck nach Waldwegen"]
+  },
+  "narrative_voice": {
+    "perspective": "wenn aus Tierperspektive angedeutet: sinnlich, geruchs- und geräuschzentriert",
+    "style": "wortloses Erzählen über Verhalten, Blicke, Körperhaltung",
+    "special": "spiegelt Eddies Gefühlslage nonverbal"
+  }
+}

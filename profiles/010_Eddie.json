@@ -1,0 +1,90 @@
+{
+  "name": {
+    "full": "Edda Riedel",
+    "nickname": "Eddie"
+  },
+  "basic": {
+    "age": 17,
+    "birth_year": 1968,
+    "origin": "Dresden"
+  },
+  "family": {
+    "father": {
+      "occupation": "Ingenieur an der Uni für Automatisierungstechnik",
+      "notes": "Kann nicht promovieren, weil er nicht in die SED eintreten will; einziger, der Eddies Fluchtpläne kennt"
+    },
+    "mother": {
+      "occupation": "Freischaffende Projektantin",
+      "notes": "Hat ein Reißbrett in der Wohnung; Eddie findet sie wunderschön; nicht eingeweiht, ahnt aber sehr genau, was Eddie vorhat"
+    }
+  },
+  "appearance_static": {
+    "body": "sehr schlank, sportlich, unaufdringliche Körperhaltung",
+    "height": "leicht überdurchschnittlich",
+    "eyes": "hellbraun bis dunkelblau (je nach Licht), neugierig und lebendig",
+    "skin": "hell, glatte Haut, leichte Röte auf den Wangen"
+  },
+  "appearance_timeline": [
+    {
+      "from": "1985-06-30",
+      "to": "1985-07-05",
+      "hair": "kurzer blonder Pixie-Cut, mit bunten Bändern gebunden",
+      "clothing": "rosa Wendejacke (innen schwarz), Hose aus verwaschenem roten Trainingsanzug, schwarze Lederschuhe",
+      "notes": "Eddie-2 Phase, während der IMO in Finnland"
+    },
+    {
+      "from": "1985-07-05",
+      "to": "1985-07-06",
+      "hair": "mit schwarzer Schuhcreme geschwärzt, wirkt sehr jungenhaft",
+      "clothing": "umgedrehte schwarze Wendejacke, improvisierte Fluchtverkleidung",
+      "notes": "Flucht aus der Schule in Joutsa und erste Tage im Untertauchen"
+    },
+    {
+      "from": "1985-07-07",
+      "to": "1985-07-31",
+      "hair": "Haare geschwaschen, aber Schuhcreme bleibt noch etwas im Haar.",
+      "clothing": "schwarze Wendejacke, andere Sachen aus der DDR",
+      "notes": "Flucht aus der Schule in Joutsa und erste Tage im Untertauchen"
+    },
+    {
+      "from": "1985-08-01",
+      "to": "1986-02-28",
+      "hair": "Buzzcut, sehr kurz (ca. 1 cm), natürlich blond",
+      "clothing": "gebrauchte Kleidung in Schweden: Jeans, T-Shirts, schlichte Pullover",
+      "notes": "Stockholm-Phase, erwachsener und klarer Stil"
+    }
+  ],
+  "personality": {
+    "traits": ["lebendig", "neugierig", "humorvoll", "manchmal schelmisch"],
+    "strengths": ["mathematische Begabung", "schnelles Auffassungsvermögen", "logisches Denken"],
+    "weaknesses": ["neigt zum Übermut", "impulsiv", "eigensinnig"],
+    "social_role": "fast einziges Mädchen in ihrer Matheklasse – Außenseiterin, aber stolz darauf",
+    "friends": "klein, aber tief verbunden"
+  },
+  "inner_world": {
+    "feelings": ["fühlt sich manchmal ‚anders‘", "fühlt sich ‚ein bisschen allein‘"],
+    "identifications": "Kann sich in Figuren wie Schlumpfine hineinversetzen – ein Mädchen unter vielen Jungs",
+    "habits": "beobachtet Menschen gern und kommentiert gedanklich mit Witz"
+  },
+  "relationships": {
+    "sini": "Bewundert ihre charmante Selbstsicherheit; neckt sie liebevoll, spürt aber auch Respekt",
+    "authorities": "Misstrauisch gegenüber offiziellen Strukturen, reagiert kreativ auf Einschränkungen",
+    "self": "Selbstironisch, aber innerlich stolz auf ihre Eigenheiten"
+  },
+  "preferences": {
+    "likes": ["Rätsel", "Kopfrechnen", "Abenteuer", "Sommerabende", "ehrliche Gespräche"],
+    "dislikes": ["Angeberei", "starre Regeln", "sinnlose Autorität", "Unehrlichkeit"],
+    "music": "Offen für West-Pop, den sie heimlich hört, aber auch DDR-Radio",
+    "hobbies": ["Matheaufgaben", "heimliche Beobachtung von Leuten", "kleine Mutproben"]
+  },
+  "motivation_conflict": {
+    "goals": "Mehr von der Welt sehen als ihre kleine DDR-Umgebung",
+    "conflict": "Der Wunsch nach Freiheit kollidiert mit den realen Grenzen ihrer Zeit und ihres Landes",
+    "fears": ["Stillstand – im Leben nichts Neues mehr zu erleben", "Bloßstellung – als ‚anders‘ auffallen, ohne verstanden zu werden"]
+  },
+  "narrative_voice": {
+    "perspective": "Ich-Form",
+    "style": "Lebendig, humorvoll, leicht ironisch, voller Alltagsbeobachtungen und innerer Kommentare",
+    "special": "Wechsel zwischen kindlichem Staunen und reifer Selbstreflexion"
+  }
+}

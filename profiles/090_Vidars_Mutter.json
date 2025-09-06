@@ -1,0 +1,74 @@
+{
+  "name": {
+    "full": "unbenannt (Vidars Mutter)",
+    "nickname": null,
+    "notes": "gebildete Mittelschichtsfrau in Stockholm"
+  },
+  "basic": {
+    "age": "Mitte 40 bis Anfang 50",
+    "origin": "Stockholm, Schweden",
+    "family_status": "gehobene, gebildete Mittelschicht",
+    "relation_to_vidar": "Mutter"
+  },
+  "family": {
+    "background": "stabile, gebildete Familie; gibt Vidar eine liebevolle, aber sehr kontrollierende Erziehung",
+    "partner": "Vidars Vater (nicht näher ausgeführt, vermutlich beruflich eingebunden)"
+  },
+  "appearance_static": {
+    "body": "normal gebaut, gepflegt, energisch im Auftreten",
+    "hair": "hellbraun oder dunkelblond, mittellang, ordentlich frisiert",
+    "eyes": "hell (blau oder grün), aufmerksam, durchdringender Blick",
+    "skin": "hell, gepflegt, wirkt gesund",
+    "clothing": {
+      "style": "ordentlich, gepflegt, unauffällig-klassisch; bevorzugt praktische, aber wertige Kleidung"
+    },
+    "special": "wirkt dominant und durchsetzungsstark; hat eine Aura von Autorität"
+  },
+  "appearance_timeline": [],
+  "personality": {
+    "traits": ["dominant", "beschützend", "praktisch", "tatkräftig"],
+    "strengths": [
+      "organisationsstark",
+      "tatendrang",
+      "beschützend",
+      "fähig, ihre Meinung zu ändern, wenn überzeugt"
+    ],
+    "weaknesses": [
+      "übermäßig kontrollierend",
+      "ablehnend gegenüber Obdachlosen und Hunden",
+      "wirkt schnell bevormundend"
+    ],
+    "social_role": "Über-Mutterfigur; beschützt Vidar stark, nimmt in der Familie eine führende Rolle ein"
+  },
+  "inner_world": {
+    "drive": "Sicherheit und gesellschaftlichen Status der Familie bewahren",
+    "conflict": "will Vidar und Eddie beschützen, lehnt aber Eddies Situation (obdachlos, mit Hund) ab",
+    "emotions": "schwankt zwischen Fürsorge, Dominanz und Skepsis; kann durch Argumente und Vertrauen gewonnen werden"
+  },
+  "profession": {
+    "occupation": "nicht konkretisiert (wahrscheinlich im Bildungs- oder Verwaltungsbereich)",
+    "skills": ["Organisation", "Durchsetzungsfähigkeit", "sozial anerkanntes Auftreten"],
+    "special": "fähig, mit Institutionen (z. B. BRD-Botschaft) zielstrebig Kontakt aufzunehmen"
+  },
+  "relationships": {
+    "vidar": "dominant-beschützende Mutter; liebt ihn, versteht seine Fremdheitsgefühle jedoch nicht voll",
+    "eddie": "anfänglich skeptisch wegen Eddies Herkunft und Situation; später helfend, respektiert Eddies Stärke",
+    "streuner": "mag Hunde nicht, duldet ihn nur schwer; lehnt ihn eher ab",
+    "others": "hat gesellschaftliche Kontakte in Stockholm, respektiert Institutionen und Autoritäten"
+  },
+  "preferences": {
+    "likes": ["Ordnung", "Sicherheit", "soziale Anerkennung", "klare Strukturen"],
+    "dislikes": ["Obdachlosigkeit", "Unordnung", "Straßenhunde", "Regelbrüche"],
+    "hobbies": ["gesellschaftliche Aktivitäten", "Organisation im Alltag", "Familienpflege"]
+  },
+  "motivation_conflict": {
+    "goals": "Familie schützen, gesellschaftliches Ansehen wahren, Kontrolle behalten",
+    "conflict": "Eddies Anwesenheit stellt ihr Weltbild in Frage; sie muss zwischen Kontrolle und Offenheit wählen",
+    "fears": ["Kontrollverlust", "sozialer Abstieg", "dass Vidar aus ihrer Obhut entgleitet"]
+  },
+  "narrative_voice": {
+    "perspective": "wenn aus ihrer Sicht: autoritär, fürsorglich, bestimmend",
+    "style": "klar, direkt, energisch, mit Hang zur Bevormundung",
+    "special": "kann von Fürsorge in Dominanz kippen, aber auch Einsicht zeigen, wenn überzeugt"
+  }
+}

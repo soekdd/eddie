@@ -1,0 +1,79 @@
+{
+  "name": {
+    "full": "Vidar",
+    "nickname": null,
+    "notes": "Vorname bedeutet sinngemäß ‚Weite/Ferne‘; bewusst von den Eltern gewählt"
+  },
+  "basic": {
+    "age": 17,
+    "birth_year": 1968,
+    "origin": "Stockholm, Schweden",
+    "heritage": "südkoreanische Wurzeln, adoptiert in gehobene Mittelschichtfamilie"
+  },
+  "family": {
+    "background": "gebildete, stabile Mittelschichtfamilie in Stockholm; Eltern liebevoll, verstehen seine innere Fremdheit aber nicht ganz"
+  },
+  "appearance_static": {
+    "body": "schlank, sportlich, leicht athletisch",
+    "height": null,
+    "hair": "dunkel",
+    "eyes": "ernst und wach",
+    "skin": "glatt, asiatische Gesichtszüge",
+    "clothing": {
+      "style": "einfach und ordentlich",
+      "items": "Jeans, Pullover, saubere Sportschuhe"
+    },
+    "special": "wirkt für Eddie ‚glatt‘ und fast unerreichbar"
+  },
+  "appearance_timeline": [],
+  "personality": {
+    "traits": ["ehrlich", "anständig", "schüchtern", "hilfsbereit", "gläubig"],
+    "strengths": [
+      "Mitgefühl",
+      "handelt aus Überzeugung, nicht aus Prahlerei",
+      "freundlich, besonders zu Schwachen"
+    ],
+    "weaknesses": [
+      "sehr schüchtern",
+      "redet wenig",
+      "wirkt in sich gekehrt"
+    ],
+    "social_role": "still, eher im Hintergrund; erlebt Ausgrenzung wegen seines Andersseins"
+  },
+  "inner_world": {
+    "faith": "gläubig, engagiert sich in der Kirche, hilft bei Essensausgaben",
+    "identity": "spürt selbst das Gefühl des Andersseins, bedingt durch asiatische Herkunft in homogenem Umfeld",
+    "drive": "hilft still und uneigennützig, sucht Sinn im Glauben"
+  },
+  "profession": {
+    "occupation": "Gymnasiast in Stockholm",
+    "skills": ["gute Noten", "ernsthaft", "diszipliniert"],
+    "volunteer": "engagiert sich freiwillig bei der Kirche"
+  },
+  "relationships": {
+    "eddie": {
+      "initial": "stiller Beobachter, bringt ihr heimlich kleine Geschenke und Hilfen",
+      "eddies_view": "für sie Symbol für Hoffnung, Würde und Menschlichkeit",
+      "later": "wird zu ihrer Chance auf einen Ausweg"
+    },
+    "family": "liebevoll, aber versteht seine Fremdheit nicht vollständig"
+  },
+  "preferences": {
+    "likes": ["Kirche und Glauben", "anderen helfen", "stille Gesten statt großer Worte"],
+    "dislikes": ["Prahlen", "Ungerechtigkeit", "Ausgrenzung"],
+    "hobbies": ["freiwillige Arbeit in der Kirche", "Nachdenken", "kleine stille Gesten für andere"]
+  },
+  "motivation_conflict": {
+    "goals": "anderen helfen und im Glauben Sinn finden",
+    "conflict": "will Eddie nahe sein, aber seine Schüchternheit hindert ihn daran",
+    "fears": [
+      "nicht dazuzugehören",
+      "dass seine Gesten unbeachtet bleiben"
+    ]
+  },
+  "narrative_voice": {
+    "perspective": "wenn aus seiner Sicht: zurückhaltend, ernst, leise",
+    "style": "einfach, ehrlich, ohne Pathos",
+    "special": "beobachtet lieber, als im Mittelpunkt zu stehen; Gesten sprechen für ihn"
+  }
+}

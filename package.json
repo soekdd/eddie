@@ -1,0 +1,16 @@
+{
+  "name": "eddie",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soekdd/eddie.git"
+  },
+  "license": "commercial",
+  "author": "Sören Kahl",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^9.34.0",
+    "eslint-plugin-markdownlint": "^0.9.0"
+  }
+}
