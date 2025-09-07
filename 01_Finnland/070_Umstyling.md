@@ -28,45 +28,20 @@
 }
 ```
 
-Ich hocke mich auf den geschlossenen Deckel des Toilettenbeckens, das
-Neonlicht flimmert wie ein schlechtes Signal. Herzklopfen, das mir bis
-in die Ohren hämmert. Jeder Augenblick zählt -- draußen könnten schon
-Augen auf mich gerichtet sein.
+Ich hock mich auf den geschlossenen Klo-Deckel. Neonlicht flimmert wie ein schlechtes Signal. Herzklopfen, das mir bis in die Ohren hämmert. Jeder verdammte Augenblick zählt – draußen könnte schon Mielke lauern.
 
-Ich reiße die Wendejacke von mir, drehe sie. Schwarz nach außen. Die
-rosa Seite verschwindet -- und mit ihr Edmilla. Ich ziehe mir die verhassten
-bunten Bänder aus den Haaren, so lange habe ich auf diesem Moment gewartet.
+Zack, Jacke runter, einmal umgedreht. Schwarz nach außen, rosa nach innen. Edmilla? Weg. Endlich. Ich zupfe mir die albernen bunten Bänder aus den Haaren. So lange habe ich auf diesem Moment gewartet.
 
-Die Dose Schuhcreme liegt auf der Zeitung neben mir. Papa hat sie mir
-gegeben, wir haben vorher geübt -- Strähne für Strähne an Puppenköpfen.
-Jetzt muss es auf meinem eigenen Kopf sitzen, und es darf kein Fehler
-passieren. Kein Fleck, keine Lücke. Kein Grund für jemanden, mich
-aufzuhalten.
+Die Schuhcreme-Dose liegt auf der Zeitung neben mir. Papas Geheimwaffe. Wir haben geübt, an Puppenköpfen, Strähne für Strähne. Nur dass es diesmal mein Kopf ist. Kein Platz für Fehler. Kein Fleck, keine Lücke. Bloß kein Grund, mich aufzuhalten.
 
-Das Bürstchen in der Hand fühlt sich plötzlich zu klein an, die Creme
-zu zäh. Ich tauche es ein, streiche die erste Strähne vom Ansatz bis
-zu den Spitzen. Meine Finger zittern. Die zweite Strähne -- sie sitzt
-schief, ein dünner Streifen Blond blitzt durch. Panik kriecht in mir
-hoch. Ich bürste nach, gleichmäßig, aber die Zeit läuft gnadenlos weiter.
+Das Bürstchen wirkt plötzlich wie Spielzeug, die Creme wie Kaugummi. Ich tauche ein, streiche die erste Strähne. Hände zittern. Zweite Strähne – Mist, da blitzt noch blond durch! Panik schießt hoch. Nachbürsten, schneller, gleichmäßiger. Die Uhr tickt wie irre, Eddie, mir läuft die Zeit davon!
 
-Hinter mir ein Geräusch -- ein Tropfen oder ein
-Schritt? Mein Herz stolpert, die Hände werden feucht. Ich muss schneller
-werden, darf keine Zeit verlieren, um mit den anderen gemeinsam die
-Schule zu verlassen. Strähne um Strähne, von links nach
-rechts, oben nach unten.
+Hinter mir ein Geräusch. Tropfen? Schritt? , die Hände werden feucht. Ich muss schneller werden, darf keine Zeit verlieren, um mit den anderen gemeinsam die Schule zu verlassen. Strähne um Strähne, von links nach rechts, oben nach unten.
 
-Ich halte inne, prüfe in dem winzigen Spiegel, den ich als
-Schlüsselanhänger trage -- hinten ist eine Lücke. "Verdamt! Das kostet
-mich wieder Zeit!", ich drehe den Kopf, bürste die Stelle nach. Dann
-nochmal über die Schläfen, wo das Blond immer hartnäckig durchschimmert.
-Meine Finger sind längst schwarz verschmiert, die Creme klebt unter den Nägeln.
+Ich halte inne, prüfe in dem winzigen Spiegel, den ich als Schlüsselanhänger trage -- hinten ist eine Lücke. "Verdamt! Das kostet mich wieder Zeit!", fluche ich leise. Kopf drehen, nachpinseln. Dann nochmal über die Schläfen, wo das Blond mich auslacht. Meine Finger sind längst schwarz verschmiert, die Creme klebt unter den Nägeln.
 
-Ich drücke das Bürstchen noch einmal über den Ponny, die Ohren, über die
-Hinterkopfpartie. Fast geschafft. Diese gehasste sowjetische
-Vorzeige-Matroschka mit ihren Schleifen ist endlich weg.
+Ich drücke das Bürstchen noch einmal über den Ponny, die Ohren, über die Hinterkopfpartie. Fast geschafft.. Diese bescheuerte sowjetische Vorzeige-Puppe mit ihren blöden Schleifen ist endlich Geschichte. Rausgekickt aus meinem Kopf.
 
-Ich atme tief ein. Draußen höre ich, wie eine Gruppe Jungs die Toilette
-betritt und eifrig über die Aufgaben diskutiert. Ich bin also noch nicht
-zu spät dran, wische mir die Stirn ab, schließe die Dose und stehe auf.
+Ich atme tief durch. Draußen stürmt ne Gruppe Jungs rein, palavern laut über die Aufgaben. Ich bin also noch nicht zu spät dran. Ich wisch mir die Stirn, klapp die Dose zu, steh auf.
 
-Die Jacke fühlt sich jetzt wie eine zweite Haut an. Jetzt gibt es kein Zurück.
+Die Jacke sitzt wie zweite Haut. Schwarz, ernst. Keine Edmilla mehr. Nur ich. Kein Zurück.

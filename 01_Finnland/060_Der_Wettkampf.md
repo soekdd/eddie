@@ -9,7 +9,7 @@
     "synopsis": "Eddie kann sich nicht auf die Aufgaben konzentrieren. Sie ist die erste, den den Raum Richtung Toilette verläßt",
     "mood": "tense relief, fear",
     "tense": "present, Eddies first-person perspective",
-    "mode": "mainline",   // flashback | mainline
+    "mode": "mainline",
     "feedback": {
         "anni": {
             "rating":".....",
@@ -27,54 +27,25 @@
 }
 ```
 
-Ich sitze da, der Stift in meiner Hand, das Papier vor mir, aber die Zahlen und
-Symbole darauf tanzen wie kleine Spione, die mich verspotten. Ich blinzle, lese
-die drei Aufgabem noch einmal, und noch einmal – nichts. Gar nichts. Gestern
-hätte ich mir noch eingebildet, ich würde die hier alle an die Wand rechnen, um
-dann am Ende zu fehlen, wenn sie meinen Namen bei der Siegerehrung aufrufen.
-Ein Schlag ins Gesicht für die Bonzen. Mein kleiner Triumph.
-Aber jetzt? Ich bekomme nicht mal den Anfang hin.
+Der Stift hängt in meiner Hand, das Blatt liegt vor mir – und die Zahlen darauf tanzen wie kleine Spione, die mich auslachen. Ich blinzle, lese die drei Aufgaben noch mal, noch mal… nix. Gar nix. Gestern noch dachte ich: Ha, ich rechne die hier alle an die Wand, und wenn sie dann meinen Namen bei der Siegerehrung aufrufen – bin ich weg. Kleiner Triumph. Schock für die Bonzen.
+Aber jetzt? Ich krieg nicht mal den Anfang hin.
 
-Die Uhr tickt über der Tür, viel zu laut, viel zu langsam, viel zu schnell.
-Ich weiß nicht mehr, welche Angst größer ist – dass mir die Zeit
-davonläuft, oder dass sie nie vergeht. Jeder Strich mit dem Bleistift klingt wie
-ein Hohn. Ich starre die Aufgabe an, als könnte sie sich von selbst auflösen,
-wenn ich nur lange genug warte. Stattdessen rutschen mir die Gedanken weg.
+Die Uhr tickt über der Tür, viel zu laut, viel zu lahm, viel zu schnell. Alles gleichzeitig. Ich weiß nicht mal mehr, wovor ich mehr Schiss hab – dass mir die Zeit durch die Finger rinnt oder dass sie einfach nie vergeht. Jeder Strich von den anderen klingt wie Hohn in meinen Ohren. Ich starre die Aufgabe an, als könnte sie sich selbst in Luft auflösen, wenn ich nur lang genug draufgucke. Stattdessen schmiert mein Kopf ab.
 
-Mein Kopf pocht. Ich habe kaum geschlafen, nur gewälzt und gegrübelt. Die
-Angst sitzt mir im Nacken wie eine kalte Hand. Ich will hier raus. Raus aus
-diesem Raum, raus aus diesem Alptraum.
+Pochen im Schädel. Klar, nach der Nacht ohne Schlaf. Nur rumgewälzt, nur gegrübelt. Die Angst hängt mir im Nacken wie ’ne kalte Hand. Ich will raus. Raus hier, raus aus diesem Raum, raus aus allem.
 
-Ich schaue nach links, nach rechts. Alle anderen sind vertieft, kritzeln,
-radieren, kauen an den Stiften. Und ich? Ich bin eine Attrappe, eine die so
-tut, als ob. Ich schiebe die Aufgabe hin und her, als könnte die Perspektive
-helfen. Nichts. Nur noch mehr Leere.
+Ich schiel nach links, nach rechts. Alle im Tunnel, Stifte kratzen, Radiergummis rubbeln, manche knabbern nervös dran rum. Nur ich – ein Fake. Tu so, als ob. Ich schieb das Blatt hin und her, als würde die Perspektive helfen. Tut sie nicht. Nur noch mehr Leere.
 
-Dann halte ich es nicht mehr aus. Ich lege den Stift ab, versuche, so
-auszusehen, als wäre ich schon fertig. Aber ich weiß: ich bin die Erste. Viel
-zu früh. Ich lege meine erbärmlichen Ergebnisse in die offizielle Mappe der IMO.
-Mein Stuhl quietscht, als ich aufstehe. Ein paar Köpfe drehen sich,
-ich spüre die Blicke im Rücken. Ich lächle nicht, sage nichts, schnappe
-meine Tasche, gehe einfach Richtung Tür.
+Und dann halt ich’s nicht mehr aus. Stift weg. Ich versuch so zu gucken, als wär ich fertig. Aber ich weiß: Ich bin die Erste. Viel zu früh. Ich pack meine jämmerlichen Krakel in die offizielle IMO-Mappe. Mein Stuhl quietscht mies, als ich hochgeh. Ein paar Köpfe drehen sich. Ich spür die Blicke. Ich lächle nicht. Sag nix. Tasche geschnappt. Tür im Visier.
 
-Ich flüstere zum Betreuer "Bin fertig, muss schnell zur Toilette!" und zu mir
-selbst: Nur raus. Niemand darf merken, dass du eigentlich weglaufen willst. Der
-Betreuer schaut ungläubig, nickt dann aber kurz.
+Zum Betreuer flüster ich: „Bin fertig, muss mal schnell auf Toilette.“ Und zu mir selbst: Nur raus hier. Niemand darf merken, dass du wegläufst. Der Typ guckt schräg, nickt dann.
 
-Ich drücke die Tür hinter mir zu und stehe im langen, hellen, glücklicherweise
-menschenleeren Flur. Endlich raus aus diesem stickigen Prüfungsraum. Meine schweren
-Schuhe quietschen viel zu laut auf dem Linoleum. Ich gehe schneller, fast so, als
-hätte ich wirklich einen dringenden Grund. Die Tür mit dem Mädchenschild kommt
-näher, ich streife sie mit dem Blick – und gehe weiter. Noch zwei Türen. Da
-ist sie: Jungen.
+Tür zu. Bäm. Ich steh im langen, hellen Flur. Leer, zum Glück. Endlich raus aus der stickigen Hölle. Meine Schuhe quietschen viel zu laut auf dem Linoleum. Ich geh schneller, als hätte ich wirklich dringend… na ja.
 
-Mein Herz schlägt bis zum Hals. Wenn mich hier einer sieht… aber nein, es ist
-leer, ich bin die Erste. Ich stoße die Tür auf, und sofort umfängt mich dieser
-scharfe Geruch von Putzmittel. Ein paar weiße Urinale hängen an der Wand, wie
-offene Münder. Niemand da. Perfekt.
+Die Tür mit dem Mädchenschild kommt. Ich streif sie nur mit’m Blick – und geh weiter. Noch zwei Türen. Da: Jungen.
 
-Im Vorbeigehen schaue ich in die Spiegel über den Waschbecken an. Dieses
-Mädchen da starrt mich an – zerzaust, Augenringe, ein Gesicht, das mich
-selbst erschrickt. Doch dieses Mädchen wird ohnehin gleich verschwinden.
-Ich gehe in die letzte Kabine, verriegele die Tür und lehne mich mit dem Rücken
-dagegen. Endlich atmen.
+Herz hämmert bis in den Hals. Wenn mich hier einer erwischt… Aber niemand da. Ich stoße die Tür auf. Scharfer Putzmittel-Geruch haut mir entgegen. Urinale hängen an der Wand wie offene Mäuler. Keiner drin. Perfekt.
+
+Im Vorbeigehen ein Blick in die Spiegel. Dieses Mädel da starrt mich an: zerzaust, Augenringe, ein Gesicht, das mich selbst erschreckt. Aber egal – dieses Mädel verschwindet sowieso gleich.
+
+Ich geh in die letzte Kabine, Schloss zu, Rücken gegen die Tür. Endlich Luft.
