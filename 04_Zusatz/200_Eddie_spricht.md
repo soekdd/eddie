@@ -1,8 +1,3 @@
----
-title: "Eddie spricht – Interaktive Literatur erleben"
-author: Projekt Eddie
----
-
 # Eddie spricht – Interaktive Literatur erleben
 
 **Ein Roman, der über die letzte Seite hinausgeht.**

@@ -28,3 +28,5 @@
 heute - damals zum größten Teil aus Wald. Eddie wird also die ersten Tage dort gezeltet haben. Sini, Kassenmädchen am Fährterminal, hat bereits von dem geflohenen ostdeutschen Mädchen gehört, da Mielkes Männer regelmäßig nach ihr fragen. Außerdem war der Fall in der Zeitung. Sini nimmt Eddie bei sich auf und es entwickelt sich eine tiefe, wenn auch mitunter problematische Freundschaft. Sini ist wild und ungezügelt, Feministin und Punk. Ihre blauen Haare sind ein Tribut an ihren Namen."
 }
 ```
+
+Sini: „Na, wie geht’s dir heute, Genossin Edmilla?“

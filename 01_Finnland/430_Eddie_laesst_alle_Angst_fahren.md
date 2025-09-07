@@ -148,7 +148,7 @@ Bei ihrer Freundin verwandelt sich die Küche in einen Friseursalon. Ein
 Küchenstuhl, ein Laken um den Hals, kein Spiegel. Sinis Anweisung ist
 eindeutig: „Alles, was nicht richtig blond ist, muss ab!"
 
-Eine Viertelstunde später streiche ich über meinen Nacken. Raspelkurz.
+Eine Viertelstunde später streiche ich über meinen Hinterkopf. Raspelkurz.
 
 „So kurz hatte ich sie noch nie", staune ich.
 „Sehe ich jetzt nicht erst recht wie ein Junge aus?"

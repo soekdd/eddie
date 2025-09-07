@@ -137,7 +137,7 @@ Und dann…
 
 ---
 
-Dann ein schneller Griff durch das Tischtuch an meinen Knöchel.
+..ein schneller Griff unter das Tischtuch an meinen Knöchel.
 Ein Mann zieht mich grob über den Boden hinaus vor den Altar.
 
 Maria kommt angerannt, doch einer der anderen Männer hält sie zurück.
@@ -149,14 +149,10 @@ Ich liege immer noch auf dem Boden.
 Kann mich nicht bewegen vor Schreck.
 Mir laufen die Tränen.
 
-Der ganze Plan, alles schon nach wenigen Stunden gescheitert.
+Was bin ich für eine Verliererin?
+Der ganze Plan, die  Vorbereitung, die ständige Angst, das Sich-Verstellen, die blöden Kleidchen tragen – alles schon nach wenigen Stunden gescheitert.
 
 Da bricht es aus mir heraus – ich fange hemmungslos an zu heulen.
-
-Was bin ich für eine Verliererin?
-Die ganze Vorbereitung, die ständige Angst, das Sich-Verstellen, die blöden Kleidchen tragen – alles war umsonst.
-
-Ich habe mich nie so heulen gehört wie in diesem Moment.
 
 ---
 
@@ -165,15 +161,10 @@ Ich verstehe nicht, was sie sagt.
 Die Männer lachen nur.
 
 Mein Geheul, Marias Geschrei und das Lachen der Männer ist jetzt so laut wie zuvor die Glocke.
-
-Da fliegt die Tür erneut auf. Zwei Polizisten betreten die Kirche.
-
+Da fliegt die Tür erneut auf. Zwei Polizisten betreten die Kirche, Poliisi steht auf ihren Unformen.
 Die Szene, die sie sehen, scheint ihnen eindeutig genug zu sein.
-
 Maria spricht den ersten Polizisten an – einen älteren Mann. Er versucht sie zu beruhigen.
-
 Seine Kollegin, eine junge Frau, zieht ihre Dienstwaffe.
-
 Der ältere Polizist, vermutlich ihr Vorgesetzter, ruft jetzt auf Finnisch etwas zu Mielke und seinen Männern.
 
 Der Kerl, der mich festgehalten hat, lässt mich los.
@@ -204,7 +195,7 @@ Die Männer meinen, du gehörst zu ihnen. Sie könnten das auch beweisen.“
 „Bitte sag der Polizei, ich gehöre nicht zu denen.
 Sie wollen mich ins Gefängnis stecken – in der DDR.“
 
-Der Mann, der Finnisch spricht, holt einen Ausweis aus seiner Jacke und zeigt ihn den Polizisten.
+Der Mann, der Finnisch spricht, holt einen Ausweis aus seiner Jacke und zeigt ihn dem Polizisten.
 Der scheint wenig beeindruckt.
 
 Aus den Worten lese ich so etwas wie *diplomatische Immunität*.
@@ -214,17 +205,11 @@ Wie konnten sie so schnell hier sein?
 
 Der Polizist wiederholt weiterhin diesen einen Satz, der vermutlich heißt: *Wir gehen alle auf die Wache.*
 
-Das bedeutet, dass ich noch etwas Zeit gewonnen habe.
+Habe ich jetzt etwas Zeit gewonnen?
 
 ---
 
-Allmählich beruhigt sich die Lage.
-Die drei Männer scheinen die Forderung des Polizisten zu akzeptieren.
-
-Die junge Polizistin steckt ihre Waffe weg.
-Dann kommt sie auf mich zu.
-
-Ein besorgtes Lächeln.
+Allmählich beruhigt sich die Lage. Die drei Männer scheinen die Forderung des Polizisten zu akzeptieren. Die junge Polizistin steckt ihre Waffe weg. Dann kommt sie auf mich zu. Ein besorgtes Lächeln.
 
 „What’s your name?“
 
@@ -237,22 +222,14 @@ Ein besorgtes Lächeln.
 „Jetzt sind wir ja da. Wir gehen jetzt auf die Wache, und dann klären wir die Sache.“
 
 Sie nimmt mich an die Hand. Und mit der anderen Hand greife ich nach Maria.
-
 So verlassen wir die Kirche: ich, Hand in Hand wie ein kleines Kind zwischen den beiden Frauen, heulend, schluchzend, zitternd.
-
 Im Vorbeigehen schnappt sich die Polizistin meine Tasche vom Boden, die ich total vergessen habe.
-
 Die vier Männer folgen uns, wild diskutierend.
-
 Die Wache ist nur zwei Blocks von der Kirche entfernt.
-
 Das ungewöhnliche Geläut und das Geschrei haben die Polizisten wohl auf uns aufmerksam gemacht.
-
 Zum Glück ist Marias Plan aufgegangen.
 Wäre die Polizei nicht rechtzeitig erschienen, hätten sie mich wohl aus der Kirche rausgeschliffen.
-
 Ich glaube, Mielke hat das Wort *Kirchenasyl* noch nie gehört.
 
 Doch bin ich jetzt sicher?
-
 Für Spieltheorie habe ich jetzt nicht die Nerven.

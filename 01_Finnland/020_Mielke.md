@@ -28,16 +28,16 @@
 }
 ```
 
-Als ich Kosmol in Berlin zum ersten Mal sah, dachte ich sofort: Mielke! Erich Mielke, der Chef der DDR-Staatssicherheit. So erschien er mir.
+Als ich Kosmol in Berlin zum ersten Mal sah, schoss mir sofort durch den Kopf: Mielke! Ja, genau der. Erich Mielke, der Ober-Stasi-Heini. So kam der Typ rüber.
 
-Nicht, dass ich damals gewusst hätte, dass er überhaupt mitkommt - geschweige denn, welche Rolle er auf dieser Fahrt spielen würde. Ich meine, wer rechnet schon damit, dass plötzlich ein lebender Albtraum auftaucht?
+Ich hatte ja null Ahnung, dass der überhaupt mitfährt. Echt jetzt – wie auch? Wer rechnet denn damit, dass plötzlich dein Albtraum in Menschengestalt im Bus sitzt?
 
-Es lag nicht an seiner Größe. Der echte Mielke war ja kaum einssechzig, und Kosmol... naja, sagen wir, er wirkte wie ein Mann, der jeden Moment beschließen könnte, jemanden zu verhaften.
+Es lag nicht mal an seiner Größe. Der echte Mielke war ja eher klein, kaum einssechzig. Kosmol war größer, klar, aber das war’s nicht. Der hatte diese Ausstrahlung… so, als würde er jeden Moment „Du da! Mitkommen!“ brüllen und dich einkassieren.
 
-Und diese Augen! Kleine, tief liegende Schweinsaugen. Augen, bei denen man sofort weiß: Wenn die lachen dann nur, weil jemand anderes gerade weint. Ich habe mich fast gefragt, ob sie überhaupt blinzeln -- oder ob sie das nur spielen, um uns zu täuschen.
+Und dann diese Augen! Mini-Schweinsaugen, tief drin im Schädel. So Augen, die nur lachen, wenn jemand anderes gerade heult. Ich hab mich echt gefragt, ob die überhaupt blinzeln oder ob er das nur macht, um uns zu verarschen.
 
-Dann dieser Mund. Schmal. Und die Mundwinkel -- als ob sie immer beleidigt wären, selbst beim Lachen. Ach ja, und seine Witze: primitiv, unpassend, aber wahrscheinlich genau so gemeint. Ich habe versucht, sie zu ignorieren. Hat nicht funktioniert.
+Sein Mund war auch so’n Kapitel. Schmal, die Mundwinkel immer nach unten. Selbst wenn er grinst, sieht’s beleidigt aus. Und seine „Witze“… boah, richtig unterirdisch. Ich hab versucht, die zu überhören. Keine Chance.
 
-Er ist jünger als der echte Mielke, vermutlich frisch aus irgendeiner militärischen Kaderschmiede. Unteroffizierslaufbahn, klar. DDR-Bonzen sind wie Fertigprodukte: einheitlich und zuverlässig einschüchternd. Als Mädchen blieb mir immerhin dieser kleine Vorteil, nicht zur NVA, also nicht zum Wehrdienst der DDR eingezogen zu werden. Wäre ich ein Junge gewesen, hätte ich mir spätestens jetzt gesagt: „Renn, so weit dich deine Beine tragen!"
+Kosmol ist eindeutig jünger als der echte Mielke. Frisch aus ’ner Kaderschmiede. Unteroffizierslaufbahn, hundertpro. Diese Bonzen-Typen sind doch wie aus’m Kaugummiautomaten: alle gleich, alle fies. Wenigstens musste ich als Mädchen nicht zur NVA. Wäre ich ein Junge gewesen, hätte ich mir spätestens da gesagt: „Alter, renn! Renn, bis die Socken qualmen!“
 
-Feingeister leiden unter Typen wie Kosmol am meisten. Ich habe also genug Gründe, ihn von Anfang an Mielke zu nennen. Hier, in Finnland, habe ich sogar gehört, wie ein paar Schüler ihn hinter vorgehaltener Hand ebenfalls so nennen. Das finde ich lustig, denn ich habe den Namen niemals vor anderen benutzt. Aber vermutlich ist die Ähnlichkeit einfach zu offensichtlich.
+Am meisten leiden die Leute, die ein mehr bisschen Herz und ein bisschen mehr Hirn haben, als der Rest. So welche wie ich. Kein Wunder, dass ich ihn sofort Mielke getauft hab. Und witzigerweise – hier in Finnland hab ich ein paar Schüler gehört, die flüstern den Namen auch schon. Ich hab den nie laut gesagt! Aber die Ähnlichkeit ist einfach zu krass.

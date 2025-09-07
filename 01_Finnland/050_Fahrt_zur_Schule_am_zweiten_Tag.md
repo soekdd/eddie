@@ -24,7 +24,8 @@
             "rating":".....",
             "comments":""
         }
-    }
+    },
+    "todo:":"Tasche stategisch packen."
 }
 ```
 
@@ -34,7 +35,9 @@ Gruppe sind wir wieder einmal viel zu früh da. Der Busfahrer öffnet
 freundlich die Türen für uns.
 
 „Lasst uns einsteigen und die letzte Sitzbank besetzen!“, ruft einer der
-Jungs. Heute ist auch Herr Fischer dabei. Er darf mit uns nicht über die
+Jungs. Heute ist auch Herr Fischer wieder dabei. Er ist unser Mathebetreuer,
+hat uns schon in Berlin traniert. Die letzten Tage hatte er zusammen mit den Betreuern der anderen Nation die Köpfe zusammengesteckt und sich die Aufgaben für die zwei Wettkampftage ausgedacht. Er ist korrekt, ich mag in. Hat nur Mathe im Kopf, politik ist ihm egal.
+Er darf mit uns natürlich nicht über die
 Aufgaben sprechen. Ein Junge aus unserer Gruppe behauptet, er hätte das
 Gerücht gehört, die Aufgaben des zweiten Tages würden sich um
 unterbestimmte Gleichungssysteme drehen. Aufgaben dieser Art kommen oft
@@ -113,7 +116,7 @@ dicht halten?
 Die kurze Fahrt endet vor der Schule. Beim Aussteigen gehen wir Schüler
 durch die Gruppe der Betreuer. Herr Fischer, sichtbar aufgewühlt, meidet
 aber meinen Blick konsequent. Auch Mielke hat wieder ein Auge auf uns.
-Jetzt bloß nicht auffällig wirken. Sei Edmila, die Frohnatur.
+Jetzt bloß nicht auffällig wirken. Sei Edmilla, die Frohnatur.
 
 „Edda!“, ruft Mielke plötzlich. Ich fahre erschrocken herum.
 
