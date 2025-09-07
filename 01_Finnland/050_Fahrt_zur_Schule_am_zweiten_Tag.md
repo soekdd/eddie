@@ -1,4 +1,4 @@
-# Fahrt zur Schule am zweiten Tag
+# Der Matheblock
 
 ```json
 {
@@ -9,123 +9,68 @@
     "synopsis": "Im Bus nach Joutsa schreibt Herr Fischer in Eddies Block, entdeckt dabei ihre versteckten Dokumente, verrät sie aber nicht.",
     "mood": "tense relief",
     "tense": "present, Eddies first-person perspective",
-    "mode": "mainline",   // flashback | mainline
+    "mode": "mainline",
     "illustrations": ["FIN_Joutsa_Fluchtblock.png"],
     "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+        "anni": { "rating":".....", "comments":"" },
+        "lucia": { "rating":".....", "comments":"" },
+        "soek": { "rating":".....", "comments":"" }
     },
-    "todo:":"Tasche stategisch packen."
+    "todo":"Tasche stategisch packen."
 }
 ```
 
-Wieder steht der schicke Volvo-Reisebus vor dem Tor von Joutsenlampi. Es
-ist nur eine Viertelstunde Fahrt nach Joutsa. Als die disziplinierteste
-Gruppe sind wir wieder einmal viel zu früh da. Der Busfahrer öffnet
-freundlich die Türen für uns.
+Wieder steht dieser schicke Volvo-Bus vor’m Tor von Joutsenlampi. Bis Joutsa sind’s nur fünfzehn Minuten. Und klar, wir – die ostdeutsche Vorzeigetruppe – sind natürlich wieder viel zu früh da.\
+Der Fahrer klappt freundlich die Türen auf, als wär er unser Chauffeur.
 
-„Lasst uns einsteigen und die letzte Sitzbank besetzen!“, ruft einer der
-Jungs. Heute ist auch Herr Fischer wieder dabei. Er ist unser Mathebetreuer,
-hat uns schon in Berlin traniert. Die letzten Tage hatte er zusammen mit den Betreuern der anderen Nation die Köpfe zusammengesteckt und sich die Aufgaben für die zwei Wettkampftage ausgedacht. Er ist korrekt, ich mag in. Hat nur Mathe im Kopf, politik ist ihm egal.
-Er darf mit uns natürlich nicht über die
-Aufgaben sprechen. Ein Junge aus unserer Gruppe behauptet, er hätte das
-Gerücht gehört, die Aufgaben des zweiten Tages würden sich um
-unterbestimmte Gleichungssysteme drehen. Aufgaben dieser Art kommen oft
-in der Matheolympiade dran. Ein Bauer hat X Mark, eine Kuh kostet A
-Mark, ein Schwein kostet B Mark. Nenne alle Kombinationen aus Kühen und
-Schweinen, die der Bauer kaufen kann, sodass sein Geld genau aufgeht.
+„Hinten, letzte Reihe!“, brüllt einer der Jungs. Typisch.\
+Heute ist auch Herr Fischer wieder dabei. Unser Mathebetreuer. Der hat uns schon in Berlin gequält. Die letzten Tage hing er mit den anderen Betreuern rum und hat an den Aufgaben für den Wettkampf rumgeschraubt. Total korrekt, der Mann, Politik juckt ihn null. In seinem Kopf existiert nur Mathe.
 
-Ich persönlich glaube nicht, dass es so eine einfache Aufgabe geben wird.
-Die Lösungsmethode nennt man lineare diophantische Gleichung – eher was
-für die 7. oder 8. Klasse. Eigentlich ist mir das ganze Thema vollkommen
-egal, da ich mich – ob meiner Aufregung – ohnehin auf nichts
-konzentrieren kann und fahrig und abwesend wirke.
+Natürlich darf er uns nichts verraten. Aber einer aus unserer Gruppe tuschelt, er hätte gehört, morgen gäb’s Aufgaben zu unterbestimmten Gleichungssystemen. Diese Bauern-mit-Kühen-und-Schweinen-Dinger. Also nochmal langsam: Ein Bauer hat X Mark, eine Kuh kostet A Mark, ein Schwein kostet B Mark. Nenne alle Kombinationen aus Kühen und Schweinen, die der Bauer kaufen kann, sodass sein Geld genau aufgeht. Typische Aufgabe in der Matheolly.
 
-„Ihr wisst, ich darf euch sowieso nicht sagen, was drankommt“, erklärt
-Herr Fischer. „Aber weiß jeder, wie man das löst?“
+Ich rolle innerlich die Augen. Glaube ich nie. Viel zu easy. Das ist Stoff für die Kleinen. Lösungsmethode heißt „lineare diophantische Gleichung“. Klar. Aber eigentlich ist mir das alles gerade völlig Banane – ich kann eh nicht klar denken. Bin nervös bis in die Zehenspitzen.
 
-„Ist billig“, sage ich, „diophantische Gleichung!“ Das kam jetzt ziemlich
-überheblich von mir rüber. Meine Anspannung sorgt dafür, dass ich mich
-irgendwie von außen beobachte und verwundert meinen eigenen Worten
-lausche. Einige in der Gruppe schauen irritiert.
+„Ihr wisst, ich darf nix sagen, was wirklich drankommt“, erklärt Fischer. „Aber jeder weiß, wie man so was löst?“
 
-„Richtig, Eddie, aber wissen es auch alle anderen?“ Ein Maulen geht durch
-die Gruppe. „Also, los, etwas Zeit ist ja noch.“ Zu meinem Schreck greift
-er ungefragt in meine offene Tasche nach meinem präparierten Block und
-sucht sich eine leere Seite. Mein Block, in dem ich alle meine wichtigen
-Unterlagen verstecke! Ich erstarre förmlich. Er merkt nichts von meinem
-Schock und legt eifrig los.
+„Ist doch billig“, platzt es aus mir raus. „Diophantische Gleichung!“\
+Uff. Kam richtig eingebildet. Ich höre mich selber wie von draußen reden und denk: Mädchen, halt die Klappe! Die anderen gucken irritiert.
 
-> **&#x27A1; Die diophantische Gleichung...**
->
-> Fischers Ausführugen findest Du im Kapitel 1 von „Eddie rechnet“.
+„Richtig, Eddie. Aber wissen es auch die anderen?“ Ein paar stöhnen.\
+Und dann – Horror – greift er einfach in meine Tasche. Zieht meinen Block raus. Meinen Block! Den, in dem ich alles versteckt habe. Urkunden, Zeugnisse, mein ganzes Leben!\
+Mir bleibt das Herz stehen.
 
-:::info
-Dies ist eine Infobox.
-:::
+Er checkt nix, klappt den Block einfach auf und fängt an, eifrig drauflos zu kritzeln.
 
-Mittlerweile ist der Bus losgefahren. Es gibt ein bisschen Diskussion in
-der Gruppe, aber im Grunde haben es nun alle kapiert. Ich habe allerdings
-ohnehin nicht zugehört, nicht nur weil ich den Diophantos schon kannte,
-sondern weil ich immer noch erstarrt bin, worauf Herr Fischer da schreibt.
+> **➡ Die diophantische Gleichung...**\
+> (Fischers Gekritzel findest du im Kapitel 1 von „Eddie rechnet“.)
 
-Während sich die meisten Schüler schon über etwas anderes unterhalten,
-sehe ich, wie sich Herr Fischers Miene verdunkelt und er den Block
-fragend leicht hin und her wendet. Es scheint ihm aufzufallen, dass mit
-meinem Block etwas nicht stimmt. Wenn er meine Geburtsurkunde oder meine
-Zeugnisse findet, wird er sich schnell zusammenreimen können, was ich
-vorhabe. Er fährt mit der Hand langsam an der Seite des Blocks entlang,
-knickt eine Ecke leicht an und lässt die Seiten unter dem Daumen
-schnipsen. Das Geräusch verrät mich. Einige Seiten sind dicker als andere.
-Er schaut mich fragend an und blickt in mein Gesicht, das vermutlich so
-erschrocken schaut wie ein Kaninchen vor der Schlange. Er wiederholt die
-Bewegung und bleibt bei einer der dickeren Seiten stehen. Es ist zufällig
-gerade die Seite, auf der er soeben seine Herleitung geschrieben hat. Er
-hebt die Ecke etwas weiter an. Das Siegel des Standesamtes kommt von der
-Rückseite des Blattes zum Vorschein. Seine Augen weiten sich, er wird
-sichtbar blass. Keiner aus meiner Gruppe hat diese stille Geste
-wahrgenommen. Zügig, aber ohne übertriebene Hast, deckt Herr Fischer das
-Blatt wieder ab und schließt den Block.
+Der Bus rollt los. Die anderen diskutieren ein bisschen, bis sie’s endlich kapieren. Ich? Hör natürlich nicht zu. Mein Kopf hängt nur am Block. Mein Block!
 
-Sein Blick wandert demonstrativ aus dem Fenster, während er mir den Block
-scheinbar beiläufig reicht. Dann schweigt er eine Weile und sagt, während
-er immer noch aus dem Fenster schaut, als spreche er ins Off: „Die
-diophantische Gleichung, Eddie, ist oft sehr viel schwieriger umzusetzen,
-als es auf den ersten Blick aussieht. Überschätze dich nicht!“ Dann steht
-er auf und wankt im fahrenden Bus nach vorn zur Gruppe der Betreuer.
+Fischer kritzelt, plötzlich stockt er. Sein Blick wird dunkel. Er kippt den Block hin und her.\
+Oh nein. Er merkt was.\
+Er fährt mit den Fingern am Rand entlang, knickt ’ne Ecke, lässt die Seiten schnipsen. Dieses Geräusch – ich hör’s wie einen Schuss. Manche Seiten sind dicker. Zu dick. Er schaut mich an. Ich muss aussehen wie ein Kaninchen vor der Schlange.
 
-Wird er mich jetzt verraten? Meine Angst lähmt mich, mein Magen fühlt
-sich an wie ein tiefes, schweres Loch. Ich kann Mielke niemals glaubwürdig
-erklären, warum ich wichtige Unterlagen in meinem Block verstecke. Wenn
-Fischer mich verrät, ist alles aus.
+Noch mal schnipsen. Und er bleibt hängen. Genau auf der Seite, auf der er gerade geschrieben hat. Er hebt die Ecke an. Mist. Das Siegel vom Standesamt blitzt auf der Rückseite. Seine Augen werden groß. Er wird blass. Niemand außer mir sieht das.
 
-Ich beobachte jede seiner Bewegungen. Bislang sucht er nur die
-Gesellschaft der anderen Betreuer, aber nicht deren Gespräch. Wird er
-dicht halten?
+Dann, ganz ruhig, deckt er die Ecke ab, klappt den Block zu.\
+Reicht ihn mir zurück, so beiläufig, als wär nix. Schaut demonstrativ zum Fenster raus.\
+Und sagt nach einer Weile, immer noch nach draußen:\
+„Die diophantische Gleichung, Eddie, ist oft viel schwerer umzusetzen, als man denkt. Überschätz dich nicht.“\
+Dann steht er auf, schwankt nach vorne zu den anderen Betreuern.
 
-Die kurze Fahrt endet vor der Schule. Beim Aussteigen gehen wir Schüler
-durch die Gruppe der Betreuer. Herr Fischer, sichtbar aufgewühlt, meidet
-aber meinen Blick konsequent. Auch Mielke hat wieder ein Auge auf uns.
-Jetzt bloß nicht auffällig wirken. Sei Edmilla, die Frohnatur.
+Ich sitze da, Herz bis zum Hals. Verrät er mich? Wenn ja, bin ich geliefert. Mielke glaubt mir nie, dass ich so wichtige Unterlagen im Block aus Spaß spazieren trage.
 
-„Edda!“, ruft Mielke plötzlich. Ich fahre erschrocken herum.
+Ich beobachte jede seiner Bewegungen. Aber er redet nicht. Hält sich raus. Hält dicht?
 
-„Ich hoffe, du bist heute so erfolgreich wie gestern beim Poker!“, ruft
-er mit einem breiten Grinsen.
+Die Fahrt ist schon vorbei. Vor der Schule steigen wir aus. Wir Schüler müssen an den Betreuern vorbei.\
+Fischer meidet meinen Blick. Ganz bewusst.\
+Und da steht er auch wieder – Mielke. Sein Blick klebt an uns. Ich muss normal wirken. Ganz Edmila, die Spaßkanone.
 
-Ich versuche ein Lächeln. Mein Blick geht an Mielke vorbei zu Herrn
-Fischer, der hinter ihm steht und mich traurig ansieht. Ich drehe mich
-schnell um und schließe zu den anderen in meiner Gruppe auf. Wenn er mich
-bislang nicht verraten hat, wird er es auch jetzt nicht mehr tun. Ohne
-dass ich das gewollt habe, habe ich einen Mitwisser und Mitverschwörer
-gefunden. Das hätte auch ordentlich schiefgehen können.
+„Edda!“ brüllt Mielke plötzlich. Ich zucke zusammen.
+
+„Na, ich hoffe, du bist heute so erfolgreich wie gestern beim Poker!“ Sein Grinsen frisst mein Nervenkostüm.
+
+Ich zwinge ein Lächeln. Mein Blick huscht an ihm vorbei, direkt zu  Fischer, der hinter ihm steht und mich traurig ansieht. Ich reiße mich los, renne quasi in die Gruppe.\
+Wenn er mich bisher nicht verraten hat, tut er’s jetzt auch nicht mehr.\
+Unfreiwillig hab ich einen Mitwisser. Einen Mitverschwörer.\
+Das hätte auch ganz anders enden können.

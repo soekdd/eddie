@@ -37,15 +37,15 @@ Ich zog die Augenbrauen hoch. Okay, erwischt. Das hatte mir schon genug Ärger e
 
 „Außerdem musst du an die ersten Minuten deiner Flucht denken“, fuhr er fort. „Wenn sie dich sofort verdächtigen, verlierst du kostbare Zeit. Es ist wichtig, dass sie denken: ‚Ach, die kommt eh wieder zu spät.‘ Sie sollen glauben, du bist immer unpünktlich.“
 
-„Aber… du bist doch sonst stolz drauf, dass ich immer pünktlich bin!“, protestierte ich.
+„Ja, kapiert! Ich war echt stolz auf meine Pünktllichkeit!“, protestierte ich.
 
-„Nicht in diesem Fall. Stell dir vor, sie sehen dich zu spät kommen – und dann noch mit zu viel Gepäck. Verdächtig, oder?“
+„Und dann bedenke, Du wirst an dem Tag viel zu viel Gepäck haben. Verdächtig, oder?“
 
-„Hm, stimmt schon…“, murmelte ich. Aber zu viel Gepäck war sowieso mein Ding. Damit konnte ich leben.
+„Hm, stimmt schon…“, murmelte ich.
 
-„Aber nur, wenn sie denken: ‚Ach, Eddie hat doch immer so viel Zeug dabei.‘ Du musst das über Monate, vielleicht Jahre aufbauen. Dass sie irgendwann nur noch stöhnen: ‚Ach Eddie, was hast du diesmal wieder eingepackt?‘ Dann wundert’s keinen mehr.“
+„Aber nicht, wenn sie denken: ‚Ach, Eddie hat doch immer so viel Zeug dabei.‘ Du musst das über Monate, vielleicht Jahre aufbauen. Dass sie irgendwann nur noch stöhnen: ‚Ach Eddie, was hast du diesmal wieder eingepackt?‘ Dann wundert’s keinen mehr.“
 
-Ich seufzte. Klasse. Jahrelang üben, jemand zu sein, der ich nicht bin. Aber gut, irgendwie machbar.
+Ich seufzte. Klasse. Jahrelang üben, jemand zu sein, der ich nicht bin. Aber gut, zu viel Gepäck war sowieso mein Ding. Damit konnte ich leben.
 
 „Und die Verkleidung?“, fragte ich vorsichtig.
 
@@ -87,7 +87,7 @@ Zum Glück kein Problem.
 
 „Eben. So schwer ist das nicht. Du musst nur wiederholen, was sie hören wollen.“
 
-Ich biss mir auf die Lippe. Einfach klang das nicht. Mein Russisch… nennen wir es freundlich: experimentell.
+Ich biss mir auf die Lippe. Einfach klang das nicht. Mein Russisch war… gelinde gesagt, unterirdisch.
 
 „Und Russisch?“, fragte ich vorsichtig.
 
@@ -97,9 +97,7 @@ Ich biss mir auf die Lippe. Einfach klang das nicht. Mein Russisch… nennen wir
 
 „Nein, wie ein sowjetisches. Fang gleich an, das richtig zu sagen. ‚Russisch‘ nur für die Sprache. Sonst: ‚sowjetisch‘.“
 
-„Sowjetisch“, wiederholte ich brav.
-
-„Я Эдмила, красивая типичная советская девочка. Ich bin Edmilla, ein hübsches, typisch sowjetisches Mädchen. Schlank, in Kleidchen, mit albernen Spangen und Bändern im Haar, notorisch unpünktlich, immer mit riesiger Tasche. Politisch zuverlässig.... ...und trage schwarze Schuhe!“
+„Sowjetisch“, wiederholte ich brav. „Я Эдмила, красивая типичная советская девочка. Ich bin Edmilla, ein hübsches, typisch sowjetisches Mädchen. Schlank, im Kleidchen, mit albernen Spangen und Bändern im Haar, notorisch unpünktlich, immer mit riesiger Tasche. Politisch aber zuverlässig.... ...und trage schwarze Schuhe!“
 
 „Was? Wieso?“
 
