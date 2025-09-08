@@ -92,7 +92,8 @@ nicke. „Ja, ich komme."
 
 Er atmet auf, wirkt erleichtert, fast dankbar. „Danke. Sie werden es
 nicht bereuen. Am Flughafen wartet schon ein Wagen auf uns. In zwei Stunden
-sind wir dann in Paderborn, Cornelia freut sich schon auf Sie"
+sind wir dann in Paderborn, Cornelia freut sich schon auf Sie. In NRW 
+haben heute die Osterferien begonnen - 3 Wochen!"
 
 Mein Herz schlägt nun nicht mehr so hart. Vor mir liegt kein Nebel mehr,
 sondern ein Weg. Und ich beginne, mich in meine Zukunft hineinzuträumen.
