@@ -44,7 +44,7 @@ tief durch, versuche die Enge in meiner Brust loszuwerden.
 
 Da steht ein Mann in seiner Reihe auf. Er trägt einen
 schmal geschnittenen Anzug, das Haar zurückgekämmt, wirkt wie einer, der
-gewohnt ist, in Sitzungen zu reden. Er kommt zu mir, bleibt neben meinem
+gewohnt ist, in Sit‚zungen zu reden. Er kommt zu mir, bleibt neben meinem
 Platz stehen, lächelt, als hätte er mich schon lange erwartet.
 
 „Entschuldigen Sie... ich kenne Sie doch."
@@ -57,7 +57,7 @@ Doch dann sagt er: „Ich kenne Sie von den Schilderungen meiner Tochter.
 Cornelia."
 
 Es dauert einen Moment, bis der Groschen fällt. Cornelia? Ach Conny. Das
-Mädchen mit der Gitarre, mit den schnellen Fingern und dem breiten
+Mädchen mit der Gitarre, den schnellen Fingern und dem breiten
 Grinsen.
 
 „Sie sind ihr Vater?" frage ich ungläubig.
@@ -88,11 +88,11 @@ werden gehandelt. Doch mein Wert scheint hoch zu sein. Sehr hoch.
 
 Ich lasse ihn nicht zappeln. Ich denke an Conny, an Sabine, an Matti und
 Peter -- vier Freunde, die schon in Paderborn auf mich warten. Ich
-nicke. „Ja, ich komme."
+nicke. „Ja, ich komme sehr gern!"
 
 Er atmet auf, wirkt erleichtert, fast dankbar. „Danke. Sie werden es
 nicht bereuen. Am Flughafen wartet schon ein Wagen auf uns. In zwei Stunden
-sind wir dann in Paderborn, Cornelia freut sich schon auf Sie. In NRW 
+sind wir dann in Paderborn, Cornelia freut sich schon auf Sie. In NRW
 haben heute die Osterferien begonnen - 3 Wochen!"
 
 Mein Herz schlägt nun nicht mehr so hart. Vor mir liegt kein Nebel mehr,
@@ -107,13 +107,14 @@ Er wirkt erstaunt. „Man braucht eine Kreditkarte."
 
 „Oh."
 
-„Willst du telefonieren? So dringend, dass es nicht bis Bonn warten
+„Wollen Sie telefonieren? So dringend, dass es nicht bis Bonn warten
 kann?"
 
-Ich schaue auf die Uhr. 17:30, das passt genau. „Ja," sage ich. „Furchtbar dringend."
+Ich schaue auf die Uhr. 17:25, das passt genau. „Ja," sage ich. „Furchtbar 
+dringend."
 
-Er zückt wortlos seine Karte, steckt sie in den Schlitz, zeigt mir die
+Er zückt wortlos seine Karte, zieht sie durch den Schlitz, zeigt mir die
 Tasten. Ich wähle die Nummer, die ich längst auswendig kann. Jede Ziffer
 brennt in meinen Fingerspitzen.
 
-Das Freizeichen rauscht in mein Ohr.
+Das Klingelzeichen rauscht in meinem Ohr.

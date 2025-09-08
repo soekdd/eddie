@@ -20,7 +20,7 @@
             "rating":".....",
             "comments":""
         },
-        "soek": {
+        "soek": {‚
             "rating":".....",
             "comments":""
         }
@@ -31,11 +31,11 @@
 Edmilla wird sterben.
 
 Morgen, nach dem Wettkampf. Punkt. Kein Drumrum. Ich hab’s so geplant.
-Entweder sie wird geschnappt oder sie schafft es in die Freiheit. So oder so, ich werde sie endlich abstreifen wie ’ne alte Haut. Und das ist meine einzige Gewissheit die ich heute habe: Edmilla wird morgen schon weg sein.
+Entweder sie wird geschnappt oder sie schafft es in die Freiheit. So oder so, ich werde sie endlich abstreifen wie ’ne alte Haut. Und das ist meine einzige Gewissheit die ich heute habe: Edmilla wird morgen Mittag für immer verschwunden sein.
 
 Die Luft steht wie Beton. Warm, schwer, klebt an mir, als hätte die Hitze des Tages ihre Zähne in die Holzwände vom Bungalow geschlagen und weigert sich loszulassen. Ich lieg auf’m Bett, die Decke längst weggestrampelt, T-Shirt nassgeschwitzt. Neben mir atmen die Mädels gleichmäßig, ein Seufzer hier, ein Rascheln da. Als wär Schlafen das Einfachste der Welt.
 
-Bei mir? Fehlanzeige. Ich dreh mich von links nach rechts, wieder zurück. Kissen zu heiß, Laken nervt, Kopf noch schlimmer. Immer wieder Augen auf, ins Halbdunkel starren, das kein richtiges Dunkel ist. Durch die ollen Gardinen sickert dieses irre Licht der Mittsommernacht. Keine Nacht, kein Tag – nur so’n fieses Zwielicht, das mich auslacht: Haha, Eddie, nix Schlaf für dich!
+Bei mir? Fehlanzeige. Ich dreh mich von links nach rechts, wieder zurück. Kissen zu heiß, Laken nervt, Kopf noch schlimmer. Immer wieder Augen auf, ins Halbdunkel starren, das kein richtiges Dunkel ist. Durch die ollen Gardinen sickert dieses irre Licht der Mittsommernacht. Keine Nacht, kein Tag – nur so’n fieses Zwielicht, das mich auslacht: Haha, Eddie, nix Schlaf für dich! Dabei wäre es gerade heute Nacht so wichtig.
 
 Das Holz knackt. Wind? Hitze? Keine Ahnung. Ein Insekt tackert gegen die Scheibe. Dann wieder nur das gleichmäßige Atmen ringsum. Ich beneide sie alle. Einfach wegdriften, ohne Herzrasen, ohne Kopfkino. Mein Herz dagegen hämmert, als ob es mir sagt: Stillliegen? Träum weiter!
 
