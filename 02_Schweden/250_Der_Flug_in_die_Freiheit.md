@@ -27,6 +27,7 @@
     }
 }
 ```
+Ein netter Steward führt mich am meinen Platz, höflich, aber bestimmt, als draußen die schwarzen Limousinen direkt bis an die Treppe rollen. Türen klappen, Männer in dunklen Anzügen steigen aus, alles wirkt wie eine Filmszene. Wenig später verschwinden Kohl und seine Minister durch den Vorhang in den abgetrennten Bereich, als wären sie gleich in einer anderen Welt. Überall bleiben die breiten Personenschützer zurück, die mit unbewegten Gesichtern wachen. Gegenüber an der Wand entdecke ich ein Telefon – mitten im Flugzeug! Ich kann den Blick kaum abwenden, so unwirklich kommt mir das vor. Alles an diesem Flug hat eine Gediegenheit, nicht vergleichbar mit der Leichtigkeit der Finnair Maschine.
 
 Ich schließe die Augen und lege die Hand an die dünne Wand des Fensters.
 Unter mir, irgendwo im Frachtraum, liegt Streuner in seiner Box. Er wird sich
@@ -44,13 +45,13 @@ tief durch, versuche die Enge in meiner Brust loszuwerden.
 
 Da steht ein Mann in seiner Reihe auf. Er trägt einen
 schmal geschnittenen Anzug, das Haar zurückgekämmt, wirkt wie einer, der
-gewohnt ist, in Sit‚zungen zu reden. Er kommt zu mir, bleibt neben meinem
+gewohnt ist, in Sitzungen zu reden. Er kommt zu mir, bleibt neben meinem
 Platz stehen, lächelt, als hätte er mich schon lange erwartet.
 
 „Entschuldigen Sie... ich kenne Sie doch."
 
 Ich seufze innerlich. Klar kennt man mich, das Mädchen mit Hundebox, die
-Fremde im Regierungsflieger. Ich bin der bunte Hund, der aus der Reihe
+Ostdeutsche im Regierungsflieger. Ich bin der bunte Hund, der aus der Reihe
 fällt.
 
 Doch dann sagt er: „Ich kenne Sie von den Schilderungen meiner Tochter.
@@ -100,8 +101,8 @@ sondern ein Weg. Und ich beginne, mich in meine Zukunft hineinzuträumen.
 
 Er richtet sich auf, wünscht mir noch einen guten Flug und "bis dann gleich",
 will gerade an seinen Platz zwischen den grauen Anzügen gehen, da halte
-ich ihn zurück. „Eine Frage noch. Diese Telefone hier im Flugzeug...
-wie funktionieren die?"
+ich ihn zurück. „Eine Frage noch. Dieses Telefon hier im Flugzeug...
+wie funktionieren das?"
 
 Er wirkt erstaunt. „Man braucht eine Kreditkarte."
 
