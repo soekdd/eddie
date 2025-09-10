@@ -30,7 +30,7 @@
 
 Der Andreas-Schubert-Bau am Zelleschen Weg. Ein grauer Kasten, noch nicht alt, aber schon mit diesem spröden Betoncharme, der die Flure kälter wirken lässt als nötig. Neonlicht brummt über leeren Schreibtischen, die meisten Kollegen sind längst nach Hause gegangen. Nur mein Vater sitzt noch da, über Pläne gebeugt, mit der stummen Hartnäckigkeit eines Mannes, der glaubt, vier verlorene Monate nacharbeiten zu müssen. Vier Monate Untersuchungshaft – und doch wieder hier, im Institut, mit gebeugtem Rücken, die Augen gerötet, aber unbeirrbar am Arbeiten.
 
-Die Gänge sind still, fast gespenstisch, die meisten Mitarbeiter sind schon nach Hause gegangen. Da klapper‚n Schritte, schneller, energischer. Die Tür fliegt auf, und sein Chef rauscht hinein, strahlend wie immer, die Krawatte ein bisschen schief, aber das Lächeln groß und selbstzufrieden. Er tritt an den Tisch, beugt sich über die Papiere meines Vaters und sagt mit dieser lauten, verschwörerischen Stimme, so als sollte es jeder im Haus hören:
+Die Gänge sind still, fast gespenstisch um diese Zeit. Da klappern Schritte, schneller, energischer. Die Tür fliegt auf und sein Chef rauscht hinein, strahlend wie immer, die Krawatte ein bisschen schief, aber das Lächeln groß und selbstzufrieden. Er tritt an den Tisch, beugt sich über die Papiere meines Vaters und sagt mit dieser lauten, verschwörerischen Stimme, so als sollte es jeder im Haus hören:
 
 „Stell Dir vor! Das Pariser Institut hat entschieden: Die
 Preisverleihung findet nun tatsächlich statt!"
@@ -45,7 +45,7 @@ Sein Chef ist verwirrt, gerührt, vielleicht ein bisschen beschämt.
 „Aber... das nimmst Du Dir ja sehr zu Herzen, mein Lieber..."
 
 Doch mein Vater hört ihn gar nicht mehr. Er springt auf, stößt fast den
-Stuhl um, und rennt. Ja, er rennt -- durch die langen Gänge der Gebäudes,
+Stuhl um und rennt. Ja, er rennt -- durch die langen Gänge der Gebäudes,
 hinaus auf die große vierspurige Straße. Seine Aktentasche schlägt gegen
 sein Bein, er stolpert fast, aber er hält nicht an.
 
