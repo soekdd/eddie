@@ -85,36 +85,4 @@ Ich spüre, wie die Müdigkeit wie eine schwere Decke auf mich fällt. Raija ste
 
 Ich murmele noch ein Dankeschön, rolle mich ein – und schon bin ich weg. Ohne Träume, ohne Gedanken. Nur Schlaf, tiefer, rettender Schlaf.
 
----
-
-Als ich die Augen aufschlage, ist es noch dämmrig im Wohnzimmer. Die Uhr an der Wand zeigt kurz nach sieben. Mein Körper fühlt sich schwer an, aber mein Kopf ist sofort hellwach.
-
-Stimmen dringen gedämpft aus der Küche – Raija und Markku. Ich verstehe kein einziges Wort, nur den Tonfall. Erst leise, fast zischend, dann schärfer, ungeduldiger. Ein Stuhl wird geräuschvoll zurückgeschoben. Die Spannung kriecht wie kalter Rauch ins Wohnzimmer. Schließlich wird es still, schwer und klebrig wie Sirup.
-
-Ich liege still auf dem Sofa, die Decke bis ans Kinn gezogen, mein Magen verkrampft sich. Mir war nicht bewusst gewesen, wie viel Raija für mich riskiert. Ihre Arbeit, ihr Ansehen, ihre Zukunft. Alles, nur damit ich hier sicher bin. Das drückt schwerer als jede Angst vor der Stasi.
-
-Wenig später knarrt die Küchentür. Schritte. Markku kommt herein. Sein Gesicht ist angespannt, der Blick dunkel. Ich verberge mich halb unter der Decke und atme tief, so als sei ich gerade erst aus dem Schlaf hochgeschreckt. Er bleibt kurz stehen, mustert mich, sagt aber nichts. Dann schnappt er sich seine Jacke vom Stuhl und verlässt mit einem Knall die Wohnung.
-
----
-
-Raija kommt kurz darauf ins Wohnzimmer. Ihre Wangen sind gerötet, die Augen blitzen noch vor Zorn. Sie bemerkt, dass ich wach bin.
-
-„Was war das eben?“, frage ich vorsichtig.
-
-Sie atmet tief durch, als müsse sie sich entscheiden, ob sie überhaupt etwas sagen will. Doch dann sprudelt es aus ihr heraus, Wort für Wort, als könne sie ihre Wut nur loswerden, wenn sie alles wiederholt:
-
-„Er hat gesagt: *‚Du weißt, dass du dir mit dieser Aktion den Job ruinierst. Wenn das rauskommt, kannst du die Uniform abgeben.‘*
-
-Und ich habe geantwortet: *‚Und was geht dich das an? Es ist mein Risiko. Mein Beruf.‘*
-
-Dann ist er lauter geworden: *‚Es geht mich sehr wohl was an! Wenn du deine Stelle verlierst, was glaubst du, wovon wir dann leben? Von Luft und Liebe?‘*
-
-Da habe ich gesagt: *‚Sag doch gleich, dass es dir nur ums Geld geht! Nicht um mich, nicht um Gerechtigkeit.‘*“
-
-Sie verschränkt die Arme und schüttelt den Kopf, noch immer kochend vor Wut.
-
-Mir schnürt es die Kehle zu. Zum ersten Mal dämmert mir, dass Markku recht haben könnte. Raija könnte wirklich alles verlieren – wegen mir. „Aber er hat doch auch nicht ganz unrecht“, flüstere ich. „Wenn du deinen Job verlierst … nur weil ich hier bin … das wäre furchtbar.“
-
-Raija wirft mir einen Blick zu, der keine Widerrede duldet. „Unsinn! Ich habe gewusst, was ich tue. Markku redet nur so, weil er Angst um seinen vollen Kühlschrank hat, nicht um mich. Um mich geht es ihm schon lange nicht mehr.“
-
-Sie sagt es mit solcher Schärfe, dass ich nichts mehr erwidere. Aber in mir arbeitet es weiter: Was, wenn sie sich täuscht? Was, wenn ich ihr Leben gerade zerstöre, weil ich nur an mich gedacht habe?
+Ich falle einfach ins Bett. Kein Gedanke hält mich mehr wach.

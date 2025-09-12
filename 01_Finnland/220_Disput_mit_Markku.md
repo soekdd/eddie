@@ -2,10 +2,9 @@
 
 ```json
 {
-    "date": "1985-07-07",
+    "date": "1985-07-08",
     "daytime": "day → night",
     "place": "Raijas Wohnung in Jyväskylä",
-    "persons": [ "Eddie" ],
     "persons": ["Eddie", "Markku", "Raija"],
     "synopsis": "Eddie streitet mit Markku über die DDR, Raija kommt heim und spürt die Spannungen; nachts hört Eddie den Streit zwischen beiden.",
     "mood": "tense and uneasy",
@@ -91,6 +90,8 @@ sehr ihr sie beschönigt."
 Markku schweigt. Ich spüre den stummen Widerstand, den festen Glauben an
 eine Ideologie, die ich jeden Tag als Kind erlebt habe. Trotzdem sitze
 ich hier, rede mit ihm, weil Worte manchmal mehr sind als Mauern.
+
+Raija zieht mich aus der Debatte und sagt: erst mal Pause. Später überlegen wir gemeinsam.
 
 Markku schnaubt und lehnt sich vor. „Eddie, du siehst nur die Probleme,
 aber das ist kleinlich. Die DDR hat ein System aufgebaut, das niemanden
@@ -199,3 +200,5 @@ Zimmer, packe meine Sachen. Mein Herz hämmert, während ich die Tür öffne
 und die Wohnung verlasse. Jede Stufe im Treppenhaus klingt wie ein
 Befreiungsschlag. Draußen atme ich tief ein -- kalte Luft, klare Luft.
 Ich schwöre mir: Nie wieder gehe ich zurück.
+
+Ich gehe. Nicht leise, sondern so, dass er es hört.

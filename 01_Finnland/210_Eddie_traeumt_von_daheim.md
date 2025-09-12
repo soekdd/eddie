@@ -2,7 +2,7 @@
 
 ```json
 {
-    "date": "1985-07-06",
+    "date": "1985-07-07",
     "daytime": "night",
     "place": "Raijas Wohnung",
     "persons": ["Eddie", "Raija", "Markku", "Eddies Familie (in Gedanken)"],
@@ -26,7 +26,7 @@
     }
 }
 ```
-
+Die zweite Nacht hier ist anders: ich träume von daheim.
 Ich liege wach im fremden Bett, die Decke riecht nach Raija ein bisschen nach fremdem Waschpulver. Alles ist still, nur draußen ruft ein Nachtvogel, als finde auch er keinen Schlaf. Mein Kopf hämmert, als würde jemand von innen mit Fäusten gegen die Schädelwand schlagen.
 
 Es ist die zweite Nacht seit meiner Flucht – und ich weiß: Jetzt, in diesem Moment, muss die Nachricht in Dresden längst angekommen sein. Die Nachbarn tuscheln bestimmt schon, der Hausmeister hat sicher irgendwas „gemeldet“. Und die Polizei… nein, die Stasi, sie werden meine Eltern abgeholt haben. Vielleicht sitzen sie jetzt gerade in irgendeinem kahlen Raum, unter grellem Licht, mit fragenden Blicken, die keine Fragen sind, sondern Drohungen.
@@ -64,3 +64,5 @@ Ich nicke nur, zu schnell, und wende mich ab, tue so, als hätte ich auf dem Tis
 „Dann… bis später“, sagt er schließlich und geht zur Tür hinaus. Sie fällt hinter ihm zu, dumpf, fast wie ein Schlag.
 
 Für einen Moment bleibe ich einfach stehen, halte den Atem an. Der Kontrast ist brutal: Noch in der Nacht lag Raijas Arm warm und beschützend um mich. Und jetzt fühle ich mich kalt, beobachtet, allein.
+
+Später am Tag ist Raija wieder da. Wir gehen zwei Straßen zum Laden, besorgen Brot, Milch, eine Tüte Kartoffeln. An der Kasse fragt mich niemand nach einem Ausweis; alles läuft ruhig, wie auf Schienen. Zu Hause wäscht Raija die Tassen, ich trockne ab. Kleine Handgriffe, die sich wie ein Plan falten, sauber und übersichtlich. Wir reden über nichts Wichtiges: über ihre Kollegin, über Wolkenformen, über eine Pflanze, die zu viel Sonne bekommen hat. Es klingt banal, aber mir gibt es Halt. Optionen wie in einer Matrix – und zum ersten Mal fühlt es sich an, als könnte ich frei wählen.

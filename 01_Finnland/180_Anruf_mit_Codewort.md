@@ -2,7 +2,7 @@
 
 ```json
 {
-    "date": "1985-07-06",
+    "date": "1985-07-08",
     "daytime": "afternoon",
     "place": "Raijas Wohnung in Jyväskylä",
     "persons": ["Eddie", "Raija", "Professor Dr. Leonhard Radmer"],
@@ -123,3 +123,5 @@ meine Eltern, dass ich es raus geschafft habe. Und keiner kann's verhindern."
 Raija legt mir die Hand auf die Schulter. „Das hast du gut gemacht,
 kleine Fluchtkünstlerin. Und jetzt... trinken wir einen Kaffee. Du
 siehst aus, als würdest du gleich umfallen."
+
+Der Anruf sitzt. Morgen rede ich Klartext, auch wenn es kracht.
