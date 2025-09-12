@@ -3,7 +3,7 @@
 ```json
 {
     "date": "1985-07-08",
-    "daytime": "day → night",
+    "daytime": "morning -> late afternoon",
     "place": "Raijas Wohnung in Jyväskylä",
     "persons": ["Eddie", "Markku", "Raija"],
     "synopsis": "Eddie streitet mit Markku über die DDR, Raija kommt heim und spürt die Spannungen; nachts hört Eddie den Streit zwischen beiden.",
@@ -26,179 +26,76 @@
         }
     }
 }
+
+
 ```
 
-Ich sitze immer noch auf der Holzbank im Innenhof der des Wohnhauses von
-Raija und Markku in Jyväskylä. Markku hat die Beine verschränkt, die
-SKOL-Anstecknadel glänzt im schummrigen Sonnenlicht. Er wirkt
-selbstsicher, fast schon belehrend.
+Montagmorgen. Ich stolpere verschlafen in die Küche, Raija ist schon längst weg zur Arbeit. Stattdessen sitzt da Markku – und wirkt plötzlich anders. Nicht mehr so abweisend wie gestern, fast freundlich, was bei ihm irgendwie unheimlich ist. Er mustert mich dauernd, als wäre ich irgendein Rätsel, das er unbedingt lösen will. Ich tue so, als würde ich’s nicht merken, auch wenn mir jedes Mal die Nackenhaare hochgehen.
 
-„Also wirklich, Eddie", sagt er, „in der DDR hättest du doch alles
-gehabt: sichere Arbeit, kostenlose Bildung, gleiche Chancen für alle."
+Ich hab null Bock, Stress zwischen ihn und Raija zu bringen, also reiße ich mich zusammen. Besser so tun, als wär alles normal. Markku redet beiläufig über Kaffee, fragt, ob ich mit rauskommen will, Sonne genießen, frische Luft. Ich nicke – halb aus Höflichkeit, halb weil’s draußen wenigstens nicht nach Zigaretten und Spülmittel riecht.
 
-Ich beiße mir auf die Unterlippe. „Sichere Arbeit? Klar. Aber nur, wenn
-du die richtige Meinung hast. Meine Lehrerin verschwand mal für eine
-Woche -- einfach so, weil sie was Kritisches gesagt hat. Du arbeitest
-nicht, um dich zu entfalten, sondern um zu gehorchen."
+Also sitzen wir nebeneinander auf dieser wackligen Bank, Becher in der Hand, die Sonne knallt mir ins Gesicht. Neben ihm steht eine abgewetzte Stofftasche. Drauf dieses Gesicht mit der Baskenmütze, das ich schon mal irgendwo gesehen habe – und dicke Buchstaben: SKOL.
 
-Er schnaubt. „Einzelfälle! Wir reden hier über den Aufbau einer
-gerechten Gesellschaft. Und Bildung -- die ist für alle frei! Kein
-westlicher Student muss sich verschulden, um zu lernen."
+„Was heißt das überhaupt, SKOL? Klingt wie ’n Fußballverein.“
 
-„Frei?", sage ich bitter. „Du bekommst alles serviert -- ja, sogar
-kostenlos. Aber nur, wenn du dich an die Partei hältst. Wer nicht spurt,
-wird ausgeschlossen. In meiner Klasse wird der Unterricht zensiert,
-Bücher verschwinden von den Regalen, selbst Diskussionsrunden sind
-kontrolliert. Bildung ohne Freiheit ist keine Bildung, Markku. Du
-lernst, was erlaubt ist, nicht was wahr ist."
+Er grinst gönnerhaft. „Das ist unsere Studentenvereinigung. Wir stehen für Solidarität und die sozialistische Zukunft. Che Guevara – ein Held des Volkes.“
 
-Er nickt, als hätte er ein Argument gefunden. „Na gut, aber im Westen
-gibt es Arbeitslosigkeit, Armut, kapitalistische Ausbeutung."
+Ich hebe eine Augenbraue. „Aha. Und du willst da ernsthaft leben? Im Kommunismus? Mit Mauer drumrum und Stasi im Nacken?“
 
-Ich schüttele den Kopf. „Hör zu: Angst ist auch da. Nur anders. Du hast
-keine Freiheit, du kannst nicht reisen, nicht entscheiden, welche Fächer
-du wählst, welchen Beruf du ergreifst. Wir fliehen nicht vor materieller
-Not, sondern vor Kontrolle und Überwachung. Du kannst deine Meinung
-nicht äußern -- alles wird registriert. Das ist auch Angst."
+Sein Blick verengt sich, er setzt an wie ein Lehrer, der gleich die Tafel vollschreibt. Ich halte den Becher fester, spüre, wie in mir Trotz und Wut hochkriechen.
 
-Markku runzelt die Stirn. „Aber das ist für das Kollektiv. Wir denken an
-das Wohl der Gemeinschaft."
+„Also wirklich, Eddie“, sagt er, „in der DDR hättest du doch alles gehabt: sichere Arbeit, kostenlose Bildung, gleiche Chancen für alle.“
 
-„Das Wohl der Gemeinschaft?", sage ich leise, aber scharf. „Wenn das
-bedeutet, dass du alles aufgeben musst, was dich als Individuum
-ausmacht, ist das kein Wohl, sondern Unterdrückung. Ich bin geflohen,
-weil ich leben wollte, nicht nur existieren."
+Ich beiße mir auf die Lippe. „Sichere Arbeit? Klar. Aber nur, wenn du die richtige Meinung hast. Meine Lehrerin war mal eine Woche weg – einfach so, weil sie was Kritisches gesagt hat. Du arbeitest nicht, um dich zu entfalten, sondern um zu gehorchen.“
 
-Er lehnt sich zurück, die Hände in die Luft werfend. „Du verstehst den
-Sozialismus nicht. Wir haben gleiche Bildungschancen, Gesundheit, Schutz
-vor Arbeitslosigkeit..."
+Er schnaubt. „Einzelfälle! Wir reden vom Aufbau einer gerechten Gesellschaft. Und Bildung – die ist für alle frei! Kein westlicher Student muss sich verschulden, um zu lernen.“
 
-„Ja, Markku, ich verstehe sehr genau, wie ‚gleich' das ist. Gleich sind
-die, die in der Partei sind. Alle anderen haben höchstens die gleiche
-Chancen zu verhungern", überspitze ich bewusst "die gleiche Chancen auf
-veraltete Medikamente, gleiche Chancen, deinen Job zu verlieren, wenn du
-deine Meinung sagst. Ich habe Zahlen, Fakten -- nicht Ideologie."
+„Frei?“, stoße ich bitter hervor. „Du kriegst alles serviert – ja, sogar kostenlos. Aber nur, wenn du dich an die Partei hältst. Wer nicht spurt, fliegt raus. In meiner Klasse werden Bücher aus den Regalen entfernt, Diskussionen abgewürgt. Bildung ohne Freiheit ist keine Bildung, Markku. Du lernst, was erlaubt ist, nicht was wahr ist.“
 
-Markku starrt mich an, seine Augen verengt. Ich sehe, dass er mich nicht
-überzeugen wird. Aber ich muss meine Erfahrung aussprechen, selbst wenn
-sie sein Weltbild erschüttert.
+Markku lehnt sich zurück, als hätte er alle Zeit der Welt, und nippt genüsslich den letzten Schluck aus seiner Tasse. Dann sagt er seelenruhig: „Heute gehe ich nicht in die Uni. Ich bleibe hier, Eddie. Wir diskutieren das.“
 
-Ich lehne mich zurück, die Sonne im Gesicht. „Du kannst deine Theorien
-haben. Ich hab die Realität erlebt -- und die ist nicht schön, egal wie
-sehr ihr sie beschönigt."
+Ich verschlucke mich fast am Kaffee. „Den ganzen Tag? Ernsthaft?“ Aber er nickt nur, stur wie ein Ochse. Klar: Er will mich nicht verstehen, er will mich bekehren.
 
-Markku schweigt. Ich spüre den stummen Widerstand, den festen Glauben an
-eine Ideologie, die ich jeden Tag als Kind erlebt habe. Trotzdem sitze
-ich hier, rede mit ihm, weil Worte manchmal mehr sind als Mauern.
+Also sitzen wir weiter im Hof, die Morgensonne weicht einem krellen Vormittag.
 
-Raija zieht mich aus der Debatte und sagt: erst mal Pause. Später überlegen wir gemeinsam.
+„Im Westen gibt’s Arbeitslosigkeit, Armut, Ausbeutung,“ hebt er an.
 
-Markku schnaubt und lehnt sich vor. „Eddie, du siehst nur die Probleme,
-aber das ist kleinlich. Die DDR hat ein System aufgebaut, das niemanden
-zurücklässt. In Westdeutschland konkurrieren die Menschen, die Reichen
-profitieren, die Armen leiden."
+Ich schnaube. „Und im Osten gibt’s Angst. Meine Lehrerin war plötzlich eine Woche weg, nur weil sie was Kritisches gesagt hat. Bücher verschwinden aus den Regalen. Unsere Post wird geöffnet, unsere Telefonate abgehört. Wir fliehen nicht vor Hunger, Markku, wir fliehen vor Kontrolle.“
 
-„Markku", sage ich und lehne mich ebenfalls vor, „du blendest aus, dass
-es hier wenigstens Freiheit gibt. Hier kann ich reisen, denken,
-sprechen. Ich muss nicht fürchten, dass meine Lehrer, Freunde oder
-Eltern überwacht werden. Die ‚Gleichheit' des Sozialismus erkauft ihr
-mit Angst."
+Er hebt den Zeigefinger. „Aber das ist fürs Kollektiv, für das Wohl aller. Manchmal muss der Einzelne zurückstecken.“
 
-Er nickt eifrig, als wollte er einen Sieg erzielen. „Angst? Das ist nur
-westliche Propaganda. Jeder in der DDR weiß, wo seine Pflichten sind.
-Ordnung, Disziplin, Solidarität -- das ist der wahre Fortschritt."
+„Das Wohl aller?“ Ich lehne mich vor. „Wenn das heißt, dass du alles aufgibst, was dich ausmacht, ist das keine Solidarität, sondern Unterdrückung. Ich will leben, nicht nur funktionieren.“
 
-„Ordnung und Disziplin", sage ich trocken, „sind kein Fortschritt, wenn
-du keine Wahl hast. Ich habe Freunde meiner Eltern gesehen, die ins
-Gefängnis kamen, weil sie einen Witz über die Partei machten. Und
-Solidarität? Die gab es nur, wenn du spurst. Wer abweicht, wird
-isoliert."
+Er wirft die Hände hoch. „Du verstehst den Sozialismus nicht. Gleiche Chancen, gleiche Bildung, kein Mensch muss hungern oder arbeitslos sein!“
 
-Markku runzelt die Stirn, schlägt die Hände zusammen. „Du willst immer
-nur kritisieren, aber du verstehst nicht, dass der Sozialismus das Wohl
-aller über das einzelne Individuum stellt!"
+„Gleich?“ Ich lache bitter. „Gleich sind die, die in der Partei sind. Alle anderen haben gleiche Chancen auf Ärger. Gleiche Chancen auf Medikamente, die zwanzig Jahre alt sind. Gleiche Chancen, den Job zu verlieren, wenn sie den Mund aufmachen.“
 
-„Markku, das Wohl aller kann nicht über den Köpfen der Menschen bestimmt
-werden", antworte ich. „Wenn man den Menschen ihre Entscheidungen, ihr
-Leben, ihre Freiheit nimmt, ist es kein Wohl, sondern Zwang. Bald lebe
-ich in Freiheit -- und selbst wenn ich weniger Geld habe als manche
-hier, bin ich nicht gefangen."
+Sein Blick wird härter. „Du siehst nur Mängel, nicht das große Ganze. Ordnung, Disziplin, Solidarität – das ist Fortschritt.“
 
-Markku lehnt sich zurück, die Augen glitzern vor Frustration. „Du
-verstehst das nicht. Du siehst nur Mängel, aber nicht das große Ganze.
-Das System ist stabil, gerecht, planbar. In zehn Jahren wirst du sehen,
-dass Westkapitalismus viel mehr zerstört."
+„Fortschritt?“ Ich stoße den Becher auf die Bank. „Ordnung ist kein Fortschritt, wenn du keine Wahl hast. Solidarität gibt’s nur, wenn du brav mitläufst. Ein Witz über die Partei, und du verschwindest. Nenn mir einen Menschen, der in Angst lebt und trotzdem frei ist.“
 
-„Vielleicht", sage ich ruhig, „aber ich brauche keine zehn Jahre, um zu
-wissen, dass Kontrolle, Überwachung und Angst nicht stabil oder gerecht
-sind. Fakten zählen mehr als Ideale. Die Realität der DDR ist grausam
-für die Menschen -- und deshalb bin ich hier."
+Er schüttelt den Kopf, fast mitleidig. „Das ist westliche Propaganda. Die DDR schützt ihre Bürger, keiner wird zurückgelassen. In zehn Jahren wird man sehen, dass euer Kapitalismus zerbricht.“
 
-Markku starrt mich an, als hätte ich ihn geschlagen. Er sagt nichts
-mehr. Die Sonne wirft Schatten über den Hof, und wir sitzen uns
-gegenüber, zwei Welten, die sich nicht berühren. Ich weiß, dass wir nie
-einer Meinung sein werden -- er kennt nicht den Wert zu sprechen, ohne
-Angst zu haben, er hat es nie anders erlebt.
+„Markku,“ sage ich leise, „ich brauche keine zehn Jahre. Ich hab es gelebt. Jeden Tag. Die Angst, dass die Stasi zuhört. Die Gewissheit, dass mein Vater nie Professor wird, weil er nicht in die Partei will. Die Angst, dass ein falsches Wort reicht, um alles zu verlieren. Du redest von Idealen. Ich rede von meinem Leben.“
 
-Ich sitze noch immer auf der Holzbank, während Markku stur den Kopf
-schüttelt. Die Schatten werden länger, die Luft kälter. Ich spüre, dass
-wir uns im Kreis drehen, dass wir beide nichts ändern können.
+Er starrt mich an, als hätte ich ihn geohrfeigt. Dann lehnt er sich zurück, verschränkt die Arme, bleibt aber stur.
 
-Plötzlich höre ich Schritte. Raija kommt nach Hause, ihre Tasche in der
-Hand, ein müdes Lächeln auf den Lippen. Sie wirft einen Blick auf uns,
-und ich merke sofort: Sie hat die Spannungen zwischen mir und Markku
-gespürt.
+Mittags koche ich Nudeln, in der Hoffnung auf Ruhe. Doch Markku redet weiter, als säße er in einem endlosen Seminar. Ich halte dagegen, bis mir die Stimme bricht.
 
-„Eddie", sagt sie leise, „es gab heute viel Aufregung wegen deines
-Verschwindens in Joutsa." Sie atmet tief durch. „Aber mein älterer
-Kollege hat mich gedeckt. Ich hab keinen Ärger bekommen."
+Am Nachmittag sitze ich erschöpft am Küchentisch, als endlich die Tür ins Schloss fällt. Raija kommt heim, wirft uns einen Blick zu – und ich sehe sofort: Sie spürt, wie sehr es gekracht hat.
 
-Ich sehe, wie sie kurz die Stirn runzelt, dann aber den Blick auf Markku
-wirft. Ihre Augen verraten, dass sie gespürt hat, wie es zwischen uns
-gekracht hat. Markku murmelt etwas Unverständliches auf finnisch.
+„Eddie“, sagt sie leise, „es gab heute viel Aufregung wegen deines Verschwindens in Joutsa.“ Sie atmet tief durch. „Aber mein älterer Kollege hat mich gedeckt. Ich hab keinen Ärger bekommen.“
 
-Raija zieht in daraufhin ins Schlafzimmer. Durch die dünnen Wände
-höre ich sie streiten. Ihre Stimmen sind leise, aber ich verstehe vom
-finnische Gezänk ohnehin kein Wort.
+Sie runzelt die Stirn, dann wandert ihr Blick zu Markku. Ihre Augen verraten, dass sie die Spannung zwischen uns sofort erfasst. Markku murmelt etwas Unverständliches auf Finnisch.
 
-Morgen, denke ich, morgen muss ich alleine klarkommen, wenn Raija wieder
-nach Tampere fährt. Und Markku... Markku wird da sein, sein Blick, seine
-wirren Ideen.
+Raija zieht ihn daraufhin ins Schlafzimmer. Durch die dünnen Wände höre ich ihre Stimmen – gedämpft, aber eindeutig Streit. Ich verstehe kein Wort, das Finnische klingt wie ein ständiges Hin und Her, doch die Stimmung ist klar.
 
-Markku verläss0 plötzlich das Schlafzimmer und zieht sich seine Jacke an. „Ich
-muss noch Leute aus der Fakultät treffen, es geht um Seminare," sagt er,
-ohne uns anzusehen. Raija verschränkt die Arme, ihr Blick spricht Bände.
-„Immer wenn's unbequem wird, bist du weg." Ich lege ihr die Hand auf den
-Arm, flüstere: „Lass ihn. Wir zwei machen uns einen schönen Abend."
+Jetzt habe ich doch Stress zwischen die beiden gebracht. Das ärgert mich.
 
-Und so geschieht es. Wir sitzen später in der Küche, trinken Tee,
-erzählen uns Geschichten. Ich bringe sie zum Lachen, und das Lachen
-klingt wie eine kleine Befreiung. Für ein paar Stunden ist Markku
-vergessen. Wir reden bis in die Nacht, bis uns die Augen zufallen.
+Morgen, denke ich, muss ich wieder allein klarkommen, wenn Raija nach Tampere fährt. Und Markku … Markku wird da sein, mit seinem Blick und seinen wirren Ideen.
 
-Am Morgen wache ich auf, Raija ist schon weg nach Tampere. Die Wohnung
-ist still, bis auf ein Poltern an der Tür. Markku stolpert herein. Er
-ist betrunken, die Augen glasig, der Atem stinkt nach billigem Schnaps.
-„Na, Eddie..." lallt er und kommt auf mich zu, schwankend. Er grinst
-schief. „Du bist viel hübscher als Raija..." Dann beugt er sich vor,
-versucht, mich zu küssen.
+Plötzlich kommt er aus dem Schlafzimmer, zieht sich hastig die Jacke über. „Ich muss noch Leute von der Fakultät treffen, es geht um Seminare“, sagt er, ohne mich anzusehen.
 
-Mir schießt das Blut in den Kopf. Ich stoße ihn weg und schreie: „Du
-bist widerlich, Markku! Du schwärmst von der DDR, während du im freien
-Westen lebst. Du redest von Idealen, aber du bist nur feige. Du lässt
-dich von Raija aushalten, obwohl du sie nicht respektierst. Und dann
-machst du dich an Mädchen ran, die viel zu jung für dich sind. Hast du
-überhaupt noch einen Funken Würde?"
+Raija verschränkt die Arme, ihr Blick spricht Bände. „Immer wenn’s unbequem wird, bist du weg.“
 
-Sein Gesicht verzerrt sich. Plötzlich holt er aus und schlägt mich ins
-Gesicht. Der Schmerz brennt, mein Ohr rauscht. Für einen Moment denke
-ich, er schlägt noch einmal. Doch stattdessen sackt er in die Ecke des
-Zimmers, zieht die Knie an den Körper und beginnt hemmungslos zu heulen.
-
-Ich taste über meine Wange, die heiß pulsiert. Dann gehe ich wortlos ins
-Zimmer, packe meine Sachen. Mein Herz hämmert, während ich die Tür öffne
-und die Wohnung verlasse. Jede Stufe im Treppenhaus klingt wie ein
-Befreiungsschlag. Draußen atme ich tief ein -- kalte Luft, klare Luft.
-Ich schwöre mir: Nie wieder gehe ich zurück.
-
-Ich gehe. Nicht leise, sondern so, dass er es hört.
+Ich lege ihr die Hand auf den Arm, flüstere: „Raija, ich brauche dringend deine Hilfe … in einer sehr verwickelten Sache.“

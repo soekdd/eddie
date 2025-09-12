@@ -27,8 +27,10 @@
 }
 ```
 
-Ich sitze da wie ein Häufchen Nervenbündel. Das graue Bakelittelefon auf
-Raijas Küchentisch wirkt plötzlich wie ein Monster mit offenem Maul. Ich
+Gleich geht es los, auf der Küchenuhr ist es 17:25, also 16:25 in der DDR.
+Ich sitze da wie ein einziges Nervenbündel.
+Das graue Bakelittelefon auf Raijas Küchentisch wirkt plötzlich wie
+ein Monster mit offenem Maul. Ich
 halte den Hörer schon in der Hand, aber meine Finger sind so schwitzig,
 dass ich ihn fast wieder fallen lasse.
 
