@@ -114,29 +114,51 @@ Mir bleibt die Luft weg. „Sini!“
 
 Sie lacht, zuckt mit den Schultern. „Ich hab ausprobiert. Viel.“
 
-„Und dein erstes Mal?“
+„Und dein erstes Mal?“ frage ich vorsichtig.
 
 Sie wird ernst, aber lächelt. „Doof. Ich war fünfzehn, total verliebt. Dachte, er wär die große Liebe. Für ihn war’s wohl nicht so ernst. Tat weh – im Herzen mehr als sonst. Danach hab ich beschlossen: Nie wieder so. Ich nehm mir, was ich will.“
 
 Wir bleiben ausgelassen, das Lachen reißt uns wieder mit.
 
-„Na los, deine verrücktesten Geschichten!“
+„Na los, deine verrücktesten Geschichten!“ dränge ich.
 
 Sie lacht. „Festival! Zelt, Regen, Matsch. Musik die ganze Nacht. Unbequem wie Sau, aber unvergesslich.“
 
-Ich staune. Ich rechne Matheaufgaben – sie badet im Matsch und lacht.
+„Im Matsch? Echt jetzt?“ frage ich ungläubig.
 
-„Oder der Typ mit dem Motorrad. Holte mich nachts ab. Nebelsee, Motoröl, Mondschein. Mein Herz raste wie irre.“
+Sie nickt breit grinsend. „Oder der Typ mit dem Motorrad. Holte mich nachts ab. Nebelsee, Motoröl, Mondschein. Mein Herz raste wie irre.“
 
-Sie erlebt Mondlicht und Motoröl, während ich Schachzüge in Mathe rechne.
+„Klingt wie Kino“, murmele ich. „Hattest du da keine Angst, erwischt zu werden?“
+
+„Nee. Genau das hat’s so aufregend gemacht.“
 
 Dann flüstert sie: „Und einmal… im Treppenhaus vom Fährterminal. Letzte Etage. Neonlicht, Beton, verheirateter Kollege. Wir hätten jederzeit erwischt werden können. Wild, schnell, Herzrasen.“
 
-Mir läuft ein Schauer über den Rücken. Ich hätte nur Panik gehabt – sie macht ein Abenteuer draus.
+„Boah“, entwischt es mir. „Wie kommt man überhaupt auf so ’ne Idee?“
 
-Sini lacht plötzlich. „Und die Gesichter von Jungs, wenn sie kommen! Comedy pur! Grimassen, verdrehte Augen, als hätten sie Zahnschmerzen.“
+Sie grinst. „Der Moment war einfach da.“
 
-Ich kugle mich vor Lachen.
+Ich zögere, dann rutscht es raus: „Hattest du… kein schlechtes Gewissen? Wegen seiner Frau?“
+
+Sini blinzelt, als hätte sie die Frage gar nicht erwartet. „Schlechtes Gewissen? Wieso? Das war sein Ding, nicht meins. Ich war frei. Er war derjenige, der verheiratet war.“
+
+„Aber… du wusstest es doch?“, hake ich nach.
+
+„Klar. Aber ich bin nicht seine Ehefrau, Eddie. Nicht meine Verantwortung. Wenn einer lügt oder betrügt, dann er. Ich hab mir nichts vorzuwerfen.“
+
+Ich starre sie an, überrascht von der Selbstverständlichkeit in ihrer Stimme. „Du meinst echt, du musst da gar nichts bedenken?“
+
+Sie zuckt die Schultern, völlig gelassen. „Warum sollte ich? Ich hab Bock, er hat Bock – fertig. Wenn er deswegen Stress daheim kriegt, dann liegt das an ihm. Nicht an mir.“
+
+„Hm“, murmele ich. Irgendwie klingt das brutal ehrlich – und trotzdem ein bisschen gefährlich.
+
+Sini kneift die Augen zusammen, mustert mich einen Moment – und dann bricht sie in Gelächter aus. „Du guckst, als hätte ich dir gerade erzählt, ich esse Kinder zum Frühstück.“
+
+„Fast so“, grinse ich, ein bisschen überrumpelt.
+
+„Na gut“, ruft sie, hebt beschwichtigend die Hände. „Themawechsel. Männer können ja auch was fürs Lachen tun.“ Sie beugt sich zu mir. „Zum Beispiel ihre Gesichter, wenn sie kommen! Comedy pur! Grimassen, verdrehte Augen, als hätten sie Zahnschmerzen.“
+
+„Das will ich jetzt nicht im Detail wissen!“ Ich kugle mich vor Lachen und halte mir demonstrativ die Ohren zu, bin aber viel zu neugierig, um wirklich wegzuhören.
 
 „Und runterschlucken – schmeckt wie Batterieflüssigkeit.“
 
@@ -146,7 +168,7 @@ Sini quietscht: „Genau so war’s bei mir! Mit meinem ersten Kerl, den ich so 
 
 Wir werfen uns Kissen ins Gesicht, lachen Tränen.
 
-Sini wird wieder ernst. „Also, Tipps: Nie was machen, nur weil er’s will. Alles muss Spaß machen. Langsam! Männer flippen aus, wenn du’s langsam machst. Hände – nie vergessen. Und wenn was schiefgeht: lachen. Immer lachen.“
+Sini wird wieder ernst. „Also, Tipps: Nie was machen, nur weil er’s will. Alles muss Spaß machen. Langsam! Männer flippen aus, wenn du’s langsam machst. Hände – nie vergessen. Und wenn mal was schiefgeht… nicht verkrampfen. Lachen hilft. Humor macht alles besser.“
 
 Ich grinse. Sie klingt wie ein unanständiger Mathelehrer.
 „Du bist echt wie ’ne große Schwester, nur unanständiger.“
