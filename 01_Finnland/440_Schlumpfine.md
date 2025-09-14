@@ -105,9 +105,9 @@ kannte wirklich niemand.
 Sini schiebt die Augenbrauen hoch. „Edda Göring? Echt jetzt? Das ist
 ja... irgendwie schräg."\
 „Ja, oder? Aber hätte auch schlimmer kommen können weißt Du? Von heute
-aus betrachtet kann ich froh sein, dass mein Vater weder Pelageya
-Polubarinova-Kochina" - ich spreche den Namen extra langsam aus und
-betone jede Silbe ,"eine Göttin der Hydrodynamik, noch Lyudmila Keldysh,
+aus betrachtet kann ich froh sein, dass mein Vater weder Pe-la-ge-ya
+Po-lu-ba-ri-nova-Ko-chi-na" - ich spreche den Namen extra langsam aus und
+betone jede Silbe ,"eine Göttin der Hydrodynamik, noch Lyud-mila Kel-dysh,
 Mathematikprofessorin an der Moskauer Lomonossow-Universität, kannte."
 Sini lacht auf: \"Ja, das wäre endlos schlimmer." "Absolut" erwidere ich
 und lehne mich zurück, „am Ende haben mich sowieso alle nur Eddie
@@ -116,8 +116,12 @@ genannt, sogar die Lehrer."\
 Fußballspieler oder ein britischer Reggae-Sänger." Sina springt von der
 Bank auf und tut so, als ob sie Fußballspielerin und Sängerin zugleich
 wäre. Ich falle vor Lachen beinahe von der Bank. Es ist so schön mit
-Sina Zeit zu verlieren. Der Wind weht mir den Geruch von Seealgen und
-Rauch in die Nase. Ich merke, wie ich mich an den Stoff meines
-verwaschenen roten Trainingsanzugs klammere -- der, den ich aus Dresden
-mitgebracht habe. Hier, so weit weg, fühlt sich sogar mein Name manchmal
-fremd an.
+Sina Zeit zu verlieren. Der Wind weht mir den Geruch von Seealgen und Rauch in die Nase. Ich streiche über den Stoff meines verwaschenen roten Trainingsanzugs – ein Stück Dresden, das sich hier manchmal fremd anfühlt.
+
+Aber während ich neben Sini sitze, merke ich: Zuhause ist vielleicht gar kein Ort, kein Name, kein System. Zuhause sind Menschen. Menschen wie sie, die mich auffangen, wenn alles auseinanderzufallen droht. Und plötzlich frage ich mich, warum ich überhaupt weiterziehen sollte, wenn ich doch hier genau das habe.
+
+Dann fällt mir ein: Auch Sini wird nicht bleiben. Bald zieht sie nach Helsinki, um zu studieren. Und das hier, unsere Bank, der See, der Rauch in der Luft – es ist nur eine Zwischenstation.
+
+Ich rutsche näher, lege die Arme um sie und halte sie fest. „Danke, Sini“, flüstere ich, „dass du meine Familie warst.“
+
+Sie drückt mich zurück, stark und warm. Für einen Moment ist es egal, wohin wir müssen. Hier, jetzt, fühlt es sich an wie Zuhause. Und ganz ehrlich: mehr brauch ich gerade nicht.
