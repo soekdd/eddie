@@ -56,7 +56,7 @@ Ich grinse frech. „Okay, fair point. Aber weißt du was? Dann schreiben wir di
 
 Sini blinzelt mich an, ihr Sidecut glänzt im Abendlicht. „Und wie genau biegen wir die?"
 
-„So: Gargamel erschafft Schlumpfine unwiderstehlich schön und klug, wie sie nun mal ist. Aber anstatt Zwietracht zu säen, nimmt sie die Typen an der Hand und führt sie. Sie bevorzugt keinen, bringt Ordnung rein, macht die Schlümpfe fast schon zu Gentlemen. Eine Frau, die die Männerwelt im Dorf einfach besser macht."
+„So: Gargamel erschafft Schlumpfine unwiderstehlich schön und klug, wie sie nun mal ist. Aber anstatt Zwietracht zu säen, nimmt sie die kleinen blauen Typen an der Hand und führt sie. Sie bevorzugt keinen, bringt Ordnung rein, macht die Schlümpfe fast schon zu Gentlemen. Eine Frau, die die Männerwelt im Dorf einfach besser macht."
 
 Sini grinst breit, fast triumphierend. „Das gefällt mir! Eine Schlumpfine, die nicht zur Blondine verbogen wird, sondern die Bude regelt. Feministische Revolution im Pilzdorf."
 
