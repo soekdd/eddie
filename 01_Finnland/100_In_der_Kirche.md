@@ -1,4 +1,4 @@
-# Kirchenszene
+# In der Kirche
 
 ```json
 {
