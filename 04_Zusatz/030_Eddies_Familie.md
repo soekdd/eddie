@@ -3,6 +3,7 @@
 ## Basic
 - Relation To Eddie: Eltern und kleiner Bruder
 - Residence: Dresden, DDR
+- Address: Thomas und  / Vöyrinkatu 25 / 65100 Vaasa / SUOMI - FINLAND
 - Family Status: gehobene Bildungsschicht, politisch jedoch eingeschränkt
 
 ## Father

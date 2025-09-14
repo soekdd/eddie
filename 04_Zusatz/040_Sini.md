@@ -6,6 +6,7 @@ _AKA:_ Sini
 - Age: 22
 - Birth Year: 1963
 - Origin: Finnland, städtisches Randgebiet von Turku
+- Address: Sinikka Virtanen / Vöyrinkatu 25 / 65100 Vaasa / SUOMI - FINLAND
 
 ## Family
 - Background: Obere Mittelschicht
