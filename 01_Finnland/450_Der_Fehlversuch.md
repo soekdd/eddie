@@ -49,7 +49,7 @@ Er lacht. „Hab noch ein Ticket."
 Ich spüre, wie mein Herz einen Schlag aussetzt. Ich hab's geschafft.
 Endlich.
 
-Ich renne zu Sini, um ihr die Nachricht zu bringen. Sie steht am
+Ich renne zu Sini, um ihr die Nachricht zu bringen. Sie steht mit meiner Reisetasche am
 Fährterminal und sieht schon von Weitem, dass ich diesmal nicht mit
 hängenden Schultern komme.\
 „Du hast es geschafft!" Sie wirft die Arme um mich, drückt mich so fest,
@@ -79,17 +79,17 @@ are minor. And... East German passport... problem."
 Mir wird heiß. „But--- I have a ticket---"\
 „Please, come with us."
 
-Ich stehe im provisorischen Gewahrsam -- ein kahler Raum, Metallstuhl,
-Tisch, der nach kaltem Kaffee riecht. Irgendwo läuft eine Uhr, die viel
+Verloren sitze ich kurz darauf im provisorischen Gewahrsam -- ein kahler Raum, Metallstuhl,
+Tisch, voller eingetrockneter Kaffeeflecken. Irgendwo läuft eine Uhr, die viel
 zu laut tickt. Meine Hände liegen im Schoß, ganz still, als könnte ich
 mich so unsichtbar machen.
 
 Sie wissen, dass ich gesucht werde. Einer der Zöllner blättert in einer
 Mappe, findet meinen Namen. Ich weiß nicht, was mich mehr lähmt -- die
 Angst vor dem, was sie jetzt mit mir tun, oder der Gedanke, dass Sini
-glaubt, ich sei schon längst auf See.
+glaubt, ich sei schon längst auf See. Tränen schießen mir in die Augen.
 
-Dann geht die Tür auf. Sini. In ihrer Fährterminal-Weste, mit diesem
+Da plötzlich knallt die Tür auf. Sini. In ihrer Fährterminal-Weste, mit diesem
 Blick, der keine Widerrede duldet.\
 „She's with me."\
 „We can't---"\
@@ -101,15 +101,15 @@ nicht wissen. Aber fünf Minuten später sind wir draußen, und die Fähre
 ist längst weg.
 
 Wir stehen schweigend vor den Toren des Terminals. Das Dröhnen der
-Schiffsmotoren klingt noch in meinen Ohren, wie ein Hohn.\
-„Tut mir leid", sage ich schließlich.\
-„Dir?", fragt sie. „Eddie, wir haben ein Problem, das viel größer ist
-als diese Überfahrt."
+Schiffsmotoren klingt noch in meinen Ohren, wie ein Hohn.
+
+Ich heule immer noch. Ein „Tut mir leid", bringe ich schließlich hervor.
+
+„Dir?", fragt sie. „Eddie, wir haben ein Problem, das viel größer ist als diese Überfahrt."
 
 Und sie hat recht. Die Zeit läuft uns davon. Ihre Wohnung muss bald
 geräumt werden. Wir haben keinen Plan, keine sicheren Wege, keine Idee,
 wie wir das noch drehen können.
 
 Ich lehne mich gegen die Wand des Terminals, schaue aufs graue Wasser.
-Zum ersten Mal seit ich hier bin, fühlt sich alles wirklich hoffnungslos
-an.
+Zum ersten Mal seit ich hier bin, fühlt sich alles wirklich hoffnungslos an.
