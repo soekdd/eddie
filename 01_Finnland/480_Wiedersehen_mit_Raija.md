@@ -28,7 +28,7 @@
 }
 ```
 
-Wir liegen im Dunkeln. Die Uhr auf Sinis Küchentisch tickt leise, als
+Wir liegen im Dunkeln auf Sinis Sofa. Die Uhr auf dem Küchentisch tickt leise, als
 wolle sie uns verhöhnen. Jedes Ticken sagt: noch eine Minute weniger.
 Noch eine Nacht, die wir verlieren.
 
@@ -36,7 +36,7 @@ Noch eine Nacht, die wir verlieren.
 ich.\
 „Und wenn die wieder fragen, wie alt du bist?"\
 „Sag ich was anderes."\
-„Das bringt doch nichts, Eddie."
+„Die schauen in deinem Pass, Eddie. Das bringt doch nichts."
 
 Wir reden uns fest. Ich schlage vor, dass ich mich als
 Austauschschülerin ausgebe, Sini als meine Cousine. Sie sagt, wir würden
@@ -154,11 +154,8 @@ Zöllner sehen uns, sehen das Papier und winken durch. Sini eilt uns
 nach, bis in den Abfertigungsbereich. Man kennt sie, niemand hält sie
 auf.
 
-Wir stehen uns gegenüber. Ich will etwas sagen, etwas, das sie für immer
-behält. Stattdessen atme ich tief ein, springe über meinen eigenen
-Schatten, lege meine Hände an ihre Wangen und küsse sie -- lange, mitten
-im Lärm und im Neonlicht. Sie erwidert es, als hätten wir alle Zeit der
-Welt.
+Wir stehen uns gegenüber. Ich will etwas sagen, etwas, das all mein Dankbarkeit ausdrückt, etwas das sie für immer behält. Stattdessen atme ich tief ein, springe über meinen eigenen Schatten, lege meine Hände an ihre Wangen und küsse sie -- lange, mitten
+im Lärm und im Neonlicht. Sie erwidert es, als hätten wir alle Zeit der Welt.
 
 Raija grinst. „Da habe ich wohl was verpasst?"
 
@@ -178,7 +175,8 @@ Sini sein. Ist da auch. Zumindest für mich.
 Neben mir stehen ein paar LKW-Fahrer mit Thermoskannen, reden über
 Motoren und den Preis für Diesel in Umeå. Einer wirft mir einen Blick
 zu, mustert die Uniform von Raija und mich -- aber er fragt nichts. Gut
-so.\
+so.
+
 Raija lehnt sich mit verschränkten Armen ans Geländer. Sie sagt nichts,
 muss sie auch nicht. Ihre bloße Anwesenheit ist wie ein Schutzschild.
 
@@ -188,26 +186,25 @@ Monaten wie ein Märchen in meinem Kopf wohnt.\
 Ich frage mich, ob es wirklich so ist, wie ich es mir vorstelle.
 Wahrscheinlich nicht. Aber es ist nicht die DDR. Das reicht fürs Erste.
 
-Der Wind frischt auf, ~~treibt mir die Haare ins Gesicht. Ich lache
-leise, einfach so, weil ich kann.\
-Zum ersten Mal seit Monaten atme ich nicht ein, um zu kontrollieren, was
-ich sage -- ich atme einfach.~~
-
-~~Und unter all dem neuen, wilden Gefühl liegt dieser eine Gedanke wie
+Der Wind frischt auf, zumpft an meinen kurzen Haaren. Ich lache leise, einfach so, weil ich kann. Und unter all dem neuen, wilden Gefühl liegt dieser eine Gedanke wie
 ein kleiner, warmer Stein in der Tasche: Sini hat mich gehen lassen.
 Aber sie hat mir etwas mitgegeben, das nicht an irgendeiner Grenze
-hängenbleibt.~~
+hängenbleibt.
 
 Raija lehnt sich neben mich an die Reling, schaut lange aufs Wasser, als
-würde sie dort unten die passenden Worte finden.\
+würde sie dort unten die passenden Worte finden.
+
 „Eddie...", sagt sie schließlich, „warum bist du damals so plötzlich aus
-meiner Wohnung verschwunden? Ich hab überall nach dir gesucht."\
+meiner Wohnung abgehauen? Ich hab überall nach dir gesucht."
+
 Ihre Stimme ist ruhig, aber dahinter liegt etwas Hartes -- Sorge oder
 vielleicht auch leise Wut.
 
 Ich atme durch, blicke auf meine Hände, die auf dem kalten Metall
-liegen. „Ich dachte, du weißt es. Wegen Markku."\
-„Wegen seiner politischen Sprüche?"\
+liegen. „Ich dachte, du weißt es. Wegen Markku."
+
+„Wegen seiner politischen Sprüche?"
+
 „Nein", sage ich. „Wegen seiner Hände."
 
 Es dauert ein paar Sekunden, bis sie versteht. Ihre Stirn zieht sich
@@ -215,15 +212,17 @@ zusammen. "Oh, nein!" ruft sie. "Was genau ist passiert?"
 
 "Als er am Morgen zurückkam, ... Er war betrunken und immer noch sauer
 auf mich. Da er keine Argumente mehr hatte, fing ich mir ne Ohrfeige von
-ihm."\
-\
+ihm."
+
 Raija stößt einen leisen, bitteren Laut aus. „Verdammt. Und ich war
 nicht da. Hätte ihn rausschmeißen sollen, längst..." Sie schüttelt den
 Kopf, als wollte sie den Gedanken loswerden.
 
 „Ich bin dir damals gefolgt", sage ich leise. „Mit dem Zug bis Tampere.
-Bin sogar bis vor die Polizeistation gelaufen, wo du gearbeitet hast."\
-„Was? Du warst da, in Tampere? Und warum bist du nicht reingekommen?"\
+Bin sogar bis vor die Polizeistation gelaufen, wo du gearbeitet hast."
+
+„Was? Du warst da, in Tampere? Und warum bist du nicht reingekommen?"
+
 „Weil ich dachte, dass mich die Polizei dann wieder ausliefert. Also bin
 ich einfach los, zu Fuß Richtung Vaasa."
 
@@ -231,17 +230,19 @@ Sie sieht mich an, als müsste sie neu lernen, wer ich eigentlich bin.
 „Ich habe später erfahren, dass einer von Markkus Freunden bei der SKOL
 Kontakt zur Stasi aufgenommen hat. Markku wusste nicht, dass er dich
 verraten würde. Er war total unvorsichtig. Unentschuldbar
-unvorsichtig."\
-Mir wird kurz kalt, obwohl der Wind heute mild ist. „Und das war,
-bevor...?"\
-„Bevor Markku dich angefasst hat. Aber du warst schon weg, als die
-Männer der Stasi vor unserer Wohnung standen.. Glück im Unglück."
+unvorsichtig."
+
+Mir wird kurz kalt, obwohl der Wind heute mild ist. „Und das war, bevor...?"
+
+„Bevor Markku dich geschlagen hat. Aber du warst schon weg, als die
+Männer der Stasi vor unserer Wohnung standen… Glück im Unglück."
 
 Wir schweigen. Die Ostsee zieht unter uns vorbei wie ein endloses
-Fließband.\
-„Komisch, wie das Schicksal manchmal funktioniert", murmelt Raija.\
-„Ja. Eigentlich wollte ich nur weg. Und jetzt... bin ich genau hier."
+Fließband.
+„Komisch, wie das Schicksal manchmal funktioniert", murmelt Raija.
+„Ja. Ich hab gedacht, die Flucht aus deiner Wohnung war mein größter
+Absturz. Und jetzt seh ich, dass sie mich gerettet hat."
 
 Wir stehen da, jede in ihren eigenen Gedanken. Und zwischen all dem
-Schmerz und der Schwere liegt so ein winziger, heller Punkt -- dass wir
-beide es bis hierher geschafft haben.
+Schmerz und der Schwere bleibt dieser kleine, helle Punkt – dass selbst
+eine scheinbare Niederlage manchmal genau der Schritt ist, der dich weiterbringt.

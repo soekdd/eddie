@@ -44,60 +44,31 @@ Sie zuckt nur leicht mit den Schultern, als ob die Antwort für sie keine
 große Sache wäre. „Ach nein. Das heißt 'kleines blaues Mädchen'. Ich mag
 es nicht und nenne mich daher nur Sini."
 
-Ich muss grinsen. „Das ist ja süß. Wie heißen diese lustigen kleinen
-blauen Zwerge auf Englisch? Wir nennen sie Schlümpfe. Meine Oma hat mir
-immer welche aus dem Westen mitgebracht -- ich liebe diese kräftigen,
-glänzenden Farben und die vielen lustigen Berufe. Die Hartgummifiguren
-aus der DDR waren entweder Tiere oder Soldaten."
+Ich muss grinsen.„Das ist ja süß. Wie heißen diese lustigen kleinen blauen Zwerge auf Englisch? Wir nennen sie Schlümpfe. Meine Oma hat mir immer welche aus dem Westen mitgebracht – ich liebe diese kräftigen, glänzenden Farben und die vielen lustigen Berufe. Die Hartgummifiguren aus der DDR waren entweder Tiere oder Soldaten."
 
-Sini verschränkt die Arme, die Stirn leicht gerunzelt. „Smurfs nennt man
-sie. Und ich weiß schon, worauf du hinauswillst: auf die Smurfette! Aber
-diesen Schlumpfine-Vergleich mag ich eigentlich gar nicht."
+Sini verschränkt die Arme, die Stirn leicht gerunzelt. „Smurfs nennt man sie. Und ich weiß schon, worauf du hinauswillst: auf die Smurfette! Aber diesen Schlumpfine-Vergleich mag ich eigentlich gar nicht."
 
-Ich lehne mich vor, hebe die Augenbrauen und lächle schief. „Haha, ja,
-ich hab schon geahnt, dass das heikel ist. Aber weißt du, warum Gargamel
-Schlumpfine überhaupt erschaffen hat?"
+Ich ziehe die Beine an, sehe aufs Wasser und zucke lächelnd die Schultern. „Mir geht’s da anders. In meiner Matheklasse war ich fast immer das einzige Mädchen zwischen lauter Jungs. Genau deshalb hab ich mich oft wie Schlumpfine gefühlt – ein bisschen anders, manchmal allein, aber auch clever. Sie war für mich kein Klischee, sondern eher Beweis, dass man auch als Einzige im Haufen seinen Platz finden kann."
 
-Sie zieht eine Braue hoch, neugierig jetzt. „Keine Ahnung..."
+Sini schnaubt. „Hm. Klingt nett, aber die Story hinter ihr ist halt mies. Gargamel hat Schlumpfine erschaffen, um die Schlümpfe verrückt zu machen. Und Papa Schlumpf musste sie erst zu diesem braven, blonden Mädchen machen. Zwei Männer, die bestimmen, was aus ihr wird. Boah, das ist so was von sexistisch."
 
-Ich breite die Hände aus, als würde ich einen besonders spannenden Witz
-erklären. „Er wollte die Schlümpfe austricksen. Ursprünglich dachte er,
-ihre Weiblichkeit würde die anderen Schlümpfe in den Wahnsinn treiben.
-Total erfolglos übrigens -- Schlumpfine hat sich ihren eigenen Kopf
-bewahrt."
+Ich grinse frech. „Okay, fair point. Aber weißt du was? Dann schreiben wir die Geschichte einfach um. Ist ja im Grunde Literatur – und Literatur darf man biegen."
 
-Sini grinst, ihre Hände ruhen locker auf ihrem bunten Overall. „Hm, das
-klingt fast so, als hätte sie eine ähnliche Gabe wie ich, Männer um den
-Finger zu wickeln..."
+Sini blinzelt mich an, ihr Sidecut glänzt im Abendlicht. „Und wie genau biegen wir die?"
 
-Ich lache und zeige auf sie. „Genau! Ich beneide dich darum echt. Du
-schaffst es so leicht, Menschen mit deiner Art zu beeinflussen, ohne
-dass sie es merken. Schlumpfine hat das auch geschafft -- nur, bei ihr
-hat Gargamels Plan nicht funktioniert."
+„So: Gargamel erschafft Schlumpfine unwiderstehlich schön und klug, wie sie nun mal ist. Aber anstatt Zwietracht zu säen, nimmt sie die Typen an der Hand und führt sie. Sie bevorzugt keinen, bringt Ordnung rein, macht die Schlümpfe fast schon zu Gentlemen. Eine Frau, die die Männerwelt im Dorf einfach besser macht."
 
-Ein Birkenblatt segelt vom Baum und Sini fängt es im Flug, dreht es
-zwischen den Fingern. „Na, dann passt der Vergleich doch irgendwie.
-Clever sein, ein bisschen bezaubernd -- aber trotzdem stark und
-eigenständig."
+Sini grinst breit, fast triumphierend. „Das gefällt mir! Eine Schlumpfine, die nicht zur Blondine verbogen wird, sondern die Bude regelt. Feministische Revolution im Pilzdorf."
 
-Ich nicke, deute mit beiden Händen auf mich und lächle verträumt. „Und
-vergiss nicht: Ich war in meiner Matheschule fast das einzige Mädchen in
-der Klasse. Da hab ich mich oft wie Schlumpfine gefühlt -- ein bisschen
-anders, ein bisschen allein, aber auch clever. Ich kann mich total in
-sie reinversetzen."
+Ich nicke, mein Grinsen wird schief. „Und stell dir vor: kurze blonde Haare, rebellischer Blick – trotzdem liegen alle Schlümpfe flach. Nicht weil sie sabbern, sondern weil sie Respekt gelernt haben."
 
-Die Sonne taucht ihre Wangen in warmes Gold, als sie mich ansieht. „Das
-stimmt. Vielleicht ist es ja gar nicht so schlimm, diesen Namen zu
-haben. Man kann ihn für sich selbst auf eine coole Art interpretieren:
-wie Schlumpfine -- charmant, clever und eigenständig."
+Sini lacht schallend, hebt das Birkenblatt wie ein kleines Zepter. „Unsere Schlumpfine wäre unbesiegbar. Punkig, klug, gerecht – und kein Papa Schlumpf der Welt dürfte ihr reinreden."
 
-Ich strecke beide Daumen nach oben und grinse. „Genau! Du bist mein
-persönlicher finnischer Schlumpfine-Star -- auf eine richtig coole Art."
+„Deal!", sage ich und strecke ihr die Faust hin. Wir boxen dagegen, als hätten wir gerade ein Manifest beschlossen.
 
-Sini lacht, lehnt sich zurück und streckt die Beine aus, ihre weißen
-Turnschuhe wippen leicht. „Okay, damit kann ich leben. Clever, schön und
-ein bisschen unbesiegbar -- gefällt mir! Aber jetzt reden wir mal über
-deinen Namen, Eddie. Ist das nicht eigentlich ein Jungenname?"
+Wir lachen beide noch, der Wind spielt mit Sinis Haar, und für einen Moment fühlt es sich an, als hätten wir die ganze Welt neu geordnet – ein Dorf voller Schlümpfe inklusive.
+
+Dann lehnt Sini sich zurück, streckt die Beine aus, ihre weißen Turnschuhe wippen leicht. „Na gut, damit kann ich leben. Clever, schön und ein bisschen unbesiegbar – gefällt mir!" Sie dreht den Kopf zu mir, grinst schelmisch. „Aber jetzt reden wir mal über dich. Dein Name, Eddie – ist das nicht eigentlich ein Jungenname?"
 
 „Eigentlich wollte mein Vater mich Ada nennen, nach Ada Lovelace",
 erzähle ich.\
@@ -134,9 +105,9 @@ kannte wirklich niemand.
 Sini schiebt die Augenbrauen hoch. „Edda Göring? Echt jetzt? Das ist
 ja... irgendwie schräg."\
 „Ja, oder? Aber hätte auch schlimmer kommen können weißt Du? Von heute
-aus betrachtet kann ich froh sein, dass mein Vater weder Pelageya
-Polubarinova-Kochina" - ich spreche den Namen extra langsam aus und
-betone jede Silbe ,"eine Göttin der Hydrodynamik, noch Lyudmila Keldysh,
+aus betrachtet kann ich froh sein, dass mein Vater weder Pe-la-ge-ya
+Po-lu-ba-ri-nova-Ko-chi-na" - ich spreche den Namen extra langsam aus und
+betone jede Silbe ,"eine Göttin der Hydrodynamik, noch Lyud-mila Kel-dysh,
 Mathematikprofessorin an der Moskauer Lomonossow-Universität, kannte."
 Sini lacht auf: \"Ja, das wäre endlos schlimmer." "Absolut" erwidere ich
 und lehne mich zurück, „am Ende haben mich sowieso alle nur Eddie
@@ -145,8 +116,12 @@ genannt, sogar die Lehrer."\
 Fußballspieler oder ein britischer Reggae-Sänger." Sina springt von der
 Bank auf und tut so, als ob sie Fußballspielerin und Sängerin zugleich
 wäre. Ich falle vor Lachen beinahe von der Bank. Es ist so schön mit
-Sina Zeit zu verlieren. Der Wind weht mir den Geruch von Seealgen und
-Rauch in die Nase. Ich merke, wie ich mich an den Stoff meines
-verwaschenen roten Trainingsanzugs klammere -- der, den ich aus Dresden
-mitgebracht habe. Hier, so weit weg, fühlt sich sogar mein Name manchmal
-fremd an.
+Sina Zeit zu verlieren. Der Wind weht mir den Geruch von Seealgen und Rauch in die Nase. Ich streiche über den Stoff meines verwaschenen roten Trainingsanzugs – ein Stück Dresden, das sich hier manchmal fremd anfühlt.
+
+Aber während ich neben Sini sitze, merke ich: Zuhause ist vielleicht gar kein Ort, kein Name, kein System. Zuhause sind Menschen. Menschen wie sie, die mich auffangen, wenn alles auseinanderzufallen droht. Und plötzlich frage ich mich, warum ich überhaupt weiterziehen sollte, wenn ich doch hier genau das habe.
+
+Dann fällt mir ein: Auch Sini wird nicht bleiben. Bald zieht sie nach Helsinki, um zu studieren. Und das hier, unsere Bank, der See, der Rauch in der Luft – es ist nur eine Zwischenstation.
+
+Ich rutsche näher, lege die Arme um sie und halte sie fest. „Danke, Sini“, flüstere ich, „dass du meine Familie warst.“
+
+Sie drückt mich zurück, stark und warm. Für einen Moment ist es egal, wohin wir müssen. Hier, jetzt, fühlt es sich an wie Zuhause. Und ganz ehrlich: mehr brauch ich gerade nicht.
