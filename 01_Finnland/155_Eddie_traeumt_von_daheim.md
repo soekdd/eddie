@@ -26,6 +26,7 @@
     }
 }
 ```
+
 Die zweite Nacht hier ist anders: ich träume von daheim.
 Ich liege wach im fremden Bett, die Decke riecht nach Raija ein bisschen nach fremdem Waschpulver. Alles ist still, nur draußen ruft ein Nachtvogel, als finde auch er keinen Schlaf. Mein Kopf hämmert, als würde jemand von innen mit Fäusten gegen die Schädelwand schlagen.
 
@@ -49,6 +50,7 @@ Ich will es glauben, für einen winzigen Augenblick. Aber in mir drin weiß ich:
 
 Doch Raijas Arm um meine Schultern, ihre Nähe, ihr Herzschlag – das alles wiegt schwerer als die Gedanken. Ich lasse mich in diese Wärme fallen, als könnte sie mich für eine Nacht vor allem verbergen. Und irgendwann, mitten im stillen Weinen, übermannt mich der Schlaf.
 
+---- Löschen:
 Als ich die Augen öffne, ist die Sonne schon hoch. Die Wohnung ist still, leer, fast so, als wäre ich allein zurückgelassen. Raija ist längst auf dem Weg zur Arbeit. Auf dem Küchentisch steht ein Glas Wasser und daneben eine aufgerissene Packung Kekse – ihre Art, mir zu sagen: Ich war hier. Du bist nicht allein.
 
 Doch da steht er. Markku. Mit seiner Umhängetasche, die schon gepackt an seiner Schulter hängt, ein Stapel Bücher unter dem Arm. Er ist offensichtlich auf dem Sprung in die Uni.

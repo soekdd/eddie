@@ -10,7 +10,7 @@
     "mood": "hopeful and heartwarming",
     "tense": "present, Eddies first-person perspective",
     "mode": "flashback", // flashback | mainline
-    "illustrations": ["FIN_Vaasa_Busse.png"],
+    "illustrations": ["FIN_Jotsenlampi_Huette.png", "FIN_Jotsenlampi_Sauna.png", "FIN_Jotsenlampi_Sauna_Wasser.png", "FIN_Jotsenlampi_Sauna_zu_dritt.png"],
     "feedback": {
         "anni": {
             "rating":".....",

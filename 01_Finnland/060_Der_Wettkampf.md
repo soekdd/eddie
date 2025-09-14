@@ -10,6 +10,7 @@
     "mood": "tense relief, fear",
     "tense": "present, Eddies first-person perspective",
     "mode": "mainline",
+    "illustrations": ["FIN_Jotsenlampi_Wettkampf.png"],
     "feedback": {
         "anni": {
             "rating":".....",

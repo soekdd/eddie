@@ -61,8 +61,25 @@ Ich sehe, wie ihre Stirn sich in Falten legt, wie sie aufpasst, jedes
 Wort einsammelt, so als könne sie daraus mein ganzes Bild
 zusammensetzen.
 
-Es tut gut, endlich sprechen zu können. Nicht mehr alles in mir
-einzuschließen, wie einen Knoten im Bauch.
+„Sag mal, Eddie … wie bist du eigentlich auf die Idee gekommen, die Olympiade zur Flucht zu nutzen? Da muss man doch erst mal hinkommen.“
+
+Ich zucke die Schultern, als wär’s nichts Besonderes. „War nicht so, dass ich morgens aufgewacht bin und dachte: Heute flieh ich mal. Der Gedanke kam, als die Eltern von meinem besten Kumpel verhaftet wurden. Wegen Republikflucht-Vorbereitung. Die waren völlig normal, total nett. Und zack – alles vorbei. Er musste ins Heim, die Familie war erledigt.“
+
+Raija schüttelt ungläubig den Kopf. „Die Familie wurde zerstört, so einfach? Nur weil die Eltern das Land verlassen wollten? Hat die DDR nicht damals auch hier in Helsinki die KSZE-Schlussakte unterschrieben, die die Menschenrechte für jeden Bürger seines Landes garantierte? Also auch das Recht, ausreisen zu dürfen?“
+
+Ich lache bitter. „Alles nur eine Lüge. Und das war eben der Punkt, an dem mir klar wurde: Ich bin dran. Entweder ich finde meinen Weg – oder ich gehe unter.“
+
+Ich versuche, es locker klingen zu lassen: „Für junge Leute gibt’s eigentlich nur zwei Chancen, rauszukommen: Sport – oder, wenn du ein Junge bist, Knabenchor. Beides eher unpraktisch für mich. Also blieb nur Mathe. Meine große Liebe musste mir auch den Weg in den Westen öffnen.“
+
+Raija pfeift leise. „Das klingt … irre.“
+
+„War’s auch.“ Ich lehne mich zurück. „Zwei Jahre lang Top fünf bei der Landesolympiade. Mehrfach Bezirkssiegerin. Aber das reichte nicht um bei der IMO dabei zu sein. Sie wollten mehr. Also: Spezialschule Berlin, Lehrgänge, Trainingslager … und dann das Beste: Alle paar Wochen hat man mich einfach aus dem Unterricht gezerrt. ‚Komm mit!‘ Zack, Tür zum Direktor, Blatt auf den Tisch, Matheaufgaben wie bei der IMO. Kein Spicken, kein Vorbereiten. Nichts. Nur schwitzen. Ein Jahr lang.“
+
+Ich grinse schief. „Und jedes Mal dachte ich: Jetzt bist du durchgefallen. Jetzt war’s das. Und dann, kurz vor der Abreise … kam die Nachricht. Qualifiziert.“
+
+Raija starrt mich an, als hätte ich den Mount Everest im Turnschuh bestiegen. „Eddie … unglaublich. Mit siebzehn.“
+
+Ich tue so, als wär’s nicht der Rede wert. „Na ja, andere haben ihre Fußballkarriere. Ich hab halt meine Fluchtkarriere.“ Ich lache, aber tief in mir spüre ich, wie nah alles an der Kante war. Wenn nur ein Test schiefgegangen wäre … Ich schiebe den Gedanken weg, bevor er mich runterzieht.
 
 Als die Teller leer sind und der Wein im Glas glitzert, lehne ich mich
 zurück. „Und du?", frage ich. „Wieso bist du Polizistin geworden? Mit

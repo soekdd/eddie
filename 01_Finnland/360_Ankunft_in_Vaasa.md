@@ -10,6 +10,7 @@
     "mood": "hopeful but tense",
     "tense": "present, Eddies first-person perspective",
     "mode": "mainline", // flashback | mainline
+    "illustrations": ["FIN_Vaasa_Ankunft.png"],
     "feedback": {
         "anni": {
             "rating":".....",

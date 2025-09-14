@@ -27,7 +27,6 @@
     }
 }
 
-
 ```
 
 Montagmorgen. Ich stolpere verschlafen in die Küche, Raija ist schon längst weg zur Arbeit. Stattdessen sitzt da Markku – und wirkt plötzlich anders. Nicht mehr so abweisend wie gestern, fast freundlich, was bei ihm irgendwie unheimlich ist. Er mustert mich dauernd, als wäre ich irgendein Rätsel, das er unbedingt lösen will. Ich tue so, als würde ich’s nicht merken, auch wenn mir jedes Mal die Nackenhaare hochgehen.
