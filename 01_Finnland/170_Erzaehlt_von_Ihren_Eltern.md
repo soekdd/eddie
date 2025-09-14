@@ -1,4 +1,4 @@
-# Abschied von den Eltern
+# Eddie erzählt von ihren Eltern
 
 ```json
 {
