@@ -234,14 +234,15 @@ unvorsichtig."
 
 Mir wird kurz kalt, obwohl der Wind heute mild ist. „Und das war, bevor...?"
 
-„Bevor Markku dich angefasst hat. Aber du warst schon weg, als die
-Männer der Stasi vor unserer Wohnung standen.. Glück im Unglück."
+„Bevor Markku dich geschlagen hat. Aber du warst schon weg, als die
+Männer der Stasi vor unserer Wohnung standen… Glück im Unglück."
 
 Wir schweigen. Die Ostsee zieht unter uns vorbei wie ein endloses
-Fließband.\
-„Komisch, wie das Schicksal manchmal funktioniert", murmelt Raija.\
-„Ja. Eigentlich wollte ich nur weg. Und jetzt... bin ich genau hier."
+Fließband.
+„Komisch, wie das Schicksal manchmal funktioniert", murmelt Raija.
+„Ja. Ich hab gedacht, die Flucht aus deiner Wohnung war mein größter
+Absturz. Und jetzt seh ich, dass sie mich gerettet hat."
 
 Wir stehen da, jede in ihren eigenen Gedanken. Und zwischen all dem
-Schmerz und der Schwere liegt so ein winziger, heller Punkt -- dass wir
-beide es bis hierher geschafft haben.
+Schmerz und der Schwere bleibt dieser kleine, helle Punkt – dass selbst
+eine scheinbare Niederlage manchmal genau der Schritt ist, der dich weiterbringt.
