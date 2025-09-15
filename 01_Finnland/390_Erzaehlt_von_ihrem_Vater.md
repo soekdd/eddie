@@ -2,7 +2,7 @@
 
 ```json
 {
-    "date": "1985-08-03",
+    "date": "1985-08-10",
     "place": "Sinis Wohnung, Vaasa",
     "synopsis": "Eddie erzählt Sini … (Rückblick auf Dresden).",
     "persons": ["Eddie", "Sini", "Eddies Vater", "Leonhard Radmer"],

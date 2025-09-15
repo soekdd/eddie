@@ -1,12 +1,12 @@
-# Mattis Flucht
+# Peters Flucht
 
 ```json
 {
-    "date": "1985-07-18",
+    "date": "1985-07-15",
     "daytime":"afternoon",
     "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
-    "persons": ["Matti", "Eddie", "Sabine", "Conny", "Peter"],
-    "synopsis": "Matti erzählt von der Ausgrenzung und dem Verlust seiner Familie nach einem Ausreiseantrag; die Gruppe versteht dadurch besser Eddies Flucht.",
+    "persons": ["Peter", "Eddie", "Sabine", "Conny", "Mattie"],
+    "synopsis": "Peter erzählt von der Ausgrenzung und dem Verlust seiner Familie nach einem Ausreiseantrag; die Gruppe versteht dadurch besser Eddies Flucht.",
     "mood": "somber but bonding",
     "tense": "present, Eddies first-person perspective",
     "mode": "mainline", // flashback | mainline
@@ -28,7 +28,7 @@
 ```
 
 Der Regen trommelt weiter auf das Dach, die Gitarre liegt daneben
-verstummt -- jetzt ist Reden dran. Matti rückt näher ans Feuer, zieht
+verstummt -- jetzt ist Reden dran. Peter rückt näher ans Feuer, zieht
 die Jacke enger und sagt langsam, als müsste er erst wieder Worte
 finden.
 
@@ -67,11 +67,11 @@ als ‚Störenfried' gilt, kriegt man schnell Probleme mit der Schule, mit
 dem Betrieb, mit dem Amt."
 
 Die anderen hören gebannt zu. Sabine hält die Hand vor den Mund, Conny
-wischt sich heimlich die Augen. Peter sagt nichts, aber seine Finger
+wischt sich heimlich die Augen. Mattie sagt nichts, aber seine Finger
 trommeln nervös am Becher.
 
 Ich denke: Das sind Fakten, die ich kenne, aber noch nie so gehört habe.
-Mattis Stimme macht das alles greifbar -- nicht abstrakt, sondern mit
+Peters Stimme macht das alles greifbar -- nicht abstrakt, sondern mit
 Namen, mit Zorn und einer Art stillem Stolz. Als er fertig ist,
 verstehen die vier plötzlich, warum ich geflohen bin. Sie begreifen die
 Angst, die jedem Antragsteller und seinen Angehörigen drohte, und dass

@@ -2,7 +2,7 @@
 
 ```json
 {
-    "date": "1985-07-18",
+    "date": "1985-07-14",
     "daytime": "morning",
     "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
     "persons": ["Eddie", "Peter", "Sabine", "Conny", "Matti"],

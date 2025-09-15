@@ -2,7 +2,7 @@
 
 ```json
 {
-    "date": "1985-07-19",
+    "date": "1985-07-17",
     "daytime": "morning",
     "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
     "persons": ["Eddie", "Sabine", "Conny", "Peter", "Matti"],
@@ -10,6 +10,7 @@
     "mood": "hopeful and heartwarming",
     "tense": "present, Eddies first-person perspective",
     "mode": "mainline", // flashback | mainline
+    "source": "https://ita-ikaalistenvpk.fi/elamyskota/",
     "feedback": {
         "anni": {
             "rating":".....",

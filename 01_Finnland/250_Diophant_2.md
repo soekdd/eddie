@@ -2,7 +2,7 @@
 
 ```json
 {
-    "date": "1985-07-07",
+    "date": "1985-07-09",
     "place": "Tampere",
     "persons": [ "Eddie" ],
     "synopsis": "Eddie löst eine Diophantische Gleichung und kauft für 55 Kronen genau 3 Säcke Reis und 4 Säcke Nudeln.",
