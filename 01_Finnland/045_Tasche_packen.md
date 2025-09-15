@@ -1,7 +1,9 @@
 # Tasche packen 
 
 ````````
-````
+
+`
+
 Schlafen ist eh nicht mehr drin. Ich hab mich jetzt so lange hin- und hergewälzt, dass mir der Rücken wehtut. Bringt nix, sich drüber aufzuregen. Also steh ich leise auf und fang an, mein Zeug zu packen. Die Sonne hängt schon wieder am Himmel – Mittsommernacht eben – und das Licht reicht locker, um alles zu sehen. Kein Schalter, kein Klicken, keine Chance, dass die anderen beiden aufwachen.
 
 Ich hab nur meine kleine Reisetasche. „Klein“ ist gut – größer als die Taschen von allen anderen zusammen. Aber genau das war der Plan. Alle lachen schon die ganze Zeit, dass ich immer zu viel mitschleppe. Perfekt. Niemand wundert sich.
