@@ -42,7 +42,9 @@ Und das kommt noch oben drauf zu den restlichen Risiken: 60 Prozent, dass der Fa
 
 Und wenn der Bus nicht mal fünf, sondern nur drei Minuten hält? Dann sind wir bei sechs Prozent. Herzlichen Glückwunsch, Eddie.
 
-Okay, inzwischen hab ich Kronen, das Währungsproblem wäre also vom Tisch. Aber ehrlich: Die Variante bleibt trotzdem ein Totalausfall.
+Okay, inzwischen hab ich Finnisch 
+, das Währungsproblem wäre also vom Tisch.
+ Aber ehrlich: Die Variante bleibt trotzdem ein Totalausfall.
 
 Ich hab gerechnet, Wahrscheinlichkeiten geknetet, Wege gestrichen. Hab mir die Zukunft wie’n Puzzle zusammengesetzt. Und am Ende bleibt immer dieses Loch: keiner weiß, was wirklich kommt. Und genau das brennt schlimmer als jede Gewissheit.
 
