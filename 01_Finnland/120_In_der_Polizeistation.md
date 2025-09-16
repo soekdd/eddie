@@ -9,7 +9,8 @@
     "synopsis": "Eddie erzählt ihre Geschichte auf der Wache, Raija kontaktiert die BRD-Botschaft. Wegen Eddies Minderjährigkeit droht Auslieferung an Mielke, doch durch eine Schutzbehauptung kann sie in Polizeigewahrsam bleiben, bis die Botschaft Hilfe schickt.",
     "mood": "emotional ups and downs, tense but hopeful",
     "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
+    "mode": "mainline", // flashback | mainline,
+    "illustrations": ["FIN_Joutsa_Haare_waschen.png"],
     "feedback": {
         "anni": {
             "rating":".....",

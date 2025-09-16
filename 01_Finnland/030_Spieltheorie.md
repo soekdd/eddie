@@ -40,11 +40,12 @@ Bämm, die Antwort: Linienbus fährt jede Stunde – und fast keiner nimmt ihn. 
 Denn wenn ihn keiner nimmt, kennt auch keiner die Zeiten. Kein Plan, keine Uhrzeiten, nix. Also durchgerechnet: fährt der Bus im Schnitt alle 30 Minuten (also stündlich in jede Richtung), hält fünf Minuten – dann erwisch ich ihn vielleicht in 16 Prozent der Zeit. (Im Kopf: 1 – (55/60)², ja, ich weiß.)
 Und das kommt noch oben drauf zu den restlichen Risiken: 60 Prozent, dass der Fahrer mein Geld nicht nimmt. Oder dass Mielke mich am nächsten Halt einfach packt und rauszerrt. Bleiben – Trommelwirbel – unter zehn Prozent.
 
+> **➡ Spieltheorie und Entscheidungsbäume...**\
+> (Das ging jetzt alles ein bischen zu schnell. Die genaue Erläuterung findest du im Kapitel 2 von „Eddie rechnet“.)
+
 Und wenn der Bus nicht mal fünf, sondern nur drei Minuten hält? Dann sind wir bei sechs Prozent. Herzlichen Glückwunsch, Eddie.
 
-Okay, inzwischen hab ich Finnisch 
-, das Währungsproblem wäre also vom Tisch.
- Aber ehrlich: Die Variante bleibt trotzdem ein Totalausfall.
+Okay, inzwischen hab ich Finnische Markka, das Währungsproblem wäre also vom Tisch. Aber ehrlich: Die Variante bleibt trotzdem ein Totalausfall.
 
 Ich hab gerechnet, Wahrscheinlichkeiten geknetet, Wege gestrichen. Hab mir die Zukunft wie’n Puzzle zusammengesetzt. Und am Ende bleibt immer dieses Loch: keiner weiß, was wirklich kommt. Und genau das brennt schlimmer als jede Gewissheit.
 

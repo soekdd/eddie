@@ -11,7 +11,7 @@
     "tense": "present, Eddies first-person perspective",
     "mode": "mainline", // flashback | mainline
     "source": "https://ita-ikaalistenvpk.fi/elamyskota/",
-    "illustration": ["FIN_Vaasalopet_Abschied.png"],
+    "illustrations": ["FIN_Vaasalopet_Abschied.png"],
     "feedback": {
         "anni": {
             "rating":".....",

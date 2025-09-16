@@ -15,8 +15,7 @@
         "anni": { "rating":".....", "comments":"" },
         "lucia": { "rating":".....", "comments":"" },
         "soek": { "rating":".....", "comments":"" }
-    },
-    "todo":"Tasche stategisch packen."
+    }
 }
 ```
 
@@ -41,7 +40,7 @@ Mir bleibt das Herz stehen.
 
 Er checkt nix, klappt den Block einfach auf und fängt an, eifrig drauflos zu kritzeln.
 
-> **➡ Die diophantische Gleichung...**\
+> **➡ Die diophantische Gleichung #1...**\
 > (Fischers Gekritzel findest du im Kapitel 1 von „Eddie rechnet“.)
 
 Der Bus rollt los. Die anderen diskutieren ein bisschen, bis sie’s endlich kapieren. Ich? Hör natürlich nicht zu. Mein Kopf hängt nur am Block. Mein Block!

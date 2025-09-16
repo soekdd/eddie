@@ -11,7 +11,7 @@
     "mood": "euphorisch, selbstermächtigend, lebendig",
     "tense": "present, Eddies first-person perspective",
     "mode": "mainline",
-    "illustration":["FIN_Tampere_Marktplatz.png"],
+    "illustrations":["FIN_Tampere_Marktplatz.png", "FIN_Tampere_Laavu.png"],
     "feedback": {
         "anni": {
             "rating":".....",
@@ -59,7 +59,10 @@ Beim Lebensmittelhändler geht’s an die Kalorien. 50 Kilo Gewicht, 20 Kilomete
 
 Ich muss lachen. Diophantos, der alte Grieche mit seinen Bauern und Kühen, würde staunen: Meine Gleichung heißt Überleben. Bauer Eddie hat zwei Kühe namens Reis und zwei Schweine namens Nudeln.
 
-Mit meinen Beuteln – Rucksack konnte ich mir nicht leisten – setze ich mich in den Schatten und sortiere meinen Schatz: Schlafsack, verbeultes Blechgeschirr, eine Regenjacke, ein Schweizer Taschenmesser mit kleiner Säge (noch nie gesehen, mega praktisch). Dazu die zwei Bücher, fünf Wanderkarten im Maßstab 1:25.000, und ein Geschenk vom Buchhändler: ein winziges Finnisch–Englisch-Wörterbuch.
+> **➡ Die diophantische Gleichung #2...**\
+> (Wie Eddie all ihr Geld exakt für Reis und Nudeln hätte ausgeben können, findest Du im Kapitel 4 von „Eddie rechnet“.)
+
+Mit meinen Beuteln – Rucksack konnte ich mir nicht leisten – setze ich mich in den Schatten und sortiere meinen Schatz: Schlafsack, verbeultes Blechgeschirr, eine Regenjacke, ein Schweizer Taschenmesser mit kleiner Säge (noch nie gesehen, mega praktisch). Dazu die zwei Bücher, fünfzehn (!!) Wanderkarten im Maßstab 1:25.000, und ein Geschenk vom Buchhändler: ein winziges Finnisch–Englisch-Wörterbuch.
 
 Die Sonne brennt, ich ziehe Linien mit dem Finger über die Karte. Erste Etappe, zweite Woche, dritte Woche. Ich male mir alles aus. 400 Kilometer nach Vaasa. Verrückt. Aber ich bin jung, ich bin stark. Und vor allem: ich habe keine andere Wahl.
 
