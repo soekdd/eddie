@@ -28,38 +28,6 @@
 ```
 
 Ich winke noch einmal zurück, bis sie zwischen den Bäumen verschwinden. Ihre Stimmen hallen kurz nach, dann ist es still. Nur meine Schritte auf dem sandigen Weg.
-Mein Rucksack sitzt schwer, aber irgendwie fühlt er sich leichter an. Vielleicht, weil die Worte der Deutschen noch in mir klingen. Sie haben mich verabschiedet, als wäre ich eine von ihnen. Fast so, als hätte ich Familie gefunden, für ein paar Stunden.
-Ich atme tief ein, richte die Schultern. Es fühlt sich an, als hätte ich einen kleinen Zusatzakku im Herzen.
-
-Der Weg führt durch Birken, die weißen Stämme leuchten im Sonnenlicht. Zwischen den Blättern blitzt immer wieder der See hervor. Er glitzert, als hätte jemand Silberstaub über das Wasser gestreut.
-Unter meinen Schuhen knacken trockene Kiefernnadeln. Ein Vogel ruft, kurz und hell, dann wieder Stille. Nur mein Atem, gleichmäßig. Schritt, Atem, Schritt.
-Am Ufer riecht es nach Holz. Ein alter Steg liegt halb im Wasser, die Bretter dunkel vom See. Mücken tanzen in der Luft, ziehen kleine Spiralen, die sich gleich wieder auflösen.
-
-Ich gehe einfach weiter, immer geradeaus, und merke: Mein Kopf wird frei. Dabei fällt mir auf, wie viele Wunder mir in den letzten Tagen passiert sind. Dass ich überhaupt aus der Schule rausgekommen bin, verkleidet mit Schuhcreme im Haar. Dass Fischer in meinem Block geblättert hat und mich trotzdem nicht verraten hat. Dass Maria genau im richtigen Moment in der Kirche stand und mich rettete. Dass Raija mich aufnahm, obwohl sie dafür alles riskierte. Und dass in Paderborn wirklich vier Deutsche auf mich warten sollen, die ich noch nie gesehen habe.
-Und dann noch das hier: dieser Weg, diese Birken, dieses Wasser – als hätte jemand die Landschaft so hingelegt, nur damit ich leichter weitergehen kann.
-Normalerweise brauche ich Beweise. Mathe, Zahlen, Gleichungen. Für jedes Ding eine Erklärung. Und klar, für alles gibt es eine logische Ursache. Aber ich will diesen Gedanken gerade nicht zulassen. Ich will mir einreden: Das sind Wunder. Vielleicht ist das sogar eine Art Religion – nur eben meine.
-
-Wenn ich an Wunder denke, fällt mir sofort Maria ein. Ihre Hände, wie sie mich in der Kirche festgehalten hat, als diese Männer plötzlich vor mir standen. Sie wich nicht zurück, nicht einen Schritt. Einfach dazubleiben, obwohl es gefährlich war – das war ihr Glaube. Kein Kreuz in der Hand, kein Bibelspruch, nur sie und ihre Stimme, klar und ruhig.
-„Ich bleibe bei dir, bis du sicher bist“, hatte sie gesagt. Das war keine Predigt. Das war ein Versprechen, das sie in diesem Moment auch hätte das Leben kosten können.
-Ich sehe noch, wie sie dem Polizisten auf Finnisch erklärte, was passiert war, während ich kaum noch einen klaren Gedanken fassen konnte. Sie hat gehandelt, nicht gezögert. Vielleicht ist es genau das, was Glauben bedeutet: so fest an etwas zu glauben, dass man sich selbst vergisst.
-Ich habe keine Kirche, keinen Gott, aber ich spüre ihre Aufrichtigkeit noch jetzt. Und vielleicht war das auch eines dieser Wunder.
-
-Und dann denke ich an Klara und Jens. Freunde meiner Eltern, Künstler. Kein Parteibuch-Karrierist, kein grauer Funktionär. Sie hatten Linolschnitte an den Wänden hängen, den Geruch von Terpentin in der Luft, und manchmal stapelten sich Plakate mit dicken roten Lettern in der Ecke. Ihr kleines Atelier wirkte wie eine Mischung aus Werkstatt und Wohnzimmer.
-
-Sie sagten nie: „Die DDR ist perfekt.“ Im Gegenteil. Am Küchentisch, spät am Abend, wenn sie dachten, ich schliefe schon, diskutierten sie leise mit meinen Eltern. „Von innen verändern“, hörte ich Klara einmal sagen, „sonst nehmen sie uns auch noch die letzten Reste Würde.“ Jens nickte nur, während er die Hände schwarz von der Druckerschwärze hatte.
-
-Sie glaubten. Nicht an Gott, sondern an eine gerechte Welt, in der niemand mehr hungern oder allein erfrieren sollte. Für sie war der Sozialismus kein Apparat, sondern eine Idee, für die sie sich abmühten – und die ihnen gleichzeitig dauernd das Leben schwer machte. Ich erinnere mich, wie Klara einmal erzählte, sie habe eine Ausstellung nicht bekommen, weil sie sich geweigert hatte, ein staatlich gewünschtes Motiv zu drucken. Und trotzdem blieb sie überzeugt: „Irgendwer muss doch aufrecht bleiben.“
-
-Ich habe diesen Glauben nie geteilt. Zu sehr sah ich schon damals, wie das System alle zermürbte. Aber ihre Aufrichtigkeit konnte ich nicht übersehen. Sie logen sich nichts vor, sie verbogen sich nicht. Sie hielten an etwas fest, das größer war als sie selbst – und das ist, fällt mir jetzt auf, gar nicht so weit weg von dem, was Maria in der Kirche getan hat.
-
-Beide Arten von Glauben haben dieselbe Wurzel: Aufrichtigkeit. Bei Maria ist es Gott, bei Klara und Jens die gerechte Gesellschaft. Für mich sind sie Beweise ohne Gleichung, und vielleicht ist das der Teil, den ich nie wirklich berechnen kann.
-
-Mathematik ist anders. Da gibt es keinen Platz für Wunder. Ein Satz ist wahr oder falsch, und ich kann es Schritt für Schritt beweisen. Ein Lemma, ein Beweis, ein Ergebnis. Keine Grauzone, kein „vielleicht“.
-Ich denke an die Aufgaben in Dresden, an die langen Nächte über Gleichungen. Da war alles so sicher. Ich konnte sehen, warum etwas gilt, und wenn ich es einmal verstanden hatte, war es für immer gültig. Es gibt keine Natur, die den Beweis plötzlich anders rauschen lässt.
-
-Und trotzdem: Die letzten Tage passen in keinen Beweis. Wäre es Mathematik, müsste ich Wahrscheinlichkeiten berechnen – Fluchtchancen unter zehn Prozent, sagte ich mir damals. Aber ich habe überlebt. Oder besser: Ich bin durchgerutscht, als hätte die Gleichung irgendwo einen geheimen Restterm gehabt, der mir zufiel.
-
-Ich winke noch einmal zurück, bis sie zwischen den Bäumen verschwinden. Ihre Stimmen hallen kurz nach, dann ist es still. Nur meine Schritte auf dem sandigen Weg.
 Mein Rucksack sitzt schwer, aber irgendwie fühlt er sich leichter an. Vielleicht, weil die Worte der Deutschen noch in mir klingen. Sie haben mich verabschiedet, als wäre ich eine von ihnen. Fast so, als hätte ich Familie gefunden, für ein paar Stunden. Ich atme tief ein, richte die Schultern. Es fühlt sich an, als hätte ich einen kleinen Zusatzakku im Herzen.
 
 Der Weg führt durch Birken, die weißen Stämme leuchten im Sonnenlicht. Zwischen den Blättern blitzt immer wieder der See hervor. Er glitzert, als hätte jemand Silberstaub über das Wasser gestreut. Unter meinen Schuhen knacken trockene Kiefernnadeln. Ein Vogel ruft, kurz und hell, dann wieder Stille. Nur mein Atem, gleichmäßig. Schritt, Atem, Schritt. Am Ufer riecht es nach Holz. Ein alter Steg liegt halb im Wasser, die Bretter dunkel vom See. Mücken tanzen in der Luft, ziehen kleine Spiralen, die sich gleich wieder auflösen. Ich gehe einfach weiter, immer geradeaus, und merke: Mein Kopf wird frei.

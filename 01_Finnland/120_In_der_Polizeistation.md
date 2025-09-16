@@ -27,18 +27,6 @@
 }
 ```
 
----
-
-date: 1985-07-05
-daytime: afternoon
-place: Polizeistation Joutsa
-persons: Eddie, Raija, Raijas Chef (älterer Polizist), Maria, Mielke (indirekt), Mitarbeiter der BRD-Botschaft
-event: In der Wache – Telefon mit der BRD-Botschaft; Minderjährigkeit als Problem; Plan: Schutzgewahrsam bis Abholung
-mood: tense, anxious, cautiously hopeful
-tense: present, Eddies first-person perspective
-mode: mainline
----
-
 In der Wache angekommen, führt uns Raija in ein kleines Büro. Maria weicht nicht von meiner Seite. Raija verschwindet kurz und kommt mit zwei Tassen Kaffee und einer großen Tasse Kakao zurück. Meine Hände zittern immer noch.
 
 „Jetzt erzähle mal in Ruhe“, sagt sie auf Englisch.

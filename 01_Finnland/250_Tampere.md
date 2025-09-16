@@ -11,6 +11,7 @@
     "mood": "euphorisch, selbstermächtigend, lebendig",
     "tense": "present, Eddies first-person perspective",
     "mode": "mainline",
+    "illustration":["FIN_Tampere_Marktplatz.png"],
     "feedback": {
         "anni": {
             "rating":".....",

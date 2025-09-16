@@ -24,7 +24,8 @@
             "rating":".....",
             "comments":""
         }
-    }
+    },
+    "todo":"Eddie erfährt erst am Flughafen Helsinki, wo genau die Reise hingeht."
 }
 ```
 
