@@ -5,7 +5,7 @@
     "date": "1985-07-09",
     "place": "Tampere",
     "persons": [ "Eddie" ],
-    "synopsis": "Eddie löst eine Diophantische Gleichung und kauft für 55 Kronen genau 3 Säcke Reis und 4 Säcke Nudeln.",
+    "synopsis": "Eddie löst eine Diophantische Gleichung und kauft für 55 Markka genau 3 Säcke Reis und 4 Säcke Nudeln.",
     "mood": "focused, playful",
     "tense": "present, Eddies first-person perspective",
     "mode": "mainline", // flashback | mainline
@@ -26,9 +26,9 @@
 }
 ```
 
-Okay, ich stehe hier auf dem Marktplatz, die Sonne scheint, und ich habe 55 Kronen in der Tasche. Ich will Reis und Nudeln kaufen, Reis kostet 9 Kronen pro Sack, Nudeln 7 Kronen. Ich muss das Geld genau aufbrauchen, kein Rest. Das klingt nach einer Rechnung, die ich im Kopf lösen kann. Also, los geht’s.
+Okay, ich stehe hier auf dem Marktplatz, die Sonne scheint, und ich habe 55 Markka in der Tasche. Ich will Reis und Nudeln kaufen, Reis kostet 9 Markka pro Sack, Nudeln 7 Markka. Ich muss das Geld genau aufbrauchen, kein Rest. Das klingt nach einer Rechnung, die ich im Kopf lösen kann. Also, los geht’s.
 
-Ich stelle mir eine Gleichung vor: Wenn ich \( x \) Säcke Reis kaufe, kostet das \( 9x \) Kronen, und wenn ich \( y \) Säcke Nudeln kaufe, kostet das \( 7y \) Kronen. Zusammen muss das 55 Kronen ergeben. Also:
+Ich stelle mir eine Gleichung vor: Wenn ich \( x \) Säcke Reis kaufe, kostet das \( 9x \) Markka, und wenn ich \( y \) Säcke Nudeln kaufe, kostet das \( 7y \) Markka. Zusammen muss das 55 Markka ergeben. Also:
 \[
 9x + 7y = 55
 \]
@@ -85,7 +85,7 @@ y = 4 - 9 \cdot 0 = 4
 \[
 9 \cdot 3 + 7 \cdot 4 = 27 + 28 = 55
 \]
-Das passt perfekt! Ich kaufe 3 Säcke Reis und 4 Säcke Nudeln, das macht genau 55 Kronen.
+Das passt perfekt! Ich kaufe 3 Säcke Reis und 4 Säcke Nudeln, das macht genau 55 Markka.
 
 Soll ich andere \( k \)-Werte testen? Für \( k = 1 \):
 \[

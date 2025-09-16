@@ -69,7 +69,7 @@ kostet zwar eine Menge Geld, ja. Aber mach dir keine Sorgen, Eddi. Ich übernehm
 Ich schaue sie überrascht an. „Du?“
 
 „Natürlich.“ Sie sagt es so nüchtern, so selbstverständlich, als wäre das die
-einfachste Sache der Welt. „Du kannst unmöglich so viel Geld haben. Die fünfzig Kronen,
+einfachste Sache der Welt. „Du kannst unmöglich so viel Geld haben. Die hundert Markka,
 die du von Maria bekommen hast – das reicht gerade einmal für die Fähre.“
 
 Ihre Stimme ist bestimmt, aber nicht hart. Es klingt eher wie Fürsorge, als hätte sie die Entscheidung längst getroffen.
@@ -81,11 +81,11 @@ wieder auf Raijas Schultern ablade muss.
 
 Sie runzelt die Stirn, völlig überrascht. „Geld? Du?“
 
-Ich nicke energisch. „Die Kronen von Maria – und noch mal zweihundert obendrauf.“ Meine Stimme klingt fester, als ich es erwartet hätte. Fast so, als müsste ich beweisen, dass ich mehr bin als nur ein Mädchen, das gerettet werden muss.
+Ich nicke energisch. „Die Markka von Maria – und noch mal dreihundert obendrauf.“ Meine Stimme klingt fester, als ich es erwartet hätte. Fast so, als müsste ich beweisen, dass ich mehr bin als nur ein Mädchen, das gerettet werden muss.
 
-Raija blinzelt, ungläubig. „Zweihundert? Woher denn?“
+Raija blinzelt, ungläubig. „Dreihundert? Woher denn?“
 
-Ich kann ein breites Grinsen nicht unterdrücken. Ich lächle ein wenig schief, halb stolz, halb verlegen. „Ich hab beim Pokern gewonnen. Zweihundert Kronen.“
+Ich kann ein breites Grinsen nicht unterdrücken. Ich lächle ein wenig schief, halb stolz, halb verlegen. „Ich hab beim Pokern gewonnen. Dreihundert Markku.“
 
 Einen Moment lang starrt sie mich nur an, dann beginnt sie zu lachen – ehrlich, überrascht, fast ungläubig. „Du?! Poker?!“
 

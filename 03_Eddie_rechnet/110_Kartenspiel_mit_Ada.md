@@ -10,7 +10,7 @@
     "Mathematik",
     "Eddie rechnet"
   ],
-  "synopsis": "Diophantische Gleichungen: Busfahrt-Erklärung + Tampere-Beispiel (3 Säcke Reis + 4 Säcke Nudeln für 55 Kronen)."
+  "synopsis": "Diophantische Gleichungen: Busfahrt-Erklärung + Tampere-Beispiel (3 Säcke Reis + 4 Säcke Nudeln für 55 Markka)."
 }
 ```
 
