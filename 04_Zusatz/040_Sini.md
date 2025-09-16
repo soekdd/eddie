@@ -12,14 +12,15 @@ _AKA:_ Sini
 - Background: Obere Mittelschicht
 - Parents:
   - General: Eltern praktisch eingestellt
-  - Mother: Streng; setzt klare Grenzen
+  - Mother: Finnisch, streng; setzt klare Grenzen
+  - Father: Sami
 
 ## Appearance Static
 - Body: schlank, sportlich, aufrechte Haltung
 - Height: etwas kleiner als Eddie
 - Hair: blau gefärbt mit Sidecut (Punk-Stil)
 - Eyes: blau bis blau-grün, wacher, selbstbewusster Blick
-- Skin: hell, skandinavisch; sonnenbrandgefährdet
+- Skin: hell, aber mit wärmerem, samischem Einschlag – weniger sonnenbrandgefährdet als viele Skandinavier
 - Clothing:
   - Style: modebewusster als Eddie; Jeans, offene Jacken, auffälligere Oberteile
   - Accents: traut sich Farbakzente und Accessoires

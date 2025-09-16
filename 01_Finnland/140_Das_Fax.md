@@ -35,7 +35,7 @@ Ein Piepen und Pfeifen reißt mich aus meiner Erinnerung. Ich schaue auf und seh
 
 „Ein Fax?“, frage ich.
 
-„Ja, das haben wir erst seit einem Jahr. Es hat die alten Telegraphen ersetzt. Unsere Vorgesetzten können uns jetzt Briefe schicken.“
+„Ja, das haben wir erst seit einem Jahr. Es hat überall in Finnland die alten Telegraphen ersetzt. Unsere Vorgesetzten können uns jetzt Briefe schicken.“
 
 „Übers Telefon? … und das Fax druckt sie aus?“
 
@@ -63,7 +63,7 @@ Raija diskutiert aufgeregt mit ihrem Chef.
 
 Raija scheint sich damit nicht zufriedenzugeben. Sie ist meine Löwin, sie kämpft für mich. Sie rennt zum Fenster der Polizeistation.
 
-„Sind sie schon da, um mich zu holen?“, frage ich.
+„Sind sie schon da, um mich zu holen?“, frage ich und wieder steigt die Panik in mir hoch.
 
 „Nein, noch nicht“, sagt Raija und ruft ihrem Chef wieder etwas auf Finnisch zu. Er scheint nicht einverstanden zu sein, aber auch nicht richtig überzeugt von seiner Meinung.
 

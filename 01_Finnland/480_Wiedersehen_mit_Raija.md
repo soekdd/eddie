@@ -224,7 +224,8 @@ Bin sogar bis vor die Polizeistation gelaufen, wo du gearbeitet hast."
 „Was? Du warst da, in Tampere? Und warum bist du nicht reingekommen?"
 
 „Weil ich dachte, dass mich die Polizei dann wieder ausliefert. Also bin
-ich einfach los, zu Fuß Richtung Vaasa."
+ich einfach los, zu Fuß Richtung Vaasa. Ich hatte mir fest vorgenommen,
+dir zu schreiben, aber dann kam so viel dazwischen."
 
 Sie sieht mich an, als müsste sie neu lernen, wer ich eigentlich bin.
 „Ich habe später erfahren, dass einer von Markkus Freunden bei der SKOL

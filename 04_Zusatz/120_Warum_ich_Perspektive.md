@@ -12,7 +12,7 @@ Eddies Fluchtgeschichte lebt von ihrer Unmittelbarkeit. Sie ist eine hochriskant
   Eddie kann nur beschreiben, was sie gerade sieht, fühlt, hört. Dadurch wird das, was die Gegenseite plant oder denkt, im Dunkeln gelassen. Diese narrative Beschränkung steigert die Spannung, weil die Lesenden in genau derselben Unsicherheit gefangen sind wie Eddie.
 
 - **Vermeidung des klugen Rückblicks:**
-  Rückblickend ließe sich vieles einordnen, kommentieren, erklären. Aber das würde die Intensität der existenziellen Situation schwächen. Eddie weiß im Moment der Handlung nicht, ob sie überlebt, und die Lesenden sollen diesen Schwebezustand teilen.
+  Rückblickend ließe sich vieles einordnen, kommentieren, erklären. Aber das würde die Intensität der existenziellen Situation schwächen. Eddie weiß im Moment der Handlung nicht, ob ihre Flucht gelingt, sie ins Gefängnis oder in die Freiheit kommt. Die Lesenden sollen diesen Schwebezustand teilen.
 
 - **Stimme einer 17-Jährigen:**
   Die Ich-Perspektive erlaubt es, Eddies eigene Sprache, ihre Gedanken, ihre Witze, ihre Naivität und ihr rebellisches Temperament ungefiltert hörbar zu machen. Gerade weil sie jung ist, wirkt die Gegenwartsform überzeugend: Sie denkt nicht in historischen Kommentaren, sondern im Augenblick.

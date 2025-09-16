@@ -14,4 +14,6 @@ Das Kapitel „Eddie rechnet“ ist bewusst als Anhang gestaltet. Es erfüllt me
 4. **Ergänzung, nicht Ablenkung:**
    „Eddie rechnet“ ist also kein Fachanhang, sondern ein spielerischer Resonanzraum. Es verlängert die Geschichte in eine zweite Dimension: Man kann Eddies Flucht *miterleben* – und gleichzeitig ausprobieren, wie es ist, mit ihrem Werkzeug, der Mathematik, die Welt zu erfassen.
 
+---
+
 **Kurz:** Das Kapitel „Eddie rechnet“ bündelt alle mathematischen Elemente im Anhang: von einfachen Alltagsaufgaben bis zu den Originalproblemen der IMO 1985. So bleibt der Lesefluss ungestört, während interessierte Leserinnen und Leser Eddies Denkweise vertiefen und spielerisch erleben können, wie Mathematik vom Überlebenswerkzeug bis zur universellen Sprache wirkt.

@@ -48,7 +48,7 @@ Raija wählt eine Nummer, wohl die finnische Auskunft. Sie schreibt sich eine la
 
 Raija spricht lange mit dem Mann. Ich schnappe Worte auf: Reisepass, Passbilder, Geburtsurkunde. Raija zuckt manchmal beim Sprechen mit den Schultern.
 
-„Warte!“, sage ich, wühle in meinem Rucksack und hole meinen großen Block heraus. Ich finde das Blatt mit Herrn Fischers Handschrift. Ich drehe den Block um und falte die Rückseite nach außen. „Birth certificate“, sage ich zu Raija und schiebe ihr den Block über den Tisch.
+„Warte!“, sage ich, wühle in meiner Tasche und hole meinen großen Block heraus. Ich finde das Blatt mit Herrn Fischers Handschrift. Ich drehe den Block um und falte die Rückseite nach außen. „Birth certificate“, sage ich zu Raija und schiebe ihr den Block über den Tisch.
 
 Sie reagiert erfreut und teilt die Neuigkeit mit ihrem Gesprächspartner. Dann fische ich vom Schreibtisch eine Schere und zerschneide das Innenfutter meiner Stiftemappe. Maria und Raija beobachten mich gespannt, als ich zwei Passfotos aus dem Innenfutter herauszaubere.
 

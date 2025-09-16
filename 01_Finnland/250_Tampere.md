@@ -70,7 +70,7 @@ Und dann kommt sie, die Euphorie. Kein Warten mehr, kein Bitten. Ich laufe. Ich 
 
 Ich schultere die Beutel, binde die Regenjacke um und gehe los. Erste Etappe: eine Schutzhütte westlich von Tampere. Jeder Schritt fühlt sich nach Freiheit an.
 
-Der Wald nimmt mich auf wie eine alte Freundin. Der Weg zur ersten Hütte ist hart, die Beutel schneiden in die Schultern, aber ich beiße die Zähne zusammen. Endlich stehe ich davor: ein winziges Blockhaus, nicht größer als ein Doppelbett. Ich atme auf. Ein Dach über dem Kopf, und das gratis. Verrückt, dass es so etwas hier für alle gibt.
+Der Wald nimmt mich auf wie eine alte Freundin. Der Weg zur ersten Hütte ist hart, die Beutel schneiden in die Schultern, aber ich beiße die Zähne zusammen. Endlich stehe ich davor: ein winziges Blockhaus, nicht größer als ein Doppelbett. Ich atme auf. Ein Dach über dem Kopf, und das gratis. Verrückt, dass es so etwas hier für alle gibt. Pikku-Ahvenisto heißt die Hütte und steht mitten im Wald an einem kleinen See.
 
 Ich richte mich ein, packe meinen Schlafsack aus. Ein kurzer Gedanke: Wer wohl da drin schon alles geschlafen hat? Soldaten, Obdachlose, Wanderer? Ich schnuppere am Stoff – frisch, nach Wind, nach Wald. Alles gut.
 

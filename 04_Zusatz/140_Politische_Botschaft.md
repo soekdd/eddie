@@ -4,4 +4,6 @@ Heute erleben wir in Ostdeutschland ein paradoxes Klima: Auf der einen Seite wä
 
 Diese verdrängte Vergangenheit ist ein blinder Fleck im kollektiven Gedächtnis. Eddies Geschichte erinnert daran, dass Flucht immer eine zutiefst menschliche Erfahrung ist, die von Mut, Verzweiflung und Fürsorge geprägt ist – damals wie heute. Der Roman stellt eine Verbindung her zwischen den Erfahrungen der DDR-Bürger, die ihre Freiheit suchten, und den heutigen Debatten über Migration. Damit wird er zu einem literarischen Beitrag gegen das Vergessen und gegen die Verengung von Erinnerung.
 
+---
+
 **Kurz:** Eddies Geschichte erinnert daran, dass Flucht in der DDR allgegenwärtig war – Hunderttausende suchten einen Ausweg, oft schickten Eltern ihre Kinder aus Liebe allein in den Westen. Heute, wo einerseits Geflüchtete abgelehnt und andererseits die DDR verklärt wird, macht der Roman sichtbar: Flucht war und ist ein zutiefst menschliches Streben nach Freiheit und Zukunft.

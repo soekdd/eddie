@@ -6,4 +6,6 @@ Zum anderen eröffnet Mathe eine besondere narrative Kraft: Sie ist universell, 
 
 Darüber hinaus soll der Roman den Wert der Mathematik im Alltag sichtbar machen: nicht als trockene Theorie, sondern als Werkzeug, mit dem Eddie Entscheidungen trifft – ob beim Pokerspiel, beim Rechnen mit Wahrscheinlichkeiten oder beim Lösen praktischer Probleme. Mathematik wird zum Überlebensinstrument, zum inneren Kompass und zur Brücke in die Freiheit.
 
-**Kurz:** Die Wahl fiel bewusst auf Mathematik: Sie hat autobiografische Wurzeln – der Autor selbst sah die Internationale Mathematik-Olympiade einst als möglichen Ausweg aus der DDR. Zugleich wird Mathe hier zum Symbol: eine universelle Sprache jenseits von Ideologien und ein Werkzeug, mit dem Eddie ihr Überleben kalkuliert, Chancen erkennt und Wege in die Freiheit findet.
+---
+
+**Kurz:**  Die Wahl fiel bewusst auf Mathematik: Sie hat autobiografische Wurzeln – der Autor selbst sah die Internationale Mathematik-Olympiade einst als möglichen Ausweg aus der DDR. Zugleich wird Mathe hier zum Symbol: eine universelle Sprache jenseits von Ideologien und ein Werkzeug, mit dem Eddie ihr Überleben kalkuliert, Chancen erkennt und Wege in die Freiheit findet.
