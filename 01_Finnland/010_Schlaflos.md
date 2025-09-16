@@ -51,9 +51,9 @@ Woher wusste er das so fix?! Mein Bauch krampfte, aber ich grinste blöd und wic
 
 Er brummte nur, starrte mich weiter an. „Wie viel?“
 
-„Zwanzig Kronen.“ Ich tat so, als wär’s nix. Er konnte unmöglich den genauen Betrag kennen.
+„Dreißig Markka.“ Ich tat so, als wär’s nix. Er konnte unmöglich den genauen Betrag kennen.
 
-„Und was willst du mit zwanzig Kronen?“
+„Und was willst du mit dreißig Markka?“
 
 „Ein Kleidchen kaufen. So’n finnisches, wie die Mädchen hier tragen. Und vielleicht Eis oder Cola für die anderen.“ Ich hör mich fast flehen: „Kann ich morgen in die Stadt? Bitte!“
 
@@ -61,6 +61,6 @@ Er schnaubte. „Nach dem Wettkampf? Einkaufszentrum?“
 
 „Ja.“
 
-„Hm.“ Sein Gesicht blieb Beton. „Das überlege ich mir noch – versprochen ist erstmal nichts. Mir wäre lieber, du hättest die Mathematik im Kopf, um uns morgen einen ersten Platz zu erkämpfen. Statt Kronen und Kleidchen.“
+„Hm.“ Sein Gesicht blieb Beton. „Das überlege ich mir noch – versprochen ist erstmal nichts. Mir wäre lieber, du hättest die Mathematik im Kopf, um uns morgen einen ersten Platz zu erkämpfen. Statt Markka und Kleidchen.“
 
 Dann drehte er sich weg und scheuchte mich mit ’ner Handbewegung ins Bett.
