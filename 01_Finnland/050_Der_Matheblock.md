@@ -68,7 +68,7 @@ Und da steht er auch wieder – Mielke. Sein Blick klebt an uns. Ich muss normal
 
 „Edda!“ brüllt Mielke plötzlich. Ich zucke zusammen.
 
-„Na, ich hoffe, du bist heute so erfolgreich wie gestern beim Poker!“ Sein Grinsen frisst mein Nervenkostüm.
+„Na, ich hoffe, du bist heute so erfolgreich wie gestern beim Poker!“ Sein Grinsen frisst beinahe mein ganzes Nervenkostüm.
 
 Ich zwinge ein Lächeln. Mein Blick huscht an ihm vorbei, direkt zu  Fischer, der hinter ihm steht und mich traurig ansieht. Ich reiße mich los, renne quasi in die Gruppe.\
 Wenn er mich bisher nicht verraten hat, tut er’s jetzt auch nicht mehr.\
