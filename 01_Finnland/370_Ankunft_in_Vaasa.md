@@ -50,13 +50,13 @@ Fortschritt macht, zum anderen werde ich die Wildnis sicherlich
 vermissen. Und wieder verlockt mich die einfachste Lösung: morgen um die
 Zeit könnte ich bereits in Schweden sein. Also gehe ich die Varianten
 einmal durch: Die Wahrscheinlichkeit, dass mein Geld für die Fähre
-reicht: extrem unwahrscheinlich. Mir sind nur noch 15 Kronen von Aarons
-Geld geblieben. Ich müsste meine D-Mark in der Bank in Kronen tauschen.
+reicht: extrem unwahrscheinlich. Mir sind nur noch 15 Markka von Aarons
+Geld geblieben. Ich müsste meine D-Mark in der Bank in Markka tauschen.
 Damit betrete ich wieder ein großes öffentliches Gebäude, was wieder mit
 Risiko verbunden ist. Außerdem hatte ich mir fest vorgenommen meine
 D-Mark für Schweden zu sparen. Wenn ich mein Geld nicht einteile, wird
 meine Reise schneller enden als gehofft. Also muss ich diszipliniert
-sein und versuchen mit meinen 15 Kronen nach Schweden zu kommen.
+sein und versuchen mit meinen 15 Markka nach Schweden zu kommen.
 Vielleicht haben sie einen Kindertarif. Nächstes Problem: wir haben hier
 eine Grenze: kann ich mit meinem DDR Pass diese Grenze überschreiten?
 Noch dazu als Minderjährige? Was ist, wenn die finnische Polizei eine
