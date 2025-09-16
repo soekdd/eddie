@@ -20,7 +20,7 @@
 }
 ```
 
-Wieder steht dieser schicke Volvo-Bus vor’m Tor von Joutsenlampi. Bis Joutsa sind’s nur fünfzehn Minuten. Und klar, wir – die ostdeutsche Vorzeigetruppe – sind natürlich wieder viel zu früh da.\
+Schon steht da dieser schicke Volvo-Bus vor’m Tor von Joutsenlampi. Bis Joutsa sind’s nur fünfzehn Minuten. Und klar, wir – die ostdeutsche Vorzeigetruppe – sind natürlich wieder viel zu früh da.\
 Der Fahrer klappt freundlich die Türen auf, als wär er unser Chauffeur.
 
 „Hinten, letzte Reihe!“, brüllt einer der Jungs. Typisch.\
