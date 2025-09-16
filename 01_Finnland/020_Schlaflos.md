@@ -41,7 +41,7 @@ Das Holz knackt. Wind? Hitze? Keine Ahnung. Ein Insekt tackert gegen die Scheibe
 
 Ich starre an die Decke, Arme hinter’m Kopf verschränkt. Draußen ruft ein Vogel – mitten in der Nacht! Weiß wohl selber nicht, ob’s schon morgen ist. Genau mein Feeling: festgeklemmt zwischen gestern und morgen, in diesem endlosen Dämmerlicht, das keinen Schlaf kennt.
 
-Und dann ballert immer wieder das Pokerspiel in meinen Kopf. Erst das Kribbeln vom Gewinn, dann dieser Schock auf dem Flur. Er. Mielke. Mein Herz stolperte, mir wurde heiß und kalt in einem. Allein von seinem Blick zieht sich jetzt noch mein Magen zusammen.
+Und dann ballert immer wieder das Pokerspiel in meinen Kopf. Erst das Kribbeln vom Gewinn, dann dieser Schock draußen im Halbdunkel zwischen den Hütten. Er. Mielke. Mein Herz stolperte, mir wurde heiß und kalt in einem. Allein von seinem Blick zieht sich jetzt noch mein Magen zusammen.
 
 „Herr Kosmol!“
 
@@ -57,10 +57,10 @@ Er brummte nur, starrte mich weiter an. „Wie viel?“
 
 „Ein Kleidchen kaufen. So’n finnisches, wie die Mädchen hier tragen. Und vielleicht Eis oder Cola für die anderen.“ Ich hör mich fast flehen: „Kann ich morgen in die Stadt? Bitte!“
 
-Er schnaubte. „Nach dem Wettkampf? Einkaufszentrum?“
+Er schnaubte. „Nach dem Wettkampf? Ins Einkaufszentrum?“
 
 „Ja.“
 
-„Hm.“ Sein Gesicht blieb Beton. „Das überlege ich mir noch – versprochen ist erstmal nichts. Mir wäre lieber, du hättest die Mathematik im Kopf, um uns morgen einen ersten Platz zu erkämpfen. Statt Markka und Kleidchen.“
+„Hm.“ Sein Gesicht blieb Beton. „Das überlege ich mir noch – versprochen ist erstmal nichts. Mir wäre lieber, du hättest die Mathematik im Kopf, um uns morgen einen ersten Platz zu erkämpfen. Statt Kerle und Kleidchen.“
 
 Dann drehte er sich weg und scheuchte mich mit ’ner Handbewegung ins Bett.
