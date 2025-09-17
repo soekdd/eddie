@@ -22,5 +22,4 @@ Ich lache leise in mich hinein. So also fühlt sich Robinson Crusoe. Der Typ, de
 
 Noch habe ich meinen Freitag nicht gefunden – und wahrscheinlich ist das auch besser so. Aber trotzdem erkenne ich das Muster: die Einsamkeit, die Wiederkehr, die Tage, die sich ähneln wie Wellen im Ozean. Und ich merke, dass ich, ohne es zu wollen, in diesem Buch gelandet bin, das ich früher so langweilig fand.
 
-
 Und trotzdem finde ich es schön. Vielleicht, weil ich weiß: Ich bin nicht gestrandet. Ich bin auf dem Weg.  
