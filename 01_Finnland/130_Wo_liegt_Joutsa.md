@@ -2,30 +2,35 @@
 
 ```json
 {
-    "date": "1984-09-09",
-    "daytime": "day",
-    "place": "TU-Dresden, zu Hause",
-    "persons": ["Eddie", "Eddies Vater"],
-    "synopsis": "Eddie schmuggelt heimlich Finnland-Karten aus dem Kartensaal und verwandelt sie mit ihrem Vater in geheime Geometrie-Aufgaben für ihre Flucht.",
-    "mood": "tense but warm, secretive and hopeful",
-    "tense": "past, Eddies first-person perspective",
-    "mode": "flashback", // flashback | mainline
-    "illustrations": ["DDR_Dresden_Eddie_versteckt_die_Karten.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1984-09-09",
+  "daytime": "day",
+  "place": "TU-Dresden, zu Hause",
+  "persons": [
+    "Eddie",
+    "Eddies Vater"
+  ],
+  "synopsis": "Eddie schmuggelt heimlich Finnland-Karten aus dem Kartensaal und verwandelt sie mit ihrem Vater in geheime Geometrie-Aufgaben für ihre Flucht.",
+  "mood": "tense but warm, secretive and hopeful",
+  "tense": "past, Eddies first-person perspective",
+  "mode": "flashback",
+  "illustrations": [
+    "DDR_Dresden_Eddie_versteckt_die_Karten.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
     },
-    "todo":"Eddie erfährt erst am Flughafen Helsinki, wo genau die Reise hingeht."
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
+    }
+  },
+  "todo": "Eddie erfährt erst am Flughafen Helsinki, wo genau die Reise hingeht."
 }
 ```
 

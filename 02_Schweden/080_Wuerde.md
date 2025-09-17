@@ -5,27 +5,33 @@
   "date": "1985-10-16",
   "daytime": "afternoon",
   "place": "Stockholm, Bibliothek",
-  "persons": ["Eddie", "Uebersetzer", "Vidar"],
+  "persons": [
+    "Eddie",
+    "Uebersetzer",
+    "Vidar"
+  ],
   "synopsis": "Eddie trifft in dr Bibliothek den Übersetzer und korrigiert seine Fehler. Er schenkt ihr zum Dank seinen teurem Taschenrechner.",
   "mood": "trotzig, verletzt, entschlossen-klar",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-    "illustrations": ["SWE_Stockholm_Eddie_hat_geduscht.png"],
+  "illustrations": [
+    "SWE_Stockholm_Eddie_hat_geduscht.png"
+  ],
   "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+    "anni": {
+      "rating": ".....",
+      "comments": ""
     },
-    "todo": "dieser und der nächste Abschnitt passen nicht zusammen"
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
+    }
+  },
+  "todo": "dieser und der nächste Abschnitt passen nicht zusammen"
 }
 ```
 

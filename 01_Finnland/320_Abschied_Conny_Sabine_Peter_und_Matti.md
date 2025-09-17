@@ -2,30 +2,38 @@
 
 ```json
 {
-    "date": "1985-07-17",
-    "daytime": "morning",
-    "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
-    "persons": ["Eddie", "Sabine", "Conny", "Peter", "Matti"],
-    "synopsis": "Beim Aufbruch schenken die Freunde Eddie Ausrüstung und sprechen ihr Mut zu, mit einem Ziel im Westen: Paderborn.",
-    "mood": "hopeful and heartwarming",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "source": "https://ita-ikaalistenvpk.fi/elamyskota/",
-    "illustrations": ["FIN_Vaasalopet_Abschied.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-17",
+  "daytime": "morning",
+  "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
+  "persons": [
+    "Eddie",
+    "Sabine",
+    "Conny",
+    "Peter",
+    "Matti"
+  ],
+  "synopsis": "Beim Aufbruch schenken die Freunde Eddie Ausrüstung und sprechen ihr Mut zu, mit einem Ziel im Westen: Paderborn.",
+  "mood": "hopeful and heartwarming",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "source": "https://ita-ikaalistenvpk.fi/elamyskota/",
+  "illustrations": [
+    "FIN_Vaasalopet_Abschied.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

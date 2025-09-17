@@ -2,31 +2,38 @@
 
 ```json
 {
-    "date": "1985-07-01",
-    "daytime": "evening",
-    "place": "Jotsenlampi",
-    "persons": ["Eddie", "andere Teilnehmer des DDR Teams"],
-    "synopsis": "Beim Aufbruch schenken die Freunde Eddie Ausrüstung und sprechen ihr Mut zu, mit einem Ziel im Westen: Paderborn.",
-    "mood": "hopeful and heartwarming",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "flashback", // flashback | mainline
-    "illustrations": ["FIN_Jotsenlampi_Huette.png", "FIN_Jotsenlampi_Sauna.png", "FIN_Jotsenlampi_Sauna_Wasser.png", "FIN_Jotsenlampi_Sauna_zu_dritt.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-01",
+  "daytime": "evening",
+  "place": "Jotsenlampi",
+  "persons": [
+    "Eddie",
+    "andere Teilnehmer des DDR Teams"
+  ],
+  "synopsis": "Beim Aufbruch schenken die Freunde Eddie Ausrüstung und sprechen ihr Mut zu, mit einem Ziel im Westen: Paderborn.",
+  "mood": "hopeful and heartwarming",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "flashback",
+  "illustrations": [
+    "FIN_Jotsenlampi_Huette.png",
+    "FIN_Jotsenlampi_Sauna.png",
+    "FIN_Jotsenlampi_Sauna_Wasser.png",
+    "FIN_Jotsenlampi_Sauna_zu_dritt.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
-
 ```
 
 Ich stehe in dieser Hütte und kann kaum glauben, dass sie mir für eine Nacht

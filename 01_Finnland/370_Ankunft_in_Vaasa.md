@@ -2,30 +2,34 @@
 
 ```json
 {
-    "date": "1985-08-03",
-    "daytime": "none",
-    "place": "Vaasa",
-    "persons": ["Eddie"],
-    "synopsis": "Eddie erreicht Vaasa, denkt über Flucht per Fähre nach und sondiert vorsichtig das Fährterminal.",
-    "mood": "hopeful but tense",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["FIN_Vaasa_Ankunft.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-08-03",
+  "daytime": "none",
+  "place": "Vaasa",
+  "persons": [
+    "Eddie"
+  ],
+  "synopsis": "Eddie erreicht Vaasa, denkt über Flucht per Fähre nach und sondiert vorsichtig das Fährterminal.",
+  "mood": "hopeful but tense",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Vaasa_Ankunft.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
     },
-    "todo": "De Weg vom Vogelschutzgebiet auf die Insel, auf der der Hafen liegt, fehlt. Der Hafen liegt nicht in der Innenstadr. Die letzte Passage braucht von viel Überarbeitung"
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
+    }
+  },
+  "todo": "De Weg vom Vogelschutzgebiet auf die Insel, auf der der Hafen liegt, fehlt. Der Hafen liegt nicht in der Innenstadr. Die letzte Passage braucht von viel Überarbeitung"
 }
 ```
 

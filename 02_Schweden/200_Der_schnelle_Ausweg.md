@@ -2,28 +2,32 @@
 
 ```json
 {
-    "date": "1985-01-20",
-    "daytime": "",
-    "place": "",
-    "persons": [ "Eddie", "Vidars Mutter", "Streuner" ],
-    "synopsis": "Vidars Mutter hat Kontakt mit der westdeutschen Botschaft aufgenommen. Sie haben Briefe für Eddie",
-    "mood": "",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-01-20",
+  "daytime": "",
+  "place": "",
+  "persons": [
+    "Eddie",
+    "Vidars Mutter",
+    "Streuner"
+  ],
+  "synopsis": "Vidars Mutter hat Kontakt mit der westdeutschen Botschaft aufgenommen. Sie haben Briefe für Eddie",
+  "mood": "",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

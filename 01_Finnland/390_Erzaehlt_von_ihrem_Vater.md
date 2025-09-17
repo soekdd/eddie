@@ -2,29 +2,33 @@
 
 ```json
 {
-    "date": "1985-08-10",
-    "place": "Sinis Wohnung, Vaasa",
-    "synopsis": "Eddie erzählt Sini … (Rückblick auf Dresden).",
-    "persons": ["Eddie", "Sini", "Eddies Vater", "Leonhard Radmer"],
-    "synopsis": "Eddie erzählt Sini, wie ihr Vater trotz überragender Fähigkeiten im Schatten des Parteikarrieristen Radmer blieb.",
-    "mood": "bitter yet intimate",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-08-10",
+  "place": "Sinis Wohnung, Vaasa",
+  "synopsis": "Eddie erzählt Sini, wie ihr Vater trotz überragender Fähigkeiten im Schatten des Parteikarrieristen Radmer blieb.",
+  "persons": [
+    "Eddie",
+    "Sini",
+    "Eddies Vater",
+    "Leonhard Radmer"
+  ],
+  "mood": "bitter yet intimate",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
     },
-    "todo":"Der Dialog der Mädchen ist noch zu schwach, zu redundant."
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
+    }
+  },
+  "todo": "Der Dialog der Mädchen ist noch zu schwach, zu redundant."
 }
 ```
 

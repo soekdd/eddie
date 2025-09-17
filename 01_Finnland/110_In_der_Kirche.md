@@ -2,29 +2,38 @@
 
 ```json
 {
-    "date": "1985-07-05",
-    "daytime": "afternoon",
-    "place": "Kirche von Joutsa",
-    "persons": ["Eddie", "Maria", "Mielke", "Mielkes Männer", "finnischer Polizist (Raijas Chef)", "Raija"],
-    "synopsis": "Eddie wird in der Kirche entdeckt, doch finnische Polizisten greifen rechtzeitig ein und nehmen alle mit auf die Wache.",
-    "mood": "tense, fearful, desperate but slightly relieved",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["FIN_Joutsa_Raija_beschuetzt_Eddie.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-05",
+  "daytime": "afternoon",
+  "place": "Kirche von Joutsa",
+  "persons": [
+    "Eddie",
+    "Maria",
+    "Mielke",
+    "Mielkes Männer",
+    "finnischer Polizist (Raijas Chef)",
+    "Raija"
+  ],
+  "synopsis": "Eddie wird in der Kirche entdeckt, doch finnische Polizisten greifen rechtzeitig ein und nehmen alle mit auf die Wache.",
+  "mood": "tense, fearful, desperate but slightly relieved",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Joutsa_Raija_beschuetzt_Eddie.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

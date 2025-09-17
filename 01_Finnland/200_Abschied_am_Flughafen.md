@@ -2,29 +2,37 @@
 
 ```json
 {
-    "date": "1985-06-30",
-    "daytime": "noon",
-    "place": "Berlin Schönefeld",
-    "persons": ["Eddie", "Mutter", "Vater", "Mielke", "DDR-Grenzbeamte"],
-    "synopsis": "Eddie verabschiedet sich heimlich von ihren Eltern am Flughafen Schönefeld und passiert die Kontrolle unter Mielkes Blick.",
-    "mood": "tense, bittersweet farewell",
-    "tense": "past, Eddies first-person perspective",
-    "mode": "flashback", // flashback | mainline
-    "illustrations": ["DDR_Berlin_Flughafen.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-06-30",
+  "daytime": "noon",
+  "place": "Berlin Schönefeld",
+  "persons": [
+    "Eddie",
+    "Mutter",
+    "Vater",
+    "Mielke",
+    "DDR-Grenzbeamte"
+  ],
+  "synopsis": "Eddie verabschiedet sich heimlich von ihren Eltern am Flughafen Schönefeld und passiert die Kontrolle unter Mielkes Blick.",
+  "mood": "tense, bittersweet farewell",
+  "tense": "past, Eddies first-person perspective",
+  "mode": "flashback",
+  "illustrations": [
+    "DDR_Berlin_Flughafen.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

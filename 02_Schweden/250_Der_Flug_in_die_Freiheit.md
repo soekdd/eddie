@@ -2,29 +2,33 @@
 
 ```json
 {
-    "date": "1986-03-15",
-    "daytime": "",
-    "place": "",
-    "persons": [ "Eddie" ],
-    "synopsis": "",
-    "mood": "",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["BRD_Flugzeug.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1986-03-15",
+  "daytime": "",
+  "place": "",
+  "persons": [
+    "Eddie"
+  ],
+  "synopsis": "Im Regierungsflieger begegnet Eddie Connys Vater von Nixdorf: Er bietet ihr Förderung und Perspektive; zum ersten Mal zeichnet sich eine konkrete Zukunft ab – noch in der Luft.",
+  "mood": "",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "BRD_Flugzeug.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 Ein netter Steward führt mich am meinen Platz, höflich, aber bestimmt, als

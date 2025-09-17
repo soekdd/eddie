@@ -2,10 +2,13 @@
 
 ```json
 {
-  "date": "1985-12-17",
+  "date": "1985-12-07",
   "daytime": "afternoon",
   "place": "Stockholm, Vidars Zimmer / Hausflur",
-  "persons": ["Eddie", "Vidar"],
+  "persons": [
+    "Eddie",
+    "Vidar"
+  ],
   "synopsis": "Handschriftliche Einladung der Eltern zum Weihnachtsfest; Eddie ringt mit dem Wunsch, echte Geschenke zu finden.",
   "mood": "ungläubig, glücklich, nervös tatendurstig",
   "tense": "present, Eddies first-person perspective",

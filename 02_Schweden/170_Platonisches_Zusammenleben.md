@@ -2,29 +2,33 @@
 
 ```json
 {
-    "date": "1986-01-05",
-    "daytime": "",
-    "place": "",
-    "persons": [ "Eddie" ],
-    "synopsis": "",
-    "mood": "",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["SWE_Stockholm_Vidar_Eddie_Streuner_schlafen.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1986-01-05",
+  "daytime": "",
+  "place": "",
+  "persons": [
+    "Eddie"
+  ],
+  "synopsis": "Eddie und Vidar leben vertrauend, aber platonisch – zwei Asymptoten, die sich annähern, ohne sich zu schneiden; mit dem nahenden Botschaftstermin wird der Abschied unausweichlich.",
+  "mood": "",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "SWE_Stockholm_Vidar_Eddie_Streuner_schlafen.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

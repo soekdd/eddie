@@ -2,15 +2,21 @@
 
 ```json
 {
-  "date": "1985-12-13",
+  "date": "1985-11-28",
   "daytime": "afternoon → evening",
   "place": "Stockholm, Waschhaus & Küche im Elternhaus",
-  "persons": ["Eddie", "Vidar", "Vidars Mutter"],
+  "persons": [
+    "Eddie",
+    "Vidar",
+    "Vidars Mutter"
+  ],
   "synopsis": "Konfrontation im Waschhaus; am Küchentisch erzählt Eddie von Flucht, IMO, Raija; Beschluss: im Untergrund bleiben, bis sie volljährig ist.",
   "mood": "schockiert → respektvoll, entschlossen",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-    "illustrations": ["SWE_Stockholm_Vidars_Mutter_entdeckt_Eddie.png"],
+  "illustrations": [
+    "SWE_Stockholm_Vidars_Mutter_entdeckt_Eddie.png"
+  ],
   "feedback": {
     "anni": {
       "rating": ".....",

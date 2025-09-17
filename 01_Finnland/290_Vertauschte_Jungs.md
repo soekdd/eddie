@@ -2,28 +2,34 @@
 
 ```json
 {
-    "date": "1985-07-14",
-    "daytime": "morning",
-    "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
-    "persons": ["Eddie", "Peter", "Sabine", "Conny", "Matti"],
-    "synopsis": "Regenmorgen in der Hütte; Spaß, Neckereien und vertraute Stimmung geben Eddie erstmals das Gefühl dazuzugehören.",
-    "mood": "warm, playful, safe",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-14",
+  "daytime": "morning",
+  "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
+  "persons": [
+    "Eddie",
+    "Peter",
+    "Sabine",
+    "Conny",
+    "Matti"
+  ],
+  "synopsis": "Regenmorgen in der Hütte; Spaß, Neckereien und vertraute Stimmung geben Eddie erstmals das Gefühl dazuzugehören.",
+  "mood": "warm, playful, safe",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

@@ -2,28 +2,34 @@
 
 ```json
 {
-    "date": "1985-07-15",
-    "daytime": "evening",
-    "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
-    "persons": ["Eddie", "Conny", "Sabine", "Peter", "Matti"],
-    "synopsis": "In der Waldhütte singen und musizieren Eddie und ihre Freunde Lieder von Freiheitsliedern bis Beatles; Eddie fühlt sich zum ersten Mal wirklich frei und angenommen.",
-    "mood": "ecstatic, liberating, joyful",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-15",
+  "daytime": "evening",
+  "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
+  "persons": [
+    "Eddie",
+    "Conny",
+    "Sabine",
+    "Peter",
+    "Matti"
+  ],
+  "synopsis": "In der Waldhütte singen und musizieren Eddie und ihre Freunde Lieder von Freiheitsliedern bis Beatles; Eddie fühlt sich zum ersten Mal wirklich frei und angenommen.",
+  "mood": "ecstatic, liberating, joyful",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

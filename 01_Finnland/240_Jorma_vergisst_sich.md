@@ -2,29 +2,34 @@
 
 ```json
 {
-    "date": "1985-07-09",
-    "daytime": "morning",
-    "place": "Raijas Wohnung in Jyväskylä",
-    "persons": ["Eddie", "Jorma"],
-    "synopsis": "Eddie streitet mit Jorma über die DDR, Raija kommt heim und spürt die Spannungen; nachts hört Eddie den Streit zwischen beiden.",
-    "mood": "tense and uneasy",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["FIN_Jyvaeskylae_Jorma.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-09",
+  "daytime": "morning",
+  "place": "Raijas Wohnung in Jyväskylä",
+  "persons": [
+    "Eddie",
+    "Jorma"
+  ],
+  "synopsis": "Eddie streitet mit Jorma über die DDR, Raija kommt heim und spürt die Spannungen; nachts hört Eddie den Streit zwischen beiden.",
+  "mood": "tense and uneasy",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Jyvaeskylae_Jorma.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

@@ -2,29 +2,35 @@
 
 ```json
 {
-    "date": "1985-08-22",
-    "daytime": "evening, next day",
-    "place": "Sinis Wohnung",
-    "persons": ["Eddie", "Sini", "Kneipengäste"],
-    "synopsis": "Bar in Vaasa: Sini tanzt, später übergriffig; Eddie stoppt. Am Morgen Entschuldigung, klare Grenzen, vorsichtige Annäherung (Pfannkuchen, Hafen).",
-    "mood": "Tense → hurt → honest repair; cautious hope.",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["FIN_Vaasa_Sini_schaemt_sich.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-08-22",
+  "daytime": "evening, next day",
+  "place": "Sinis Wohnung",
+  "persons": [
+    "Eddie",
+    "Sini",
+    "Kneipengäste"
+  ],
+  "synopsis": "Bar in Vaasa: Sini tanzt, später übergriffig; Eddie stoppt. Am Morgen Entschuldigung, klare Grenzen, vorsichtige Annäherung (Pfannkuchen, Hafen).",
+  "mood": "Tense → hurt → honest repair; cautious hope.",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Vaasa_Sini_schaemt_sich.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

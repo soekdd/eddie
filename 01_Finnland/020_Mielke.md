@@ -2,29 +2,33 @@
 
 ```json
 {
-    "date": "1985-06-04",
-    "daytime": "day",
-    "place": "Berlin",
-    "persons": ["Kosmol alias Mielke" ],
-    "synopsis": "Eddie erinnert sich an ihre erste Begegnung mit Kosmol in Berlin – sie nennt ihn sofort „Mielke“ wegen seiner bedrohlichen Ausstrahlung.",
-    "mood": "ominous, oppressive, unsettling",
-    "tense": "past, Eddies first-person perspective",
-    "mode": "flashback",   // flashback | mainline
-    "illustrations": ["DDR_Berlin_Eddie_trifft_auf_Mielke.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-06-04",
+  "daytime": "day",
+  "place": "Berlin",
+  "persons": [
+    "Kosmol alias Mielke"
+  ],
+  "synopsis": "Eddie erinnert sich an ihre erste Begegnung mit Kosmol in Berlin – sie nennt ihn sofort „Mielke“ wegen seiner bedrohlichen Ausstrahlung.",
+  "mood": "ominous, oppressive, unsettling",
+  "tense": "past, Eddies first-person perspective",
+  "mode": "flashback",
+  "illustrations": [
+    "DDR_Berlin_Eddie_trifft_auf_Mielke.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

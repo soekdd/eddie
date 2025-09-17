@@ -2,28 +2,32 @@
 
 ```json
 {
-    "date": "1985-07-05",
-    "daytime": "late evening",
-    "place": "Raijas Auto auf der Fahrt von Joutsa nach Jyväskylä",
-    "persons": ["Eddie", "Raija", "Jorma"],
-    "synopsis": "Raija bringt Eddie nach Jyväskylä in ihre Wohnung; dort kommt es nachts zum heftigen Streit zwischen Raija und Jorma über das Risiko, das sie für Eddie eingeht.",
-    "mood": "tense, conflicted, heavy",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-05",
+  "daytime": "late evening",
+  "place": "Raijas Auto auf der Fahrt von Joutsa nach Jyväskylä",
+  "persons": [
+    "Eddie",
+    "Raija",
+    "Jorma"
+  ],
+  "synopsis": "Raija bringt Eddie nach Jyväskylä in ihre Wohnung; dort kommt es nachts zum heftigen Streit zwischen Raija und Jorma über das Risiko, das sie für Eddie eingeht.",
+  "mood": "tense, conflicted, heavy",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

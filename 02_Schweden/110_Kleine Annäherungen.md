@@ -5,7 +5,11 @@
   "date": "1985-10-20",
   "daytime": "various",
   "place": "Stockholm, Kirche & Straßen",
-  "persons": ["Eddie", "Vidar", "Streuner"],
+  "persons": [
+    "Eddie",
+    "Vidar",
+    "Streuner"
+  ],
   "synopsis": "Vidars Hilfsbereitschaft, zufällige Berührung beim Tee, Spaziergänge, Lachen – und ein Fast-Kuss auf der Mauer.",
   "mood": "kribbelnd, scheu, verheißungsvoll",
   "tense": "present, Eddies first-person perspective",

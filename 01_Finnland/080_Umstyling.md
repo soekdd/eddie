@@ -2,29 +2,33 @@
 
 ```json
 {
-    "date": "1985-07-05",
-    "daytime": "noon",
-    "place": "Toilette Gymnasium Joutsa",
-    "persons": ["Eddie" ],
-    "synopsis": "Eddie färbt heimlich ihre Haare mit Schuhcreme und dreht die Jacke um, um unerkannt die Schule zu verlassen.",
-    "mood": "tense, desperate, transformative",
-    "tense": "present, Eddies first-person perspective",
-    "mode":"mainline",   // flashback | mainline
-    "illustrations": ["FIN_Joutsa_Haare_faerben.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-05",
+  "daytime": "noon",
+  "place": "Toilette Gymnasium Joutsa",
+  "persons": [
+    "Eddie"
+  ],
+  "synopsis": "Eddie färbt heimlich ihre Haare mit Schuhcreme und dreht die Jacke um, um unerkannt die Schule zu verlassen.",
+  "mood": "tense, desperate, transformative",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Joutsa_Haare_faerben.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

@@ -2,28 +2,33 @@
 
 ```json
 {
-    "date": "1985-07-20",
-    "place": "Wanderweg westlich von Tampere",
-    "persons": ["Eddie", "Maria", "Klara", "Jens"],
-    "synopsis": "Eddie wandert allein weiter, denkt über die Wunder der letzten Tage nach, erinnert sich an Maria und an das Künstlerpaar Klara & Jens, reflektiert den Widerspruch zwischen Glauben und Mathematik und ehrt die Aufrichtigen mit einem kleinen Denkmal.",
-    "mood": "reflektierend, dankbar, nach innen gewandt",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline",
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-20",
+  "place": "Wanderweg westlich von Tampere",
+  "persons": [
+    "Eddie",
+    "Maria",
+    "Klara",
+    "Jens"
+  ],
+  "synopsis": "Eddie wandert allein weiter, denkt über die Wunder der letzten Tage nach, erinnert sich an Maria und an das Künstlerpaar Klara & Jens, reflektiert den Widerspruch zwischen Glauben und Mathematik und ehrt die Aufrichtigen mit einem kleinen Denkmal.",
+  "mood": "reflektierend, dankbar, nach innen gewandt",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
     },
-    "todo": "konkrete Etappe bennen"
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
+    }
+  },
+  "todo": "konkrete Etappe bennen"
 }
 ```
 

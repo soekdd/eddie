@@ -5,26 +5,30 @@
   "date": "1985-10-16",
   "daytime": "afternoon",
   "place": "Stockholm, Bibliothek",
-  "persons": ["Eddie", "Uebersetzer", "Vidar"],
+  "persons": [
+    "Eddie",
+    "Uebersetzer",
+    "Vidar"
+  ],
   "synopsis": "Eddie trifft in dr Bibliothek den Übersetzer und korrigiert seine Fehler. Er schenkt ihr zum Dank seinen teurem Taschenrechner.",
   "mood": "trotzig, verletzt, entschlossen-klar",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
   "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+    "anni": {
+      "rating": ".....",
+      "comments": ""
     },
-    "todo": "Die Szene ist zu früh eingeordnet, sie muss hinter das Kennenlernen, aber vor die Duschszene"
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
+    }
+  },
+  "todo": "Die Szene ist zu früh eingeordnet, sie muss hinter das Kennenlernen, aber vor die Duschszene"
 }
 ```
 

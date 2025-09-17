@@ -3,30 +3,34 @@
 
 ```json
 {
-    "date": "1985-09-20",
-    "daytime": "morning",
-    "place": "Centralstation Stockholm, northern city parts",
-    "persons": [ "Eddie" ],
-    "synopsis": "",
-    "mood": "",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["SWE_Stockholm_Stadtmission.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-09-20",
+  "daytime": "morning",
+  "place": "Centralstation Stockholm, northern city parts",
+  "persons": [
+    "Eddie"
+  ],
+  "synopsis": "Planlos durch Stockholm zwischen Angst und Staunen; Eddie meidet die Botschaften, irrt durch die Stadt und findet in der Bahnhofsmission Wärme und erste Hilfe – ein vorsichtiger Anker in der Fremde.",
+  "mood": "",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "SWE_Stockholm_Stadtmission.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
     },
-    "todo":"Hier ist die Timeline noch total kaputt"
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
+    }
+  },
+  "todo": "Hier ist die Timeline noch total kaputt"
 }
 ```
 

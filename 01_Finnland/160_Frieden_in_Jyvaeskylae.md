@@ -2,28 +2,31 @@
 
 ```json
 {
-    "date": "1985-07-06",
-    "daytime": "morning",
-    "place": "Raijas Wohnung und Jyväskylä",
-    "persons": ["Eddie", "Raija"],
-    "synopsis": "Eddie und Raija verbringen einen friedlichen Tag zusammen, gehen einkaufen, kochen, reden offen über Vergangenes und spazieren zum See.",
-    "mood": "calm, intimate, safe",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-06",
+  "daytime": "morning",
+  "place": "Raijas Wohnung und Jyväskylä",
+  "persons": [
+    "Eddie",
+    "Raija"
+  ],
+  "synopsis": "Eddie und Raija verbringen einen friedlichen Tag zusammen, gehen einkaufen, kochen, reden offen über Vergangenes und spazieren zum See.",
+  "mood": "calm, intimate, safe",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

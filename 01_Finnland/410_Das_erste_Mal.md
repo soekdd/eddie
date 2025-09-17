@@ -2,29 +2,34 @@
 
 ```json
 {
-    "date": "1985-08-15",
-    "daytime":"night",
-    "place": "Sinis Wohnung",
-    "persons": ["Eddie", "Sini"],
-    "synopsis": "Eddie und Sini teilen intime Geschichten über ihre ersten sexuellen Erfahrungen, lachen, necken sich und bauen tiefes Vertrauen zueinander auf.",
-    "mood": "playful, intimate, trusting",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["FIN_Vaasa_Kissenschlacht2.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-08-15",
+  "daytime": "night",
+  "place": "Sinis Wohnung",
+  "persons": [
+    "Eddie",
+    "Sini"
+  ],
+  "synopsis": "Eddie und Sini teilen intime Geschichten über ihre ersten sexuellen Erfahrungen, lachen, necken sich und bauen tiefes Vertrauen zueinander auf.",
+  "mood": "playful, intimate, trusting",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Vaasa_Kissenschlacht2.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

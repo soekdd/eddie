@@ -2,29 +2,35 @@
 
 ```json
 {
-    "date": "1986-03-15",
-    "daytime": "",
-    "place": "",
-    "persons": [ "Eddie" ],
-    "synopsis": "",
-    "mood": "",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["DDR_Dresden_Eddies_Vater_erhaelt_die_geheime_Botschaft.png", "DDR_Dresden_Eddies_Vater_rennt_nach_Hause.png", "DDR_Dresden_Eltern_feiern.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1986-03-15",
+  "daytime": "",
+  "place": "",
+  "persons": [
+    "Eddie"
+  ],
+  "synopsis": "Parallel in Dresden: Eddies Vater erhält über die Pariser Preisverleihung das geheime Lebenszeichen seiner Tochter; er rennt nach Hause, und die Eltern fallen einander weinend in die Arme – das einzig erträgliche Ende.",
+  "mood": "",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "DDR_Dresden_Eddies_Vater_erhaelt_die_geheime_Botschaft.png",
+    "DDR_Dresden_Eddies_Vater_rennt_nach_Hause.png",
+    "DDR_Dresden_Eltern_feiern.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

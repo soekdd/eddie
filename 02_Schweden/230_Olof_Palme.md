@@ -2,28 +2,30 @@
 
 ```json
 {
-    "date": "1986-02-28",
-    "daytime": "morning",
-    "place": "Stockholm, WG",
-    "persons": [ "Eddie" ],
-    "synopsis": "",
-    "mood": "",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1986-02-28",
+  "daytime": "morning",
+  "place": "Stockholm, WG",
+  "persons": [
+    "Eddie"
+  ],
+  "synopsis": "Nach der Ermordung Olof Palmes liegt Stockholm in Trauer; die Nachricht reißt Eddies eigene Wunde auf – kurz darauf meldet sich die Botschaft mit dem Abflugtermin nach Deutschland.",
+  "mood": "",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

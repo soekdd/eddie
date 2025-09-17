@@ -2,30 +2,34 @@
 
 ```json
 {
-    "date": "1985-12-24",
-    "daytime": "",
-    "place": "",
-    "persons": [ "Eddie" ],
-    "synopsis": "",
-    "mood": "",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["SWE_Stockholm_Vidar_bittet_Eddie_hinein.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-12-24",
+  "daytime": "",
+  "place": "",
+  "persons": [
+    "Eddie"
+  ],
+  "synopsis": "An Heiligabend fühlt sich Eddie arm und draußen, sammelt Fundstücke und bastelt einen Stern sowie eine Zeichnung – kleine Geschenke, mit denen sie Teil von Vidars Familie werden will.",
+  "mood": "",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "SWE_Stockholm_Vidar_bittet_Eddie_hinein.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
     },
-    "todo":"Eddie erzwingt vom Übersetzer endlich ihren Lohn für ihre viele Arbeit. Die Tierarztgeschichte kommt sofort, damit Streuner im Waschhaus schlafen darf. Eddie schläft bei ihm, nicht bei Vidar."
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
+    }
+  },
+  "todo": "Eddie erzwingt vom Übersetzer endlich ihren Lohn für ihre viele Arbeit. Die Tierarztgeschichte kommt sofort, damit Streuner im Waschhaus schlafen darf. Eddie schläft bei ihm, nicht bei Vidar."
 }
 ```
 

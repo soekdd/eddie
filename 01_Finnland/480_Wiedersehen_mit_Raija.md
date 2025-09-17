@@ -2,29 +2,35 @@
 
 ```json
 {
-    "date": "1985-09-18",
-    "daytime": "early morning, whole day",
-    "place": "Sinis Wohnung, Straßen von Vaasa, Bibliothek, Fähre",
-    "persons": ["Eddie", "Sini", "Raija"],
-    "synopsis": "Nach einer schlaflosen Nacht treffen Eddie und Sini in Vaasa überraschend Raija. Gemeinsam schmieden sie einen Fluchtplan mit gefälschtem Fax und Polizeiuniform. Am nächsten Morgen gelingt die Überfahrt nach Schweden, begleitet von Abschied, Kuss und Aufbruch.",
-    "mood": "tense but hopeful, bittersweet",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["FIN_Vaasa_Eddie_kuesst_Sini.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-09-18",
+  "daytime": "early morning, whole day",
+  "place": "Sinis Wohnung, Straßen von Vaasa, Bibliothek, Fähre",
+  "persons": [
+    "Eddie",
+    "Sini",
+    "Raija"
+  ],
+  "synopsis": "Nach einer schlaflosen Nacht treffen Eddie und Sini in Vaasa überraschend Raija. Gemeinsam schmieden sie einen Fluchtplan mit gefälschtem Fax und Polizeiuniform. Am nächsten Morgen gelingt die Überfahrt nach Schweden, begleitet von Abschied, Kuss und Aufbruch.",
+  "mood": "tense but hopeful, bittersweet",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Vaasa_Eddie_kuesst_Sini.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

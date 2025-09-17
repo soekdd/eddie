@@ -2,17 +2,24 @@
 
 ```json
 {
-    "date": "1985-07-06",
-    "daytime": "day",
-    "place": "Jyväskylä",
-    "persons": ["Eddie", "Raija", "Eddies Eltern", "Mielke"],
-    "synopsis": "Eddie erzählt Raija von ihrer Familie, von der DDR, dem Abschied am Flughafen Schönefeld und ihren Schuldgefühlen. Raija reagiert bewegt und tröstet sie.",
-    "mood": "intimate, heavy but tender",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline",
-    "illustrations": ["FIN_Jyvaskyla_Eddie_Raija_Spaziergang.png"]
+  "date": "1985-07-06",
+  "daytime": "day",
+  "place": "Jyväskylä",
+  "persons": [
+    "Eddie",
+    "Raija",
+    "Eddies Eltern",
+    "Mielke"
+  ],
+  "synopsis": "Eddie erzählt Raija von ihrer Familie, von der DDR, dem Abschied am Flughafen Schönefeld und ihren Schuldgefühlen. Raija reagiert bewegt und tröstet sie.",
+  "mood": "intimate, heavy but tender",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Jyvaskyla_Eddie_Raija_Spaziergang.png"
+  ]
 }
-````
+```
 
 Ich weiß nicht, wie lange ich geschlafen hab. Irgendwann weckt mich das Licht,
 das durch die Vorhänge fällt. Mein Kopf fühlt sich schwer an, aber Raijas Arm

@@ -1,16 +1,22 @@
-# Kleine Annäherungen
+# Hof hiner dem Haus
 
 ```json
 {
   "date": "1985-10-23",
   "daytime": "evening",
   "place": "Stockholm, Hof bei Vidars Elternhaus",
-  "persons": [ "Eddie", "Vidar", "Streuner" ],
+  "persons": [
+    "Eddie",
+    "Vidar",
+    "Streuner"
+  ],
   "synopsis": "Nach Tagen der Spannung initiiert Eddie den ersten echten Kuss.",
   "mood": "mutig, zärtlich, überwältigt",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-    "illustrations": ["SWE_Stockholm_Eddie_kuesst_Vidar.png"],
+  "illustrations": [
+    "SWE_Stockholm_Eddie_kuesst_Vidar.png"
+  ],
   "feedback": {
     "anni": {
       "rating": ".....",
@@ -25,7 +31,7 @@
       "comments": ""
     }
   },
-  "todo":"Redundanz zu 'Die zweite Tasche'"
+  "todo": "Redundanz zu 'Die zweite Tasche'"
 }
 ```
 

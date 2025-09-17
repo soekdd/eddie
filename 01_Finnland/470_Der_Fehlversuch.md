@@ -2,28 +2,33 @@
 
 ```json
 {
-    "date": "1985-09-17",
-    "daytime": "morning, complete day",
-    "place": "Sinis Wohnung, Fährterminal",
-    "persons": ["Eddie", "Sini", "Busfahrer", "Zollbeamte"],
-    "synopsis": "Eddie ergattert ein Busticket zur Fähre, wird jedoch von den Zöllnern wegen ihres Alters aufgehalten. Sini greift ein, rettet sie, doch die Fähre ist bereits weg. Beide stehen ratlos vor neuen Problemen.",
-    "mood": "hopeless, tense, bittersweet",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-09-17",
+  "daytime": "morning, complete day",
+  "place": "Sinis Wohnung, Fährterminal",
+  "persons": [
+    "Eddie",
+    "Sini",
+    "Busfahrer",
+    "Zollbeamte"
+  ],
+  "synopsis": "Eddie ergattert ein Busticket zur Fähre, wird jedoch von den Zöllnern wegen ihres Alters aufgehalten. Sini greift ein, rettet sie, doch die Fähre ist bereits weg. Beide stehen ratlos vor neuen Problemen.",
+  "mood": "hopeless, tense, bittersweet",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

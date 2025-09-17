@@ -2,29 +2,33 @@
 
 ```json
 {
-    "date": "1985-10-11",
-    "daytime": "morning",
-    "place": "Centralstation Stockholm, northern city parts",
-    "persons": [ "Eddie" ],
-    "synopsis": "",
-    "mood": "",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["SWE_Stockholm_Eddie_trifft_Streuner.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-10-11",
+  "daytime": "morning",
+  "place": "Centralstation Stockholm, northern city parts",
+  "persons": [
+    "Eddie"
+  ],
+  "synopsis": "Eddie freundet sich mit einem hungrigen Hund an; aus geteiltem Brot wird stille Verbundenheit – der Streuner wird zu ihrem Anker im Straßenleben.",
+  "mood": "",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "SWE_Stockholm_Eddie_trifft_Streuner.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

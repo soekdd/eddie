@@ -2,29 +2,34 @@
 
 ```json
 {
-    "date": "1985-07-05",
-    "daytime": "morning",
-    "place": "Klassenraum Gymnasium Joutsa",
-    "persons": ["Eddie", "viele andere Kinder und Betreuer" ],
-    "synopsis": "Eddie kann sich nicht auf die Aufgaben konzentrieren. Sie ist die erste, den den Raum Richtung Toilette verläßt",
-    "mood": "tense relief, fear",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline",
-    "illustrations": ["FIN_Jotsenlampi_Wettkampf.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-05",
+  "daytime": "morning",
+  "place": "Klassenraum Gymnasium Joutsa",
+  "persons": [
+    "Eddie",
+    "viele andere Kinder und Betreuer"
+  ],
+  "synopsis": "Eddie kann sich nicht auf die Aufgaben konzentrieren. Sie ist die erste, den den Raum Richtung Toilette verläßt",
+  "mood": "tense relief, fear",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Jotsenlampi_Wettkampf.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

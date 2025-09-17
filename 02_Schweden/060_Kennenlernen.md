@@ -5,7 +5,11 @@
   "date": "1985-10-15",
   "daytime": "afternoon",
   "place": "Stockholm, Schlafplatz & Waschhaus",
-  "persons": [ "Eddie", "Vidar", "Streuner" ],
+  "persons": [
+    "Eddie",
+    "Vidar",
+    "Streuner"
+  ],
   "synopsis": "Erste Tasche mit Nützlichem; Eddie überwindet Scham, bittet Vidar um Hilfe und duscht im Waschhaus.",
   "mood": "zögernd → erleichtert, wiedergewonnene Würde",
   "tense": "present, Eddies first-person perspective",

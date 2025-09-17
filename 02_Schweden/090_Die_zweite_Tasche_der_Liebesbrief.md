@@ -5,12 +5,18 @@
   "date": "1985-10-17",
   "daytime": "night",
   "place": "Stockholm, Schlafplatz",
-  "persons": [ "Eddie", "Vidar (indirekt)", "Streuner" ],
+  "persons": [
+    "Eddie",
+    "Vidar (indirekt)",
+    "Streuner"
+  ],
   "synopsis": "Neue Jacke, Schuhe, viel Schokolade – und Vidars erster Liebesbrief. Tränen und Trost.",
   "mood": "überwältigt, getröstet, nicht mehr allein",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-    "illustrations": ["SWE_Stockholm_Eddie_erhaelt_Liebesbrief.png"],
+  "illustrations": [
+    "SWE_Stockholm_Eddie_erhaelt_Liebesbrief.png"
+  ],
   "feedback": {
     "anni": {
       "rating": ".....",
@@ -25,7 +31,7 @@
       "comments": ""
     }
   },
-  "todo":"Redundanz zu 'Hof hinter dem Haus"
+  "todo": "Redundanz zu 'Hof hinter dem Haus"
 }
 ```
 

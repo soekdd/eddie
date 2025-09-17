@@ -2,28 +2,36 @@
 
 ```json
 {
-    "date": "1985-07-05",
-    "daytime": "noon",
-    "place": "Gymnasium Joutsa",
-    "persons": ["Eddie", "Mielke", "Herr Fischer", "Mongolen", "Bulgaren", "Schwede", "DDR-Gruppe"],
-    "synopsis": "Eddie entkommt im Gedränge nach den Prüfungen knapp an Mielke vorbei und flieht ins Freie.",
-    "mood": "tense, breathless, fleeting relief",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline",
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-05",
+  "daytime": "noon",
+  "place": "Gymnasium Joutsa",
+  "persons": [
+    "Eddie",
+    "Mielke",
+    "Herr Fischer",
+    "Mongolen",
+    "Bulgaren",
+    "Schwede",
+    "DDR-Gruppe"
+  ],
+  "synopsis": "Eddie entkommt im Gedränge nach den Prüfungen knapp an Mielke vorbei und flieht ins Freie.",
+  "mood": "tense, breathless, fleeting relief",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

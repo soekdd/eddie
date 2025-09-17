@@ -2,28 +2,32 @@
 
 ```json
 {
-    "date": "1985-09-15",
-    "daytime": "evening",
-    "place": "Sinis Wohnung",
-    "persons": ["Eddie", "Sini", "Sinis Mutter"],
-    "synopsis": "Sinis Mutter erscheint unerwartet, stellt sie wegen der Uni und der Wohnung zur Rede und macht Eddie klar, dass sie nicht bleiben kann.",
-    "mood": "tense, humiliating, bittersweet",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline",
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-09-15",
+  "daytime": "evening",
+  "place": "Sinis Wohnung",
+  "persons": [
+    "Eddie",
+    "Sini",
+    "Sinis Mutter"
+  ],
+  "synopsis": "Sinis Mutter erscheint unerwartet, stellt sie wegen der Uni und der Wohnung zur Rede und macht Eddie klar, dass sie nicht bleiben kann.",
+  "mood": "tense, humiliating, bittersweet",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

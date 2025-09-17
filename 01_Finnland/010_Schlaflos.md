@@ -2,29 +2,33 @@
 
 ```json
 {
-    "date": "1985-07-05",
-    "daytime": "night",
-    "place": "Joutsenlampi",
-    "persons": ["Eddie" ],
-    "synopsis": "Eddie liegt schlaflos in der Mittsommernacht, denkt an Mielkes bedrohliche Worte nach dem Pokerspiel und fühlt sich zerrissen zwischen Angst und Trotz.",
-    "mood": "restless, tense, oppressive twilight",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline",   // flashback | mainline
-    "illustrations": ["FIN_Joutsa_Bungalow.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {‚
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-05",
+  "daytime": "night",
+  "place": "Joutsenlampi",
+  "persons": [
+    "Eddie"
+  ],
+  "synopsis": "Eddie liegt schlaflos in der Mittsommernacht, denkt an Mielkes bedrohliche Worte nach dem Pokerspiel und fühlt sich zerrissen zwischen Angst und Trotz.",
+  "mood": "restless, tense, oppressive twilight",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Joutsa_Bungalow.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

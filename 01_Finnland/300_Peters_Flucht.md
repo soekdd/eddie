@@ -2,28 +2,34 @@
 
 ```json
 {
-    "date": "1985-07-15",
-    "daytime":"afternoon",
-    "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
-    "persons": ["Peter", "Eddie", "Sabine", "Conny", "Mattie"],
-    "synopsis": "Peter erzählt von der Ausgrenzung und dem Verlust seiner Familie nach einem Ausreiseantrag; die Gruppe versteht dadurch besser Eddies Flucht.",
-    "mood": "somber but bonding",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-15",
+  "daytime": "afternoon",
+  "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
+  "persons": [
+    "Peter",
+    "Eddie",
+    "Sabine",
+    "Conny",
+    "Mattie"
+  ],
+  "synopsis": "Peter erzählt von der Ausgrenzung und dem Verlust seiner Familie nach einem Ausreiseantrag; die Gruppe versteht dadurch besser Eddies Flucht.",
+  "mood": "somber but bonding",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

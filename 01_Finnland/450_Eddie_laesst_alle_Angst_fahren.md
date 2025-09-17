@@ -2,29 +2,36 @@
 
 ```json
 {
-    "date": "1985-09-16",
-    "daytime": "morning",
-    "place": "Sinis Wohnung, später Fährterminal",
-    "persons": ["Eddie", "Sini", "Busfahrer", "Sinis Freundin"],
-    "synopsis": "Eddie versucht mit Sinis Hilfe, eine Busfahrkarte zu ergattern, scheitert jedoch. Sini stylt sie um, und Eddie bekommt ihre Haare raspelkurz geschnitten.",
-    "mood": "playful, tender, bittersweet",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["FIN_Vaasa_Busse.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-09-16",
+  "daytime": "morning",
+  "place": "Sinis Wohnung, später Fährterminal",
+  "persons": [
+    "Eddie",
+    "Sini",
+    "Busfahrer",
+    "Sinis Freundin"
+  ],
+  "synopsis": "Eddie versucht mit Sinis Hilfe, eine Busfahrkarte zu ergattern, scheitert jedoch. Sini stylt sie um, und Eddie bekommt ihre Haare raspelkurz geschnitten.",
+  "mood": "playful, tender, bittersweet",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Vaasa_Busse.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

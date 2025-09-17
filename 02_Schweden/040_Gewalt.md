@@ -2,30 +2,34 @@
 
 ```json
 {
-    "date": "1985-10-13",
-    "daytime": "morning",
-    "place": "Centralstation Stockholm, northern city parts",
-    "persons": [ "Eddie" ],
-    "synopsis": "",
-    "mood": "",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["SWE_Stockholm_Eddie_entkommt_Gewalt.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-10-13",
+  "daytime": "morning",
+  "place": "Centralstation Stockholm, northern city parts",
+  "persons": [
+    "Eddie"
+  ],
+  "synopsis": "Nach einem Übergriff in einer Seitenstraße rettet sie ihr Streuner im letzten Moment; Eddie erkennt, dass sie auf Stockholms Straßen nicht lange überlebt und ihren Plan ändern muss.",
+  "mood": "",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "SWE_Stockholm_Eddie_entkommt_Gewalt.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
     },
-    "todo": "Redundanzen am Ende des Textes!"
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
+    }
+  },
+  "todo": "Redundanzen am Ende des Textes!"
 }
 ```
 

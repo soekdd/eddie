@@ -2,30 +2,36 @@
 
 ```json
 {
-    "date": "1985-09-19",
-    "daytime": "evening",
-    "place": "Umea, Hafen und Bahnhof",
-    "persons": [ "Eddie", "Raija", "graue Männer" ],
-    "synopsis": "",
-    "mood": "",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["FIN_SWE_Eddie_und_Raija.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-09-19",
+  "daytime": "evening",
+  "place": "Umea, Hafen und Bahnhof",
+  "persons": [
+    "Eddie",
+    "Raija",
+    "graue Männer"
+  ],
+  "synopsis": "Mit Raijas Hilfe bis Umeå/Bahnhof: Eddie nimmt den Nachtzug nach Stockholm, versteckt sich vor möglichen Verfolgern, steigt im Betriebsareal aus und gelangt unerkannt zum Central – erste Schritte in die Anonymität der Freiheit.",
+  "mood": "",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_SWE_Eddie_und_Raija.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
     },
-    "todo": "Wir haben vergessen zuerwähnen, dass Eddie in den Zug eingesteigen ist und er abfährt, bevor die grauen Gestalten kommen. Es wird Nacht während der Fahrt, Eddie kommt am zeitigen Morgen in Stockholm an. Beim Aussteigen gibt es Redundanzen im Text"
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
+    }
+  },
+  "todo": "Wir haben vergessen zuerwähnen, dass Eddie in den Zug eingesteigen ist und er abfährt, bevor die grauen Gestalten kommen. Es wird Nacht während der Fahrt, Eddie kommt am zeitigen Morgen in Stockholm an. Beim Aussteigen gibt es Redundanzen im Text"
 }
 ```
 

@@ -2,28 +2,32 @@
 
 ```json
 {
-    "date": "1985-07-05",
-    "daytime": "evening",
-    "place": "Polizeistation von Joutsa",
-    "persons": ["Eddie", "Raija", "Raijas Chef"],
-    "synopsis": "Ein Fax kündigt diplomatischen Druck der DDR an; Raija widersetzt sich und flieht mit Eddie aus der Polizeistation.",
-    "mood": "tense, urgent, defiant",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-05",
+  "daytime": "evening",
+  "place": "Polizeistation von Joutsa",
+  "persons": [
+    "Eddie",
+    "Raija",
+    "Raijas Chef"
+  ],
+  "synopsis": "Ein Fax kündigt diplomatischen Druck der DDR an; Raija widersetzt sich und flieht mit Eddie aus der Polizeistation.",
+  "mood": "tense, urgent, defiant",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

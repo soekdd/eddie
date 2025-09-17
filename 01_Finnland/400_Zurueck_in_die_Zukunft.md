@@ -2,29 +2,35 @@
 
 ```json
 {
-    "date": "1985-08-15",
-    "daytime": "evening",
-    "place": "Kino Vaasa",
-    "persons": ["Eddie", "Sini", "Kinopublikum"],
-    "synopsis": "Eddie und Sini gehen ins Kino, sehen 'Zurück in die Zukunft', lachen, albern herum und feiern ihre neu entdeckte Freiheit.",
-    "mood": "Playful, carefree, full of laughter and freedom",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "illustrations": ["FIN_Vaasa_Sini_spielt_Luftgitarre.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-08-15",
+  "daytime": "evening",
+  "place": "Kino Vaasa",
+  "persons": [
+    "Eddie",
+    "Sini",
+    "Kinopublikum"
+  ],
+  "synopsis": "Eddie und Sini gehen ins Kino, sehen 'Zurück in die Zukunft', lachen, albern herum und feiern ihre neu entdeckte Freiheit.",
+  "mood": "Playful, carefree, full of laughter and freedom",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Vaasa_Sini_spielt_Luftgitarre.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

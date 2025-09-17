@@ -2,28 +2,34 @@
 
 ```json
 {
-    "date": "1983-12-08",
-    "daytime": "evening",
-    "place": "Dresden",
-    "persons": ["Eddies Vater", "Vaters Freund", "Gustav Vasa", "Eddie", "vier deutsche Jugendliche"],
-    "synopsis": "Eddie erinnert sich an die Vasaloppet-Geschichte ihres Vaters und sieht ihre eigene Flucht als persönlichen Vasaloppet, bis sie im finnischen Wald auf vier junge Deutsche trifft.",
-    "mood": "tense but hopeful",
-    "tense": "past, Eddies first-person perspective",
-    "mode": "flashback", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1983-12-08",
+  "daytime": "evening",
+  "place": "Dresden",
+  "persons": [
+    "Eddies Vater",
+    "Vaters Freund",
+    "Gustav Vasa",
+    "Eddie",
+    "vier deutsche Jugendliche"
+  ],
+  "synopsis": "Eddie erinnert sich an die Vasaloppet-Geschichte ihres Vaters und sieht ihre eigene Flucht als persönlichen Vasaloppet, bis sie im finnischen Wald auf vier junge Deutsche trifft.",
+  "mood": "tense but hopeful",
+  "tense": "past, Eddies first-person perspective",
+  "mode": "flashback",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

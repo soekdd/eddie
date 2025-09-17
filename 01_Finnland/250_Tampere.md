@@ -2,30 +2,35 @@
 
 ```json
 {
-   {
-    "date": "1985-07-07",
-    "daytime": "morning",
-    "place": "Marktplatz Tampere",
-    "persons": ["Eddie", "alter finnischer Buchhändler"],
-    "event": "Eddie entdeckt auf dem Trödelmarkt ein Pflanzenbuch und einen Laavu-Führer, entwickelt einen Plan: zu Fuß nach Vaasa, mit Hütten und Proviant. Sie kauft Ausrüstung und rechnet mit großer Euphorie ihre Route durch.",
-    "mood": "euphorisch, selbstermächtigend, lebendig",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline",
-    "illustrations":["FIN_Tampere_Marktplatz.png", "FIN_Tampere_Laavu.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-07",
+  "daytime": "morning",
+  "place": "Marktplatz Tampere",
+  "persons": [
+    "Eddie",
+    "alter finnischer Buchhändler"
+  ],
+  "synopsis": "Eddie entdeckt auf dem Trödelmarkt ein Pflanzenbuch und einen Laavu-Führer, entwickelt einen Plan: zu Fuß nach Vaasa, mit Hütten und Proviant. Sie kauft Ausrüstung und rechnet mit großer Euphorie ihre Route durch.",
+  "mood": "euphorisch, selbstermächtigend, lebendig",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Tampere_Marktplatz.png",
+    "FIN_Tampere_Laavu.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

@@ -2,29 +2,35 @@
 
 ```json
 {
-    "date": "1985-07-14",
-    "daytime":"noon",
-    "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
-    "persons": ["Eddie", "Sabine", "Conny", "Peter", "Matti"],
-    "synopsis": "Eddie stößt auf eine lebhafte Gruppe aus Paderborn, wird freundlich aufgenommen und fühlt sich sofort als Teil der Runde.",
-    "mood": "lively, carefree, welcoming",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-14",
+  "daytime": "noon",
+  "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
+  "persons": [
+    "Eddie",
+    "Sabine",
+    "Conny",
+    "Peter",
+    "Matti"
+  ],
+  "synopsis": "Eddie stößt auf eine lebhafte Gruppe aus Paderborn, wird freundlich aufgenommen und fühlt sich sofort als Teil der Runde.",
+  "mood": "lively, carefree, welcoming",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
     },
-    "todo": "konkrete Etappe bennen, Erfahrungen mit westlicher Damenhygiene (Tampons)"
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
+    }
+  },
+  "todo": "konkrete Etappe bennen, Erfahrungen mit westlicher Damenhygiene (Tampons)"
 }
 ```
 

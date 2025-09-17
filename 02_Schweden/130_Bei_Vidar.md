@@ -5,12 +5,18 @@
   "date": "1985-11-02",
   "daytime": "night → morning",
   "place": "Stockholm, Vidars Elternhaus (Zimmer/Küche)",
-  "persons": ["Eddie", "Vidar", "Streuner"],
+  "persons": [
+    "Eddie",
+    "Vidar",
+    "Streuner"
+  ],
   "synopsis": "Eddies Staunen über Normalität drinnen; Eddie und Vidar schlafen miteinander; zärtliches Morgenritual und erstes gemeinsames Frühstück mit Streuner.",
   "mood": "ehrfürchtig, zärtlich, heimisch werdend",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-    "illustrations": ["SWE_Stockholm_Eddie_kuesst_Vidar.png"],
+  "illustrations": [
+    "SWE_Stockholm_Eddie_kuesst_Vidar.png"
+  ],
   "feedback": {
     "anni": {
       "rating": ".....",

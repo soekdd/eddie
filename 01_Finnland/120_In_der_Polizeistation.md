@@ -2,29 +2,39 @@
 
 ```json
 {
-    "date": "1985-07-05",
-    "daytime": "afternoon",
-    "place": "Polizeistation von Joutsa",
-    "persons": ["Eddie", "Maria", "Raija", "finnischer Polizist (Raijas Chef)", "Mielke", "Mielkes Männer", "Mitarbeiter der BRD-Botschaft"],
-    "synopsis": "Eddie erzählt ihre Geschichte auf der Wache, Raija kontaktiert die BRD-Botschaft. Wegen Eddies Minderjährigkeit droht Auslieferung an Mielke, doch durch eine Schutzbehauptung kann sie in Polizeigewahrsam bleiben, bis die Botschaft Hilfe schickt.",
-    "mood": "emotional ups and downs, tense but hopeful",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline,
-    "illustrations": ["FIN_Joutsa_Haare_waschen.png"],
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-05",
+  "daytime": "afternoon",
+  "place": "Polizeistation von Joutsa",
+  "persons": [
+    "Eddie",
+    "Maria",
+    "Raija",
+    "finnischer Polizist (Raijas Chef)",
+    "Mielke",
+    "Mielkes Männer",
+    "Mitarbeiter der BRD-Botschaft"
+  ],
+  "synopsis": "Eddie erzählt ihre Geschichte auf der Wache, Raija kontaktiert die BRD-Botschaft. Wegen Eddies Minderjährigkeit droht Auslieferung an Mielke, doch durch eine Schutzbehauptung kann sie in Polizeigewahrsam bleiben, bis die Botschaft Hilfe schickt.",
+  "mood": "emotional ups and downs, tense but hopeful",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Joutsa_Haare_waschen.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

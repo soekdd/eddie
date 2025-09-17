@@ -2,20 +2,36 @@
 
 ```json
 {
-    "date": "1985-07-05",
-    "daytime": "morning",
-    "place": "Bus von Joutsenlampi nach Joutsa",
-    "persons": ["Eddie", "Herr Fischer", "das DDR Team", "viele andere Kinder und Betreuer" ],
-    "synopsis": "Im Bus nach Joutsa schreibt Herr Fischer in Eddies Block, entdeckt dabei ihre versteckten Dokumente, verrät sie aber nicht.",
-    "mood": "tense relief",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline",
-    "illustrations": ["FIN_Joutsa_Fluchtblock.png"],
-    "feedback": {
-        "anni": { "rating":".....", "comments":"" },
-        "lucia": { "rating":".....", "comments":"" },
-        "soek": { "rating":".....", "comments":"" }
+  "date": "1985-07-05",
+  "daytime": "morning",
+  "place": "Bus von Joutsenlampi nach Joutsa",
+  "persons": [
+    "Eddie",
+    "Herr Fischer",
+    "das DDR Team",
+    "viele andere Kinder und Betreuer"
+  ],
+  "synopsis": "Im Bus nach Joutsa schreibt Herr Fischer in Eddies Block, entdeckt dabei ihre versteckten Dokumente, verrät sie aber nicht.",
+  "mood": "tense relief",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Joutsa_Fluchtblock.png"
+  ],
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

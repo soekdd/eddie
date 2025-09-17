@@ -2,28 +2,32 @@
 
 ```json
 {
-    "date": "1985-07-08",
-    "daytime": "afternoon",
-    "place": "Raijas Wohnung in Jyväskylä",
-    "persons": ["Eddie", "Raija", "Professor Dr. Leonhard Radmer"],
-    "synopsis": "Eddie ruft mit Raijas Hilfe den Professor an und täuscht eine französische Preisnominierung vor, um ein Lebenszeichen an ihre Eltern zu senden.",
-    "mood": "tense but triumphant",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-08",
+  "daytime": "afternoon",
+  "place": "Raijas Wohnung in Jyväskylä",
+  "persons": [
+    "Eddie",
+    "Raija",
+    "Professor Dr. Leonhard Radmer"
+  ],
+  "synopsis": "Eddie ruft mit Raijas Hilfe den Professor an und täuscht eine französische Preisnominierung vor, um ein Lebenszeichen an ihre Eltern zu senden.",
+  "mood": "tense but triumphant",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

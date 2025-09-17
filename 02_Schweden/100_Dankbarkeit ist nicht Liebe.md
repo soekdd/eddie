@@ -5,7 +5,11 @@
   "date": "1985-10-18",
   "daytime": "late night",
   "place": "Stockholm, Schlafplatz",
-  "persons": ["Eddie", "Streuner", "Sini (in Erinnerung)"],
+  "persons": [
+    "Eddie",
+    "Streuner",
+    "Sini (in Erinnerung)"
+  ],
   "synopsis": "Eddie ringt um Begriffe: frühere Nähe vs. echte Liebe; erkennt langsames Wachsen.",
   "mood": "nachdenklich, ehrlich, selbstkritisch",
   "tense": "present, Eddies first-person perspective",

@@ -2,28 +2,33 @@
 
 ```json
 {
-    "date": "1985-07-07",
-    "daytime": "night",
-    "place": "Raijas Wohnung",
-    "persons": ["Eddie", "Raija", "Jorma", "Eddies Familie (in Gedanken)"],
-    "synopsis": "Eddie liegt nach ihrer Flucht schlaflos im Bett, quält sich mit Schuldgefühlen um ihre Familie; Raija tröstet sie in der Nacht, doch am Morgen fühlt sie sich von Jorma unbehaglich beobachtet.",
-    "mood": "fearful, vulnerable, briefly comforted",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-07-07",
+  "daytime": "night",
+  "place": "Raijas Wohnung",
+  "persons": [
+    "Eddie",
+    "Raija",
+    "Jorma",
+    "Eddies Familie (in Gedanken)"
+  ],
+  "synopsis": "Eddie liegt nach ihrer Flucht schlaflos im Bett, quält sich mit Schuldgefühlen um ihre Familie; Raija tröstet sie in der Nacht, doch am Morgen fühlt sie sich von Jorma unbehaglich beobachtet.",
+  "mood": "fearful, vulnerable, briefly comforted",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 

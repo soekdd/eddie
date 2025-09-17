@@ -5,26 +5,30 @@
   "date": "1985-10-14",
   "daytime": "night",
   "place": "Stockholm, Straßen nahe der Kirche",
-  "persons": ["Eddie", "Streuner", "Vidar"],
+  "persons": [
+    "Eddie",
+    "Streuner",
+    "Vidar"
+  ],
   "synopsis": "Nach dem vereitelten Übergriff beschließt Eddie, ihre Scham abzulegen und aktiv Hilfe zu suchen. Sie beobachtet Vidar.",
   "mood": "taumelnd, verletzt, entschlossen-klar",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
   "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+    "anni": {
+      "rating": ".....",
+      "comments": ""
     },
-    "todo":"hier stimmt die Timeline nicht, unbedingt überarbeiten"
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
+    }
+  },
+  "todo": "hier stimmt die Timeline nicht, unbedingt überarbeiten"
 }
 ```
 

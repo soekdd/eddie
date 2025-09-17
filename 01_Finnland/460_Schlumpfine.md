@@ -2,28 +2,31 @@
 
 ```json
 {
-    "date": "1985-09-16",
-    "daytime": "evening",
-    "place": "Eddies und Sinis Lieblingsbank am Hafen",
-    "persons": ["Eddie", "Sini"],
-    "synopsis": "Eddie und Sini sitzen am See, sprechen über ihre Namen, vergleichen Sini mit Schlumpfine und Eddie erzählt die Geschichte ihres Namens.",
-    "mood": "warm, playful, intimate",
-    "tense": "present, Eddies first-person perspective",
-    "mode": "mainline", // flashback | mainline
-    "feedback": {
-        "anni": {
-            "rating":".....",
-            "comments":""
-        },
-        "lucia": {
-            "rating":".....",
-            "comments":""
-        },
-        "soek": {
-            "rating":".....",
-            "comments":""
-        }
+  "date": "1985-09-16",
+  "daytime": "evening",
+  "place": "Eddies und Sinis Lieblingsbank am Hafen",
+  "persons": [
+    "Eddie",
+    "Sini"
+  ],
+  "synopsis": "Eddie und Sini sitzen am See, sprechen über ihre Namen, vergleichen Sini mit Schlumpfine und Eddie erzählt die Geschichte ihres Namens.",
+  "mood": "warm, playful, intimate",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
+    },
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
+  }
 }
 ```
 
