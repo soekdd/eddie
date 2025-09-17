@@ -28,7 +28,7 @@
       "comments": ""
     }
   },
-  "todo": "Prompt: Eddie wird klar, dass das neue Schuljahr in der DDR ohne sie startet. Sie erzählt Sini, wie sie zur IMO gekommen ist. Auswahl über die Siege der Bezirksolympiade und dann wieder und wieder Aufgaben unter Prüfungsbedingungen lösen"
+  "todo": "Prompt: Eddie wird klar, dass das neue Schuljahr in der DDR ohne sie startet. Sie erzählt Sini, wie sie zur IMO gekommen ist. Auswahl über die Siege der Bezirksolympiade und dann wieder und wieder Aufgaben unter Prüfungsbedingungen lösen, nein, das haben wir schon Raija erzählt!"
 }
 ```
 
