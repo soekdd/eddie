@@ -30,17 +30,16 @@
   }
 }
 ```
-
-Ich sitze auf dem kleinen Sofa, die Knie an die Brust gezogen, als plötzlich die
-Tür aufgerissen wird. Die Stimme, die den Raum füllt, ist schneidend wie kalter
+Wieder einer dieser gemütlichen Abende. Wie so oft habe ich Sini vom Terminal abgeholt, quatschend und lachend sind wir über die lange Brücke in die Innenstadt und zu Sinis Wohnung geschlendert. 
+Nun sitze ich auf dem kleinen Sofa, die Knie an die Brust gezogen, genieße die Ruhe und Vertrauheit. Plötzlich wird die
+Tür aufgerissen. Die Stimme, die den Raum füllt, ist schneidend wie kalter
 Wind. Ich verstehe kein Wort, aber ich sehe die Frau: hochgewachsen, streng, die
-Mappe fest unter dem Arm. Keine Frage, hier kündigt sich kein freundlicher
+Mappe fest unter dem Arm. Keine Frage, so kündigt sich kein freundlicher
 Besuch an.
 
 Sini stolpert, wirkt ertappt, versucht zu lächeln. Doch es ist ein hilfloses
 Lächeln. Die beiden sprechen miteinander, Worte, die an mir vorbeirauschen, aber
-die Spannung liegt so dicht in der Luft, dass ich sie körperlich spüren kann.
-Die Stirn der Mutter ist hart gefurcht, ihre Augen blitzen, während Sini kleiner
+die Spannung liegt so dicht in der Luft, dass ich sie körperlich spüren kann. Ist es Sinis Mutter? Im Gegensatz zu Sini hat sie kein Sami Blut in ihren Adern, aber ihrem Temperament scheint das nicht zu schaden. Ihre Stirn ist hart gefurcht, ihre Augen blitzen, während Sini kleiner
 wirkt, fast wie ein Kind.
 
 Dann dreht sich Sini zu mir, legt ihr zittriges Lächeln auf und sagt rasch:
@@ -64,7 +63,7 @@ abwälzen?“ Ihre Stimme bohrt, jedes Wort ein Schlag. Dann schaut sie zu mir.
 Straßenhunde?“ Sinis Mutter wirft mir einen Blick zu, der mich sofort klein
 fühlen lässt. Rumtreiberin. Tja, ich hab's geahnt.
 
-„Eddie...", flüstert Sini und faltet flehend die Hände. „Äiti, lopeta!“ –
+„Eddie...", flüstert Sini zu mir und faltet flehend die Hände. „Äiti, lopeta!“ –
 „...hör auf!“ Sini klingt verzweifelt.
 
 Mein Magen dreht sich. Ich wusste nicht, dass ihre Mutter die Wohnung bezahlt.
@@ -102,7 +101,7 @@ allem knapper an Zeit, als ich es mir bislang vorgestellt habe.
 
 „Es liegt an mir“, schluchze ich nach einer Weile. „Es war so schön bei dir, da
 habe ich mich nicht wirklich angestrengt. Morgen werde ich jeden Busfahrer um
-den Finger wickeln, morgen werde ich alles anwenden, was du mir gelehrt hast.
+den Finger wickeln, morgen werde ich alles anwenden, was du mich gelehrt hast.
 Morgen mache ich dich stolz.“ Ich stehe auf und nehme Sini in den Arm. „Du hast
 schon so viel für mich getan, morgen bin ich dran.“
 
