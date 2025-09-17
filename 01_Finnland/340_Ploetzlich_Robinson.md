@@ -20,6 +20,7 @@ Es ist inzwischen Routine: Morgens Tee mit Blaubeeren, die Finger schon beim Pfl
 
 Ich lache leise in mich hinein. So also fühlt sich Robinson Crusoe. Der Typ, den ich immer öde fand, weil er ständig im Kreis über seine blöde Insel rennt und erzählt, wie er wieder Holz gesammelt hat. Jetzt renne ich selber durch Wälder, die so endlos sind wie ein Ozean. Baue mir Mahlzeiten zusammen aus dem, was ich finde, richte mich nach dem Licht, nach Regen oder Sonne.  
 
-Robinson hatte seinen Freitag. Ich habe niemanden – außer Blaubeeren und Pilze. Aber trotzdem… es ist dasselbe Muster. Einsamkeit, Wiederkehr, das Gefühl, winzig zu sein in einer Welt, die alles umspannt.  
+Noch habe ich meinen Freitag nicht gefunden – und wahrscheinlich ist das auch besser so. Aber trotzdem erkenne ich das Muster: die Einsamkeit, die Wiederkehr, die Tage, die sich ähneln wie Wellen im Ozean. Und ich merke, dass ich, ohne es zu wollen, in diesem Buch gelandet bin, das ich früher so langweilig fand.
+
 
 Und trotzdem finde ich es schön. Vielleicht, weil ich weiß: Ich bin nicht gestrandet. Ich bin auf dem Weg.  
