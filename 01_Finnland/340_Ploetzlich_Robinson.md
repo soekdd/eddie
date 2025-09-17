@@ -1,8 +1,4 @@
-Inhaltsverzeichnis
-
-• Robinson 
-
-Robinson %HEADING%robinson%HEADING%
+# Robinson
 
  
 {
