@@ -48,7 +48,7 @@ auf der Fähre sind. Sie schlägt vor, wir könnten mit einem Fischerboot rüber
 Ich male mir aus, wie wir im Nebel treiben, bis uns ein Patrouillenboot
 aufgreift.
 
-„Was bleibt uns denn?" frage ich irgendwann ins Dunkel.\ „Kirche. Vielleicht
+„Was bleibt uns denn?" frage ich irgendwann ins Dunkel und beantworte es mir selbst: „Kirche. Vielleicht
 noch mal Kirchenasyl."
 
 Ich will lachen, aber es bleibt in meiner Kehle stecken. Wir drehen uns hin und
@@ -67,7 +67,7 @@ vom Tau glänzend. Ich bleibe stehen. „Den kenn ich."\ Sini folgt meinem Blick
 
 Ich sehe mich um -- und da ist sie. Keine zehn Meter entfernt, an der Ecke, wo
 der Gehweg zum Park abbiegt. Sie trägt die gleiche Lederjacke wie zuletzt an
-unserem gemeinsamen Sonntag in Jyväskylät.
+unserem gemeinsamen Sonntag in Jyväskylä.
 
 „Raija!" Meine Stimme klingt lauter, als ich wollte. Sie dreht sich um, und dann
 ist da dieses Lächeln, das mich sofort wärmt.
