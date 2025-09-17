@@ -116,7 +116,7 @@ gab. Er wollte, dass ich eine Art Vorreiterin werde, so wie sie.", sage ich.
 „Nur leider kam er nie zum Einsatz. Denn als er im Standesamt den Namen 'Ada' zu
 Protokoll gab, fragte die Standesbeamtin:\ 'Ada? Das machen wir nicht, den Namen
 haben wir hier noch nie vergeben. Wie kommen Sie denn auf sowas?'" Ich versuchte
-für Sini den breiten sächsischen Dialekt irgendwie in Englische über übertragen.
+für Sini den breiten sächsischen Dialekt irgendwie ins Englische zu übertragen.
 „'Ist eine britische Mathematikerin', soll mein Vater erwiderthaben.\ 'Ah, nee,
 die kenn ich nicht. Wollen Sie nicht 'ne sowjetische Mathematikerin nehmen,
 wenn's unbedingt eine sein soll?'\ 'Kennen Sie eine?'\ 'Nee, ehrlich gesagt
@@ -133,16 +133,16 @@ Sini schiebt die Augenbrauen hoch. „Edda Göring? Echt jetzt? Das ist ja...
 irgendwie schräg."\ „Ja, oder? Aber hätte auch schlimmer kommen können weißt Du?
 Von heute aus betrachtet kann ich froh sein, dass mein Vater weder Pe-la-ge-ya
 Po-lu-ba-ri-nova-Ko-chi-na" - ich spreche den Namen extra langsam aus und betone
-jede Silbe ,"eine Göttin der Hydrodynamik, noch Lyud-mila Kel-dysh,
+jede Silbe ,"eine russische Göttin der Hydrodynamik, noch Lyud-mila Kel-dysh,
 Mathematikprofessorin an der Moskauer Lomonossow-Universität, kannte." Sini
 lacht auf: \"Ja, das wäre endlos schlimmer." "Absolut" erwidere ich und lehne
 mich zurück, „am Ende haben mich sowieso alle nur Eddie genannt, sogar die
 Lehrer."\ „Eddie?" Sini lacht. „Das klingt ja viel cooler. Wie ein belgischer
 Fußballspieler oder ein britischer Reggae-Sänger." Sina springt von der Bank auf
 und tut so, als ob sie Fußballspielerin und Sängerin zugleich wäre. Ich falle
-vor Lachen beinahe von der Bank. Es ist so schön mit Sina Zeit zu verlieren. Der
+vor Lachen beinahe von der Bank. Es ist so schön mit Sini Zeit zu verlieren. Der
 Wind weht mir den Geruch von Seealgen und Rauch in die Nase. Ich streiche über
-den Stoff meines verwaschenen roten Trainingsanzugs – ein Stück Dresden, das
+den Stoff meiner verwaschenen roten Trainingshose – ein Stück Dresden, das
 sich hier manchmal fremd anfühlt.
 
 Aber während ich neben Sini sitze, merke ich: Zuhause ist vielleicht gar kein
