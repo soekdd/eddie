@@ -1,7 +1,9 @@
 # Eddie spricht (mit Dir) – Interaktive Literatur erleben
 
-**Ein Roman, der über die letzte Seite hinausgeht.**
-Leser:innen können nach der Lektüre direkt mit der Hauptfigur Eddie sprechen – in einem eigens entwickelten Online-Chat. Eddie antwortet in ihrer Sprache, mit ihrer Stimme, aus ihrer Zeit (DDR 1985). So wird die Geschichte lebendig und unmittelbar erfahrbar.
+**Ein Roman, der über die letzte Seite hinausgeht.** Leser:innen können nach der
+Lektüre direkt mit der Hauptfigur Eddie sprechen – in einem eigens entwickelten
+Online-Chat. Eddie antwortet in ihrer Sprache, mit ihrer Stimme, aus ihrer Zeit
+(DDR 1985). So wird die Geschichte lebendig und unmittelbar erfahrbar.
 
 ---
 
@@ -38,4 +40,6 @@ Leser:innen können nach der Lektüre direkt mit der Hauptfigur Eddie sprechen �
 
 ## Vision
 
-„Eddie spricht“ ist mehr als ein Roman. Es ist eine Einladung an die Leser:innen, Teil der Geschichte zu werden – persönlich, interaktiv und so nah wie nie zuvor.
+„Eddie spricht“ ist mehr als ein Roman. Es ist eine Einladung an die
+Leser:innen, Teil der Geschichte zu werden – persönlich, interaktiv und so nah
+wie nie zuvor.

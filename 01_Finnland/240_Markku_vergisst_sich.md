@@ -29,27 +29,24 @@
 ```
 
 Am Morgen wache ich auf, Raija ist schon wieder weg nach Tampere. Die Wohnung
-ist still, bis auf ein Poltern an der Tür. Markku stolpert herein. Er
-ist betrunken, die Augen glasig, der Atem stinkt nach billigem Schnaps.
-„Na, Eddie..." lallt er und kommt auf mich zu, schwankend. Er grinst
-schief. „Du bist viel hübscher als Raija..." Dann beugt er sich vor,
-versucht, mich zu küssen.
+ist still, bis auf ein Poltern an der Tür. Markku stolpert herein. Er ist
+betrunken, die Augen glasig, der Atem stinkt nach billigem Schnaps. „Na,
+Eddie..." lallt er und kommt auf mich zu, schwankend. Er grinst schief. „Du bist
+viel hübscher als Raija..." Dann beugt er sich vor, versucht, mich zu küssen.
 
-Mir schießt das Blut in den Kopf. Ich stoße ihn weg und schreie: „Du
-bist widerlich, Markku! Du schwärmst von der DDR, während du im freien
-Westen lebst. Du redest von Idealen, aber du bist nur feige. Du lässt
-dich von Raija aushalten, obwohl du sie nicht respektierst. Und dann
-machst du dich an Mädchen ran, die viel zu jung für dich sind. Hast du
-überhaupt noch einen Funken Würde?"
+Mir schießt das Blut in den Kopf. Ich stoße ihn weg und schreie: „Du bist
+widerlich, Markku! Du schwärmst von der DDR, während du im freien Westen lebst.
+Du redest von Idealen, aber du bist nur feige. Du lässt dich von Raija
+aushalten, obwohl du sie nicht respektierst. Und dann machst du dich an Mädchen
+ran, die viel zu jung für dich sind. Hast du überhaupt noch einen Funken Würde?"
 
-Sein Gesicht verzerrt sich. Plötzlich holt er aus und schlägt mich ins
-Gesicht. Der Schmerz brennt, mein Ohr rauscht. Für einen Moment denke
-ich, er schlägt noch einmal. Doch stattdessen sackt er in die Ecke des
-Zimmers zusammen, zieht die Knie an den Körper und beginnt hemmungslos zu heulen.
+Sein Gesicht verzerrt sich. Plötzlich holt er aus und schlägt mich ins Gesicht.
+Der Schmerz brennt, mein Ohr rauscht. Für einen Moment denke ich, er schlägt
+noch einmal. Doch stattdessen sackt er in die Ecke des Zimmers zusammen, zieht
+die Knie an den Körper und beginnt hemmungslos zu heulen.
 
-Ich taste über meine Wange, die heiß pulsiert. Dann gehe ich wortlos ins
-Zimmer, packe meine Sachen. Mein Herz hämmert, während ich die Tür öffne
-und die Wohnung verlasse. Nicht leise, sondern so, dass er es hört.
-Jede Stufe im Treppenhaus klingt wie ein
-Befreiungsschlag. Draußen atme ich tief ein -- kalte Luft, klare Luft.
-Ich schwöre mir: Nie wieder gehe ich zurück.
+Ich taste über meine Wange, die heiß pulsiert. Dann gehe ich wortlos ins Zimmer,
+packe meine Sachen. Mein Herz hämmert, während ich die Tür öffne und die Wohnung
+verlasse. Nicht leise, sondern so, dass er es hört. Jede Stufe im Treppenhaus
+klingt wie ein Befreiungsschlag. Draußen atme ich tief ein -- kalte Luft, klare
+Luft. Ich schwöre mir: Nie wieder gehe ich zurück.

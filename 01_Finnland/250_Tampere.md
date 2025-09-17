@@ -29,55 +29,136 @@
 }
 ```
 
-Ich sitze im Zug nach Tampere und zähle in Gedanken das Geld, das ich beim Pokern gewonnen habe. Ohne das wäre ich jetzt erledigt. Die Landschaft fliegt vorbei: Wälder, Seen, immer wieder kleine Holzhäuser. Mein Kopf dröhnt noch vom Schlag, den mir Markku verpasst hat. Aber der Entschluss steht: Ich muss Raija finden.
+Ich sitze im Zug nach Tampere und zähle in Gedanken das Geld, das ich beim
+Pokern gewonnen habe. Ohne das wäre ich jetzt erledigt. Die Landschaft fliegt
+vorbei: Wälder, Seen, immer wieder kleine Holzhäuser. Mein Kopf dröhnt noch vom
+Schlag, den mir Markku verpasst hat. Aber der Entschluss steht: Ich muss Raija
+finden.
 
-Mein Vater hat mir eingebläut: Lass dein Gepäck nie zurück, wenn du in der Absicht fortgehst, es später zu holen. Immer mitnehmen. Also habe ich meine kleine, viel zu vollgestopfte Reisetasche wieder bei mir.
+Mein Vater hat mir eingebläut: Lass dein Gepäck nie zurück, wenn du in der
+Absicht fortgehst, es später zu holen. Immer mitnehmen. Also habe ich meine
+kleine, viel zu vollgestopfte Reisetasche wieder bei mir.
 
-Tampere ist ein Riese. Am Bahnhof stolpere ich aus dem Zug und fühle mich wie eine Ameise zwischen Straßenbahnen, Bussen, Autos und Menschenmassen. Überall Werbung, Stimmen, Hektik. Ich finde nach einigem Herumirren die Polizeistation – und bleibe auf der anderen Straßenseite stehen. Grau, bedrohlich. Klar wird mir: Das ist eine saublöde Idee. Die suchen mich doch immer noch. Da kann ich nicht einfach reinspazieren und nach Raija fragen. Also tue ich so, als ob ich zufällig vorbeilaufe, und gehe einfach weiter.
+Tampere ist ein Riese. Am Bahnhof stolpere ich aus dem Zug und fühle mich wie
+eine Ameise zwischen Straßenbahnen, Bussen, Autos und Menschenmassen. Überall
+Werbung, Stimmen, Hektik. Ich finde nach einigem Herumirren die Polizeistation –
+und bleibe auf der anderen Straßenseite stehen. Grau, bedrohlich. Klar wird mir:
+Das ist eine saublöde Idee. Die suchen mich doch immer noch. Da kann ich nicht
+einfach reinspazieren und nach Raija fragen. Also tue ich so, als ob ich
+zufällig vorbeilaufe, und gehe einfach weiter.
 
-Ich lasse mich durch die Stadt treiben, lande auf dem Marktplatz. Stimmengewirr, Bratwurstduft, Klappern von Kisten – alles wuselt. Am Trödelmarkt bleibe ich hängen. Da ist ein Bücherstand, riecht nach Vertrautem und nach Abenteuer zugleich.
+Ich lasse mich durch die Stadt treiben, lande auf dem Marktplatz. Stimmengewirr,
+Bratwurstduft, Klappern von Kisten – alles wuselt. Am Trödelmarkt bleibe ich
+hängen. Da ist ein Bücherstand, riecht nach Vertrautem und nach Abenteuer
+zugleich.
 
-Wie automatisch greife ich nach einem Mathebuch. Formeln erkenne ich sofort – meine zweite Sprache. Aber die Wörter? Keine Chance. Finnisch ist reiner Geheimcode. Ich grinse. Mathe ja, Sprache nein.
+Wie automatisch greife ich nach einem Mathebuch. Formeln erkenne ich sofort –
+meine zweite Sprache. Aber die Wörter? Keine Chance. Finnisch ist reiner
+Geheimcode. Ich grinse. Mathe ja, Sprache nein.
 
-Daneben liegt ein Pflanzenbuch. Bunte Abbildungen von Beeren, Pilzen, Kräutern, richtig schön gemalt. Der Text – unverständlich wie Marsianisch. Der Verkäufer, ein alter Mann mit schiefem Hut, macht eine Handbewegung zum Mund. Essen? Ich starre ihn an. Hä? Ach so! Essbare Pflanzen! Ich schlage irgendeine Seite auf, tippe aufs Bild, mache Kaubewegungen. Er nickt eifrig.
+Daneben liegt ein Pflanzenbuch. Bunte Abbildungen von Beeren, Pilzen, Kräutern,
+richtig schön gemalt. Der Text – unverständlich wie Marsianisch. Der Verkäufer,
+ein alter Mann mit schiefem Hut, macht eine Handbewegung zum Mund. Essen? Ich
+starre ihn an. Hä? Ach so! Essbare Pflanzen! Ich schlage irgendeine Seite auf,
+tippe aufs Bild, mache Kaubewegungen. Er nickt eifrig.
 
-Auf dem Einband: Syötävät Villikasvit Suomessa. Keine Ahnung, was das heißt. Aber wenn mein Vater mir eines beigebracht hat, dann Pilze. Und beim Durchblättern denke ich: Ja, das passt. Ein Buch, das mich füttern kann. Und jetzt ist Juli, die Wälder sind bestimmt voll davon. Ein Gedanke schießt mir durch den Kopf: Untertauchen. Einfach weg. Ein paar Wochen im Wald. Bis Mielke aufgibt.
+Auf dem Einband: Syötävät Villikasvit Suomessa. Keine Ahnung, was das heißt.
+Aber wenn mein Vater mir eines beigebracht hat, dann Pilze. Und beim
+Durchblättern denke ich: Ja, das passt. Ein Buch, das mich füttern kann. Und
+jetzt ist Juli, die Wälder sind bestimmt voll davon. Ein Gedanke schießt mir
+durch den Kopf: Untertauchen. Einfach weg. Ein paar Wochen im Wald. Bis Mielke
+aufgibt.
 
-Die Zugfahrt hierher hat 20 Markka gekostet. Nach Schweden wird’s sicher viel teurer. Aber vielleicht brauche ich gar kein Ticket. Ich krame einen Straßenatlas hervor. Landweg nach Stockholm: 1700 Kilometer. Unmöglich. Aber von Vaasa fährt eine Fähre nach Schweden. 300 Kilometer Autobahn – also 350 bis 400 Kilometer zu Fuß. Jeden Tag 20 Kilometer: drei Wochen. Drei Wochen, in denen ich unsichtbar bin. Machbar.
+Die Zugfahrt hierher hat 20 Markka gekostet. Nach Schweden wird’s sicher viel
+teurer. Aber vielleicht brauche ich gar kein Ticket. Ich krame einen
+Straßenatlas hervor. Landweg nach Stockholm: 1700 Kilometer. Unmöglich. Aber von
+Vaasa fährt eine Fähre nach Schweden. 300 Kilometer Autobahn – also 350 bis 400
+Kilometer zu Fuß. Jeden Tag 20 Kilometer: drei Wochen. Drei Wochen, in denen ich
+unsichtbar bin. Machbar.
 
-Der Alte drückt mir noch ein zweites Buch in die Hand: Laavujen Opas: Pohjois-Länsi-Suomi. „Opas?“ Ich kichere. Was für Opas? Beim Aufschlagen wird’s klar: Schutzhütten. Kleine Holzhäuschen im Wald, seitenweise Koordinaten. Ich teste sofort: suche eine Hütte bei Tampere, gleiche die Koordinaten mit einer Karte ab – und tatsächlich: ein kleiner See, mit Häuschen eingezeichnet. Finnland ist übersät damit! Manche nur Picknickdächer, andere winzig für zwei Schlafsäcke, wieder andere groß genug für fünf Leute.
+Der Alte drückt mir noch ein zweites Buch in die Hand: Laavujen Opas:
+Pohjois-Länsi-Suomi. „Opas?“ Ich kichere. Was für Opas? Beim Aufschlagen wird’s
+klar: Schutzhütten. Kleine Holzhäuschen im Wald, seitenweise Koordinaten. Ich
+teste sofort: suche eine Hütte bei Tampere, gleiche die Koordinaten mit einer
+Karte ab – und tatsächlich: ein kleiner See, mit Häuschen eingezeichnet.
+Finnland ist übersät damit! Manche nur Picknickdächer, andere winzig für zwei
+Schlafsäcke, wieder andere groß genug für fünf Leute.
 
-Mein Kopf summt. Das ist es! Von Tampere nach Vaasa, durch Wälder, Hütten als Stationen. Keine Hotels, keine Tickets. Mein eigenes System.
+Mein Kopf summt. Das ist es! Von Tampere nach Vaasa, durch Wälder, Hütten als
+Stationen. Keine Hotels, keine Tickets. Mein eigenes System.
 
-Ich hetze von Stand zu Stand: alte Armeeausrüstung, Schlafsäcke, Karten. Ich rechne im Kopf wie bei der Olympiade: 280 Markka habe ich noch. Schlafsack und Isomatte: 120. Regenjacke: 50. Bücher und Karten: ein paar Markka. Noch 50 für Lebensmittel. Dann bleiben mir 60 für die Fähre. Perfekt.
+Ich hetze von Stand zu Stand: alte Armeeausrüstung, Schlafsäcke, Karten. Ich
+rechne im Kopf wie bei der Olympiade: 280 Markka habe ich noch. Schlafsack und
+Isomatte: 120. Regenjacke: 50. Bücher und Karten: ein paar Markka. Noch 50 für
+Lebensmittel. Dann bleiben mir 60 für die Fähre. Perfekt.
 
-Handeln ist knifflig. Manche reden Brocken Englisch, andere nur mit Händen. Einer fängt auf Russisch an – fast ein Schock. Diese Sprache verfolgt mich! Aber immerhin: Ich drücke die Preise immer etwas runter.
+Handeln ist knifflig. Manche reden Brocken Englisch, andere nur mit Händen.
+Einer fängt auf Russisch an – fast ein Schock. Diese Sprache verfolgt mich! Aber
+immerhin: Ich drücke die Preise immer etwas runter.
 
 Am Ende habe ich 190 Markka ausgegeben. Und halte meine Beute wie Pokal.
 
-Beim Lebensmittelhändler geht’s an die Kalorien. 50 Kilo Gewicht, 20 Kilometer am Tag – ich brauche etwa 250 Gramm Nudeln oder Reis täglich. Macht 4 Kilo für 20 Tage. Viel zu schwer! Also nehme ich 2 Kilo: ein Kilo Nudeln, ein Kilo Reis. Den Rest finde oder kaufe ich unterwegs. Pflanzen aus dem Buch sind nur Beilage. Gesund, lecker – aber kein Benzin.
+Beim Lebensmittelhändler geht’s an die Kalorien. 50 Kilo Gewicht, 20 Kilometer
+am Tag – ich brauche etwa 250 Gramm Nudeln oder Reis täglich. Macht 4 Kilo für
+20 Tage. Viel zu schwer! Also nehme ich 2 Kilo: ein Kilo Nudeln, ein Kilo Reis.
+Den Rest finde oder kaufe ich unterwegs. Pflanzen aus dem Buch sind nur Beilage.
+Gesund, lecker – aber kein Benzin.
 
-Ich muss lachen. Diophantos, der alte Grieche mit seinen Bauern und Kühen, würde staunen: Meine Gleichung heißt Überleben. Bauer Eddie hat zwei Kühe namens Reis und zwei Schweine namens Nudeln.
+Ich muss lachen. Diophantos, der alte Grieche mit seinen Bauern und Kühen, würde
+staunen: Meine Gleichung heißt Überleben. Bauer Eddie hat zwei Kühe namens Reis
+und zwei Schweine namens Nudeln.
 
 > **➡ Die diophantische Gleichung #2...**\
 > (Wie Eddie all ihr Geld exakt für Reis und Nudeln hätte ausgeben können, findest Du im Kapitel 4 von „Eddie rechnet“.)
 
-Mit meinen Beuteln – Rucksack konnte ich mir nicht leisten – setze ich mich in den Schatten und sortiere meinen Schatz: Schlafsack, verbeultes Blechgeschirr, eine Regenjacke, ein Schweizer Taschenmesser mit kleiner Säge (noch nie gesehen, mega praktisch). Dazu die zwei Bücher, fünfzehn (!!) Wanderkarten im Maßstab 1:25.000, und ein Geschenk vom Buchhändler: ein winziges Finnisch–Englisch-Wörterbuch.
+Mit meinen Beuteln – Rucksack konnte ich mir nicht leisten – setze ich mich in
+den Schatten und sortiere meinen Schatz: Schlafsack, verbeultes Blechgeschirr,
+eine Regenjacke, ein Schweizer Taschenmesser mit kleiner Säge (noch nie gesehen,
+mega praktisch). Dazu die zwei Bücher, fünfzehn (!!) Wanderkarten im Maßstab
+1:25.000, und ein Geschenk vom Buchhändler: ein winziges
+Finnisch–Englisch-Wörterbuch.
 
-Die Sonne brennt, ich ziehe Linien mit dem Finger über die Karte. Erste Etappe, zweite Woche, dritte Woche. Ich male mir alles aus. 400 Kilometer nach Vaasa. Verrückt. Aber ich bin jung, ich bin stark. Und vor allem: ich habe keine andere Wahl.
+Die Sonne brennt, ich ziehe Linien mit dem Finger über die Karte. Erste Etappe,
+zweite Woche, dritte Woche. Ich male mir alles aus. 400 Kilometer nach Vaasa.
+Verrückt. Aber ich bin jung, ich bin stark. Und vor allem: ich habe keine andere
+Wahl.
 
-Und dann kommt sie, die Euphorie. Kein Warten mehr, kein Bitten. Ich laufe. Ich laufe nach Vaasa. Es ist mein Plan. Meiner!
+Und dann kommt sie, die Euphorie. Kein Warten mehr, kein Bitten. Ich laufe. Ich
+laufe nach Vaasa. Es ist mein Plan. Meiner!
 
-Ich schultere die Beutel, binde die Regenjacke um und gehe los. Erste Etappe: eine Schutzhütte westlich von Tampere. Jeder Schritt fühlt sich nach Freiheit an.
+Ich schultere die Beutel, binde die Regenjacke um und gehe los. Erste Etappe:
+eine Schutzhütte westlich von Tampere. Jeder Schritt fühlt sich nach Freiheit
+an.
 
-Der Wald nimmt mich auf wie eine alte Freundin. Der Weg zur ersten Hütte ist hart, die Beutel schneiden in die Schultern, aber ich beiße die Zähne zusammen. Endlich stehe ich davor: ein winziges Blockhaus, nicht größer als ein Doppelbett. Ich atme auf. Ein Dach über dem Kopf, und das gratis. Verrückt, dass es so etwas hier für alle gibt. Pikku-Ahvenisto heißt die Hütte und steht mitten im Wald an einem kleinen See.
+Der Wald nimmt mich auf wie eine alte Freundin. Der Weg zur ersten Hütte ist
+hart, die Beutel schneiden in die Schultern, aber ich beiße die Zähne zusammen.
+Endlich stehe ich davor: ein winziges Blockhaus, nicht größer als ein
+Doppelbett. Ich atme auf. Ein Dach über dem Kopf, und das gratis. Verrückt, dass
+es so etwas hier für alle gibt. Pikku-Ahvenisto heißt die Hütte und steht mitten
+im Wald an einem kleinen See.
 
-Ich richte mich ein, packe meinen Schlafsack aus. Ein kurzer Gedanke: Wer wohl da drin schon alles geschlafen hat? Soldaten, Obdachlose, Wanderer? Ich schnuppere am Stoff – frisch, nach Wind, nach Wald. Alles gut.
+Ich richte mich ein, packe meinen Schlafsack aus. Ein kurzer Gedanke: Wer wohl
+da drin schon alles geschlafen hat? Soldaten, Obdachlose, Wanderer? Ich
+schnuppere am Stoff – frisch, nach Wind, nach Wald. Alles gut.
 
-Beim Holzsammeln denke ich an Vater. Wie er mir heimlich Feuer machen, Wasser abkochen, Pilze bestimmen beigebracht hat. Mutter war ganz verdutzt, warum ich plötzlich dauernd im Wald zelten wollte. „Eddie, bist du jetzt bei den Pfadfindern?“ hatte sie gelacht. Sie ahnte bestimmt mehr, als sie sagte. Das Training ist Gold wert. Hier in Finnland macht es mich stark.
+Beim Holzsammeln denke ich an Vater. Wie er mir heimlich Feuer machen, Wasser
+abkochen, Pilze bestimmen beigebracht hat. Mutter war ganz verdutzt, warum ich
+plötzlich dauernd im Wald zelten wollte. „Eddie, bist du jetzt bei den
+Pfadfindern?“ hatte sie gelacht. Sie ahnte bestimmt mehr, als sie sagte. Das
+Training ist Gold wert. Hier in Finnland macht es mich stark.
 
-Ich sammele Pilze, Heidelbeeren, Holz. Als das Feuer knistert, ist es wie damals mit Vater. Ich koche Reis mit Pilzen – die erste im Wald gekochte warme Mahlzeit. Der Geruch steigt mir in die Nase, herzhaft, erdig, fast muss ich heulen. Aber ich bleibe stark, esse und genieße jede Gabel.
+Ich sammele Pilze, Heidelbeeren, Holz. Als das Feuer knistert, ist es wie damals
+mit Vater. Ich koche Reis mit Pilzen – die erste im Wald gekochte warme
+Mahlzeit. Der Geruch steigt mir in die Nase, herzhaft, erdig, fast muss ich
+heulen. Aber ich bleibe stark, esse und genieße jede Gabel.
 
-Dann krieche ich in den Schlafsack. Es ist ungewohnt, allein im Wald, in einer fremden Hütte, so weit weg von allem. Aber Müdigkeit siegt. Ich schließe die Augen – und sinke in tiefen Schlaf.
+Dann krieche ich in den Schlafsack. Es ist ungewohnt, allein im Wald, in einer
+fremden Hütte, so weit weg von allem. Aber Müdigkeit siegt. Ich schließe die
+Augen – und sinke in tiefen Schlaf.
 
-Als ich erwache, ist es, als wäre die Welt neu geboren. Der Sonnenaufgang brennt golden durch die Baumwipfel, Nebel steigt vom See. Die Luft ist frisch und schneidend wie Wasser. Ich sitze auf der Hüttenschwelle, eingewickelt in die Regenjacke, schaue ins Licht, wie es die Landschaft vergoldet. Und ich weiß: Ich kann das schaffen. Ich bin frei. Jeder Schritt nach Vaasa bringt mich weiter weg von Mielke – und näher zu mir selbst.
+Als ich erwache, ist es, als wäre die Welt neu geboren. Der Sonnenaufgang brennt
+golden durch die Baumwipfel, Nebel steigt vom See. Die Luft ist frisch und
+schneidend wie Wasser. Ich sitze auf der Hüttenschwelle, eingewickelt in die
+Regenjacke, schaue ins Licht, wie es die Landschaft vergoldet. Und ich weiß: Ich
+kann das schaffen. Ich bin frei. Jeder Schritt nach Vaasa bringt mich weiter weg
+von Mielke – und näher zu mir selbst.

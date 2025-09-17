@@ -30,37 +30,64 @@
 
 Edmilla wird sterben.
 
-Morgen, nach dem Wettkampf. Punkt. Kein Drumrum. Ich hab’s so geplant.
-Entweder sie wird geschnappt oder sie schafft es in die Freiheit. So oder so, ich werde sie endlich abstreifen wie ’ne alte Haut. Und das ist meine einzige Gewissheit die ich heute habe: Edmilla wird morgen Mittag für immer verschwunden sein.
+Morgen, nach dem Wettkampf. Punkt. Kein Drumrum. Ich hab’s so geplant. Entweder
+sie wird geschnappt oder sie schafft es in die Freiheit. So oder so, ich werde
+sie endlich abstreifen wie ’ne alte Haut. Und das ist meine einzige Gewissheit
+die ich heute habe: Edmilla wird morgen Mittag für immer verschwunden sein.
 
-Die Luft steht wie Beton. Warm, schwer, klebt an mir, als hätte die Hitze des Tages ihre Zähne in die Holzwände vom Bungalow geschlagen und weigert sich loszulassen. Ich lieg auf’m Bett, die Decke längst weggestrampelt, T-Shirt nassgeschwitzt. Neben mir atmen die Mädels gleichmäßig, ein Seufzer hier, ein Rascheln da. Als wär Schlafen das Einfachste der Welt.
+Die Luft steht wie Beton. Warm, schwer, klebt an mir, als hätte die Hitze des
+Tages ihre Zähne in die Holzwände vom Bungalow geschlagen und weigert sich
+loszulassen. Ich lieg auf’m Bett, die Decke längst weggestrampelt, T-Shirt
+nassgeschwitzt. Neben mir atmen die Mädels gleichmäßig, ein Seufzer hier, ein
+Rascheln da. Als wär Schlafen das Einfachste der Welt.
 
-Bei mir? Fehlanzeige. Ich dreh mich von links nach rechts, wieder zurück. Kissen zu heiß, Laken nervt, Kopf noch schlimmer. Immer wieder Augen auf, ins Halbdunkel starren, das kein richtiges Dunkel ist. Durch die ollen Gardinen sickert dieses irre Licht der Mittsommernacht. Keine Nacht, kein Tag – nur so’n fieses Zwielicht, das mich auslacht: Haha, Eddie, nix Schlaf für dich! Dabei wäre es gerade heute Nacht so wichtig.
+Bei mir? Fehlanzeige. Ich dreh mich von links nach rechts, wieder zurück. Kissen
+zu heiß, Laken nervt, Kopf noch schlimmer. Immer wieder Augen auf, ins
+Halbdunkel starren, das kein richtiges Dunkel ist. Durch die ollen Gardinen
+sickert dieses irre Licht der Mittsommernacht. Keine Nacht, kein Tag – nur so’n
+fieses Zwielicht, das mich auslacht: Haha, Eddie, nix Schlaf für dich! Dabei
+wäre es gerade heute Nacht so wichtig.
 
-Das Holz knackt. Wind? Hitze? Keine Ahnung. Ein Insekt tackert gegen die Scheibe. Dann wieder nur das gleichmäßige Atmen ringsum. Ich beneide sie alle. Einfach wegdriften, ohne Herzrasen, ohne Kopfkino. Mein Herz dagegen hämmert, als ob es mir sagt: Stillliegen? Träum weiter!
+Das Holz knackt. Wind? Hitze? Keine Ahnung. Ein Insekt tackert gegen die
+Scheibe. Dann wieder nur das gleichmäßige Atmen ringsum. Ich beneide sie alle.
+Einfach wegdriften, ohne Herzrasen, ohne Kopfkino. Mein Herz dagegen hämmert,
+als ob es mir sagt: Stillliegen? Träum weiter!
 
-Ich starre an die Decke, Arme hinter’m Kopf verschränkt. Draußen ruft ein Vogel – mitten in der Nacht! Weiß wohl selber nicht, ob’s schon morgen ist. Genau mein Feeling: festgeklemmt zwischen gestern und morgen, in diesem endlosen Dämmerlicht, das keinen Schlaf kennt.
+Ich starre an die Decke, Arme hinter’m Kopf verschränkt. Draußen ruft ein Vogel
+– mitten in der Nacht! Weiß wohl selber nicht, ob’s schon morgen ist. Genau mein
+Feeling: festgeklemmt zwischen gestern und morgen, in diesem endlosen
+Dämmerlicht, das keinen Schlaf kennt.
 
-Und dann ballert immer wieder das Pokerspiel in meinen Kopf. Erst das Kribbeln vom Gewinn, dann dieser Schock draußen im Halbdunkel zwischen den Hütten. Er. Mielke. Mein Herz stolperte, mir wurde heiß und kalt in einem. Allein von seinem Blick zieht sich jetzt noch mein Magen zusammen.
+Und dann ballert immer wieder das Pokerspiel in meinen Kopf. Erst das Kribbeln
+vom Gewinn, dann dieser Schock draußen im Halbdunkel zwischen den Hütten. Er.
+Mielke. Mein Herz stolperte, mir wurde heiß und kalt in einem. Allein von seinem
+Blick zieht sich jetzt noch mein Magen zusammen.
 
 „Herr Kosmol!“
 
-Sein Grinsen war schief. „Na Edda, hängst du jeden Abend mit dem Klassenfeind ab? Poker ist bei uns nicht gern gesehen. Und – wie viel hast du gewonnen?“
+Sein Grinsen war schief. „Na Edda, hängst du jeden Abend mit dem Klassenfeind
+ab? Poker ist bei uns nicht gern gesehen. Und – wie viel hast du gewonnen?“
 
-Woher wusste er das so fix?! Mein Bauch krampfte, aber ich grinste blöd und wich aus: „Hab sie ein bisschen abgezogen, wissen Sie?“
+Woher wusste er das so fix?! Mein Bauch krampfte, aber ich grinste blöd und wich
+aus: „Hab sie ein bisschen abgezogen, wissen Sie?“
 
 Er brummte nur, starrte mich weiter an. „Wie viel?“
 
-„Dreißig Markka.“ Ich tat so, als wär’s nix. Er konnte unmöglich den genauen Betrag kennen.
+„Dreißig Markka.“ Ich tat so, als wär’s nix. Er konnte unmöglich den genauen
+Betrag kennen.
 
 „Und was willst du mit dreißig Markka?“
 
-„Ein Kleidchen kaufen. So’n finnisches, wie die Mädchen hier tragen. Und vielleicht Eis oder Cola für die anderen.“ Ich hör mich fast flehen: „Kann ich morgen in die Stadt? Bitte!“
+„Ein Kleidchen kaufen. So’n finnisches, wie die Mädchen hier tragen. Und
+vielleicht Eis oder Cola für die anderen.“ Ich hör mich fast flehen: „Kann ich
+morgen in die Stadt? Bitte!“
 
 Er schnaubte. „Nach dem Wettkampf? Ins Einkaufszentrum?“
 
 „Ja.“
 
-„Hm.“ Sein Gesicht blieb Beton. „Das überlege ich mir noch – versprochen ist erstmal nichts. Mir wäre lieber, du hättest die Mathematik im Kopf, um uns morgen einen ersten Platz zu erkämpfen. Statt Kerle und Kleidchen.“
+„Hm.“ Sein Gesicht blieb Beton. „Das überlege ich mir noch – versprochen ist
+erstmal nichts. Mir wäre lieber, du hättest die Mathematik im Kopf, um uns
+morgen einen ersten Platz zu erkämpfen. Statt Kerle und Kleidchen.“
 
 Dann drehte er sich weg und scheuchte mich mit ’ner Handbewegung ins Bett.
