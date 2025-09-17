@@ -5,8 +5,8 @@
     "date": "1985-07-05",
     "daytime": "late evening",
     "place": "Raijas Auto auf der Fahrt von Joutsa nach Jyväskylä",
-    "persons": ["Eddie", "Raija", "Markku"],
-    "synopsis": "Raija bringt Eddie nach Jyväskylä in ihre Wohnung; dort kommt es nachts zum heftigen Streit zwischen Raija und Markku über das Risiko, das sie für Eddie eingeht.",
+    "persons": ["Eddie", "Raija", "Jorma"],
+    "synopsis": "Raija bringt Eddie nach Jyväskylä in ihre Wohnung; dort kommt es nachts zum heftigen Streit zwischen Raija und Jorma über das Risiko, das sie für Eddie eingeht.",
     "mood": "tense, conflicted, heavy",
     "tense": "present, Eddies first-person perspective",
     "mode": "mainline", // flashback | mainline
@@ -77,7 +77,7 @@ kann, ohne Liste, ohne Jahre. Ein Schlüssel, den man dreht, ohne vorher ein
 halbes Leben gewartet zu haben.
 
 Raija unterbricht meine Grübeleien. „Ich teile meine Wohnung mit meinem Freund
-Markku“, erklärt sie. „Er ist Student an der Uni.“
+Jorma“, erklärt sie. „Er ist Student an der Uni.“
 
 „Was studiert er?“, frage ich.
 
@@ -119,7 +119,7 @@ typischen Treppenhausduft – Waschmittel, ein Hauch Kaffee, irgendwie wohnlich.
 Nicht muffig, nicht nach Kohlenstaub.
 
 Oben in der Wohnung ist es sofort gemütlich. Helle Möbel, Teppiche, Pflanzen auf
-der Fensterbank. Und da steht er – Markku. Ein hochgewachsener Typ, Bartansatz,
+der Fensterbank. Und da steht er – Jorma. Ein hochgewachsener Typ, Bartansatz,
 wirft mir einen prüfenden Blick zu. Man sieht ihm an, dass er nicht damit
 gerechnet hat, dass seine Freundin einen Gast anschleppt.
 

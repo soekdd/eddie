@@ -5,8 +5,8 @@
     "date": "1985-07-07",
     "daytime": "night",
     "place": "Raijas Wohnung",
-    "persons": ["Eddie", "Raija", "Markku", "Eddies Familie (in Gedanken)"],
-    "synopsis": "Eddie liegt nach ihrer Flucht schlaflos im Bett, quält sich mit Schuldgefühlen um ihre Familie; Raija tröstet sie in der Nacht, doch am Morgen fühlt sie sich von Markku unbehaglich beobachtet.",
+    "persons": ["Eddie", "Raija", "Jorma", "Eddies Familie (in Gedanken)"],
+    "synopsis": "Eddie liegt nach ihrer Flucht schlaflos im Bett, quält sich mit Schuldgefühlen um ihre Familie; Raija tröstet sie in der Nacht, doch am Morgen fühlt sie sich von Jorma unbehaglich beobachtet.",
     "mood": "fearful, vulnerable, briefly comforted",
     "tense": "present, Eddies first-person perspective",
     "mode": "mainline", // flashback | mainline
@@ -97,7 +97,7 @@ dem Weg zur Arbeit. Auf dem Küchentisch steht ein Glas Wasser und daneben eine
 aufgerissene Packung Kekse – ihre Art, mir zu sagen: Ich war hier. Du bist nicht
 allein.
 
-Doch da steht er. Markku. Mit seiner Umhängetasche, die schon gepackt an seiner
+Doch da steht er. Jorma. Mit seiner Umhängetasche, die schon gepackt an seiner
 Schulter hängt, ein Stapel Bücher unter dem Arm. Er ist offensichtlich auf dem
 Sprung in die Uni.
 

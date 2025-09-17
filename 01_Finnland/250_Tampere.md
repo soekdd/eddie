@@ -32,7 +32,7 @@
 Ich sitze im Zug nach Tampere und zähle in Gedanken das Geld, das ich beim
 Pokern gewonnen habe. Ohne das wäre ich jetzt erledigt. Die Landschaft fliegt
 vorbei: Wälder, Seen, immer wieder kleine Holzhäuser. Mein Kopf dröhnt noch vom
-Schlag, den mir Markku verpasst hat. Aber der Entschluss steht: Ich muss Raija
+Schlag, den mir Jorma verpasst hat. Aber der Entschluss steht: Ich muss Raija
 finden.
 
 Mein Vater hat mir eingebläut: Lass dein Gepäck nie zurück, wenn du in der

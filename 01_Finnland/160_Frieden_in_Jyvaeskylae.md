@@ -29,7 +29,7 @@
 
 Der Morgen riecht nach Kaffee und kaltem Wasser im Gesicht.
 
-Der Morgen beginnt langsam, fast schwerelos. Kein Markku, kein Streit, nur Raija
+Der Morgen beginnt langsam, fast schwerelos. Kein Jorma, kein Streit, nur Raija
 und ich. Sie klappert in der Küche, ich tapse barfuß hinterher, und ehe ich mich
 versehe, sitzen wir bei Kaffee und Brot am Tisch. Es fühlt sich an, als gäbe es
 heute nur uns beide.

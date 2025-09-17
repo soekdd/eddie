@@ -1,16 +1,16 @@
-# Markku vergisst sicht
+# Jorma vergisst sicht
 
 ```json
 {
     "date": "1985-07-09",
     "daytime": "morning",
     "place": "Raijas Wohnung in Jyväskylä",
-    "persons": ["Eddie", "Markku"],
-    "synopsis": "Eddie streitet mit Markku über die DDR, Raija kommt heim und spürt die Spannungen; nachts hört Eddie den Streit zwischen beiden.",
+    "persons": ["Eddie", "Jorma"],
+    "synopsis": "Eddie streitet mit Jorma über die DDR, Raija kommt heim und spürt die Spannungen; nachts hört Eddie den Streit zwischen beiden.",
     "mood": "tense and uneasy",
     "tense": "present, Eddies first-person perspective",
     "mode": "mainline", // flashback | mainline
-    "illustrations": ["FIN_Jyvaeskylae_Markku.png"],
+    "illustrations": ["FIN_Jyvaeskylae_Jorma.png"],
     "feedback": {
         "anni": {
             "rating":".....",
@@ -29,13 +29,13 @@
 ```
 
 Am Morgen wache ich auf, Raija ist schon wieder weg nach Tampere. Die Wohnung
-ist still, bis auf ein Poltern an der Tür. Markku stolpert herein. Er ist
+ist still, bis auf ein Poltern an der Tür. Jorma stolpert herein. Er ist
 betrunken, die Augen glasig, der Atem stinkt nach billigem Schnaps. „Na,
 Eddie..." lallt er und kommt auf mich zu, schwankend. Er grinst schief. „Du bist
 viel hübscher als Raija..." Dann beugt er sich vor, versucht, mich zu küssen.
 
 Mir schießt das Blut in den Kopf. Ich stoße ihn weg und schreie: „Du bist
-widerlich, Markku! Du schwärmst von der DDR, während du im freien Westen lebst.
+widerlich, Jorma! Du schwärmst von der DDR, während du im freien Westen lebst.
 Du redest von Idealen, aber du bist nur feige. Du lässt dich von Raija
 aushalten, obwohl du sie nicht respektierst. Und dann machst du dich an Mädchen
 ran, die viel zu jung für dich sind. Hast du überhaupt noch einen Funken Würde?"

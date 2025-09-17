@@ -1,16 +1,16 @@
-# Disput mit Markku
+# Disput mit Jorma
 
 ```json
 {
     "date": "1985-07-08",
     "daytime": "morning -> late afternoon",
     "place": "Raijas Wohnung in Jyväskylä",
-    "persons": ["Eddie", "Markku", "Raija"],
-    "synopsis": "Eddie streitet mit Markku über die DDR, Raija kommt heim und spürt die Spannungen; nachts hört Eddie den Streit zwischen beiden.",
+    "persons": ["Eddie", "Jorma", "Raija"],
+    "synopsis": "Eddie streitet mit Jorma über die DDR, Raija kommt heim und spürt die Spannungen; nachts hört Eddie den Streit zwischen beiden.",
     "mood": "tense and uneasy",
     "tense": "present, Eddies first-person perspective",
     "mode": "mainline", // flashback | mainline
-    "illustrations": ["FIN_Jyvaeskylae_Markku.png"],
+    "illustrations": ["FIN_Jyvaeskylae_Jorma.png"],
     "feedback": {
         "anni": {
             "rating":".....",
@@ -30,14 +30,14 @@
 ```
 
 Montagmorgen. Ich stolpere verschlafen in die Küche, Raija ist schon längst weg
-zur Arbeit. Stattdessen sitzt da Markku – und wirkt plötzlich anders. Nicht mehr
+zur Arbeit. Stattdessen sitzt da Jorma – und wirkt plötzlich anders. Nicht mehr
 so abweisend wie gestern, fast freundlich, was bei ihm irgendwie unheimlich ist.
 Er mustert mich dauernd, als wäre ich irgendein Rätsel, das er unbedingt lösen
 will. Ich tue so, als würde ich’s nicht merken, auch wenn mir jedes Mal die
 Nackenhaare hochgehen.
 
 Ich hab null Bock, Stress zwischen ihn und Raija zu bringen, also reiße ich mich
-zusammen. Besser so tun, als wär alles normal. Markku redet beiläufig über
+zusammen. Besser so tun, als wär alles normal. Jorma redet beiläufig über
 Kaffee, fragt, ob ich mit rauskommen will, Sonne genießen, frische Luft. Ich
 nicke – halb aus Höflichkeit, halb weil’s draußen wenigstens nicht nach
 Zigaretten und Spülmittel riecht.
@@ -74,10 +74,10 @@ verschulden, um zu lernen.“
 „Frei?“, stoße ich bitter hervor. „Du kriegst alles serviert – ja, sogar
 kostenlos. Aber nur, wenn du dich an die Partei hältst. Wer nicht spurt, fliegt
 raus. In meiner Klasse werden Bücher aus den Regalen entfernt, Diskussionen
-abgewürgt. Bildung ohne Freiheit ist keine Bildung, Markku. Du lernst, was
+abgewürgt. Bildung ohne Freiheit ist keine Bildung, Jorma. Du lernst, was
 erlaubt ist, nicht was wahr ist.“
 
-Markku lehnt sich zurück, als hätte er alle Zeit der Welt, und nippt genüsslich
+Jorma lehnt sich zurück, als hätte er alle Zeit der Welt, und nippt genüsslich
 den letzten Schluck aus seiner Tasse. Dann sagt er seelenruhig: „Heute gehe ich
 nicht in die Uni. Ich bleibe hier, Eddie. Wir diskutieren das.“
 
@@ -92,7 +92,7 @@ Also sitzen wir weiter im Hof, die Morgensonne weicht einem krellen Vormittag.
 Ich schnaube. „Und im Osten gibt’s Angst. Meine Lehrerin war plötzlich eine
 Woche weg, nur weil sie was Kritisches gesagt hat. Bücher verschwinden aus den
 Regalen. Unsere Post wird geöffnet, unsere Telefonate abgehört. Wir fliehen
-nicht vor Hunger, Markku, wir fliehen vor Kontrolle.“
+nicht vor Hunger, Jorma, wir fliehen vor Kontrolle.“
 
 Er hebt den Zeigefinger. „Aber das ist fürs Kollektiv, für das Wohl aller.
 Manchmal muss der Einzelne zurückstecken.“
@@ -121,7 +121,7 @@ Er schüttelt den Kopf, fast mitleidig. „Das ist westliche Propaganda. Die DDR
 schützt ihre Bürger, keiner wird zurückgelassen. In zehn Jahren wird man sehen,
 dass euer Kapitalismus zerbricht.“
 
-„Markku,“ sage ich leise, „ich brauche keine zehn Jahre. Ich hab es gelebt.
+„Jorma,“ sage ich leise, „ich brauche keine zehn Jahre. Ich hab es gelebt.
 Jeden Tag. Die Angst, dass die Stasi zuhört. Die Gewissheit, dass mein Vater nie
 Professor wird, weil er nicht in die Partei will. Die Angst, dass ein falsches
 Wort reicht, um alles zu verlieren. Du redest von Idealen. Ich rede von meinem
@@ -130,7 +130,7 @@ Leben.“
 Er starrt mich an, als hätte ich ihn geohrfeigt. Dann lehnt er sich zurück,
 verschränkt die Arme, bleibt aber stur.
 
-Mittags koche ich Nudeln, in der Hoffnung auf Ruhe. Doch Markku redet weiter,
+Mittags koche ich Nudeln, in der Hoffnung auf Ruhe. Doch Jorma redet weiter,
 als säße er in einem endlosen Seminar. Ich halte dagegen, bis mir die Stimme
 bricht.
 
@@ -142,8 +142,8 @@ Sie spürt, wie sehr es gekracht hat.
 in Joutsa.“ Sie atmet tief durch. „Aber mein älterer Kollege hat mich gedeckt.
 Ich hab keinen Ärger bekommen.“
 
-Sie runzelt die Stirn, dann wandert ihr Blick zu Markku. Ihre Augen verraten,
-dass sie die Spannung zwischen uns sofort erfasst. Markku murmelt etwas
+Sie runzelt die Stirn, dann wandert ihr Blick zu Jorma. Ihre Augen verraten,
+dass sie die Spannung zwischen uns sofort erfasst. Jorma murmelt etwas
 Unverständliches auf Finnisch.
 
 Raija zieht ihn daraufhin ins Schlafzimmer. Durch die dünnen Wände höre ich ihre
@@ -153,7 +153,7 @@ klingt wie ein ständiges Hin und Her, doch die Stimmung ist klar.
 Jetzt habe ich doch Stress zwischen die beiden gebracht. Das ärgert mich.
 
 Morgen, denke ich, muss ich wieder allein klarkommen, wenn Raija nach Tampere
-fährt. Und Markku … Markku wird da sein, mit seinem Blick und seinen wirren
+fährt. Und Jorma … Jorma wird da sein, mit seinem Blick und seinen wirren
 Ideen.
 
 Plötzlich kommt er aus dem Schlafzimmer, zieht sich hastig die Jacke über. „Ich

@@ -190,7 +190,7 @@ Ihre Stimme ist ruhig, aber dahinter liegt etwas Hartes -- Sorge oder vielleicht
 auch leise Wut.
 
 Ich atme durch, blicke auf meine Hände, die auf dem kalten Metall liegen. „Ich
-dachte, du weißt es. Wegen Markku."
+dachte, du weißt es. Wegen Jorma."
 
 „Wegen seiner politischen Sprüche?"
 
@@ -216,13 +216,13 @@ einfach los, zu Fuß Richtung Vaasa. Ich hatte mir fest vorgenommen, dir zu
 schreiben, aber dann kam so viel dazwischen."
 
 Sie sieht mich an, als müsste sie neu lernen, wer ich eigentlich bin. „Ich habe
-später erfahren, dass einer von Markkus Freunden bei der SKOL Kontakt zur Stasi
-aufgenommen hat. Markku wusste nicht, dass er dich verraten würde. Er war total
+später erfahren, dass einer von Jormas Freunden bei der SKOL Kontakt zur Stasi
+aufgenommen hat. Jorma wusste nicht, dass er dich verraten würde. Er war total
 unvorsichtig. Unentschuldbar unvorsichtig."
 
 Mir wird kurz kalt, obwohl der Wind heute mild ist. „Und das war, bevor...?"
 
-„Bevor Markku dich geschlagen hat. Aber du warst schon weg, als die Männer der
+„Bevor Jorma dich geschlagen hat. Aber du warst schon weg, als die Männer der
 Stasi vor unserer Wohnung standen… Glück im Unglück."
 
 Wir schweigen. Die Ostsee zieht unter uns vorbei wie ein endloses Fließband.

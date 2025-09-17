@@ -115,7 +115,7 @@ muss.
 Raija blinzelt, ungläubig. „Dreihundert? Woher denn?“
 
 Ich kann ein breites Grinsen nicht unterdrücken. Ich lächle ein wenig schief,
-halb stolz, halb verlegen. „Ich hab beim Pokern gewonnen. Dreihundert Markku.“
+halb stolz, halb verlegen. „Ich hab beim Pokern gewonnen. Dreihundert Markka.“
 
 Einen Moment lang starrt sie mich nur an, dann beginnt sie zu lachen – ehrlich,
 überrascht, fast ungläubig. „Du?! Poker?!“
