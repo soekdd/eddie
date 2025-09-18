@@ -142,8 +142,8 @@ Fußballspieler oder ein britischer Reggae-Sänger." Sina springt von der Bank a
 und tut so, als ob sie Fußballspielerin und Sängerin zugleich wäre. Ich falle
 vor Lachen beinahe von der Bank. Es ist so schön mit Sini Zeit zu verlieren. Der
 Wind weht mir den Geruch von Seealgen und Rauch in die Nase. Ich streiche über
-den Stoff meiner verwaschenen roten Trainingshose – ein Stück Dresden, das
-sich hier manchmal fremd anfühlt.
+den Stoff meiner verwaschenen roten Trainingshose – ein Stück Dresden, das sich
+hier manchmal fremd anfühlt.
 
 Aber während ich neben Sini sitze, merke ich: Zuhause ist vielleicht gar kein
 Ort, kein Name, kein System. Zuhause sind Menschen. Menschen wie sie, die mich

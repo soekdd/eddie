@@ -126,8 +126,8 @@ Er schüttelt den Kopf, fast mitleidig. „Das ist westliche Propaganda. Die DDR
 schützt ihre Bürger, keiner wird zurückgelassen. In zehn Jahren wird man sehen,
 dass euer Kapitalismus zerbricht.“
 
-„Jorma,“ sage ich leise, „ich brauche keine zehn Jahre. Ich hab es gelebt.
-Jeden Tag. Die Angst, dass die Stasi zuhört. Die Gewissheit, dass mein Vater nie
+„Jorma,“ sage ich leise, „ich brauche keine zehn Jahre. Ich hab es gelebt. Jeden
+Tag. Die Angst, dass die Stasi zuhört. Die Gewissheit, dass mein Vater nie
 Professor wird, weil er nicht in die Partei will. Die Angst, dass ein falsches
 Wort reicht, um alles zu verlieren. Du redest von Idealen. Ich rede von meinem
 Leben.“
@@ -135,9 +135,8 @@ Leben.“
 Er starrt mich an, als hätte ich ihn geohrfeigt. Dann lehnt er sich zurück,
 verschränkt die Arme, bleibt aber stur.
 
-Mittags koche ich Nudeln, in der Hoffnung auf Ruhe. Doch Jorma redet weiter,
-als säße er in einem endlosen Seminar. Ich halte dagegen, bis mir die Stimme
-bricht.
+Mittags koche ich Nudeln, in der Hoffnung auf Ruhe. Doch Jorma redet weiter, als
+säße er in einem endlosen Seminar. Ich halte dagegen, bis mir die Stimme bricht.
 
 Am Nachmittag sitze ich erschöpft am Küchentisch, als endlich die Tür ins
 Schloss fällt. Raija kommt heim, wirft uns einen Blick zu – und ich sehe sofort:
@@ -158,8 +157,7 @@ klingt wie ein ständiges Hin und Her, doch die Stimmung ist klar.
 Jetzt habe ich doch Stress zwischen die beiden gebracht. Das ärgert mich.
 
 Morgen, denke ich, muss ich wieder allein klarkommen, wenn Raija nach Tampere
-fährt. Und Jorma … Jorma wird da sein, mit seinem Blick und seinen wirren
-Ideen.
+fährt. Und Jorma … Jorma wird da sein, mit seinem Blick und seinen wirren Ideen.
 
 Plötzlich kommt er aus dem Schlafzimmer, zieht sich hastig die Jacke über. „Ich
 muss noch Leute von der Fakultät treffen, es geht um Seminare“, sagt er, ohne

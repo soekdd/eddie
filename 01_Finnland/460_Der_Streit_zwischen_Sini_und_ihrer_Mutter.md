@@ -30,17 +30,21 @@
   }
 }
 ```
-Wieder einer dieser gemütlichen Abende. Wie so oft habe ich Sini vom Terminal abgeholt, quatschend und lachend sind wir über die lange Brücke in die Innenstadt und zu Sinis Wohnung geschlendert. 
-Nun sitze ich auf dem kleinen Sofa, die Knie an die Brust gezogen, genieße die Ruhe und Vertrauheit. Plötzlich wird die
-Tür aufgerissen. Die Stimme, die den Raum füllt, ist schneidend wie kalter
-Wind. Ich verstehe kein Wort, aber ich sehe die Frau: hochgewachsen, streng, die
-Mappe fest unter dem Arm. Keine Frage, so kündigt sich kein freundlicher
-Besuch an.
+Wieder einer dieser gemütlichen Abende. Wie so oft habe ich Sini vom Terminal
+abgeholt, quatschend und lachend sind wir über die lange Brücke in die
+Innenstadt und zu Sinis Wohnung geschlendert. Nun sitze ich auf dem kleinen
+Sofa, die Knie an die Brust gezogen, genieße die Ruhe und Vertrauheit. Plötzlich
+wird die Tür aufgerissen. Die Stimme, die den Raum füllt, ist schneidend wie
+kalter Wind. Ich verstehe kein Wort, aber ich sehe die Frau: hochgewachsen,
+streng, die Mappe fest unter dem Arm. Keine Frage, so kündigt sich kein
+freundlicher Besuch an.
 
 Sini stolpert, wirkt ertappt, versucht zu lächeln. Doch es ist ein hilfloses
 Lächeln. Die beiden sprechen miteinander, Worte, die an mir vorbeirauschen, aber
-die Spannung liegt so dicht in der Luft, dass ich sie körperlich spüren kann. Ist es Sinis Mutter? Im Gegensatz zu Sini hat sie kein Sami Blut in ihren Adern, aber ihrem Temperament scheint das nicht zu schaden. Ihre Stirn ist hart gefurcht, ihre Augen blitzen, während Sini kleiner
-wirkt, fast wie ein Kind.
+die Spannung liegt so dicht in der Luft, dass ich sie körperlich spüren kann.
+Ist es Sinis Mutter? Im Gegensatz zu Sini hat sie kein Sami Blut in ihren Adern,
+aber ihrem Temperament scheint das nicht zu schaden. Ihre Stirn ist hart
+gefurcht, ihre Augen blitzen, während Sini kleiner wirkt, fast wie ein Kind.
 
 Dann dreht sich Sini zu mir, legt ihr zittriges Lächeln auf und sagt rasch:
 „Mama, das ist Eddie. Bitte… wir reden jetzt auf Englisch.“

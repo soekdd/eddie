@@ -48,8 +48,8 @@ auf der Fähre sind. Sie schlägt vor, wir könnten mit einem Fischerboot rüber
 Ich male mir aus, wie wir im Nebel treiben, bis uns ein Patrouillenboot
 aufgreift.
 
-„Was bleibt uns denn?" frage ich irgendwann ins Dunkel und beantworte es mir selbst: „Kirche. Vielleicht
-noch mal Kirchenasyl."
+„Was bleibt uns denn?" frage ich irgendwann ins Dunkel und beantworte es mir
+selbst: „Kirche. Vielleicht noch mal Kirchenasyl."
 
 Ich will lachen, aber es bleibt in meiner Kehle stecken. Wir drehen uns hin und
 her, jeder Plan wird geboren und stirbt innerhalb von Minuten. Die Müdigkeit
