@@ -30,8 +30,8 @@ Alkohol, der Beat allein trägt uns hoch.
 Ich tauche tiefer in den Rhythmus, und dann merke ich, dass jemand mich ansieht.
 Kein plumpes Glotzen, sondern ein Blick, der hängen bleibt. Ich wische mir mit
 dem T-Shirt übers Gesicht, schaue hoch – und da ist er. Der Gitarrist. Groß,
-schlank, die Gitarre tief an der Hüfte, die Finger fliegen über die Saiten. Aber
-seine lachenden Augen sind bei mir.
+schlank, lange blonde Haare, die Gitarre tief an der Hüfte, die Finger fliegen über die Saiten. Aber
+seine lachenden Augen sind bei mir. 
 
 Ein Blick. Ein zweiter, länger. Ein dritter, der kein Zufall mehr ist. Dann
 grinst er, klein und nur für mich. Meine Knie werden weich, nicht vom Tanzen,
