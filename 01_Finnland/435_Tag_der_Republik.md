@@ -54,8 +54,10 @@ Als er gegangen ist, schaue ich mich um. Das Chaos schreit mir entgegen: zerknü
 
 Die Tür geht auf, kalte Luft weht herein, der Duft von frischen Brötchen. Sini steht im Türrahmen, strahlt über beide Backen. Ihr Blick wandert ins Schlafzimmer, sieht das frisch bezogene Bett, dann mich – zerknittert, verschlafen, mit einem dummen Grinsen im Gesicht.  
 
-„Ohooo!“ ruft sie. „Na, erzähl schon!“  
+„Ohooo!“ ruft sie und wirft die Jacke in die Ecke. „Na, erzähl schon, wie war’s?“
 
+Ich reibe mir die Augen, lache verschämt. Und während sie den Tisch deckt, merke ich, wie sehr ich mich freue, ihr alles zu erzählen – jedes Detail, jede Berührung, jede verrückte Sekunde.
+  
 Sini stellt die Brötchentüte auf den Tisch, setzt sich keine Sekunde später mir gegenüber und stützt das Kinn auf die Hände. Ihre Augen funkeln, und sie trommelt ungeduldig mit den Fingern.
 
 „Na los, Eddie. Raus damit. Ich will alles hören.“
