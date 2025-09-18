@@ -119,9 +119,12 @@ gar nichts – ich hab’s mir genommen!“ Wir lachen beide, und während ich n
 
  „He, hier darfst du nicht wegdösen. Einschlafen geht nicht – das hier ist Sinis Reich.“ 
 
-Er blinzelt, lacht verschlafen – und sagt dann leise, fast wie ein Geheimnis: „Jussi.“ Erst da fällt mir auf, dass wir uns noch gar nicht vorgestellt haben. Ich tippe ihm mit dem Finger gegen die Brust. „Eddie.“ Wir liegen einen Moment so, die Namen noch auf den Lippen, bevor er sich schließlich erhebt und geht.
+Er blinzelt, lacht verschlafen – und sagt dann leise, fast wie ein Geheimnis: „Jussi.“ Erst da fällt mir auf, dass wir uns noch gar nicht vorgestellt haben. Ich tippe ihm mit dem Finger gegen die Brust. „Eddie.“ Wir liegen einen Moment so, die Namen noch auf den Lippen, bevor er sich schließlich erhebt und geht. 
 
-Ich schaue ich mich um. Das Chaos schreit mir entgegen: zerknüllte Taschentücher, Kondompackungen, das zerwühlte Bett. Ich springe auf, stopfe das alte Bettzeug sofort in die Waschmaschine, beziehe das Bett frisch, falte die
+Ich grinse müde, flüstere: „Ich geb dir eine Eins.“
+Er lacht leise, kneift mir zärtlich in den Po und küsst mich zum Abschied.
+
+Dann ist er weg. Ich schaue mich um. Das Chaos schreit mir entgegen: zerknüllte Taschentücher, Kondompackungen, das zerwühlte Bett. Ich springe auf, stopfe das alte Bettzeug sofort in die Waschmaschine, beziehe das Bett frisch, falte die
 Kissen ordentlich. Niemand soll glauben, ich wäre leichtfertig mit Sinis
 Vertrauen umgegangen. Erst dann sinke ich aufs Schlafsofa – mein Körper schwer
 wie Blei, jede Muskelfaser müde, erschöpft bis in die Knochen. Und gleichzeitig
