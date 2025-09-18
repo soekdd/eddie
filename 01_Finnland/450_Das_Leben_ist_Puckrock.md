@@ -1,4 +1,4 @@
-# Tag der Republik
+# Das Leben ist Punkrock
 
 ```json
 {
@@ -10,8 +10,7 @@
   "mood": "wild, lustvoll, ausgelassen, befreiend",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "illustrations": ["FIN_Vaasa_Jussi.png", "FIN_Vaasa_morging_after.pmg"],
-  "historical": "Eddies ausgelassener Abend fällt auf den 7. September, den 'Tag der Republik' in der DDR – ein stiller Kontrast zu den offiziellen Feiern, die sie längst hinter sich gelassen hat."
+  "illustrations": ["FIN_Vaasa_Jussi.png", "FIN_Vaasa_morging_after.pmg"]
 }
 ```
 
@@ -27,12 +26,6 @@ Mal, aber diesmal kommt mir nur ein Lachen über die Lippen. Ich tanze.
 
 Erst unsicher, dann immer wilder, im Rhythmus neben ihr. Wir brauchen kaum
 Alkohol, der Beat allein trägt uns hoch.
-
-Mitten im Hüpfen fällt es mir plötzlich ein: Heute ist der „Tag der Republik“.
-In der DDR marschieren die FDJ-Formationen, laufen die Paraden, halten die
-Funktionäre ihre Reden. Ich grinse, während ich im Takt springe. Sollen sie doch
-marschieren – ich feiere lieber hier, mit Sini, im Chaos einer verrauchten
-Kneipe, zu finnischem Punkrock. Mein eigener Feiertag.
 
 Ich tauche tiefer in den Rhythmus, und dann merke ich, dass jemand mich ansieht.
 Kein plumpes Glotzen, sondern ein Blick, der hängen bleibt. Ich wische mir mit
@@ -179,12 +172,6 @@ Ich halte inne. Da ist kein Zögern, keine Qual. Nur Klarheit. „Klar“, sage 
 Sini nickt zufrieden, fast stolz, als hätte ich genau die richtige Antwort
 gegeben. Dann erzählt sie von ihrem Abend, mit einem Augenzwinkern und
 mindestens genauso vielen Details, und ich kichere über ihre Eskapaden.
-
-Zwischendurch stoße ich mit meiner Kaffeetasse an ihre. „Das war der beste
-Siebte Oktober meines Lebens!“ rufe ich, und Sini schaut erst verwirrt. Ich
-erkläre ihr, dass gestern in der DDR Nationalfeiertag war. Sie prustet los,
-schüttelt den Kopf und stößt mit mir an – auf meine neue Version dieses
-Feiertags.
 
 So verbringen wir den Sonntag: faul, ich im Schlafanzug, mit Kaffee, Brötchen
 und stundenlangem Geplapper. Der Tag zieht vorbei wie ein einziger
