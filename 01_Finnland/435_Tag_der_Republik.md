@@ -56,11 +56,17 @@ Die Tür geht auf, kalte Luft weht herein, der Duft von frischen Brötchen. Sini
 
 „Ohooo!“ ruft sie. „Na, erzähl schon!“  
 
-Und ich plappere los. Von der Tanzfläche, von den Küssen, von der Dusche, vom Bett. Ich lasse kein Detail aus, und sie prustet, quietscht, schlägt sich vor Lachen auf die Schenkel. Dann beugt sie sich vor, die Augen funkelnd: „Willst du ihn wiedersehen?“  
+Sini stellt die Brötchentüte auf den Tisch, setzt sich keine Sekunde später mir gegenüber und stützt das Kinn auf die Hände. Ihre Augen funkeln, und sie trommelt ungeduldig mit den Fingern.
 
-Ich halte inne. Keine Qual, nur Klarheit. „Klar. Zum Tanzen, zum Lachen, zum… du weißt schon. Aber mehr auch nicht.“  
+„Na los, Eddie. Raus damit. Ich will alles hören.“
 
-Sini nickt, zufrieden. Dann erzählt sie von ihrer eigenen Nacht, mindestens genauso wild, und wir lachen beide, bis uns die Bäuche wehtun.  
+Ich lache, streiche mir das Haar zurück, und noch ehe ich den ersten Bissen vom Brötchen nehme, plappere ich schon los. Die Worte sprudeln, als hätte ich die ganze Nacht nur darauf gewartet. Ich erzähle vom Tanzen, vom Hüpfen im Takt, vom Moment, als er mich aufgefangen hat, vom Lachen, vom Rausch. Ich hüpfe zwischen Dusche und Bett, als würde ich alles gleichzeitig nacherzählen, und Sini prustet immer wieder los. Ich lasse nichts aus – und merke trotzdem, dass ich nicht kitschig werde, sondern so begeistert, wie ich mich fühle.
+
+Sini schlägt sich vor Lachen auf die Schenkel. „Und dann hast du ihn… in der Gasse…?“ Ich nicke, grinse, und sie quietscht laut, als hätte ich ihr gerade das schönste Geschenk gemacht.
+
+„Wahnsinn, Eddie. Einfach Wahnsinn.“ Dann lehnt sie sich zurück, nimmt einen Schluck Kaffee und zieht eine Augenbraue hoch. „Und? Willst du ihn wiedersehen?“
+
+Ich halte inne. Da ist kein Zögern, keine Qual. Nur Klarheit. „Klar“, sage ich. „Zum Tanzen. Zum Lachen. Zum… na du weißt schon. Aber mehr auch nicht.“
 
 Zwischendurch stoße ich mit meiner Kaffeetasse an ihre. „Das war der beste Siebte Oktober meines Lebens!“ rufe ich, und Sini schaut erst verwirrt. Ich erkläre ihr, dass heute in der DDR Nationalfeiertag ist. Sie prustet los, schüttelt den Kopf und stößt mit mir an – auf meine neue Version dieses Feiertags.  
 
