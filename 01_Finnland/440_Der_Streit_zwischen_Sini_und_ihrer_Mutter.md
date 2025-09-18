@@ -61,7 +61,7 @@ Sini schluckt. „Mama… minä en…“ – „...ich wollte nur…“
 abwälzen?“ Ihre Stimme bohrt, jedes Wort ein Schlag. Dann schaut sie zu mir.
 „Und wer bist du? Wieder eine von Sinis Rumtreiberinnen, die sie aufliest wie
 Straßenhunde?“ Sinis Mutter wirft mir einen Blick zu, der mich sofort klein
-fühlen lässt. Rumtreiberin. Tja, ich hab's geahnt.
+fühlen lässt. Rumtreiberin. Tja, stimmt ja irgendwie.
 
 „Eddie...", flüstert Sini zu mir und faltet flehend die Hände. „Äiti, lopeta!“ –
 „...hör auf!“ Sini klingt verzweifelt.
