@@ -51,3 +51,19 @@ Es ist fast Mittag, als ich aufschrecke. Die Tür geht auf, kalte Luft und der D
 „Ohooo!“ ruft sie und wirft die Jacke in die Ecke. „Na, erzähl schon, wie war’s?“
 
 Ich reibe mir die Augen, lache verschämt. Und während sie den Tisch deckt, merke ich, wie sehr ich mich freue, ihr alles zu erzählen – jedes Detail, jede Berührung, jede verrückte Sekunde.
+
+Sini stellt die Brötchentüte auf den Tisch, setzt sich keine Sekunde später mir gegenüber und stützt das Kinn auf die Hände. Ihre Augen funkeln, und sie trommelt ungeduldig mit den Fingern.
+
+„Na los, Eddie. Raus damit. Ich will alles hören.“
+
+Ich lache, streiche mir das Haar zurück, und noch ehe ich den ersten Bissen vom Brötchen nehme, plappere ich schon los. Die Worte sprudeln, als hätte ich die ganze Nacht nur darauf gewartet. Ich erzähle vom Tanzen, vom Hüpfen im Takt, vom Moment, als er mich aufgefangen hat, vom Lachen, vom Rausch. Ich hüpfe zwischen Dusche und Bett, als würde ich alles gleichzeitig nacherzählen, und Sini prustet immer wieder los. Ich lasse nichts aus – und merke trotzdem, dass ich nicht kitschig werde, sondern so begeistert, wie ich mich fühle.
+
+Sini schlägt sich vor Lachen auf die Schenkel. „Und dann hast du ihn… in der Gasse…?“ Ich nicke, grinse, und sie quietscht laut, als hätte ich ihr gerade das schönste Geschenk gemacht.
+
+„Wahnsinn, Eddie. Einfach Wahnsinn.“ Dann lehnt sie sich zurück, nimmt einen Schluck Kaffee und zieht eine Augenbraue hoch. „Und? Willst du ihn wiedersehen?“
+
+Ich halte inne. Da ist kein Zögern, keine Qual. Nur Klarheit. „Klar“, sage ich. „Zum Tanzen. Zum Lachen. Zum… na du weißt schon. Aber mehr auch nicht.“
+
+Sini nickt zufrieden, fast stolz, als hätte ich genau die richtige Antwort gegeben. Dann erzählt sie von ihrem Abend, mit einem Augenzwinkern und mindestens genauso vielen Details, und ich kichere über ihre Eskapaden.
+
+So verbringen wir den Sonntag: faul, verschwitzt in T-Shirts, mit Kaffee, Brötchen und stundenlangem Geplapper. Der Tag zieht vorbei wie ein einziger Sommernachmittag, draußen rauscht das Leben, aber wir bleiben einfach hier, zwei Mädchen, die ihre Nächte auskosten – und das Leben, das sie jetzt führen dürfen.
