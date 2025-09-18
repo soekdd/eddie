@@ -95,7 +95,10 @@ fest, küsse ihn weiter, als sei nichts gewesen.
 „Du bist irre“, presst er begeistert heraus, halb lachend, halb atemlos. Ich
 zwinkere nur, denn genau das wollte ich: Zeit gewinnen.
 
-Hand in Hand ziehen wir weiter, und als wir endlich Sinis Wohnung erreichen,
+Dann schnell weg mit dem Glibber – ich wische mir die Hand einfach an seinem Hintern ab.
+Ich hab schon immer gehasst, Kreidereste an den Fingern zu haben.
+
+Dann ziehen wir uns weiter durch die Straßen und als wir endlich Sinis Wohnung erreichen,
 reißen wir uns gegenseitig die Klamotten vom Leib. Ich stoße ihn lachend in die
 Dusche, drehe das Wasser auf. Heißer Dampf steigt auf, verschluckt uns, macht
 die kleine Kabine zu unserer Welt. Ich knie mich zu ihm, spüre seine Hände im
@@ -103,37 +106,22 @@ Nacken, seinen Atem, und verwöhne ihn, während das Wasser über uns beide
 rauscht. Er lacht, stöhnt, zieht mich hoch, wir klammern uns aneinander, als
 könnten wir uns nicht nah genug sein.
 
-Später, im Schlafzimmer, fällt jede Hemmung. Wir sind schon im Fluss, ohne
+Später, im Schlafzimmer, sind wir sofort im Fluss, ohne
 Zögern, ohne falsche Bewegungen. Ich liege ausgestreckt auf Sinis Bett, und sein
-Mund wandert tiefer, trifft mich so, dass ich mehrfach erzittere, kaum Luft
-bekomme, lachen und stöhnen im Wechsel. Dann, als die Spannung unerträglich
-wird, packe ich ihn, rolle ihn unter mich und bestimme den Moment. Ich lasse ihn
-spüren, dass es jetzt mein Wille ist. Wild, gleichberechtigt, im Rhythmus, den
-wir uns gegenseitig aufzwingen. Es ist, als würden wir dieselbe Sprache
-sprechen, ohne ein einziges Wort. Kein peinlicher Moment, kein Stolpern, nur
-wir..
+Mund wandert tiefer, seine Zunge trifft mich so, dass ich mehrfach erzittere, kaum Luft
+bekomme, lachen und stöhnen im Wechsel. Dann, als die Spannung unerträglich wird, packe ich ihn, rolle ihn unter mich und bestimme den Moment. Ich lasse ihn spüren, dass es jetzt mein Wille ist. Wild, gleichberechtigt, im Rhythmus, den wir uns gegenseitig diktieren. Es ist, als würden wir dieselbe Sprache sprechen, ohne ein einziges Wort. Kein peinlicher Moment, kein Stolpern, nur wir..
 
-Irgendwann sinken wir keuchend nebeneinander, lachen wie Kinder über gar nichts,
-spielen mit den Laken, atmen schwer. Ich hätte nie gedacht, dass sich so etwas
-so frei, so leicht anfühlen kann. Dann nehme ich seine Hand, betrachte die
-schlanken Finger, streiche darüber. Geschickt waren sie, nicht nur im Bett. In
-meinem Kopf sehe ich ihn wieder auf der Bühne, wie sie über die Saiten flogen –
-schnell, sicher, so wie bei Conny damals oder bei Marty McFly im Film. Ich sage
-es ihm, halb im Spaß, halb im Ernst. Er lacht gespielt empört, hebt die
+Irgendwann sinken wir keuchend nebeneinander, lachen wie Kinder über gar nichts, spielen mit den Laken, atmen schwer. Ich hätte nie gedacht, dass sich so etwas so frei, so leicht anfühlen kann. Dann nehme ich seine Hand, betrachte die schlanken Finger, streiche darüber. Geschickt waren sie, nicht nur im Bett. In meinem Kopf sehe ich ihn wieder auf der Bühne, wie sie über die Saiten flogen –
+schnell, sicher, so wie bei Conny damals oder bei Marty McFly im Film. Ich sage es ihm, halb im Spaß, halb im Ernst. Er lacht gespielt empört, hebt die
 Augenbrauen: „Sag nicht, ich hab dich ins Bett bekommen, weil ich dich an Marty
-McFly erinnere?“ Ich kichere, stupse ihn in die Seite. „Was? Bekommen hast du
-gar nichts – ich hab’s mir genommen!“ Wir lachen beide, und während ich noch
-nach Luft schnappe, fallen ihm die Augen zu. Ich stupse ihn an, grinse: „He,
-hier darfst du nicht wegdösen. Einschlafen geht nicht – das hier ist Sinis
-Reich.“ Er blinzelt, lacht verschlafen – und sagt dann leise, fast wie ein
-Geheimnis: „Jussi.“ Erst da fällt mir auf, dass wir uns noch gar nicht
-vorgestellt haben. Ich tippe ihm mit dem Finger gegen die Brust. „Eddie.“ Wir
-liegen einen Moment so, die Namen noch auf den Lippen, bevor er sich schließlich
-erhebt und geht.
+McFly erinnere?“ Ich kichere, boxe ihn leicht in die Seite. „Was? Bekommen hast du
+gar nichts – ich hab’s mir genommen!“ Wir lachen beide, und während ich noch nach Luft schnappe, fallen ihm die Augen zu. Ich stupse ihn an, grinse:
 
-Ich schaue ich mich um. Das Chaos schreit mir entgegen: zerknüllte
-Taschentücher, Kondompackungen, das zerwühlte Bett. Ich springe auf, stopfe das
-alte Bettzeug sofort in die Waschmaschine, beziehe das Bett frisch, falte die
+ „He, hier darfst du nicht wegdösen. Einschlafen geht nicht – das hier ist Sinis Reich.“ 
+
+Er blinzelt, lacht verschlafen – und sagt dann leise, fast wie ein Geheimnis: „Jussi.“ Erst da fällt mir auf, dass wir uns noch gar nicht vorgestellt haben. Ich tippe ihm mit dem Finger gegen die Brust. „Eddie.“ Wir liegen einen Moment so, die Namen noch auf den Lippen, bevor er sich schließlich erhebt und geht.
+
+Ich schaue ich mich um. Das Chaos schreit mir entgegen: zerknüllte Taschentücher, Kondompackungen, das zerwühlte Bett. Ich springe auf, stopfe das alte Bettzeug sofort in die Waschmaschine, beziehe das Bett frisch, falte die
 Kissen ordentlich. Niemand soll glauben, ich wäre leichtfertig mit Sinis
 Vertrauen umgegangen. Erst dann sinke ich aufs Schlafsofa – mein Körper schwer
 wie Blei, jede Muskelfaser müde, erschöpft bis in die Knochen. Und gleichzeitig
