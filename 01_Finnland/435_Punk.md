@@ -29,3 +29,13 @@ Weitere Songs rauschen vorbei, verschwimmen zu einem einzigen Rausch. Immer wied
 Sie beugt sich nah an mein Ohr. „Geh schon. Ich kenn ihn ja.“ Dann zwinkert sie, und ehe ich protestieren kann, ist sie schon wieder weg, in den Armen irgendeines Typen.
 
 Ich stehe da, den Schlüssel in der Faust, die Lippen noch heiß von seinen Küssen, und weiß: Heute Nacht wird anders.
+
+Das Wasser rauscht über uns, heißer Dampf füllt das kleine Bad. Wir lachen, stoßen uns gegenseitig spielerisch unter den Strahl, die Hände überall, unersättlich. Ich bin es, die die Führung übernimmt, die ihm zeigt, dass ich mehr will als nur wilde Küsse im Dunkeln. Und er versteht sofort.
+
+Später, im Schlafzimmer, fällt alles von mir ab: die Scham, die Unsicherheit, das Fremde. Hier ist nur noch Lust. Sein Mund findet meinen Körper mit einer Selbstverständlichkeit, die mich gleich zweimal erschüttern lässt. Ich lache und stöhne im Wechsel, verliere jedes Zeitgefühl. Als er endlich in mir ist, fühle ich nichts von Zurückhaltung – wir treiben uns gegenseitig voran, wild, gleichberechtigt, als würden wir dieselbe Sprache sprechen, ohne ein einziges Wort.
+
+Kein peinliches Zögern, kein falscher Moment. Nur wir. Ich höre uns beide lachen, mitten im Chaos der Kissen, und ich weiß: So frei habe ich mich noch nie gefühlt.
+
+Wir liegen noch eine Weile nebeneinander, atmen schwer, kichern wie Kinder über alles und nichts. Seine Haut klebt an meiner, meine Hand ruht auf seiner Brust. Für einen Augenblick könnte ich fast vergessen, dass die Welt da draußen noch existiert.
+
+Doch als er müde die Augen schließt, stupse ich ihn an. „Einschlafen darfst du hier nicht“, sage ich und grinse. Denn dies ist Sinis Reich – und ich will am Morgen mit ihr am Küchentisch sitzen, als wäre die Nacht nur mein kleines, wildes Geheimnis gewesen.
