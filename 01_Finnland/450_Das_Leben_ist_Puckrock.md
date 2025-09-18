@@ -171,7 +171,7 @@ Ich halte inne. Da ist kein Zögern, keine Qual. Nur Klarheit. „Klar“, sage 
 
 Sini nickt zufrieden, fast stolz, als hätte ich genau die richtige Antwort
 gegeben. Dann erzählt sie von ihrem Abend, mit einem Augenzwinkern und
-mindestens genauso vielen Details, und ich kichere über ihre Eskapaden.
+mindestens genauso vielen Details, und ich kichere über ihre Eskapaden. Auf einmal dämmert mir: Sini hat seit Wochen keinen Kerl mehr hier gehabt – meinetwegen. Ich starre sie an, frage flüsternd, wie schlimm diese Zwangs-Abstinenz für sie eigentlich sei. Sie prustet los, winkt ab, gibt mir aber im Grunde Recht. „Na gut“, sage ich, „dann darfst du ab sofort auch mal draußen bleiben.“ – „Und du auch!“, kichert sie zurück. Wir lachen uns schlapp über die Vorstellung, wie wir beide groß und frei durch Vaasa stolpern, jede mit ihrer eigenen Nacht.
 
 So verbringen wir den Sonntag: faul, ich im Schlafanzug, mit Kaffee, Brötchen
 und stundenlangem Geplapper. Der Tag zieht vorbei wie ein einziger
