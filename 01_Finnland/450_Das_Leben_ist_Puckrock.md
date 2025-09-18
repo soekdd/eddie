@@ -10,7 +10,7 @@
   "mood": "wild, lustvoll, ausgelassen, befreiend",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "illustrations": ["FIN_Vaasa_Jussi.png", "FIN_Vaasa_morging_after.pmg"]
+  "illustrations": ["FIN_Vaasa_Jussi.png", "FIN_Vaasa_morging_after.png"]
 }
 ```
 
@@ -68,8 +68,8 @@ seinen Lippen.
 
 Später drückt mir Sini lachend den Wohnungsschlüssel in die Hand. „Geh schon“,
 ruft sie mir zu. „Ich kenn ihn, der ist OK.“ Dann ist sie schon wieder weg, in
-den Armen irgendeines Typen, und ich bleibe zurück mit ihm – und der
-Gewissheit, dass diese Nacht nicht hier endet.
+den Armen irgendeines Typen, und ich bleibe zurück mit ihm – und der Gewissheit,
+dass diese Nacht nicht hier endet.
 
 ---
 

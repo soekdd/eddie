@@ -36,8 +36,8 @@ Als ich Kosmol in Berlin zum ersten Mal sah, schoss mir sofort durch den Kopf:
 Mielke! Ja, genau der. Erich Mielke, der Ober-Stasi-Heini. So kam der Typ rüber.
 
 Ich hatte ja null Ahnung, dass der überhaupt mitfährt. Echt jetzt – wie auch?
-Wer rechnet denn damit, dass plötzlich dein Albtraum in Menschengestalt im Bus
-sitzt?
+Wer rechnet denn damit, dass plötzlich dein Albtraum in Menschengestalt mit im
+Flieger sitzt?
 
 Es lag nicht mal an seiner Größe. Der echte Mielke war ja eher klein, kaum
 einssechzig. Kosmol war größer, klar, aber das war’s nicht. Der hatte diese

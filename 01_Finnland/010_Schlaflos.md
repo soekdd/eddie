@@ -36,7 +36,7 @@ Edmilla wird sterben.
 
 Morgen, nach dem Wettkampf. Punkt. Kein Drumrum. Ich hab’s so geplant. Entweder
 sie wird geschnappt oder sie schafft es in die Freiheit. So oder so, ich werde
-sie endlich abstreifen wie ’ne alte Haut. Und das ist meine einzige Gewissheit
+sie endlich abstreifen wie ’ne alte Haut. Und das ist meine einzige Gewissheit,
 die ich heute habe: Edmilla wird morgen Mittag für immer verschwunden sein.
 
 Die Luft steht wie Beton. Warm, schwer, klebt an mir, als hätte die Hitze des
