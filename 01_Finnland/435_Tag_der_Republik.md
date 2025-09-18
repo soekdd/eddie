@@ -70,6 +70,8 @@ Sini schlägt sich vor Lachen auf die Schenkel. „Und dann hast du ihn… in de
 
 Ich halte inne. Da ist kein Zögern, keine Qual. Nur Klarheit. „Klar“, sage ich. „Zum Tanzen. Zum Lachen. Zum… na du weißt schon. Aber mehr auch nicht.“
 
+Sini nickt zufrieden, fast stolz, als hätte ich genau die richtige Antwort gegeben. Dann erzählt sie von ihrem Abend, mit einem Augenzwinkern und mindestens genauso vielen Details, und ich kichere über ihre Eskapaden.
+
 Zwischendurch stoße ich mit meiner Kaffeetasse an ihre. „Das war der beste Siebte Oktober meines Lebens!“ rufe ich, und Sini schaut erst verwirrt. Ich erkläre ihr, dass gestern in der DDR Nationalfeiertag war. Sie prustet los, schüttelt den Kopf und stößt mit mir an – auf meine neue Version dieses Feiertags.  
 
-So verbringen wir den Sonntag: faul, in T-Shirts, mit Brötchen, Kaffee und stundenlangem Geplapper. Draußen rauscht das Leben, aber wir bleiben hier, zwei Mädchen, die ihre Nächte auskosten – und das Leben, das sie jetzt führen dürfen.  
+So verbringen wir den Sonntag: faul, ich im Schlafanzug, mit Kaffee, Brötchen und stundenlangem Geplapper. Der Tag zieht vorbei wie ein einziger Sommernachmittag, draußen rauscht das Leben, aber wir bleiben einfach hier, zwei Mädchen, die ihre Nächte auskosten – und das Leben, das sie jetzt führen dürfen.
