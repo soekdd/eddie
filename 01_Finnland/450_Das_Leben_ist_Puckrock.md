@@ -29,21 +29,32 @@ Alkohol, der Beat allein trägt uns hoch.
 
 Ich tauche tiefer in den Rhythmus, und dann merke ich, dass jemand mich ansieht.
 Kein plumpes Glotzen, sondern ein Blick, der hängen bleibt. Ich wische mir mit
-dem T-Shirt übers Gesicht, schaue hoch – und da ist er. Der Gitarrist. Groß,
-schlank, lange blonde Haare, die Gitarre tief an der Hüfte, die Finger fliegen über die Saiten. Aber
-seine lachenden Augen sind bei mir. 
+dem T-Shirt übers Gesicht, schaue hoch – und da ist er. Der Gitarrist. Groß, schlank, lange blonde Haare, die Gitarre tief an der Hüfte, die Finger fliegen über die Saiten. Aber seine lachenden Augen sind bei mir.
 
 Ein Blick. Ein zweiter, länger. Ein dritter, der kein Zufall mehr ist. Dann
 grinst er, klein und nur für mich. Meine Knie werden weich, nicht vom Tanzen,
-sondern von ihm. Ich tanze weiter, springe höher, lache lauter, aber eigentlich
-tanze ich längst nicht mehr nur für die Musik. Ich tanze für diesen Blick.
+sondern von ihm. Mist, der gefällt mir wirklich. So ein Typ, wie er da oben steht,
+das ist genau die Sorte Ärger, die süchtig macht. In meinem Kopf springt er schon von der Bühne,
+zieht mich an sich, wir verschwinden irgendwo in eine dunkle Ecke – und ich fühle,
+wie mir allein bei der Vorstellung heiß wird. Meine Wangen brennen, mein Herz stolpert,
+mein Atem geht flach, als hätte ich gerade einen Sprint hingelegt.
+Meine Hände zittern ein bisschen, und ich weiß nicht mehr, ob vom Rhythmus oder von ihm.
+
+Ich zucke innerlich zusammen. Hallo? Ich, die Mathe-Streberin, die sich sonst für Gleichungen begeistert, kriege gerade Fantasien,
+die mich schwindelig machen. Wenn Sini das wüsste – sie würde lachen, grölen,
+mich vielleicht sogar schubsen: „Na los, Eddie, hol ihn dir!“
+Und genau das will ich. Mehr als alles andere.
+
+Doch er hat keine Ahnung, was in meinem Kopf gerade los ist. Für ihn bin ich nur das Mädchen, das tanzt.
+Also tanze ich weiter, als wäre nichts. Ich lache, springe, stoße mit den anderen zusammen,
+während in mir alles kocht und ich so tue, als sei ich einfach nur Teil der Menge.
 
 Als die Band eine Pause macht und die Musik aus den Boxen weiterläuft, stellt er
 die Gitarre ab und kommt direkt auf mich zu. Mir wird heiß, ich zittere vor
 Aufregung, als er vor mir steht. Keine Worte, keine Fragen. Er nimmt meine
 Hände, zieht mich mit ins Hüpfen. Wir springen zusammen, stoßen im Takt
 aneinander, und als ich stolpere, greift er an meinen Hosenbund, hält mich dicht
-an sich.
+an sich..
 
 Der Beat treibt uns noch höher. Und als das Stück mit einem harten Schlag endet,
 will er sich zu mir herunterbeugen – ich bin schneller. Ich springe ihm
