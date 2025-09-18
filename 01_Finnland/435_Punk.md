@@ -39,3 +39,15 @@ Kein peinliches Zögern, kein falscher Moment. Nur wir. Ich höre uns beide lach
 Wir liegen noch eine Weile nebeneinander, atmen schwer, kichern wie Kinder über alles und nichts. Seine Haut klebt an meiner, meine Hand ruht auf seiner Brust. Für einen Augenblick könnte ich fast vergessen, dass die Welt da draußen noch existiert.
 
 Doch als er müde die Augen schließt, stupse ich ihn an. „Einschlafen darfst du hier nicht“, sage ich und grinse. Denn dies ist Sinis Reich – und ich will am Morgen mit ihr am Küchentisch sitzen, als wäre die Nacht nur mein kleines, wildes Geheimnis gewesen.
+
+Wir liegen noch nebeneinander, meine Stirn an seiner Schulter. Dann stößt er leise hervor: „Jussi.“ Er grinst, fast ein bisschen verlegen, als ob es albern wäre, sich jetzt noch vorzustellen. Ich lache, stupse ihn mit der Nase. „Eddie“, sage ich, und irgendwie fühlt es sich richtig an, dass es erst jetzt zwischen uns fällt.
+
+Als er sich später anzieht, bleibe ich noch einen Moment im Bett liegen. Aber kaum ist die Tür ins Schloss gefallen, springe ich auf. Ich kann nicht riskieren, dass Sini später in ein Chaos kommt. Also sammele ich alles ein – Kondompackungen, zerknüllte Tücher, verstreute Klamotten – und schiebe das alte Bettzeug sofort in die Waschmaschine. Das Brummen erfüllt die kleine Küche, während ich das Bett frisch beziehe. Sauber, ordentlich, fast wie neu. Niemand soll denken, dass ich leichtfertig mit Sinis Vertrauen umgehe.
+
+Als endlich alles getan ist, sinke ich erschöpft aufs Schlafsofa. Mein Kopf ist voller Bilder, voller Lachen und Haut und Musik. Irgendwann schlafe ich weg.
+
+Es ist fast Mittag, als ich aufschrecke. Die Tür geht auf, kalte Luft und der Duft von frischen Brötchen wehen herein. Sini steht im Türrahmen, strahlt über beide Backen, eine Tüte vom Bäcker in der Hand. Ihr Blick fällt ins Schlafzimmer – auf das frisch bezogene Bett – dann auf mich, zerknittert, verschlafen, aber mit einem dummen Grinsen im Gesicht.
+
+„Ohooo!“ ruft sie und wirft die Jacke in die Ecke. „Na, erzähl schon, wie war’s?“
+
+Ich reibe mir die Augen, lache verschämt. Und während sie den Tisch deckt, merke ich, wie sehr ich mich freue, ihr alles zu erzählen – jedes Detail, jede Berührung, jede verrückte Sekunde.
