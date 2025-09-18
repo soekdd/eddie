@@ -38,9 +38,15 @@ Später drückt mir Sini lachend den Wohnungsschlüssel in die Hand. „Geh scho
 
 ---
 
-Wir stolpern lachend hinaus, küssen uns im Gehen, immer wieder, fast im Takt zu den Straßengeräuschen. „Ich nehme dich mit“, sage ich frech, und er lacht, küsst mich zurück. Seine Hände sind überall, drängend, ungeduldig. Ein Teil von mir genießt es, aber Sex in einer dunklen Gasse? Nein. Ich will Licht, Wärme, ein Bett. Sinis Bett.  
+Wir stolpern Arm in Arm aus der Kneipe, die Musik hämmert uns noch im Blut. Ich grinse breit, presse ihm im Gehen einen Kuss nach dem anderen auf den Mund. „Ich nehme dich mit“, sage ich frech, so als wäre es schon längst entschieden.
 
-Er drängt mich gegen eine Wand, und meine Knie geben nach. Da fällt mir ein Tipp ein: Wenn seine Hände überall sein können, dann meine auch. Also öffne ich seine Hose, greife hinein, halte ihn, bringe ihn schnell außer Atem. Er bäumt sich auf, kommt in meinen Armen, keucht: „Du bist irre.“ Ich grinse. Vor allem habe ich Zeit gewonnen.  
+Er lacht, küsst mich zurück, seine Hände sind überall – an meiner Taille, meinem Rücken, schon unter meinem Shirt. Ein Teil von mir genießt das, dieses ungeduldige Drängen, als könnte er keine Sekunde warten. Aber Sex in einer dunklen Gasse? Nein danke. Ich will Licht, Wärme, ein Bett. Sinis Bett.
+
+Er drängt mich gegen eine Hauswand, und meine Knie werden weich. Für einen Moment denke ich, ich könnte seinem Drängen doch nachgeben und es gleich hier geschehen lassen. Da fällt mir ein Tipp meines ersten Liebhabers ein: Wenn seine Hände überall sein können, dann meine auch.
+
+Also ziehe ich ihn beim Küssen noch enger an mich, öffne im gleichen Schwung seine Hose und gleite mit der Hand direkt in seine Shorts. Ein Griff, ein paar Bewegungen, und er bäumt sich auf, keucht, kommt in meinen Armen. Ich halte ihn fest, küsse ihn weiter, als sei nichts gewesen.
+
+„Du bist irre“, presst er begeistert heraus, halb lachend, halb atemlos. Ich zwinkere nur, denn genau das wollte ich: Zeit gewinnen.
 
 Hand in Hand ziehen wir weiter, und als wir endlich Sinis Wohnung erreichen, reißen wir uns gegenseitig die Klamotten vom Leib. Ich stoße ihn lachend in die Dusche, drehe das Wasser auf. Heißer Dampf steigt auf, verschluckt uns, macht die kleine Kabine zu unserer Welt. Ich knie mich zu ihm, spüre seine Hände im Nacken, seinen Atem, und verwöhne ihn, während das Wasser über uns beide rauscht. Er lacht, stöhnt, zieht mich hoch, wir klammern uns aneinander, als könnten wir uns nicht nah genug sein.  
 
