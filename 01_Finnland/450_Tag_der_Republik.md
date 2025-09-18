@@ -10,11 +10,10 @@
   "mood": "wild, lustvoll, ausgelassen, befreiend",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
+  "illustrations": ["FIN_Vaasa_Jussi.png", "FIN_Vaasa_morging_after.pmg"],
   "historical": "Eddies ausgelassener Abend fällt auf den 7. September, den 'Tag der Republik' in der DDR – ein stiller Kontrast zu den offiziellen Feiern, die sie längst hinter sich gelassen hat."
 }
 ```
-
----
 
 Die Kneipe ist wieder voller Rauch, voller Stimmen, voller Musik. Diesmal stehe
 ich nicht schüchtern am Rand, sondern mitten im Gedränge, schon mit einem
@@ -23,7 +22,7 @@ riechenden Jacken, die klebrigen Tische – all das fühlt sich inzwischen vertr
 an, fast wie ein Versprechen.
 
 Die Band legt los, der Bass hämmert mir direkt in den Bauch, und Sini reißt mich
-auf die Tanzfläche. Ich könnte noch „später vielleicht“ sagen wie beim letzten
+auf die Tanzfläche. Ich könnte noch „später vielleicht“ sagen wie beim ersten
 Mal, aber diesmal kommt mir nur ein Lachen über die Lippen. Ich tanze.
 
 Erst unsicher, dann immer wilder, im Rhythmus neben ihr. Wir brauchen kaum
@@ -64,9 +63,9 @@ seinen Mund hinein, verliere mich im Rausch der Musik, in seinen Augen, in
 seinen Lippen.
 
 Später drückt mir Sini lachend den Wohnungsschlüssel in die Hand. „Geh schon“,
-ruft sie mir zu. „Ich kenn ihn ja.“ Dann ist sie schon wieder weg, in den Armen
-irgendeines Typen, und ich bleibe zurück mit ihm – und der Gewissheit, dass
-diese Nacht nicht hier endet.
+ruft sie mir zu. „Ich kenn ihn, der ist OK.“ Dann ist sie schon wieder weg, in
+den Armen irgendeines Typen, und ich bleibe zurück mit ihm – und der
+Gewissheit, dass diese Nacht nicht hier endet.
 
 ---
 
