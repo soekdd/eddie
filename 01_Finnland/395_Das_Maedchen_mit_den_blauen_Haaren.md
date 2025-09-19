@@ -80,7 +80,7 @@ Licht im Büro ist milchig, der Regen hat die Fenster blind geleckt. Mein Kopf
 ist nicht mehr brennend, nur schwer. Neben mir hockt sie – das Mädchen mit den
 blauen Haaren. Ihre Augen fragen, bevor sie spricht.
 
-„Wie fühlst du dich?“ fragt sie erst auf Finnisch, dann leiser auf Schwedisch.
+„Wie fühlst du dich?“ fragt sie erst auf Finnisch, dann leiser auf Englisch.
 Ich nicke halb. „Fieber runter,“ bringe ich heraus. „Aber… nicht weg.“
 
 Sie verschwindet in der kleinen Kaffeeküche, klappert mit Tassen und einem Topf.
