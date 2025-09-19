@@ -41,6 +41,7 @@
 | 1985-07-23 | Moorregen – mein erster Einbruch |  | [01_Finnland/370_Morgenregen.md](01_Finnland/370_Morgenregen.md) |
 |  | Raster aus Regen – der Tag, an dem ich mich verliere |  | [01_Finnland/380_Raster_aus_Regen.md](01_Finnland/380_Raster_aus_Regen.md) |
 |  | Über die Brücke in die Sackgasse |  | [01_Finnland/390_Bruecke_in_die_Sackgasse.md](01_Finnland/390_Bruecke_in_die_Sackgasse.md) |
+| 1985-08-04 | Keine Eile – Frühstück, Mutprobe & Hafenbank |  | [01_Finnland/395_Keine_Eile.md](01_Finnland/395_Keine_Eile.md) |
 | 1985-08-03 | Eddie trifft auf Sini | Eddie versteckt sich zunächst auf Vaskiluoto, bis Sini sie bei sich aufnimmt. Es entsteht eine enge, aber konfliktreiche Freundschaft. | [01_Finnland/400_Das_Maedchen_mit_den_blauen_Haaren.md](01_Finnland/400_Das_Maedchen_mit_den_blauen_Haaren.md) |
 | 1985-08-04 | Keine Eile – Frühstück, Mutprobe & Hafenbank |  | [01_Finnland/410_Keine_Eile.md](01_Finnland/410_Keine_Eile.md) |
 | 1985-08-10 | Erzählt von ihrem Vater | Eddie erzählt Sini, wie ihr Vater trotz überragender Fähigkeiten im Schatten des Parteikarrieristen Radmer blieb. | [01_Finnland/420_Erzaehlt_von_ihrem_Vater.md](01_Finnland/420_Erzaehlt_von_ihrem_Vater.md) |
