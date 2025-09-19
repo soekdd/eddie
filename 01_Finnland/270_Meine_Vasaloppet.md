@@ -33,6 +33,8 @@
 }
 ```
 
+Als ich am nächsten Tag wieder auf der Tour bin, kommt mir eine Geschichte meiner Kindheit in den Sinn.
+
 Ein Freund meines Vaters war begeisterter Ski-Langläufer. Er überredete meinen
 Vater, mit ihm die "Hohe Tour" zu machen. Eine Ski-Langstreckenroute, die sich
 entlang der Grenze der DDR zur Tschechoslowakei erstreckte. Mit 50 km Länge und
@@ -88,9 +90,8 @@ ich mich, ob sie irgendetwas mit Gustav Vasa zu tun hatte. Und tatsächlich gibt
 es einen Zusammenhang. Der Sohn Gustav Vasas gründete die Stadt Vaasa, als
 Finnland ein Teil von Schweden war. Ob die Finnen gern unter schwedischer
 Herrschaft lebten, fragte ich mich unwillkürlich. Sind aus den Befreiern am Ende
-auch wieder Unterdrücker geworden? Haben wir nicht in der Schule gelernt, dass
-der Kommunismus uns vom Faschismus befreit hat? Und jetzt ringen wir erneut um
-Freiheit, Freiheit von unseren Befreiern?
+auch wieder Unterdrücker geworden? Haben wir nicht in der Schule gelernt, dass uns
+der Kommunismus der Sovijetunion vom Faschismus befreit hat? Und jetzt ringen wir erneut um Freiheit, Freiheit von unseren Befreiern?
 
 Doch so dunkle Überlegungen möchte ich heute gar nicht anstellen. Mich treibt
 ein viel erfreulicher Gedanke: ich bin auf meiner ganz persönlichen Vasaloppet.
