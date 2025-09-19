@@ -35,7 +35,7 @@
   }
 }
 ```
-
+Meine nächste Etappe führt mich nur wenig Kilometer durch den Wald. Ich will mich langsam an die großen Etappen 
 Ich stehe in dieser Hütte und kann kaum glauben, dass sie mir für eine Nacht
 allein gehört. Der Boden riecht noch nach frischem Holz, die Fensterfront reicht
 fast bis zum Boden, sodass der See wie eine Bühne vor mir liegt. Alles neu,
