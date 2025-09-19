@@ -36,12 +36,7 @@
 }
 ```
 Meine nächste Etappe führt mich nur wenig Kilometer durch den Wald. Ich will mich langsam an die großen Etappen heranwagen. Und wieder stehe ich vor einer dieser wunderbaren Hütten und kann kaum glauben, dass sie mir für eine Nacht
-allein gehört. Der Boden riecht noch nach frischem Holz, die Fensterfront reicht
-fast bis zum Boden, sodass der See wie eine Bühne vor mir liegt. Alles neu,
-alles sauber, alles großzügig. Ich muss unwillkürlich lachen – wenn das
-Kapitalismus sein soll, dann hat meine Schule mir eine verdammt schlechte
-Vorstellung davon verkauft. Kostenlos eine Hütte, kostenlos ein Bett, kostenlos
-Wärme und Sicherheit.
+allein gehört. Der Boden riecht noch nach frischem Holz, alles ist neu, alles sauber, alles großzügig. Ich muss unwillkürlich lachen – wenn das Kapitalismus sein soll, dann hat meine Schule mir eine verdammt schlechte Vorstellung davon verkauft. Kostenlos eine Hütte, kostenlos ein Bett, kostenlos Wärme und Sicherheit.
 
 Und während ich mich umsehe, während mein Blick durch die großen Scheiben über
 das Wasser schweift, überfällt mich eine Erinnerung. Dieselbe Überraschung,
