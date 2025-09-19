@@ -166,7 +166,7 @@ Ich atme durch und fange an, als würde ich meine Schritte rückwärts gehen:
 Edmila – das alberne Band im Haar, die Wendejacke, der Geruch von Schuhcreme.
 Joutsa – der Wettkampf, die Toilette, die Hütte, Maria in der Kirche, die
 Polizisten, die Stasi-Männer mit den kalten Augen. Raija – der Wagen bei Nacht,
-Jyväskylä, Markku wie ein Felsblock im Zimmer. Dann die Entscheidung, die sich
+Jyväskylä, Jorma wie ein Felsblock im Zimmer. Dann die Entscheidung, die sich
 anfühlte wie aus Versehen getroffen: nicht Helsinki, sondern Vaasa. Die Linie
 auf der Karte, die mich durch Moor und Felder trieb, bis meine Füße aussahen,
 als gehörten sie jemand anderem. Ich erzähle es knapp, ohne Schmuck, als hätte
