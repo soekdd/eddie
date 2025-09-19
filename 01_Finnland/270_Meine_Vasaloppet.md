@@ -91,7 +91,7 @@ es einen Zusammenhang. Der Sohn Gustav Vasas gründete die Stadt Vaasa, als
 Finnland ein Teil von Schweden war. Ob die Finnen gern unter schwedischer
 Herrschaft lebten, fragte ich mich unwillkürlich. Sind aus den Befreiern am Ende
 auch wieder Unterdrücker geworden? Haben wir nicht in der Schule gelernt, dass uns
-der Kommunismus der Sovijetunion vom Faschismus befreit hat? Und jetzt ringen wir erneut um Freiheit, Freiheit von unseren Befreiern?
+der Kommunismus der Sowjetunion vom Faschismus befreit hat? Und jetzt ringen wir erneut um Freiheit, Freiheit von unseren Befreiern?
 
 Doch so dunkle Überlegungen möchte ich heute gar nicht anstellen. Mich treibt
 ein viel erfreulicher Gedanke: ich bin auf meiner ganz persönlichen Vasaloppet.
@@ -101,7 +101,7 @@ gefällt der Gedanke sehr und ich stelle mir meinen Vater und seinen Kumpel vor,
 wenn sie wüssten, dass ich meine eigene Vasaloppet - na was wohl? - natürlich zu
 Ende bringe.
 
-Die Tage vergehen wie in einer neuen Zeitrechnung. Kein Schulhof, kein graues
+Dieser Tag verging wie in einer neuen Zeitrechnung. Kein Schulhof, kein graues
 Dresden, kein Mielke im Rücken. Nur Wälder, Sümpfe, Seen und ich -- mit meinem
 alten Armeeschlafsack und meiner schwarzen DDR Wanderstiefeln. Ich laufe, bis
 mir die Füße brennen, und koche abends Reis mit dem, was der Wald hergibt.
