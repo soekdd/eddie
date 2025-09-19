@@ -5,6 +5,7 @@
   "title": "Raster aus Regen – der Tag, an dem ich mich verliere",
   "chapter_id": "FIN_Seq14-17_Raster_aus_Regen",
   "seq_range": ["14", "17"],
+  "date": "1985-07-24",
   "date_from": "1985-07-24",
   "date_to": "1985-07-28",
   "tense": "present",

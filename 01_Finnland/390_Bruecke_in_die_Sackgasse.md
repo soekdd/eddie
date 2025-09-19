@@ -5,6 +5,7 @@
   "title": "Über die Brücke in die Sackgasse",
   "chapter_id": "FIN_Seq18-23_Bruecke_Sackgasse",
   "seq_range": ["18", "23"],
+    "date": "1985-07-29",
   "date_from": "1985-07-29",
   "date_to": "1985-08-03",
   "tense": "present",

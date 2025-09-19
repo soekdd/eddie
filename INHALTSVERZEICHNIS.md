@@ -39,10 +39,9 @@
 | 1985-07-17 | Abschied „Conny, Sabine, Peter und Matti" | Beim Aufbruch schenken die Freunde Eddie Ausrüstung und sprechen ihr Mut zu, mit einem Ziel im Westen: Paderborn. | [01_Finnland/350_Abschied_Conny_Sabine_Peter_und_Matti.md](01_Finnland/350_Abschied_Conny_Sabine_Peter_und_Matti.md) |
 | 1985-07-20 | Eddies Wunder | Eddie wandert allein weiter, denkt über die Wunder der letzten Tage nach, erinnert sich an Maria und an das Künstlerpaar Klara & Jens, reflektiert den Widerspruch zwischen Glauben und Mathematik und ehrt die Aufrichtigen mit einem kleinen Denkmal. | [01_Finnland/360_Eddies_Wunder.md](01_Finnland/360_Eddies_Wunder.md) |
 | 1985-07-23 | Moorregen – mein erster Einbruch |  | [01_Finnland/370_Morgenregen.md](01_Finnland/370_Morgenregen.md) |
-|  | Raster aus Regen – der Tag, an dem ich mich verliere |  | [01_Finnland/380_Raster_aus_Regen.md](01_Finnland/380_Raster_aus_Regen.md) |
-|  | Über die Brücke in die Sackgasse |  | [01_Finnland/390_Bruecke_in_die_Sackgasse.md](01_Finnland/390_Bruecke_in_die_Sackgasse.md) |
-| 1985-08-04 | Keine Eile – Frühstück, Mutprobe & Hafenbank |  | [01_Finnland/395_Keine_Eile.md](01_Finnland/395_Keine_Eile.md) |
-| 1985-08-03 | Eddie trifft auf Sini | Eddie versteckt sich zunächst auf Vaskiluoto, bis Sini sie bei sich aufnimmt. Es entsteht eine enge, aber konfliktreiche Freundschaft. | [01_Finnland/400_Das_Maedchen_mit_den_blauen_Haaren.md](01_Finnland/400_Das_Maedchen_mit_den_blauen_Haaren.md) |
+| 1985-07-24 | Raster aus Regen – der Tag, an dem ich mich verliere |  | [01_Finnland/380_Raster_aus_Regen.md](01_Finnland/380_Raster_aus_Regen.md) |
+| 1985-07-29 | Über die Brücke in die Sackgasse |  | [01_Finnland/390_Bruecke_in_die_Sackgasse.md](01_Finnland/390_Bruecke_in_die_Sackgasse.md) |
+| 1985-08-03 | Das Mädchen mit den blauen Haaren – Terminal & Ankunft |  | [01_Finnland/395_Das_Maedchen_mit_den_blauen_Haaren.md](01_Finnland/395_Das_Maedchen_mit_den_blauen_Haaren.md) |
 | 1985-08-04 | Keine Eile – Frühstück, Mutprobe & Hafenbank |  | [01_Finnland/410_Keine_Eile.md](01_Finnland/410_Keine_Eile.md) |
 | 1985-08-10 | Erzählt von ihrem Vater | Eddie erzählt Sini, wie ihr Vater trotz überragender Fähigkeiten im Schatten des Parteikarrieristen Radmer blieb. | [01_Finnland/420_Erzaehlt_von_ihrem_Vater.md](01_Finnland/420_Erzaehlt_von_ihrem_Vater.md) |
 | 1985-08-15 | Zurück in die Zukunft | Eddie und Sini gehen ins Kino, sehen 'Zurück in die Zukunft', lachen, albern herum und feiern ihre neu entdeckte Freiheit. | [01_Finnland/430_Zurueck_in_die_Zukunft.md](01_Finnland/430_Zurueck_in_die_Zukunft.md) |

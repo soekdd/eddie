@@ -104,20 +104,23 @@ die Welt für fünf Minuten still; warmes Wasser auf sauberem Boden, Seife mit
 Zitrus, die mir erzählt, dass Körper wieder Menschen werden können. Dann wasche
 ich meine Wäsche – und gleich Sinis mit, weil Tun besser ist als Danken. Ich
 hänge die Sachen auf, als baute ich ein kleines Segelwerk in ihrem Wohnzimmer.
-Das Bad putze ich, bis es nach Kacheln und Versprechen riecht.
+Das Bad putze ich, fast schon manisch, um dem Gefühl der Dankbarkeit etwas
+handfestes entgegenzustellen.
 
 Zwischendurch kippt die Welt kurz nach hinten, Schwarz an den Rändern, und ich
 sitze schon, bevor ich falle. Der Mittagsschlaf überfällt mich wie eine Decke,
 die jemand vom Schrank holt und ohne Worte über mich legt. Als ich hochfahre,
-steht die Uhr eine Stunde weiter, die Luft ist klarer, und in meinem Kopf
-klappert kein Werkzeug mehr.
+steht die Uhr drei Stundem weiter, die Luft ist klarer, und in meinem Kopf ist
+endlich zur Ruhe gekommen.
 
 Ich denke an Sini, an die Tür, die sie für mich aufhält, an das „Keine Eile“. Es
-sticht mich an einer Stelle, die nach Stolz heißt. Ich ziehe meine Schuhe an,
-prüfe die Verbände, atme durch. Dann gehe ich los. Nicht, um wegzugehen, sondern
-um hinzugehen.
+sticht mich an einer Stelle, die Stolz heißt. Ich ziehe meine Schuhe an, prüfe
+die Verbände, atme durch. Dann gehe ich los. Nicht, um wegzugehen, sondern um
+hinzugehen. Anders als in Jyväskylä ignoriere ich diesmal bewußt den Rat meines
+Vater: Gehe nie ohne dein Gepäck. Nein, diesen alten nassen Rucksack setze ich
+so schnell nicht wieder auf.
 
-Der Weg zum Hafen ist eine Linie, die ich in kleine Stücke breche.
+Der Weg zum Hafen ist eine Linie, die ich wieder in kleine Stücke breche.
 Laternenpfahl, Kreuzung, Uferkante. Die Stadt ist milder geworden, der Wind hat
 die Schärfe abgelegt. Der kleine Hafen in der Innenstadt liegt da wie ein
 Atemholen: Masten, die Linien in den Himmel zeichnen; Bänke, die noch nass sind,
@@ -127,31 +130,32 @@ theatralisch, aber beharrlich; sie bringt mich hinüber, als sei das gar keine
 Frage.
 
 Im Terminal sehe ich Sini hinter dem Schalter. Als sich unsere Blicke treffen,
-wird ihr Gesicht erst leer, dann voll. Sie kommt um den Tresen herum, so
-schnell, dass der Stuhl hinter ihr noch dreht. „Was machst du hier?“ Ihre Stimme
-ist streng, ihr Blick weich. Ich hebe beide Hände. „Ich hole dich ab“, sage ich.
-„Kleiner Dank.“ Das klingt plötzlich schief, wie ein Stuhl auf ungleichem Boden.
+schaut ihr Gesicht erst erfreut, dann verärgert. Sie kommt um den Tresen herum,
+so schnell, dass der Stuhl hinter ihr noch dreht. „Was machst du hier?“ Ihre
+Stimme ist streng, ihr Blick weich. Ich hebe beide Hände. „Ich hole dich ab“,
+sage ich. „Kleiner Dank.“ Das klingt plötzlich schief, wie ein Stuhl auf
+ungleichem Boden.
 
 Sini atmet hörbar aus. „Stur wie…“ – sie sucht ein Wort – „wie ein Felsbrocken
 mit Beinen.“ Dann schimpft sie leise, finnisch, eine Reihe kleiner Donner, die
-eher Sorge als Ärger sind. „Die Verbände! Die Füße! Hättest du gestürzt—“ Sie
+eher Sorge als Ärger sind. „Die Verbände! Die Füße! Wärst du gestürzt — “ Sie
 bricht ab, sieht mir in die Augen, und ihr Mund verrät sie zuerst: Er lächelt.
-„Aber… kiitos“, sagt sie, und das Danke trifft mich an einer ungerüsteten
+„Aber… kiitos“, sagt sie, und das Danke trifft mich an einer empfindsamen
 Stelle.
 
-Ich zeige auf die Uhr. „Feierabend?“ – „Bald“, sagt sie. „Setz dich, trink
-Wasser. Ich bin gleich so weit.“ Ich gehorche ausnahmsweise ohne Debatte. Als
-sie zurückkommt, reiche ich ihr den Rucksack wie einen Blumenstrauß. Sie nimmt
-ihn, und es passiert uns gleichzeitig: Wir lachen. Richtig. Lauter, als der Raum
-es erwartet. Über meinen Ungehorsam, über ihre Strenge, über das Absurde daran,
-dass Abholen manchmal Ankommen heißt.
+Ich zeige auf die Uhr. „Feierabend?“ – „Bald“, sagt sie. „Setz dich, trink Tee.
+Ich bin gleich so weit.“ Ich gehorche ausnahmsweise ohne Debatte. Als sie
+zurückkommt, möchte ich ihren Rucksack tragen, so wie sie am Tag zuvor. „Du
+spinnst“ ruft sie, wir lachen. Richtig. Lauter, als der Raum es erwartet. Über
+meinen Ungehorsam, über ihre Strenge, über das Absurde daran, dass Abholen
+manchmal Ankommen heißt.
 
 Draußen ist der Abend hell genug, um noch ein Stück zu gehen. Wir machen es wie
 am Vortag: Bis zur Ecke, bis zur Ampfel, bis zu dieser Bank. „Silakka“, neckt
 sie. „Felsbrocken“, gebe ich zurück. Unsere Wörter finden Rillen, in die sie
 passen. Es fühlt sich an wie eine Übung, die man bestehen kann: Schritt, Atem,
 nächster Schritt. Freundschaft beginnt manchmal genau da, wo jemand „keine Eile“
-sagt – und trotzdem wartet.
+sagt – und aufeinander wartet.
 
 Wir landen auf einer nassen Holzbank am kleinen Stadthafen, genau dort, wo die
 Masten Linien in den Himmel zeichnen und die Leinen leise klacken. Das Wasser
@@ -163,14 +167,14 @@ heimliche Trommel halten.
 Ton einer Tür, die aufgeht.
 
 Ich atme durch und fange an, als würde ich meine Schritte rückwärts gehen:
-Edmila – das alberne Band im Haar, die Wendejacke, der Geruch von Schuhcreme.
-Joutsa – der Wettkampf, die Toilette, die Hütte, Maria in der Kirche, die
-Polizisten, die Stasi-Männer mit den kalten Augen. Raija – der Wagen bei Nacht,
-Jyväskylä, Jorma wie ein Felsblock im Zimmer. Dann die Entscheidung, die sich
-anfühlte wie aus Versehen getroffen: nicht Helsinki, sondern Vaasa. Die Linie
-auf der Karte, die mich durch Moor und Felder trieb, bis meine Füße aussahen,
-als gehörten sie jemand anderem. Ich erzähle es knapp, ohne Schmuck, als hätte
-ich eine alte Rechnung vor mir und wollte sie endlich schließen.
+Edmila – die albernen Bänder im Haar, die Wendejacke, der Geruch von Schuhcreme.
+Joutsa – der Wettkampf, die Toilette, Maria in der Kirche, die Polizisten, die
+Stasi-Männer mit den kalten Augen. Raija – der Wagen bei Nacht, Jyväskylä, Jorma
+wie eine Abrissbirne im Zimmer. Dann die Entscheidung, die sich anfühlte wie aus
+Versehen getroffen: nicht Helsinki, sondern Vaasa. Die Linie auf der Karte, die
+mich durch Moor und Felder trieb, bis meine Füße aussahen, als gehörten sie
+jemand anderem. Ich erzähle es knapp, ohne Schmuck, als hätte ich eine alte
+Rechnung vor mir und wollte sie endlich schließen.
 
 Sini sagt eine Weile nichts. Der Wind kämmt ihre blauen Haare, der Hafen klingt
 wie ein langsames Metronom. „Verdammt“, sagt sie leise, „du bist gegangen.“ Es
@@ -202,8 +206,7 @@ Silbenpaar schmeckt mir sofort bitter.
 Sini legt den Kopf schief. Kein Stich in den Blick, nur Humor, der nicht
 entwertet. „Eher wie Sini“, sagt sie und tippt sich auf die Brust. „Leute mit
 Sprache, Land, Ärger mit dem Staat. Nicht Kostümfest.“ Sie lässt mich kurz
-zappeln, dann lächelt sie. „Schon gut. 1985 ist keine Bibliothek. Frag einfach
-das nächste Mal. Ich erklär’s gern.“
+zappeln, dann lächelt sie. „Schon gut. Frag einfach immer, ich erklär’s gern.“
 
 „Danke“, sage ich, und es meint mehr als dieses eine Missverständnis. „Ich will
 es richtig lernen.“
@@ -214,8 +217,8 @@ schulden niemandem unsere Erklärungen, aber manchmal schenken wir sie trotzdem.
 
 Ich sehe sie an und erkenne plötzlich die Konturen dessen, was ich mir immer
 gewünscht habe, ohne den Namen zu wissen: jemand, der wild ist, ohne laut zu
-sein; der Feministin ist, ohne das Wort zu tragen wie ein Schild; der „keine
-Eile“ sagt und doch immer dann da ist, wenn die Füße schwach werden. Eine
+sein; der Feministin ist, ohne das Wort zu tragen wie ein Schild; jemand der
+„keine Eile“ sagt und doch immer dann da ist, wenn die Füße schwach werden. Eine
 Freundin, die nicht fragt, ob sie darf – sondern ob ich will.
 
 „Diese Bank“, sage ich, „könnte unserer Platz sein.“ Es klingt so feierlich,

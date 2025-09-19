@@ -3,7 +3,7 @@
 ```json
 {
   "title": "Plötzlich Robinson",
-  "date": "1985-07-27",
+  "date": "1985-07-12",
   "daytime": "day",
   "place": "Unterwegs zwischen Tampere und Vaasa, Finnland",
   "persons": ["Eddie"],
@@ -14,9 +14,8 @@
 }
 ```
 
-Heute zähle ich nach – zwanzig Tage bin ich schon unterwegs. Fast drei Wochen.
-Ich hätte nie gedacht, dass ich das so lange durchhalte, und noch weniger, dass
-ich es sogar lieben könnte.
+Heute zähle ich nach – 5 Tage bin ich schon unterwegs. Ich hätte nie gedacht,
+dass es mir so leicht fällt, und noch weniger, dass ich es sogar lieben könnte.
 
 Es ist inzwischen Routine: Morgens Tee mit Blaubeeren, die Finger schon beim
 Pflücken blau, dann den Rucksack schultern, wandern, wandern, wandern. Irgendwo
