@@ -39,8 +39,8 @@
 
 Pohjoismäki ist nur ein Picknickdach, und ich bin nur ein nasser Hund darunter.
 Ein Haus in der Nähe glimmt hinter Gardinen, aber ich gehe nicht hin. Die Angst,
-gesehen zu werden, ist schlimmer als der Regen. Ich zähle Laternen, bis die Nacht
-von selbst zugeht. Als ich aufwache, bin ich noch müde.
+gesehen zu werden, ist schlimmer als der Regen. Ich zähle Laternen, bis die
+Nacht von selbst zugeht. Als ich aufwache, bin ich noch müde.
 
 Kempinneva ist groß, aber nicht warm. Ein Unterstand mit Zugluft wie ein offener
 Mund. Ich lege mich auf nasse Bretter und rechne mir Vaasa aus: zwei, drei Tage.
@@ -50,9 +50,9 @@ eigenen Körper vorbei.
 
 In Laihia kaufe ich Tabletten, Brot, Haferflocken. Die Münzen gehen, der Regen
 bleibt. Im Haarinneva-Shelter zähle ich sie noch einmal, als müsste ich mir
-beweisen, dass wirklich nur noch so wenig Geld übrig. Ich lege die kalte Stirn an den
-Rucksack. Stockholm rückt nicht näher, nur der nächste Schritt. Es ist seltsam
-tröstlich, wenn die Zukunft so klein wird, dass sie in einen Fuß passt.
+beweisen, dass wirklich nur noch so wenig Geld übrig. Ich lege die kalte Stirn
+an den Rucksack. Stockholm rückt nicht näher, nur der nächste Schritt. Es ist
+seltsam tröstlich, wenn die Zukunft so klein wird, dass sie in einen Fuß passt.
 
 Kaarluoma ist ein trockener, kleiner Kasten, ein Luxus, weil es nicht
 hineinregnet. Ich koche etwas, das wie Tee aussieht, und sehe in der Tasse keine
