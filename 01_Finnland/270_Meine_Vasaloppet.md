@@ -58,7 +58,7 @@ eiserner Hand beherrschte und seine Gegner gnadenlos verfolgte.
 Gustav hatte sich erhoben, um Schweden von der fremden Herrschaft zu befreien,
 doch es sah nicht gut aus. Seine Hoffnung schwand, denn die Bauern in seinem
 Heimatland hatten sich nicht für seinen Aufstand erwärmen können. Enttäuscht und
-erschöpft schnallte die Skier unter seine Füße und machte sich auf den Weg. Sein
+erschöpft schnallte erdie Skier unter seine Füße und machte sich auf den Weg. Sein
 Ziel war die Grenze nach Norwegen -- dort hoffte er auf Schutz, weit weg von den
 dänischen Soldaten. Der Wind biss in sein Gesicht und die endlosen Wälder
 schienen ihn verschlingen zu wollen. Doch Gustav war schneller als die
@@ -96,7 +96,7 @@ der Kommunismus der Sowjetunion vom Faschismus befreit hat? Und jetzt ringen wir
 Doch so dunkle Überlegungen möchte ich heute gar nicht anstellen. Mich treibt
 ein viel erfreulicher Gedanke: ich bin auf meiner ganz persönlichen Vasaloppet.
 Zwar nicht von Schweden nach Norwegen, sondern von Tampere nach Vaasa. Leider
-auch nicht 90km, sondern 300km Wanderweg. Mein Pilgerpfad in die Freiheit. Mir
+auch nicht 90km, sondern 400km Wanderweg. Mein Pilgerpfad in die Freiheit. Mir
 gefällt der Gedanke sehr und ich stelle mir meinen Vater und seinen Kumpel vor,
 wenn sie wüssten, dass ich meine eigene Vasaloppet - na was wohl? - natürlich zu
 Ende bringe.
