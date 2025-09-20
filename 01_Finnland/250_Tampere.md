@@ -119,7 +119,7 @@ und zwei Schweine namens Nudeln.
 Mit meinen Beuteln – Rucksack konnte ich mir nicht leisten – setze ich mich in
 den Schatten und sortiere meinen Schatz: Schlafsack, verbeultes Blechgeschirr,
 eine Regenjacke, ein Schweizer Taschenmesser mit kleiner Säge (noch nie gesehen,
-mega praktisch). Dazu die zwei Bücher, fünfzehn (!!) Wanderkarten im Maßstab
+mega praktisch), Mückenspray (überlebensnotwendig). Dazu die zwei Bücher, fünfzehn (!!) Wanderkarten im Maßstab
 1:25.000, und ein Geschenk vom Buchhändler: ein winziges
 Finnisch–Englisch-Wörterbuch.
 
