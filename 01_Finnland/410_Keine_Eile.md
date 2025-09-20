@@ -171,81 +171,93 @@ fügt sie hinzu. „Bleib.“
 
 Ich schlucke, dann kommt es heraus: „Dann hol ich dich dort ab.“
 
-„Kommt gar nicht in Frage.“ Ihr Ton ist streng, ihr Blick weich. „Die Füße, die Verbände – alles würde wieder aufreißen. Kein Terminal.“
+„Kommt gar nicht in Frage.“ Ihr Ton ist streng, ihr Blick weich. „Die Füße, die
+Verbände – alles würde wieder aufreißen. Kein Terminal.“
 
-„Aber ich bin seit Wochen jeden Tag gelaufen!“ Ich höre selbst, wie es klingt: eine Mischung aus Jammern und Trotz. „Ich halte das Nichtstun nicht aus. Ich muss raus, wenigstens ein Stück.“
+„Aber ich bin seit Wochen jeden Tag gelaufen!“ Ich höre selbst, wie es klingt:
+eine Mischung aus Jammern und Trotz. „Ich halte das Nichtstun nicht aus. Ich
+muss raus, wenigstens ein Stück.“
 
-Sini überlegt kurz, dann lehnt sie sich gegen den Küchentisch. „Weißt du noch die Bänke am Hafen?“
+Sini überlegt kurz, dann lehnt sie sich gegen den Küchentisch. „Weißt du noch
+die Bänke am Hafen?“
 
 Ich nicke.
 
-„Da. Um halb sieben. Nicht weiter. Nicht zum Terminal, nicht zur Brücke. Nur die Bank.“
+„Da. Um halb sieben. Nicht weiter. Nicht zum Terminal, nicht zur Brücke. Nur die
+Bank.“
 
 Es klingt wie eine Probe, die sie mir stellt. Ich nicke wieder, diesmal fester.
 
 Als sie weg ist, bleibt die Wohnung wie eine ausgestreckte Hand. Ich räume die
-Tassen, spüle, suche mir Aufgaben, damit ich nicht nur atme. Diesmal gehe ich allein in die Dusche. Warmes Wasser, das mich nicht mehr erschlägt, sondern trägt. Seife mit Zitrus, die nicht nur reinigt, sondern erzählt: dass Körper wieder Menschen werden können. Dann wasche
-ich meine Wäsche – und gleich Sinis mit, weil Tun besser ist als Danken. Ich
-hänge die Sachen auf, als baute ich ein kleines Segelwerk in ihrem Wohnzimmer.
-Das Bad putze ich, fast schon manisch, um dem Gefühl der Dankbarkeit etwas
-Handfestes entgegenzustellen.
+Tassen, spüle, suche mir Aufgaben, damit ich nicht nur atme. Diesmal gehe ich
+allein in die Dusche. Warmes Wasser, das mich nicht mehr erschlägt, sondern
+trägt. Seife mit Zitrus, die nicht nur reinigt, sondern erzählt: dass Körper
+wieder Menschen werden können. Dann wasche ich meine Wäsche – und gleich Sinis
+mit, weil Tun besser ist als Danken. Ich hänge die Sachen auf, als baute ich ein
+kleines Segelwerk in ihrem Wohnzimmer. Das Bad putze ich, fast schon manisch, um
+dem Gefühl der Dankbarkeit etwas Handfestes entgegenzustellen.
 
 Zwischendurch kippt die Welt kurz nach hinten, Schwarz an den Rändern, und ich
 sitze schon, bevor ich falle. Der Mittagsschlaf überfällt mich wie eine Decke,
 die jemand vom Schrank holt und ohne Worte über mich legt. Als ich hochfahre,
-steht die Uhr auf fast sechs Uhr, vier Stunden weiter, die Luft ist klarer,
-und in meinem Kopf ist endlich zur Ruhe gekommen.
+steht die Uhr auf fast sechs Uhr, vier Stunden weiter, die Luft ist klarer, und
+in meinem Kopf ist endlich zur Ruhe gekommen.
 
 Ich denke an Sini, erinnere mich an den Weg. Ich ziehe meine Schuhe an, prüfe
 die Verbände, atme durch. Dann gehe ich los. Anders als in Jyväskylä ignoriere
 ich diesmal bewusst den Rat meines Vaters: Gehe nie ohne dein Gepäck. Nein,
 diesen alten nassen Rucksack setze ich so schnell nicht wieder auf.
 
-Ich laufe langsam, nehme Rücksicht auf meine Füße. Erinnere mich an Sinis
-„keine Eile“. Die frische Abendluft tut mir gut. Laufen weil man möchte, nicht
-weil man muss. Als ich bei den Bänken ankomme, sehe ich schon ganz klein Sini über
-die Brücke laufen. Ihr blauer Iro wippt unverkennbar.
+Ich laufe langsam, nehme Rücksicht auf meine Füße. Erinnere mich an Sinis „keine
+Eile“. Die frische Abendluft tut mir gut. Laufen weil man möchte, nicht weil man
+muss. Als ich bei den Bänken ankomme, sehe ich schon ganz klein Sini über die
+Brücke laufen. Ihr blauer Iro wippt unverkennbar.
 
-Ich winke und setze mich auf schönste Holzbank am kleinen Stadthafen, genau dort, wo die
-Masten Linien in den Himmel zeichnen und die Leinen leise klacken. Das Wasser
-riecht nach Metall und Algen, nach etwas, das immer schon da war. Sini setzt
-sich neben mich, beide Hände um ihren Rucksackriemen, als würde sie eine
-heimliche Trommel halten.
+Ich winke und setze mich auf schönste Holzbank am kleinen Stadthafen, genau
+dort, wo die Masten Linien in den Himmel zeichnen und die Leinen leise klacken.
+Das Wasser riecht nach Metall und Algen, nach etwas, das immer schon da war.
+Sini setzt sich neben mich, beide Hände um ihren Rucksackriemen, als würde sie
+eine heimliche Trommel halten.
 
-„Wie geht es dir?“ frage ich schnell zuerst. Sie lacht: „Joo, ihan jees.“ - „Ja, ganz
-okay. Und wie geht es Dir?“
+„Wie geht es dir?“ frage ich schnell zuerst. Sie lacht: „Joo, ihan jees.“ - „Ja,
+ganz okay. Und wie geht es Dir?“
 
-"Ich lebe Sini. Ich lebe. Ist das nicht wunderbar?" - „Joo, ihan jees.“ erwidert sie lachend.
+"Ich lebe Sini. Ich lebe. Ist das nicht wunderbar?" - „Joo, ihan jees.“ erwidert
+sie lachend.
 
-„Aber jetzt erzähl mir bitte deine Geschichte“, sagt sie schließlich. Keine große Geste, nur der
-Ton einer Tür, die aufgeht.
+„Aber jetzt erzähl mir bitte deine Geschichte“, sagt sie schließlich. Keine
+große Geste, nur der Ton einer Tür, die aufgeht.
 
-Ich atme durch und fange an. In meiner Vorstellung liegen meine Schritte
-ewig zurück, obwohl es nur 4 Wochen sind:
-Edmila – die albernen Bänder im Haar, die Wendejacke.
-Joutsa – der Wettkampf, die Toilette, der Geruch von Schuhcreme, Maria in der Kirche, die Polizisten, die
-Stasi-Männer mit den kalten Augen. Raija – der Wagen bei Nacht, Jyväskylä, Jorma
-wie eine Abrissbirne. Dann die Entscheidung, die sich anfühlte wie aus
-Versehen getroffen: nicht Helsinki, sondern Vaasa. Die Linie auf der Karte, die
-mich durch Moor und Felder trieb, bis meine Füße aussahen, als gehörten sie
-jemand anderem. Ich erzähle es knapp, ohne Schmuck, als hätte ich eine alte
-Rechnung vor mir und wollte sie endlich schließen.
+Ich atme durch und fange an. In meiner Vorstellung liegen meine Schritte ewig
+zurück, obwohl es nur 4 Wochen sind: Edmila – die albernen Bänder im Haar, die
+Wendejacke. Joutsa – der Wettkampf, die Toilette, der Geruch von Schuhcreme,
+Maria in der Kirche, die Polizisten, die Stasi-Männer mit den kalten Augen.
+Raija – der Wagen bei Nacht, Jyväskylä, Jorma wie eine Abrissbirne. Dann die
+Entscheidung, die sich anfühlte wie aus Versehen getroffen: nicht Helsinki,
+sondern Vaasa. Die Linie auf der Karte, die mich durch Moor und Felder trieb,
+bis meine Füße aussahen, als gehörten sie jemand anderem. Ich erzähle es knapp,
+ohne Schmuck, als hätte ich eine alte Rechnung vor mir und wollte sie endlich
+schließen.
 
 Sini sagt eine Weile nichts. Der Wind kämmt ihre blauen Haare, im Hafen klappern
-die Boote eine eigenen Rhythmus. „Verdammt“, sagt sie leise, „du bist gegangen.“ Es
-klingt nicht wie eine Frage und nicht wie ein Urteil. Mehr wie ein Staunen, das
-in den Händen liegen bleibt.
+die Boote eine eigenen Rhythmus. „Verdammt“, sagt sie leise, „du bist gegangen.“
+Es klingt nicht wie eine Frage und nicht wie ein Urteil. Mehr wie ein Staunen,
+das in den Händen liegen bleibt.
 
 „Ich bin… gestolpert“, korrigiere ich. „Von Fehler zu Fehler. Eine Kette
-schlechter Entscheidungen.“ Ich will es leicht
-sagen, schief grinsend, doch es kommt schwer heraus.
+schlechter Entscheidungen.“ Ich will es leicht sagen, schief grinsend, doch es
+kommt schwer heraus.
 
-„Unsinn.“ Sini dreht sich zu mir. In ihren Augen blitzt es entschlossen, als wollte sie keinen Zweifel lassen. „Das war eine Kette notwendiger Entscheidungen. Du hast Freiheit gewählt, immer wieder, auch wenn die Umstände hässlich waren. Schlechte Bedingungen sind keine schlechten Entscheidungen.“
+„Unsinn.“ Sini dreht sich zu mir. In ihren Augen blitzt es entschlossen, als
+wollte sie keinen Zweifel lassen. „Das war eine Kette notwendiger
+Entscheidungen. Du hast Freiheit gewählt, immer wieder, auch wenn die Umstände
+hässlich waren. Schlechte Bedingungen sind keine schlechten Entscheidungen.“
 
-Ich will widersprechen, weiß aber plotzlich nicht mehr warum. Stattdessen nicke ich,
-klein, vielleicht will ich mir mein Versagen nicht schönreden lassen.
+Ich will widersprechen, weiß aber plotzlich nicht mehr warum. Stattdessen nicke
+ich, klein, vielleicht will ich mir mein Versagen nicht schönreden lassen.
 
-Eine Frage stolpert aus mir heraus, noch bevor ich sie bremsen kann: „Bist du eine Lappin?“
+Eine Frage stolpert aus mir heraus, noch bevor ich sie bremsen kann: „Bist du
+eine Lappin?“
 
 Sini blinzelt, ihr Gesicht bleibt ruhig, aber die Stimme wird fest. „Sag das
 nicht. Das ist ein altes Wort, das andere uns gegeben haben. Heute sagt man
@@ -261,8 +273,8 @@ Himmel.“
 Ich nicke hastig, fühle mich ertappt wie ein Kind, das im Unterricht die falsche
 Antwort gegeben hat. „Ich weiß sowieso kaum etwas“, stolpere ich. „Also…
 peinlich wenig. In der Schule—“ Ich suche nach einem Wort und greife ins nächste
-Falsche. „War deine Mutter sowas wie… Indianer?“ Das letzte Silbenpaar schmeckt mir sofort
-bitter.
+Falsche. „War deine Mutter sowas wie… Indianer?“ Das letzte Silbenpaar schmeckt
+mir sofort bitter.
 
 Sini legt den Kopf schief. Kein Stich in den Blick, nur Humor, der nicht
 entwertet. „Kein Kostümfest“, sagt sie. „Sámi sein ist nicht etwas, das man sich
@@ -307,8 +319,8 @@ in ein paar Tagen mit echten Busfahrern.“
 zurückgrinst.
 
 Als wir aufstehen, weiß ich: Wir werden hierher zurückkehren. Zu der Bank, die
-jetzt unser Ort, an dem eine Kette schlechter
-Entscheidungen sich in eine Geschichte von Mut verwandelt. Sini streift meinen
-Arm, nicht zufällig, nicht absichtlich – genau dazwischen. „Komm“, sagt sie.
-„Keine Eile.“ Und zum ersten Mal fühlt sich dieses „keine Eile“ nicht nach
-Stillstand an, sondern nach Richtung.
+jetzt unser Ort, an dem eine Kette schlechter Entscheidungen sich in eine
+Geschichte von Mut verwandelt. Sini streift meinen Arm, nicht zufällig, nicht
+absichtlich – genau dazwischen. „Komm“, sagt sie. „Keine Eile.“ Und zum ersten
+Mal fühlt sich dieses „keine Eile“ nicht nach Stillstand an, sondern nach
+Richtung.

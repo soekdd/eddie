@@ -182,10 +182,10 @@ ihren Leinen dösen; irgendwo ein Klappern von Metall auf Metall. Kleine Parks
 mit nassen Bänken, die aussehen, als ob sie wunderbare Plätze bei schönem Wetter
 wären.
 
-Wir brauchen länger als eine Stunde.
-Sini macht aus jedem Stück etwas Machbares. „Bis zum nächsten Baum“, sagt sie.
-„Bis zum nächsten Laternenpfahl.“ Ich lache einmal leise, weil ich die Methode
-kenne: Wege zerlegen, bis sie wieder erträglich werden.
+Wir brauchen länger als eine Stunde. Sini macht aus jedem Stück etwas Machbares.
+„Bis zum nächsten Baum“, sagt sie. „Bis zum nächsten Laternenpfahl.“ Ich lache
+einmal leise, weil ich die Methode kenne: Wege zerlegen, bis sie wieder
+erträglich werden.
 
 Ihre Wohnung ist klein, ein wunderbares Chaos entfaltet sich mir, als hätte
 jemand die hundert wichtigsten Dinge aus einer größeren Welt herausgeschnitten:

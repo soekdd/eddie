@@ -38,8 +38,8 @@ Wetter, an den Kanten splittert sie ein bisschen. Hinter uns riecht es nach
 Rauch -- irgendwo brennt wohl ein Lagerfeuer -- und nach den süßlich-harzigen
 Birken, die sich im Wind wiegen.
 
-„Dein Vater hat dich nicht Sini, sondern Sinikka genannt", sage ich, während
-ich meine Knie enger anziehe. „Was heißt das? Blaue Blume oder so was?"
+„Dein Vater hat dich nicht Sini, sondern Sinikka genannt", sage ich, während ich
+meine Knie enger anziehe. „Was heißt das? Blaue Blume oder so was?"
 
 Sie zuckt nur leicht mit den Schultern, als ob die Antwort für sie keine große
 Sache wäre. „Ach nein. Das heißt 'kleines blaues Mädchen'. Ich mag es nicht und
