@@ -11,13 +11,45 @@
   "tense": "present",
   "pov": "Eddie, first-person",
   "mode": "mainline",
-  "mood": ["regengetränkt", "stur", "erschöpft", "fragile Erleichterung"],
-  "themes": ["Euphorie kippt", "Pflicht ohne Wärme", "Hilfsbereitschaft Fremder", "Moor als Prüfung"],
+  "mood": [
+    "regengetränkt",
+    "erschöpft",
+    "verzweifelt",
+    "kolossal überfordert",
+    "fragile Erleichterung"
+  ],
+  "themes": [
+    "Euphorie kippt in Pflicht",
+    "Überforderung/Verzweiflung",
+    "Mückenhölle als Folter",
+    "Zählen als Coping-Mechanismus",
+    "Hilfsbereitschaft Fremder ohne Wärme",
+    "Moor als Prüfung"
+  ],
   "persons": ["Eddie", "Bäuerin (unbenannt)"],
   "landscapes": ["Wald", "Sumpf/Moor", "Felder/Flusslauf"],
   "weather_summary": "Dauerregen, Wind, kurze Aufhellung am Fluss; feucht-kalt.",
+  "health_flags": [
+    "starke Mückenstiche (Hände/Gesicht/Kniekehlen)",
+    "Husten",
+    "Schüttelfrost",
+    "aufgeweichte, wundgelaufene Füße",
+    "Erschöpfung"
+  ],
+  "sensory_focus": [
+    "Summen/Dröhnen der Mückenschwärme",
+    "kalte, nasse Kleidung",
+    "modriger Brettergeruch",
+    "Heu/Eisen/Kuhgeruch in der Scheune",
+    "Tinte verläuft auf nassen Seiten"
+  ],
+  "narrative_signposts": {
+    "stations_clearly_marked": true,
+    "farm_rescue": "Hof am Feldrand (Birkenreihe, Abzweig), Scheune als trockener Zufluchtsort",
+    "math_as_coping": "Schrittzählen, Luftlinie vs. Wirklichkeit"
+  },
   "overnights": [
-    { "seq": "08", "date": "1985-07-18", "type": "Lean-to (Picknick-Unterstand)", "name": "Laavu", "near": "Parkano (Pirkanmaa)" },
+    { "seq": "08", "date": "1985-07-18", "type": "Lean-to (Picknick-Unterstand)", "name": "Laavu (Parkano)", "near": "Parkano (Pirkanmaa)" },
     { "seq": "09", "date": "1985-07-19", "type": "Kota (geschlossen/ungenügend)", "name": "Kourajärven kota", "near": "Parkano/Satakunta" },
     { "seq": "10", "date": "1985-07-20", "type": "Lean-to", "name": "Sompalaavu", "near": "ehem. Torfabbaugebiet, Pirkanmaa" },
     { "seq": "11", "date": "1985-07-21", "type": "Lean-to", "name": "harjanevan laavu", "near": "Jalasjärvi (Etelä-Pohjanmaa)" },
@@ -25,16 +57,16 @@
     { "seq": "13", "date": "1985-07-23", "type": "Lean-to", "name": "mutterilaavu", "near": "Flusslauf bei Jalasjärvi (Etelä-Pohjanmaa)" }
   ],
   "route_segments": [
-    { "seq": "08", "site_name": "Laavu", "lat": 62.0201377085, "lon": 23.0195876993, "province": "Pirkanmaa", "landscape": "Wald" },
+    { "seq": "08", "site_name": "Laavu (Parkano)", "lat": 62.0201377085, "lon": 23.0195876993, "province": "Pirkanmaa", "landscape": "Wald" },
     { "seq": "09", "site_name": "Kourajärven kota", "lat": 62.1685336962, "lon": 22.8426289234, "province": "Satakunta", "landscape": "Sumpf/Wald" },
     { "seq": "10", "site_name": "Sompalaavu", "lat": 62.2413748, "lon": 22.8599064, "province": "Pirkanmaa", "landscape": "Sumpf/Moor" },
     { "seq": "11", "site_name": "harjanevan laavu", "lat": 62.341166, "lon": 22.586337, "province": "Etelä-Pohjanmaa", "landscape": "Sumpf/Moor" },
-    { "seq": "12", "site_name": "ikkeläjärven laavu (fehlt)", "lat": 62.404807, "lon": 22.501767, "province": "Etelä-Pohjanmaa", "landscape": "Felder" },
-    { "seq": "13", "site_name": "mutterilaavu", "lat": 62.441877, "lon": 22.310695, "province": "Etelä-Pohjanmaa", "landscape": "Felder" }
+    { "seq": "12", "site_name": "ikkeläjärven laavu (fehlt)", "lat": 62.404807, "lon": 22.501767, "province": "Etelä-Pohjanmaa", "landscape": "Felder/Hof am Feldrand" },
+    { "seq": "13", "site_name": "mutterilaavu", "lat": 62.441877, "lon": 22.310695, "province": "Etelä-Pohjanmaa", "landscape": "Felder/Flusslauf" }
   ],
   "nearest_cities": ["Parkano", "Jalasjärvi"],
-  "approx_word_count": 730,
-  "updated": "2025-09-19"
+  "approx_word_count": 740,
+  "updated": "2025-09-20"
 }
 ```
 Der Regen fängt nicht spektakulär an. Er ist einfach da, als hätte jemand am Himmel die Dusche vergessen zuzudrehen. Ich stolpere weiter, die Schuhe saugen sich voll, das Moos zieht mir fast die Sohlen ab. Auf der Karte steht „Laavu“, aber da ist nur ein Picknickdach. Wind treibt den Regen darunter wie Nadeln. Ich ziehe mein Hemd aus, wringe, hänge es an einen rostigen Nagel – es tropft schneller, als es trocknet.
