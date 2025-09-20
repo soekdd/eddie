@@ -127,4 +127,4 @@ Raija legt mir die Hand auf die Schulter. „Das hast du gut gemacht, kleine
 Fluchtkünstlerin. Und jetzt... trinken wir einen Kaffee. Du siehst aus, als
 würdest du gleich umfallen."
 
-Der Anruf sitzt. Morgen rede ich Klartext, auch wenn es kracht.
+Der Anruf hat gesessen.
