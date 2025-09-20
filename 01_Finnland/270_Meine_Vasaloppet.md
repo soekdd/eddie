@@ -33,7 +33,8 @@
 }
 ```
 
-Als ich am nächsten Tag wieder auf der Tour bin, kommt mir eine Geschichte meiner Kindheit in den Sinn.
+Als ich am nächsten Tag wieder auf der Tour bin, kommt mir eine Geschichte
+meiner Kindheit in den Sinn.
 
 Ein Freund meines Vaters war begeisterter Ski-Langläufer. Er überredete meinen
 Vater, mit ihm die "Hohe Tour" zu machen. Eine Ski-Langstreckenroute, die sich
@@ -58,10 +59,10 @@ eiserner Hand beherrschte und seine Gegner gnadenlos verfolgte.
 Gustav hatte sich erhoben, um Schweden von der fremden Herrschaft zu befreien,
 doch es sah nicht gut aus. Seine Hoffnung schwand, denn die Bauern in seinem
 Heimatland hatten sich nicht für seinen Aufstand erwärmen können. Enttäuscht und
-erschöpft schnallte erdie Skier unter seine Füße und machte sich auf den Weg. Sein
-Ziel war die Grenze nach Norwegen -- dort hoffte er auf Schutz, weit weg von den
-dänischen Soldaten. Der Wind biss in sein Gesicht und die endlosen Wälder
-schienen ihn verschlingen zu wollen. Doch Gustav war schneller als die
+erschöpft schnallte erdie Skier unter seine Füße und machte sich auf den Weg.
+Sein Ziel war die Grenze nach Norwegen -- dort hoffte er auf Schutz, weit weg
+von den dänischen Soldaten. Der Wind biss in sein Gesicht und die endlosen
+Wälder schienen ihn verschlingen zu wollen. Doch Gustav war schneller als die
 Dunkelheit, die sich um ihn legte.\ Unbemerkt von ihm hatten zwei seiner
 treuesten Gefolgsleute von seinem Plan gehört. Sie wussten, dass Schweden ohne
 Gustav keine Chance hatte. So schnappten sie ihre Skier und setzten alles daran,
@@ -90,8 +91,9 @@ ich mich, ob sie irgendetwas mit Gustav Vasa zu tun hatte. Und tatsächlich gibt
 es einen Zusammenhang. Der Sohn Gustav Vasas gründete die Stadt Vaasa, als
 Finnland ein Teil von Schweden war. Ob die Finnen gern unter schwedischer
 Herrschaft lebten, fragte ich mich unwillkürlich. Sind aus den Befreiern am Ende
-auch wieder Unterdrücker geworden? Haben wir nicht in der Schule gelernt, dass uns
-der Kommunismus der Sowjetunion vom Faschismus befreit hat? Und jetzt ringen wir erneut um Freiheit, Freiheit von unseren Befreiern?
+auch wieder Unterdrücker geworden? Haben wir nicht in der Schule gelernt, dass
+uns der Kommunismus der Sowjetunion vom Faschismus befreit hat? Und jetzt ringen
+wir erneut um Freiheit, Freiheit von unseren Befreiern?
 
 Doch so dunkle Überlegungen möchte ich heute gar nicht anstellen. Mich treibt
 ein viel erfreulicher Gedanke: ich bin auf meiner ganz persönlichen Vasaloppet.

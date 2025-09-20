@@ -75,15 +75,15 @@
 
 ```
 
-Ich wache davon auf, dass jemand mir die Decke bis an die Schultern zieht. Das
-Licht im Büro ist milchig, der Regen hat die Fenster blind geleckt. Mein Kopf
-ist nicht mehr brennend, nur schwer. Neben mir hockt sie – das Mädchen mit den
-blauen Haaren. Ihre Augen fragen, bevor sie spricht.
+Regen trommelt gegen die Fenster. Jemand zieht mir die Decke bis an die
+Schultern, und ich blinzle ins milchige Licht des Morgens. Mein Kopf ist nicht
+mehr brennend, nur schwer. Neben mir hockt sie – das Mädchen mit den blauen
+Haaren. Sie ist immer noch da. Ihre Augen fragen, bevor sie spricht.
 
-„Wie fühlst du dich?“ fragt sie erst auf Finnisch, dann leiser auf Englisch.
-Ich nicke halb. „Fieber runter,“ bringe ich heraus. „Aber… nicht weg.“
+„Wie fühlst du dich?“ fragt sie erst auf Finnisch, dann leiser auf Englisch. Ich
+nicke halb. „Fieber runter,“ bringe ich heraus. „Aber… nicht weg.“
 
-Sie verschwindet in der kleinen Kaffeeküche, klappert mit Tassen und einem Topf.
+Sie verschwindet in die kleinen Kaffeeküche, klappert mit Tassen und einem Topf.
 Der Geruch von Brühe kriecht wie Wärme in den Raum. Als sie zurückkommt, stellt
 sie mir eine dampfende Suppe auf den Tisch und einen Becher Kaffee daneben.
 „Varovasti,“ sagt sie – vorsichtig. Ich bin alles andere als vorsichtig. Ich
@@ -131,15 +131,15 @@ Eile. Erst wirst du gesund.“
 
 Ich will widersprechen – Eile ist das Einzige, was mich die letzten Wochen
 getragen hat. Dann merke ich, wie die Müdigkeit mich von innen greift, mit
-sauber gewaschenen Händen. Ich nicke. „Nicht heute.“
+fordernden Händen. Ich nicke. „Nicht heute.“
 
 „Gut.“ Sie steht auf, stülpt sich eine warnwestenfarbene Jacke über, nimmt einen
 Schlüsselbund vom Haken. „Du bleibst hier. Schlafen. Toilette ist da. Wasch
 dich, so gut es geht. Ich komme immer wieder rein. Wenn dir etwas fehlt: Ich bin
 am Schalter.“
 
-Ich bleibe. Der Raum riecht nach Kaffee und Heizkörper, nach nassem Papier und
-mittlerweile vermutlich nach mir und meinen schmutzigen Sachen. Ich wasche mich
+Ich bleibe. Plötzlich werde ich mir meines eignenen Geruches bewußt. Ich stinke,
+jedes Kleidungsstück an mir stinkt, meine Haare stinken. Ich wasche mich
 umständlich am kleinen Waschbecken in der Toilette, falte nasse Kleidungsstücke
 so, dass sie möglichst viel Luft abkriegen. Die Welt wird in Schichten wieder
 bewohnbar: Haut, Hemd, Raum. Zwischendurch höre ich ihre Stimme draußen am
@@ -150,19 +150,17 @@ Tüte,“ sagt sie und tut so, als entschuldige sie sich. Ich esse, als wäre es
 Gegenteil.
 
 Mittags schläft mein Körper ohne mich los. Ich wache davon auf, dass der Regen
-aufgehört hat, gegen die Scheibe zu schreiben. Mein Husten klingt weniger wie
-ein alter Motor und mehr wie ein kaputtes Metronom. Ich breite die Karte aus.
-Der Strich über die Brücke ist länger als er aussehen darf. Ich stelle mir vor,
-wie ich gestern hinter dem Terminal in die Bäume sank – und wie jemand meinen
-Namen noch nicht kannte und trotzdem für mich blieb. Der Gedanke wärmt mich auf
-eine andere Weise als die Decke.
+aufgehört hat, gegen die Scheibe zu trommeln. Mein Husten klingt weniger wie ein
+alter Motor und mehr wie ein kaputtes Metronom. Ich breite die Karte aus. Der
+Strich über die Brücke ist viel kürzer als ich in Erinnerung habe. Ich stelle
+mir vor, wie ich gestern vor dem Terminal zusammengebrochen bin – und wie jemand
+meinen Namen noch nicht kannte und trotzdem für mich blieb. Der Gedanke wärmt
+mich auf eine andere Weise als die Decke.
 
 Am Nachmittag sitzt Sini für fünf Minuten auf der Sofakante und lässt die Füße
 baumeln, als sei sie selbst gerade noch ein Kind. „Morgen schauen wir nach den
 Bussen,“ sagt sie. „Heute nicht.“ Ich will fragen, warum sie mir hilft. Sie
 zuckt die Schultern, als sei die Antwort so selbstverständlich wie ihre Haare.
-„Manchmal findet man Leute. Manchmal findet man sie nicht. Heute hab ich dich
-gefunden.“
 
 Abends wird es stiller im Terminal. Die Schritte werden seltener, das Neon summt
 wie ein übermüdeter Insektenschwarm. Sini schaut auf die Uhr, dann auf mich.
@@ -173,33 +171,30 @@ Eine Stunde klingt wie ein fremdes Land. Aber sie legt mir die Jacke über die
 Schultern, nimmt meinen Rucksack so selbstverständlich, als hätte er immer ihr
 gehört, und ich nicke. Draußen hat der Regen sich beruhigt; die Tropfen sind nur
 noch einzelne Punkte, die auf dem Asphalt vergehen. Die Luft ist kühl und
-sauber, der Wind hat die Schärfe verloren. Wir gehen in kleinen Etappen: bis zur
-Ecke, bis zur Bank, bis zur Ampel. Sini wartet, wenn ich stehenbleibe, ohne zu
-fragen warum. Manchmal legt sie zwei Finger an mein Handgelenk, zählt stumm, als
-wolle sie meinen Puls an die Stadt anschließen.
+sauber, der Wind hat an Schärfe verloren. Wir gehen in kleinen Etappen: bis zur
+Brücke, bis zum Hafen, bis zur Ampel. Sini wartet, wenn ich stehenbleibe, ohne
+zu fragen warum. Sie bietet mir immer wieder ihren Arm an. Ich hacke mich ein,
+wie eine alte Frau.
 
 Vaasa zeigt mir die freundlichen Seiten seines Gesichts: ein kleiner Hafen in
 der Innenstadt, Masten wie Bleistifte, die das Grau anritzen; Boote, die an
 ihren Leinen dösen; irgendwo ein Klappern von Metall auf Metall. Kleine Parks
-mit nassen Bänken, die aussehen, als hätten sie jeden Sommer schon einmal
-erlebt. In den Fenstern der Cafés bleiben Menschen sitzen, obwohl sie längst
-hätten gehen können. Ich denke: Vielleicht ist das hier kein Ende, sondern ein
-Haltepunkt, an dem ich nicht erklären muss, warum ich so aussehe, wie ich
-aussehe.
+mit nassen Bänken, die aussehen, als ob sie wunderbare Plätze bei schönem Wetter
+wären.
 
-Wir brauchen länger als eine Stunde, weil mein Körper die Zeit in Stücke bricht.
+Wir brauchen länger als eine Stunde.
 Sini macht aus jedem Stück etwas Machbares. „Bis zum nächsten Baum“, sagt sie.
 „Bis zum nächsten Laternenpfahl.“ Ich lache einmal leise, weil ich die Methode
-kenne: Wege zerlegen, bis sie wieder gehen.
+kenne: Wege zerlegen, bis sie wieder erträglich werden.
 
-Ihre Wohnung ist klein und aufgeräumt, als hätte jemand die wichtigen Dinge aus
-einer größeren Welt herausgeschnitten: ein Wohnzimmer mit einem Sofa, auf dem
-eine warme Decke liegt; ein schmales Schlafzimmer, dessen Tür nur halb geöffnet
-ist, als wäre es schüchtern; ein Bad mit Dusche, die verheißungsvoll glitzert;
-eine kleine Küche, in der ein Wasserkocher schon beginnt, eine Zukunft zu
-erzählen. „Schuhe aus“, sagt Sini, und ich gehorche sofort, fast dankbar. Sie
-stellt den Rucksack ab, hängt meine Jacke über eine Lehne, dreht die Heizung ein
-wenig auf. Die Wohnung klingt nach ruhigem Atem.
+Ihre Wohnung ist klein, ein wunderbares Chaos entfaltet sich mir, als hätte
+jemand die hundert wichtigsten Dinge aus einer größeren Welt herausgeschnitten:
+ein Wohnzimmer mit einem Sofa, auf dem eine warme Decke liegt; ein schmales
+Schlafzimmer, dessen Tür nur halb geöffnet ist, als wäre es schüchtern; ein Bad
+mit Dusche, die verheißungsvoll glitzert; eine kleine Küche. „Bitte Schuhe aus“,
+sagt Sini, und ich gehorche sofort, fast dankbar. Sie stellt den Rucksack ab,
+hängt meine Jacke über eine Lehne, dreht die Heizung ein wenig auf. Die Wohnung
+bekommt einen ruhigem Atem.
 
 „Setz dich“, sagt sie, dann korrigiert sie sich: „Leg dich.“ Ich sinke auf das
 Sofa, das mich aufnimmt, als wäre ich eine Erinnerung, die endlich dort ist, wo

@@ -78,6 +78,77 @@
 }
 ```
 
+Ich wache wieder auf Die Wohnung ist still, warm – und ich nicht. Ich liege auf
+dem Sofa, der Schlaf ist eine alte Schallplatte, die ständig springt. Fieber
+brennt in mir, schiebt Bilder in meinen Kopf, die nicht zusammenpassen. Ich höre
+Stimmen im Flur, Schritte, die nicht da sind. Manchmal sehe ich meine Mutter,
+wie sie am Reißbrett steht, dann wieder graue Männer, die sich vorbeugen, meine
+Taschen durchsuchen, mich mitnehmen. Ich weiß, dass es nicht echt ist. Aber das
+Wissen hilft nichts.
+
+Auf dem Tisch liegt ein Zettel und eine Telefonnummer. Ich schaue mich um. So
+wie Raija hat auch Sini ein eigenes Telefon. Ich glaube daran kann ich mich nie
+gewöhnen. Doch ich habe keinen Grund und auch keine Kraft zum anrufen. Immer
+wieder sinke ich in kurze Fieberträume.
+
+Sini kommt schon am frühen Nachmittag zurück, viel früher als sie müsste. „Hab
+Schichten getauscht“, murmelt sie, stellt die Tasche ab, zieht die Jacke aus.
+Ihr Gesicht wechselt in Sekunden von Punk zu Krankenschwester. Sie zieht die
+Vorhänge am Fenster auf, lässt Licht in den Raum, schaut mich an, als würde sie
+meinen Puls im Gesicht lesen. „Suihku“, sagt sie, Dusche – und bevor ich
+protestieren kann, zieht sie mir das Shirt über den Kopf, stützt mich unter den
+Armen, schleppt mich ins Bad.
+
+Das Wasser ist warm, aber mein Körper zittert, als stünde ich unter Eis. Ich
+lehne gegen die Fliesen, während sie die Seife auf meine Haut schäumt. Sie zieht
+vorsichtig die Socken ab, meine Füße sind aufgerissen, Blasen, Risse, Haut, die
+aussieht wie Landkarten. Sini holt eine Schüssel, ein Handtuch, trägt Salbe auf,
+verbindet die Stellen, so zart, dass ich erst beim zweiten Mal merke, wie weh es
+tut.
+
+„Mücken“, sagt sie knapp, als sie die roten Kratzer an meinen Armen sieht. Ich
+nicke, heiser. Blut an den Fingernägeln, Wunden, die nicht heilen wollen. Sie
+trägt auch dort Creme auf, tupft, pustet manchmal, fast automatisch. Und dann
+zieht sie mir frische Sachen an, ihre eigenen. Ich bin etwas größer als sie,
+aber nun so dünn, dass die Sachen an mir hängen wie Segel. Im Spiegel erkenne
+ich mich kaum wieder.
+
+Am Abend kann ich wieder sitzen. Ich schlucke Tee, schlucke Tabletten, die sie
+mir reicht. Mein Körper beruhigt sich, aber mein Kopf nicht. Immer wieder denke
+ich, dass es draußen an der Tür klopfen wird. Dass jemand kommt, mich abholt,
+zurückbringt. Ich sehe Schatten, wo keine sind. Sini merkt es. Sie setzt sich
+neben mich aufs Sofa, legt den Arm um mich, so fest, dass der Raum kleiner wird.
+„Ei ole ketään“, sagt sie. Niemand ist da. Nur sie.
+
+Ich murmele etwas, halb im Delirium: „Jetzt weiß ich, warum ich weitergegangen
+bin… obwohl Vaasa… nur eine Sackgasse ist. Weil… du hier bist.“ Sini lacht
+leise, als hätte ich einen komischen Fiebertraum geteilt, versteht nicht alles.
+Aber in ihrem Blick liegt ein kurzes Blitzen, als ahnte sie doch, was ich sagen
+wollte.
+
+Ihre Nähe erdet mich. Wärme gegen Kälte, Ruhe gegen Stimmen. Ich sinke
+irgendwann in ihren Arm, und das Schwarz ist diesmal kein Absturz, sondern ein
+Schlaf.
+
+Der nächste Morgen riecht nach Kaffee. Ich kann aufrecht sitzen, der Kopf ist
+noch schwer, aber nicht mehr brennend. „Es geht mir besser“, sage ich zu Sini,
+als sie aus der Küche kommt. „Du musst die Schichten nicht mehr tauschen.“
+
+Sie hebt die Augenbrauen. „Sicher?“ – Ich nicke. Sie zögert, dann: „Na gut. Dann
+bin ich wieder bis achtzehn Uhr im Terminal.“
+
+Ich lächle schwach. „Dann hab ich ja Zeit, brav zu sein.“ Sie lacht, hebt im
+Spaß wie eine strenge Lehrerin den Zeigefinger. „Wir werden sehen.“
+
+Als sie geht, bleibt die Wohnung wie eine geöffnete Hand zurück. Ich stehe, noch
+wacklig, aber auf meinen eigenen Beinen. Diesmal gehe ich allein in die Dusche.
+Warmes Wasser, das mich nicht mehr erschlägt, sondern trägt. Seife mit Zitrus,
+die nicht nur reinigt, sondern erzählt: dass Körper wieder Menschen werden
+können.
+
+Und während ich das Wasser abstelle, fasse ich still den Entschluss: Heute Abend
+werde ich Sini abholen. Nicht, um wegzugehen, sondern um hinzugehen.
+
 Der Morgen riecht nach Kaffee und wärmt schon, bevor ich trinke. Sini stellt
 eine Tüte frischer Brötchen auf den Tisch, der Beutel beschlägt innen vom Dampf.
 Butter, Käse, Marmelade. Ich bin verlegen und hungrig zugleich. Der erste Biss
@@ -105,146 +176,52 @@ Zitrus, die mir erzählt, dass Körper wieder Menschen werden können. Dann wasc
 ich meine Wäsche – und gleich Sinis mit, weil Tun besser ist als Danken. Ich
 hänge die Sachen auf, als baute ich ein kleines Segelwerk in ihrem Wohnzimmer.
 Das Bad putze ich, fast schon manisch, um dem Gefühl der Dankbarkeit etwas
-handfestes entgegenzustellen.
+Handfestes entgegenzustellen.
 
 Zwischendurch kippt die Welt kurz nach hinten, Schwarz an den Rändern, und ich
 sitze schon, bevor ich falle. Der Mittagsschlaf überfällt mich wie eine Decke,
 die jemand vom Schrank holt und ohne Worte über mich legt. Als ich hochfahre,
-steht die Uhr drei Stundem weiter, die Luft ist klarer, und in meinem Kopf ist
+steht die Uhr drei Stunden weiter, die Luft ist klarer, und in meinem Kopf ist
 endlich zur Ruhe gekommen.
 
 Ich denke an Sini, an die Tür, die sie für mich aufhält, an das „Keine Eile“. Es
 sticht mich an einer Stelle, die Stolz heißt. Ich ziehe meine Schuhe an, prüfe
 die Verbände, atme durch. Dann gehe ich los. Nicht, um wegzugehen, sondern um
-hinzugehen. Anders als in Jyväskylä ignoriere ich diesmal bewußt den Rat meines
-Vater: Gehe nie ohne dein Gepäck. Nein, diesen alten nassen Rucksack setze ich
+hinzugehen. Anders als in Jyväskylä ignoriere ich diesmal bewusst den Rat meines
+Vaters: Gehe nie ohne dein Gepäck. Nein, diesen alten nassen Rucksack setze ich
 so schnell nicht wieder auf.
 
-Der Weg zum Hafen ist eine Linie, die ich wieder in kleine Stücke breche.
-Laternenpfahl, Kreuzung, Uferkante. Die Stadt ist milder geworden, der Wind hat
-die Schärfe abgelegt. Der kleine Hafen in der Innenstadt liegt da wie ein
-Atemholen: Masten, die Linien in den Himmel zeichnen; Bänke, die noch nass sind,
-aber warten. Ich gehe über die lange Straße hinüber zur Insel, der Verkehr
-rauscht an mir vorbei wie Wasser. Die Vaskiluoto-Brücke spannt sich nicht
-theatralisch, aber beharrlich; sie bringt mich hinüber, als sei das gar keine
-Frage.
+Auf der Bank halte ich es nicht länger aus. Die Frage stolpert aus mir heraus,
+noch bevor ich sie bremsen kann: „Bist du eine Lappin?“
 
-Im Terminal sehe ich Sini hinter dem Schalter. Als sich unsere Blicke treffen,
-schaut ihr Gesicht erst erfreut, dann verärgert. Sie kommt um den Tresen herum,
-so schnell, dass der Stuhl hinter ihr noch dreht. „Was machst du hier?“ Ihre
-Stimme ist streng, ihr Blick weich. Ich hebe beide Hände. „Ich hole dich ab“,
-sage ich. „Kleiner Dank.“ Das klingt plötzlich schief, wie ein Stuhl auf
-ungleichem Boden.
+Sini blinzelt, ihr Gesicht bleibt ruhig, aber die Stimme wird fest. „Sag das
+nicht. Das ist ein altes Wort, das andere uns gegeben haben. Heute sagt man
+Sámi. Das ist unsere eigene Bezeichnung.“
 
-Sini atmet hörbar aus. „Stur wie…“ – sie sucht ein Wort – „wie ein Felsbrocken
-mit Beinen.“ Dann schimpft sie leise, finnisch, eine Reihe kleiner Donner, die
-eher Sorge als Ärger sind. „Die Verbände! Die Füße! Wärst du gestürzt — “ Sie
-bricht ab, sieht mir in die Augen, und ihr Mund verrät sie zuerst: Er lächelt.
-„Aber… kiitos“, sagt sie, und das Danke trifft mich an einer empfindsamen
-Stelle.
+Mein Gesicht brennt. „Entschuldige… so hat man’s bei uns in der Schule gesagt.“
 
-Ich zeige auf die Uhr. „Feierabend?“ – „Bald“, sagt sie. „Setz dich, trink Tee.
-Ich bin gleich so weit.“ Ich gehorche ausnahmsweise ohne Debatte. Als sie
-zurückkommt, möchte ich ihren Rucksack tragen, so wie sie am Tag zuvor. „Du
-spinnst“ ruft sie, wir lachen. Richtig. Lauter, als der Raum es erwartet. Über
-meinen Ungehorsam, über ihre Strenge, über das Absurde daran, dass Abholen
-manchmal Ankommen heißt.
+Sie nickt knapp. „Ich weiß. Ihr konntet es nicht besser wissen. Aber jetzt weißt
+du’s.“ Sie lehnt sich zurück, streift mit der Hand über ihre blaue Strähne. „Und
+ja: halb Sámi. Mein Vater kommt aus Sápmi, weit oben. Rentiere, Fjäll, zu viel
+Himmel.“
 
-Draußen ist der Abend hell genug, um noch ein Stück zu gehen. Wir machen es wie
-am Vortag: Bis zur Ecke, bis zur Ampfel, bis zu dieser Bank. „Silakka“, neckt
-sie. „Felsbrocken“, gebe ich zurück. Unsere Wörter finden Rillen, in die sie
-passen. Es fühlt sich an wie eine Übung, die man bestehen kann: Schritt, Atem,
-nächster Schritt. Freundschaft beginnt manchmal genau da, wo jemand „keine Eile“
-sagt – und aufeinander wartet.
-
-Wir landen auf einer nassen Holzbank am kleinen Stadthafen, genau dort, wo die
-Masten Linien in den Himmel zeichnen und die Leinen leise klacken. Das Wasser
-riecht nach Metall und Algen, nach etwas, das immer schon da war. Sini setzt
-sich neben mich, beide Hände um ihren Rucksackriemen, als würde sie eine
-heimliche Trommel halten.
-
-„Erzähl mir deine Geschichte“, sagt sie schließlich. Keine große Geste, nur der
-Ton einer Tür, die aufgeht.
-
-Ich atme durch und fange an, als würde ich meine Schritte rückwärts gehen:
-Edmila – die albernen Bänder im Haar, die Wendejacke, der Geruch von Schuhcreme.
-Joutsa – der Wettkampf, die Toilette, Maria in der Kirche, die Polizisten, die
-Stasi-Männer mit den kalten Augen. Raija – der Wagen bei Nacht, Jyväskylä, Jorma
-wie eine Abrissbirne im Zimmer. Dann die Entscheidung, die sich anfühlte wie aus
-Versehen getroffen: nicht Helsinki, sondern Vaasa. Die Linie auf der Karte, die
-mich durch Moor und Felder trieb, bis meine Füße aussahen, als gehörten sie
-jemand anderem. Ich erzähle es knapp, ohne Schmuck, als hätte ich eine alte
-Rechnung vor mir und wollte sie endlich schließen.
-
-Sini sagt eine Weile nichts. Der Wind kämmt ihre blauen Haare, der Hafen klingt
-wie ein langsames Metronom. „Verdammt“, sagt sie leise, „du bist gegangen.“ Es
-klingt nicht wie eine Frage und nicht wie ein Urteil. Mehr wie ein Staunen, das
-in den Händen liegen bleibt.
-
-„Ich bin… gestolpert“, korrigiere ich. „Von Fehler zu Fehler. Eine Kette
-schlechter Entscheidungen, an die ich mich angeknotet habe.“ Ich will es leicht
-sagen, schief grinsend, doch es kommt schwer heraus.
-
-„Unsinn.“ Sini dreht sich zu mir. In ihren Augen blitzt etwas, das ich von
-Matheaufgaben kenne, kurz bevor der Beweis aufspringt. „Das war eine Kette
-notwendiger Entscheidungen. Du hast Freiheit gewählt, immer wieder, auch wenn
-die Umstände hässlich waren. Schlechte Bedingungen sind keine schlechten
-Entscheidungen.“
-
-Ich will widersprechen, weil Widerspruch mein Mantel ist. Stattdessen nicke ich,
-klein, weil meine Stimme einen Verband trägt.
-
-„Du bist Finnin, oder?“, frage ich, um irgendetwas zu sagen, das nicht über mich
-ist. Es kommt ungeschickt heraus, und ich weiß es im selben Moment. „Natürlich“,
-sagt sie, schmunzelt – und setzt nach: „Aber halb Sámi. Mein Vater ist aus
-Sápmi, weit oben. Rentiere, Fjäll, zu viel Himmel.“
-
-„Ich weiß kaum etwas“, stolpere ich. „Also… peinlich wenig. In der Schule—“ Ich
-suche nach einem Wort und greife ins Falsche. „So was wie… Indianer?“ Das letzte
-Silbenpaar schmeckt mir sofort bitter.
+Ich nicke hastig, fühle mich ertappt wie ein Kind, das im Unterricht die falsche
+Antwort gegeben hat. „Ich weiß sowieso kaum etwas“, stolpere ich. „Also…
+peinlich wenig. In der Schule—“ Ich suche nach einem Wort und greife ins nächste
+Falsche. „So was wie… Indianer?“ Das letzte Silbenpaar schmeckt mir sofort
+bitter.
 
 Sini legt den Kopf schief. Kein Stich in den Blick, nur Humor, der nicht
-entwertet. „Eher wie Sini“, sagt sie und tippt sich auf die Brust. „Leute mit
-Sprache, Land, Ärger mit dem Staat. Nicht Kostümfest.“ Sie lässt mich kurz
-zappeln, dann lächelt sie. „Schon gut. Frag einfach immer, ich erklär’s gern.“
+entwertet. „Kein Kostümfest“, sagt sie. „Sámi sein ist nicht etwas, das man sich
+anzieht wie eine Maske.“
 
-„Danke“, sage ich, und es meint mehr als dieses eine Missverständnis. „Ich will
-es richtig lernen.“
+„Aber… ihr habt doch diese Trachten?“ frage ich, leiser.
 
-„Guter Plan. Erste Lektion: Wir existieren nicht in Museen, sondern hier.“ Sie
-deutet auf die Bank, auf den Hafen, auf ihre Schuhe. „Zweite Lektion: Wir
-schulden niemandem unsere Erklärungen, aber manchmal schenken wir sie trotzdem.“
+„Ja“, sagt sie, nickt. „Die heißen Gákti. Manche tragen sie stolz, zu Festen, zu
+Wahlen, bei Hochzeiten. Manche jeden Tag, weil es ihr Statement ist. Und andere
+nie, weil sie sagen: Identität hängt nicht an Stoff. Ich gehöre zu den
+Letzteren. Für mich ist Sámi sein Sprache, Land, Streit mit dem Staat. Kein
+Kleidungsstück.“
 
-Ich sehe sie an und erkenne plötzlich die Konturen dessen, was ich mir immer
-gewünscht habe, ohne den Namen zu wissen: jemand, der wild ist, ohne laut zu
-sein; der Feministin ist, ohne das Wort zu tragen wie ein Schild; jemand der
-„keine Eile“ sagt und doch immer dann da ist, wenn die Füße schwach werden. Eine
-Freundin, die nicht fragt, ob sie darf – sondern ob ich will.
-
-„Diese Bank“, sage ich, „könnte unserer Platz sein.“ Es klingt so feierlich,
-dass ich lachen muss.
-
-„Abgemacht.“ Sini klopft mit der Faust zweimal auf die Sitzlatte, als würden wir
-Holz einweihen. „Hierher kommen wir zurück, wenn die Welt zu groß wird – und
-wenn sie zu klein wird auch.“
-
-Wir sitzen noch, bis das Licht sich aus dem Wasser zurückzieht und die ersten
-Fenster in der Stadt wie Sterne angehen. Sini erzählt von ihrem Vater, dem
-Sommer oben im Norden, vom Wind, der die Sprache wechselt, je nachdem, wen er
-trifft. Ich erzähle, wie Mathe mich aus einem Moorraster zurück auf die Karte
-getragen hat. Unsere Sätze schieben sich ineinander wie zwei Boote, die
-nebeneinander im gleichen Takt schaukeln.
-
-„Morgen“, sagt Sini schließlich, „kein Heldinnentum. Kaffee. Verbände.
-Vielleicht eine kurze Runde in der Stadt. Und wenn du ganz brav bist, reden wir
-mit echten Busfahrern.“
-
-„Ich bin nie brav“, sage ich, und wir grinsen so breit, dass das Hafenwasser
-zurückgrinst.
-
-Als wir aufstehen, weiß ich: Wir werden hierher zurückkehren. Zu der Bank, die
-einfach nur eine Bank ist, und trotzdem ein Ort, an dem eine Kette schlechter
-Entscheidungen sich in eine Geschichte von Mut verwandelt. Sini streift meinen
-Arm, nicht zufällig, nicht absichtlich – genau dazwischen. „Komm“, sagt sie.
-„Keine Eile.“ Und zum ersten Mal fühlt sich dieses „keine Eile“ nicht nach
-Stillstand an, sondern nach Richtung.
+Sie zieht die Knie etwas näher an die Brust, blickt entschlossen in die Ferne.
+„Manchmal schenken wir unsere Erklärungen. Aber wir schulden sie niemandem.“

@@ -1,4 +1,4 @@
-# Der Streit zwischen Sini und ihrer Mutter
+# Du öffnest meine Post
 
 ```json
 {
@@ -8,9 +8,9 @@
   "persons": [
     "Eddie",
     "Sini",
-    "Sinis Mutter"
+    "Sinis Vater"
   ],
-  "synopsis": "Sinis Mutter erscheint unerwartet, stellt sie wegen der Uni und der Wohnung zur Rede und macht Eddie klar, dass sie nicht bleiben kann.",
+  "synopsis": "Sinis Vater erscheint unerwartet, stellt sie wegen der Uni und der Wohnung zur Rede und macht Eddie klar, dass sie nicht bleiben kann.",
   "mood": "tense, humiliating, bittersweet",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
@@ -30,75 +30,77 @@
   }
 }
 ```
+
 Wieder einer dieser gemütlichen Abende. Wie so oft habe ich Sini vom Terminal
 abgeholt, quatschend und lachend sind wir über die lange Brücke in die
 Innenstadt und zu Sinis Wohnung geschlendert. Nun sitze ich auf dem kleinen
-Sofa, die Knie an die Brust gezogen, genieße die Ruhe und Vertrauheit. Plötzlich
-wird die Tür aufgerissen. Die Stimme, die den Raum füllt, ist schneidend wie
-kalter Wind. Ich verstehe kein Wort, aber ich sehe die Frau: hochgewachsen,
-streng, die Mappe fest unter dem Arm. Keine Frage, so kündigt sich kein
-freundlicher Besuch an.
+Sofa, die Knie an die Brust gezogen, genieße die Ruhe und Vertrautheit.
+Plötzlich wird die Tür aufgerissen. Die Stimme, die den Raum füllt, ist
+schneidend wie kalter Wind. Ich verstehe kein Wort, aber ich sehe den Mann:
+groß, breitschultrig, die Mappe fest unter dem Arm. Keine Frage, so kündigt sich
+kein freundlicher Besuch an.
 
 Sini stolpert, wirkt ertappt, versucht zu lächeln. Doch es ist ein hilfloses
 Lächeln. Die beiden sprechen miteinander, Worte, die an mir vorbeirauschen, aber
 die Spannung liegt so dicht in der Luft, dass ich sie körperlich spüren kann.
-Ist es Sinis Mutter? Im Gegensatz zu Sini hat sie kein Sami Blut in ihren Adern,
-aber ihrem Temperament scheint das nicht zu schaden. Ihre Stirn ist hart
-gefurcht, ihre Augen blitzen, während Sini kleiner wirkt, fast wie ein Kind.
+Ist es Sinis Vater? Im Gegensatz zu ihrer Mutter trägt er kein Sami-Erbe in
+sich, doch an Strenge fehlt es ihm nicht. Seine Stirn ist hart gefurcht, seine
+Augen blitzen, während Sini kleiner wirkt, fast wie ein Kind.
 
 Dann dreht sich Sini zu mir, legt ihr zittriges Lächeln auf und sagt rasch:
-„Mama, das ist Eddie. Bitte… wir reden jetzt auf Englisch.“
+„Papa, das ist Eddie. Bitte… wir reden jetzt auf Englisch.“
 
 Ab da ist das Gespräch für mich wieder verständlich.
 
-„Deine Post!“, sagt ihre Mutter scharf und schwingt die Mappe. „Die Uni droht,
+„Deine Post!“, sagt ihr Vater scharf und schwingt die Mappe. „Die Uni droht,
 deine Immatrikulation nicht weiter zu pausieren, Sinikka!“
 
 „Avaisit minun postini?!“ – „Du öffnest meine Post?!“ Sini klingt fassungslos,
-doch ihre Mutter geht hart darüber hinweg. „Zwei Jahre Auszeit – und jetzt
+doch ihr Vater geht hart darüber hinweg. „Zwei Jahre Auszeit – und jetzt
 arbeitest du weit weg, wohnst in einer kleinen Wohnung, die ich noch dazu
 finanziere. Wie lange glaubst du, geht das noch so weiter?“
 
-Sini schluckt. „Mama… minä en…“ – „...ich wollte nur…“
+Sini schluckt. „Papa… minä en…“ – „...ich wollte nur…“
 
 „Nur was? Den Kopf in den Sand stecken? Deine Verantwortung auf andere
-abwälzen?“ Ihre Stimme bohrt, jedes Wort ein Schlag. Dann schaut sie zu mir.
+abwälzen?“ Seine Stimme bohrt, jedes Wort ein Schlag. Dann schaut er zu mir.
 „Und wer bist du? Wieder eine von Sinis Rumtreiberinnen, die sie aufliest wie
-Straßenhunde?“ Sinis Mutter wirft mir einen Blick zu, der mich sofort klein
+Straßenhunde?“ Sinis Vater wirft mir einen Blick zu, der mich sofort klein
 fühlen lässt. Rumtreiberin. Tja, stimmt ja irgendwie.
 
-„Eddie...", flüstert Sini zu mir und faltet flehend die Hände. „Äiti, lopeta!“ –
+„Eddie...“, flüstert Sini zu mir und faltet flehend die Hände. „Isä, lopeta!“ –
 „...hör auf!“ Sini klingt verzweifelt.
 
-Mein Magen dreht sich. Ich wusste nicht, dass ihre Mutter die Wohnung bezahlt.
+Mein Magen dreht sich. Ich wusste nicht, dass ihr Vater die Wohnung bezahlt.
 Kein Wunder, dass Sini mir das verschwiegen hat. Und jetzt sehe ich: in den
-Augen dieser Frau bin ich nichts als ein Problem, das Sini sich nicht leisten
+Augen dieses Mannes bin ich nichts als ein Problem, das Sini sich nicht leisten
 kann.
 
-„Mama, kuuntele…“ – „...bitte, hör zu…“
+„Isä, kuuntele…“ – „...bitte, hör zu…“
 
 „Nein, Sinikka! Du hörst mir jetzt zu! Diese Trödelei ist vorbei. Anfang Oktober
 ist Schluss mit der Auszeit. Deine Wohnung muss bis dahin aufgelöst sein, und du
-wirst pünktlich zum Semesterbeginn wieder in Helsinki sein!“
+wirst pünktlich zum Semesterbeginn wieder in Helsinki sein! Ich habe schon mit
+dem Wohnheim gesprochen, ein Zimmer für dich reserviert.“
 
-Sini hängt den Kopf. „Joo… minä teen sen…“ – „Ja, Mama… ich werde die Wohnung
+Sini hängt den Kopf. „Joo… minä teen sen…“ – „Ja, Papa… ich werde die Wohnung
 kündigen. Ich verspreche es.“
 
-„Gut.“ Ihre Mutter nickt streng. „Ich nehme ein Hotel in der Nähe. Morgen früh
-fahre ich zurück nach Turku. Bis dahin hoffe ich, dass du klug bist, Sinikka.
-Und Eddie…“ Ihr Blick trifft mich, scharf wie ein Messer. „Sini kann sich nicht
-um jede Rumtreiberin kümmern, verstanden?“
+„Gut.“ Er nickt streng. „Ich nehme ein Hotel in der Nähe. Morgen früh fahre ich
+zurück nach Turku. Ich erwarte, dass du dich an unsere Absprache hältst,
+Sinikka. Und Eddie…“ Sein Blick trifft mich, scharf wie ein Messer. „Sini kann
+sich nicht um jedes Problemkind kümmern, verstanden?“
 
 Ich schlucke, ein bitterer Kloß im Hals. Sini kann mich nicht wirklich
 hierhaben, nicht dauerhaft. Nicht, wenn ihre eigene Zukunft auf dem Spiel steht.
 Mir steigen Tränen in die Augen.
 
-Sini drückt meine Hand flüchtig, fast entschuldigend, während ihre Mutter sich
+Sini drückt meine Hand flüchtig, fast entschuldigend, während ihr Vater sich
 umdreht und die Tür hinter sich zuschlägt. Ich sitze da, zwischen Sini und der
 harten Realität, mit einem schlechten Gewissen, das sich wie Blei in meinem
 Brustkorb senkt.
 
-Draußen höre ich das Taxi, das ihre Mutter ins Hotel bringt. Der Motor
+Draußen höre ich das Taxi, das ihren Vater ins Hotel bringt. Der Motor
 verschluckt die letzten Worte, die Sini kaum noch herausbringt. Und ich weiß:
 Wir beide müssen einen Weg finden – aber dieser Weg ist steiler, härter und vor
 allem knapper an Zeit, als ich es mir bislang vorgestellt habe.

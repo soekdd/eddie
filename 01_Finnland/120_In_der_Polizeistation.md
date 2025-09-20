@@ -133,10 +133,10 @@ an der Jalousie vorbei zu spähen.
 
 Mielke und der ältere Polizist sind in einen heftigen Wortwechsel vertieft.
 Offensichtlich spricht niemand die Sprache des anderen, weshalb er einem der
-Männer, vermutlich dem Übersetzer, immer wieder heftig auf den Rücken
-schlägt. Er scheint mit seiner Übersetzung nicht zufrieden zu sein. Auf dem
-Tresen vor ihnen liegen Dokumente. Mielke zeigt auch immer wieder auf eins
-dieser Dokumente. Der ältere Polizist verliert zunehmend die Nerven.
+Männer, vermutlich dem Übersetzer, immer wieder heftig auf den Rücken schlägt.
+Er scheint mit seiner Übersetzung nicht zufrieden zu sein. Auf dem Tresen vor
+ihnen liegen Dokumente. Mielke zeigt auch immer wieder auf eins dieser
+Dokumente. Der ältere Polizist verliert zunehmend die Nerven.
 
 Als Raija zu seiner Seite tritt, explodiert er förmlich. Seinen Worten und
 Gesten folgend, versucht er die Männer rauszuschmeißen. Doch die weigern sich.
