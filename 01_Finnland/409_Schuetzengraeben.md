@@ -46,7 +46,10 @@ Es folgt ein langer, zerfetzter Schlummer. Träume kommen in Wellen: Busse fahre
 
 Ich wache richtig auf, als es schon Abend ist. Die Luft ist kühler. Mein Kopf fühlt sich leichter an, als hätte jemand eine schwere Decke abgenommen. „Ei paha,“ sagt Sini und lächelt müde. „Besser. Viel besser.“ Ich taste meine Füße: die Verbände sind fest, aber trocken. Es tut immer noch weh, aber nicht wie vorher — eher wie eine Erinnerung an Schmerz.
 
-Bevor sie mich ins Bad bringt, kniet Sini sich hin, löst vorsichtig die Verbände erneut. Dann stützt sie mich ins Bad. Unter dem Wasserstrahl löst sich Schmutz von der Haut. Ich lehne gegen die Fliesen, während sie meine Haare einseift. Danach trocknet sie mich ab, legt mich wieder auf das Sofa und verbindet die Füße neu. Ihre Finger sind sicher, der Druck fest, aber nie brutal. Die neuen Verbände fühlen sich an wie Versprechen.
+Sini beugt sich über mich, legt die Hand an meine Stirn, zählt still bis fünf.
+„Suihkuun nyt,“ sagt sie schließlich, ruhig wie ein Beschluss. Dann auf Englisch, für mich: „Shower.“
+Bevor ich protestieren kann, kniet sie sich schon an meine Füße, löst behutsam die Verbände, prüft jede Stelle mit dem Blick einer Mechanikerin, die ihr Werkzeug kennt. „First off, then water, then new,“ murmelt sie, mehr zu sich als zu mir. Sie stützt mich hoch, ein Arm um meine Taille, der andere greift nach dem Handtuch. Ich lasse mich führen. Im Bad angekommen zieht sie mir meine Sachen aus und führt mich in ihre Duschkabine.
+Unter dem Wasserstrahl löst sich Schmutz von der Haut. Ich lehne mich gegen die Fliesen, während sie meine Haare einseift. Danach trocknet sie mich ab, legt mich wieder auf das Sofa und verbindet die Füße neu. Ihre Finger sind sicher, der Druck fest, aber nie brutal. Die neuen Verbände fühlen sich an wie Versprechen.
 
 Noch immer halluziniere ich, sehe Fähren im Wohnzimmer, höre fremdes Lachen. Ich lache zurück, schwanke, falle fast. Dann zieht sie mich dichter, hält mich fest.
 
