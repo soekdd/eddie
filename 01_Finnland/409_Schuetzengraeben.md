@@ -1,6 +1,6 @@
 Hier ist die vollständige, neue Markdown-Version des Kapitels mit allen Änderungen (1–5 + Mielke-Vogel-Szene) eingebaut:
 
-# Nachspiel / Nachtwache
+# Schützengräben
 
 ```json
 {
@@ -17,13 +17,11 @@ Hier ist die vollständige, neue Markdown-Version des Kapitels mit allen Änderu
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline"
 }
+```
 
+Ich wache wieder auf. Die Wohnung ist klein und mollig gemütlich. Es riecht nach Tee und Seife. Gardinen filtern das Licht weich, ein Poster hängt schief, daneben eine gestrickte bunte Borte, vermutlich irgendeine finnische Folklore. Alles ist einfach, aber warm.
 
----
-
-Ich wache wieder auf. Die Wohnung ist klein und mollig gemütlich. Es riecht nach Tee und Seife, nach Stoffen, die Sonne gesehen haben, und nach einer Küche, die mehr Kaffee kennt als Essen. Gardinen filtern das Licht weich, ein Poster hängt schief, daneben eine gestrickte Sami-Borte. Alles ist einfach, aber warm.
-
-Sie hat das Sofa an die Wand geschoben, eine Lampenklammer an die Ecke geklemmt, so dass das Licht schräg über mein Gesicht fällt. Ein Handtuch liegt gefaltet auf dem Sessel, ein Paar saubere Socken — größer als nötig — auf dem Tisch. Es ist eine Wohnung, die funktioniert: ein paar Haken, ein Regal, kleine Vorräte, nichts Überflüssiges. Alles wirkt, als hätte es seinen Platz.
+Sie hat das Sofa an die Wand geschoben, eine kleine Lampen an die Ecke geklemmt, so dass das Licht schräg über mein Gesicht fällt. Ein Handtuch liegt gefaltet auf dem Sessel, ein Paar saubere Socken — größer als nötig — auf dem Tisch. Es ist eine Wohnung, die funktioniert: ein paar Haken, ein Regal, kleine Vorräte, nichts Überflüssiges. Alles wirkt, als hätte es seinen Platz.
 
 Sini weicht nicht von meiner Seite. Sie sitzt am Rand des Sofas, steht auf, geht zwei Schritte, kommt zurück. Manchmal legt sie eine Hand an meine Stirn, manchmal streicht sie mir die Haare weg. Es gibt keinen Moment, in dem ich allein wäre.
 
