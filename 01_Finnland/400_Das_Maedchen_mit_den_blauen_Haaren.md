@@ -5,7 +5,7 @@
   "title": "Das Mädchen mit den blauen Haaren – Terminal & Ankunft",
   "chapter_id": "FIN_Seq23_Terminal_und_Ankunft",
   "seq_range": ["23"],
-  "date": "1985-08-03",
+  "date": "1985-08-04",
   "tense": "present",
   "pov": "Eddie, first-person",
   "mode": "mainline",

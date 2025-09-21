@@ -2,7 +2,6 @@
 
 ```json
 {
-  {
   "title": "Raster aus Regen – der Tag, an dem ich mich verliere",
   "chapter_id": "FIN_Seq14-17_Raster_aus_Regen",
   "seq_range": ["14", "17"],
