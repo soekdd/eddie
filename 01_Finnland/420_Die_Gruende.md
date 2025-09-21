@@ -2,10 +2,14 @@
 
 ```json
 {
-  "date": "1983-08-09",
+  "flashback-date": "1983-08-09",
+  "date": "1985-08-09",
   "daytime": "evening",
   "place": "Vaasa, Pizzeria",
-  "persons": ["Eddie", "Sini"],
+  "persons": [
+    "Eddie",
+    "Sini"
+  ],
   "synopsis": "",
   "mood": "warm, bittersüß, unausgesprochen zärtlich, nachdenklich",
   "tense": "present, Eddies first-person perspective",

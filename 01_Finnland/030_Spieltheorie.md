@@ -2,7 +2,8 @@
 
 ```json
 {
-  "date": "1985-07-04",
+  "flashback-date": "1985-07-04",
+  "date": "1985-07-05",
   "daytime": "morning",
   "place": "Joutsenlampi",
   "persons": [
