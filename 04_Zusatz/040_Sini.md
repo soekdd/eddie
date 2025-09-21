@@ -12,8 +12,8 @@ _AKA:_ Sini
 - Background: Obere Mittelschicht
 - Parents:
   - General: Eltern praktisch eingestellt
-  - Mother: Finnisch, streng; setzt klare Grenzen
-  - Father: Sami
+  - Father: Finnisch, streng; setzt klare Grenzen
+  - Mother: Sami
 
 ## Appearance Static
 - Body: schlank, sportlich, aufrechte Haltung
