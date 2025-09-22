@@ -106,8 +106,8 @@ heiser. Blut an den Fingernägeln, Wunden, die nicht heilen wollen.
 
 Danach trocknet sie mich ab, legt mich wieder auf das Sofa und verbindet die
 Füße neu. Ihre Finger sind sicher, der Druck fest, aber nie zu fest. Die neuen
-Verbände geben mir Sicherheit. Auch auf den kleinen Wunden an den Armen und
-Beiden rägt sie Creme auf, tupft, pustet manchmal, fast automatisch. Und dann
+Verbände geben mir Sicherheit. Auch auf die kleinen Wunden an den Armen und
+Beinen trägt sie Creme auf, tupft, pustet manchmal, fast automatisch. Und dann
 zieht sie mir frische Sachen an, ihre eigenen, viel zu weit. Ich bin etwas
 größer als sie, aber so dünn, dass die Sachen an mir hängen wie Segel. Im
 Spiegel erkenne ich mich kaum wieder.
