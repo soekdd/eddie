@@ -1,11 +1,11 @@
-# Der Brief des Direktors
+# Gute Gründe
 
 ```json
 
 {
-  "date": "1985-08-13",
+  "date": "1985-08-12",
   "daytime": "evening",
-  "place": "Sinis Wohnung in Vaasa",
+  "place": "Pizzaria in Vaasa",
   "persons": [
     "Eddie",
     "Sini"
@@ -47,7 +47,7 @@
       "comments": ""
     }
   },
-  "illustrations": [
+  "illustration-prompts": [
     {
       "description": "Eddie sitzt am Küchentisch in Vaasa und erzählt Sini, die gespannt zuhört.",
       "style": "warmer Comicstil, 1980er Retrofarben"
@@ -94,8 +94,8 @@ Sini kichert.
 
 „Die Sache war eigentlich geritzt“, fahre ich fort. „Und ehrlich: Ich war froh,
 meine alte POS - Polytechnische Oberschule, so eine Art Gesamtschule - hinter
-mir zu lassen. Der Direktor dort war eine Parteibestie in Menschengestalt.
-Wir hatten uns mehrfach in die Haare gekriegt. Ich hab’ mir angewöhnt, gut
+mir zu lassen. Der Direktor dort war eine Parteibestie in Menschengestalt. Wir
+hatten uns mehrfach in die Haare gekriegt. Ich hab’ mir angewöhnt, gut
 vorbereitet zu streiten. Er hatte es rhetorisch nicht darauf und im Rechnen war
 er eine Niete. Und wenn du die Zahlen auf deiner Seite hast, fängt die Ideologie
 an zu quietschen.“
@@ -129,8 +129,8 @@ Sini lacht laut auf. „Sarkastisch geatmet!“
 „Als mein Vater kommt, erzählt meine Mutter: In der Mittagspause war die
 Sekretärin der POS heimlich zu ihr gelaufen. Mutig, verstehst du? Sie hatte
 einen Brief dabei, den sie im Auftrag des Direktors an den Bezirksschulrat
-schicken sollte. Und sie war sich sicher, dass das nicht richtig wäre.
-Sie wollte, dass meine Mutter ihn sieht.“
+schicken sollte. Und sie war sich sicher, dass das nicht richtig wäre. Sie
+wollte, dass meine Mutter ihn sieht.“
 
 Ich tippe mit dem Fingernagel auf den Tisch. „Meine Mutter hat den Brief
 abgeschrieben. Wort für Wort. Meinem Vater und mir hat sie den Text dann
@@ -161,9 +161,10 @@ Augen, weil er einen Plan sah.“
 
 Ich nicke. „Er hat seinen Chef, seinen Professor an der Uni, angerufen. Der
 Professor kannte den Dekan der Mathe-Fakultät. Innerhalb von zwei Tagen hatten
-sie einen kleine...“, ich forme mit den Finger Gänsefüsschen „...proletarisch-akademischen Gipfel organisiert: den Dekan, den
-Direktor der Manos, den Bezirks-Schulrat und—tada!—unseren Herrn Direktor von
-der POS. Plus meine Eltern. In einem Zimmer, an einem Tisch.“
+sie einen kleine...“, ich forme mit den Finger Gänsefüsschen
+„...proletarisch-akademischen Gipfel organisiert: den Dekan, den Direktor der
+Manos, den Bezirks-Schulrat und—tada!—unseren Herrn Direktor von der POS. Plus
+meine Eltern. In einem Zimmer, an einem Tisch.“
 
 „Und du?“, fragt Sini.
 
@@ -199,58 +200,81 @@ gesagt: ‚Bei uns rechnet man besser, wenn man schweigt.‘“
 
 „Und du?“, fragt Sini. „Hast du… weniger geredet?“
 
-Ich lache kurz, aber es klingt dünn. „Ich habe gelernt, die Zunge hinter den
-Zähnen zu parken. Es war… Überlebenstaktik. Ich hab’ mir gesagt: Ich will
-rechnen, ich will studieren, ich will rausfinden, warum Schiffe kippen oder
-Karten Nordpfeile haben. Also: keine politischen Reden, keine Schlagabtäusche
-auf dem Flur. Nur Wettkämpfe, Aufgaben, Bibliothek, Nachtbus nach Hause. Ich
-hab’ mir eine Art Tarnkappe gebaut aus Formeln. Und unter dieser Kappe… habe ich
-den Fluchtplan gefaltet.“
+Ich grinse schief. „Ja… also, ich hab’ versucht. Mehr Mathe, weniger große
+Klappe. Aber — “ Ich stoppe, weil plötzlich diese andere Geschichte hochkommt,
+die ich eigentlich selten erzähle. Ich schiebe die Gläser von mir weg, sehe Sini
+kurz nicht an. „Weißt du, das war ja nicht nur Spaß mit Mathe und Streit mit
+Direktoren. In der achten Klasse… da hat’s mich zum ersten Mal richtig erwischt.
+Nicht mich direkt, aber fast genauso schlimm.“
 
-Sini legt ihre Hand auf meine. „Ich hasse, dass du das musstest. Aber ich liebe,
-wie du’s gemacht hast.“
+Sini legt den Kopf schief, abwartend.
 
-Ich ziehe die Schultern hoch. „Selbstkritisch betrachtet: Ich war eitel. Ich
-mochte die Olympiaden, mochte das Kribbeln, wenn eine Idee passt. Gleichzeitig
-hab’ ich gern provoziert. ‚Warum ist 2+2 in der Politik manchmal 5?‘—so was. Ich
-hab’ unterschätzt, wie dünnhäutig Systeme sind. Dieser Brief war die Quittung.
-Ohne die Sekretärin—ohne ihren Mut—und ohne das Netzwerk von Männern in Anzügen,
-die Zahlen mochten, wäre die Sache vielleicht anders ausgegangen.“
+„Eine aus meiner Klasse in der alten Schule, wir waren nicht eng befreundet,
+aber wir haben damals zusammen Hausaufgaben abgeschrieben, so ein alltägliches
+Mädchending eben. Ihre Eltern waren ganz normale Leute, er Mechaniker, sie
+Krankenschwester. Aber sie waren kirchlich aktiv. Jugendkreis, Friedensgebete,
+dieses ganze Gedöns mit Kerzen und ‚Schwerter zu Pflugscharen‘. Ich fand’s
+irgendwie sympathisch, aber dachte damals: naja, harmlos.“
 
-„Hast du der Sekretärin gedankt?“, fragt Sini.
+Ich stoße ein kurzes, trockenes Lachen aus. „Ha. Von wegen harmlos. Eines Tages
+waren die einfach weg. Beide Eltern. Stasi hat sie nachts geholt. Offiziell hieß
+es, sie hätten ‚staatsfeindliche Hetze‘ betrieben, weil sie Flugblätter verteilt
+hatten — irgendwas mit Abrüstung, Frieden, keine Raketen. Für die war das schon
+Terrorismus.“
 
-„Meine Mutter hat’s getan. Mit Blumen. Ich durfte nicht, es wäre aufgefallen.
-Sie hat gesagt, die Frau habe nur genickt und ‚Passen Sie auf das Mädchen auf‘
-gesagt. Ich denke oft an sie.“
+Sini zieht die Augenbrauen hoch. „Scheiße.“
 
-Ein Moment Stille. Draußen rufen Möwen, als hätten sie ebenfalls etwas zu
-melden.
+„Ja“, sage ich leise. „Und meine Klassenkameradin? Wurde am nächsten Tag von
+zwei Frauen abgeholt, ab ins Heim. Einfach so. Kein Tschüss, kein Nichts. Als ob
+man ein Paket von der Post abholt. Am Montag soll ihr Platz in der Schule leer
+gewesen, und das blieb er auch. Ich weiß nicht mal, wo genau sie hingekommen
+ist.“
 
-„Weißt du, was mich damals am meisten verletzt hat?“, frage ich. „Nicht, dass er
-mich für ‚bürgerlich‘ hielt. Sondern, dass er mich meinen Freunden nehmen
-wollte. Dieses Umverteilen von Chancen nach Gesinnung—als wären wir
-Schachfiguren. Ich war nie ein Alphamädchen. Eher nerdig, eher allein. Aber
-plötzlich wurde ich eine Identifikationsfigur, weil ich nicht einknickte. Und
-genau das wollten sie brechen.“
+Es wird still. Ich spüre, wie mein Herz wieder schneller klopft, als wäre ich
+wieder fünfzehn und säße in diesem Klassenraum mit dem leeren Stuhl.
 
-Sini pfeift leise. „Sie haben’s nicht geschafft.“
+„Da hab ich’s kapiert“, sage ich schließlich. „Dass man denen nicht einfach mit
+Mathe entkommt. Dass eine Eins in Algebra kein Schutzschild ist. Die können dich
+trotzdem einsammeln, wenn sie wollen. Und sie nehmen dir sogar deine Eltern
+weg.“
 
-Ich atme aus. „Nein. Aber seitdem rechne ich doppelt. Nicht nur Mathe. Auch
-Risiko. Wo ich sitze. Was ich sage. Wen ich anschaue. Es ist wie… ein internes
-Kontrollsystem. Und in der Manos habe ich gelernt, die Kontrolle so aussehen zu
-lassen, als wäre sie Disziplin.“
+Sini legt ihre Hand auf meine. „Und da hast du beschlossen zu fliehen?“
 
-Ich stütze das Kinn in die Hand. „Und dann, ein paar Jahre später, kam Finnland
-wie eine Anomalie in einer Gleichung. Ein kleiner Parameterwechsel, der das
-ganze System kippen kann. Und ich… habe das ausgenutzt.“
+Ich nicke. „Nicht sofort. Erst im Stillen. Ich war damals dreizehn, vierzehn—zu
+jung, zu klein, keine Chance. Aber ab 1983 hab’ ich mit meinem Vater angefangen,
+richtig zu planen. Erst mal nur grobe Pläne. So haben wir Edmilla erfunden. Das
+artige systemtreue Vorzeigemädchen. Und er hat mir heimlich vieles begebracht,
+was ich für die Flucht brauchen konnte. Und natürlich die Mathematik, soweit er
+konnte.“
 
-Sini lehnt sich vor, ihre Stirn berührt fast meine. „Hyvä, Eddie“, sagt sie
-weich. „Gut so. Und der nächste Parameterwechsel heißt: Wir kriegen dich nach
-Schweden. Ohne dass irgendein Direktor der Welt noch einmal über dich verfügt.“
+„Wegen der Olympiade?“ fragt Sini.
 
-Ich nicke. „Abgemacht. Aber denk dran: Wenn ich unterwegs anfangen sollte,
-sarkastisch zu atmen—“
+„Genau. Die IMO war das Ticket. Aber man wusste immer erst spät, wo sie
+stattfinden wird. 1984 war sie zum Beispiel in Prag, da hätte ich gar nicht über
+Flucht nachdenken brauchen. Zum Glück war ich da ohnehin noch zu jung für die
+IMO. Aber 1985? Finnland. Bäm! Freiheit. Da wusste ich: Ich muss um jeden Preis
+in die Auswahl kommen, darf ich nicht locker lassen. Ich hab’ gelernt wie
+besessen, jede Aufgabe, jede Kombinatorik, Nächte durchgerechnet. Nicht, weil
+ich Mathe so sehr liebte — na gut, das auch — sondern weil das die einzige
+Leiter war, die noch nach draußen führte.“
 
-„—dann geb’ ich dir einen Keksi in den Mund“, sagt Sini, lacht und zieht mich in
-eine Umarmung, die nicht finnisch ist, sondern einfach wir. „Und dann rechnest
-du weiter.“
+Ich atme tief durch, merke, dass meine Stimme härter geworden ist. Dann zwinge
+ich mich zum Lächeln. „Also ja, ich hab’ weniger geredet. Aber innerlich hab’
+ich lauter gerechnet.“
+
+Sini kneift meine Finger. „Und genau deshalb bist du jetzt hier. Bei mir.“
+
+Ich lächle schief zurück. „Genau deshalb.“
+
+Sini lehnt sich zurück, schüttelt langsam den Kopf. „Eddie… du bist härter, als
+du selbst glaubst.“ Sie sieht mich mit diesem Blick an, der nicht einfach nur
+bewundert, sondern Respekt ist. „Und dein Vater auch. Dass er da mitgemacht hat…
+das ist schon Wahnsinn. Viele hätten sich weggeduckt.“
+
+Ich spüre, wie mir warm wird, nicht von der Pizza, sondern von dem, was sie
+sagt. Draußen klackert schon der Schlüsselbund vom Kellner, die Tische sind
+leer, nur wir sitzen noch da, die letzten Gäste. Ich trinke die kalte Cola in
+einem Zug und atme aus.
+
+„Weißt du was?“, sage ich. „Ich erzähl dir jetzt von meinem Vater. Ohne ihn wär’
+das alles nur ein dummer Traum geblieben.“

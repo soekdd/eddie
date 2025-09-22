@@ -2,8 +2,8 @@
 
 ```json
 {
-  "date": "1985-08-14",
-  "place": "Sinis Wohnung, Vaasa",
+  "date": "1985-08-12",
+  "place": "Pizzaria in Vaasa",
   "synopsis": "Eddie erzählt Sini, wie ihr Vater trotz überragender Fähigkeiten im Schatten des Parteikarrieristen Radmer blieb.",
   "persons": [
     "Eddie",
@@ -70,4 +70,22 @@ Sini lacht trocken, aber nicht böse. „Also dein Vater ist das Herz. Und Radme
 die Maske."\ Sie schaut mich schief an, als wollte sie prüfen, ob ich es auch so
 empfinde. „Maske sind leichter zu zerreißen als Herzen, weißt du?"
 
-Ich spüre, dass sie es ernst meint, obwohl es wie ein Scherz klingt.
+Ich will noch etwas erwidern, vielleicht einen meiner altklugen Sprüche, aber da
+steht plötzlich der Kellner vor uns. Groß, kantiges Gesicht, die Stirn schon
+glänzend vom langen Abend. Er legt uns die Rechnung hin und sagt auf Finnisch
+ein paar Worte, die eindeutig nach „Feierabend“ klingen.
+
+„Rauswurf mit Stil“, murmelt Sini und schiebt ein paar Münzen auf den Teller.
+Ich kicher, obwohl meine Gedanken noch bei meinem Vater hängen.
+
+Wir ziehen die Jacken an, der Kellner löscht schon die Hälfte der Lichter. Als
+wir auf die Straße treten, umfängt uns die kühle Nachtluft, so klar und still,
+dass die letzten Worte von drinnen noch nachhallen.
+
+Maske und Herz. Radmer und mein Vater. Und irgendwo dazwischen: ich.
+
+Sini stupst mich an. „Na los, Herzmädchen. Heimweg, bevor er uns noch den Besen
+hinterherwirft.“
+
+Ich lache, diesmal frei, und wir gehen nebeneinander in die dunkle Straße
+hinaus.

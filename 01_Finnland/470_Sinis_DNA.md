@@ -58,10 +58,25 @@
 
 ```
 
-Ich bin allein. Schon wieder. Sini hat mich eindringlich ermahnt, die Füße
-weiterhin zu schonen. „Kein Schritt zum Terminal, verstanden?“ Also sitze ich
-hier, barfuß auf dem alten Holzboden, und lasse meinen Blick durch ihre süße
-kleine Wohnung wandern.
+Heute bin ich zuerst wach. Ich schleppe mich in die Küche, koche Kaffee, brate
+Rührei, decke den Tisch. Als Sini hereinkommt, bleibt sie stehen und zieht die
+Brauen hoch. „Na sowas.“ Sie setzt sich, nimmt den Kaffee, mustert meine Füße.
+Nur noch dünne Mullbinden, die Haut darunter blassrosa, nicht mehr entzündet.
+Sie nickt langsam. Dann legt sie den Löffel hin und sagt: „Heute kein Zettel. Du
+bist besser drauf. Heute erlaube ich Dir den ersten kleinen Spaziergang.
+Erinnerst Du Dich an die Bänke am Hafen“
+
+„Ja klar, warum?“
+
+„Sei so lieb und warte da so gegen halb sieben auf mich - Aber Kein Schritt zum
+Terminal, verstanden? Das ist viel zu weit!“ Sinis plötzliche Strenge ist nicht
+nur gespielt. Sie meint es ernst.
+
+„Ja Frau General!“ - Sini grinst und ist auch schon aus der Tür.
+
+Und ich bin wieder allein. Schon wieder. Sini hat mich eindringlich ermahnt, die
+Füße weiterhin zu schonen. Also sitze ich hier, barfuß auf dem alten Holzboden,
+und lasse meinen Blick durch ihre süße kleine Wohnung wandern.
 
 Jetzt erkenne ich die Dinge, die mir vorher nur wie Kram vorkamen: die
 geschnitzten Löffel mit bunten Bändern, die Muster, die ich für bloßes Gekritzel
@@ -107,3 +122,61 @@ Ich lehne mich zurück, betrachte mein Werk. Buntstiftspuren auf vergilbtem
 Papier, Ränder wie Landkarten einer langen Reise. Vielleicht ist es das schönste
 Geschenk, das ich je gemacht habe. Jetzt brauche ich nur noch einen Rahmen.
 Irgendwo in dieser Wohnung muss doch ein alter Bilderrahmen herumliegen…
+
+Am Abend schlüpfe ich dann wieder in meine schwarzen Bergschuhe. Zum ersten Mal
+seit über einer Woche wage ich es – meine Füße protestieren kaum noch, und doch
+hasse und liebe ich dieses einzige Paar Schuhe zugleich. Sie haben mich
+geschunden, aber auch getragen. Der Weg durch die Stadt fühlt sich fremd an, als
+wäre ich hier nie gewesen, obwohl ich schon so lange bleibe.
+
+Sini hat mir den Weg beschrieben, und tatsächlich: es ist leicht. Ich laufe
+langsam, nehme Rücksicht auf meine Füße. Erinnere mich an Sinis „keine Eile“.
+Die frische Abendluft tut mir gut. Laufen weil man möchte, nicht weil man muss.
+Als ich bei den Bänken ankomme, sehe ich schon ganz klein Sini über die Brücke
+laufen. Ihr blauer Iro wippt unverkennbar.
+
+Ich winke und setze mich auf schönste Holzbank am kleinen Stadthafen, genau
+dort, wo die Masten Linien in den Himmel zeichnen und die Leinen leise klacken.
+Das Wasser riecht nach Metall und Algen, nach etwas, das immer schon da war.
+Sini setzt sich neben mich, beide Hände um ihren Rucksackriemen, als würde sie
+eine heimliche Trommel halten.
+
+„Wie geht es dir?“ frage ich schnell zuerst. Sie lacht: „Joo, ihan jees.“ - „Ja,
+ganz okay. Und wie geht es Dir?“
+
+"Ich lebe Sini. Ich lebe. Ist das nicht wunderbar?" - „Joo, ihan jees.“ erwidert
+sie lachend.
+
+„Na, was soll ich dir heute kochen?“ frage ich und stoße sie spielerisch mit der
+Schulter an.
+
+„Heute kümmere ich mich ums Abendessen.“ Sie zieht mich weiter, in eine
+Pizzeria. Drinnen sind die Fenster beschlagen, der Boden klebt, die Luft riecht
+nach Oregano.
+
+Ich starre auf die Karte. Die Preise lassen mich schlucken. „Sini … das ist fast
+so viel wie ein Ticket für die Fähre.“
+
+Sie schaut in die Kerzenflamme, spielt mit dem Löffel. „Das ist was anderes.“
+Ihre Stimme klingt rau. Dann hebt sie den Kopf, legt eine Handbewegung in die
+Luft, fast wie eine Dozentin: „Du musst das lernen. Nicht nur rechnen. Nicht nur
+planen. Für deine Flucht musst du auch Menschen gewinnen. Busfahrer.
+Schalterleute. Leute, die Macht haben über deine Wege. Und manchmal …“ Sie
+stockt kurz, atmet aus. „… manchmal mit den Waffen einer Frau.“
+
+Mir rutscht der Magen tiefer als der Pizzaboden. „Ich?“ frage ich entsetzt. Sie
+nickt ernst. „Andere können das. Du musst es üben. Sonst bleibst du immer
+draußen.“
+
+Sie erklärt und erklärt, redet sich fast in Rage. Ich höre, wie sehr sie nicht
+will, dass ich gehe. Und ich weiß: Ich will das auch nicht. Aber sie hat recht.
+Ich werde Menschen brauchen, die mir Türen öffnen, die nicht von allein
+aufgehen. Flirten, lächeln, die kleinen Dinge, die anderen Mädchen leicht fallen
+und mir so schwer. Vielleicht kann Sini mir das beibringen.
+
+Die Pizza kommt. Ich koste und könnte weinen, so gut schmeckt sie. Ich schaue zu
+ihr. Sie schaut zurück. Zwischen uns liegt die Pizza – und all das, was wir
+nicht sagen.
+
+Dann lehnt sie sich vor, ihre Augen so ernst wie selten. „Eddie … warum hast du
+dich überhaupt entschlossen, aus der DDR zu fliehen?“
