@@ -34,7 +34,7 @@ Mir rutscht die Gabel aus der Hand. Sie hat’s durchschaut. Natürlich. Ich mer
 
 Sie winkt ab. „Hab’s mal gehört. Von einem Finnen, Laurila. Der hat solche Aufgaben erfunden. War beliebt bei den Mathe-Olympiaden.“ Sie sieht mich an, und da ist etwas zwischen Stolz und Vorsicht.
 
-Ich sitze da, den Löffel halb in der Luft. Also kennt sie nicht nur meine Flucht in Metaphern, sondern auch die Quelle – den Mathematiker. Mir dämmert, was für ein heller Geist da vor mir sitzt: halb Punk, halb Sami, ganz Sini. Und ich, die meinte, sie sei die einzige mit den Zahlen im Kopf.
+Ich sitze da, den Löffel halb in der Luft. Also kennt sie nicht nur meine Flucht in Metaphern, sondern auch die Quelle – den Mathematiker. Mir dämmert, was für ein heller Geist da vor mir sitzt: halb Punk, halb Sámi, ganz Sini. Und ich, die meinte, sie sei die einzige mit den Zahlen im Kopf.
 
 Sie stößt mich mit der Schulter an. „Na los, probier. Ich hab Hunger.“
 

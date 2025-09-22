@@ -43,7 +43,7 @@ kein freundlicher Besuch an.
 Sini stolpert, wirkt ertappt, versucht zu lächeln. Doch es ist ein hilfloses
 Lächeln. Die beiden sprechen miteinander, Worte, die an mir vorbeirauschen, aber
 die Spannung liegt so dicht in der Luft, dass ich sie körperlich spüren kann.
-Ist es Sinis Vater? Im Gegensatz zu ihrer Mutter trägt er kein Sami-Erbe in
+Ist es Sinis Vater? Im Gegensatz zu ihrer Mutter trägt er kein Sámi-Erbe in
 sich, doch an Strenge fehlt es ihm nicht. Seine Stirn ist hart gefurcht, seine
 Augen blitzen, während Sini kleiner wirkt, fast wie ein Kind.
 

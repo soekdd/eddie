@@ -62,7 +62,7 @@ Wir essen, reden über alles Mögliche: über die Fähre, die wegen Nebel versp�
 war, über die Nachbarin, die immer dieselbe Schürze trägt, über Seen, die
 angeblich so klein sind, dass man sie im Sommer mit einem einzigen Schritt
 überspringen kann. Ich schaue sie an und denke: Da ist so viel mehr in ihr.
-Punk, Sami, Biologie, Mathematik – alles in einem Körper, der gerade Auflauf
+Punk, Sámi, Biologie, Mathematik – alles in einem Körper, der gerade Auflauf
 schaufelt, als gäbe es kein Morgen.
 
 Später falte ich den Zettel, stecke ihn zu den anderen. Sie riechen inzwischen

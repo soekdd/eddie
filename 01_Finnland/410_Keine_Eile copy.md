@@ -5,6 +5,8 @@
   "title": "Keine Eile – Frühstück, Mutprobe & Hafenbank",
   "chapter_id": "FIN_Vaasa_Tag1_Fruehstueck_und_Hafenbank",
   "date": "1985-08-07",
+  "date_from": "1985-08-03",
+  "date_to": "1985-08-05",
   "tense": "present",
   "pov": "Eddie, first-person",
   "mode": "mainline",
@@ -100,11 +102,122 @@ Sie prüft die Verbände die ich mit zittigen Fingern angelegt habe. „Das mach
 mal neu. Medizin genommen?“ Wieder in Nicken. „Braves Mädchen!“ Ein Lächeln.
 
 Am Abend kann ich wieder sitzen. Ich schlucke Tee, schlucke Tabletten, die sie
-mir reicht.  „Aber jetzt erzähl mir bitte deine Geschichte“, sagt sie schließlich.
-Keine große Geste, nur der Ton einer Tür, die aufgeht.
+mir reicht. Mein Körper beruhigt sich, aber mein Kopf nicht. Immer wieder denke
+ich, dass es draußen an der Tür klopfen wird. Dass jemand kommt, mich abholt,
+zurückbringt. Ich sehe Schatten, wo keine sind. Sini merkt es. Sie setzt sich
+neben mich aufs Sofa, legt den Arm um mich, so fest, dass der Raum kleiner wird.
+„Ei ole ketään“, sagt sie. Niemand ist da. Nur sie.
+
+Ich murmele etwas, halb im Delirium: „Jetzt weiß ich, warum ich weitergegangen
+bin… obwohl Vaasa… nur eine Sackgasse ist. Weil… du hier bist.“ Sini lacht
+leise, als hätte ich einen komischen Fiebertraum geteilt, versteht nicht alles.
+Aber in ihrem Blick liegt ein kurzes Blitzen, als ahnte sie doch, was ich sagen
+wollte.
+
+Ihre Nähe erdet mich. Wärme gegen Kälte, Ruhe gegen Stimmen. Ich sinke
+irgendwann in ihren Arm, und das Schwarz ist diesmal kein Absturz, sondern ein
+Schlaf.
+
+Der nächste Morgen riecht nach Kaffee. Ich kann aufrecht sitzen, der Kopf ist
+noch schwer, aber nicht mehr brennend. „Es geht mir besser“, sage ich zu Sini,
+als sie aus der Küche kommt. „Du musst die Schichten nicht mehr tauschen.“
+
+Sie hebt die Augenbrauen. „Sicher?“ – Ich nicke. Sie zögert, dann: „Na gut. Dann
+bin ich wieder bis achtzehn Uhr im Terminal.“
+
+Ich lächle schwach. „Dann hab ich ja Zeit, brav zu sein.“ Sie lacht, hebt im
+Spaß wie eine strenge Lehrerin den Zeigefinger. „Wir werden sehen.“
+
+Als sie geht, bleibt die Wohnung wie eine geöffnete Hand zurück. Ich stehe, noch
+wacklig, aber auf meinen eigenen Beinen. Diesmal gehe ich allein in die Dusche.
+Warmes Wasser, das mich nicht mehr erschlägt, sondern trägt. Seife mit Zitrus,
+die nicht nur reinigt, sondern erzählt: dass Körper wieder Menschen werden
+können.
+
+Und während ich das Wasser abstelle, fasse ich still den Entschluss: Heute Abend
+werde ich Sini abholen. Nicht, um wegzugehen, sondern um hinzugehen.
+
+Der Morgen riecht nach Kaffee und wärmt schon, bevor ich trinke. Sini stellt
+eine Tüte frischer Brötchen auf den Tisch, der Beutel beschlägt innen vom Dampf.
+Butter, Käse, Marmelade. Ich bin verlegen und hungrig zugleich. Der erste Biss
+ist ein kleines Paradies – Kruste, die knackt, Krume, die nach Ofen klingt. Ich
+schließe die Augen, weil ich sonst weinen könnte, und Sini tut so, als sähe sie
+nur jemanden frühstücken.
+
+„Arbeit,“ sagt sie und tippt auf ihre Uhr. Ich nicke und sage sofort, schneller
+als mein Herz: „Ich komme mit. Busfahrer fragen. Überzählige Tickets.“ Ich
+versuche, entschlossen zu klingen, nicht bittend.
+
+Sini schüttelt den Kopf, langsam, als streiche sie ein Tier in mir, das
+weglaufen will. „Ei kiirettä“, sagt sie, keine Eile. „Du musst dich erholen.“ –
+„Ich kann nicht auf deine Kosten leben“, werfe ich ein, und es klingt wie eine
+Ausrede, die sich als Pflicht tarnt. Sini lacht leise, als hätte ich einen
+Kinderwitz erzählt. „Was soll eine silakka schon kosten?“ Sie wischt mit dem
+Finger über ihre blaue Strähne. „Dünner Ostseehering. So sagen wir.“ Ich lache
+mit, klein, aber zum ersten Mal ohne schlechtes Gewissen. „Keine Widerworte“,
+fügt sie hinzu. „Bleib.“
+
+Ich schlucke, dann kommt es heraus: „Dann hol ich dich dort ab.“
+
+„Kommt gar nicht in Frage.“ Ihr Ton ist streng, ihr Blick weich. „Die Füße, die
+Verbände – alles würde wieder aufreißen. Kein Terminal.“
+
+„Aber ich bin seit Wochen jeden Tag gelaufen!“ Ich höre selbst, wie es klingt:
+eine Mischung aus Jammern und Trotz. „Ich halte das Nichtstun nicht aus. Ich
+muss raus, wenigstens ein Stück.“
+
+Sini überlegt kurz, dann lehnt sie sich gegen den Küchentisch. „Weißt du noch
+die Bänke am Hafen?“
+
+Ich nicke.
+
+„Da. Um halb sieben. Nicht weiter. Nicht zum Terminal, nicht zur Brücke. Nur die
+Bank.“
+
+Es klingt wie eine Probe, die sie mir stellt. Ich nicke wieder, diesmal fester.
+
+Als sie weg ist, bleibt die Wohnung wie eine ausgestreckte Hand. Ich räume die
+Tassen, spüle, suche mir Aufgaben, damit ich nicht nur atme. Diesmal gehe ich
+allein in die Dusche. Warmes Wasser, das mich nicht mehr erschlägt, sondern
+trägt. Seife mit Zitrus, die nicht nur reinigt, sondern erzählt: dass Körper
+wieder Menschen werden können. Dann wasche ich meine Wäsche – und gleich Sinis
+mit, weil Tun besser ist als Danken. Ich hänge die Sachen auf, als baute ich ein
+kleines Segelwerk in ihrem Wohnzimmer. Das Bad putze ich, fast schon manisch, um
+dem Gefühl der Dankbarkeit etwas Handfestes entgegenzustellen.
+
+Zwischendurch kippt die Welt kurz nach hinten, Schwarz an den Rändern, und ich
+sitze schon, bevor ich falle. Der Mittagsschlaf überfällt mich wie eine Decke,
+die jemand vom Schrank holt und ohne Worte über mich legt. Als ich hochfahre,
+steht die Uhr auf fast sechs Uhr, vier Stunden weiter, die Luft ist klarer, und
+in meinem Kopf ist endlich zur Ruhe gekommen.
+
+Ich denke an Sini, erinnere mich an den Weg. Ich ziehe meine Schuhe an, prüfe
+die Verbände, atme durch. Dann gehe ich los. Anders als in Jyväskylä ignoriere
+ich diesmal bewusst den Rat meines Vaters: Gehe nie ohne dein Gepäck. Nein,
+diesen alten nassen Rucksack setze ich so schnell nicht wieder auf.
+
+Ich laufe langsam, nehme Rücksicht auf meine Füße. Erinnere mich an Sinis „keine
+Eile“. Die frische Abendluft tut mir gut. Laufen weil man möchte, nicht weil man
+muss. Als ich bei den Bänken ankomme, sehe ich schon ganz klein Sini über die
+Brücke laufen. Ihr blauer Iro wippt unverkennbar.
+
+Ich winke und setze mich auf schönste Holzbank am kleinen Stadthafen, genau
+dort, wo die Masten Linien in den Himmel zeichnen und die Leinen leise klacken.
+Das Wasser riecht nach Metall und Algen, nach etwas, das immer schon da war.
+Sini setzt sich neben mich, beide Hände um ihren Rucksackriemen, als würde sie
+eine heimliche Trommel halten.
+
+„Wie geht es dir?“ frage ich schnell zuerst. Sie lacht: „Joo, ihan jees.“ - „Ja,
+ganz okay. Und wie geht es Dir?“
+
+"Ich lebe Sini. Ich lebe. Ist das nicht wunderbar?" - „Joo, ihan jees.“ erwidert
+sie lachend.
+
+„Aber jetzt erzähl mir bitte deine Geschichte“, sagt sie schließlich. Keine
+große Geste, nur der Ton einer Tür, die aufgeht.
 
 Ich atme durch und fange an. In meiner Vorstellung liegen meine Schritte ewig
-zurück, obwohl es nur 4 Wochen sind: Edmilla – die albernen Bänder im Haar, die
+zurück, obwohl es nur 4 Wochen sind: Edmila – die albernen Bänder im Haar, die
 Wendejacke. Joutsa – der Wettkampf, die Toilette, der Geruch von Schuhcreme,
 Maria in der Kirche, die Polizisten, die Stasi-Männer mit den kalten Augen.
 Raija – der Wagen bei Nacht, Jyväskylä, Jorma wie eine Abrissbirne. Dann die
@@ -172,6 +285,20 @@ sein; der Feministin ist, ohne das Wort zu tragen wie ein Schild; jemand der
 „keine Eile“ sagt und doch immer dann da ist, wenn die Füße schwach werden. Eine
 Freundin, die nicht fragt, ob sie darf – sondern ob ich will.
 
+„Diese Bank“, sage ich, „könnte unserer Platz sein.“ Es klingt so feierlich,
+dass ich lachen muss.
+
+„Abgemacht.“ Sini klopft mit der Faust zweimal auf die Sitzlatte, als würden wir
+Holz einweihen. „Hierher kommen wir zurück, wenn die Welt zu groß wird – und
+wenn sie zu klein wird auch.“
+
+Wir sitzen noch, bis das Licht sich aus dem Wasser zurückzieht und die ersten
+Fenster in der Stadt wie Sterne angehen. Sini erzählt von ihrer Mutter, dem
+Sommer oben im Norden, vom Wind, der die Sprache wechselt, je nachdem, wen er
+trifft. Ich erzähle, wie Mathe mich aus einem Moorraster zurück auf die Karte
+getragen hat. Unsere Sätze schieben sich ineinander wie zwei Boote, die
+nebeneinander im gleichen Takt schaukeln.
+
 „Morgen“, sagt Sini schließlich, „kein Heldinnentum. Kaffee. Verbände.
 Vielleicht eine kurze Runde in der Stadt. Und wenn du ganz brav bist, reden wir
 in ein paar Tagen mit echten Busfahrern.“
@@ -179,7 +306,8 @@ in ein paar Tagen mit echten Busfahrern.“
 „Ich bin nie brav“, sage ich, und wir grinsen so breit, dass das Hafenwasser
 zurückgrinst.
 
-Als wir zu Bett gehen, weiß ich: Die ist der Ort, an dem eine Kette schlechter Entscheidungen sich in eine
+Als wir aufstehen, weiß ich: Wir werden hierher zurückkehren. Zu der Bank, die
+jetzt unser Ort, an dem eine Kette schlechter Entscheidungen sich in eine
 Geschichte von Mut verwandelt. Sini streift meinen Arm, nicht zufällig, nicht
 absichtlich – genau dazwischen. „Komm“, sagt sie. „Keine Eile.“ Und zum ersten
 Mal fühlt sich dieses „keine Eile“ nicht nach Stillstand an, sondern nach

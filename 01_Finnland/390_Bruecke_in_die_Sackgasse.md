@@ -7,7 +7,7 @@
   "seq_range": ["18", "23"],
   "date": "1985-07-29",
   "date_from": "1985-07-29",
-  "date_to": "1985-08-03",
+  "date_to": "1985-08-04",
   "tense": "present",
   "pov": "Eddie, first-person",
   "mode": "mainline",

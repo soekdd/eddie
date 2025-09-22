@@ -2,8 +2,8 @@
 
 ```json
 {
-  "date": "1985-08-05",
-  "daytime": "evening-night-next day",
+  "date": "1985-08-06",
+  "daytime": "day",
   "place": "Sini Wohnung, Vaasa",
   "persons": [
     "Eddie",
@@ -17,7 +17,7 @@
 }
 ```
 
-Ich wache wieder auf. Die Wohnung ist klein und mollig gemütlich. Es riecht nach Tee und Seife. Gardinen filtern das Licht weich, ein Poster hängt schief, daneben eine gestrickte bunte Borte, vermutlich irgendeine finnische Folklore. Alles ist einfach, aber warm.
+Ich wache wieder auf. Die Wohnung ist klein und mollig gemütlich. Es riecht nach Kaffee und Seife. Gardinen filtern das Licht weich, ein Poster hängt schief, daneben eine gestrickte bunte Borte, vermutlich irgendeine finnische Folklore. Alles ist einfach, aber warm.
 
 Sie hat das Sofa an die Wand geschoben, eine kleine Lampen an die Ecke geklemmt, so dass das Licht schräg über mein Gesicht fällt. Ein Handtuch liegt gefaltet auf dem Sessel, ein Paar saubere Socken — größer als nötig — auf dem Tisch. Es ist eine Wohnung, die funktioniert: ein paar Haken, ein Regal, kleine Vorräte, nichts Überflüssiges. Alles wirkt, als hätte es seinen Platz.
 
@@ -46,8 +46,11 @@ Ich wache richtig auf, als es schon Abend ist. Die Luft ist kühler. Mein Kopf f
 
 Sini beugt sich über mich, legt die Hand an meine Stirn, zählt still bis fünf.
 „Suihkuun nyt,“ sagt sie schließlich, ruhig wie ein Beschluss. Dann auf Englisch, für mich: „Shower.“
-Bevor ich protestieren kann, kniet sie sich schon an meine Füße, löst behutsam die Verbände, prüft jede Stelle mit dem Blick einer Mechanikerin, die ihr Werkzeug kennt. „First off, then water, then new,“ murmelt sie, mehr zu sich als zu mir. Sie stützt mich hoch, ein Arm um meine Taille, der andere greift nach dem Handtuch. Ich lasse mich führen. Im Bad angekommen zieht sie mir meine Sachen aus und führt mich in ihre Duschkabine.
-Unter dem Wasserstrahl löst sich Schmutz von der Haut. Ich lehne mich gegen die Fliesen, während sie meine Haare einseift. Danach trocknet sie mich ab, legt mich wieder auf das Sofa und verbindet die Füße neu. Ihre Finger sind sicher, der Druck fest, aber nie zu fest. Die neuen Verbände fühlen sich an wie Versprechen.
+Bevor ich protestieren kann, kniet sie sich schon an meine Füße, löst behutsam die Verbände, prüft jede Stelle mit dem Blick einer Mechanikerin, die ihr Werkzeug kennt. „First off, then water, then new,“ murmelt sie, mehr zu sich als zu mir. Sie stützt mich hoch, ein Arm um meine Taille, der andere greift nach dem Handtuch. Ich lasse mich führen. Im Bad angekommen zieht sie mir das Shirt über den Kopf und führt mich in ihre Duschkabine.
+
+Das Wasser ist warm, aber mein Körper zittert, als stünde ich unter Eis. Ich lehne gegen die Fliesen, während sie die Seife auf meine Haut schäumt. „Mücken“, sagt sie knapp, als sie die roten Kratzer an meinen Armen sieht. Ich nicke, heiser. Blut an den Fingernägeln, Wunden, die nicht heilen wollen.
+
+Danach trocknet sie mich ab, legt mich wieder auf das Sofa und verbindet die Füße neu. Ihre Finger sind sicher, der Druck fest, aber nie zu fest. Die neuen Verbände geben mir Sicherheit. Auch auf den kleinen Wunden an den Armen und Beiden rägt sie Creme auf, tupft, pustet manchmal, fast automatisch. Und dann zieht sie mir frische Sachen an, ihre eigenen, viel zu weit. Ich bin etwas größer als sie, aber so dünn, dass die Sachen an mir hängen wie Segel. Im Spiegel erkenne ich mich kaum wieder.
 
 Aber in der Nacht kommt das Fieber zurück.
 Wieder halluziniere ich, sehe Fähren im Wohnzimmer, höre fremdes Lachen. Ich lache zurück, schwanke, falle fast. Dann zieht sie mich dichter, hält mich fest.
@@ -60,5 +63,3 @@ wollte.
 Ihre Nähe erdet mich. Wärme gegen Kälte, Ruhe gegen Stimmen. Ich sinke
 irgendwann in ihren Arm, und das Schwarz ist diesmal kein Absturz, sondern ein
 Schlaf.
-
-

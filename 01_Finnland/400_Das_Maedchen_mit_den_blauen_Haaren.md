@@ -2,7 +2,7 @@
 
 ```json
 {
-  "date": "1985-08-04",
+  "date": "1985-08-05",
   "daytime": "evening-night",
   "place": "Fährterminal Vaasa, später Sini Wohnung",
   "persons": [
@@ -35,7 +35,7 @@ Sie verschwindet in die kleinen Kaffeeküche, klappert mit Tassen und einem Topf
 
 „Schuhe,“ sagt sie. Ich will protestieren, aber sie ist schneller. Schnürsenkel lösen, nasse Laschen zurück, das Leder klebt an der Haut. Darunter kommen zwei Füße zum Vorschein, die nicht mir gehören können: aufgequollen, röter als sie sein sollten, an den Fersen offene Stellen, an den Zehen Blut, das sich mit Schmutz verbündet hat. Ich ziehe die Luft ein. Sie reagiert nicht mit Mitleid, sondern mit Tempo. Sani-Kasten auf, sterile Kompressen, eine Salbe, deren Geruch ich aus der Schulzeit kenne. Ihre Hände arbeiten ruhig, fest, entschlossen. „Nicht schön,“ sagt sie und schaut mich dabei an, nicht die Wunden. „Aber wird.“
 
-Ich atme durch, das Blut rauscht endlich leiser. Die Suppe ist verschwunden, der Kaffee zur Hälfte, mein Kopf ist innen aufgeräumter als vorhin. Das Mädchen mit den blauen Haaren lächelt zögerlich. „Ich bin Sini,“ sagt sie dann. „Heißt blau.“ Sie tippt auf ihr Haar. „Zumindest Finnen merken sich das.“
+Ich atme durch, das Blut rauscht endlich leiser. Die Suppe ist verschwunden, der Kaffee zur Hälfte, mein Kopf ist innen aufgeräumter als vorhin. Das Mädchen mit den blauen Haaren lächelt zögerlich. „Ich bin Sini,“ sagt sie dann. „Heißt blau.“ Sie tippt auf ihr Haar. „Zumindest Finnen können sich das leicht merken.“
 
 Ich muss lachen – nur ein kleines Geräusch, aber es ist meins. „Edda,“ setze ich an. „Eddie.“ Ich will noch etwas sagen, vielleicht eine Version von mir, die weniger kaputt klingt. Sie hebt die Hand, nicht abwehrend, eher freundlich unterbrechend.
 
@@ -69,7 +69,7 @@ Der Mann trägt mich hinaus in einen kleinen Shuttlebus. Kein richtiger Reisebus
 
 „Auf die Fähre?“ murmele ich, kaum hörbar. So schnell? Wo ist das Schiff?
 
-Sini kniet vor mir, legt die Hand auf meine Stirn. Ich höre ihr Atemgeräusch, aber ihre Worte gehen im Fieber unter.
+Sini legt die Hand auf meine Stirn. Ich höre ihr Atemgeräusch, aber ihre Worte gehen im Fieber unter.
 
 Die Fahrt wird zum Traum. Häuser gleiten vorbei. Ich schreie, weil ich denke, das Meer müsse da sein, doch es sind nur Dächer. Schon Schweden? Wie lange habe ich geschlafen? Muss ich raus, gleich raus aus dem Bus?
 
