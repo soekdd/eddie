@@ -59,8 +59,8 @@ Die Spieltheorie war eindeutig: Selbst wenn die Chancen gering sind, gewinnt am
 Ende die große Zahl an Versuchen. Und ich hatte in den letzten Wochen -- ob
 bewusst oder aus Bequemlichkeit -- verdammt viele Versuche einfach verfallen
 lassen. Jetzt musste mich die Statistik retten. Denn jetzt nehme ich die Sache
-ernst und mache ich es für Sini. Und wenn ich mich für Sini ins Zeug lege,
-dann richtig.
+ernst und mache ich es für Sini. Und wenn ich mich für Sini ins Zeug lege, dann
+richtig.
 
 Die Mission beginnt am Morgen vor Sinis Kleiderschrank. Sie hat mir schon ewig
 angeboten, mir etwas „Heißes" -- Originalzitat -- auszusuchen. Heute bin ich
