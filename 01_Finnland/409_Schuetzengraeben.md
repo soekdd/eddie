@@ -47,9 +47,9 @@ Ich wache richtig auf, als es schon Abend ist. Die Luft ist kühler. Mein Kopf f
 Sini beugt sich über mich, legt die Hand an meine Stirn, zählt still bis fünf.
 „Suihkuun nyt,“ sagt sie schließlich, ruhig wie ein Beschluss. Dann auf Englisch, für mich: „Shower.“
 Bevor ich protestieren kann, kniet sie sich schon an meine Füße, löst behutsam die Verbände, prüft jede Stelle mit dem Blick einer Mechanikerin, die ihr Werkzeug kennt. „First off, then water, then new,“ murmelt sie, mehr zu sich als zu mir. Sie stützt mich hoch, ein Arm um meine Taille, der andere greift nach dem Handtuch. Ich lasse mich führen. Im Bad angekommen zieht sie mir meine Sachen aus und führt mich in ihre Duschkabine.
-Unter dem Wasserstrahl löst sich Schmutz von der Haut. Ich lehne mich gegen die Fliesen, während sie meine Haare einseift. Danach trocknet sie mich ab, legt mich wieder auf das Sofa und verbindet die Füße neu. Ihre Finger sind sicher, der Druck fest, aber nie brutal. Die neuen Verbände fühlen sich an wie Versprechen.
+Unter dem Wasserstrahl löst sich Schmutz von der Haut. Ich lehne mich gegen die Fliesen, während sie meine Haare einseift. Danach trocknet sie mich ab, legt mich wieder auf das Sofa und verbindet die Füße neu. Ihre Finger sind sicher, der Druck fest, aber nie zu fest. Die neuen Verbände fühlen sich an wie Versprechen.
 
-In der Nacht kommt das Fieber zurück.
+Aber in der Nacht kommt das Fieber zurück.
 Wieder halluziniere ich, sehe Fähren im Wohnzimmer, höre fremdes Lachen. Ich lache zurück, schwanke, falle fast. Dann zieht sie mich dichter, hält mich fest.
 Ich murmele etwas, halb im Delirium: „Jetzt weiß ich, warum ich weitergegangen
 bin… obwohl Vaasa… nur eine Sackgasse ist. Weil… du hier bist.“ Sini lacht
