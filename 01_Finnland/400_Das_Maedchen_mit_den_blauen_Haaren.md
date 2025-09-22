@@ -1,4 +1,4 @@
-# Das Mädchen mit den blauen Haaren # Fieberträume im Terminal
+# Das Mädchen mit den blauen Haaren
 
 ```json
 {
@@ -15,9 +15,7 @@
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline"
 }
-
-
----
+```
 
 Regen trommelt gegen die Fenster. Jemand zieht mir die Decke bis an die Schultern, und ich blinzle ins milchige Licht des Morgens. Mein Kopf ist nicht mehr brennend, nur schwer. Neben mir hockt sie – das Mädchen mit den blauen Haaren. Sie ist immer noch da. Ihre Augen fragen, bevor sie spricht.
 
