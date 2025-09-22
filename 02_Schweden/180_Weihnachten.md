@@ -130,8 +130,8 @@ Wir sitzen im Wohnzimmer, nur die Familie, der Baum im Kerzenlicht. Es knistert
 leise im Kamin. Ich halte den kleinen Papierstern in der Hand, so zerbrechlich,
 dass er mir fast zu leicht vorkommt. Meine Knie wackeln vor Nervosität.
 
-„Ich… ich hab auch etwas," sage ich stockend. Alle schauen zu mir. Ich atme
-tief durch, halte den Stern hoch. „Für euren Baum."
+„Ich… ich hab auch etwas," sage ich stockend. Alle schauen zu mir. Ich atme tief
+durch, halte den Stern hoch. „Für euren Baum."
 
 Einen Moment lang ist es ganz still. Dann nimmt Vidars Mutter ihn vorsichtig
 entgegen. Sie dreht ihn im Licht, der Alufolienstern glänzt unregelmäßig,
@@ -278,8 +278,8 @@ wollen, dass ich ohne Streuner einziehe… dann geht das nicht."
 
 Er bleibt stehen, sieht mich an, als hätte ich ihm gerade den Boden weggezogen.
 „Eddie… bitte. Weißt du überhaupt, was sie dir angeboten haben? Ein Zuhause.
-Sicherheit. Alles, wovor du seit Monaten wegrennst. Und du willst das
-aufgeben… wegen eines Hundes?"
+Sicherheit. Alles, wovor du seit Monaten wegrennst. Und du willst das aufgeben…
+wegen eines Hundes?"
 
 Seine Stimme klingt härter, als ich es je von ihm gehört habe. Fast ein Vorwurf.
 Ich zucke zurück, als hätte er mich geschlagen.
@@ -297,8 +297,8 @@ ihn nicht verraten. Nicht jetzt, nicht jemals."
 Für einen Moment starren wir uns nur an. Schnee fällt leise zwischen uns, als
 wollte er die Stille noch dicker machen.
 
-Dann atmet Vidar tief aus, seine Schultern sacken. „Verdammt, Eddie…" Er
-klingt nicht mehr hart, eher verletzt. „Du bringst mich in eine unmögliche Lage.
+Dann atmet Vidar tief aus, seine Schultern sacken. „Verdammt, Eddie…" Er klingt
+nicht mehr hart, eher verletzt. „Du bringst mich in eine unmögliche Lage.
 Zwischen dir und meinen Eltern."
 
 Ich trete einen Schritt auf ihn zu, lege meine Hand an seine Wange. „Ich will
@@ -352,8 +352,8 @@ darf. Aber es ist auch nicht nichts.
 vorsichtig.
 
 Vidar nickt. „Ich kann mit ihnen reden. Es ist ein Kompromiss. Kein Sofa, kein
-Teppich… aber sicher. Er wäre nah bei dir, und meine Eltern müssten keine
-Angst haben, dass ein Hund ihre Wohnung zerstört."
+Teppich… aber sicher. Er wäre nah bei dir, und meine Eltern müssten keine Angst
+haben, dass ein Hund ihre Wohnung zerstört."
 
 Ich sehe zu Streuner, der gerade mit der Nase tief im Schnee steckt, als würde
 er nach verborgenen Schätzen graben. Er schaut auf, seine Schnauze ganz weiß,
@@ -436,8 +436,8 @@ hielte ich mich daran fest, nicht fortzuschwimmen.
 Ihr Gesicht verändert sich. Erst Verwunderung, dann etwas anderes --
 Nachdenklichkeit, vielleicht sogar Wehmut.
 
-Ich setze mich langsam auf. „Ich… wollte nicht stören," stammele ich. „Aber
-wenn er nicht rein darf, dann… dann will ich bei ihm sein."
+Ich setze mich langsam auf. „Ich… wollte nicht stören," stammele ich. „Aber wenn
+er nicht rein darf, dann… dann will ich bei ihm sein."
 
 Sie antwortet nicht sofort. Nur ein leises Seufzen entweicht ihr, während sie
 uns ansieht.
@@ -485,9 +485,9 @@ verstanden, was ihm bevorsteht.
 „Dann wird er sich daran gewöhnen," sagt sie bestimmt. „Ein Hund in dieser
 Familie läuft nicht nackt durch die Gegend."
 
-Mir bleibt der Mund offen stehen. „Aber… das kostet doch alles Geld!
-Impfungen, Versicherung, Steuer…" Allein die Wörter klingen wie Mauern, die
-ich nie überwinden kann.
+Mir bleibt der Mund offen stehen. „Aber… das kostet doch alles Geld! Impfungen,
+Versicherung, Steuer…" Allein die Wörter klingen wie Mauern, die ich nie
+überwinden kann.
 
 „Darum kümmern *wir* uns," sagt sie knapp, ihre Augen fest auf mich gerichtet.
 „Aber er wird offiziell angemeldet, und zwar ordentlich. Mit Versicherung und

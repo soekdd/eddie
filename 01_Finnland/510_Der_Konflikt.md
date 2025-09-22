@@ -171,8 +171,8 @@ Stimme ist rau, vorsichtig.
 Ich sehe nicht hoch. „Morgen."
 
 Sie geht zum Wasserhahn, lässt es laufen, trinkt direkt aus einem Glas. Das
-Geräusch von Schlucken und dem Glas auf Spüle hallt viel zu laut. „Ich…
-also…" Sie atmet hörbar aus. „Wegen gestern Abend…"
+Geräusch von Schlucken und dem Glas auf Spüle hallt viel zu laut. „Ich… also…"
+Sie atmet hörbar aus. „Wegen gestern Abend…"
 
 Ich lege die Tasse ab, meine Finger sind kalt. „Wegen gestern Abend…" äffe ich
 sie wütend nach. Meine Stimme zittert, aber nicht vor Angst. Eher vor Wut und
@@ -191,8 +191,8 @@ Sini zuckt zusammen, als hätte ich sie geohrfeigt. „Ich weiß. Ich hab's kapu
 gemacht. Ich wollte nie… dich so fühlen lassen. Vor allem nicht dich."
 
 „Du redest immer von Feminismus, davon, dass Frauen stark und frei sein sollen."
-Meine Stimme wird lauter, ich kann nicht anders. „Aber gestern Nacht… da war
-ich für dich nicht stark oder frei. Da war ich nur… ein Körper."
+Meine Stimme wird lauter, ich kann nicht anders. „Aber gestern Nacht… da war ich
+für dich nicht stark oder frei. Da war ich nur… ein Körper."
 
 Sie starrt auf den Tisch, die Finger krallen sich ins Holz. „Ich schäme mich.
 Ich habe das alles verraten, woran ich eigentlich glaube. Du bist mir wichtig,
@@ -203,8 +203,8 @@ Person, die mich nicht auf irgendwas reduziert. Nicht auf meine Herkunft, nicht
 auf mein Alter, nicht auf meinen Körper."
 
 Sini hebt den Kopf, ihre Augen sind glasig. „Ich will wieder diese Person für
-dich sein. Ich weiß nicht, ob ich's gleich schaffe, aber… ich will's
-versuchen. Und du darfst mir das nicht durchgehen lassen, nie wieder."
+dich sein. Ich weiß nicht, ob ich's gleich schaffe, aber… ich will's versuchen.
+Und du darfst mir das nicht durchgehen lassen, nie wieder."
 
 Die Wut in mir ist immer noch da, aber sie ist kleiner geworden. Vielleicht,
 weil ihre Stimme so bricht. Vielleicht, weil ich ihr glauben will. „Okay. Aber
@@ -349,8 +349,8 @@ erzählen? Aber versprich mir, dass du nicht gleich Mitleid hast."
 
 Sie zieht die Augenbrauen zusammen, nickt langsam. „Versprochen."
 
-Ich atme tief ein. „In der DDR ist Vertrauen… keine Option. Zumindest nicht
-für Leute wie mich."
+Ich atme tief ein. „In der DDR ist Vertrauen… keine Option. Zumindest nicht für
+Leute wie mich."
 
 „Leute wie dich?"
 
@@ -364,8 +364,8 @@ Sini lehnt sich zurück, sagt nichts, und ich bin dankbar dafür.
 „In der Schule war's genauso", fahre ich fort. „Ich war gut in Mathe, hab oft
 die Jungs überholt. Aber das hat mich nicht beliebt gemacht. Lehrer haben mir
 gesagt, ich soll mich nicht so hervortun. Bei meinen Großeltern hieß es, Mädchen
-sollen still und bescheiden sein. Das ist so tief drin… dass ich manchmal
-nicht mal mir selbst traue."
+sollen still und bescheiden sein. Das ist so tief drin… dass ich manchmal nicht
+mal mir selbst traue."
 
 Ich merke, dass meine Stimme brüchig wird. „Deshalb war gestern Nacht… so
 schlimm. Nicht nur wegen dem, was passiert ist. Sondern weil ich dich zu den
@@ -376,8 +376,8 @@ verhindern, mich zu berühren. „Und genau das will ich sein. Die, bei der du
 nicht aufpassen musst."
 
 Ich nicke, starre auf die Beeren in meiner Schüssel. „Aber du musst wissen: Wenn
-das Vertrauen einmal reißt… in meinem Kopf dauert's ewig, bis es wieder hält.
-In der DDR… wenn du's verlierst, bist du erledigt."
+das Vertrauen einmal reißt… in meinem Kopf dauert's ewig, bis es wieder hält. In
+der DDR… wenn du's verlierst, bist du erledigt."
 
 Sie atmet tief aus. „Dann lass mich dir beweisen, dass es hält. Egal wie lange
 es dauert."
@@ -419,8 +419,7 @@ Annäherung, kein Druck. Nur Raum. Und Wärme.
 
 „Hm?" Sie schaut auf.
 
-„Das… was du gerade machst… so normal sein… das ist mehr wert, als du
-glaubst."
+„Das… was du gerade machst… so normal sein… das ist mehr wert, als du glaubst."
 
 Sie lächelt schwach. „Normal sein kann ich ziemlich gut, wenn ich will."
 

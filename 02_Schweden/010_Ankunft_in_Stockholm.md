@@ -65,8 +65,8 @@ diesem Schutz. Aber wir müssen. Sie sieht die Angst in meinen Augen, nickt nur
 leicht und drückt meine Hände noch einmal. „Geh, kleine Eddie. Sei vorsichtig,
 und komm zurück, wenn alles vorbei ist."
 
-Ich kann die Tränen kaum zurückhalten. „Ich… danke dir… für alles."\ „Du
-hast nichts zu danken", sagt sie und lächelt dabei so, dass die Wärme durch den
+Ich kann die Tränen kaum zurückhalten. „Ich… danke dir… für alles."\ „Du hast
+nichts zu danken", sagt sie und lächelt dabei so, dass die Wärme durch den
 kalten Bahnhof zieht. „Nur geh, jetzt. Ich sehe dich wieder."
 
 Ich umarme sie ein letztes Mal, viel länger, als es nötig wäre. Meine

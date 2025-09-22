@@ -59,8 +59,8 @@ Die Spieltheorie war eindeutig: Selbst wenn die Chancen gering sind, gewinnt am
 Ende die große Zahl an Versuchen. Und ich hatte in den letzten Wochen -- ob
 bewusst oder aus Bequemlichkeit -- verdammt viele Versuche einfach verfallen
 lassen. Jetzt musste mich die Statistik retten. Denn jetzt nehme ich die Sache
-ernst. Jetzt mache ich es für Sini. Und wenn ich mich für
-Sini ins Zeug lege, dann richtig.
+ernst. Jetzt mache ich es für Sini. Und wenn ich mich für Sini ins Zeug lege,
+dann richtig.
 
 Die Mission beginnt am Morgen vor Sinis Kleiderschrank. Sie hat mir schon ewig
 angeboten, mir etwas „Heißes" -- Originalzitat -- auszusuchen. Heute bin ich
@@ -81,8 +81,8 @@ trotzig, halb neugierig.
 Und ja, das Outfit funktioniert -- leider nicht auf diese schwesterliche Art,
 wie ich's mir von Sini wünschen würde. Sie tanzt um mich herum wie ein Kind, das
 gerade ein besonders gefährliches Haustier bekommen hat. "Sini, ich bin ein
-gutes Stück größer als Du, findest Du nicht, alles ist etwas… …kurz?"\
-„Absolut Eddie, absolut! Was soll ich sagen -- du bist heiß!"
+gutes Stück größer als Du, findest Du nicht, alles ist etwas… …kurz?"\ „Absolut
+Eddie, absolut! Was soll ich sagen -- du bist heiß!"
 
 Ich habe keine Zeit, das richtig zu verdauen, da schleift sie mich ins Bad und
 legt mir ein bisschen Make-up auf. „Nicht viel", meint sie, aber als ich in den
@@ -112,10 +112,10 @@ aufgingen, gehen jetzt ganz runter. Erste Sprüche, erstes Lachen. Die ersten
 zwei, drei Fahrer bekommen noch meine schüchterne Eddie-Variante. Keiner hat
 Platz frei.
 
-Aber dann… ich weiß nicht, ob's das Top ist, der Rock oder einfach die
-Tatsache, dass ich beschlossen habe, *jetzt* zu gewinnen -- werde ich mutiger.
-Fange an zu lachen, zu kontern, scherzend von Bus zu Bus zu tingeln. Bislang
-jedoch kein freies Ticket.
+Aber dann… ich weiß nicht, ob's das Top ist, der Rock oder einfach die Tatsache,
+dass ich beschlossen habe, *jetzt* zu gewinnen -- werde ich mutiger. Fange an zu
+lachen, zu kontern, scherzend von Bus zu Bus zu tingeln. Bislang jedoch kein
+freies Ticket.
 
 Als ich am letzten Bus stehe und mir die letzte Abfuhr des Tages abhole, wartet
 dort schon Sini.

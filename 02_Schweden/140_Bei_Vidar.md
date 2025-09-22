@@ -49,8 +49,8 @@ riesiger Esstisch aus hellem Holz. Auf der Anrichte stapeln sich Obstschalen,
 als wäre das alles selbstverständlich. Ich fühle mich wie eine Einbrecherin im
 Paradies.
 
-Vidar sieht meinen Blick, wird rot. „Es ist… ich weiß, es ist viel. Ich hab
-das nie so…" Er bricht ab, senkt den Kopf.
+Vidar sieht meinen Blick, wird rot. „Es ist… ich weiß, es ist viel. Ich hab das
+nie so…" Er bricht ab, senkt den Kopf.
 
 Ich schüttle den Kopf. „Es ist unglaublich." Meine Stimme klingt ehrfürchtig,
 obwohl ich es gar nicht will. „So was habe ich noch nie gesehen. Vielleicht mal

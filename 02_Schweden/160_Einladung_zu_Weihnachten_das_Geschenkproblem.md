@@ -80,9 +80,9 @@ Weihnachtstisch dieser Familie?*
 Vidar legt vorsichtig die Hand auf meinen Arm. „Eddie… es bedeutet, dass sie
 dich wirklich dabei haben wollen."
 
-Ich schüttle den Kopf, presse die Einladung an meine Brust. „Aber… wie soll
-das gehen? Ich habe doch nichts! Ich sitze da, an einem Tisch voller
-Silberbesteck und weißer Tischdecken… und ich hab nicht mal ein Geschenk!"
+Ich schüttle den Kopf, presse die Einladung an meine Brust. „Aber… wie soll das
+gehen? Ich habe doch nichts! Ich sitze da, an einem Tisch voller Silberbesteck
+und weißer Tischdecken… und ich hab nicht mal ein Geschenk!"
 
 Der Gedanke trifft mich wie ein Schlag. Weihnachten. Geschenke. Natürlich. Ich
 sehe vor mir, wie seine Mutter mit verpackten Päckchen unter dem Baum steht, wie

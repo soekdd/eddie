@@ -128,8 +128,8 @@ kann, irgendwo, wo es zählt." Ich spüre, wie mir die Stimme bricht. „Ich wil
 sie stolz machen."
 
 Einen Augenblick sagt sie nichts. Dann räuspert sie sich. „Und jetzt eine sehr
-ernste Frage." Ihr Blick wird noch härter. „Ihr seid jung. Ihr verbringt…
-Nächte zusammen. Verhütet ihr?"
+ernste Frage." Ihr Blick wird noch härter. „Ihr seid jung. Ihr verbringt… Nächte
+zusammen. Verhütet ihr?"
 
 Ich werde knallrot, sehe panisch zu Vidar. Doch er legt sofort seine Hand auf
 meine, ruhig, klar. „Ja. Mit Kondomen. Immer."
@@ -147,8 +147,8 @@ ganzen Leben. Das… das ist… das ist etwas!"
 Ich senke den Blick, kämpfe mit Tränen. *Vielleicht taut das Eis wirklich.*
 
 Vidars Mutter nimmt einen Schluck aus ihrer Tasse, mustert mich wieder. Ihr
-Blick ist immer noch streng, aber nicht mehr feindselig. „Und was… hast du
-jetzt vor?" fragt sie langsam.
+Blick ist immer noch streng, aber nicht mehr feindselig. „Und was… hast du jetzt
+vor?" fragt sie langsam.
 
 Ich atme tief durch. „Warten. Durchhalten. Ich bin noch nicht volljährig. Im Mai
 werde ich achtzehn. Dann kann mich niemand mehr einfach zurückschicken."

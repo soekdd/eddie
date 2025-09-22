@@ -79,8 +79,8 @@ Sini", sage ich stolz zu Raija.
 
 Wir stehen noch keine fünf Minuten zusammen, da fällt der Schatten auf das
 Gespräch.\ „Ich hab gestern was im Funk gehört, Eddie. Von dir. Am
-Fährterminal."\ Mir wird schlagartig kalt. „Wenn *du* es gehört hast…"\
-„…dann hat es Mielke auch", beendet sie den Satz für mich.
+Fährterminal."\ Mir wird schlagartig kalt. „Wenn *du* es gehört hast…"\ „…dann
+hat es Mielke auch", beendet sie den Satz für mich.
 
 Die Luft zwischen uns wird schwer. Kein Lächeln mehr. Nur die Stille, in der wir
 alle wissen, was das heißt. Wir schauen uns um.
@@ -209,8 +209,8 @@ Es dauert ein paar Sekunden, bis sie versteht. Ihre Stirn zieht sich zusammen.
 Da er keine Argumente mehr hatte, fing ich mir ne Ohrfeige von ihm."
 
 Raija stößt einen leisen, bitteren Laut aus. „Verdammt. Und ich war nicht da.
-Hätte ihn rausschmeißen sollen, längst…" Sie schüttelt den Kopf, als wollte
-sie den Gedanken loswerden.
+Hätte ihn rausschmeißen sollen, längst…" Sie schüttelt den Kopf, als wollte sie
+den Gedanken loswerden.
 
 „Ich bin dir damals gefolgt", sage ich leise. „Mit dem Zug bis Tampere. Bin
 sogar bis vor die Polizeistation gelaufen, wo du gearbeitet hast."

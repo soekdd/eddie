@@ -56,13 +56,12 @@ einen panischen Blick zu.
 
 Sie flüstert prompt: „Sciences Avancées."
 
-„…des *Institut de Sciences Avancées*", wiederhole ich schnell. „Ich rufe an,
-um Ihnen mitzuteilen, dass Sie für den Prix de sûreté nucléaire nominiert
-wurden."
+„…des *Institut de Sciences Avancées*", wiederhole ich schnell. „Ich rufe an, um
+Ihnen mitzuteilen, dass Sie für den Prix de sûreté nucléaire nominiert wurden."
 
 Pause. Am anderen Ende ist es still, dann ein leises Räuspern. „Oh!" sagt er,
-gedehnt, und dann viel lauter: „Oh! Na, das ist ja… das ist ja wirklich…
-also, das ist großartig! Aus Frankreich, sagen Sie?"
+gedehnt, und dann viel lauter: „Oh! Na, das ist ja… das ist ja wirklich… also,
+das ist großartig! Aus Frankreich, sagen Sie?"
 
 Ich nicke stumm, obwohl er's nicht sehen kann, und drücke mir die Handfläche
 gegen den Bauch, um das Zittern zu stoppen. „Oui, monsieur. Aus Frankreich. Ganz

@@ -30,8 +30,8 @@
 ```
 
 Am Morgen wecken mich meine WG Mädels. Ihre Gesicht sind fahl, das Radio läuft
-schon. „Statsminister Olof Palme sköts igår kväll…" -- erschossen. Mitten in
-der Stadt, auf der Sveavägen, ohne Bodyguards, nur mit seiner Frau.
+schon. „Statsminister Olof Palme sköts igår kväll…" -- erschossen. Mitten in der
+Stadt, auf der Sveavägen, ohne Bodyguards, nur mit seiner Frau.
 
 Ich sitze da wie betäubt. Stockholm, das eben noch nach Hoffnung und Zukunft
 roch, ist plötzlich stillgelegt. Auf den Straßen wird geflüstert, als wäre jedes

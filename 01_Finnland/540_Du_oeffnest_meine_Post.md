@@ -111,16 +111,29 @@ den Finger wickeln, morgen werde ich alles anwenden, was du mich gelehrt hast.
 Morgen mache ich dich stolz.“ Ich stehe auf und nehme Sini in den Arm. „Du hast
 schon so viel für mich getan, morgen bin ich dran.“
 
-„Kiitos, Danke Eddie…“, heult Sini. „Ich wollte auch nicht, dass es je endet. Aber…“
-setzt sie verlegen an. „…ich wußte es schon ganz lange.“. „Mit der Wohnung?“
-„Ja, naja, dass es so nicht weitergehen kann. Ich bin Saisonkraft. Ab Oktober fährt die Fähre nur noch einmal täglich. Ich hätte sowieso meinen Job verloren.“ Ich verstehe. „Aber wie hast Du es letzten Winter gemacht?“ - „Da hatte ich noch Geld gespart. Doch das ist jetzt verbraucht.“
+„Kiitos, Danke Eddie…“, heult Sini. „Ich wollte auch nicht, dass es je endet.
+Aber…“ setzt sie verlegen an. „…ich wußte es schon ganz lange.“. „Mit der
+Wohnung?“ „Ja, naja, dass es so nicht weitergehen kann. Ich bin Saisonkraft. Ab
+Oktober fährt die Fähre nur noch einmal täglich. Ich hätte sowieso meinen Job
+verloren.“ Ich verstehe. „Aber wie hast Du es letzten Winter gemacht?“ - „Da
+hatte ich noch Geld gespart. Doch das ist jetzt verbraucht.“
 
-Wir sitzen still nebeneinander, die Tränen fast versiegt, nur unsere Atemzüge füllen das kleine Zimmer. Draußen rauscht der Wind durch die dunklen Bäume, aber hier drinnen halten wir uns fest wie zwei, die noch längst nicht aufgeben wollen.
+Wir sitzen still nebeneinander, die Tränen fast versiegt, nur unsere Atemzüge
+füllen das kleine Zimmer. Draußen rauscht der Wind durch die dunklen Bäume, aber
+hier drinnen halten wir uns fest wie zwei, die noch längst nicht aufgeben
+wollen.
 
-Sini wischt sich über die Augen, setzt sich auf und schnaubt trotzig. „Weißt du was, wir vergessen das mit den Busfahrern. Ich kauf dir einfach so ein blödes Ticket. Es ist nicht viel Geld für mich – höchstens zwei Pizzas.“
+Sini wischt sich über die Augen, setzt sich auf und schnaubt trotzig. „Weißt du
+was, wir vergessen das mit den Busfahrern. Ich kauf dir einfach so ein blödes
+Ticket. Es ist nicht viel Geld für mich – höchstens zwei Pizzas.“
 
-Ich packe sofort ihre Hand. „Nein, Sini. Wir bleiben deinem Plan treu. Wir haben noch zwei Wochen. Ich muss mich nur mehr anstrengen, das ist alles.“ Ich zwinge mich zu einem Lächeln, auch wenn mir bei dem Gedanken daran die Knie weich werden.
+Ich packe sofort ihre Hand. „Nein, Sini. Wir bleiben deinem Plan treu. Wir haben
+noch zwei Wochen. Ich muss mich nur mehr anstrengen, das ist alles.“ Ich zwinge
+mich zu einem Lächeln, auch wenn mir bei dem Gedanken daran die Knie weich
+werden.
 
-Sini schaut mich an, lange, und zum ersten Mal an diesem Abend blitzt ein kleines Grinsen durch ihre Tränen. „Na gut“, sagt sie leise. „Dann machen wir’s auf unsere Art.“ Sie legt ihre Stirn an meine. „Zusammen schaffen wir das.“
+Sini schaut mich an, lange, und zum ersten Mal an diesem Abend blitzt ein
+kleines Grinsen durch ihre Tränen. „Na gut“, sagt sie leise. „Dann machen wir’s
+auf unsere Art.“ Sie legt ihre Stirn an meine. „Zusammen schaffen wir das.“
 
 Und für einen Moment glaube ich es wirklich.

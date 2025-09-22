@@ -88,10 +88,10 @@ Ich trete von einem Fuß auf den anderen, die Hände tief in den Taschen, und
 starre auf den Jungen, der da vor mir steht. Mein Herz klopft bis in den Hals.
 Jetzt oder nie, Eddie. Frag ihn.
 
-„Kennst du… kennst du vielleicht die Stadtmission? Ich… ich müsste hin. Aber
-ich traue mich nicht allein. Kannst du… vielleicht vorgehen? Nur schauen, ob
-jemand da ist. Polizei oder so.“ Meine Stimme bricht fast. Ich erwarte, dass er
-lacht oder sich einfach umdreht.
+„Kennst du… kennst du vielleicht die Stadtmission? Ich… ich müsste hin. Aber ich
+traue mich nicht allein. Kannst du… vielleicht vorgehen? Nur schauen, ob jemand
+da ist. Polizei oder so.“ Meine Stimme bricht fast. Ich erwarte, dass er lacht
+oder sich einfach umdreht.
 
 Doch Vidar lächelt nur sanft, fast verlegen. „Ja. Ich weiß, wo das ist. Ich kann
 dich begleiten. Wir gehen zusammen.“

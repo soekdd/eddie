@@ -69,10 +69,10 @@ in mir tobt. *Dankbarkeit ist nicht Liebe.* Leichter gesagt als gedacht!
 
 Ich denke an Sini. An ihre blauen Haare, ihr Lachen, das ganze Chaos, das sie
 war. Ich habe sie geliebt, das weiß ich. Aber nicht so, wie sie es wollte. Ihre
-Küsse haben mich eher erschreckt, ich konnte nie dasselbe zurückgeben.
-Trotzdem… wenn ich an Liebe denke, dann ist sie das Erste, was mir einfällt.
-War das nun Liebe? Oder einfach nur, dass ich jemanden endlich mal wichtiger
-fand als mich selbst?
+Küsse haben mich eher erschreckt, ich konnte nie dasselbe zurückgeben. Trotzdem…
+wenn ich an Liebe denke, dann ist sie das Erste, was mir einfällt. War das nun
+Liebe? Oder einfach nur, dass ich jemanden endlich mal wichtiger fand als mich
+selbst?
 
 Und dann der Erste, mit dem ich im Bett war. So viel Haut, so viel Nähe, so viel
 Schweiß. Ja, ich mochte ihn, klar. Ich habe ihn respektiert. Aber geliebt? Nee.

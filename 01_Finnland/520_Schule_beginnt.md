@@ -21,17 +21,22 @@ bei uns die Schule wieder los. In Dresden stehen sie jetzt alle im FDJ-Hemd
 stramm, die Fahnen knattern, und die Lehrer predigen, wie wichtig unser Beitrag
 zum Sozialismus ist.“
 
-Sini schaut kurz, dann springt sie auf, schnellt in Habachtstellung und ruft lachend:
-„Für Frieden und Sozialismus – seid bereit!“
+Sini schaut kurz, dann springt sie auf, schnellt in Habachtstellung und ruft
+lachend: „Für Frieden und Sozialismus – seid bereit!“
 
-Sie reißt die Hand hoch, aber so verkrampft, dass es mich fast vom Hocker haut. Ich pruste los, zwischen zwei Lachern keuche ich:
-„Sini, um Himmels willen – diese Handbewegung darfst Du nie machen! Das ist streng verboten. Geht gar nicht.“
+Sie reißt die Hand hoch, aber so verkrampft, dass es mich fast vom Hocker haut.
+Ich pruste los, zwischen zwei Lachern keuche ich: „Sini, um Himmels willen –
+diese Handbewegung darfst Du nie machen! Das ist streng verboten. Geht gar
+nicht.“
 
-Sie erstarrt, wird knallrot. „Was? Echt jetzt?“ ruft sie, „ich dachte, das wär nur so ein… keine Ahnung, DDR-Ding?“
+Sie erstarrt, wird knallrot. „Was? Echt jetzt?“ ruft sie, „ich dachte, das wär
+nur so ein… keine Ahnung, DDR-Ding?“
 
 Ich lache noch immer Tränen. „Nein! Ganz falsches Land, ganz falsche Geste!“
 
-Für einen Moment wirkt sie richtig betreten, dann verzieht sie das Gesicht, macht eine völlig übertriebene Hampelmannbewegung daraus und wir brechen beide endgültig zusammen vor Lachen, so sehr, dass mir Tränen die Wangen
+Für einen Moment wirkt sie richtig betreten, dann verzieht sie das Gesicht,
+macht eine völlig übertriebene Hampelmannbewegung daraus und wir brechen beide
+endgültig zusammen vor Lachen, so sehr, dass mir Tränen die Wangen
 hinunterlaufen.
 
 Aber als sie wieder sitzt, bleibt bei mir ein Rest von Schwere. Lernen – das war

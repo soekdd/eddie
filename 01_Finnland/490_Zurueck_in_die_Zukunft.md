@@ -75,8 +75,8 @@ wird leicht.
 
 „Na, Genossin, Westluxus bekommen?", flüstert Sini und stupst mich mit der
 Schulter. Ich presse die Lippen zusammen, damit ich nicht aufstöhne, lache aber,
-weil sie so liebevoll frech ist. „Mir ist… ein bisschen schlecht", flüstere
-ich zurück. Sie zieht eine Grimasse, die sagt: Hätte ich dir auch vorher sagen
+weil sie so liebevoll frech ist. „Mir ist… ein bisschen schlecht", flüstere ich
+zurück. Sie zieht eine Grimasse, die sagt: Hätte ich dir auch vorher sagen
 können, Kleine. Dann legt sie mir kurz die Hand aufs Knie, als wäre das die
 beste Medizin.
 
@@ -117,8 +117,8 @@ pfeift anerkennend, und irgendwo zischt ein „pssst!", aber selbst das klingt
 freundlich. Sini verbeugt sich übertrieben tief, lässt sich in den Sitz fallen,
 atmet heiß und glücklich, und ich kann gar nicht mehr aufhören zu kichern.
 Unsere Schultern stoßen gegeneinander, die Leinwand bebt im Lichtkegel, Marty
-schreit „This is an oldie…", und ich denke: Wenn Freiheit ein Geräusch hat,
-dann klingt sie genau so.
+schreit „This is an oldie…", und ich denke: Wenn Freiheit ein Geräusch hat, dann
+klingt sie genau so.
 
 Als wir später aus dem Adams treten, sitzt der Popcornberg noch schwer in mir,
 aber die Luft draußen ist kühl und salzig, und die Stadt blinkt. Sini hakt sich
