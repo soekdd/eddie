@@ -145,7 +145,7 @@ Sie lacht, zuckt mit den Schultern. „Ich hab ausprobiert. Viel.“
 
 „Und dein erstes Mal?“ frage ich vorsichtig.
 
-Sie wird ernst, aber lächelt. „Doof. Ich war fünfzehn, total verliebt. Dachte,
+Sie wird ernst, aber lächelt. „Doof. Ich war siebzehn, total verliebt. Dachte,
 er wär die große Liebe. Für ihn war’s wohl nicht so ernst. Tat weh – im Herzen
 mehr als sonst. Danach hab ich beschlossen: Nie wieder so. Ich nehm mir, was ich
 will.“
@@ -237,12 +237,7 @@ neugierig wär ich.“
 
 „Los!“
 
-„Von hinten.“
-
-Sie quietscht, haut mir ein Kissen ins Gesicht. „Eddie! Wenn er’s kann – gut.
-Sonst Mist.“
-
-Ich werde rot. „Und… zwei auf einmal.“
+Ich werde rot. „Zwei auf einmal.“
 
 Sie springt durchs Zimmer. „Zwei! Eddie, du bist schlimmer als ich dachte!“
 

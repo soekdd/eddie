@@ -1,68 +1,97 @@
 # Gute Gründe
 
 ```json
-
 {
+  "title": "Gute Gründe",
+  "chapter_id": "FIN_Vaasa_Tag3_Gute_Gruende",
+  "flashback-date": "1982-04-15",
   "date": "1985-08-12",
   "daytime": "evening",
-  "place": "Pizzaria in Vaasa",
+  "tense": "present (frame), past (flashback)",
+  "pov": "Eddie, first-person",
+  "mode": "mainline",
+  "themes": [
+    "Selbstbehauptung gegen Systeme",
+    "Freundschaft als Zeugenschaft",
+    "Bildung & Gatekeeping",
+    "Mut von Verbündeten"
+  ],
   "persons": [
     "Eddie",
-    "Sini"
+    "Sini",
+    "Eddies Mutter (flashback)",
+    "Eddies Vater (flashback)",
+    "POS-Direktor (flashback)",
+    "Sekretärin der POS (flashback)",
+    "Professor der TU Dresden (flashback)",
+    "Dekan der Mathematik (flashback)",
+    "Direktor der Manos (flashback)",
+    "Bezirksschulrat (flashback)"
   ],
-  "synopsis": "Eddie erzählt Sini die Geschichte, wie sie 1982 beinahe wegen ihres unbequemen Mundwerks von der Aufnahme an die Spezialschule Manos ausgeschlossen worden wäre. Der Direktor ihrer POS wollte beim Bezirksschulrat ihre Zulassung verhindern, doch dank einer mutigen Sekretärin, ihrer Eltern und der Fürsprache von Professoren und dem Dekan der Mathematik konnte Eddie letztlich aufgenommen werden.",
-  "mood": "nostalgic, defiant, relieved, intimate",
-  "tense": "present (Rahmenhandlung), past (Rückblende in Eddies Ich-Perspektive)",
-  "mode": "flashback within mainline",
-  "flashback": {
-    "date": "1982-04",
-    "place": "POS Dresden-Prohlis und Manos",
-    "persons": [
-      "Eddie",
-      "Eddies Mutter",
-      "Eddies Vater",
-      "POS-Direktor",
-      "Sekretärin",
-      "Professor der TU Dresden",
-      "Dekan der Mathematik",
-      "Direktor der Manos",
-      "Bezirks-Schulrat"
-    ],
-    "synopsis": "Der Direktor von Eddies alter POS versucht mit einem Brief an den Bezirksschulrat ihre Aufnahme an die Manos zu verhindern. Eddies Mutter erfährt über die Sekretärin davon, Eddies Vater organisiert mit Hilfe von Kontakten ein Treffen aller Beteiligten. Am Ende muss der Direktor seinen Einspruch zurückziehen und Eddie darf zur Manos wechseln.",
-    "mood": "tense, fearful, triumphant",
-    "tense": "past, Eddies first-person perspective",
-    "mode": "flashback"
-  },
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
+  "locations": {
+    "pizzeria": {
+      "name": "Pizzeria im Zentrum Vaasa",
+      "note": "Sini und Eddie essen zusammen; Gesprächsrahmen für das Geständnis"
     },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
+    "flashback_pos": {
+      "name": "POS Dresden-Prohlis",
+      "note": "Direktor versucht Eddies Aufnahme zu sabotieren"
     },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
+    "flashback_manos": {
+      "name": "Manos / TU Dresden",
+      "note": "Unterstützer:innen sichern die Zulassung"
     }
   },
-  "illustration-prompts": [
+  "synopsis": "Während Pizza und Gespräch erklärt Eddie, wie ihre Aufnahme an die Manos 1982 fast an einem ideologischen Direktor scheiterte und nur dank einer mutigen Sekretärin, ihren Eltern und mathematischen Fürsprechern möglich wurde. Sini erkennt, wie viel Widerstand Eddie gewohnt ist – und warum sie sich heute schwertut, Hilfe anzunehmen.",
+  "flashback_summary": "1982 schmiedet Eddies POS-Direktor einen Brief an den Bezirksschulrat, um ihre Spezialschul-Zulassung zu stoppen. Eine Sekretärin warnt die Familie, der Vater organisiert ein Krisentreffen mit Professoren, Dekan und Manos-Direktor. Der Direktor muss den Einspruch zurückziehen – Eddie darf gehen, lernt aber, dass man Verbündete braucht.",
+  "mood": "nostalgic, defiant, intimate",
+  "parts": [
     {
-      "description": "Eddie sitzt am Küchentisch in Vaasa und erzählt Sini, die gespannt zuhört.",
+      "part_id": "A",
+      "title": "Pizza & Vertrauen",
+      "summary": "Nach dem Hafen-Tag sitzen Eddie und Sini in der Pizzeria; Sini fordert einen echten Grund, Eddie antwortet mit ihrer Manos-Geschichte.",
+      "beats": [
+        "Eddie zögert, Sini bohrt nach",
+        "Die Pizza-Szene verankert Wärme und Sicherheit",
+        "Eddies Auftakt: warum sie ‚gute Gründe‘ braucht"
+      ]
+    },
+    {
+      "part_id": "B",
+      "title": "Die Manos-Beinahe-Absage",
+      "summary": "Eddie schildert die Intrige des POS-Direktors, die Warnung der Sekretärin und den elterlichen Rettungsplan.",
+      "beats": [
+        "Direktor diktiert den sabotierenden Brief",
+        "Sekretärin informiert Eddies Mutter heimlich",
+        "Vater trommelt Professoren und Dekan zusammen"
+      ]
+    },
+    {
+      "part_id": "C",
+      "title": "Sieg & Konsequenz",
+      "summary": "Das Krisengespräch erzwingt den Rückzug des Einspruchs; Eddie versteht, dass sie sich auf Verbündete stützen muss – und Sini bekräftigt dieses Prinzip für die Gegenwart.",
+      "beats": [
+        "Direktor knickt ein, Aufnahme bleibt bestehen",
+        "Eddies Mischung aus Stolz und Verwundbarkeit",
+        "Sini verspricht: In Vaasa gilt dieselbe Solidarität"
+      ]
+    }
+  ],
+  "illustration_prompts": [
+    {
+      "description": "Sini und Eddie in der Pizzeria; Eddie gestikuliert, Sini hört ernst und liebevoll zu.",
       "style": "warmer Comicstil, 1980er Retrofarben"
     },
     {
-      "description": "Rückblende: Der POS-Direktor diktiert den Brief an die Sekretärin.",
+      "description": "Flashback: POS-Direktor diktiert einen Brief, während die Sekretärin alarmiert schaut.",
       "style": "düster, kontrastreich"
     },
     {
-      "description": "Eddies Eltern im Gespräch mit Professor, Dekan, Manos-Direktor und POS-Direktor an einem Tisch; Eddie wartet draußen im Flur und zählt die Bodenfliesen.",
+      "description": "Eddies Eltern und akademische Verbündete sitzen im Besprechungszimmer; Eddie wartet draußen und zählt Bodenfliesen.",
       "style": "realistisch, angespannte Stimmung"
     }
   ]
 }
-
 ```
 
 Sini hört zu wie immer: mit diesem wachen Blick, der mich gleichzeitig sortiert

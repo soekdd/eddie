@@ -27,7 +27,7 @@ Mal, aber diesmal kommt mir nur ein Lachen über die Lippen. Ich tanze.
 Erst unsicher, dann immer wilder, im Rhythmus neben ihr. Wir brauchen kaum
 Alkohol, der Beat allein trägt uns hoch.
 
-Ich tauche tiefer in den Rhythmus, und dann merke ich, dass jemand mich ansieht.
+Ich tauche tiefer in die Extase, und dann merke ich, dass jemand mich ansieht.
 Kein plumpes Glotzen, sondern ein Blick, der hängen bleibt. Ich wische mir mit
 dem T-Shirt übers Gesicht, schaue hoch – und da ist er. Der Gitarrist. Groß,
 schlank, lange blonde Haare, die Gitarre tief an der Hüfte, die Finger fliegen

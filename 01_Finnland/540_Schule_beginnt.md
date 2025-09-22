@@ -32,7 +32,8 @@ nicht.“
 Sie erstarrt, wird knallrot. „Was? Echt jetzt?“ ruft sie, „ich dachte, das wär
 nur so ein… keine Ahnung, DDR-Ding?“
 
-Ich lache noch immer Tränen. „Nein! Ganz falsches Land, ganz falsche Geste!“
+Ich lache noch immer Tränen. „Nein! Ganz falsches Land, ganz falsche Zeit, ganz
+falsche Geste!“
 
 Für einen Moment wirkt sie richtig betreten, dann verzieht sie das Gesicht,
 macht eine völlig übertriebene Hampelmannbewegung daraus und wir brechen beide
@@ -55,11 +56,12 @@ Seite um Seite, Formeln, Zeichnungen. Mein Kopf hämmert, aber ich höre nicht
 auf. Es ist fast wie ein Rausch, endlich wieder in Arbeit zu versinken.
 
 Abends treffe ich Sini wieder. Sie fragt, wie es war, ich erzähle, wie besessen
-ich gelesen habe. Da sagt sie leise: „Ich hab auch mal Biologie studiert.“ Einen
-Moment denke ich, sie will mehr erzählen, doch dann winkt sie ab, als hätte sie
-den Faden verloren.
+ich gelesen habe. Da sagt sie leise: „Du weißt, ich hab auch mal Biologie
+studiert.“ Einen Moment denke ich, sie will mir endlich mehr erzählen, doch dann
+winkt sie ab, als hätte sie den Faden verloren.
 
 Um die Schwere zu verscheuchen, mache ich einen Witz: „Weißt du, was ich heute
 gelernt habe? Wenn eine Kraft in Newton wirkt und niemand da ist, sie zu messen,
 dann hat sie trotzdem Arbeit verrichtet.“ Ich grinse. Sini lacht auf, schüttelt
-den Kopf. „Du und deine Physik.“
+den Kopf. „Du und deine Physik. Irgendwann muss man mal ein Wort für Leute wie
+dich erfinden.“

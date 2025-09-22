@@ -1,4 +1,4 @@
-# Erzählt von ihrem Vater
+# Papa
 
 ```json
 {
