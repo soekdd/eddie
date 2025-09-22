@@ -23,6 +23,8 @@ Regen trommelt gegen die Fenster. Jemand zieht mir die Decke bis an die Schulter
 
 „Wie fühlst du dich?“ fragt sie erst auf Finnisch, dann leiser auf Englisch. Ich nicke halb. „Fieber runter,“ bringe ich heraus. „Aber… nicht weg.“
 
+
+
 Sie verschwindet in die kleinen Kaffeeküche, klappert mit Tassen und einem Topf. Der Geruch von Brühe kriecht wie Wärme in den Raum. Als sie zurückkommt, stellt sie mir eine dampfende Suppe auf den Tisch und einen Becher Kaffee daneben. „Varovasti,“ sagt sie – vorsichtig. Ich bin alles andere als vorsichtig. Ich schlinge, als hätte jemand in mir eine Tür aufgerissen, durch die nur noch Hunger passt. Der Löffel klappert gegen den Rand, ich höre mich selbst essen wie ein geprügelter Hund und schäme mich nicht einmal.
 
 „Schuhe,“ sagt sie. Ich will protestieren, aber sie ist schneller. Schnürsenkel lösen, nasse Laschen zurück, das Leder klebt an der Haut. Darunter kommen zwei Füße zum Vorschein, die nicht mir gehören können: aufgequollen, röter als sie sein sollten, an den Fersen offene Stellen, an den Zehen Blut, das sich mit Schmutz verbündet hat. Ich ziehe die Luft ein. Sie reagiert nicht mit Mitleid, sondern mit Tempo. Sani-Kasten auf, sterile Kompressen, eine Salbe, deren Geruch ich aus der Schulzeit kenne. Ihre Hände arbeiten ruhig, fest, entschlossen. „Nicht schön,“ sagt sie und schaut mich dabei an, nicht die Wunden. „Aber wird.“
