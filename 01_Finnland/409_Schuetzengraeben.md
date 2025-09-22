@@ -51,10 +51,14 @@ Unter dem Wasserstrahl löst sich Schmutz von der Haut. Ich lehne mich gegen die
 
 In der Nacht kommt das Fieber zurück.
 Wieder halluziniere ich, sehe Fähren im Wohnzimmer, höre fremdes Lachen. Ich lache zurück, schwanke, falle fast. Dann zieht sie mich dichter, hält mich fest.
+Ich murmele etwas, halb im Delirium: „Jetzt weiß ich, warum ich weitergegangen
+bin… obwohl Vaasa… nur eine Sackgasse ist. Weil… du hier bist.“ Sini lacht
+leise, als hätte ich einen komischen Fiebertraum geteilt, versteht nicht alles.
+Aber in ihrem Blick liegt ein kurzes Blitzen, als ahnte sie doch, was ich sagen
+wollte.
 
-„Jetzt weiß ich, warum ich… warum ich bis hierher bin,“ murmele ich, kaum hörbar. „Nicht Sackgasse… Vaasa… wegen dir…“ Die Worte stolpern, verdrehen sich, aber der Kern bleibt.
+Ihre Nähe erdet mich. Wärme gegen Kälte, Ruhe gegen Stimmen. Ich sinke
+irgendwann in ihren Arm, und das Schwarz ist diesmal kein Absturz, sondern ein
+Schlaf.
 
-Sini sagt nichts. Ihr Blick zeigt Verwunderung und einen Blitzen Aber sie lässt nicht los. Ich sinke in ihre Arme, und diesmal ist es kein Sturz, sondern Schlaf.
-
-Fade out.
 
