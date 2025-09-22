@@ -92,16 +92,17 @@ gewöhnen. Doch ich habe keinen Grund und auch keine Kraft zum anrufen. Immer
 wieder sinke ich in kurze Fieberträume.
 
 Sini kommt schon am frühen Nachmittag zurück, viel früher als sie müsste. „Hab
-nochmal die Schichten getauscht“, murmelt sie, stellt die Tasche ab, zieht die Jacke aus.
-Ihr Gesicht wechselt in Sekunden von Punk zu Krankenschwester. Sie zieht die
-Vorhänge am Fenster auf, lässt Licht in den Raum, schaut mich an, als würde sie
-meinen Puls im Gesicht lesen. „Schon geduscht heute?“ Mein schwaches Kopfnicken.
-Sie prüft die Verbände die ich mit zittigen Fingern angelegt habe. „Das machen wir
-mal neu. Medizin genommen?“ Wieder in Nicken. „Braves Mädchen!“ Ein Lächeln.
+nochmal die Schichten getauscht“, murmelt sie, stellt die Tasche ab, zieht die
+Jacke aus. Ihr Gesicht wechselt in Sekunden von Punk zu Krankenschwester. Sie
+zieht die Vorhänge am Fenster auf, lässt Licht in den Raum, schaut mich an, als
+würde sie meinen Puls im Gesicht lesen. „Schon geduscht heute?“ Mein schwaches
+Kopfnicken. Sie prüft die Verbände die ich mit zittigen Fingern angelegt habe.
+„Das machen wir mal neu. Medizin genommen?“ Wieder in Nicken. „Braves Mädchen!“
+Ein Lächeln.
 
 Am Abend kann ich wieder sitzen. Ich schlucke Tee, schlucke Tabletten, die sie
-mir reicht.  „Aber jetzt erzähl mir bitte deine Geschichte“, sagt sie schließlich.
-Keine große Geste, nur der Ton einer Tür, die aufgeht.
+mir reicht. „Aber jetzt erzähl mir bitte deine Geschichte“, sagt sie
+schließlich. Keine große Geste, nur der Ton einer Tür, die aufgeht.
 
 Ich atme durch und fange an. In meiner Vorstellung liegen meine Schritte ewig
 zurück, obwohl es nur 4 Wochen sind: Edmilla – die albernen Bänder im Haar, die
@@ -179,8 +180,8 @@ in ein paar Tagen mit echten Busfahrern.“
 „Ich bin nie brav“, sage ich, und wir grinsen so breit, dass das Hafenwasser
 zurückgrinst.
 
-Als wir zu Bett gehen, weiß ich: Die ist der Ort, an dem eine Kette schlechter Entscheidungen sich in eine
-Geschichte von Mut verwandelt. Sini streift meinen Arm, nicht zufällig, nicht
-absichtlich – genau dazwischen. „Komm“, sagt sie. „Keine Eile.“ Und zum ersten
-Mal fühlt sich dieses „keine Eile“ nicht nach Stillstand an, sondern nach
-Richtung.
+Als wir zu Bett gehen, weiß ich: Die ist der Ort, an dem eine Kette schlechter
+Entscheidungen sich in eine Geschichte von Mut verwandelt. Sini streift meinen
+Arm, nicht zufällig, nicht absichtlich – genau dazwischen. „Komm“, sagt sie.
+„Keine Eile.“ Und zum ersten Mal fühlt sich dieses „keine Eile“ nicht nach
+Stillstand an, sondern nach Richtung.
