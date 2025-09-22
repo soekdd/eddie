@@ -73,11 +73,11 @@ dritten Mal in Folge Bezirksmeisterin in der Matheolly. Und bei der
 Landesolympiade auf Platz zehn. Nicht weltbewegend, aber genug, damit Erwachsene
 plötzlich glauben, ich sei eine irgendwie besonders.“
 
-„Du bist eine besonders, murmelt Sini...
+„Du bist etwas Besonders“, murmelt Sini...
 
 Ich rolle mit den Augen und rede weiter.
 
-„In der DDR gab’s diese Mathe-Spezialschulen. Die nächste mit Internat war in
+„In der DDR gibt’s diese Mathe-Spezialschulen. Die nächste mit Internat war in
 Riesa, aber in Dresden hatten wir die Manos, offiziell: Erweiterte Oberschule
 Martin-Andersen-Nexö - alle sagten nur Manos. Kein Matheinternat, aber vom
 Anspruch ähnlich. Für mich klang das nach Himmel: weniger Gequatsche, mehr
@@ -94,7 +94,7 @@ Sini kichert.
 
 „Die Sache war eigentlich geritzt“, fahre ich fort. „Und ehrlich: Ich war froh,
 meine alte POS - Polytechnische Oberschule, so eine Art Gesamtschule - hinter
-mir zu lassen. Der Direktor dort war ein braver Parteisoldat in Menschengestalt.
+mir zu lassen. Der Direktor dort war eine Parteibestie in Menschengestalt.
 Wir hatten uns mehrfach in die Haare gekriegt. Ich hab’ mir angewöhnt, gut
 vorbereitet zu streiten. Er hatte es rhetorisch nicht darauf und im Rechnen war
 er eine Niete. Und wenn du die Zahlen auf deiner Seite hast, fängt die Ideologie
@@ -129,7 +129,7 @@ Sini lacht laut auf. „Sarkastisch geatmet!“
 „Als mein Vater kommt, erzählt meine Mutter: In der Mittagspause war die
 Sekretärin der POS heimlich zu ihr gelaufen. Mutig, verstehst du? Sie hatte
 einen Brief dabei, den sie im Auftrag des Direktors an den Bezirksschulrat
-schicken sollte. Und sie war sich nicht ganz sicher, ob sie das richtig fände.
+schicken sollte. Und sie war sich sicher, dass das nicht richtig wäre.
 Sie wollte, dass meine Mutter ihn sieht.“
 
 Ich tippe mit dem Fingernagel auf den Tisch. „Meine Mutter hat den Brief
@@ -161,7 +161,7 @@ Augen, weil er einen Plan sah.“
 
 Ich nicke. „Er hat seinen Chef, seinen Professor an der Uni, angerufen. Der
 Professor kannte den Dekan der Mathe-Fakultät. Innerhalb von zwei Tagen hatten
-sie einen kleinen proletarisch-akademischen Gipfel organisiert: den Dekan, den
+sie einen kleine...“, ich forme mit den Finger Gänsefüsschen „...proletarisch-akademischen Gipfel organisiert: den Dekan, den
 Direktor der Manos, den Bezirks-Schulrat und—tada!—unseren Herrn Direktor von
 der POS. Plus meine Eltern. In einem Zimmer, an einem Tisch.“
 
@@ -181,7 +181,7 @@ Sini prustet. „Ich will diesem Mann ein Bier ausgeben.“
 
 „Der Bezirks-Schulrat klang ermüdet. So wie jemand, dem die Sache eigentlich
 egal ist und er nur überlegt, was er später in seinem Bericht schreibt. Der
-Dekan hat Zahlen aufgezählt—meine Punkte, Bezirksplätze, Empfehlungsschreiben.
+Dekan hat Zahlen aufgezählt — meine Punkte, Bezirksplätze, Empfehlungsschreiben.
 Er hat das Wort ‚außergewöhnlich‘ benutzt. Es war das erste Mal, dass mir das
 peinlich war. Ich stand da und fühlte mich wie ein Paket Mehl, das hin- und
 hergeschoben wird.“
@@ -195,7 +195,7 @@ seinen Einspruch zurück.‘“
 „Bäm“, wiederhole ich. „Der Mann musste schlucken, und ich durfte zur Manos.
 Bedingung: Ich halte mich politisch bedeckt. Der Manos-Direktor war nämlich
 selbst so ein harter Hund, nur… effizienter. Er hat mir einmal sehr ruhig
-gesagt: ‚Bei uns rechnet man besser, wenn man nicht redet.‘“
+gesagt: ‚Bei uns rechnet man besser, wenn man schweigt.‘“
 
 „Und du?“, fragt Sini. „Hast du… weniger geredet?“
 
