@@ -2,7 +2,7 @@
 
 ```json
 {
-  "date": "1985-08-10",
+  "date": "1985-08-14",
   "place": "Sinis Wohnung, Vaasa",
   "synopsis": "Eddie erzählt Sini, wie ihr Vater trotz überragender Fähigkeiten im Schatten des Parteikarrieristen Radmer blieb.",
   "persons": [

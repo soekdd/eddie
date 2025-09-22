@@ -2,7 +2,7 @@
 
 ```json
 {
-  "date": "1985-08-07",
+  "date": "1985-08-10",
   "daytime": "morning & evening",
   "place": "Vaasa, Sinis Küche",
   "persons": ["Eddie", "Sini"],

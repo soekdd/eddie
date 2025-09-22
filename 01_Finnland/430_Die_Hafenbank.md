@@ -1,12 +1,10 @@
-# Keine Eile – Frühstück, Mutprobe & Hafenbank
+# Die Hafenbank
 
 ```json
 {
   "title": "Keine Eile – Frühstück, Mutprobe & Hafenbank",
   "chapter_id": "FIN_Vaasa_Tag1_Fruehstueck_und_Hafenbank",
-  "date": "1985-08-07",
-  "date_from": "1985-08-03",
-  "date_to": "1985-08-05",
+  "date": "1985-08-08",
   "tense": "present",
   "pov": "Eddie, first-person",
   "mode": "mainline",
@@ -79,63 +77,6 @@
   "updated": "2025-09-19"
 }
 ```
-
-Ich wache wieder auf Die Wohnung ist still, warm – und ich nicht. Ich liege auf
-dem Sofa, der Schlaf ist eine alte Schallplatte, die ständig springt. Fieber
-brennt in mir, schiebt Bilder in meinen Kopf, die nicht zusammenpassen. Ich höre
-Stimmen im Flur, Schritte, die nicht da sind. Manchmal sehe ich meine Mutter,
-wie sie am Reißbrett steht, dann wieder graue Männer, die sich vorbeugen, meine
-Taschen durchsuchen, mich mitnehmen. Ich weiß, dass es nicht echt ist. Aber das
-Wissen hilft nichts.
-
-Auf dem Tisch liegt ein Zettel und eine Telefonnummer. Ich schaue mich um. So
-wie Raija hat auch Sini ein eigenes Telefon. Ich glaube daran kann ich mich nie
-gewöhnen. Doch ich habe keinen Grund und auch keine Kraft zum anrufen. Immer
-wieder sinke ich in kurze Fieberträume.
-
-Sini kommt schon am frühen Nachmittag zurück, viel früher als sie müsste. „Hab
-nochmal die Schichten getauscht“, murmelt sie, stellt die Tasche ab, zieht die Jacke aus.
-Ihr Gesicht wechselt in Sekunden von Punk zu Krankenschwester. Sie zieht die
-Vorhänge am Fenster auf, lässt Licht in den Raum, schaut mich an, als würde sie
-meinen Puls im Gesicht lesen. „Schon geduscht heute?“ Mein schwaches Kopfnicken.
-Sie prüft die Verbände die ich mit zittigen Fingern angelegt habe. „Das machen wir
-mal neu. Medizin genommen?“ Wieder in Nicken. „Braves Mädchen!“ Ein Lächeln.
-
-Am Abend kann ich wieder sitzen. Ich schlucke Tee, schlucke Tabletten, die sie
-mir reicht. Mein Körper beruhigt sich, aber mein Kopf nicht. Immer wieder denke
-ich, dass es draußen an der Tür klopfen wird. Dass jemand kommt, mich abholt,
-zurückbringt. Ich sehe Schatten, wo keine sind. Sini merkt es. Sie setzt sich
-neben mich aufs Sofa, legt den Arm um mich, so fest, dass der Raum kleiner wird.
-„Ei ole ketään“, sagt sie. Niemand ist da. Nur sie.
-
-Ich murmele etwas, halb im Delirium: „Jetzt weiß ich, warum ich weitergegangen
-bin… obwohl Vaasa… nur eine Sackgasse ist. Weil… du hier bist.“ Sini lacht
-leise, als hätte ich einen komischen Fiebertraum geteilt, versteht nicht alles.
-Aber in ihrem Blick liegt ein kurzes Blitzen, als ahnte sie doch, was ich sagen
-wollte.
-
-Ihre Nähe erdet mich. Wärme gegen Kälte, Ruhe gegen Stimmen. Ich sinke
-irgendwann in ihren Arm, und das Schwarz ist diesmal kein Absturz, sondern ein
-Schlaf.
-
-Der nächste Morgen riecht nach Kaffee. Ich kann aufrecht sitzen, der Kopf ist
-noch schwer, aber nicht mehr brennend. „Es geht mir besser“, sage ich zu Sini,
-als sie aus der Küche kommt. „Du musst die Schichten nicht mehr tauschen.“
-
-Sie hebt die Augenbrauen. „Sicher?“ – Ich nicke. Sie zögert, dann: „Na gut. Dann
-bin ich wieder bis achtzehn Uhr im Terminal.“
-
-Ich lächle schwach. „Dann hab ich ja Zeit, brav zu sein.“ Sie lacht, hebt im
-Spaß wie eine strenge Lehrerin den Zeigefinger. „Wir werden sehen.“
-
-Als sie geht, bleibt die Wohnung wie eine geöffnete Hand zurück. Ich stehe, noch
-wacklig, aber auf meinen eigenen Beinen. Diesmal gehe ich allein in die Dusche.
-Warmes Wasser, das mich nicht mehr erschlägt, sondern trägt. Seife mit Zitrus,
-die nicht nur reinigt, sondern erzählt: dass Körper wieder Menschen werden
-können.
-
-Und während ich das Wasser abstelle, fasse ich still den Entschluss: Heute Abend
-werde ich Sini abholen. Nicht, um wegzugehen, sondern um hinzugehen.
 
 Der Morgen riecht nach Kaffee und wärmt schon, bevor ich trinke. Sini stellt
 eine Tüte frischer Brötchen auf den Tisch, der Beutel beschlägt innen vom Dampf.
@@ -213,77 +154,7 @@ ganz okay. Und wie geht es Dir?“
 "Ich lebe Sini. Ich lebe. Ist das nicht wunderbar?" - „Joo, ihan jees.“ erwidert
 sie lachend.
 
-„Aber jetzt erzähl mir bitte deine Geschichte“, sagt sie schließlich. Keine
-große Geste, nur der Ton einer Tür, die aufgeht.
-
-Ich atme durch und fange an. In meiner Vorstellung liegen meine Schritte ewig
-zurück, obwohl es nur 4 Wochen sind: Edmila – die albernen Bänder im Haar, die
-Wendejacke. Joutsa – der Wettkampf, die Toilette, der Geruch von Schuhcreme,
-Maria in der Kirche, die Polizisten, die Stasi-Männer mit den kalten Augen.
-Raija – der Wagen bei Nacht, Jyväskylä, Jorma wie eine Abrissbirne. Dann die
-Entscheidung, die sich anfühlte wie aus Versehen getroffen: nicht Helsinki,
-sondern Vaasa. Die Linie auf der Karte, die mich durch Moor und Felder trieb,
-bis meine Füße aussahen, als gehörten sie jemand anderem. Ich erzähle es knapp,
-ohne Schmuck, als hätte ich eine alte Rechnung vor mir und wollte sie endlich
-schließen.
-
-Sini sagt eine Weile nichts. Der Wind kämmt ihre blauen Haare, im Hafen klappern
-die Boote eine eigenen Rhythmus. „Verdammt“, sagt sie leise, „du bist gegangen.“
-Es klingt nicht wie eine Frage und nicht wie ein Urteil. Mehr wie ein Staunen,
-das in den Händen liegen bleibt.
-
-„Ich bin… gestolpert“, korrigiere ich. „Von Fehler zu Fehler. Eine Kette
-schlechter Entscheidungen.“ Ich will es leicht sagen, schief grinsend, doch es
-kommt schwer heraus.
-
-„Unsinn.“ Sini dreht sich zu mir. In ihren Augen blitzt es entschlossen, als
-wollte sie keinen Zweifel lassen. „Das war eine Kette notwendiger
-Entscheidungen. Du hast Freiheit gewählt, immer wieder, auch wenn die Umstände
-hässlich waren. Schlechte Bedingungen sind keine schlechten Entscheidungen.“
-
-Ich will widersprechen, weiß aber plotzlich nicht mehr warum. Stattdessen nicke
-ich, klein, vielleicht will ich mir mein Versagen nicht schönreden lassen.
-
-Eine Frage stolpert aus mir heraus, noch bevor ich sie bremsen kann: „Bist du
-eine Lappin?“
-
-Sini blinzelt, ihr Gesicht bleibt ruhig, aber die Stimme wird fest. „Sag das
-nicht. Das ist ein altes Wort, das andere uns gegeben haben. Heute sagt man
-Sámi. Das ist unsere eigene Bezeichnung.“
-
-Mein Gesicht brennt. „Entschuldige… so hat man’s bei uns in der Schule gesagt.“
-
-Sie nickt knapp. „Ich weiß. Ihr konntet es nicht besser wissen. Aber jetzt weißt
-du’s.“ Sie lehnt sich zurück, streift mit der Hand über ihre blaue Strähne. „Und
-ja: halb Sámi. Meine Mutter kommt aus Sápmi, weit oben. Rentiere, Fjäll, zu viel
-Himmel.“
-
-Ich nicke hastig, fühle mich ertappt wie ein Kind, das im Unterricht die falsche
-Antwort gegeben hat. „Ich weiß sowieso kaum etwas“, stolpere ich. „Also…
-peinlich wenig. In der Schule—“ Ich suche nach einem Wort und greife ins nächste
-Falsche. „War deine Mutter sowas wie… Indianer?“ Das letzte Silbenpaar schmeckt
-mir sofort bitter.
-
-Sini legt den Kopf schief. Kein Stich in den Blick, nur Humor, der nicht
-entwertet. „Kein Kostümfest“, sagt sie. „Sámi sein ist nicht etwas, das man sich
-anzieht wie eine Maske.“
-
-„Aber… ihr habt doch diese Trachten?“ frage ich, leiser.
-
-„Ja“, sagt sie, nickt. „Die heißen Gákti. Manche tragen sie stolz, zu Festen, zu
-Wahlen, bei Hochzeiten. Manche jeden Tag, weil es ihr Statement ist. Und andere
-nie, weil sie sagen: Identität hängt nicht an Stoff. Ich gehöre zu den
-Letzteren. Für mich ist Sámi sein Sprache, Land, Streit mit dem Staat. Kein
-Kleidungsstück.“
-
-Sie zieht die Knie etwas näher an die Brust, blickt entschlossen in die Ferne.
-„Manchmal schenken wir unsere Erklärungen. Aber wir schulden sie niemandem.“
-
-Ich sehe sie an und erkenne plötzlich die Konturen dessen, was ich mir immer
-gewünscht habe, ohne den Namen zu wissen: jemand, der wild ist, ohne laut zu
-sein; der Feministin ist, ohne das Wort zu tragen wie ein Schild; jemand der
-„keine Eile“ sagt und doch immer dann da ist, wenn die Füße schwach werden. Eine
-Freundin, die nicht fragt, ob sie darf – sondern ob ich will.
+< Eddie erzählt, was sie zum Entschluss gebracht hat. >
 
 „Diese Bank“, sage ich, „könnte unserer Platz sein.“ Es klingt so feierlich,
 dass ich lachen muss.
