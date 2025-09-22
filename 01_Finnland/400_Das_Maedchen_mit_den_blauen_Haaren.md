@@ -23,7 +23,15 @@ Regen trommelt gegen die Fenster. Jemand zieht mir die Decke bis an die Schulter
 
 „Wie fühlst du dich?“ fragt sie erst auf Finnisch, dann leiser auf Englisch. Ich nicke halb. „Fieber runter,“ bringe ich heraus. „Aber… nicht weg.“
 
+Ich starre sie an, länger als höflich ist. Ihr Gesicht passt nicht ganz in die Schublade, die ich für „typisch finnisch“ gebaut habe. Die Wangenknochen sind höher, fast scharf wie gemeißelt, die Augen etwas dunkler, mandelförmiger. Und dann dieser Blick – warm, aber auch stechend, wie ein Nordlicht, das sich nicht festhalten lässt.
 
+Ihr Haar macht sowieso alles noch wilder, das knallige Blau mit dem rasierten Streifen, aber dahinter steckt etwas, das nicht nur Punk ist. Als hätte sie von Geburt an einen Zug Trotz im Gesicht, nicht von der Haarfarbe, sondern von irgendwo tiefer.
+
+Ich suche nach einem Wort, finde keins. Vielleicht, denke ich, sieht sie ein bisschen aus wie diese Zeichnungen von Indianern, die man uns im Geschichtsunterricht gezeigt hat. Nur nordischer. Winter-Indianer, denke ich dumm und schüttle mich innerlich.
+
+Sie merkt meinen Blick, grinst und hebt die Augenbraue. „Na? Noch nie eine wie mich gesehen?“
+
+Ich bringe nur ein Kopfschütteln zustande. Aber was auch immer es ist – Sini trägt es mit Stolz.
 
 Sie verschwindet in die kleinen Kaffeeküche, klappert mit Tassen und einem Topf. Der Geruch von Brühe kriecht wie Wärme in den Raum. Als sie zurückkommt, stellt sie mir eine dampfende Suppe auf den Tisch und einen Becher Kaffee daneben. „Varovasti,“ sagt sie – vorsichtig. Ich bin alles andere als vorsichtig. Ich schlinge, als hätte jemand in mir eine Tür aufgerissen, durch die nur noch Hunger passt. Der Löffel klappert gegen den Rand, ich höre mich selbst essen wie ein geprügelter Hund und schäme mich nicht einmal.
 
