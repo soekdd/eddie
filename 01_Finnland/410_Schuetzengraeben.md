@@ -45,7 +45,8 @@ flüstere ich.
 Sie dreht sich zu mir um. „Er kommt gleich,“ sagt sie. Ich verarbeite es kaum.
 Es ist, als spräche sie in einer anderen Frequenz. „Wer kommt?“ frage ich, weil
 ich jemanden in der Wohnung vermute; weil in meinen Fieberträumen immer jemand
-anwesend ist, wenn etwas Schlimmes passiert. „Der Vater eines Kollegen. Arzt. Er kennt mich.“
+anwesend ist, wenn etwas Schlimmes passiert. „Der Vater eines Kollegen. Arzt. Er
+kennt mich.“
 
 Die Türklingel reißt mich hoch. Ich starre, halb aus dem Sofa gerollt, halb im
 Traum. Wird jetzt die Polizei kommen? Werde ich — wieder — gepackt? Die Stimme
@@ -109,14 +110,17 @@ Füße neu. Ihre Finger sind sicher, der Druck fest, aber nie zu fest. Die neuen
 Verbände geben mir Sicherheit. Auch auf die kleinen Wunden an den Armen und
 Beinen trägt sie Creme auf, tupft, pustet manchmal, fast automatisch. Und dann
 zieht sie mir frische Sachen an, ihre eigenen, viel zu weit. Ich bin etwas
-größer als sie, aber so abgemagert, dass die Sachen an mir hängen wie Segel. Ich starre in den Spiegel. Sinis Jogginghose hängt traurig an mir herunter.
-Sini lehnt sich in den Türrahmen, zieht eine Augenbraue hoch und grinst:
-„Die Hose hängt wie ein Vorhang – da ist kein Po drin. Aber keine Sorge, ich krieg dich schon wieder rund an den richtigen Stellen.“
+größer als sie, aber so abgemagert, dass die Sachen an mir hängen wie Segel. Ich
+starre in den Spiegel. Sinis Jogginghose hängt traurig an mir herunter. Sini
+lehnt sich in den Türrahmen, zieht eine Augenbraue hoch und grinst: „Die Hose
+hängt wie ein Vorhang – da ist kein Po drin. Aber keine Sorge, ich krieg dich
+schon wieder rund an den richtigen Stellen.“
 
-Ich werde knallrot. „Sini!“
-Doch sie lacht nur, als hätte sie mir gerade das größte Kompliment der Welt gemacht.
+Ich werde knallrot. „Sini!“ Doch sie lacht nur, als hätte sie mir gerade das
+größte Kompliment der Welt gemacht.
 
-Als wär ich ein Bauprojekt, das sie aufpäppeln will… aber irgendwie fühlt es sich gut an, dass sie sich so kümmert.
+Als wär ich ein Bauprojekt, das sie aufpäppeln will… aber irgendwie fühlt es
+sich gut an, dass sie sich so kümmert.
 
 Aber in der Nacht kommt das Fieber zurück. Wieder halluziniere ich, sehe Fähren
 im Wohnzimmer, höre fremdes Lachen. Ich lache zurück, schwanke, falle fast. Dann

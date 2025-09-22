@@ -58,22 +58,52 @@
 
 ```
 
-Ich bin allein. Schon wieder. Sini hat mich eindringlich ermahnt, die Füße weiterhin zu schonen. „Kein Schritt zum Terminal, verstanden?“ Also sitze ich hier, barfuß auf dem alten Holzboden, und lasse meinen Blick durch ihre süße kleine Wohnung wandern.
+Ich bin allein. Schon wieder. Sini hat mich eindringlich ermahnt, die Füße
+weiterhin zu schonen. „Kein Schritt zum Terminal, verstanden?“ Also sitze ich
+hier, barfuß auf dem alten Holzboden, und lasse meinen Blick durch ihre süße
+kleine Wohnung wandern.
 
-Jetzt erkenne ich die Dinge, die mir vorher nur wie Kram vorkamen: die geschnitzten Löffel mit bunten Bändern, die Muster, die ich für bloßes Gekritzel gehalten habe – Sámi-Kunstwerke. Sie gehören genauso zu ihr wie die Poster an der Wand, Ramones und Dead Kennedys, leicht schief mit Klebeband fixiert. Sini ist beides: wild und stolz, Punk und Sámi.
+Jetzt erkenne ich die Dinge, die mir vorher nur wie Kram vorkamen: die
+geschnitzten Löffel mit bunten Bändern, die Muster, die ich für bloßes Gekritzel
+gehalten habe – Sámi-Kunstwerke. Sie gehören genauso zu ihr wie die Poster an
+der Wand, Ramones und Dead Kennedys, leicht schief mit Klebeband fixiert. Sini
+ist beides: wild und stolz, Punk und Sámi.
 
-An der Pinnwand hängt zwischen Kassenzetteln und Kinokarten ihr Studentenausweis von Helsinki. Ich trete näher, lese den Namen, das Foto – und bleibe erschrocken stehen. In drei Tagen hat sie Geburtstag!
+An der Pinnwand hängt zwischen Kassenzetteln und Kinokarten ihr Studentenausweis
+von Helsinki. Ich trete näher, lese den Namen, das Foto – und bleibe erschrocken
+stehen. In drei Tagen hat sie Geburtstag!
 
-Mir fällt ein, wie sie mich in den letzten Tagen bei Laune gehalten hat, hier eingesperrt zwischen Sofa, Küche und Bad. Kleine Matheaufgaben, immer mit einem Grinsen, so als würde sie mir heimlich Nachhilfe in Lebensfreude geben. Jetzt will ich etwas zurückgeben.
+Mir fällt ein, wie sie mich in den letzten Tagen bei Laune gehalten hat, hier
+eingesperrt zwischen Sofa, Küche und Bad. Kleine Matheaufgaben, immer mit einem
+Grinsen, so als würde sie mir heimlich Nachhilfe in Lebensfreude geben. Jetzt
+will ich etwas zurückgeben.
 
-Ich wühle in ihren Schubladen. Zwischen Kassetten, einem halben Dutzend Feuerzeugen und losen Münzen finde ich eine Kiste Buntstifte. Ich überlege: Soll ich ein blitzsauberes Blatt aus ihrem Schreibtisch nehmen? Oder lieber meinen völlig aufgeweichten Matheblock?
-Die Entscheidung fällt schnell: der Block. Eine Seite mit dunklen Wasserrändern, zerknittert, aber noch brauchbar. Genau richtig. Sie trägt meine Geschichte in sich – Entbehrung, Flucht, Rettung. Wie könnte es passender sein?
+Ich wühle in ihren Schubladen. Zwischen Kassetten, einem halben Dutzend
+Feuerzeugen und losen Münzen finde ich eine Kiste Buntstifte. Ich überlege: Soll
+ich ein blitzsauberes Blatt aus ihrem Schreibtisch nehmen? Oder lieber meinen
+völlig aufgeweichten Matheblock? Die Entscheidung fällt schnell: der Block. Eine
+Seite mit dunklen Wasserrändern, zerknittert, aber noch brauchbar. Genau
+richtig. Sie trägt meine Geschichte in sich – Entbehrung, Flucht, Rettung. Wie
+könnte es passender sein?
 
-Ein Regal steht voller finnischer und schwedischer Biologielehrbücher. Momemt, da ist es, ein Genetikbuch: "Perinnöllisyystiede: Molekyylibiologian perusteet". Ich schlage es auf, blättere, und bald fange ich an zu kichern. Eine Idee nimmt Gestalt an.
+Ein Regal steht voller finnischer und schwedischer Biologielehrbücher. Momemt,
+da ist es, ein Genetikbuch: "Perinnöllisyystiede: Molekyylibiologian perusteet".
+Ich schlage es auf, blättere, und bald fange ich an zu kichern. Eine Idee nimmt
+Gestalt an.
 
-Ich zeichne zwei verdrehte DNA-Doppelhelix-Stränge. Der eine bekommt eine blaue Irokesenfrisur, struppig wie Sini selbst, wenn sie frühmorgens verschlafen aus dem Bad kommt. Der andere Strang ist artiger: ich sticke ihm bunte Sámi-Muster an den Wendungen entlang.
+Ich zeichne zwei verdrehte DNA-Doppelhelix-Stränge. Der eine bekommt eine blaue
+Irokesenfrisur, struppig wie Sini selbst, wenn sie frühmorgens verschlafen aus
+dem Bad kommt. Der andere Strang ist artiger: ich sticke ihm bunte Sámi-Muster
+an den Wendungen entlang.
 
-Die Codons sind nicht zufällig: ich suche im Buch nach den Sequenzen, die für Prolin, Alanin, Methionin und Co. stehen. Auf der einen Helix bilden die Anfangsbuchstaben das Wort PUNK, auf der anderen SAMI. Neben den Codons lasse ich Kästchen frei – so wie bei ihren Matheaufgaben. Sini darf selbst herausfinden, welche Aminosäuren gemeint sind. Ein Rätsel, ein Kunstwerk, ein kleiner Biologie-Gruß für sie.
+Die Codons sind nicht zufällig: ich suche im Buch nach den Sequenzen, die für
+Prolin, Alanin, Methionin und Co. stehen. Auf der einen Helix bilden die
+Anfangsbuchstaben das Wort PUNK, auf der anderen SAMI. Neben den Codons lasse
+ich Kästchen frei – so wie bei ihren Matheaufgaben. Sini darf selbst
+herausfinden, welche Aminosäuren gemeint sind. Ein Rätsel, ein Kunstwerk, ein
+kleiner Biologie-Gruß für sie.
 
-Ich lehne mich zurück, betrachte mein Werk. Buntstiftspuren auf vergilbtem Papier, Ränder wie Landkarten einer langen Reise. Vielleicht ist es das schönste Geschenk, das ich je gemacht habe.
-Jetzt brauche ich nur noch einen Rahmen. Irgendwo in dieser Wohnung muss doch ein alter Bilderrahmen herumliegen…
+Ich lehne mich zurück, betrachte mein Werk. Buntstiftspuren auf vergilbtem
+Papier, Ränder wie Landkarten einer langen Reise. Vielleicht ist es das schönste
+Geschenk, das ich je gemacht habe. Jetzt brauche ich nur noch einen Rahmen.
+Irgendwo in dieser Wohnung muss doch ein alter Bilderrahmen herumliegen…
