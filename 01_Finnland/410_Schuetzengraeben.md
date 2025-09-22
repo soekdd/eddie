@@ -45,8 +45,7 @@ flüstere ich.
 Sie dreht sich zu mir um. „Er kommt gleich,“ sagt sie. Ich verarbeite es kaum.
 Es ist, als spräche sie in einer anderen Frequenz. „Wer kommt?“ frage ich, weil
 ich jemanden in der Wohnung vermute; weil in meinen Fieberträumen immer jemand
-anwesend ist, wenn etwas Schlimmes passiert. „Nur ein alter Kollege. Arzt. Er
-kennt mich.“
+anwesend ist, wenn etwas Schlimmes passiert. „Der Vater eines Kollegen. Arzt. Er kennt mich.“
 
 Die Türklingel reißt mich hoch. Ich starre, halb aus dem Sofa gerollt, halb im
 Traum. Wird jetzt die Polizei kommen? Werde ich — wieder — gepackt? Die Stimme
