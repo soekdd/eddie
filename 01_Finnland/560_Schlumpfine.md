@@ -129,7 +129,7 @@ Und so bekam ich den Namen Edda. Wie Edda Göring. Hässlich, oder? Aber immerhi
 gab es in der DDR auch eine Schauspielerin, die Edda hieß. Edda Dentges -- auf
 die konnte ich mich wenigstens berufen. Ada hingegen kannte wirklich niemand.
 
-Sini schiebt die Augenbrauen hoch. „Edda Göring? Echt jetzt? Das ist ja...
+Sini schiebt die Augenbrauen hoch. „Edda Göring? Echt jetzt? Das ist ja…
 irgendwie schräg."\ „Ja, oder? Aber hätte auch schlimmer kommen können weißt Du?
 Von heute aus betrachtet kann ich froh sein, dass mein Vater weder Pe-la-ge-ya
 Po-lu-ba-ri-nova-Ko-chi-na" - ich spreche den Namen extra langsam aus und betone

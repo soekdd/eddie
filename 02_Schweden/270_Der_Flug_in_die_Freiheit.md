@@ -31,6 +31,7 @@
   }
 }
 ```
+
 Ein netter Steward führt mich am meinen Platz, höflich, aber bestimmt, als
 draußen die schwarzen Limousinen direkt bis an die Treppe rollen. Türen klappen,
 Männer in dunklen Anzügen steigen aus, alles wirkt wie eine Filmszene. Wenig
@@ -61,7 +62,7 @@ Anzug, das Haar zurückgekämmt, wirkt wie einer, der gewohnt ist, in Sitzungen 
 reden. Er kommt zu mir, bleibt neben meinem Platz stehen, lächelt, als hätte er
 mich schon lange erwartet.
 
-„Entschuldigen Sie... ich kenne Sie doch."
+„Entschuldigen Sie… ich kenne Sie doch."
 
 Ich seufze innerlich. Klar kennt man mich, das Mädchen mit Hundebox, die
 Ostdeutsche im Regierungsflieger. Ich bin der bunte Hund, der aus der Reihe
@@ -110,7 +111,7 @@ ein Weg. Und ich beginne, mich in meine Zukunft hineinzuträumen.
 
 Er richtet sich auf, wünscht mir noch einen guten Flug und "bis dann gleich",
 will gerade an seinen Platz zwischen den grauen Anzügen gehen, da halte ich ihn
-zurück. „Eine Frage noch. Dieses Telefon hier im Flugzeug... wie funktionieren
+zurück. „Eine Frage noch. Dieses Telefon hier im Flugzeug… wie funktionieren
 das?"
 
 Er wirkt erstaunt. „Man braucht eine Kreditkarte."

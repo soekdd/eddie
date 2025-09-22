@@ -109,7 +109,7 @@ hättest du doch alles studieren können."
 
 Sie legt die Gabel beiseite und schaut aus dem Fenster. „Weißt du, nach der
 Schule wollte ich schnell eigenes Geld verdienen. Ich wollte nicht noch
-jahrelang in Hörsälen sitzen. Und..." Sie zögert kurz. „In meiner Heimatstadt
+jahrelang in Hörsälen sitzen. Und…" Sie zögert kurz. „In meiner Heimatstadt
 hätte es bald niemanden mehr gegeben, der die kleine Station besetzt. Also bin
 ich zurückgegangen. Ich dachte, es wäre richtig, das zu tun. Für die Leute dort,
 für meine Familie."

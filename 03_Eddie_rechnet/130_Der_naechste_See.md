@@ -1,18 +1,4 @@
----
 # Eddie rechnet – Tag 3: Land der tausend Seen (Wie nah ist man am Wasser?)
-
-```json
-{
-  "date": "1985-09-12",
-  "daytime": "day",
-  "place": "Vaasa, Küchentisch",
-  "persons": ["Eddie"],
-  "synopsis": "Abschätzung der Wahrscheinlichkeit, innerhalb von 1 km an einem See zu sein – mit geometrischer Flächen-Näherung.",
-  "mood": "spielerisch, plausibilitätsliebend",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "eddie-rechnet"
-}
-```
 
 **Aufgabe (Sinis Zettel).** „Finnland hat sehr viele Seen. Wie groß ist grob die
 Wahrscheinlichkeit, dass ein **zufällig** gewählter Punkt in Finnland
@@ -21,6 +7,7 @@ Wahrscheinlichkeit, dass ein **zufällig** gewählter Punkt in Finnland
 ---
 
 ## Modell-Idee
+
 Ich nutze eine Flächenabschätzung: Wenn Seen gemeinsam die Flächenfraktion \(w\)
 des Landes bedecken, dann ist die „1‑km‑Uferzone“ näherungsweise die
 **Minkowski‑Summe** der Wasserflächen mit einem 1‑km‑Kreis. Deren Fläche ist
@@ -30,7 +17,7 @@ ist. Den zweiten Term nennt man „Randaufdickung“. Exakt bräuchte man die re
 **Uferlänge** (küstenlinie‑artig), die sehr groß ist. Ich arbeite mit einer
 robusten Ober‑/Unterabschätzung.
 
-- **Untergrenze:** Ignoriere den Randterm → \(\Pr(\le1\,\text{km})\ge w\).  
+- **Untergrenze:** Ignoriere den Randterm → \(\Pr(\le1\,\text{km})\ge w\).
 - **Obergrenze:** Binde den Randterm durch Isoperimetrie: Für gegebene Gesamtfläche ist der **Kreis** perimeter‑minimal. Also
 \[ P_{\text{Wasser}} \ge 2\sqrt{\pi A_{\text{Wasser}}}. \] Das setzt eine
 **Untergrenze** für \(P\), aber ich brauche eine **Plausibilitätsgröße**. Real
@@ -58,6 +45,7 @@ also \[ \Pr(\le 1\,\text{km}) \approx 14\%. \]
 ---
 
 ## Ergebnis (plausibel, erzählbar)
+
 Eine robuste Schätzung liegt zwischen **10 %** (nur Wasserfläche) und **≈ 15 %**
 (mit moderatem Randterm). Für „Land der tausend Seen“ ist **„jede/r Siebte bis
 Zehnte“** in 1 km‑Nähe zum See **plausibel**.

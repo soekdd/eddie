@@ -36,7 +36,7 @@ irgendwo zwischen den Atlanten der Sowjetunion und der Wandtafel mit den
 Lehrplänen. Ich hatte mich reingeschlichen, wieder mal. Es war kalt und der Neon
 flackerte über mir wie eine schlechtgelaunte Glühbirne. Und ich, mit meinem
 karierten Heft und der zittrigen Kopie eines alten Messetischblatts von
-Finnland, fühlte mich... groß. Nicht wichtig-groß, sondern so... still groß. Wie
+Finnland, fühlte mich… groß. Nicht wichtig-groß, sondern so… still groß. Wie
 jemand, der etwas weiß, was niemand sonst bemerkt.
 
 Damals hab ich zum ersten Mal von Alexandria gehört. Nicht vom Ort – den kannte

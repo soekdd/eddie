@@ -38,7 +38,7 @@ Wir liegen im Dunkeln auf Sinis Sofa. Die Uhr auf dem Küchentisch tickt leise,
 als wolle sie uns verhöhnen. Jedes Ticken sagt: noch eine Minute weniger. Noch
 eine Nacht, die wir verlieren.
 
-„Was, wenn wir einfach... morgen einen anderen Bus probieren?" frage ich.\ „Und
+„Was, wenn wir einfach… morgen einen anderen Bus probieren?" frage ich.\ „Und
 wenn die wieder fragen, wie alt du bist?"\ „Sag ich was anderes."\ „Die schauen
 in deinem Pass, Eddie. Das bringt doch nichts."
 
@@ -79,8 +79,8 @@ Sini", sage ich stolz zu Raija.
 
 Wir stehen noch keine fünf Minuten zusammen, da fällt der Schatten auf das
 Gespräch.\ „Ich hab gestern was im Funk gehört, Eddie. Von dir. Am
-Fährterminal."\ Mir wird schlagartig kalt. „Wenn *du* es gehört hast..."\
-„...dann hat es Mielke auch", beendet sie den Satz für mich.
+Fährterminal."\ Mir wird schlagartig kalt. „Wenn *du* es gehört hast…"\
+„…dann hat es Mielke auch", beendet sie den Satz für mich.
 
 Die Luft zwischen uns wird schwer. Kein Lächeln mehr. Nur die Stille, in der wir
 alle wissen, was das heißt. Wir schauen uns um.
@@ -99,7 +99,7 @@ gestern. Es knistert -- nicht vor Hoffnungslosigkeit, sondern vor einer Idee,
 die langsam Form annimmt.
 
 Sini stützt den Kopf in die Hand. „Es gibt hier Zöllner, die alles ganz genau
-nehmen... und andere, die einer hübschen jungen Frau schon mal einen Gefallen
+nehmen… und andere, die einer hübschen jungen Frau schon mal einen Gefallen
 tun." Sie zieht eine Augenbraue hoch, als wollte sie mir sagen, wer die „hübsche
 junge Frau" in diesem Plan wohl wäre. Ich starre zurück, versuche nicht rot zu
 werden.
@@ -111,13 +111,13 @@ vielleicht durch."
 Raija, die bisher schweigend zugehört hat, schüttelt den Kopf. „Dieser
 Busfahrer-Plan war Mist. Wir machen das sauberer. Zwei Tickets -- eins hin und
 zurück für mich, eins ohne Rückfahrt für dich. Ich begleite dich in Uniform, wie
-bei einer Gefangenenüberführung."\ „Klingt... offiziell", sage ich und versuche,
+bei einer Gefangenenüberführung."\ „Klingt… offiziell", sage ich und versuche,
 mich nicht zu sehr in das Bild hineinzusteigern, wie ich in Handschellen, aber
 frei, nach Schweden fahre.
 
 „Offiziell reicht nicht", sagt Raija. „Ich brauch was auf Papier."
 
-Da fällt es mir ein. „Was, wenn wir... eins dieser Fax schicken?"\ Die beiden
+Da fällt es mir ein. „Was, wenn wir… eins dieser Fax schicken?"\ Die beiden
 sehen mich an, als hätte ich vorgeschlagen, wir fliegen einfach mit einem
 Heißluftballon über die Ostsee. „Ein Fax?", fragt Sini.\ „Ja! Die Dinger sind
 neu, sehen furchtbar wichtig aus. Jede Polizeistation in Finnland hat so eines."
@@ -189,7 +189,7 @@ Aber sie hat mir etwas mitgegeben, das nicht an irgendeiner Grenze hängenbleibt
 Raija lehnt sich neben mich an die Reling, schaut lange aufs Wasser, als würde
 sie dort unten die passenden Worte finden.
 
-„Eddie...", sagt sie schließlich, „warum bist du damals so plötzlich aus meiner
+„Eddie…", sagt sie schließlich, „warum bist du damals so plötzlich aus meiner
 Wohnung abgehauen? Ich hab überall nach dir gesucht."
 
 Ihre Stimme ist ruhig, aber dahinter liegt etwas Hartes -- Sorge oder vielleicht
@@ -205,11 +205,11 @@ dachte, du weißt es. Wegen Jorma."
 Es dauert ein paar Sekunden, bis sie versteht. Ihre Stirn zieht sich zusammen.
 "Oh, nein!" ruft sie. "Was genau ist passiert?"
 
-"Als er am Morgen zurückkam, ... Er war betrunken und immer noch sauer auf mich.
+"Als er am Morgen zurückkam, … Er war betrunken und immer noch sauer auf mich.
 Da er keine Argumente mehr hatte, fing ich mir ne Ohrfeige von ihm."
 
 Raija stößt einen leisen, bitteren Laut aus. „Verdammt. Und ich war nicht da.
-Hätte ihn rausschmeißen sollen, längst..." Sie schüttelt den Kopf, als wollte
+Hätte ihn rausschmeißen sollen, längst…" Sie schüttelt den Kopf, als wollte
 sie den Gedanken loswerden.
 
 „Ich bin dir damals gefolgt", sage ich leise. „Mit dem Zug bis Tampere. Bin
@@ -226,7 +226,7 @@ später erfahren, dass einer von Jormas Freunden bei der SKOL Kontakt zur Stasi
 aufgenommen hat. Jorma wusste nicht, dass er dich verraten würde. Er war total
 unvorsichtig. Unentschuldbar unvorsichtig."
 
-Mir wird kurz kalt, obwohl der Wind heute mild ist. „Und das war, bevor...?"
+Mir wird kurz kalt, obwohl der Wind heute mild ist. „Und das war, bevor…?"
 
 „Bevor Jorma dich geschlagen hat. Aber du warst schon weg, als die Männer der
 Stasi vor unserer Wohnung standen… Glück im Unglück."

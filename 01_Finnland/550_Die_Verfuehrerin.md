@@ -82,7 +82,7 @@ trotzig, halb neugierig.
 Und ja, das Outfit funktioniert -- leider nicht auf diese schwesterliche Art,
 wie ich's mir von Sini wünschen würde. Sie tanzt um mich herum wie ein Kind, das
 gerade ein besonders gefährliches Haustier bekommen hat. "Sini, ich bin ein
-gutes Stück größer als Du, findest Du nicht, alles ist etwas... ...kurz?"\
+gutes Stück größer als Du, findest Du nicht, alles ist etwas… …kurz?"\
 „Absolut Eddie, absolut! Was soll ich sagen -- du bist heiß!"
 
 Ich habe keine Zeit, das richtig zu verdauen, da schleift sie mich ins Bad und
@@ -106,14 +106,14 @@ endlich ganz verschwindet."
 
 So ausstaffiert marschiere ich zur langen Schlange der wartenden Busfahrer. Ich
 fühle mich nackt. Billig. Als hätte ich eine fremde Hülle übergestreift, die an
-Sini vermutlich umwerfend aussieht -- und an mir... na ja.
+Sini vermutlich umwerfend aussieht -- und an mir… na ja.
 
 Die Busfahrer sehen das anders. Die Fenster, die sonst höchstens einen Spalt
 aufgingen, gehen jetzt ganz runter. Erste Sprüche, erstes Lachen. Die ersten
 zwei, drei Fahrer bekommen noch meine schüchterne Eddie-Variante. Keiner hat
 Platz frei.
 
-Aber dann... ich weiß nicht, ob's das Top ist, der Rock oder einfach die
+Aber dann… ich weiß nicht, ob's das Top ist, der Rock oder einfach die
 Tatsache, dass ich beschlossen habe, *jetzt* zu gewinnen -- werde ich mutiger.
 Fange an zu lachen, zu kontern, scherzend von Bus zu Bus zu tingeln. Bislang
 jedoch kein freies Ticket.

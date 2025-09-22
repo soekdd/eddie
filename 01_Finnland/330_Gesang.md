@@ -36,7 +36,7 @@
 In der Hütte riecht es nach feuchtem Holz und Rauch, weil jemand das Feuer nicht
 richtig anbekommen hat. Wir sitzen dicht gedrängt auf den Pritschen, Beine
 verschränkt, Jacken halb über die Schultern geworfen. Jemand fängt an zu summen,
-erst ganz leise, und plötzlich höre ich die Worte: *„Die Gedanken sind frei..."*
+erst ganz leise, und plötzlich höre ich die Worte: *„Die Gedanken sind frei…"*
 
 Ich kenne das Lied natürlich. Wir haben es zu Hause auch schon gesungen, aber
 eher heimlich, auf Geburtstagen oder wenn die Eltern sicher waren, dass kein
@@ -67,7 +67,7 @@ als wäre ich gerade einen Marathon gelaufen. Dann fängt Sabine plötzlich an, 
 dem Boden mit der Hand einen Takt zu klopfen und Conny summt eine Melodie, die
 ich sofort erkenne: *Imagine.*
 
-„*Imagine all the people...*" -- sie singen auf Englisch, etwas unsicher, ein
+„*Imagine all the people…*" -- sie singen auf Englisch, etwas unsicher, ein
 bisschen holprig, aber ich kapiere sofort, was gemeint ist. Ich stolpere bei der
 Aussprache, aber das macht nichts. Wir lachen uns zwischendurch selber aus, wenn
 einer einen Ton verpasst oder zu früh einsetzt. Und trotzdem klingt es --
@@ -122,14 +122,14 @@ Saiten angestrengt, ihr Gesicht hell aufgeleuchtet im Licht der Taschenlampe --
 sie spielt Gitarre, und wie! Ich erkenne die Melodie sofort, obwohl ich das Lied
 bisher kaum bewusst gehört habe.
 
-„Du willst mich küssen...", Conny singt den Einstieg vorsichtig, und wir anderen
+„Du willst mich küssen…", Conny singt den Einstieg vorsichtig, und wir anderen
 stürzen uns mit rein. Sabine fängt im Hintergrund an zu hüpfen, als wäre da ein
 Impuls, der uns alle sofort überkommt. Peter trommelt auf die Bierdose, Matti
 grinst breit und holt sich einen kleinen Toneinsatz.
 
 Ich selbst singe schief, laut, ungestüm, als wäre dieses Lied eine Kampfansage
 an alles, was uns innewohnt: Sehnsucht und ein bisschen Rebellion zugleich.
-„\...You want to kiss me..." -- wir bringen den Text über die Lippen, trotz des
+„\…You want to kiss me…" -- wir bringen den Text über die Lippen, trotz des
 holprigen Englisch, mit einem unbändigen Willen. Mein Herz hämmert, und ich
 spüre, wie es mir ganz warm wird.
 

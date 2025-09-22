@@ -58,8 +58,8 @@ Fesseln von ihm genommen. Ein Zittern geht durch ihn, und dann laufen ihm die
 Tränen übers Gesicht. Einfach so, mitten im Institut, vor allen verbliebenen
 Kollegen.
 
-Sein Chef ist verwirrt, gerührt, vielleicht ein bisschen beschämt. „Aber... das
-nimmst Du Dir ja sehr zu Herzen, mein Lieber..."
+Sein Chef ist verwirrt, gerührt, vielleicht ein bisschen beschämt. „Aber… das
+nimmst Du Dir ja sehr zu Herzen, mein Lieber…"
 
 Doch mein Vater hört ihn gar nicht mehr. Er springt auf, stößt fast den Stuhl um
 und rennt. Ja, er rennt -- durch die langen Gänge der Gebäudes, hinaus auf die

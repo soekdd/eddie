@@ -59,7 +59,7 @@ der Freiheit kommt der Abschied. Von diesem Zimmer, dieser Familie, von Vidar.
 „Ja."
 
 Eine Pause, in der die Stadt wieder ganz still wird. Dann sagt er: „Ich habe
-gedacht... wir sind wie Linien, die fast zusammenkommen. Aber eben nur fast."
+gedacht… wir sind wie Linien, die fast zusammenkommen. Aber eben nur fast."
 
 Ich lächle gegen die Dunkelheit. „Asymptoten."
 

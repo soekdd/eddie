@@ -232,7 +232,7 @@ als wollte sie sagen: *Du brauchst das mehr als ich.*
 „Ich glaube, ich kann jetzt gehen“, sagt Maria. „Ist das in Ordnung für dich?“
 
 „Ja Maria“, sage ich, „vielen lieben Dank, du warst großartig. Mit dem Geläut
-und dass du die Polizei gerufen hast – vielen Dank - und das viele Geld...“
+und dass du die Polizei gerufen hast – vielen Dank - und das viele Geld…“
 
 Auch Raija und der ältere Kollege bedanken sich herzlich bei Maria und führen
 sie zur Tür. Sie winkt, und ich schaue ihr hinterher auf die Straße. Von den

@@ -1,19 +1,5 @@
 # Kartenspiel mit Ada
 
-```json
-{
-  "chapter": 1,
-  "section": "Eddie rechnet",
-  "title": "Eddie erklärt Adas Analytical Engine am Beispiel",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Diophantische Gleichungen: Busfahrt-Erklärung + Tampere-Beispiel (3 Säcke Reis + 4 Säcke Nudeln für 55 Markka)."
-}
-```
-
 Heute rechne ich **wie Ada**. Keine Panik: Ich nehme dich an die Hand, Schritt
 für Schritt, und wenn ich dabei zu schnell werde, pfeif mich einfach innerlich
 zurück. Ich kann nämlich sehr gut zu schnell werden. Ada wollte damals mit Hilfe

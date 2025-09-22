@@ -74,7 +74,7 @@ Regal, Papas Zirkelkasten, halb offen, als hätte er sich erschrocken. Ich lese:
 Papa war vier Monate in Untersuchungshaft. Ich setze den Finger an die Stelle,
 weil die Zeile verrutscht; die Buchstaben werden weich, als wären sie aus
 Wasser, und ich blinzle so stark, dass es fast wehtut. Vier
-Monate...meinetwegen!
+Monate…meinetwegen!
 
 „Jetzt ist er wieder zu Hause“, steht da. Ich lese den Satz zweimal, dreimal,
 bis mein Herz ihn glaubt. Sein Professor habe sich für ihn eingesetzt. Ich

@@ -49,8 +49,8 @@ riesiger Esstisch aus hellem Holz. Auf der Anrichte stapeln sich Obstschalen,
 als wäre das alles selbstverständlich. Ich fühle mich wie eine Einbrecherin im
 Paradies.
 
-Vidar sieht meinen Blick, wird rot. „Es ist... ich weiß, es ist viel. Ich hab
-das nie so..." Er bricht ab, senkt den Kopf.
+Vidar sieht meinen Blick, wird rot. „Es ist… ich weiß, es ist viel. Ich hab
+das nie so…" Er bricht ab, senkt den Kopf.
 
 Ich schüttle den Kopf. „Es ist unglaublich." Meine Stimme klingt ehrfürchtig,
 obwohl ich es gar nicht will. „So was habe ich noch nie gesehen. Vielleicht mal
@@ -90,7 +90,7 @@ verschränkt. Der Kuss, der uns eben noch überrascht hat, brennt immer noch nac
 Ich spüre, wie Vidar zittert, wie er kaum weiß, wohin mit sich.
 
 Ich löse mich ein Stück, sehe ihm in die Augen. „Es ist okay," flüstere ich.
-„Ich weiß, dass du's noch nie..." Er nickt hastig, errötet, und ich lege meine
+„Ich weiß, dass du's noch nie…" Er nickt hastig, errötet, und ich lege meine
 Hand auf seine Wange. „Ich bin hier. Ich zeige dir, wie."
 
 Wir küssen uns wieder, diesmal langsamer. Ich führe, gebe den Rhythmus, spüre,
@@ -121,7 +121,7 @@ und ich weiß: Für ihn war es das erste Mal. Für mich ist es das erste Mal, da
 es wirklich zählt.
 
 Ich lege meinen Kopf auf seine Brust, höre sein Herz, gleichmäßig und stark.
-„Vidar," flüstere ich. „Das hier... das war Liebe."
+„Vidar," flüstere ich. „Das hier… das war Liebe."
 
 Und als ich die Augen schließe, weiß ich: Ich habe ihn nicht nur geküsst, ich
 habe ihn in mich aufgenommen -- in meinen Körper, in mein Herz, in mein Leben.
@@ -184,7 +184,7 @@ nicht nur nachts, nicht nur wenn alles brennt. Sondern auch jetzt, im ganz
 normalen Morgenlicht.
 
 Langsam öffnet er die Augen. Blinzelt. Und dann dieses Lächeln, halb
-verschlafen, halb überrascht. „Eddie..." flüstert er, als könnte er's nicht
+verschlafen, halb überrascht. „Eddie…" flüstert er, als könnte er's nicht
 glauben.
 
 „Guten Morgen," sage ich, und küsse ihn noch einmal auf die Stirn.
@@ -203,7 +203,7 @@ die ich sonst nur von Westpaketen oder Schaufenstern kenne. Käse in allen
 Farben, Butter, Joghurt, Wurst, ein ganzer Berg von Südfrüchten, sogar eine
 Schachtel mit Erdbeeren -- im Winter!
 
-Ich bleibe wie angewurzelt stehen. „Ihr habt... das alles einfach so?" frage ich
+Ich bleibe wie angewurzelt stehen. „Ihr habt… das alles einfach so?" frage ich
 leise, fast ehrfürchtig.
 
 Vidar sieht verlegen zu Boden. „Meine Eltern kaufen viel. Manches wird nicht mal

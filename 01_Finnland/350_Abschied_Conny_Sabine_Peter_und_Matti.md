@@ -71,7 +71,7 @@ Stimmung. Vier Gesichter schauen mich mit einer fast strengen Empörung an.
 
 Und ich spüre plötzlich, wie verbindlich sie ist, wie sicher, fast so, als hätte
 sie für mich einen Platz in ihrer Welt reserviert. Mir wird warm ums Herz. Ich
-nicke, leise: „Danke. Wirklich ... danke." Und für einen Moment träume ich mich
+nicke, leise: „Danke. Wirklich … danke." Und für einen Moment träume ich mich
 nach Paderborn: eine kleine Wohnung, eine Uni, ich mit Heften voller
 Gleichungen, nicht als Außenseiterin, sondern als eine von vielen, die an
 Mathematik Freude haben. Und draußen stehen Freunde, die schon auf mich warten.

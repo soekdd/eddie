@@ -52,7 +52,7 @@ Raijas Griff an meiner Hand ist fest, beruhigend, und gleichzeitig spüre ich da
 Ziehen der Angst in mir. Bald werde ich wieder allein sein.
 
 Am Bahnhof kauft sie mir ein Ticket nach Stockholm. Ich halte es fest, prüfe das
-Datum, den Wagen, die Nummer. Mein Herz klopft wie wild. „Danke, Raija... für
+Datum, den Wagen, die Nummer. Mein Herz klopft wie wild. „Danke, Raija… für
 alles. Für damals, für heute, einfach für alles", sage ich leise, die Worte
 brechen ein wenig.
 
@@ -65,7 +65,7 @@ diesem Schutz. Aber wir müssen. Sie sieht die Angst in meinen Augen, nickt nur
 leicht und drückt meine Hände noch einmal. „Geh, kleine Eddie. Sei vorsichtig,
 und komm zurück, wenn alles vorbei ist."
 
-Ich kann die Tränen kaum zurückhalten. „Ich... danke dir... für alles."\ „Du
+Ich kann die Tränen kaum zurückhalten. „Ich… danke dir… für alles."\ „Du
 hast nichts zu danken", sagt sie und lächelt dabei so, dass die Wärme durch den
 kalten Bahnhof zieht. „Nur geh, jetzt. Ich sehe dich wieder."
 

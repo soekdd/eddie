@@ -1,18 +1,4 @@
----
 # Eddie rechnet – Tag 1: Fischsee (kleines Öko‑Modell)
-
-```json
-{
-  "date": "1985-09-10",
-  "daytime": "day",
-  "place": "Vaasa, Küchentisch",
-  "persons": ["Eddie"],
-  "synopsis": "Ein einfaches Zwei-Zustands-Modell (Jungfische/Altfische) als Rekurrenz. Sini fragt, wie sich ein Bestand über mehrere Jahre entwickelt.",
-  "mood": "konzentriert, verspielt-didaktisch",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "eddie-rechnet"
-}
-```
 
 **Aufgabe (Sinis Zettel).** „In einem kleinen, isolierten See leben zu Beginn
 ausschließlich *Altfische*: \(A_0 = 100\), *Jungfische* \(J_0 = 0\). Pro Jahr
@@ -25,11 +11,12 @@ insgesamt?“
 ---
 
 ## Modell
+
 Ich betrachte Anfang jedes Jahres \(t\) die Zahlen \(A_t\) (Altfische) und
 \(J_t\) (Jungfische). Während Jahr \(t\):
 
-- Reproduktion: \(J_t = A_t\).  
-- Sterblichkeit der Altfische zum Jahresende: \(0{,}4\,A_t\) sterben, also überleben \(0{,}6\,A_t\).  
+- Reproduktion: \(J_t = A_t\).
+- Sterblichkeit der Altfische zum Jahresende: \(0{,}4\,A_t\) sterben, also überleben \(0{,}6\,A_t\).
 - Reifung: Alle \(J_t\) werden zu Altfischen im nächsten Jahr.
 
 Daraus folgt die Rekurrenz für die Altfische: \[ A_{t+1} = 0{,}6\,A_t + J_t =
@@ -39,9 +26,10 @@ Jungfische gleich den aktuellen Altfischen: \(J_t = A_t\).
 ---
 
 ## Rechnung
-- \(A_0 = 100\).  
-- \(A_1 = 1{,}6\cdot 100 = 160\).  
-- \(A_2 = 1{,}6\cdot 160 = 256\).  
+
+- \(A_0 = 100\).
+- \(A_1 = 1{,}6\cdot 100 = 160\).
+- \(A_2 = 1{,}6\cdot 160 = 256\).
 - \(A_3 = 1{,}6\cdot 256 = 409{,}6\).
 
 Die Gesamtzahl zu Beginn von Jahr 3 (Altfische + Jungfische) ist \[ N_3 = A_3 +
@@ -51,6 +39,7 @@ Fische**.
 ---
 
 ## Kommentar
+
 Das Modell ist bewusst „*light*“ (keine Jungfischsterblichkeit, keine
 Dichtebegrenzung). Es illustriert eine **lineare Rekurrenz** mit konstantem
 Faktor \(1{,}6\). Real würde Wachstum durch Ressourcen (logistisches Modell)

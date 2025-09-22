@@ -124,7 +124,7 @@ nur für die Sprache. Sonst: ‚sowjetisch‘.“
 „Sowjetisch“, wiederholte ich brav. „Я Эдмила, красивая типичная советская
 девочка. Ich bin Edmilla, ein hübsches, typisch sowjetisches Mädchen. Schlank,
 im Kleidchen, mit albernen Spangen und Bändern im Haar, notorisch unpünktlich,
-immer mit riesiger Tasche. Politisch aber zuverlässig.... ...und trage schwarze
+immer mit riesiger Tasche. Politisch aber zuverlässig…. …und trage schwarze
 Schuhe!“
 
 „Was? Wieso?“

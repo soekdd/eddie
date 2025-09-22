@@ -39,13 +39,13 @@ nicht, wohin damit.
 
 Ich will eigentlich gar nichts sagen. Mir reicht es, neben ihm zu sein. Aber
 dann spricht er, leise, so als müsste er sich dazu zwingen:\ „Manchmal fühle ich
-mich hier... als wäre ich nicht wirklich Teil davon."
+mich hier… als wäre ich nicht wirklich Teil davon."
 
 Ich drehe den Kopf zu ihm, er schaut geradeaus.
 
 „Meine Eltern sind Schweden", sagt er. „Sie haben mich aus Südkorea adoptiert,
 da war ich noch ein Baby. Ich habe davon keine Erinnerung. Aber in der Schule,
-im Bus, auf der Straße... ich bin immer der, der anders aussieht."
+im Bus, auf der Straße… ich bin immer der, der anders aussieht."
 
 Seine Stimme zittert kaum merklich. Ich sehe die angespannte Linie seines
 Kiefers. Er spricht, als wäre es das erste Mal, dass er es laut ausspricht.
@@ -55,11 +55,11 @@ aber ich bin es. Immer die Fremde, die nicht dazugehört.*
 
 Er seufzt. „Meine Eltern meinen es gut. Sie lieben mich. Aber sie verstehen
 nicht, wie es ist, wenn du nie so aussiehst wie die anderen. Wenn sie dich immer
-anschauen, als wärst du... von woanders."
+anschauen, als wärst du… von woanders."
 
 Ich merke, wie mir ein Kloß im Hals wächst. Eigentlich wollte ich ihn fragen, ob
 er sich nicht manchmal schämt, neben mir zu sitzen. Mit meiner abgetragenen
-Jacke, den schmutzigen Schuhen. Aber jetzt... jetzt verstehe ich, dass er auch
+Jacke, den schmutzigen Schuhen. Aber jetzt… jetzt verstehe ich, dass er auch
 Scham kennt. Nur eine andere.
 
 „Ich weiß genau, was du meinst", sage ich. Meine Stimme klingt fester, als ich
@@ -121,7 +121,7 @@ Und dann gehen meine Gedanken weiter, tiefer. Ich sehe meine Hand, wie sie unter
 sein Shirt gleitet, seine Haut berührt, warm und lebendig. Ich spüre, wie mir
 heiß wird bei dem Gedanken, mein Atem schneller. Ich habe schon Körper gekannt,
 weiß, wie es sich anfühlt, Haut an Haut. Aber diesmal wäre es anders. Nicht nur
-Neugier. Nicht nur Ablenkung. Es wäre... weil ich es will. Weil er es ist.
+Neugier. Nicht nur Ablenkung. Es wäre… weil ich es will. Weil er es ist.
 
 Ich schließe die Augen, halte den Brief fest, so fest, dass meine Finger wehtun.
 „Verdammt", flüstere ich in die Nacht, „ich glaube, ich will es wirklich."
@@ -141,7 +141,7 @@ Kribbeln durch meinen ganzen Arm, als hätte jemand Strom durch mich gejagt.
 
 Ich ziehe die Hand erschrocken zurück, halte den Becher viel zu fest, als könnte
 er mir sonst aus den Fingern rutschen. Mein Herz hämmert, als stünde ich wieder
-auf der Flucht. Nur diesmal ist es kein Grauen. Es ist... etwas anderes.
+auf der Flucht. Nur diesmal ist es kein Grauen. Es ist… etwas anderes.
 
 Ich wage einen Blick zu ihm. Vidar schaut weg, aber ich sehe, wie seine Wangen
 leicht gerötet sind. Er räuspert sich, als wolle er etwas sagen, doch dann tut

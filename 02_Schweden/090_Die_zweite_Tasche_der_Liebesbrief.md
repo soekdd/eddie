@@ -109,7 +109,7 @@ bringt nichts, die Tränen laufen einfach weiter.
 
 „*Dankbarkeit ist nicht Liebe.*" flüstere ich, und meine Stimme klingt fremd.
 Ich streichle Streuners Kopf, der sich schwer auf meinen Oberschenkel legt.
-„Hörst du das, Kleiner? Ich soll nicht dankbar sein. Ich soll... lieben können."
+„Hörst du das, Kleiner? Ich soll nicht dankbar sein. Ich soll… lieben können."
 
 Streuner seufzt tief, als würde er mich verstehen. Ich drücke den Brief an meine
 Brust, lese weiter, stolpere über jedes Wort, bis ich wieder bei diesem Satz

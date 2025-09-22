@@ -113,7 +113,7 @@ Ich muss lachen. Diophantos, der alte Grieche mit seinen Bauern und Kühen, wür
 staunen: Meine Gleichung heißt Überleben. Bauer Eddie hat zwei Kühe namens Reis
 und zwei Schweine namens Nudeln.
 
-> **➡ Die diophantische Gleichung #2...**\
+> **➡ Die diophantische Gleichung #2…**\
 > (Wie Eddie all ihr Geld exakt für Reis und Nudeln hätte ausgeben können, findest Du im Kapitel 4 von „Eddie rechnet“.)
 
 Mit meinen Beuteln – Rucksack konnte ich mir nicht leisten – setze ich mich in

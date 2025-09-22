@@ -99,7 +99,7 @@ Weihnachtslied singen?"
 
 Mir bleibt der Bissen fast im Hals stecken. Alle Augen sind auf mich gerichtet.
 Ich will nein sagen, weglaufen. Aber dann nicke ich, tapfer. Ich hole tief Luft
-und singe, leise zuerst, dann fester: *„Stille Nacht, heilige Nacht..."*
+und singe, leise zuerst, dann fester: *„Stille Nacht, heilige Nacht…"*
 
 Die Stimmen verstummen, der Raum wird still. Am Ende klatschen sie, lächeln mir
 zu, manche mit Tränen in den Augen. Ich schäme mich und bin stolz zugleich.
@@ -130,7 +130,7 @@ Wir sitzen im Wohnzimmer, nur die Familie, der Baum im Kerzenlicht. Es knistert
 leise im Kamin. Ich halte den kleinen Papierstern in der Hand, so zerbrechlich,
 dass er mir fast zu leicht vorkommt. Meine Knie wackeln vor Nervosität.
 
-„Ich... ich hab auch etwas," sage ich stockend. Alle schauen zu mir. Ich atme
+„Ich… ich hab auch etwas," sage ich stockend. Alle schauen zu mir. Ich atme
 tief durch, halte den Stern hoch. „Für euren Baum."
 
 Einen Moment lang ist es ganz still. Dann nimmt Vidars Mutter ihn vorsichtig
@@ -149,7 +149,7 @@ Atem.
 Darunter meine krakelige Schrift: *Meine erste richtige Familie.*
 
 Seine Augen glänzen. Er sieht mich an, so überwältigt, dass mir selbst die
-Tränen kommen. „Eddie..." flüstert er, und mehr braucht er nicht zu sagen.
+Tränen kommen. „Eddie…" flüstert er, und mehr braucht er nicht zu sagen.
 
 Für einen Moment ist es, als gäbe es nur uns beide und den Stern im Baum.
 
@@ -187,7 +187,7 @@ sich in den glänzenden Kugeln. Ich sitze noch immer da, die Bettwäsche im Scho
 wie ein Kind, das nicht weiß, ob es gerade träumt.
 
 Vidars Mutter sieht mich an, lange, prüfend. Dann sagt sie, fast beiläufig, als
-spräche sie nur einen Gedanken aus: „Eddie... es ist nicht gut, dass du draußen
+spräche sie nur einen Gedanken aus: „Eddie… es ist nicht gut, dass du draußen
 schläfst."
 
 Mir rutscht das Herz in die Hose. Tief in meinem Herzen hoffe ich ganz fest, ich
@@ -236,7 +236,7 @@ warmes Bett. Mit Decken. Mit Essen, das nie ausgeht. Mit Sicherheit."
 
 Streuner schnaubt, leckt mir übers Gesicht.
 
-Ich presse die Augen zu. „Aber... ohne dich." Die Worte brechen mir fast die
+Ich presse die Augen zu. „Aber… ohne dich." Die Worte brechen mir fast die
 Kehle.
 
 Für einen Moment sehe ich alles vor mir: ein Zimmer mit einem Bett, sauber und
@@ -273,13 +273,13 @@ wedelt glücklich mit dem Schwanz.
 Ich habe die ganze Nacht kaum geschlafen. Die Worte sitzen mir im Hals, schwer
 wie Steine. Aber irgendwann muss ich sie sagen.
 
-„Vidar," beginne ich leise. „Ich... ich kann nicht ohne ihn. Wenn deine Eltern
-wollen, dass ich ohne Streuner einziehe... dann geht das nicht."
+„Vidar," beginne ich leise. „Ich… ich kann nicht ohne ihn. Wenn deine Eltern
+wollen, dass ich ohne Streuner einziehe… dann geht das nicht."
 
 Er bleibt stehen, sieht mich an, als hätte ich ihm gerade den Boden weggezogen.
-„Eddie... bitte. Weißt du überhaupt, was sie dir angeboten haben? Ein Zuhause.
+„Eddie… bitte. Weißt du überhaupt, was sie dir angeboten haben? Ein Zuhause.
 Sicherheit. Alles, wovor du seit Monaten wegrennst. Und du willst das
-aufgeben... wegen eines Hundes?"
+aufgeben… wegen eines Hundes?"
 
 Seine Stimme klingt härter, als ich es je von ihm gehört habe. Fast ein Vorwurf.
 Ich zucke zurück, als hätte er mich geschlagen.
@@ -287,8 +287,8 @@ Ich zucke zurück, als hätte er mich geschlagen.
 „Es ist nicht *einfach nur* ein Hund," stoße ich hervor. „Ohne ihn wäre ich
 nicht hier. Er hat mich beschützt, er hat mich gerettet. Er ist mein Zuhause."
 
-Vidar fährt sich durchs Haar, seine Augen voller Frust. „Du verstehst nicht...
-meine Eltern... sie akzeptieren dich gerade erst. Sie haben einen Riesenschritt
+Vidar fährt sich durchs Haar, seine Augen voller Frust. „Du verstehst nicht…
+meine Eltern… sie akzeptieren dich gerade erst. Sie haben einen Riesenschritt
 gemacht. Und jetzt stellst du ihnen eine Bedingung? Du setzt alles aufs Spiel."
 
 Ich beiße mir auf die Lippe, kämpfe gegen die Tränen. „Vielleicht. Aber ich kann
@@ -297,7 +297,7 @@ ihn nicht verraten. Nicht jetzt, nicht jemals."
 Für einen Moment starren wir uns nur an. Schnee fällt leise zwischen uns, als
 wollte er die Stille noch dicker machen.
 
-Dann atmet Vidar tief aus, seine Schultern sacken. „Verdammt, Eddie..." Er
+Dann atmet Vidar tief aus, seine Schultern sacken. „Verdammt, Eddie…" Er
 klingt nicht mehr hart, eher verletzt. „Du bringst mich in eine unmögliche Lage.
 Zwischen dir und meinen Eltern."
 
@@ -348,11 +348,11 @@ Mein Herz stolpert. Es ist nicht das, was ich mir gewünscht habe. Ich wollte,
 dass er bei mir im Zimmer liegt, dass er dazugehören darf, wie ich dazugehören
 darf. Aber es ist auch nicht nichts.
 
-„Du meinst... er dürfte bleiben? Auf dem Grundstück? Ganz offiziell?" frage ich
+„Du meinst… er dürfte bleiben? Auf dem Grundstück? Ganz offiziell?" frage ich
 vorsichtig.
 
 Vidar nickt. „Ich kann mit ihnen reden. Es ist ein Kompromiss. Kein Sofa, kein
-Teppich... aber sicher. Er wäre nah bei dir, und meine Eltern müssten keine
+Teppich… aber sicher. Er wäre nah bei dir, und meine Eltern müssten keine
 Angst haben, dass ein Hund ihre Wohnung zerstört."
 
 Ich sehe zu Streuner, der gerade mit der Nase tief im Schnee steckt, als würde
@@ -436,8 +436,8 @@ hielte ich mich daran fest, nicht fortzuschwimmen.
 Ihr Gesicht verändert sich. Erst Verwunderung, dann etwas anderes --
 Nachdenklichkeit, vielleicht sogar Wehmut.
 
-Ich setze mich langsam auf. „Ich... wollte nicht stören," stammele ich. „Aber
-wenn er nicht rein darf, dann... dann will ich bei ihm sein."
+Ich setze mich langsam auf. „Ich… wollte nicht stören," stammele ich. „Aber
+wenn er nicht rein darf, dann… dann will ich bei ihm sein."
 
 Sie antwortet nicht sofort. Nur ein leises Seufzen entweicht ihr, während sie
 uns ansieht.
@@ -485,8 +485,8 @@ verstanden, was ihm bevorsteht.
 „Dann wird er sich daran gewöhnen," sagt sie bestimmt. „Ein Hund in dieser
 Familie läuft nicht nackt durch die Gegend."
 
-Mir bleibt der Mund offen stehen. „Aber... das kostet doch alles Geld!
-Impfungen, Versicherung, Steuer..." Allein die Wörter klingen wie Mauern, die
+Mir bleibt der Mund offen stehen. „Aber… das kostet doch alles Geld!
+Impfungen, Versicherung, Steuer…" Allein die Wörter klingen wie Mauern, die
 ich nie überwinden kann.
 
 „Darum kümmern *wir* uns," sagt sie knapp, ihre Augen fest auf mich gerichtet.
@@ -495,7 +495,7 @@ Hundesteuer."
 
 Mein Herz stolpert. Ein offizieller Hund. Ein Hund, der einen Platz in dieser
 Welt bekommt -- nicht nur im Schatten. Für einen Moment schießt mir das Blut in
-den Kopf. *Das bedeutet... sie will ihn dabeihaben.*
+den Kopf. *Das bedeutet… sie will ihn dabeihaben.*
 
 Doch dann folgt der nächste Schlag. „Und," fährt sie fort, „er braucht einen
 richtigen Namen. Einen ordentlichen. ‚Streuner' geht nicht."
@@ -508,7 +508,7 @@ Namen. Kurz, klar, ein Rufname. Max, Rex, Bello, was auch immer. Aber nicht
 ‚Streuner'."
 
 Ich schaue verzweifelt zu Vidar, der in der Tür steht, so verdutzt wie ich.
-„Mamma..." beginnt er, doch sie hebt die Hand.
+„Mamma…" beginnt er, doch sie hebt die Hand.
 
 „Nein. Wenn er hier leben soll, dann richtig. Und zwar mit allen Regeln. Ich
 gehe morgen mit euch zum Tierarzt."
@@ -534,7 +534,7 @@ bin da."
 Der Tierarzt, ein älterer Mann mit grauem Bart und einer Brille, schaut kurz
 über den Rand seiner Unterlagen. „Und das ist also der neue Familienhund."
 
-„Er heißt..." Ich stocke, sehe zu Vidars Mutter, die streng neben mir steht. Sie
+„Er heißt…" Ich stocke, sehe zu Vidars Mutter, die streng neben mir steht. Sie
 sagt nichts, wartet nur. Ich schlucke. „Er heißt Streuner."
 
 Der Arzt zieht eine Braue hoch, sagt aber nichts dazu. Stattdessen beugt er sich
@@ -599,7 +599,7 @@ er gar nicht zu dir gehört."
 Ich presse die Lippen zusammen. *Genau das ist doch das Schöne,* denke ich. *Er
 gehört zu mir, egal, ob jemand das glaubt oder nicht.*
 
-Vidar legt sanft seine Hand auf meine. „Eddie... vielleicht können wir einen
+Vidar legt sanft seine Hand auf meine. „Eddie… vielleicht können wir einen
 Mittelweg finden."
 
 Ich sehe ihn an, verletzt, aber er spricht weiter: „Du darfst ihn Streuner
@@ -611,7 +611,7 @@ Es ist, als würde ein Stück von mir abgerissen. Aber ich spüre auch: Wenn ich
 mich jetzt völlig querstelle, riskieren wir alles.
 
 Ich atme tief durch, zwinge mich, nicht sofort loszuschreien. „Also gut," sage
-ich stockend. „Aber nur... ein Kompromiss. Für *euch* und für die Papiere. Für
+ich stockend. „Aber nur… ein Kompromiss. Für *euch* und für die Papiere. Für
 mich bleibt er Streuner. Immer."
 
 Seine Mutter nickt zufrieden. „Das ist vernünftig."
@@ -621,7 +621,7 @@ Seine Mutter nickt zufrieden. „Das ist vernünftig."
 Wir überlegen eine Weile. Vorschläge fliegen durch den Raum: Max, Rex, Bello.
 Ich verdrehe bei jedem die Augen.
 
-Am Ende sage ich leise: „Nehmt... *Rudi*. Kurz, einfach. Klingt fast wie ein
+Am Ende sage ich leise: „Nehmt… *Rudi*. Kurz, einfach. Klingt fast wie ein
 Straßenname. Aber für mich bleibt er Streuner."
 
 Vidars Mutter notiert den Namen auf einem Zettel. „Rudi also."

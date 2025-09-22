@@ -36,8 +36,8 @@
 Am Morgen wache ich auf, Raija ist schon wieder weg nach Tampere. Die Wohnung
 ist still, bis auf ein Poltern an der Tür. Jorma stolpert herein. Er ist
 betrunken, die Augen glasig, der Atem stinkt nach billigem Schnaps. „Na,
-Eddie..." lallt er und kommt auf mich zu, schwankend. Er grinst schief. „Du bist
-viel hübscher als Raija..." Dann beugt er sich vor, versucht, mich zu küssen.
+Eddie…" lallt er und kommt auf mich zu, schwankend. Er grinst schief. „Du bist
+viel hübscher als Raija…" Dann beugt er sich vor, versucht, mich zu küssen.
 
 Mir schießt das Blut in den Kopf. Ich stoße ihn weg und schreie: „Du bist
 widerlich, Jorma! Du schwärmst von der DDR, während du im freien Westen lebst.

@@ -63,7 +63,7 @@ das kommt noch oben drauf zu den restlichen Risiken: 60 Prozent, dass der Fahrer
 mein Geld nicht nimmt. Oder dass Mielke mich am nächsten Halt einfach packt und
 rauszerrt. Bleiben – Trommelwirbel – unter zehn Prozent.
 
-> **➡ Spieltheorie und Entscheidungsbäume...**\
+> **➡ Spieltheorie und Entscheidungsbäume…**\
 > (Das ging jetzt alles ein bischen zu schnell. Die genaue Erläuterung findest du im Kapitel 2 von „Eddie rechnet“.)
 
 Und wenn der Bus nicht mal fünf, sondern nur drei Minuten hält? Dann sind wir

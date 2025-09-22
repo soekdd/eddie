@@ -112,7 +112,7 @@ Entscheidung versiegeln. Ich sehe Mama vor mir, wie sie den Satz „Wir sind sto
 auf dich“ schreibt und dabei die Lippen ein bisschen aufeinanderpresst, damit
 die Hand ruhiger ist. Ich sehe Papa, wie er den Zusatz „Rechne dir Wege aus,
 nicht Wände“ daneben setzt, mit seiner eckigen Geduld. Wenn sie mich jetzt sehen
-könnten, hier, an diesem Tisch, mit dieser Klarheit im Bauch... Ich glaube, das
+könnten, hier, an diesem Tisch, mit dieser Klarheit im Bauch… Ich glaube, das
 würde ihnen gefallen.
 
 Die Erleichterung kommt nicht als Feuerwerk. Eher als leiser Druckausgleich in

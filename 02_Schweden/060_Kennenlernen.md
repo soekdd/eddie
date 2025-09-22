@@ -68,7 +68,7 @@ war.
 Damals wusste ich nicht, ob ich dankbar oder wütend sein sollte. Dankbar, weil
 jemand an mich dachte. Wütend, weil es mich daran erinnerte, wie tief ich
 gefallen war. Ich habe mich geschämt, so sehr geschämt, dass ich lieber tat, als
-würde ich die Sachen zufällig finden. Aber jetzt... jetzt weiß ich, was es
+würde ich die Sachen zufällig finden. Aber jetzt… jetzt weiß ich, was es
 bedeutet.
 
 Ich streiche dem Hund durchs Fell, er hebt träge den Kopf und schaut mich mit
@@ -88,7 +88,7 @@ Ich trete von einem Fuß auf den anderen, die Hände tief in den Taschen, und
 starre auf den Jungen, der da vor mir steht. Mein Herz klopft bis in den Hals.
 Jetzt oder nie, Eddie. Frag ihn.
 
-„Kennst du... kennst du vielleicht die Stadtmission? Ich… ich müsste hin. Aber
+„Kennst du… kennst du vielleicht die Stadtmission? Ich… ich müsste hin. Aber
 ich traue mich nicht allein. Kannst du… vielleicht vorgehen? Nur schauen, ob
 jemand da ist. Polizei oder so.“ Meine Stimme bricht fast. Ich erwarte, dass er
 lacht oder sich einfach umdreht.

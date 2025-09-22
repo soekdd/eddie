@@ -66,8 +66,8 @@ will er sich zu mir herunterbeugen – ich bin schneller. Ich springe ihm
 entgegen, klemme meine Beine um seine Hüfte, und er fängt mich auf, als wäre es
 das Normalste der Welt. Wir küssen uns, wild, mitten im Raum.
 
-Um uns herum bricht Jubel aus. Fremde klatschen, pfeifen, gröhlen. Über die Köpfe
-hinweg sehe ich Sini. Normalerweise wäre sie die Erste, die alles
+Um uns herum bricht Jubel aus. Fremde klatschen, pfeifen, gröhlen. Über die
+Köpfe hinweg sehe ich Sini. Normalerweise wäre sie die Erste, die alles
 anfeuert, die laut schreit und Fäuste in die Luft wirft. Doch heute wirkt ihr
 Jubel gedämpft, fast aufgesetzt. Ihr Lächeln ist da, aber nicht bis in die
 Augen.
@@ -81,9 +81,10 @@ Drängen – und gleichzeitig dieses Ziehen in mir, weil ich Sini ansehe. Wie si
 da steht, tapfer, als würde sie mir ihre Wohnung, ihr Bett und noch etwas viel
 Größeres überlassen.
 
-Ein Lächeln auf meinen Lippen, ein Nicken. Ich drehe mich zu ihm: „Danke für den
-Tanz. War echt schön.“ Er blinzelt überrascht, versucht es noch mit einem Witz,
-dann zuckt er die Schultern und verschwindet in der Menge.
+Ein Lächeln auf meinen Lippen, ein Nicken, eine einfache Entscheidung. Ich drehe
+mich zu ihm: „Danke für den Tanz. War echt schön.“ Er blinzelt überrascht,
+versucht es noch mit einem Witz, dann zuckt er die Schultern und verschwindet in
+der Menge.
 
 Sini schaut mich an, halb verwundert, halb ertappt. „Wollest du nicht…?“ fragt
 sie leise.
@@ -122,7 +123,7 @@ wenn du’s genau wissen willst.“
 Wir kichern, steigern uns rein. Sini wirft ein: „Stell dir vor, er hätte
 mittendrin angefangen, seine Gitarre zu stimmen!“
 
-Ich: „Oder dir im Ohr Songtexte genuschelt: *Baby, let me be your back-up
+Ich: „Oder mir Songtexte ins Ohr genuschelt: *Baby, let me be your back-up
 band…*“
 
 Wir kringeln uns vor Lachen, werfen uns Kissen an den Kopf, bis uns die Tränen

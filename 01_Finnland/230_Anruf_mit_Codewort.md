@@ -51,17 +51,17 @@ Radmer, hallo?"
 Ich schlucke. Dann hole ich tief Luft und lege los, mit meinem besten
 französischen Akzent, den ich zuvor ewig mit Raija geübt habe:
 
-„Bonjour, hier spricht das Sekretariat des Institut de..." -- ich werfe Raija
+„Bonjour, hier spricht das Sekretariat des Institut de…" -- ich werfe Raija
 einen panischen Blick zu.
 
 Sie flüstert prompt: „Sciences Avancées."
 
-„...des *Institut de Sciences Avancées*", wiederhole ich schnell. „Ich rufe an,
+„…des *Institut de Sciences Avancées*", wiederhole ich schnell. „Ich rufe an,
 um Ihnen mitzuteilen, dass Sie für den Prix de sûreté nucléaire nominiert
 wurden."
 
 Pause. Am anderen Ende ist es still, dann ein leises Räuspern. „Oh!" sagt er,
-gedehnt, und dann viel lauter: „Oh! Na, das ist ja... das ist ja wirklich...
+gedehnt, und dann viel lauter: „Oh! Na, das ist ja… das ist ja wirklich…
 also, das ist großartig! Aus Frankreich, sagen Sie?"
 
 Ich nicke stumm, obwohl er's nicht sehen kann, und drücke mir die Handfläche
@@ -124,7 +124,7 @@ französischen Nominierung prahlt, dann wissen meine Eltern, dass ich es raus
 geschafft habe. Und keiner kann's verhindern."
 
 Raija legt mir die Hand auf die Schulter. „Das hast du gut gemacht, kleine
-Fluchtkünstlerin. Und jetzt... trinken wir einen Kaffee. Du siehst aus, als
+Fluchtkünstlerin. Und jetzt… trinken wir einen Kaffee. Du siehst aus, als
 würdest du gleich umfallen."
 
 Der Anruf hat gesessen.

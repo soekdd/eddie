@@ -69,7 +69,7 @@ anders. Das hier ist wahr.
 
 Als wir uns lösen, sind unsere Stirnen noch aneinandergelehnt. Ich atme schwer,
 meine Lippen kribbeln, mein Herz will aus meiner Brust springen. Er flüstert
-kaum hörbar: „Eddie..."
+kaum hörbar: „Eddie…"
 
 Ich lächle, und es ist ein Lächeln, das ich nicht zurückhalten kann. „Das war
 mein erster Kuss," sage ich. „Mein erster richtiger."
@@ -89,7 +89,7 @@ prüfen, ob er noch da ist, der Kuss.
 „Mein erster richtiger Kuss", flüstere ich in die Dunkelheit. Ich muss lachen
 und weinen gleichzeitig. So oft habe ich mir eingeredet, ich wüsste, was Liebe
 sei. Sini, mein erster Freund, all die Verwirrung, die Nähe, die Abenteuer --
-ich dachte, das wäre es. Aber das hier... das ist anders.
+ich dachte, das wäre es. Aber das hier… das ist anders.
 
 Ich fühle mich nicht leer, ich fühle mich nicht beschämt. Ich fühle mich
 lebendig. Als wäre in mir etwas aufgegangen, was ich vorher gar nicht kannte.

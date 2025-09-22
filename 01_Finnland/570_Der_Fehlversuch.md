@@ -71,7 +71,7 @@ diesmal anders ist. Der eine blättert, der andere sieht mich an.\ „How old?"\
 „Seventeen."
 
 Blickwechsel zwischen den beiden. Ein Nicken. Dann: „Not possible. You are
-minor. And... East German passport... problem."
+minor. And… East German passport… problem."
 
 Mir wird heiß. „But--- I have a ticket---"\ „Please, come with us."
 

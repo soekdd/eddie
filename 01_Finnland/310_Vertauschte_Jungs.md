@@ -43,7 +43,7 @@ könnte wie in einen See.
 „Na, erwischt?" Sabine grinst mich an, als hätte sie genau meinen Blick
 eingefangen.
 
-Ich zucke zusammen. „Ich? Nein... also... ich finde nur, er hat schon wirklich
+Ich zucke zusammen. „Ich? Nein… also… ich finde nur, er hat schon wirklich
 unverschämt schöne Augen."
 
 „Sag ich doch!" Sabine schubst Conny, die gerade verschlafen aus dem Schlafsack

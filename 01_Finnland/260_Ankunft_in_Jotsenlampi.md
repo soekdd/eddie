@@ -128,4 +128,4 @@ keine sprach eine Sprache der anderen. Damit sie irgendwie miteinander reden
 konnten, musste ich übersetzen. Das English der Zypriotin in das Russisch der
 Mongolin und umgekehrt. Gerade wird mir klar, dass die zwei die letzten Tage in
 der Hütte ohne mich klar kommen mussten. Na, ihnen blieb ja noch die Sprache der
-Mathematik....
+Mathematik….

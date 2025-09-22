@@ -45,11 +45,11 @@ Ich fahre herum -- und da steht eine Frau. Vidars Mutter.
 
 Wir starren uns an, beide wie vom Donner gerührt. Ihr Blick wandert über mich:
 tropfnass, nackt, ein Haufen dreckiger Kleidung auf dem Boden. Ihre Stirn zieht
-sich zusammen, ihr Mund wird hart. „Was... soll das?" Ihre Stimme ist scharf,
+sich zusammen, ihr Mund wird hart. „Was… soll das?" Ihre Stimme ist scharf,
 voller Misstrauen.
 
 Mir schnürt es die Kehle zu. Ich will irgendetwas sagen, eine Erklärung, eine
-Entschuldigung -- aber mein Mund bleibt trocken. *Sie hält mich für... eine
+Entschuldigung -- aber mein Mund bleibt trocken. *Sie hält mich für… eine
 Rumtreiberin.* Und sie liegt nicht einmal falsch.
 
 In diesem Moment stürzt Vidar herein. Er sieht seine Mutter, dann mich. Einen
@@ -60,26 +60,26 @@ Freundin."
 Ich kann kaum glauben, dass er das gesagt hat. Freundin. Das Wort hängt in der
 Luft, schwer und wunderschön.
 
-Seine Mutter blinzelt, überrascht, fast verletzt. „Deine... Freundin?"
+Seine Mutter blinzelt, überrascht, fast verletzt. „Deine… Freundin?"
 
 „Ja," sagt er, ohne zu zögern. „Ich wollte es dir eigentlich später sagen. Aber
 jetzt weißt du es." Er nimmt meine Hand, zieht mich leicht hinter sich hervor.
 „Mama, das ist Eddie."
 
-Ihr Blick wird weicher, aber nicht warm. Eher prüfend. „Eine Freundin... aus der
+Ihr Blick wird weicher, aber nicht warm. Eher prüfend. „Eine Freundin… aus der
 Kirche?"
 
 Vidar zögert. „Nicht ganz."
 
 Ihre Augen verengen sich. Ich sehe, wie sie rechnet, was sie sieht, was sie sich
-denkt. „Du bist... obdachlos?" fragt sie leise, beinahe angewidert.
+denkt. „Du bist… obdachlos?" fragt sie leise, beinahe angewidert.
 
 Mir bricht der Boden unter den Füßen weg. Ich will mich klein machen, fliehen,
 verschwinden. Aber Vidar hält meine Hand fest, seine Finger umklammern meine.
 
 „Ja," sagt er. „Und? Sie ist trotzdem meine Freundin."
 
-Seine Mutter atmet hörbar ein, reibt sich über die Stirn. „Vidar... du bist noch
+Seine Mutter atmet hörbar ein, reibt sich über die Stirn. „Vidar… du bist noch
 ein Kind. Du weißt nicht, worauf du dich einlässt."
 
 „Doch," antwortet er, und in seiner Stimme liegt eine Kraft, die ich nie zuvor
@@ -93,7 +93,7 @@ Familie aussah, fühlt sich heute an wie ein Verhörraum. Vidars Mutter hat die
 Arme vor der Brust verschränkt, ihre Augen sind scharf und wach. Vidar sitzt
 neben mir, dicht, damit ich mich nicht allein fühle.
 
-„Also," beginnt sie, „du bist also... auf der Flucht." Es klingt nicht wie eine
+„Also," beginnt sie, „du bist also… auf der Flucht." Es klingt nicht wie eine
 Frage, eher wie eine Feststellung, die sie noch nicht verdaut hat.
 
 Ich nicke, meine Finger umklammern das Glas Wasser vor mir. „Ja. Aus der DDR."
@@ -105,7 +105,7 @@ Sie mustert mich, als suche sie nach Lücken in meiner Geschichte. „Und wie bi
 du bis hierher gekommen?"
 
 Ich atme tief durch. „Über Finnland. Ich bin zu Fuß, mit Zügen, versteckt,
-manchmal..." Ich stocke, will nicht alles sagen, nicht die dunkelsten Ecken. „Es
+manchmal…" Ich stocke, will nicht alles sagen, nicht die dunkelsten Ecken. „Es
 war gefährlich. Ich habe geschlafen, wo es ging. Ich habe gehungert. Aber ich
 bin hier."
 
@@ -114,7 +114,7 @@ Eine Weile herrscht Stille. Sie trommelt mit den Fingern auf die Tischkante.
 
 Mein Herz zieht sich zusammen. Ich starre auf das Glas. „Ja. Jeden Tag. Aber sie
 wissen, warum ich es getan habe. Mein Vater hat mir geholfen, den Plan zu
-machen. Meine Mutter..." Ich lache kurz, bitter. „Sie ahnte es. Ich glaube, sie
+machen. Meine Mutter…" Ich lache kurz, bitter. „Sie ahnte es. Ich glaube, sie
 hat's gespürt, aber nichts gesagt."
 
 Ihre Augen weiten sich einen Moment. Vielleicht überrascht sie die Ehrlichkeit,
@@ -128,7 +128,7 @@ kann, irgendwo, wo es zählt." Ich spüre, wie mir die Stimme bricht. „Ich wil
 sie stolz machen."
 
 Einen Augenblick sagt sie nichts. Dann räuspert sie sich. „Und jetzt eine sehr
-ernste Frage." Ihr Blick wird noch härter. „Ihr seid jung. Ihr verbringt...
+ernste Frage." Ihr Blick wird noch härter. „Ihr seid jung. Ihr verbringt…
 Nächte zusammen. Verhütet ihr?"
 
 Ich werde knallrot, sehe panisch zu Vidar. Doch er legt sofort seine Hand auf
@@ -139,15 +139,15 @@ hätte sie genau diese Antwort gebraucht.
 
 Die Spannung im Raum löst sich ein kleines Stück. Sie atmet durch, sieht mich
 wieder an. Und diesmal liegt etwas anderes in ihrem Blick. Kein blankes
-Misstrauen mehr. Eher... Respekt. Vielleicht sogar ein Hauch von Ehrfurcht.
+Misstrauen mehr. Eher… Respekt. Vielleicht sogar ein Hauch von Ehrfurcht.
 
 „Du hast viel erlebt," sagt sie leise. „Mehr, als die meisten Menschen in ihrem
-ganzen Leben. Das... das ist... das ist etwas!"
+ganzen Leben. Das… das ist… das ist etwas!"
 
 Ich senke den Blick, kämpfe mit Tränen. *Vielleicht taut das Eis wirklich.*
 
 Vidars Mutter nimmt einen Schluck aus ihrer Tasse, mustert mich wieder. Ihr
-Blick ist immer noch streng, aber nicht mehr feindselig. „Und was... hast du
+Blick ist immer noch streng, aber nicht mehr feindselig. „Und was… hast du
 jetzt vor?" fragt sie langsam.
 
 Ich atme tief durch. „Warten. Durchhalten. Ich bin noch nicht volljährig. Im Mai
@@ -157,7 +157,7 @@ Sie runzelt die Stirn. „Aber wie bist du überhaupt so weit gekommen? Wie konn
 ein Mädchen allein so reisen? Man hätte dich doch längst aufhalten müssen."
 
 Ich starre in mein Glas. Dann sage ich es. „Ja, die Gefahr war immer da und ist
-es noch. Meine Eltern... mussten die Vormundschaft abgeben. An die Stasi. Damit
+es noch. Meine Eltern… mussten die Vormundschaft abgeben. An die Stasi. Damit
 ich überhaupt zur Mathe-Olympiade reisen durfte. Sonst hätten sie nie erlaubt,
 dass ich aus der DDR rauskomme."
 

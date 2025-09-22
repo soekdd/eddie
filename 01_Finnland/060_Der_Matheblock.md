@@ -73,7 +73,7 @@ Leben!\ Mir bleibt das Herz stehen.
 Er checkt nix, klappt den Block einfach auf und fängt an, eifrig drauflos zu
 kritzeln.
 
-> **➡ Die diophantische Gleichung #1...**\
+> **➡ Die diophantische Gleichung #1…**\
 > (Fischers Gekritzel findest du im Kapitel 1 von „Eddie rechnet“.)
 
 Der Bus rollt los. Die anderen diskutieren ein bisschen, bis sie’s endlich
