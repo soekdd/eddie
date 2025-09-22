@@ -45,7 +45,7 @@ Sie zuckt nur leicht mit den Schultern, als ob die Antwort für sie keine große
 Sache wäre. „Ach nein. Das heißt 'kleines blaues Mädchen'. Ich mag es nicht und
 nenne mich daher nur Sini."
 
-Ich muss grinsen.„Das ist ja süß. Wie heißen diese lustigen kleinen blauen
+Ich muss grinsen. „Das ist ja süß. Wie heißen diese lustigen kleinen blauen
 Zwerge auf Englisch? Wir nennen sie Schlümpfe. Meine Oma hat mir immer welche
 aus dem Westen mitgebracht – ich liebe diese kräftigen, glänzenden Farben und
 die vielen lustigen Berufe. Die Hartgummifiguren aus der DDR waren entweder
