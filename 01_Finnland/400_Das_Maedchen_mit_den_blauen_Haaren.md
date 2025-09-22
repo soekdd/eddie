@@ -44,7 +44,7 @@ dumm und schüttle mich innerlich.
 Sie merkt meinen Blick, grinst und hebt die Augenbraue. „Na? Noch nie eine wie
 mich gesehen?“
 
-Ich bringe nur ein Kopfschütteln zustande. Aber was auch immer es ist – Sini
+Ich bringe nur ein Kopfschütteln zustande. Aber was auch immer es ist – Sie
 trägt es mit Stolz.
 
 Sie verschwindet in die kleinen Kaffeeküche, klappert mit Tassen und einem Topf.
