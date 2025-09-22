@@ -2,7 +2,7 @@
 
 ```json
 {
-  "date": "1985-08-XX",
+  "date": "1985-08-04",
   "daytime": "evening-night",
   "place": "Fährterminal Vaasa, später Sini Wohnung",
   "persons": [
