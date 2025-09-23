@@ -49,14 +49,20 @@ Risiko, das ich nicht mehr tragen darf. Daran wird auch Raija nichts ändern
 können. Ihre Wohnung in Jyväskylä ist für mich nicht mehr sicher. Mein
 Entschluss, die Stadt zu verlassen, war richtig.
 
-Tampere ist ein Riese. Kaum stolper ich aus dem Backstein-Klotz von Bahnhof, knallt mir Tampere ins Gesicht: fette Bürgerhäuser, alle großmäulig und bunt, nix graues Plattenzeug wie daheim. Autos hupen, Leute rennen mit Koffern, und ich steh da mit meinem lächerlichen Rucksack, seh aus wie vom Dorf. In Dresden sind die Straßen leerer, das Grau zieht sich bis in die Knochen – hier dagegen wirkt alles lebendig, laut, fast frech. Als hätte die Stadt selber Bock, mir zuzurufen: „Na, Mädchen, willkommen im Westen des Ostens!“
+Tampere ist ein Riese. Kaum stolper ich aus dem Backstein-Klotz von Bahnhof,
+knallt mir Tampere ins Gesicht: fette Bürgerhäuser, alle großmäulig und bunt,
+nix graues Plattenzeug wie daheim. Autos hupen, Leute rennen mit Koffern, und
+ich steh da mit meinem lächerlichen Rucksack, seh aus wie vom Dorf. In Dresden
+sind die Straßen leerer, das Grau zieht sich bis in die Knochen – hier dagegen
+wirkt alles lebendig, laut, fast frech. Als hätte die Stadt selber Bock, mir
+zuzurufen: „Na, Mädchen, willkommen im Westen des Ostens!“
 
 Zwischen den Straßenbahnen, Bussen, Autos und Menschenmassen fühle ich mich wie
-eine Ameise. Überall Werbung, Stimmen, Hektik. Ich finde nach einigem Herumirren die Polizeistation –
-und bleibe auf der anderen Straßenseite stehen. Grau, bedrohlich. Klar wird mir:
-Das ist eine saublöde Idee. Die suchen mich doch immer noch. Da kann ich nicht
-einfach reinspazieren und nach Raija fragen. Also tue ich so, als ob ich
-zufällig vorbeilaufe, und gehe einfach weiter.
+eine Ameise. Überall Werbung, Stimmen, Hektik. Ich finde nach einigem Herumirren
+die Polizeistation – und bleibe auf der anderen Straßenseite stehen. Grau,
+bedrohlich. Klar wird mir: Das ist eine saublöde Idee. Die suchen mich doch
+immer noch. Da kann ich nicht einfach reinspazieren und nach Raija fragen. Also
+tue ich so, als ob ich zufällig vorbeilaufe, und gehe einfach weiter.
 
 Ich lasse mich durch die Stadt treiben, lande auf dem Marktplatz. Stimmengewirr,
 Bratwurstduft, Klappern von Kisten – alles wuselt. Am Trödelmarkt bleibe ich
@@ -89,11 +95,11 @@ unsichtbar bin. Machbar.
 
 Der Alte drückt mir noch ein zweites Buch in die Hand: Laavujen Opas:
 Pohjois-Länsi-Suomi. „Opas?“ Ich kichere. Was für Opas? Beim Aufschlagen wird’s
-klar: Laavus sind Schutzhütten. Kleine Holzhäuschen im Wald, seitenweise Koordinaten. Ich
-teste sofort: suche eine Hütte bei Tampere, gleiche die Koordinaten mit einer
-Karte ab – und tatsächlich: ein kleiner See, mit Häuschen eingezeichnet.
-Finnland ist übersät damit! Manche nur Picknickdächer, andere winzig für zwei
-Schlafsäcke, wieder andere groß genug für fünf Leute.
+klar: Laavus sind Schutzhütten. Kleine Holzhäuschen im Wald, seitenweise
+Koordinaten. Ich teste sofort: suche eine Hütte bei Tampere, gleiche die
+Koordinaten mit einer Karte ab – und tatsächlich: ein kleiner See, mit Häuschen
+eingezeichnet. Finnland ist übersät damit! Manche nur Picknickdächer, andere
+winzig für zwei Schlafsäcke, wieder andere groß genug für fünf Leute.
 
 Mein Kopf summt. Das ist es! Von Tampere nach Vaasa, durch Wälder, Hütten als
 Stationen. Keine Hotels, keine Tickets. Mein eigenes System.
@@ -116,8 +122,8 @@ Den Rest finde oder kaufe ich unterwegs. Pflanzen aus dem Buch sind nur Beilage.
 Gesund, lecker – aber kein Benzin.
 
 Ich muss lachen. Diophantos, der alte Grieche mit seinen Bauern und Kühen, würde
-staunen: Meine Gleichung heißt Überleben. Bauer Eddie hat nun zwei Kühe namens Reis
-und zwei Schweine namens Nudeln. Aber nicht sein ganzes Geld ausgegeben.
+staunen: Meine Gleichung heißt Überleben. Bauer Eddie hat nun zwei Kühe namens
+Reis und zwei Schweine namens Nudeln. Aber nicht sein ganzes Geld ausgegeben.
 
 > **➡ Die diophantische Gleichung #2…**\
 > (Hätte ich all mein Geld exakt für Reis und Nudeln ausgeben, sähe die Rechnung wie im Kapitel 4 von „Eddie rechnet“ aus.)
@@ -125,9 +131,10 @@ und zwei Schweine namens Nudeln. Aber nicht sein ganzes Geld ausgegeben.
 Mit meinen Beuteln – Rucksack konnte ich mir nicht leisten – setze ich mich in
 den Schatten und sortiere meinen Schatz: Schlafsack, verbeultes Blechgeschirr,
 eine Regenjacke, ein Schweizer Taschenmesser mit kleiner Säge (noch nie gesehen,
-mega praktisch), zwei kleine Feuerzeuge, Mückenspray (überlebensnotwendig). Dazu die zwei Bücher,
-fünfzehn (!!) Wanderkarten im Maßstab 1:25.000, und ein Geschenk vom
-Buchhändler: ein winziges Finnisch–Englisch-Wörterbuch. Nicht übel für 220 Markka.
+mega praktisch), zwei kleine Feuerzeuge, Mückenspray (überlebensnotwendig). Dazu
+die zwei Bücher, fünfzehn (!!) Wanderkarten im Maßstab 1:25.000, und ein
+Geschenk vom Buchhändler: ein winziges Finnisch–Englisch-Wörterbuch. Nicht übel
+für 220 Markka.
 
 Die Sonne brennt, ich ziehe Linien mit dem Finger über die Karte. Erste Etappe,
 zweite Woche, dritte Woche. Ich male mir alles aus. 400 Kilometer nach Vaasa.

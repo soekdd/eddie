@@ -16,6 +16,7 @@
   "persons": ["Eddie", "Junges Punkmädchen (blaues Haar)"],
   "landscapes": ["Felder", "Sumpf/Moor", "Küste/Schärennähe", "Urban/Terminal", "Insel Vasklot"],
   "weather_summary": "Regen, Wind, kühl; an der Küste stürmischer.",
+  "synopsis": "Völlig entkräftet stolpert Eddie über die letzte Brücke nach Vaasa, kämpft mit Paranoia und Zusammenbrüchen und bricht schließlich am Fährterminal zusammen – genau dort, wo das Mädchen mit den blauen Haaren sie findet.",
   "overnights": [
     { "seq": "18", "date": "1985-07-29", "type": "Picknickdach", "name": "Pohjoismäki", "near": "Laihia (Pohjanmaa)" },
     { "seq": "19", "date": "1985-07-30", "type": "Großer Unterstand", "name": "Kempinnevan laavu", "near": "Laihia (Pohjanmaa)" },
@@ -48,7 +49,7 @@ Mänteln, und mich packen.
 Ich starre auf das Licht und sehe darin eine Falle. Ein Haus, das aussieht wie
 jedes andere, wird zur Bedrohung. Wenn ich hingehe, verraten sie mich, melden
 mich weiter, und ich lande genau da, wo ich nie wieder hinwollte, im
-Jungendwerhof oder in was Schlimmeren. Ich bleibe also liegen, presse mich unter
+Jungendwerkhof oder in was Schlimmeren. Ich bleibe also liegen, presse mich unter
 das Dach, so flach wie möglich, als könnte mich der Regen tarnen. Jeder Schatten
 zwischen den Bäumen ist ein Verfolger, jedes Knacken ein Schritt. Ich höre
 Stimmen, die keine sind, sehe Gesichter im Regen, die im nächsten Moment
@@ -73,7 +74,7 @@ In Laihia der letzte Laden. Brot, Haferflocken, Tabletten. Ich drücke die Münz
 auf den Tresen, als würden sie an meinen Fingern kleben. Die Frau an der Kasse
 schaut mich an, als wäre ich ein Gespenst. Ich kann ihr nicht in die Augen
 sehen. Ich kaufe auch Mückenspray, das letzte Döschen, halb zerdrückt, und eine
-Tube Creme, ohne nachzusehen, was draufsteht. Das Spray riecht scharf, die Creme
+Tube Creme, ohne zu verstehen, was draufsteht. Das Spray riecht scharf, die Creme
 kühlt wie ein kleines Wunder. Zum ersten Mal seit Wochen kratze ich nicht sofort
 bis Blut.
 
@@ -126,7 +127,7 @@ Fährterminal. Zwei Brücken führen hinüber: die alte von Osten, aus der Stadt
 und die neue, erst seit wenigen Jahren gebaut, von Süden. Endlos lang, gnadenlos
 dem Wetter ausgesetzt – und genau diese Brücke liegt jetzt vor mir. Sie ist eine
 Hölle aus Metall, zieht sich über das Wasser, ohne Schutz, ohne Gnade. Wind
-zerrt an meiner Kapuze, Regen sticht wie Nadeln durch Stoff, bis auf die Haut.
+zerrt an meiner Kapuze, Regen sticht wie Nadeln durch den Stoff, bis auf die Haut.
 Ich hangele mich am Geländer entlang, Schritt für Schritt, Pfosten für Pfosten,
 Hände taub vom Griff. Der Rucksack zieht mich zurück, meine Füße sind nur noch
 Klumpen, jeder Schritt ein Aufschrei. Autos rauschen vorbei, Lichter schneiden
@@ -168,16 +169,3 @@ neben die Couch, zieht die Knie an und bleibt. Sie lächelt so, als wäre dies
 eine Art Ankunft. Und zum ersten Mal seit Tagen denke ich, dass man vielleicht
 doch irgendwo ankommt, obwohl man eigentlich in eine Sackgasse gelaufen ist. Ich
 schlafe ein.
-
-Als ich aufwache, ist es früh und grau. Das Licht im Büro hat diesen
-morgendlichen Ton, in dem alles ein bisschen leichter aussieht. Mein Kopf ist
-schwer, aber nicht mehr brennend. Das Mädchen ist noch da. Sie hat sich in eine
-Decke gewickelt, schläft halb sitzend, ihr blauer Schopf rutscht immer wieder
-gegen die Wand und federt zurück. Auf dem Tisch liegen zwei Tassen, eine leer,
-eine halbvoll; daneben meine klammgewordene Karte und eine Schachtel mit
-Tabletten, die nicht meine sind.
-
-Ich bewege mich, das Sofa knarzt, und sie ist sofort wach. Ihre Augen fragen,
-bevor der Mund es tut. Ich nicke. Ja. Noch da. Sie lächelt so, als wäre dies
-eine Art Ankunft. Und zum ersten Mal seit Tagen denke ich, dass man vielleicht
-doch irgendwo ankommt, obwohl man eigentlich in eine Sackgasse gelaufen ist.

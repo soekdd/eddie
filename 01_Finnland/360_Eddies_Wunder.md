@@ -47,7 +47,7 @@ Dass ich überhaupt aus der Schule rausgekommen bin, verkleidet mit Schuhcreme i
 Haar. Dass Fischer in meinem Block geblättert hat und mich trotzdem nicht
 verraten hat. Dass Maria genau im richtigen Moment in der Kirche stand und mich
 rettete. Dass Raija mich aufnahm, obwohl sie dafür alles riskierte. Und dass in
-Paderborn wirklich vier Deutsche auf mich warten sollen, die ich noch nie
+Paderborn wirklich vier Deutsche auf mich warten sollen, die ich zuvor noch nie
 gesehen habe. Und schließlich das hier: dieser Weg, diese Birken, dieses Wasser
 – als hätte jemand die Landschaft so hingelegt, nur damit ich leichter
 weitergehen kann. Normalerweise brauche ich Beweise. Mathe, Zahlen, Gleichungen.

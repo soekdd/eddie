@@ -17,6 +17,7 @@
   ],
   "persons": ["Eddie", "Sini"],
   "weather_summary": "Regen klingt ab, kühl-klar; am Abend freundlich.",
+  "synopsis": "Sini pflegt die fiebernde Eddie durch den ersten Vaasa-Tag, lässt sie zur Ruhe kommen und zwingt sie zur Geduld – vom Frühstück in der Wohnung bis zum gemeinsamen Abend an der Hafenbank, wo sie Geschichten und Vertrauen teilen.",
   "locations": {
     "apartment": {
       "name": "Sinis Wohnung",

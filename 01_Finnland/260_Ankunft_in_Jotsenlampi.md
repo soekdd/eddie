@@ -38,18 +38,17 @@
 ```
 
 Meine nächste Etappe führt mich nur wenig Kilometer durch den Wald. Ich will
-mich erstmal langsam an die großen Etappen heranwagen. Und wieder stehe ich vor einer
-dieser wunderbaren Hütten und kann kaum glauben, dass sie mir für eine Nacht
-allein gehört. Der Boden riecht noch nach frischem Holz, alles ist neu, alles
-sauber, alles großzügig. Ich muss unwillkürlich lachen – wenn das Kapitalismus
-sein soll, dann hat meine Schule mir eine verdammt schlechte Vorstellung davon
-verkauft. Kostenlos eine Hütte, kostenlos ein Bett, kostenlos Wärme und
-Sicherheit.
+mich erstmal langsam an die großen Etappen heranwagen. Und wieder stehe ich vor
+einer dieser wunderbaren Hütten und kann kaum glauben, dass sie mir für eine
+Nacht allein gehört. Der Boden riecht noch nach frischem Holz, alles ist neu,
+alles sauber, alles großzügig. Ich muss unwillkürlich lachen – wenn das
+Kapitalismus sein soll, dann hat meine Schule mir eine verdammt schlechte
+Vorstellung davon verkauft. Kostenlos eine Hütte, kostenlos ein Bett, kostenlos
+Wärme und Sicherheit.
 
-Und während ich mich umsehe, während mein Blick von der kleinen Veranda über
-das Wasser schweift, überfällt mich eine Erinnerung. Dieselbe Überraschung,
-dieselbe ungläubige Freude erlebte ich bei der Ankunft im Joutsenlampi, dem Camp
-der IMO.
+Und während ich mich umsehe, während mein Blick von der kleinen Veranda über das
+Wasser schweift, überfällt mich eine Erinnerung. Dieselbe Überraschung, dieselbe
+ungläubige Freude erlebte ich bei der Ankunft im Joutsenlampi, dem Camp der IMO.
 
 Ich hatte bis dahin nie ein Flugzeug von innen gesehen. Wenn am Himmel eine
 Maschine vorbeizog, stand ich als Kind immer still und schaute nach oben, als
@@ -118,14 +117,14 @@ den See. Ich lächle, weil sich die Geschichte wiederholt. Damals wie heute
 schenken mir Menschen, die mich nicht kennen, einen Ort der Sicherheit, ohne zu
 fragen, was ich dafür geben kann.
 
-Ich denke an die Organisatoren, die uns Jugendlichen diesen Sommer voller
-Wunder ermöglicht haben. Und ich denke daran, wie wichtig es ist, diese
-Aufrichtigkeit zu sehen und zu ehren.
+Ich denke an die Organisatoren, die uns Jugendlichen diesen Sommer voller Wunder
+ermöglicht haben. Und ich denke daran, wie wichtig es ist, diese Aufrichtigkeit
+zu sehen und zu ehren.
 
-Bevor ich seelig einschlafe, muss ich doch mal heftig kichern. Die anderen beiden
-Mädchen kam aus der Mongolei und aus Zypern. Beide sehr klug und nett, aber
-keine sprach eine Sprache der anderen. Damit sie irgendwie miteinander reden
-konnten, musste ich übersetzen. Das English der Zypriotin in das Russisch der
-Mongolin und umgekehrt. Gerade wird mir klar, dass die zwei die letzten Tage in
-der Hütte ohne mich klar kommen mussten. Na, ihnen blieb ja noch die gemeinssme
-Sprache der Mathematik….
+Bevor ich seelig einschlafe, muss ich doch mal heftig kichern. Die anderen
+beiden Mädchen kam aus der Mongolei und aus Zypern. Beide sehr klug und nett,
+aber keine sprach eine Sprache der anderen. Damit sie irgendwie miteinander
+reden konnten, musste ich übersetzen. Das English der Zypriotin in das Russisch
+der Mongolin und umgekehrt. Gerade wird mir klar, dass die zwei die letzten Tage
+in der Hütte ohne mich klar kommen mussten. Na, ihnen blieb ja noch die
+gemeinssme Sprache der Mathematik….

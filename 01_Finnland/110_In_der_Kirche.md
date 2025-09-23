@@ -187,6 +187,8 @@ jetzt auf Finnisch etwas zu Mielke und seinen Männern.
 Der Kerl, der mich festgehalten hat, lässt mich los. Ich renne zu Maria, und sie
 nimmt mich in die Arme.
 
+„Ich bleibe bei dir, bis du sicher bist“, flüstert sie mir zu.
+
 Ich schluchze immer noch erbärmlich.
 
 ---
@@ -225,8 +227,6 @@ Der Polizist wiederholt weiterhin diesen einen Satz, der vermutlich heißt: *Wir
 gehen alle auf die Wache.*
 
 Habe ich jetzt etwas Zeit gewonnen?
-
----
 
 Allmählich beruhigt sich die Lage. Die drei Männer scheinen die Forderung des
 Polizisten zu akzeptieren. Die junge Polizistin steckt ihre Waffe weg. Dann

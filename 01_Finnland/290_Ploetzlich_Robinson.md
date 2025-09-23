@@ -3,14 +3,56 @@
 ```json
 {
   "title": "Plötzlich Robinson",
+  "chapter_id": "FIN_Weg_Tag20_Ploetzlich_Robinson",
   "date": "1985-07-14",
   "daytime": "day",
-  "place": "Unterwegs zwischen Tampere und Vaasa, Finnland",
-  "persons": ["Eddie"],
-  "synopsis": "Am 20. Tag ihrer Wanderung stellt Eddie fest, dass sich Routine eingeschlichen hat. Sie sammelt Beeren, Pilze und Holz, kocht Tee und Reis, und muss an Robinson Crusoe denken. Obwohl sie das Buch immer öde fand, entdeckt sie nun Parallelen zwischen ihrer eigenen Einsamkeit und Crusoes Tagen, lacht über den Vergleich und findet dennoch Freude an ihrer Reise.",
-  "mood": "reflective, calm, lightly amused",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "pov": "Eddie, first-person",
+  "mode": "mainline",
+  "themes": [
+    "Selbstversorgung & Freiheit",
+    "Einsamkeit vs. Gemeinschaft",
+    "Identität & Tarnung",
+    "Unerwartete Solidarität"
+  ],
+  "persons": [
+    "Eddie",
+    "drei finnische Angler"
+  ],
+  "locations": {
+    "trail": {
+      "name": "Waldwege zwischen Tampere und Vaasa",
+      "note": "5. Wandertag, Routine stellt sich ein"
+    },
+    "laavu": {
+      "name": "Keihäänmaan laavu",
+      "note": "Shelter, in dem Eddie den geschenkten Rucksack öffnet"
+    }
+  },
+  "synopsis": "Am 5. Wandertag lebt Eddie souverän wie Robinson: Beeren, Pilze, Tee, Wald. Eine Anglertruppe lädt sie zum Fisch ein, wundert sich über ihre Legende – und schenkt ihr einen Rucksack samt Schokolade. Eddie begreift, dass sie trotz Tarnung Verbündete findet.",
+  "mood": "ruhig, reflektiert, sanft heiter",
+  "parts": [
+    {
+      "part_id": "A",
+      "title": "Routine im Wald",
+      "summary": "Eddie schildert ihren eingespielten Tagesablauf und vergleicht sich mit Robinson Crusoe.",
+      "beats": [
+        "Morgentee, Beeren- und Holzsuche",
+        "Selbstironie beim Robinson-Vergleich",
+        "Gefühl von Freiheit trotz Einsamkeit"
+      ]
+    },
+    {
+      "part_id": "B",
+      "title": "Angler & Geschenk",
+      "summary": "Drei finnische Angler laden Eddie zum Picknick, hinterfragen ihre Legende und schenken ihr einen Rucksack mit Schokolade.",
+      "beats": [
+        "Begegnung am Picknickplatz",
+        "Legende Wuppertal als Tarnung",
+        "Rucksack mit Schokolade stärkt sie für den weiteren Weg"
+      ]
+    }
+  ]
 }
 ```
 
@@ -38,3 +80,30 @@ zu wollen, in diesem Buch gelandet bin, das ich früher so langweilig fand.
 
 Und trotzdem finde ich es schön. Vielleicht, weil ich weiß: Ich bin nicht
 gestrandet. Ich bin auf dem Weg.
+
+Ich stapfe also weiter und stolpere plötzlich in eine kleine Wandertruppe hinein
+– drei ältere Männer mit wettergegerbten Gesichtern und Angelruten über der
+Schulter. Freundlich, neugierig, ein bisschen schelmisch. Sie mustern mich, und
+ich sehe in ihren Blicken dieses leise „Wie kann die nur?“ – so jung, so allein,
+so jämmerlich ausgestattet. Aber statt mich zu verscheuchen, laden sie mich zum
+Picknick ein. Sie haben Fische gefangen, braten sie am Feuer, und ich kann gar
+nicht sagen, wie köstlich das schmeckt nach Tagen von Reis und Pilzen. Natürlich
+fragen sie, woher ich komme. Mein Herz schlägt mir bis in den Hals. Oh Gott. Ich
+brauche dringend eine Legende. Wenn sie nachher herumtratschen, sie hätten eine
+junge Ostdeutsche getroffen, dann weiß es am Ende Mielke. Das darf nicht
+passieren. Ich darf nicht auffliegen. Also druckse ich und sage schließlich:
+„Wuppertal.“ Der Name schießt mir nur deshalb in den Kopf, weil ich einmal
+gelesen habe, dass der Ingenieur, der die Wuppertaler Schwebebahn erfand, auch
+die kleine Schwebebahn in Dresden gebaut hat. Ein Anker, mehr nicht. Sie hören
+mir zu, nicken, aber ich sehe den Zweifel in ihren Gesichtern. Westdeutsche, das
+wissen selbst sie hier, sind bestens ausgerüstet, mit dicken Rucksäcken und
+Funktionsjacken – und nicht so erbärmlich mit einer Reisetasche und Stoffbeuteln
+unterwegs wie ich. Sie necken mich, machen Späße über meine
+„Gepäckkonstruktion“, doch es ist kein Spott, eher freundliches Kopfschütteln.
+Beim Abschied dann ein kurzes stummes Sechs-Augengespräch zwischen ihnen, ein
+Nicken, und einer drückt mir einen Rucksack in die Hand – angeblich leer. Erst
+am Keihäänmaan laavu, einem kleinen Shelter zwischen Felsen, merke ich, dass er
+nicht ganz leer ist: Zwei Tafeln Schokolade liegen darin. Ich reiße eine sofort
+auf, genieße sie mit einer Gier, die fast weh tut. Schokolade! Der süße
+Geschmack macht mich benommen. Ich schaue an mir herunter. Nach fünf Tagen
+Wildnis ist da ein Loch, wo mal ein Bauch war.

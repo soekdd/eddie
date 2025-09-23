@@ -82,13 +82,13 @@ an gute Menschen“, höre ich Vaters Stimme. Tampere liegt südwestlich. Keine
 Strategie, aber immerhin eine Richtung.
 
 Ich warte, bis der Lada endgültig außer Sicht ist, schleiche mich zum Bahnhof.
-Das Bahnhofsgebäude wirkt wie ein Spielzeughaus, aus hellem rotem Holz gezimmert, mit weißen
-Verzierungen und einem Dach. Irgendwie aus der Zeit gefallen in dieser mordernen
-Stadt. Vorne hängt eine große Uhr, die allen anzeigt, dass hier die Zeit anders
-läuft – langsamer, fast gemütlich. Die Bahnsteige sind kurz, kaum Platz für die
-langen Züge, die aus Helsinki heranrollen.
-Auf dem Vorplatz verharre ich lange, mustere jeden, der auftaucht. Doch Mielke
-kommt nicht. Schließlich trete ich ein, kaufe ein Ticket nach Tampere und setze
-mich so, dass ich den Eingang im Blick habe.
+Das Bahnhofsgebäude wirkt wie ein Spielzeughaus, aus hellem rotem Holz
+gezimmert, mit weißen Verzierungen und einem Dach. Irgendwie aus der Zeit
+gefallen in dieser mordernen Stadt. Vorne hängt eine große Uhr, die allen
+anzeigt, dass hier die Zeit anders läuft – langsamer, fast gemütlich. Die
+Bahnsteige sind kurz, kaum Platz für die langen Züge, die aus Helsinki
+heranrollen. Auf dem Vorplatz verharre ich lange, mustere jeden, der auftaucht.
+Doch Mielke kommt nicht. Schließlich trete ich ein, kaufe ein Ticket nach
+Tampere und setze mich so, dass ich den Eingang im Blick habe.
 
 Kein graublauer Lada. Kein Mielke. Endlich ruft der Schaffner, ich steige ein.

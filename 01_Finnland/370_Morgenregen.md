@@ -29,6 +29,7 @@
   "persons": ["Eddie", "Bäuerin (unbenannt)"],
   "landscapes": ["Wald", "Sumpf/Moor", "Felder/Flusslauf"],
   "weather_summary": "Dauerregen, Wind, kurze Aufhellung am Fluss; feucht-kalt.",
+  "synopsis": "Tagelang kämpft sich Eddie durchnässt durchs Moor, verliert Kraft und Zuversicht, bis eine wortkarge Bäuerin sie in einer Scheune schlafen lässt und sie gerade genug aufpäppelt, um weiterzugehen.",
   "health_flags": [
     "starke Mückenstiche (Hände/Gesicht/Kniekehlen)",
     "Husten",

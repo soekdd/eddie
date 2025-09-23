@@ -2,25 +2,71 @@
 
 ```json
 {
-  "date": "1985-08-05",
-  "daytime": "evening-night",
-  "place": "Fährterminal Vaasa, später Sini Wohnung",
+  "title": "Das Mädchen mit den blauen Haaren",
+  "chapter_id": "FIN_Vaasa_Tag0_Fiebertransport",
+  "date": "1985-08-04",
+  "daytime": "evening → next morning",
+  "tense": "present, Eddies first-person perspective",
+  "pov": "Eddie, first-person",
+  "mode": "mainline",
+  "themes": [
+    "Rettung durch Fremde",
+    "Fieberdelirium & Kontrollverlust",
+    "Vertrauen trotz Angst",
+    "Neuer Hafen als Zuhause"
+  ],
   "persons": [
     "Eddie",
     "Sini",
-    "Busfahrer"
+    "Busfahrer (Sinis Kollege)"
   ],
-  "synopsis": "Eddie erwacht nach dem Marsch mit starkem Fieber im Terminal, erlebt fiebrige Verwirrung, missversteht Sinis Worte und glaubt, sofort weiterreisen zu müssen. Ein Busfahrer trägt sie schließlich in Sinis Wohnung, wo sie zusammenbricht.",
-  "mood": "fiebrig, traumverloren, bedrohlich und gleichzeitig erleichtert",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "locations": {
+    "terminal": {
+      "name": "Wasaline Terminal (Vasklot/Vaskiluoto)",
+      "note": "Eddies Zusammenbruch, Sini passt auf"
+    },
+    "shuttle": {
+      "name": "Werks-Shuttlebus",
+      "note": "Busfahrer transportiert Eddie in Sinis Wohnung"
+    },
+    "apartment": {
+      "name": "Sinis Wohnung, Vöyrinkatu 25",
+      "note": "Pflege, erstes Erwachen, sicheres Lager"
+    }
+  },
+  "synopsis": "Nach der Nacht im Terminal kümmert sich Sini um die fiebrige Eddie, versorgt ihre Füße und bietet Zuflucht. In ihr Delirium mischen sich Angst vor der Stasi und das missverstandene Versprechen einer sofortigen Weiterreise. Ein Kollege fährt sie im Shuttle zu Sinis Wohnung, wo Eddie endgültig zusammenbricht – und zugleich zum ersten Mal sicher schläft.",
+  "mood": "fiebrig, verwirrt, gleichzeitig tröstlich",
+  "parts": [
+    {
+      "part_id": "A",
+      "title": "Aufwachen bei Sini",
+      "summary": "Eddie kommt in Sinis Wohnung zu sich, wird gepflegt, gefüttert und erfährt, dass sie gesucht wird.",
+      "beats": [
+        "Sini stellt Suppe, Kaffee und Medikamente bereit",
+        "Fußpflege und erster tiefer Blickkontakt",
+        "Sini erklärt: graue Männer suchten dich, jetzt wird geruht"
+      ]
+    },
+    {
+      "part_id": "B",
+      "title": "Fiebertraum & Transport",
+      "summary": "In der Abenddämmerung verwechseln Eddie und ihr Delirium den Kranken-Transport mit der Fähre; ein Busfahrer trägt sie in Sinis Wohnung.",
+      "beats": [
+        "Terminal-Schichtwechsel, Stimmen werden zu Bedrohungen",
+        "Sini organisiert den Shuttle und beruhigt Eddie",
+        "Ankunft in der Wohnung, Bewusstlosigkeit als rettender Schnitt"
+      ]
+    }
+  ]
 }
 ```
 
 Regen trommelt gegen die Fenster. Jemand zieht mir die Decke bis an die
 Schultern, und ich blinzle ins milchige Licht des Morgens. Mein Kopf ist nicht
 mehr brennend, nur schwer. Neben mir hockt sie – das Mädchen mit den blauen
-Haaren. Sie ist immer noch da. Ihre Augen fragen, bevor sie spricht.
+Haaren. Sie ist immer noch da. Auf dem Tisch liegen zwei Tassen, eine leer,
+eine halbvoll; daneben meine klammgewordene Karte und eine Schachtel mit
+Tabletten, die nicht meine sind. Ihre Augen fragen, bevor sie spricht.
 
 „Wie fühlst du dich?“ fragt sie erst auf Finnisch, dann leiser auf Englisch. Ich
 nicke halb. „Fieber runter,“ bringe ich heraus. „Aber… nicht weg.“

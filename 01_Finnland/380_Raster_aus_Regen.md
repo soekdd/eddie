@@ -31,6 +31,7 @@
   "persons": ["Eddie"],
   "landscapes": ["Felder", "Kieferplantagen", "Sumpf/Moor", "Wald", "See"],
   "weather_summary": "hartnäckiger Regen, kurze Aufhellung in Turmhöhe, kühler Wind; nasse Kälte",
+  "synopsis": "Eddie verirrt sich im Regenraster der Drainagegräben, navigiert sich mit Pace-Counting und Geometrie zurück auf Kurs und muss in der geschlossenen Särkisen tupa zwei Tage Zwangspause machen, um Fieber und Erschöpfung zu überstehen.",
   "health_flags": [
     "Fiebergefühl / glühende Stirn",
     "anhaltender Husten",

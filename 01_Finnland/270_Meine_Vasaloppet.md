@@ -84,7 +84,7 @@ Königs Gustav Vasa, der mit Mut, Ausdauer und Hoffnung sein Land rettete.
 OK, der Freund meines Vaters konnte echt gut Geschichten erzählen. Ein
 sportliches Ereignis, das zu einer Revolution im eigenen Land führte. War es
 das, was die beiden Männer mit der Hohen Tour verband? Fühlte sie sich so wie
-Vasa Gefolgsleute? Erst heute wird mir die mögliche Symbolik dieser Tour
+Vasas Gefolgsleute? Erst heute wird mir die mögliche Symbolik dieser Tour
 bewusst.
 
 Als ich später beim Studium der Finnlandkarten die Stadt Vaasa entdeckte, fragte

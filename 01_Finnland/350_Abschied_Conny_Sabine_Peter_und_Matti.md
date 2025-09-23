@@ -37,11 +37,6 @@
 }
 ```
 
-Die Sonne fällt durch die Baumwipfel wie goldene Tücher, und ich blinzle
-verschlafen in das Licht. Die Nacht mit den Liedern klingt noch in mir nach,
-aber jetzt ist alles anders: kein Regen, keine Schwere -- heute sieht es aus,
-als würde mir die Welt wirklich offenstehen.
-
 Wir packen die Schlafsäcke zusammen, die Boote werden klar gemacht, und
 irgendwie merkt man, dass keiner so richtig Eile hat. Jeder Schritt dauert ein
 kleines Stück länger, weil jeder spürt, dass gleich etwas zu Ende geht.
@@ -80,7 +75,7 @@ Als es dann wirklich soweit ist, tuscheln die vier hinter meinem Rücken,
 kichern, tragen Kisten und Beutel zusammen. Ich ahne etwas, aber erst im letzten
 Moment drücken sie mir das alles in die Hand: Töpfe, Besteck, Lebensmittel, eine
 Isomatte, fast ein halbes Outdoor-Geschäft -- und obendrauf einen ganzen Haufen
-Damenhygiene. Westliche. Sachen, die ich noch nie gesehen habe, die ich staunend
+Damenhygiene, Kosmetik und Schokolade. Westliche. Sachen, die ich noch nie gesehen habe, die ich staunend
 betrachte wie exotische Waren von einem anderen Planeten.
 
 „Damit kommst du durch", sagt Sabine, und ihre Stimme klingt, als würde sie
