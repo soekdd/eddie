@@ -1,1 +1,0 @@
-# Camping mit Papa

@@ -189,16 +189,14 @@ Aber sie hat mir etwas mitgegeben, das nicht an irgendeiner Grenze hängenbleibt
 Raija lehnt sich neben mich an die Reling, schaut lange aufs Wasser, als würde
 sie dort unten die passenden Worte finden.
 
-„Eddie…", sagt sie schließlich, „warum bist du damals so plötzlich aus meiner
-Wohnung abgehauen? Ich hab überall nach dir gesucht."
-
-Ihre Stimme ist ruhig, aber dahinter liegt etwas Hartes -- Sorge oder vielleicht
-auch leise Wut.
+„Eddie…", sagt sie schließlich, „als die Stasi vor unserer Wohnung auftauchte,
+warst du schon weg. Wie konntest du das wissen?" Ihre Stimme ist ruhig, aber
+dahinter liegt etwas Hartes -- Sorge oder vielleicht auch leise Wut.
 
 Ich atme durch, blicke auf meine Hände, die auf dem kalten Metall liegen. „Ich
 dachte, du weißt es. Wegen Jorma."
 
-„Wegen seiner politischen Sprüche?"
+„Hat er dich gewarnt? Oder hast du es geahnt, wegen seiner Sprüche?"
 
 „Nein", sage ich. „Wegen seiner Hände."
 
@@ -221,20 +219,44 @@ sogar bis vor die Polizeistation gelaufen, wo du gearbeitet hast."
 einfach los, zu Fuß Richtung Vaasa. Ich hatte mir fest vorgenommen, dir zu
 schreiben, aber dann kam so viel dazwischen."
 
+Raija blinzelt mich an, als hätte sie sich verhört. „Von Tampere bis Vaasa? Das
+sind doch dreihundert Kilometer!"
+
+„Eher vierhundert", erwidere ich leise. „Es war kein einfacher Weg. Als Sini
+mich fand, war ich halb tot."
+
+Raija presst die Lippen zusammen, ihre Augen glänzen. „Mein Gott, Eddie…"
+
 Sie sieht mich an, als müsste sie neu lernen, wer ich eigentlich bin. „Ich habe
 später erfahren, dass einer von Jormas Freunden bei der SKOL Kontakt zur Stasi
-aufgenommen hat. Jorma wusste nicht, dass er dich verraten würde. Er war total
-unvorsichtig. Unentschuldbar unvorsichtig."
+aufgenommen hat."
 
-Mir wird kurz kalt, obwohl der Wind heute mild ist. „Und das war, bevor…?"
+Mir wird kurz kalt, obwohl der Wind heute mild ist. „Also wusste Jorma gar
+nicht, dass die Stasi kommt?"
 
-„Bevor Jorma dich geschlagen hat. Aber du warst schon weg, als die Männer der
-Stasi vor unserer Wohnung standen… Glück im Unglück."
+Raija seufzt. „Nein. Jorma war dumm, unvorsichtig, hat gequatscht. Wollte sich
+vor einen Kumpels wichtig machen. Er wusste nicht, dass er dich damit verrät.
+Aber unentschuldbar bleibt es trotzdem. Also warst du schon weg, als die Männer
+der Stasi vor unserer Wohnung standen… Glück im Unglück."
 
 Wir schweigen. Die Ostsee zieht unter uns vorbei wie ein endloses Fließband.
-„Komisch, wie das Schicksal manchmal funktioniert", murmelt Raija. „Ja. Ich hab
-gedacht, die Flucht aus deiner Wohnung war mein größter Absturz. Und jetzt seh
-ich, dass sie mich gerettet hat."
+„Komisch, wie das Schicksal manchmal funktioniert", murmelt Raija. „Als ich die
+Ohrfeige fing, habe ich nur trotzig reagiert und bin ohne Plan einfach nur raus
+aus der Wohnung. Und jetzt seh ich, dass sie mich gerettet hat."
+
+Ich beiße mir auf die Lippe. „Das erklärt aber, warum sie so schnell an deiner
+Wohnung waren. Aber hast du eine Ahnung, wie sie auch so schnell in der Kirche
+sein konnten?"
+
+Raija nickt langsam. „Das habe ich mich auch gefragt und mit meinem Kollegen
+durchdiskutiert. Wir denken, die Männer aus der Botschaft waren während der
+ganzen IMO in Joutsa und haben den Bussteig überwacht."
+
+„Ja, einen anderen Weg raus aus der Stadt gibt es ja nicht…"
+
+„Genau. Und die Kirche – also Kirchenasyl – war der nächste logische Gedanke."
+
+„Mein Gott, sie waren die ganze Zeit in Joutsa…"
 
 Wir stehen da, jede in ihren eigenen Gedanken. Und zwischen all dem Schmerz und
 der Schwere bleibt dieser kleine, helle Punkt – dass selbst eine scheinbare

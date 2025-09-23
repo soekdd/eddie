@@ -40,13 +40,19 @@ vorbei: Wälder, Seen, immer wieder kleine Holzhäuser. Mein Kopf dröhnt noch v
 Schlag, den mir Jorma verpasst hat. Aber der Entschluss steht: Ich muss Raija
 finden.
 
-Mein Vater hat mir eingebläut: Lass dein Gepäck nie zurück, wenn du in der
-Absicht fortgehst, es später zu holen. Immer mitnehmen. Also habe ich meine
-kleine, viel zu vollgestopfte Reisetasche wieder bei mir.
+Doch die Gedanken lassen mich nicht los. Jorma ruft die Stasi und schlägt mich?
+Wollte er am Ende, dass ich die Wohnung verlasse? Hatte er vielleicht sogar
+schlechtes Gewissen bekommen, wollte mich loswerden, ohne es offen zuzugeben?
+Dann hätte er es auch einfacher haben können: „Die Stasi weiß Bescheid, hau ab.“
+Ein Satz hätte genügt. Aber so ist Jorma — unberechenbar, gefährlich. Ein
+Risiko, das ich nicht mehr tragen darf. Daran wird auch Raija nichts ändern
+können. Ihre Wohnung in Jyväskylä ist für mich nicht mehr sicher. Mein
+Entschluss, die Stadt zu verlassen, war richtig.
 
-Tampere ist ein Riese. Am Bahnhof stolpere ich aus dem Zug und fühle mich wie
-eine Ameise zwischen Straßenbahnen, Bussen, Autos und Menschenmassen. Überall
-Werbung, Stimmen, Hektik. Ich finde nach einigem Herumirren die Polizeistation –
+Tampere ist ein Riese. Kaum stolper ich aus dem Backstein-Klotz von Bahnhof, knallt mir Tampere ins Gesicht: fette Bürgerhäuser, alle großmäulig und bunt, nix graues Plattenzeug wie daheim. Autos hupen, Leute rennen mit Koffern, und ich steh da mit meinem lächerlichen Rucksack, seh aus wie vom Dorf. In Dresden sind die Straßen leerer, das Grau zieht sich bis in die Knochen – hier dagegen wirkt alles lebendig, laut, fast frech. Als hätte die Stadt selber Bock, mir zuzurufen: „Na, Mädchen, willkommen im Westen des Ostens!“
+
+Zwischen den Straßenbahnen, Bussen, Autos und Menschenmassen fühle ich mich wie
+eine Ameise. Überall Werbung, Stimmen, Hektik. Ich finde nach einigem Herumirren die Polizeistation –
 und bleibe auf der anderen Straßenseite stehen. Grau, bedrohlich. Klar wird mir:
 Das ist eine saublöde Idee. Die suchen mich doch immer noch. Da kann ich nicht
 einfach reinspazieren und nach Raija fragen. Also tue ich so, als ob ich
@@ -83,7 +89,7 @@ unsichtbar bin. Machbar.
 
 Der Alte drückt mir noch ein zweites Buch in die Hand: Laavujen Opas:
 Pohjois-Länsi-Suomi. „Opas?“ Ich kichere. Was für Opas? Beim Aufschlagen wird’s
-klar: Schutzhütten. Kleine Holzhäuschen im Wald, seitenweise Koordinaten. Ich
+klar: Laavus sind Schutzhütten. Kleine Holzhäuschen im Wald, seitenweise Koordinaten. Ich
 teste sofort: suche eine Hütte bei Tampere, gleiche die Koordinaten mit einer
 Karte ab – und tatsächlich: ein kleiner See, mit Häuschen eingezeichnet.
 Finnland ist übersät damit! Manche nur Picknickdächer, andere winzig für zwei
@@ -110,18 +116,18 @@ Den Rest finde oder kaufe ich unterwegs. Pflanzen aus dem Buch sind nur Beilage.
 Gesund, lecker – aber kein Benzin.
 
 Ich muss lachen. Diophantos, der alte Grieche mit seinen Bauern und Kühen, würde
-staunen: Meine Gleichung heißt Überleben. Bauer Eddie hat zwei Kühe namens Reis
-und zwei Schweine namens Nudeln.
+staunen: Meine Gleichung heißt Überleben. Bauer Eddie hat nun zwei Kühe namens Reis
+und zwei Schweine namens Nudeln. Aber nicht sein ganzes Geld ausgegeben.
 
 > **➡ Die diophantische Gleichung #2…**\
-> (Wie Eddie all ihr Geld exakt für Reis und Nudeln hätte ausgeben können, findest Du im Kapitel 4 von „Eddie rechnet“.)
+> (Hätte ich all mein Geld exakt für Reis und Nudeln ausgeben, sähe die Rechnung wie im Kapitel 4 von „Eddie rechnet“ aus.)
 
 Mit meinen Beuteln – Rucksack konnte ich mir nicht leisten – setze ich mich in
 den Schatten und sortiere meinen Schatz: Schlafsack, verbeultes Blechgeschirr,
 eine Regenjacke, ein Schweizer Taschenmesser mit kleiner Säge (noch nie gesehen,
-mega praktisch), Mückenspray (überlebensnotwendig). Dazu die zwei Bücher,
+mega praktisch), zwei kleine Feuerzeuge, Mückenspray (überlebensnotwendig). Dazu die zwei Bücher,
 fünfzehn (!!) Wanderkarten im Maßstab 1:25.000, und ein Geschenk vom
-Buchhändler: ein winziges Finnisch–Englisch-Wörterbuch.
+Buchhändler: ein winziges Finnisch–Englisch-Wörterbuch. Nicht übel für 220 Markka.
 
 Die Sonne brennt, ich ziehe Linien mit dem Finger über die Karte. Erste Etappe,
 zweite Woche, dritte Woche. Ich male mir alles aus. 400 Kilometer nach Vaasa.
@@ -145,25 +151,3 @@ im Wald an einem kleinen See.
 Ich richte mich ein, packe meinen Schlafsack aus. Ein kurzer Gedanke: Wer wohl
 da drin schon alles geschlafen hat? Soldaten, Obdachlose, Wanderer? Ich
 schnuppere am Stoff – frisch, nach Wind, nach Wald. Alles gut.
-
-Beim Holzsammeln denke ich an Vater. Wie er mir heimlich Feuer machen, Wasser
-abkochen, Pilze bestimmen beigebracht hat. Mutter war ganz verdutzt, warum ich
-plötzlich dauernd im Wald zelten wollte. „Eddie, bist du jetzt bei den
-Pfadfindern?“ hatte sie gelacht. Sie ahnte bestimmt mehr, als sie sagte. Das
-Training ist Gold wert. Hier in Finnland macht es mich stark.
-
-Ich sammele Pilze, Heidelbeeren, Holz. Als das Feuer knistert, ist es wie damals
-mit Vater. Ich koche Reis mit Pilzen – die erste im Wald gekochte warme
-Mahlzeit. Der Geruch steigt mir in die Nase, herzhaft, erdig, fast muss ich
-heulen. Aber ich bleibe stark, esse und genieße jede Gabel.
-
-Dann krieche ich in den Schlafsack. Es ist ungewohnt, allein im Wald, in einer
-fremden Hütte, so weit weg von allem. Aber Müdigkeit siegt. Ich schließe die
-Augen – und sinke in tiefen Schlaf.
-
-Als ich erwache, ist es, als wäre die Welt neu geboren. Der Sonnenaufgang brennt
-golden durch die Baumwipfel, Nebel steigt vom See. Die Luft ist frisch und
-schneidend wie Wasser. Ich sitze auf der Hüttenschwelle, eingewickelt in die
-Regenjacke, schaue ins Licht, wie es die Landschaft vergoldet. Und ich weiß: Ich
-kann das schaffen. Ich bin frei. Jeder Schritt nach Vaasa bringt mich weiter weg
-von Mielke – und näher zu mir selbst.

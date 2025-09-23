@@ -38,7 +38,7 @@
 ```
 
 Meine nächste Etappe führt mich nur wenig Kilometer durch den Wald. Ich will
-mich langsam an die großen Etappen heranwagen. Und wieder stehe ich vor einer
+mich erstmal langsam an die großen Etappen heranwagen. Und wieder stehe ich vor einer
 dieser wunderbaren Hütten und kann kaum glauben, dass sie mir für eine Nacht
 allein gehört. Der Boden riecht noch nach frischem Holz, alles ist neu, alles
 sauber, alles großzügig. Ich muss unwillkürlich lachen – wenn das Kapitalismus
@@ -46,7 +46,7 @@ sein soll, dann hat meine Schule mir eine verdammt schlechte Vorstellung davon
 verkauft. Kostenlos eine Hütte, kostenlos ein Bett, kostenlos Wärme und
 Sicherheit.
 
-Und während ich mich umsehe, während mein Blick durch die großen Scheiben über
+Und während ich mich umsehe, während mein Blick von der kleinen Veranda über
 das Wasser schweift, überfällt mich eine Erinnerung. Dieselbe Überraschung,
 dieselbe ungläubige Freude erlebte ich bei der Ankunft im Joutsenlampi, dem Camp
 der IMO.
@@ -82,7 +82,7 @@ einem flauen Gefühl, aber auch mit einer heimlichen Freude wahrnahm.
 Und dann: Joutsenlampi. Eine Ferienanlage aus einer anderen Welt. Reihen von
 Hütten, alle frisch gebaut, wie kleine Reihenhäuser mit großen Glasfronten zum
 See. Stege, die ins Wasser führten. Boote, die man einfach nehmen durfte.
-Sportplätze, Wiesen, und natürlich die Saun, für uns alle ein Erlebnis.
+Sportplätze, Wiesen, und natürlich die Sauna, für uns alle ein Erlebnis.
 
 Ich bekam eine Hütte zugeteilt, offiziell sollte ich sie mit zwei anderen
 Mädchen aus fernen Ländern teilen, doch da wir so früh angekommen waren,
@@ -93,7 +93,7 @@ wurde – soweit es in einer finnischen Sommernacht dunkel wird.
 
 Alles in Joutsenlampi war kostenlos für uns. Kein Geld, keine Rechnungen, keine
 Einschränkungen. Anders wäre es allerdings auch blöd gewesen, denn keiner von
-uns besaß auch nur eine Krone. Wir durften baden, rudern, laufen, spielen.
+uns besaß auch nur eine Markka. Wir durften baden, rudern, laufen, spielen.
 Überall lächelten Menschen, die uns halfen, ohne eine Gegenleistung zu
 verlangen. Ich starrte mit großen Augen, nicht nur auf die Gebäude, sondern auch
 auf dieses Prinzip: Gastfreundschaft, ganz ohne Misstrauen.
@@ -103,7 +103,7 @@ es dort. Kapitalismus sei kalt und unmenschlich. Aber hier, in diesem
 „kapitalistischen“ Finnland, stand ich in einer nagelneuen Hütte mit riesigen
 Fenstern zum See – und das ganz umsonst. Es passte nicht zusammen.
 
-Natürlich ging es bei der Internationalen Mathe-Olympiade um Zahlen,
+Vordergründig ging es bei der Internationalen Mathe-Olympiade um Zahlen,
 Gleichungen, Beweise. Doch in Wahrheit ging es auch um Begegnungen. Die
 Organisatoren hatten uns nicht nur einen Prüfungsraum gegeben, sondern eine
 ganze Welt, in der wir uns jung, frei und willkommen fühlen konnten.
@@ -118,14 +118,14 @@ den See. Ich lächle, weil sich die Geschichte wiederholt. Damals wie heute
 schenken mir Menschen, die mich nicht kennen, einen Ort der Sicherheit, ohne zu
 fragen, was ich dafür geben kann.
 
-Ich denke an die Organisatoren, die uns jungen Menschen diesen Sommer voller
+Ich denke an die Organisatoren, die uns Jugendlichen diesen Sommer voller
 Wunder ermöglicht haben. Und ich denke daran, wie wichtig es ist, diese
 Aufrichtigkeit zu sehen und zu ehren.
 
-Bevor ich seelig einschlafe, muss ich doch mal heftig kichern. Die beiden
+Bevor ich seelig einschlafe, muss ich doch mal heftig kichern. Die anderen beiden
 Mädchen kam aus der Mongolei und aus Zypern. Beide sehr klug und nett, aber
 keine sprach eine Sprache der anderen. Damit sie irgendwie miteinander reden
 konnten, musste ich übersetzen. Das English der Zypriotin in das Russisch der
 Mongolin und umgekehrt. Gerade wird mir klar, dass die zwei die letzten Tage in
-der Hütte ohne mich klar kommen mussten. Na, ihnen blieb ja noch die Sprache der
-Mathematik….
+der Hütte ohne mich klar kommen mussten. Na, ihnen blieb ja noch die gemeinssme
+Sprache der Mathematik….
