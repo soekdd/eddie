@@ -46,7 +46,7 @@ eingebrockt.
 dass sie denken: ‚Ach, die kommt eh wieder zu spät.‘ Sie sollen glauben, du bist
 immer unpünktlich.“
 
-„Ja, kapiert! Ich war echt stolz auf meine Pünktllichkeit!“, protestierte ich.
+„Ja, kapiert! Ich war echt stolz auf meine Pünktllichkeit!“ protestierte ich.
 
 „Und dann bedenke, Du wirst an dem Tag viel zu viel Gepäck haben. Verdächtig,
 oder?“

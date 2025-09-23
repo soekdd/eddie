@@ -58,7 +58,7 @@
       "title": "Die Hafenbank – Geschichten & Namen",
       "time": "early evening",
       "place": "Innenstadt-Hafen (Bank)",
-      "summary": "Rast auf einer Bank am kleinen Stadthafen – ein Ort, zu dem sie zurückkehren werden. Eddie erzählt vom Weg: Edmila, Joutsa, Raija, Marsch nach Vaasa. Sini ist beeindruckt und widerspricht Eddies Selbstabwertung („Kette schlechter Entscheidungen“). Gespräch über Herkunft: Sini ist halb Sámi (väterlicherseits); Eddie weiß peinlich wenig, Sini nimmt es mit Humor und bietet ‚Erste Lektionen‘ an. Eddie erkennt Sini als freien Geist, Feministin und die Freundin, die sie sich immer gewünscht hat.",
+      "summary": "Rast auf einer Bank am kleinen Stadthafen – ein Ort, zu dem sie zurückkehren werden. Eddie erzählt vom Weg: Edmilla, Joutsa, Raija, Marsch nach Vaasa. Sini ist beeindruckt und widerspricht Eddies Selbstabwertung („Kette schlechter Entscheidungen“). Gespräch über Herkunft: Sini ist halb Sámi (väterlicherseits); Eddie weiß peinlich wenig, Sini nimmt es mit Humor und bietet ‚Erste Lektionen‘ an. Eddie erkennt Sini als freien Geist, Feministin und die Freundin, die sie sich immer gewünscht hat.",
       "dialogue_notes": [
         "Sini: „Erzähl mir deine Geschichte.“",
         "Eddie: nüchterne Version ihres Fluchtbogens",

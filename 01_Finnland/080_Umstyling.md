@@ -60,7 +60,7 @@ ich leise. Kopf drehen, nachpinseln. Dann nochmal über die Schläfen, wo das
 Blond mich auslacht. Meine Finger sind längst schwarz verschmiert, die Creme
 klebt unter den Nägeln.
 
-Ich drücke das Bürstchen noch einmal über den Ponny, die Ohren, über die
+Ich drücke das Bürstchen noch einmal über den Pony, die Ohren, über die
 Hinterkopfpartie. Fast geschafft.. Diese bescheuerte sowjetische Vorzeige-Puppe
 mit ihren blöden Schleifen ist endlich Geschichte. Rausgekickt aus meinem Kopf.
 
