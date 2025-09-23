@@ -75,8 +75,9 @@ Als es dann wirklich soweit ist, tuscheln die vier hinter meinem Rücken,
 kichern, tragen Kisten und Beutel zusammen. Ich ahne etwas, aber erst im letzten
 Moment drücken sie mir das alles in die Hand: Töpfe, Besteck, Lebensmittel, eine
 Isomatte, fast ein halbes Outdoor-Geschäft -- und obendrauf einen ganzen Haufen
-Damenhygiene, Kosmetik und Schokolade. Westliche. Sachen, die ich noch nie gesehen habe, die ich staunend
-betrachte wie exotische Waren von einem anderen Planeten.
+Damenhygiene, Kosmetik und Schokolade. Westliche. Sachen, die ich noch nie
+gesehen habe, die ich staunend betrachte wie exotische Waren von einem anderen
+Planeten.
 
 „Damit kommst du durch", sagt Sabine, und ihre Stimme klingt, als würde sie
 gleich losheulen.

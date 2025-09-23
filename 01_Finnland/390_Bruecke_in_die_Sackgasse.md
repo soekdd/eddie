@@ -49,10 +49,10 @@ Mänteln, und mich packen.
 Ich starre auf das Licht und sehe darin eine Falle. Ein Haus, das aussieht wie
 jedes andere, wird zur Bedrohung. Wenn ich hingehe, verraten sie mich, melden
 mich weiter, und ich lande genau da, wo ich nie wieder hinwollte, im
-Jungendwerkhof oder in was Schlimmeren. Ich bleibe also liegen, presse mich unter
-das Dach, so flach wie möglich, als könnte mich der Regen tarnen. Jeder Schatten
-zwischen den Bäumen ist ein Verfolger, jedes Knacken ein Schritt. Ich höre
-Stimmen, die keine sind, sehe Gesichter im Regen, die im nächsten Moment
+Jungendwerkhof oder in was Schlimmeren. Ich bleibe also liegen, presse mich
+unter das Dach, so flach wie möglich, als könnte mich der Regen tarnen. Jeder
+Schatten zwischen den Bäumen ist ein Verfolger, jedes Knacken ein Schritt. Ich
+höre Stimmen, die keine sind, sehe Gesichter im Regen, die im nächsten Moment
 zerrinnen.
 
 Meine Brust brennt, ich huste, und selbst das klingt für mich wie ein Signal:
@@ -74,9 +74,9 @@ In Laihia der letzte Laden. Brot, Haferflocken, Tabletten. Ich drücke die Münz
 auf den Tresen, als würden sie an meinen Fingern kleben. Die Frau an der Kasse
 schaut mich an, als wäre ich ein Gespenst. Ich kann ihr nicht in die Augen
 sehen. Ich kaufe auch Mückenspray, das letzte Döschen, halb zerdrückt, und eine
-Tube Creme, ohne zu verstehen, was draufsteht. Das Spray riecht scharf, die Creme
-kühlt wie ein kleines Wunder. Zum ersten Mal seit Wochen kratze ich nicht sofort
-bis Blut.
+Tube Creme, ohne zu verstehen, was draufsteht. Das Spray riecht scharf, die
+Creme kühlt wie ein kleines Wunder. Zum ersten Mal seit Wochen kratze ich nicht
+sofort bis Blut.
 
 Doch die Wahrheit kommt nicht im Laden. Sie wartet, bis ich allein bin, in der
 Dunkelheit der Laavu bei Haarinneva. Ich sitze da, das Brot trocken im Mund, die
@@ -127,12 +127,12 @@ Fährterminal. Zwei Brücken führen hinüber: die alte von Osten, aus der Stadt
 und die neue, erst seit wenigen Jahren gebaut, von Süden. Endlos lang, gnadenlos
 dem Wetter ausgesetzt – und genau diese Brücke liegt jetzt vor mir. Sie ist eine
 Hölle aus Metall, zieht sich über das Wasser, ohne Schutz, ohne Gnade. Wind
-zerrt an meiner Kapuze, Regen sticht wie Nadeln durch den Stoff, bis auf die Haut.
-Ich hangele mich am Geländer entlang, Schritt für Schritt, Pfosten für Pfosten,
-Hände taub vom Griff. Der Rucksack zieht mich zurück, meine Füße sind nur noch
-Klumpen, jeder Schritt ein Aufschrei. Autos rauschen vorbei, Lichter schneiden
-die Dämmerung. Ich bin nicht mehr Teil der Welt, nur noch ein Schatten, der über
-die Brücke kriecht.
+zerrt an meiner Kapuze, Regen sticht wie Nadeln durch den Stoff, bis auf die
+Haut. Ich hangele mich am Geländer entlang, Schritt für Schritt, Pfosten für
+Pfosten, Hände taub vom Griff. Der Rucksack zieht mich zurück, meine Füße sind
+nur noch Klumpen, jeder Schritt ein Aufschrei. Autos rauschen vorbei, Lichter
+schneiden die Dämmerung. Ich bin nicht mehr Teil der Welt, nur noch ein
+Schatten, der über die Brücke kriecht.
 
 Und dann: das Terminal. Betonfassade, Licht, Menschen. So nah, dass ich fast
 lachen könnte. Ich stolpere, die Knie geben nach, der Boden kippt, und ich

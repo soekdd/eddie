@@ -33,36 +33,94 @@
 }
 ```
 
-Am nächsten Morgen prasselt der Regen immer noch aufs Dach, doch jetzt mischt sich ein Sturm darunter. Die Wipfel ächzen im Wind, der See ist graugrün und voller Schaumkronen. Keiner denkt ernsthaft ans Weiterziehen – eine dritte Nacht in der Hütte ist keine Frage.
+Am nächsten Morgen prasselt der Regen immer noch aufs Dach, doch jetzt mischt
+sich ein Sturm darunter. Die Wipfel ächzen im Wind, der See ist graugrün und
+voller Schaumkronen. Keiner denkt ernsthaft ans Weiterziehen – eine dritte Nacht
+in der Hütte ist keine Frage.
 
-Doch nachmittags packt Peter und Matti der Übermut. „Nur mal testen!“, ruft Matti, und schon stehen sie im Sturm draußen, beide nur in Badehosen, das Faltboot bereit. Wir drei Mädchen johlen und pfeifen, halb entsetzt, halb begeistert von dem Anblick.
+Doch nachmittags packt Peter und Matti der Übermut. „Nur mal testen!“, ruft
+Matti, und schon stehen sie im Sturm draußen, beide nur in Badehosen, das
+Faltboot bereit. Wir drei Mädchen johlen und pfeifen, halb entsetzt, halb
+begeistert von dem Anblick.
 
-Sie stoßen ab, werden von den Wellen hinausgetragen, paddeln tapfer gegen Wind und Gischt. In der Mitte des Sees stockt ihnen der Mut – zu gefährlich, um zu drehen. Also paddeln sie rückwärts wieder zurück, kämpfen sich klatschnass ans Ufer. Wir empfangen sie wie Sieger, klatschen und lachen, doch in Wahrheit sind wir uns einig: völlig verrückte Idee.
+Sie stoßen ab, werden von den Wellen hinausgetragen, paddeln tapfer gegen Wind
+und Gischt. In der Mitte des Sees stockt ihnen der Mut – zu gefährlich, um zu
+drehen. Also paddeln sie rückwärts wieder zurück, kämpfen sich klatschnass ans
+Ufer. Wir empfangen sie wie Sieger, klatschen und lachen, doch in Wahrheit sind
+wir uns einig: völlig verrückte Idee.
 
-Drinnen, tropfend und durchfroren, wärmen sie sich am Ofen. Die Stimmung kippt vom Gelächter ins Leichte, Weiche. Jemand beginnt zu summen, leise zuerst, dann tragen wir die Melodie weiter. Und plötzlich füllt sich die Hütte mit Gesang… *„Die Gedanken sind frei…"*
+Drinnen, tropfend und durchfroren, wärmen sie sich am Ofen. Die Stimmung kippt
+vom Gelächter ins Leichte, Weiche. Jemand beginnt zu summen, leise zuerst, dann
+tragen wir die Melodie weiter. Und plötzlich füllt sich die Hütte mit Gesang…
+*„Die Gedanken sind frei…"*
 
-Ich kenne das Lied natürlich. Wir haben es zu Hause auch schon gesungen, aber eher heimlich, auf Geburtstagen oder wenn die Eltern sicher waren, dass kein falsches Ohr mithört. Hier aber, mitten im Wald, weit weg von Dresden und den grauen Männern, kann ich einfach loslassen.
+Ich kenne das Lied natürlich. Wir haben es zu Hause auch schon gesungen, aber
+eher heimlich, auf Geburtstagen oder wenn die Eltern sicher waren, dass kein
+falsches Ohr mithört. Hier aber, mitten im Wald, weit weg von Dresden und den
+grauen Männern, kann ich einfach loslassen.
 
-Meine Stimme bricht zuerst ein bisschen, weil ich so laut einsetze. Dann ist es mir egal. Ich singe mit voller Kehle, so dass meine Brust vibriert. Alles in mir weitet sich – der Druck, die Angst, die heimlichen Gedanken – alles fliegt raus. Neben mir grinst Conny, und Sabine stößt mich lachend an, weil ich die höchste Note erwische, als hätte ich das geübt.
+Meine Stimme bricht zuerst ein bisschen, weil ich so laut einsetze. Dann ist es
+mir egal. Ich singe mit voller Kehle, so dass meine Brust vibriert. Alles in mir
+weitet sich – der Druck, die Angst, die heimlichen Gedanken – alles fliegt raus.
+Neben mir grinst Conny, und Sabine stößt mich lachend an, weil ich die höchste
+Note erwische, als hätte ich das geübt.
 
-Der Chor in der engen Hütte klingt schief und gleichzeitig wunderschön. Die Wände werfen den Gesang zurück, und ich habe das Gefühl, als würden wir nicht nur für uns singen, sondern für alle, die still bleiben müssen. Ich spüre Gänsehaut, aber nicht vor Kälte. Ich weiß in diesem Moment: selbst wenn morgen alles schiefgeht – diesen Abend, diesen Gesang, kann mir niemand mehr wegnehmen.
+Der Chor in der engen Hütte klingt schief und gleichzeitig wunderschön. Die
+Wände werfen den Gesang zurück, und ich habe das Gefühl, als würden wir nicht
+nur für uns singen, sondern für alle, die still bleiben müssen. Ich spüre
+Gänsehaut, aber nicht vor Kälte. Ich weiß in diesem Moment: selbst wenn morgen
+alles schiefgeht – diesen Abend, diesen Gesang, kann mir niemand mehr wegnehmen.
 
-Nachdem der letzte Ton verklungen ist, hängen wir alle einen Moment still da. Mein Herz klopft, als wäre ich gerade einen Marathon gelaufen. Da zieht Conny ihre Gitarre hervor, stimmt ein paar Saiten und lässt die ersten Töne von Imagine erklingen. Sabine klopft dazu den Takt auf den Boden, Peter summt zaghaft mit.
+Nachdem der letzte Ton verklungen ist, hängen wir alle einen Moment still da.
+Mein Herz klopft, als wäre ich gerade einen Marathon gelaufen. Da zieht Conny
+ihre Gitarre hervor, stimmt ein paar Saiten und lässt die ersten Töne von
+Imagine erklingen. Sabine klopft dazu den Takt auf den Boden, Peter summt
+zaghaft mit.
 
-„Imagine all the people…“ – sie singen auf Englisch, ein wenig unsicher, aber mit voller Inbrunst. Ich stolpere über die Aussprache, doch wir lachen nur, wenn einer danebenliegt. Und trotzdem klingt es – groß.
+„Imagine all the people…“ – sie singen auf Englisch, ein wenig unsicher, aber
+mit voller Inbrunst. Ich stolpere über die Aussprache, doch wir lachen nur, wenn
+einer danebenliegt. Und trotzdem klingt es – groß.
 
-Conny lächelt schief, haut kräftiger in die Saiten, und schon zaubert sie die ersten Akkorde von Let it be. Wir alle fallen ein, diesmal lauter, selbstbewusster. Bei Hey Jude reißt sie die Gitarre hoch, wir strecken die Arme in die Höhe, und beim endlosen Na-na-na-naaa kippen wir fast vor Lachen um. Die Hütte bebt, und jeder Ton jagt durch die Balken.
+Conny lächelt schief, haut kräftiger in die Saiten, und schon zaubert sie die
+ersten Akkorde von Let it be. Wir alle fallen ein, diesmal lauter,
+selbstbewusster. Bei Hey Jude reißt sie die Gitarre hoch, wir strecken die Arme
+in die Höhe, und beim endlosen Na-na-na-naaa kippen wir fast vor Lachen um. Die
+Hütte bebt, und jeder Ton jagt durch die Balken.
 
-Mein Hals kratzt, doch ich singe weiter, weil ich nicht will, dass es endet. Im flackernden Licht sehe ich die Gesichter der anderen: rote Wangen, glänzende Augen, jede Stimme ein Stück Freiheit. Für ein paar Minuten vergesse ich, dass ich auf der Flucht bin. Es gibt nur uns, die Gitarre und die Lieder.
+Mein Hals kratzt, doch ich singe weiter, weil ich nicht will, dass es endet. Im
+flackernden Licht sehe ich die Gesichter der anderen: rote Wangen, glänzende
+Augen, jede Stimme ein Stück Freiheit. Für ein paar Minuten vergesse ich, dass
+ich auf der Flucht bin. Es gibt nur uns, die Gitarre und die Lieder.
 
-Mitten im Hey Jude spüre ich plötzlich eine andere Erinnerung: unser Wohnzimmer daheim. Mein Vater im alten Sessel, meine Mutter am Reißbrett. Ich stelle mir vor, wie sie jetzt beide hier wären und mich hören würden. Für ein paar Sekunden singe ich leiser, fast nur für sie. Dann reißt mich der Refrain wieder mit, und ich schmettere, als wollte ich den Klang bis über die Ostsee tragen.
+Mitten im Hey Jude spüre ich plötzlich eine andere Erinnerung: unser Wohnzimmer
+daheim. Mein Vater im alten Sessel, meine Mutter am Reißbrett. Ich stelle mir
+vor, wie sie jetzt beide hier wären und mich hören würden. Für ein paar Sekunden
+singe ich leiser, fast nur für sie. Dann reißt mich der Refrain wieder mit, und
+ich schmettere, als wollte ich den Klang bis über die Ostsee tragen.
 
-Conny wechselt abrupt den Rhythmus, hämmert ein punkiges Riff. „Du willst mich küssen!“ – sie brüllt den Einstieg, wir stürzen uns lachend hinterher. Sabine hüpft auf der Pritsche, Matti trommelt auf eine leere Dose, Peter klatscht im Takt. Ich singe schief, wild, voller Energie, als sei das Lied eine Kampfansage an alles, was uns fesselt.
+Conny wechselt abrupt den Rhythmus, hämmert ein punkiges Riff. „Du willst mich
+küssen!“ – sie brüllt den Einstieg, wir stürzen uns lachend hinterher. Sabine
+hüpft auf der Pritsche, Matti trommelt auf eine leere Dose, Peter klatscht im
+Takt. Ich singe schief, wild, voller Energie, als sei das Lied eine Kampfansage
+an alles, was uns fesselt.
 
-Die Gitarre zischt, Conny grinst, wir grölen, bis wir fast keine Luft mehr bekommen. Dann Stille. Atemlos, schwitzend, kichern wir uns an. Die Balken knacken, draußen peitscht der Regen, und drinnen fühlen wir uns, als hätten wir das Universum beschworen.
+Die Gitarre zischt, Conny grinst, wir grölen, bis wir fast keine Luft mehr
+bekommen. Dann Stille. Atemlos, schwitzend, kichern wir uns an. Die Balken
+knacken, draußen peitscht der Regen, und drinnen fühlen wir uns, als hätten wir
+das Universum beschworen.
 
-Ich stolpere kurz hinaus in die Nacht. Die Luft ist kühl, die Sterne funkeln. Ich atme tief ein, flüstere ein stummes „Danke“ an wen auch immer, und gehe zurück in die Hütte.
+Ich stolpere kurz hinaus in die Nacht. Die Luft ist kühl, die Sterne funkeln.
+Ich atme tief ein, flüstere ein stummes „Danke“ an wen auch immer, und gehe
+zurück in die Hütte.
 
-Drinnen greift Conny schon wieder in die Saiten. Let it be. Alle brüllen mit, durcheinander, jeder in seiner Tonlage, aber es klingt nach Gemeinschaft. Ich reiße meine Stimme hoch, spüre, wie eine verschlossene Tür in mir aufspringt. Für die anderen bin ich einfach nur Eddie, die laut und frei mitsingt – und vielleicht stimmt das auch.
+Drinnen greift Conny schon wieder in die Saiten. Let it be. Alle brüllen mit,
+durcheinander, jeder in seiner Tonlage, aber es klingt nach Gemeinschaft. Ich
+reiße meine Stimme hoch, spüre, wie eine verschlossene Tür in mir aufspringt.
+Für die anderen bin ich einfach nur Eddie, die laut und frei mitsingt – und
+vielleicht stimmt das auch.
 
-Als der Refrain verklingt, lachen wir, Sabine wirft mir die Arme um die Schultern, und mein Herz hämmert nicht vor Angst, sondern vor Leben. Draußen kündigt ein erster Vogel den Morgen an. Wir sinken erschöpft in unsere Schlafsäcke, noch kichernd, noch summend, und schlafen ein wie eine Band nach dem letzten Konzert.
+Als der Refrain verklingt, lachen wir, Sabine wirft mir die Arme um die
+Schultern, und mein Herz hämmert nicht vor Angst, sondern vor Leben. Draußen
+kündigt ein erster Vogel den Morgen an. Wir sinken erschöpft in unsere
+Schlafsäcke, noch kichernd, noch summend, und schlafen ein wie eine Band nach
+dem letzten Konzert.

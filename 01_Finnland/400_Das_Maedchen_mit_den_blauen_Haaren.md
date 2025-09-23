@@ -64,9 +64,9 @@
 Regen trommelt gegen die Fenster. Jemand zieht mir die Decke bis an die
 Schultern, und ich blinzle ins milchige Licht des Morgens. Mein Kopf ist nicht
 mehr brennend, nur schwer. Neben mir hockt sie – das Mädchen mit den blauen
-Haaren. Sie ist immer noch da. Auf dem Tisch liegen zwei Tassen, eine leer,
-eine halbvoll; daneben meine klammgewordene Karte und eine Schachtel mit
-Tabletten, die nicht meine sind. Ihre Augen fragen, bevor sie spricht.
+Haaren. Sie ist immer noch da. Auf dem Tisch liegen zwei Tassen, eine leer, eine
+halbvoll; daneben meine klammgewordene Karte und eine Schachtel mit Tabletten,
+die nicht meine sind. Ihre Augen fragen, bevor sie spricht.
 
 „Wie fühlst du dich?“ fragt sie erst auf Finnisch, dann leiser auf Englisch. Ich
 nicke halb. „Fieber runter,“ bringe ich heraus. „Aber… nicht weg.“

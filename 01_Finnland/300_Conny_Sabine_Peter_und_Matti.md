@@ -109,10 +109,10 @@ Langsam trete ich aus dem Schatten der Bäume. Ich spüre, wie mein Herz pocht.
 Noch sehen sie mich nicht. Ich betrachte ihre Boote. Es sind eindeutig
 Pouch-Faltboote aus der DDR. Wie können hier mitten in Finnland vier Ostdeutsche
 Jugendliche sein? Dann sehe ich den Schriftzug „Germania“, wo eigentlich „Pouch“
-stehen müsste. Sie haben die Boote nicht in der DDR gekauft. Es sind Westdeutsche. Ich entspanne mich.
-Aber werden sie meine Legende durchschauen? Ich habe keine Wahl und räuspere
-mich ganz leise. Vier Köpfe drehen sich gleichzeitig zu mir um. Für einen Moment
-ist es still – dann ruft einer:
+stehen müsste. Sie haben die Boote nicht in der DDR gekauft. Es sind
+Westdeutsche. Ich entspanne mich. Aber werden sie meine Legende durchschauen?
+Ich habe keine Wahl und räuspere mich ganz leise. Vier Köpfe drehen sich
+gleichzeitig zu mir um. Für einen Moment ist es still – dann ruft einer:
 
 „Heeey! Eine Wanderin! Komm rüber!"
 
@@ -120,8 +120,8 @@ Und da stehe ich, mitten im Wald, nach Tagen allein, plötzlich vor vier
 lachenden, neugierigen Deutschen.
 
 Ich bin noch gar nicht richtig im Licht, da winkt mir schon eine von den beiden
-Mädchen zu. Blond, lachend, ein offender Blick – als ob ich längst zur Gruppe gehöre.
-„Komm her, wir haben genug Tee für alle!“, ruft sie.
+Mädchen zu. Blond, lachend, ein offender Blick – als ob ich längst zur Gruppe
+gehöre. „Komm her, wir haben genug Tee für alle!“, ruft sie.
 
 Unsicher stolpere ich näher, und sofort geht das große Vorstellen los. „Ich bin
 Sabine“, sagt die Kleinere, zieht mich ohne Umschweife an der Hand in den Kreis
@@ -129,9 +129,10 @@ und deutet auf die anderen. „Das ist Conny – eigentlich Cornelia, aber sag b
 nicht Cornelia, das mag sie nicht. Und das sind Peter und Matti. Wir sind aus
 Paderborn. Und du?“
 
-„Eddie“ stammele ich, doch bevor ich weiter antworten kann, fällt mir Conny schon lachend ins Wort: „Nicht gleich
-so streng, Sabi! Lass das Mädchen erstmal Luft holen!“ Sie hat braune Locken,
-ein Gesicht voller Sommersprossen und diese Art von Lachen, die sofort ansteckt.
+„Eddie“ stammele ich, doch bevor ich weiter antworten kann, fällt mir Conny
+schon lachend ins Wort: „Nicht gleich so streng, Sabi! Lass das Mädchen erstmal
+Luft holen!“ Sie hat braune Locken, ein Gesicht voller Sommersprossen und diese
+Art von Lachen, die sofort ansteckt.
 
 Die beiden Jungs nicken mir freundlich zu. Peter – ruhig, fast ein wenig
 schüchtern, aber mit Augen so blau, dass ich zweimal hinsehe – grinst leise,
@@ -149,9 +150,9 @@ eine richtige Hütte, mit Wärme, Platz und Gesellschaft.
 
 Die Mädels scheinen die Anführerinnen zu sein. Sie erklären mir gleich, wie sie
 die Route organisiert haben, die Hütten im Auge behalten und dass irgendwo am
-Ende der Tour ein alter VW auf sie wartet. „Wir haben alles
-durchgerechnet, alles geplant – na ja, fast alles. Aber hey, das Abenteuer lebt
-von den Überraschungen, oder?“
+Ende der Tour ein alter VW auf sie wartet. „Wir haben alles durchgerechnet,
+alles geplant – na ja, fast alles. Aber hey, das Abenteuer lebt von den
+Überraschungen, oder?“
 
 „Und von Sabines Rechenkünsten“, wirft Conny ein, „sonst hätten wir nicht mal
 genug Geld für die Nudeln heute Abend.“
@@ -171,8 +172,8 @@ Gespräch auf meine Herkunft.
 „Also Eddie“, sagt Sabine schließlich, „jetzt sind wir mal gespannt. Wo kommst
 *du* eigentlich her?“
 
-Mir schnürt es den Hals zu. Ich hole tief Luft und versuche noch einmal die
-alte Geschichte: Wuppertal, verreist, ein bisschen Abenteuer, bla bla.
+Mir schnürt es den Hals zu. Ich hole tief Luft und versuche noch einmal die alte
+Geschichte: Wuppertal, verreist, ein bisschen Abenteuer, bla bla.
 
 Doch Conny winkt sofort ab. „Ach komm, Eddie. Die Geschichte stimmt doch nicht!
 Du bist doch aus dem Osten.“
@@ -181,11 +182,11 @@ Mir rutscht das Herz in die Hose. Vier Augenpaare, die mich ernst, fast ein
 bisschen herausfordernd anschauen. Ich könnte widersprechen, könnte trotzig
 bleiben – aber ich weiß, sie haben recht. Ich gebe auf.
 
-Und dann erzähle ich. Von der Olympiade in Joutsa. Vom Umstyling mit
-Schuhcreme. Von Tampere und dem Markt. Vom Vaasaloppet, den ich allein laufe,
-ohne Zelt, ohne Karte, nur mit ein paar Mark in der Tasche. Ich erzähle von
-meinem Vater, dem Ingenieur, der mir alles beigebracht hat, und wie ich alles
-auf eine Karte gesetzt habe: die Flucht.
+Und dann erzähle ich. Von der Olympiade in Joutsa. Vom Umstyling mit Schuhcreme.
+Von Tampere und dem Markt. Vom Vaasaloppet, den ich allein laufe, ohne Zelt,
+ohne Karte, nur mit ein paar Mark in der Tasche. Ich erzähle von meinem Vater,
+dem Ingenieur, der mir alles beigebracht hat, und wie ich alles auf eine Karte
+gesetzt habe: die Flucht.
 
 „Aber bitte“, sage ich am Ende, fast flehend, „erzählt das niemandem. Nicht für
 ein paar Wochen. Ich wurde in Jyväskylä schon einmal verraten. Wenn die Polizei
