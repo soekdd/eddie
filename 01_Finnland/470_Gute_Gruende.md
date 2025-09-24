@@ -124,15 +124,15 @@ und ermutigt. Ich atme tief ein.
 „Also, zurückspulen. Frühjahr 1982“, sage ich. „Achte Klasse. Ich war gerade zum
 dritten Mal in Folge Bezirksmeisterin in der Matheolly. Und bei der
 Landesolympiade auf Platz zehn. Nicht weltbewegend, aber genug, damit Erwachsene
-plötzlich glauben, ich sei eine irgendwie besonders.“
+plötzlich glauben, ich sei irgendwie besonders.“
 
-„Du bist etwas Besonders“, murmelt Sini…
+„Du bist etwas Besonderes“, murmelt Sini…
 
 Ich rolle mit den Augen und rede weiter.
 
 „In der DDR gibt’s diese Mathe-Spezialschulen. Die nächste mit Internat war in
 Riesa, aber in Dresden hatten wir die Manos, offiziell: Erweiterte Oberschule
-Martin-Andersen-Nexö - alle sagten nur Manos. Kein Matheinternat, aber vom
+Martin-Andersen-Nexö – alle sagten nur Manos. Kein Matheinternat, aber vom
 Anspruch ähnlich. Für mich klang das nach Himmel: weniger Gequatsche, mehr
 Zahlen. Gleich Anfang der Achten gab’s ein Elterngespräch mit dem Direktor der
 Manos plus die Einladung zu einem Aufnahmetest im Frühjahr.“
@@ -146,7 +146,7 @@ verloren, das war das Schwierigste.“
 Sini kichert.
 
 „Die Sache war eigentlich geritzt“, fahre ich fort. „Und ehrlich: Ich war froh,
-meine alte POS - Polytechnische Oberschule, so eine Art Gesamtschule - hinter
+meine alte POS – Polytechnische Oberschule, so eine Art Gesamtschule – hinter
 mir zu lassen. Der Direktor dort war eine Parteibestie in Menschengestalt. Wir
 hatten uns mehrfach in die Haare gekriegt. Ich hab’ mir angewöhnt, gut
 vorbereitet zu streiten. Er hatte es rhetorisch nicht darauf und im Rechnen war
@@ -195,7 +195,7 @@ Martin-Andersen-Nexö mitgeteilt wurde. Die Schülerin hat trotz gewisser
 mathematischer Begabungen bisher keine ausreichende Verbundenheit mit unserer
 sozialistischen Gesellschaftsordnung erkennen lassen. Es zeigten sich wiederholt
 intellektualistische Tendenzen, bürgerlicher Individualismus und mangelnde
-kollektiverzieherische Einordnung. In Versammlungen trat sie durch
+kollektiv-erzieherische Einordnung. In Versammlungen trat sie durch
 rechthaberische Diskussionsbeiträge auf, die geeignet sind, die klassenbewusste
 Haltung der Mitschüler zu verunsichern. Eine EOS ist ein Ort für politisch
 zuverlässige, gesellschaftlich aktive Jugendliche, die im Geiste der Partei
@@ -204,8 +204,8 @@ Aufnahme von Edda R. zurückzunehmen. Mit sozialistischem Gruß.‘“
 
 Sini zieht die Brauen hoch. „Liebenswert.“
 
-„Er hat noch zwei Absätze angehängt über meine ‚negativen Erscheinungen‘—so
-nannten sie es—und dass ich mit meinem ‚lockeren Mundwerk‘ Autoritäten
+„Er hat noch zwei Absätze angehängt über meine ‚negativen Erscheinungen‘ – so
+nannten sie es – und dass ich mit meinem ‚lockeren Mundwerk‘ Autoritäten
 untergrabe. Mein Vater hat mich dafür angemeckert: ‚Siehste, so was kommt von so
 was.‘ Aber das war mehr Zähnezeigen als Wut. Gleichzeitig leuchteten ihm die
 Augen, weil er einen Plan sah.“
@@ -214,7 +214,7 @@ Augen, weil er einen Plan sah.“
 
 Ich nicke. „Er hat seinen Chef, seinen Professor an der Uni, angerufen. Der
 Professor kannte den Dekan der Mathe-Fakultät. Innerhalb von zwei Tagen hatten
-sie einen kleine…“, ich forme mit den Finger Gänsefüsschen
+sie einen kleinen…“, ich forme mit den Fingern Gänsefüßchen
 „…proletarisch-akademischen Gipfel organisiert: den Dekan, den Direktor der
 Manos, den Bezirks-Schulrat und—tada!—unseren Herrn Direktor von der POS. Plus
 meine Eltern. In einem Zimmer, an einem Tisch.“
@@ -222,7 +222,7 @@ meine Eltern. In einem Zimmer, an einem Tisch.“
 „Und du?“, fragt Sini.
 
 „Ich war draußen. Ich saß auf der Fensterbank im Flur und zählte die Quadrate
-der Bodenfliesen. Ich habe versucht zu Lauschen und gleichzeitig war mir
+der Bodenfliesen. Ich habe versucht zu lauschen, und gleichzeitig war mir
 schlecht.“
 
 Ich streiche mir über den Nacken. „Ich hab’ nur Bruchstücke mitbekommen. Durch
@@ -234,14 +234,14 @@ Mathe, nicht wegen Liedgut.‘“
 Sini prustet. „Ich will diesem Mann ein Bier ausgeben.“
 
 „Der Bezirks-Schulrat klang ermüdet. So wie jemand, dem die Sache eigentlich
-egal ist und er nur überlegt, was er später in seinem Bericht schreibt. Der
+egal ist, und der nur überlegt, was er später in seinem Bericht schreibt. Der
 Dekan hat Zahlen aufgezählt — meine Punkte, Bezirksplätze, Empfehlungsschreiben.
 Er hat das Wort ‚außergewöhnlich‘ benutzt. Es war das erste Mal, dass mir das
 peinlich war. Ich stand da und fühlte mich wie ein Paket Mehl, das hin- und
 hergeschoben wird.“
 
 Ich schaue Sini an. „Am Ende kam mein Vater heraus, legte mir kurz die Hand auf
-den Kopf — ein sehr un-sozialistisches, privates Zeichen — und sagte: ‚Er zieht
+den Kopf — ein sehr unsozialistisches, privates Zeichen — und sagte: ‚Er zieht
 seinen Einspruch zurück.‘“
 
 „Bäm“, sagt Sini.
@@ -270,52 +270,53 @@ dieses ganze Gedöns mit Kerzen und ‚Schwerter zu Pflugscharen‘. Ich fand’
 irgendwie sympathisch, aber dachte damals: naja, harmlos.“
 
 Ich stoße ein kurzes, trockenes Lachen aus. „Ha. Von wegen harmlos. Eines Tages
-waren die einfach weg. Beide Eltern. Stasi hat sie nachts geholt. Offiziell hieß
-es, sie hätten ‚staatsfeindliche Hetze‘ betrieben, weil sie Flugblätter verteilt
-hatten — irgendwas mit Abrüstung, Frieden, keine Raketen. Für die war das schon
-Terrorismus.“
+waren die einfach weg. Beide Eltern. Die Stasi hat sie nachts geholt. Offiziell
+hieß es, sie hätten ‚staatsfeindliche Hetze‘ betrieben, weil sie Flugblätter
+verteilt hatten — irgendwas mit Abrüstung, Frieden, keine Raketen. Für die war
+das schon Terrorismus.“
 
 Sini zieht die Augenbrauen hoch. „Scheiße.“
 
 „Ja“, sage ich leise. „Und meine Klassenkameradin? Wurde am nächsten Tag von
 zwei Frauen abgeholt, ab ins Heim. Einfach so. Kein Tschüss, kein Nichts. Als ob
 man ein Paket von der Post abholt. Am Montag soll ihr Platz in der Schule leer
-gewesen, und das blieb er auch. Ich weiß nicht mal, wo genau sie hingekommen
-ist.“
+gewesen sein, und das blieb er auch. Ich weiß nicht mal, wo genau sie
+hingekommen ist.“
 
 Es wird still. Ich spüre, wie mein Herz wieder schneller klopft, als wäre ich
 wieder fünfzehn und säße in diesem Klassenraum mit dem leeren Stuhl.
 
-„Da hab ich’s kapiert“, sage ich schließlich. „Dass man denen nicht einfach mit
+„Da hab’ ich’s kapiert“, sage ich schließlich. „Dass man denen nicht einfach mit
 Mathe entkommt. Dass eine Eins in Algebra kein Schutzschild ist. Die können dich
 trotzdem einsammeln, wenn sie wollen. Und sie nehmen dir sogar deine Eltern
 weg.“
 
 Sini legt ihre Hand auf meine. „Und da hast du beschlossen zu fliehen?“
 
-Ich nicke. „Nicht sofort. Erst im Stillen. Ich war damals dreizehn, vierzehn—zu
-jung, zu klein, keine Chance. Aber ab 1983 hab’ ich mit meinem Vater angefangen,
-richtig zu planen. Erst mal nur grobe Pläne. So haben wir Edmilla erfunden. Das
-artige systemtreue Vorzeigemädchen. Und er hat mir heimlich vieles begebracht,
-was ich für die Flucht brauchen konnte. Und natürlich die Mathematik, soweit er
-konnte.“
+Ich nicke. „Nicht sofort. Erst im Stillen. Ich war damals dreizehn, vierzehn –
+zu jung, zu klein, keine Chance. Aber ab 1983 hab’ ich mit meinem Vater
+angefangen, richtig zu planen. Erst mal nur grobe Pläne. So haben wir Edmilla
+erfunden. Das artige systemtreue Vorzeigemädchen. Und er hat mir heimlich vieles
+beigebracht, was ich für die Flucht brauchen konnte. Und natürlich die
+Mathematik, soweit er konnte.“
 
-„Wegen der Olympiade?“ fragt Sini.
+„Wegen der Olympiade?“, fragt Sini.
 
 „Genau. Die IMO war das Ticket. Aber man wusste immer erst spät, wo sie
-stattfinden wird. 1984 war sie zum Beispiel in Prag, da hätte ich gar nicht über
-Flucht nachdenken brauchen. Zum Glück war ich da ohnehin noch zu jung für die
-IMO. Aber 1985? Finnland. Bäm! Freiheit. Da wusste ich: Ich muss um jeden Preis
-in die Auswahl kommen, darf ich nicht locker lassen. Ich hab’ gelernt wie
-besessen, jede Aufgabe, jede Kombinatorik, Nächte durchgerechnet. Nicht, weil
-ich Mathe so sehr liebte — na gut, das auch — sondern weil das die einzige
-Leiter war, die noch nach draußen führte.“
+stattfinden würde. 1984 war sie zum Beispiel in Prag, da hätte ich gar nicht
+darüber nachdenken brauchen, über Flucht nachzudenken. Zum Glück war ich da
+ohnehin noch zu jung für die IMO. Aber 1985? Finnland. Bäm! Freiheit. Da wusste
+ich: Ich muss um jeden Preis in die Auswahl kommen, durfte ich nicht locker
+lassen. Ich hab’ gelernt wie besessen, jede Aufgabe, jede Kombinatorikaufgabe,
+Nächte durchgerechnet. Nicht, weil ich Mathe so sehr liebte — na gut, das auch —
+sondern weil das die einzige Leiter war, die noch nach draußen führte.“
 
 Ich atme tief durch, merke, dass meine Stimme härter geworden ist. Dann zwinge
 ich mich zum Lächeln. „Also ja, ich hab’ weniger geredet. Aber innerlich hab’
 ich lauter gerechnet.“
 
-Sini kneift meine Finger. „Und genau deshalb bist du jetzt hier. Bei mir.“
+Sini kneift meine Finger zusammen. „Und genau deshalb bist du jetzt hier. Bei
+mir.“
 
 Ich lächle schief zurück. „Genau deshalb.“
 
@@ -329,5 +330,5 @@ sagt. Draußen klackert schon der Schlüsselbund vom Kellner, die Tische sind
 leer, nur wir sitzen noch da, die letzten Gäste. Ich trinke die kalte Cola in
 einem Zug und atme aus.
 
-„Weißt du was?“, sage ich. „Ich erzähl dir jetzt von meinem Vater. Ohne ihn wär’
-das alles nur ein dummer Traum geblieben.“
+„Weißt du was?“, sage ich. „Ich erzähl’ dir jetzt von meinem Vater. Ohne ihn
+wär’ das alles nur ein dummer Traum geblieben.“

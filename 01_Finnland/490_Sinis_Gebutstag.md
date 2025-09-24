@@ -91,10 +91,10 @@ wecken kann. Mein Herz klopft bis zum Hals. Ich will heute die Erste sein, die
 etwas tut – nicht schon wieder die, die umsorgt wird.
 
 In der Küche ist es still, nur das leise Knistern der Pfanne. Ich kippe Öl
-hinein, ein Ei platzt, das Eigelb schwappt gelb wie die Sonne, die gleich
-aufgehen wird. Toast springt, ich stelle Teller auf, und im Ofen backen Muffins,
-deren Duft die kleine Wohnung füllt. Alles wirkt festlicher, nur weil ich es für
-sie tue.
+hinein. Ein Ei platzt, und das Eigelb schwappt gelb wie die Sonne, die gleich
+aufgehen wird. Der Toast springt. Ich stelle Teller auf, und im Ofen backen
+Muffins, deren Duft die kleine Wohnung füllt. Alles wirkt festlicher, nur weil
+ich es für sie tue.
 
 Aber dann kommen die Zweifel. Ob es überhaupt richtig ist? Was, wenn sie gar
 keine Geburtstagsfeier will? Was, wenn ich es falsch sage? Ich habe gestern
@@ -106,8 +106,8 @@ Und dann steht sie da. Zerzaust, gähnend, die Hand schon fast am Haar, wie
 immer, wenn sie aufwacht. Sie starrt mich an, als wäre ich ein Geist in ihrer
 Küche. „Woher… wusstest du?“
 
-Ich drehe mich um, halte das Bratfett tropfende Pfannenwender wie eine Trophäe
-hoch. „Studentenausweis.“
+Ich drehe mich um, halte den vom Bratfett tropfenden Pfannenwender wie eine
+Trophäe hoch. „Studentenausweis.“
 
 Sie verzieht den Mund zu einem schiefen Lächeln. „Ach, dieses olle Ding hat mich
 verraten…“
@@ -123,7 +123,7 @@ Auf ihrem Platz liegt mein kleines Päckchen. Sie sieht es, schaut mich fragend
 an. „Darf ich?“ „Na klar“, flüstere ich, plötzlich wieder schüchtern.
 
 Sie löst das Papier, zieht das Blatt heraus – mein welliger Matheblock, mit
-Buntstift übermalt. Zwei Doppelhelix, eine mit blauem Iro, die andere mit
+Buntstift übermalt. Zwei Doppelhelixen, eine mit blauem Iro, die andere mit
 Sámi-Mustern. Sini hält den Atem an. „Eddie…“
 
 Ihre Finger wandern zu den Codons. „Das erste erkenne ich sofort, mit den vier
@@ -144,15 +144,15 @@ lacht, drückt sich zurück. „Weißt du, wir Finnen umarmen uns eigentlich nic
 ständig. Aber du… du bist die Ausnahme.“
 
 Wir stehen da, kichern beide, während das Spiegelei in der Pfanne schon eine
-Kruste bekommt. Sie tippt mit der Nase an mein Ohr. „Und die Muffins? Verbrennen
-die nicht?“
+Kruste bekommt. Sie tippt mit der Nase gegen mein Ohr. „Und die Muffins?
+Verbrennen die nicht?“
 
 Ich lache, löse mich von ihr. „Heute nicht. Heute wird alles gut.“
 
 Ich wage es, noch einen Schritt weiterzugehen: „Heute… heute möchte ich dich
 unbedingt wieder nach der Arbeit abholen. Bitte, bitte, bitte.“ Als Beweis ziehe
-ich meine Socken aus und strecke ihr die Füße entgegen. „Schau: alles verheilt.
+ich meine Socken aus und strecke ihr die Füße entgegen. „Schau: Alles verheilt.
 Also fast.“
 
-Sini nickt wohlwollend. „Sehr gern mein Hinkebein, ich habe auch eine
-Überaschung für dich, aber da musst du dich noch etwas gedulden.“
+Sini nickt wohlwollend. „Sehr gern, mein Hinkebein, ich habe auch eine
+Überraschung für dich, aber da musst du dich noch etwas gedulden.“
