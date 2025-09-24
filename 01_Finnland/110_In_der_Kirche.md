@@ -49,8 +49,8 @@
 
 „Sind Sie Russin?“, frage ich erschrocken.
 
-„Nein!“, lacht sie, „komme aus Rautu in Karelien. Da bin ich aufgewachsen, meine
-Mutter war Russin, mein Vater Finne.“
+„Nein!“, lacht sie, „ich komme aus Rautu in Karelien. Da bin ich aufgewachsen,
+meine Mutter war Russin, mein Vater Finne.“
 
 „Karelien?“
 
@@ -62,7 +62,7 @@ alten Lexikon: Die junge Sowjetunion hat im Winterkrieg unter großen Verlusten
 Finnland ein kleines Stück Land abgerungen. Dass es Karelien war, hatte ich
 vergessen.
 
-„Ich war ein junges Mädchen so wie du“, sagt Maria.
+„Ich war ein junges Mädchen, so wie du“, sagt Maria.
 
 „Viele Menschen in Joutsa stammen aus Rautu, so wie ich, oder aus anderen
 Ortschaften in Karelien.“
@@ -93,7 +93,7 @@ das ich nicht verstehe.
 
 „Ich wette, die Alte versteht uns“, sagt einer von Mielkes Begleitern.
 
-Wie viele sind es, frage ich mich.
+Wie viele sind es?, frage ich mich.
 
 Mielke wiederholt seine Frage ein drittes Mal – und wieder antwortet Maria auf
 Finnisch.
@@ -102,7 +102,7 @@ Finnisch.
 
 „Lassen Sie das! Verlassen Sie sofort die Kirche“, sagt Maria auf Russisch.
 
-„Ich wusste, dass sie mich verstehen! Wo ist sie?“
+„Ich wusste, dass Sie mich verstehen! Wo ist sie?“
 
 Ich höre, wie sich Schritte dem Altar nähern. Ich halte die Luft an. Mein Herz
 schlägt so laut, dass ich fürchte, dass man es bis außerhalb des Tischtuchs
@@ -136,7 +136,7 @@ Ein Klick – und die Glocke verstummt nach zwei, drei Schlägen.
 
 Hämisches Lachen durchbricht die Stille.
 
-„Na Alte, das hat ja wohl nicht geklappt! Durchsucht die Kirche, sie wird uns
+„Na, Alte, das hat ja wohl nicht geklappt! Durchsucht die Kirche, sie wird uns
 nicht sagen, wo das Mädchen ist.“
 
 ---
@@ -164,7 +164,7 @@ Und dann…
 
 ---
 
-..ein schneller Griff unter das Tischtuch an meinen Knöchel. Ein Mann zieht mich
+…ein schneller Griff unter das Tischtuch an meinen Knöchel. Ein Mann zieht mich
 grob über den Boden hinaus vor den Altar.
 
 Maria kommt angerannt, doch einer der anderen Männer hält sie zurück.
@@ -176,7 +176,7 @@ Ich liege immer noch auf dem Boden. Kann mich nicht bewegen vor Schreck. Mir
 laufen die Tränen.
 
 Was bin ich für eine Verliererin? Der ganze Plan, die Vorbereitung, die ständige
-Angst, das Sich-Verstellen, die blöden Kleidchen tragen – alles schon nach
+Angst, das Sichverstellen, die blöden Kleidchen tragen – alles schon nach
 wenigen Stunden gescheitert.
 
 Da bricht es aus mir heraus – ich fange hemmungslos an zu heulen.
@@ -188,7 +188,7 @@ Ich verstehe nicht, was sie sagt. Die Männer lachen nur.
 
 Mein Geheul, Marias Geschrei und das Lachen der Männer ist jetzt so laut wie
 zuvor die Glocke. Da fliegt die Tür erneut auf. Zwei Polizisten betreten die
-Kirche, Poliisi steht auf ihren Unformen. Die Szene, die sie sehen, scheint
+Kirche, Poliisi steht auf ihren Uniformen. Die Szene, die sie sehen, scheint
 ihnen eindeutig genug zu sein. Maria spricht den ersten Polizisten an – einen
 älteren Mann. Er versucht sie zu beruhigen. Seine Kollegin, eine junge Frau,
 zieht ihre Dienstwaffe. Der ältere Polizist, vermutlich ihr Vorgesetzter, ruft

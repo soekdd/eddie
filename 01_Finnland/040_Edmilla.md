@@ -56,9 +56,9 @@ eingebrockt.
 dass sie denken: ‚Ach, die kommt eh wieder zu spät.‘ Sie sollen glauben, du bist
 immer unpünktlich.“
 
-„Ja, kapiert! Ich war echt stolz auf meine Pünktllichkeit!“ protestierte ich.
+„Ja, kapiert! Ich war echt stolz auf meine Pünktlichkeit!“, protestierte ich.
 
-„Und dann bedenke, Du wirst an dem Tag viel zu viel Gepäck haben. Verdächtig,
+„Und dann bedenke, du wirst an dem Tag viel zu viel Gepäck haben. Verdächtig,
 oder?“
 
 „Hm, stimmt schon…“, murmelte ich.
@@ -76,7 +76,7 @@ gut, zu viel Gepäck war sowieso mein Ding. Damit konnte ich leben.
 „Die ist entscheidend. Da musst du einiges ändern.“
 
 Mein Herz pochte. Wir hatten das schon oft theoretisch durchgespielt –
-Verkleiden auf’m Klo, zack, fertig. Aber jetzt klang’s ernst.
+Verkleiden auf’m Klo, zack, fertig. Aber jetzt klang es ernst.
 
 „Wie genau?“
 
@@ -97,8 +97,8 @@ Kram, oder was?“
 
 „Genau so. Stell dir vor: In den Minuten der Flucht, wenn die Betreuer merken,
 du bist weg – wonach suchen sie? Sie gucken durch die Flure, durch die Räume und
-achten nur auf Köpfe. Die suchen die Schleifen und Bänder, nicht ’nen schwarz
-gefärbten Jungenkopf.“
+achten nur auf Köpfe. Die suchen die Schleifen und Bänder, nicht ’nen
+schwarzgefärbten Jungenkopf.“
 
 Verdammt clever. Ich musste zugeben: Er hatte recht.
 
@@ -134,7 +134,7 @@ nur für die Sprache. Sonst: ‚sowjetisch‘.“
 „Sowjetisch“, wiederholte ich brav. „Я Эдмила, красивая типичная советская
 девочка. Ich bin Edmilla, ein hübsches, typisch sowjetisches Mädchen. Schlank,
 im Kleidchen, mit albernen Spangen und Bändern im Haar, notorisch unpünktlich,
-immer mit riesiger Tasche. Politisch aber zuverlässig…. …und trage schwarze
+immer mit riesiger Tasche. Politisch aber zuverlässig… und ich trage schwarze
 Schuhe!“
 
 „Was? Wieso?“
@@ -143,13 +143,13 @@ Schuhe!“
 Schuhe.“
 
 „Stimmt!“, musste er zugeben. „Aber bequem müssen sie sein. Keine Ahnung, wie
-lang du die tragen musst.“
+lange du die tragen musst.“
 
 „Als ob die HO viel Auswahl hätte… Vielleicht Jungenschuhe, die ich mädchenhaft
 aufpeppe?“
 
 „Na klar, Jungenschuhe, genau wie deine Jungenhosen, Jungenjacken, Jungenshirts…
-was haben wir bei deiner Erziehung bloß falsch gemacht?“, lachte er.
+Was haben wir bei deiner Erziehung bloß falsch gemacht?“, lachte er.
 
 Ich verdrehte die Augen, musste aber grinsen. Schleifen, Kleidchen,
 Schuhprobleme – und trotzdem: irgendwie aufregend.
@@ -161,4 +161,4 @@ runtergeschluckt, mich für meine Outfits auslachen lassen. Hab in Stabi,
 Geschichte und sogar in Russisch geglänzt.
 
 Wenn es sich auszahlt, müsste ich Edmilla eigentlich dankbar sein. Aber morgen
-wird sie sterben – und ich werd sie keine Sekunde vermissen.
+wird sie sterben – und ich werde sie keine Sekunde vermissen.

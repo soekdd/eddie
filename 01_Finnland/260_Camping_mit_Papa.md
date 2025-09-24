@@ -48,7 +48,7 @@ zusammengeklaubt hatte. Feuer machen zum Beispiel. „Edda, Streichhölzer sind
 schön, aber was machst du, wenn du keine mehr hast?“ Er legte mir ein Stück
 Stahl und einen alten Schraubendreher hin, schlug Funken und grinste, als hätte
 er gerade ein Zauberstück vorgeführt. Ich hockte daneben, versuchte es
-nachzumachen, und natürlich kam bei mir erstmal gar nichts. Wochenlang. Funken
+nachzumachen und natürlich kam bei mir erstmal gar nichts. Wochenlang. Funken
 ja, aber kein Feuer. Ich fluchte leise, während er gelassen daneben stand und
 nur meinte: „Übung. Alles ist Übung.“ Später, im Schuppen, haben wir mit
 Glaslinsen aus alten Apparaten Papier angekokelt.
@@ -63,7 +63,7 @@ nicht an.“ Heute, hier im finnischen Wald, höre ich seine Stimme immer noch.
 
 Unterstände bauen – oh Gott. Das war eine Mischung aus Ingenieurkurs und
 Kinderzeltlager. Vater erklärte mir ganz nüchtern, wie man Äste schichtet, wie
-man sie anlehnt, welche Seite zum Wind drehen, wie man den Boden mit Laub
+man sie anlehnt, welche Seite man zum Wind dreht, wie man den Boden mit Laub
 isoliert. Ich hatte mehr Spaß am Türmchenbauen, aber er ließ nicht locker. Am
 Ende entstand etwas, das aussah wie eine Mischung aus Biberburg und
 Indianerzelt.
@@ -78,7 +78,7 @@ findest du immer, auch wenn du dich verlaufen hast.“ Ich war damals enttäusch
 dass er so unscheinbar aussieht. Ein kleines Licht unter vielen. Aber Vater
 bestand darauf: „Es sind die unscheinbaren Dinge, die dir am Ende den Weg
 weisen.“ Dann legten wir einen Stock auf den Boden, schauten seinen Schatten an
-und rechneten aus, wo Osten ist. Er machte daraus Geometrieaufgaben, mit Winkeln
+und rechneten aus, wo Osten ist. Er machte daraus Geometrieaufgaben mit Winkeln
 und Dreiecken, als sei ich seine persönliche Olympiade.
 
 Besonders stolz war er auf den Kompass-Trick. Eine Nähnadel mit einem Magneten
@@ -87,7 +87,7 @@ zeigt nach Norden. Ich war völlig begeistert, als hätte ich gerade selbst das
 Navigieren erfunden.
 
 Tarnung und Verstecke improvisieren… das kam eigentlich von mir. Ich war stolz,
-dass ich mich so gut in unserem Garten verstecken konnte. Vater machte ernst
+dass ich mich so gut in unserem Garten verstecken konnte. Vater machte Ernst
 daraus: „Du musst dir merken, wo du unsichtbar wirst. Hinter Holzstapeln, in
 Hecken, zwischen Brettern. Wenn man dich sucht, darfst du dich nicht bewegen.“
 Wir spielten Katz-und-Maus, und ich musste still wie ein Stein sein. Gar nicht
@@ -102,7 +102,7 @@ Waldbeeren. Das meiste schmeckte ehrlich gesagt scheußlich. Aber er meinte nur:
 
 Psychologisch wurde es bei seiner „Allein-im-Wald“-Übung. Einmal musste ich
 wirklich draußen schlafen, ohne ihn. Nur ein kleines Feuer, ein Unterstand und
-ich. Ich lag da, lauschte auf jedes Knacken, und war sicher, dass hinter jedem
+ich. Ich lag da, lauschte auf jedes Knacken und war sicher, dass hinter jedem
 Busch ein Wolf stand. Am Morgen kam er lächelnd, brachte Tee in der
 Thermoskanne, und ich war stolz wie nie.
 
@@ -128,7 +128,7 @@ Langsam löst sich die Erinnerung in der Gegenwart auf. Ich knie wieder zwischen
 Moos und Farn, spüre den Duft der feuchten Erde und denke: genau dafür hat er
 mich vorbereitet.
 
-Ich sammele Pilze, Heidelbeeren, Holz. Als das Feuer knistert, ist es wie damals
+Ich sammle Pilze, Heidelbeeren, Holz. Als das Feuer knistert, ist es wie damals
 mit Vater. Ich koche Reis mit Pilzen – die erste im Wald gekochte warme
 Mahlzeit. Der Geruch steigt mir in die Nase, herzhaft, erdig, fast muss ich
 heulen. Aber ich bleibe stark, esse und genieße jede Gabel. Dann krieche ich in

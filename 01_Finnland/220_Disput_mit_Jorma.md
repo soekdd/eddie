@@ -86,7 +86,7 @@ Er schnaubt. „Einzelfälle! Wir reden vom Aufbau einer gerechten Gesellschaft.
 Und Bildung – die ist für alle frei! Kein westlicher Student muss sich
 verschulden, um zu lernen.“
 
-„Frei?“, stoße ich bitter hervor. „Du kriegst alles serviert – ja, sogar
+„Frei?“ stoße ich bitter hervor. „Du kriegst alles serviert – ja, sogar
 kostenlos. Aber nur, wenn du dich an die Partei hältst. Wer nicht spurt, fliegt
 raus. In meiner Klasse werden Bücher aus den Regalen entfernt, Diskussionen
 abgewürgt. Bildung ohne Freiheit ist keine Bildung, Jorma. Du lernst, was
@@ -100,9 +100,9 @@ Ich verschlucke mich fast am Kaffee. „Den ganzen Tag? Ernsthaft?“ Aber er ni
 nur, stur wie ein Ochse. Klar: Er will mich nicht verstehen, er will mich
 bekehren.
 
-Also sitzen wir weiter im Hof, die Morgensonne weicht einem krellen Vormittag.
+Also sitzen wir weiter im Hof, die Morgensonne weicht einem grellen Vormittag.
 
-„Im Westen gibt’s Arbeitslosigkeit, Armut, Ausbeutung,“ hebt er an.
+„Im Westen gibt’s Arbeitslosigkeit, Armut, Ausbeutung“, hebt er an.
 
 Ich schnaube. „Und im Osten gibt’s Angst. Meine Lehrerin war plötzlich eine
 Woche weg, nur weil sie was Kritisches gesagt hat. Bücher verschwinden aus den
@@ -136,7 +136,7 @@ Er schüttelt den Kopf, fast mitleidig. „Das ist westliche Propaganda. Die DDR
 schützt ihre Bürger, keiner wird zurückgelassen. In zehn Jahren wird man sehen,
 dass euer Kapitalismus zerbricht.“
 
-„Jorma,“ sage ich leise, „ich brauche keine zehn Jahre. Ich hab es gelebt. Jeden
+„Jorma“, sage ich leise, „ich brauche keine zehn Jahre. Ich hab es gelebt. Jeden
 Tag. Die Angst, dass die Stasi zuhört. Die Gewissheit, dass mein Vater nie
 Professor wird, weil er nicht in die Partei will. Die Angst, dass ein falsches
 Wort reicht, um alles zu verlieren. Du redest von Idealen. Ich rede von meinem
@@ -161,10 +161,10 @@ dass sie die Spannung zwischen uns sofort erfasst. Jorma murmelt etwas
 Unverständliches auf Finnisch.
 
 Raija zieht ihn daraufhin ins Schlafzimmer. Durch die dünnen Wände höre ich ihre
-Stimmen – gedämpft, aber eindeutig Streit. Ich verstehe kein Wort, das Finnische
-klingt wie ein ständiges Hin und Her, doch die Stimmung ist klar.
+Stimmen – gedämpft, aber eindeutig ein Streit. Ich verstehe kein Wort, das
+Finnische klingt wie ein ständiges Hin und Her, doch die Stimmung ist klar.
 
-Jetzt habe ich doch Stress zwischen die beiden gebracht. Das ärgert mich.
+Jetzt habe ich doch Stress zwischen den beiden gebracht. Das ärgert mich.
 
 Morgen, denke ich, muss ich wieder allein klarkommen, wenn Raija nach Tampere
 fährt. Und Jorma … Jorma wird da sein, mit seinem Blick und seinen wirren Ideen.

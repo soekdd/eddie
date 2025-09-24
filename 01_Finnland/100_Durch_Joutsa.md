@@ -77,15 +77,15 @@ Schritte über die Wiese, leiser jetzt. Die Tür der Kirche steht offen.
 
 Drinnen bleibt mir kurz die Luft weg. Alles ist aus hellem Holz gebaut, selbst
 die hohen Gewölbe, als hätte jemand ein ganzes Schiff umgedreht und daraus eine
-Kirchen gemacht. Kein schwerer Stein, keine goldenen Verzierungen wie in den
+Kirche gemacht. Kein schwerer Stein, keine goldenen Verzierungen wie in den
 Kirchen zuhause – hier ist es schlicht, weit und doch warm, als könnte das Licht
-durch jede Wand hindurchscheinen.Und da vorne – eine Frau. Steht ruhig, schaut
+durch jede Wand hindurchscheinen. Und da vorne – eine Frau. Steht ruhig, schaut
 direkt zu mir. Mein Herz flippt völlig aus.
 
 „Please… help me…“ flüstere ich, Englisch, unsicher, fast kratzig vor Zittern.
 „I… I need… Kirchenasyl…“
 
-Sie guckt mich an, unbewegt. Keine Stirnrunzel, kein Kopfschütteln. Nur dieser
+Sie guckt mich an, unbewegt. Kein Stirnrunzeln, kein Kopfschütteln. Nur dieser
 Blick, als würde sie genau in mich reingucken. Ich presse die Hände zusammen,
 noch mal: „I… I am… in danger… from them… please…“
 
@@ -94,7 +94,7 @@ ein. Meine Augen reißen sich auf. Ich verstehe jedes Wort, als hätte ich nie w
 anderes gehört: „Ты в безопасности, не бойся.“ Du bist in Sicherheit, hab keine
 Angst.
 
-„Вы… вы говорите по-русски?“ Sie sprechen russisch, stottere ich, Worte stolpern
+„Вы… вы говорите по-русски?“ Sie sprechen Russisch, stottere ich, Worte stolpern
 raus wie von selbst.
 
 Sie nickt. Ruhig, klar, ohne Stress. Diese Gelassenheit macht mich fast

@@ -67,8 +67,8 @@ entwischt ihr.
 „Sehr schlechte Nachrichten.“
 
 Raija ruft ihren Chef, und gemeinsam betrachten sie das noch unfertige Dokument
-im Drucker. Ein derber Fluch, Raijas Chef schlägt mit der Faust auf den Tisch
-neben dem Gerät.
+im Drucker. Ein derber Fluch entweicht ihm, und Raijas Chef schlägt mit der
+Faust auf den Tisch neben dem Gerät.
 
 „Was steht drin?“, frage ich ängstlich.
 
@@ -86,8 +86,8 @@ Raija diskutiert aufgeregt mit ihrem Chef.
 Raija scheint sich damit nicht zufriedenzugeben. Sie ist meine Löwin, sie kämpft
 für mich. Sie rennt zum Fenster der Polizeistation.
 
-„Sind sie schon da, um mich zu holen?“, frage ich und wieder steigt die Panik in
-mir hoch.
+„Sind sie schon da, um mich zu holen?“, frage ich, und wieder steigt die Panik
+in mir hoch.
 
 „Nein, noch nicht“, sagt Raija und ruft ihrem Chef wieder etwas auf Finnisch zu.
 Er scheint nicht einverstanden zu sein, aber auch nicht richtig überzeugt von

@@ -60,23 +60,23 @@ ein, streiche die erste Strähne. Hände zittern. Zweite Strähne – Mist, da b
 noch blond durch! Panik schießt hoch. Nachbürsten, schneller, gleichmäßiger. Die
 Uhr tickt wie irre, Eddie, mir läuft die Zeit davon!
 
-Hinter mir ein Geräusch. Tropfen? Schritt?, die Hände werden feucht. Ich muss
+Hinter mir ein Geräusch. Tropfen? Schritte? Die Hände werden feucht. Ich muss
 schneller werden, darf keine Zeit verlieren, um mit den anderen gemeinsam die
 Schule zu verlassen. Strähne um Strähne, von links nach rechts, oben nach unten.
 
 Ich halte inne, prüfe in dem winzigen Spiegel, den ich als Schlüsselanhänger
-trage -- hinten ist eine Lücke. „Verdamt! Das kostet mich wieder Zeit!“, fluche
+trage – hinten ist eine Lücke. „Verdammt! Das kostet mich wieder Zeit!“, fluche
 ich leise. Kopf drehen, nachpinseln. Dann nochmal über die Schläfen, wo das
 Blond mich auslacht. Meine Finger sind längst schwarz verschmiert, die Creme
 klebt unter den Nägeln.
 
 Ich drücke das Bürstchen noch einmal über den Pony, die Ohren, über die
-Hinterkopfpartie. Fast geschafft.. Diese bescheuerte sowjetische Vorzeige-Puppe
+Hinterkopfpartie. Fast geschafft... Diese bescheuerte sowjetische Vorzeige-Puppe
 mit ihren blöden Schleifen ist endlich Geschichte. Rausgekickt aus meinem Kopf.
 
-Ich atme tief durch. Draußen stürmt ne Gruppe Jungs rein, palavern laut über die
-Aufgaben. Ich bin also noch nicht zu spät dran. Ich wisch mir die Stirn, klapp
-die Dose zu, steh auf.
+Ich atme tief durch. Draußen stürmt 'ne Gruppe Jungs rein, und sie palavern laut
+über die Aufgaben. Ich bin also noch nicht zu spät dran. Ich wisch mir die
+Stirn, klapp die Dose zu, steh auf.
 
 Die Jacke sitzt wie zweite Haut. Schwarz, ernst. Keine Edmilla mehr. Nur ich.
 Kein Zurück.

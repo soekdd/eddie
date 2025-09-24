@@ -62,7 +62,7 @@ Ein kleines Lächeln huscht über ihr Gesicht, aber es bleibt nicht. Sie schiebt
 die Tasse ein Stück zur Seite, richtet sich auf. Jetzt weiß ich: Gleich wird sie
 ernst.
 
-„Wir müssen reden“, beginnt sie. „So… wie es weitergehen soll.“
+„Wir müssen reden“, beginnt sie. „So … wie es weitergehen soll.“
 
 Mir rutscht der Magen ein Stück tiefer. Ich nicke nur.
 
@@ -70,7 +70,7 @@ Mir rutscht der Magen ein Stück tiefer. Ich nicke nur.
 „Das Innenministerium in Helsinki wird den Druck der DDR nicht mehr ignorieren.
 Sie wollen dich zurückschicken.“
 
-„Zurück…“ Meine Stimme bricht fast. Zurück, das heißt: in die Hände von Mielke.
+„Zurück …“ Meine Stimme bricht fast. Zurück, das heißt: in die Hände von Mielke.
 
 Raija sieht mich an, fest und entschlossen. „Hier in Jyväskylä bist du erstmal
 sicher. Aber Helsinki?“ Sie schüttelt den Kopf. „Das ist gefährlich. Dort wartet
@@ -99,8 +99,8 @@ Raija zeichnet mit dem Finger eine Linie auf die Tischplatte. „Zug nach Vaasa.
 Dann die Fähre nach Umeå. Und von dort weiter mit dem Zug nach Stockholm.“
 
 Raija seufzt, nimmt einen Schluck Tee, als müsste sie sich Mut antrinken. „Das
-kostet zwar eine Menge Geld, ja. Aber mach dir keine Sorgen, Eddi. Ich übernehme
-das.“
+kostet zwar eine Menge Geld, ja. Aber mach dir keine Sorgen, Eddie. Ich
+übernehme das.“
 
 Ich schaue sie überrascht an. „Du?“
 
@@ -112,8 +112,8 @@ Fähre.“
 Ihre Stimme ist bestimmt, aber nicht hart. Es klingt eher wie Fürsorge, als
 hätte sie die Entscheidung längst getroffen.
 
-Und trotzdem… in mir wächst die Freude ihr mitzuteilen, dass ich das nicht schon
-wieder auf Raijas Schultern ablade muss.
+Und trotzdem … in mir wächst die Freude, ihr mitzuteilen, dass ich das nicht
+schon wieder auf Raijas Schultern abladen muss.
 
 „Raija“, sage ich und richte mich ein Stück auf. „Mach dir mal keine Sorgen. Ich
 hab Geld.“

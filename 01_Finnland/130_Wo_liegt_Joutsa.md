@@ -53,9 +53,8 @@ war es eher Dreistigkeit.
 In der TU Dresden gab es diesen riesigen Kartensaal. Normalerweise durfte man da
 nicht rein, jedenfalls nicht zu den internationalen Karten. Einmal aber passte
 die Aufsicht nicht richtig auf -- und schwupps, stand ich zwischen Regalen
-voller Schätze. Ich zog einen Schuber heraus, und da waren sie:
-Messetischblätter von Finnland, fein säuberlich aufgereiht. Mein Herz schlug bis
-zum Hals.
+voller Schätze. Ich zog einen Schuber heraus, und da waren sie: Messtischblätter
+von Finnland, fein säuberlich aufgereiht. Mein Herz schlug bis zum Hals.
 
 Ich wusste, dass ich sie unmöglich mitnehmen konnte. Also schmuggelte ich sie in
 die öffentlich zugängliche Kartensammlung, versteckt unter den mongolischen
@@ -67,18 +66,18 @@ Abkürzungen wie in einem Geheimcode. Dann malte ich die Hauptstraßen und
 Bahnlinien ab, so genau, dass ich sie später noch vor Augen hatte, wenn ich die
 Augen schloss.
 
-Zuhause nahm mein „Fluchtblock“ Gestalt an. Nach außen ein stinknormaler
+Zu Hause nahm mein „Fluchtblock“ Gestalt an. Nach außen ein stinknormaler
 Mathe-Übungsblock. Doch zwischen den Aufgaben verbargen sich die Wege in die
 Freiheit. Die Karten durfte ich dort nicht abmalen -- das wäre zu auffällig
-gewesen. Also verwandelte ich sie in Geometrie. So bildeted drei wichtige Städte
+gewesen. Also verwandelte ich sie in Geometrie. So bildeten drei wichtige Städte
 ein Dreieck, die Seiten für Straßen, die Winkel für Abzweigungen. Wer
 reingeschaut hätte, hätte nur Aufgaben wie „Berechne den Winkel bei A“ gesehen.
 Aber für mich war es ein kleiner Atlas.
 
 Mein Vater half mir dabei, ohne viele Worte. Er wusste, was ich da tat. Manchmal
-saßen wir zusammen am Küchentisch, beugten uns über Linien und Zahlen, und er
-tat so, als erkläre er mir nur eine knifflige Matheaufgabe. In Wahrheit aber
-legten wir die Landkarte für meine Zukunft.
+saßen wir zusammen am Küchentisch, beugten uns über Linien und Zahlen und er tat
+so, als erkläre er mir nur eine knifflige Matheaufgabe. In Wahrheit aber legten
+wir die Landkarte für meine Zukunft.
 
 Diese Stunden mit ihm waren voller Spannung, aber auch voller Wärme. Es fühlte
 sich an, als hätten wir ein gemeinsames, gefährliches Geheimnis -- und genau das

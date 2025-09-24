@@ -54,7 +54,7 @@ bleibt bei mir, als wir später wieder zusammen durch die Straßen von Jyväskyl
 laufen. Die Sonne wärmt mein Gesicht, und für ein paar Minuten fühlt sich alles
 leichter an. Fast normal.
 
-Aber dann merk ich, wie sie mich mustert. Vorsichtig, behutsam, so als wollte
+Aber dann merk ich, wie sie mich mustert. Vorsichtig, behutsam, so, als wollte
 sie nicht wühlen und doch verstehen. „Eddie … deine Familie?“ fragt sie leise.
 
 Mir schnürt es die Kehle zu. Die Worte steigen langsam auf, schwer,
@@ -66,7 +66,7 @@ Uni. Eigentlich könnte er promovieren, aber er will nicht in die SED eintreten.
 Also darf er nicht. Er ist der Einzige, der weiß, was ich vorhabe – meinen
 Fluchtplan. Ihm vertraue ich total.“
 
-Ich starr auf den Gehweg, als müsste ich die Wörter auf die Pflastersteine
+Ich starre auf den Gehweg, als müsste ich die Wörter auf die Pflastersteine
 legen. „Meine Mutter ist freischaffende Projektantin. Sie hat so ein riesiges
 Reißbrett in unserer Wohnung. Ich … ich find sie wunderschön.“ Kurz huscht mir
 ein Lächeln übers Gesicht, aber es verfliegt gleich wieder. „Sie ist nicht

@@ -51,7 +51,7 @@ Schlag, den mir Jorma verpasst hat. Aber der Entschluss steht: Ich muss Raija
 finden.
 
 Doch die Gedanken lassen mich nicht los. Jorma ruft die Stasi und schlägt mich?
-Wollte er am Ende, dass ich die Wohnung verlasse? Hatte er vielleicht sogar
+Wollte er am Ende, dass ich die Wohnung verlasse? Hatte er vielleicht sogar ein
 schlechtes Gewissen bekommen, wollte mich loswerden, ohne es offen zuzugeben?
 Dann hätte er es auch einfacher haben können: „Die Stasi weiß Bescheid, hau ab.“
 Ein Satz hätte genügt. Aber so ist Jorma — unberechenbar, gefährlich. Ein
@@ -59,7 +59,7 @@ Risiko, das ich nicht mehr tragen darf. Daran wird auch Raija nichts ändern
 können. Ihre Wohnung in Jyväskylä ist für mich nicht mehr sicher. Mein
 Entschluss, die Stadt zu verlassen, war richtig.
 
-Tampere ist ein Riese. Kaum stolper ich aus dem Backstein-Klotz von Bahnhof,
+Tampere ist ein Riese. Kaum stolpere ich aus dem Backsteinklotz vom Bahnhof,
 knallt mir Tampere ins Gesicht: fette Bürgerhäuser, alle großmäulig und bunt,
 nix graues Plattenzeug wie daheim. Autos hupen, Leute rennen mit Koffern, und
 ich steh da mit meinem lächerlichen Rucksack, seh aus wie vom Dorf. In Dresden
@@ -76,8 +76,8 @@ tue ich so, als ob ich zufällig vorbeilaufe, und gehe einfach weiter.
 
 Ich lasse mich durch die Stadt treiben, lande auf dem Marktplatz. Stimmengewirr,
 Bratwurstduft, Klappern von Kisten – alles wuselt. Am Trödelmarkt bleibe ich
-hängen. Da ist ein Bücherstand, riecht nach Vertrautem und nach Abenteuer
-zugleich.
+hängen. Da ist ein Bücherstand, der nach Vertrautem und nach Abenteuer zugleich
+riecht.
 
 Wie automatisch greife ich nach einem Mathebuch. Formeln erkenne ich sofort –
 meine zweite Sprache. Aber die Wörter? Keine Chance. Finnisch ist reiner
@@ -106,8 +106,8 @@ unsichtbar bin. Machbar.
 Der Alte drückt mir noch ein zweites Buch in die Hand: Laavujen Opas:
 Pohjois-Länsi-Suomi. „Opas?“ Ich kichere. Was für Opas? Beim Aufschlagen wird’s
 klar: Laavus sind Schutzhütten. Kleine Holzhäuschen im Wald, seitenweise
-Koordinaten. Ich teste sofort: suche eine Hütte bei Tampere, gleiche die
-Koordinaten mit einer Karte ab – und tatsächlich: ein kleiner See, mit Häuschen
+Koordinaten. Ich teste sofort und suche eine Hütte bei Tampere, gleiche die
+Koordinaten mit einer Karte ab – und tatsächlich: ein kleiner See mit Häuschen
 eingezeichnet. Finnland ist übersät damit! Manche nur Picknickdächer, andere
 winzig für zwei Schlafsäcke, wieder andere groß genug für fünf Leute.
 
@@ -123,7 +123,8 @@ Handeln ist knifflig. Manche reden Brocken Englisch, andere nur mit Händen.
 Einer fängt auf Russisch an – fast ein Schock. Diese Sprache verfolgt mich! Aber
 immerhin: Ich drücke die Preise immer etwas runter.
 
-Am Ende habe ich 190 Markka ausgegeben. Und halte meine Beute wie Pokal.
+Am Ende habe ich 190 Markka ausgegeben. Und ich halte meine Beute wie einen
+Pokal.
 
 Beim Lebensmittelhändler geht’s an die Kalorien. 50 Kilo Gewicht, 20 Kilometer
 am Tag – ich brauche etwa 250 Gramm Nudeln oder Reis täglich. Macht 4 Kilo für
@@ -133,18 +134,19 @@ Gesund, lecker – aber kein Benzin.
 
 Ich muss lachen. Diophantos, der alte Grieche mit seinen Bauern und Kühen, würde
 staunen: Meine Gleichung heißt Überleben. Bauer Eddie hat nun zwei Kühe namens
-Reis und zwei Schweine namens Nudeln. Aber nicht sein ganzes Geld ausgegeben.
+Reis und zwei Schweine namens Nudeln. Aber Bauer Eddie hat nicht sein ganzes
+Geld ausgegeben.
 
 > **➡ Die diophantische Gleichung #2…**\
-> (Hätte ich all mein Geld exakt für Reis und Nudeln ausgeben, sähe die Rechnung wie im Kapitel 4 von „Eddie rechnet“ aus.)
+> (Hätte ich all mein Geld exakt für Reis und Nudeln auszugeben, sähe die Rechnung wie im Kapitel 4 von „Eddie rechnet“ aus.)
 
-Mit meinen Beuteln – Rucksack konnte ich mir nicht leisten – setze ich mich in
-den Schatten und sortiere meinen Schatz: Schlafsack, verbeultes Blechgeschirr,
-eine Regenjacke, ein Schweizer Taschenmesser mit kleiner Säge (noch nie gesehen,
-mega praktisch), zwei kleine Feuerzeuge, Mückenspray (überlebensnotwendig). Dazu
-die zwei Bücher, fünfzehn (!!) Wanderkarten im Maßstab 1:25.000, und ein
-Geschenk vom Buchhändler: ein winziges Finnisch–Englisch-Wörterbuch. Nicht übel
-für 220 Markka.
+Mit meinen Beuteln – einen Rucksack konnte ich mir nicht leisten – setze ich
+mich in den Schatten und sortiere meinen Schatz: Schlafsack, verbeultes
+Blechgeschirr, eine Regenjacke, ein Schweizer Taschenmesser mit kleiner Säge
+(noch nie gesehen, mega praktisch), zwei kleine Feuerzeuge, Mückenspray
+(überlebensnotwendig). Dazu die zwei Bücher, fünfzehn (!!) Wanderkarten im
+Maßstab 1:25.000 und ein Geschenk vom Buchhändler: ein winziges
+Finnisch–Englisch-Wörterbuch. Nicht übel für 220 Markka.
 
 Die Sonne brennt, ich ziehe Linien mit dem Finger über die Karte. Erste Etappe,
 zweite Woche, dritte Woche. Ich male mir alles aus. 400 Kilometer nach Vaasa.

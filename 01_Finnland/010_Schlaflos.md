@@ -67,8 +67,8 @@ Scheibe. Dann wieder nur das gleichmäßige Atmen ringsum. Ich beneide sie alle.
 Einfach wegdriften, ohne Herzrasen, ohne Kopfkino. Mein Herz dagegen hämmert,
 als ob es mir sagt: Stillliegen? Träum weiter!
 
-Ich starre an die Decke, Arme hinterm Kopf verschränkt. Draußen ruft ein Vogel
-– mitten in der Nacht! Weiß wohl selber nicht, ob's schon morgen ist. Genau mein
+Ich starre an die Decke, Arme hinterm Kopf verschränkt. Draußen ruft ein Vogel –
+mitten in der Nacht! Weiß wohl selber nicht, ob's schon morgen ist. Genau mein
 Feeling: festgeklemmt zwischen gestern und morgen, in diesem endlosen
 Dämmerlicht, das keinen Schlaf kennt.
 

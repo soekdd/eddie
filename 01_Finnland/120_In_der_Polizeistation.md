@@ -54,14 +54,14 @@ mit zwei Tassen Kaffee und einer großen Tasse Kakao zurück. Meine Hände zitte
 so sehr, dass ich fast Angst habe, die Tasse fallen zu lassen. Ich klammere mich
 an den Becher, als wäre er ein Rettungsring.
 
-„Jetzt erzähle mal in Ruhe“, sagt sie auf Englisch.
+„Jetzt erzähl mal in Ruhe“, sagt sie auf Englisch.
 
 Und ich erzähle. Aber meine Stimme klingt dünn, brüchig, irgendwie gar nicht
 nach mir. Ich höre mich selbst wie so ein Kind, das einfach von zu Hause
-weggelaufen ist. Alles, was ich vorbereitet habe, die ganzen Jahre Angst und
-Pläne – ich kriege das nicht raus. Es bleibt hängen. Ich stolpere über Worte,
-erzähle viel zu hastig und springe hin und her. Aber Raija hört zu, nickt, fragt
-nicht dazwischen.
+weggelaufen ist. Alles, was ich vorbereitet habe, die ganzen Jahre voller Angst
+und Pläne – ich kriege das nicht raus. Es bleibt hängen. Ich stolpere über
+Worte, erzähle viel zu hastig und springe hin und her. Aber Raija hört zu,
+nickt, fragt nicht dazwischen.
 
 „Und wie ging dein Plan weiter?“, fragt sie schließlich.
 
@@ -78,14 +78,14 @@ Kakao, als könnte dort die Antwort schwimmen.
 „Das wäre wohl das Beste. Weißt du was, wir rufen da gleich an.“
 
 Raija greift zum Telefon. Ich sehe nur, wie sie sich eine Nummer notiert, wieder
-wählt, dann lange spricht. Ich verstehe nur einzelne Worte: Reisepass…
+wählt, dann lange spricht. Ich verstehe nur einzelne Wörter: Reisepass…
 Passbilder… Geburtsurkunde. Ich rutsche auf meinem Stuhl hin und her, die Knie
 stoßen an die Tischkante.
 
 „Warte!“, rutscht es mir heraus, viel zu laut. Ich krame in meiner Tasche, die
 Finger zittern. Endlich halte ich meinen Block hoch, blättere hastig, finde das
-Blatt mit Fischers Handschrift. Ich falte die Rückseite nach außen, dass man das
-Stempelchen sehen kann. „Birth certificate“, flüstere ich und schiebe es ihr
+Blatt mit Fischers Handschrift. Ich falte die Rückseite nach außen, damit man
+das Stempelchen sehen kann. „Birth certificate“, flüstere ich und schiebe es ihr
 hin.
 
 Sie wirkt erleichtert, sagt was in den Hörer. Ich spüre, wie mir der Schweiß
@@ -141,15 +141,15 @@ Maria und ich hetzen zur Tür. Sie dreht den Schlüssel, und ich presse mich an
 die Wand, spähe durch den Spalt der Jalousie. Mein Herz hämmert so laut, dass
 ich sicher bin, gleich muss jemand reinkommen und mich verraten hören.
 
-Draußen Mielke, sein graues Gesicht voller Wut, daneben der ältere Polizist, sie
-brüllen durcheinander. Ein Übersetzer kriegt Schläge auf den Rücken, Dokumente
-liegen auf dem Tresen. Ich drücke die Hände fest gegeneinander, meine Nägel
-graben sich in die Haut.
+Draußen steht Mielke, sein graues Gesicht voller Wut, daneben der ältere
+Polizist, sie brüllen durcheinander. Ein Übersetzer kriegt Schläge auf den
+Rücken, Dokumente liegen auf dem Tresen. Ich drücke die Hände fest
+gegeneinander, meine Nägel graben sich in die Haut.
 
 Raija tritt neben ihren Kollegen, und dann – plötzlich – zieht sie ihre Pistole.
-Ich reiße die Luft ein. Sie hält sie zwar nach unten, aber wie sie dasteht, mit
-beiden Händen, so fest, so entschlossen… ich verkrampfe mich, als würde gleich
-ein Schuss fallen.
+Ich ziehe scharf die Luft ein. Sie hält sie zwar nach unten, aber wie sie
+dasteht, mit beiden Händen, so fest, so entschlossen… ich verkrampfe mich, als
+würde gleich ein Schuss fallen.
 
 Die Männer brüllen, stampfen, schimpfen, doch schließlich geben sie nach. Unter
 wildem Protest verlassen sie die Wache. Ich sehe, wie ihre Jacken flattern, wie
@@ -173,7 +173,7 @@ dein Aufpasser?“
 
 „Ja!“ rufe ich fast, zu schnell, zu laut.
 
-„Aber er ist nicht verwandt mit dir?“
+„Aber er ist nicht mit dir verwandt?“
 
 „Nein! Nein, auf keinen Fall!“
 
@@ -190,8 +190,8 @@ nicht! Sie bringen mich ins Gefängnis!“
 
 „Ins Gefängnis?“ Raija klingt, als könne sie es nicht glauben.
 
-„Ja!“ Meine Stimme überschlägt sich. Ich versuche die Worte einzeln zu
-übersetzen: „Jugend… Jugend-Werk-Hof!“
+„Ja!“ Meine Stimme überschlägt sich. Ich versuche, die Worte einzeln zu
+übersetzen: „Jugend… Jugendwerkhof!“
 
 „Ein Hof? Wie ein Bauernhof?“
 
@@ -200,17 +200,17 @@ ich schreie. „Sie schlagen dich, bis du zerbrichst!“
 
 Raijas Kollege tippt ihr auf die Schulter, möchte, dass sie ihm etwas übersetzt.
 
-In ihrem Finnisch höre ich ihn das deutsche Wort „Jugendwerkhof!“ sagen und an
-mich: „In Thorgau, yes?“
+In ihrem Finnisch höre ich ihn das deutsche Wort „Jugendwerkhof!“ sagen und sich
+an mich wenden: „In Torgau, yes?“
 
-Ich bin total perplex. „Ja, Thorgau! Genau, woher…?“
+Ich bin total perplex. „Ja, Torgau! Genau, woher…?“
 
 „Mein Kollege hat vor einiger Zeit in der Zeitung davon gelesen. Soll schlimm
 sein.“
 
 Jetzt werde ich verstanden, jetzt muss ich es nicht mehr erklären.
 
-Plotzlich sagt auf er auf holprigem Englisch: „He… he hits you?“
+Plötzlich sagt er auf holprigem Englisch: „He… he hits you?“
 
 „Nein, nein, er schlägt mich nicht!“ Ich schüttle heftig den Kopf. „Aber im
 Gefängnis werden sie es tun!“
@@ -218,8 +218,8 @@ Gefängnis werden sie es tun!“
 Raija übersetzt, doch dann sagt sie: „Was mein Kollege meint – wenn du sagst,
 dass er dich schlägt, dann müssen wir dich ihm nicht ausliefern.“
 
-Ich starre sie an. Alles rauscht. „Oh…“ Entkommt es mir, überrascht, wie einfach
-das klingen soll. Eine kleine Lüge – die mich retten könnte?
+Ich starre sie an. Alles rauscht. „Oh…“, entkommt es mir, überrascht, wie
+einfach das klingen soll. Eine kleine Lüge – die mich retten könnte?
 
 „Okay… er schlägt mich.“ Meine Stimme ist kaum mehr als ein Flüstern.
 

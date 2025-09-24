@@ -67,7 +67,7 @@ sagte er. Trocken, neutral. Für Außenstehende klang es streng, fast kalt. Aber
 für mich war es alles: Auftrag, Versprechen, Halt.
 
 Mutter lächelte, aber ihre Finger zitterten, als sie meinen Ärmel glattstrich.
-„Pass auf dich auf, Eddie.“ Für Mielke war’s ein banaler Satz, wie „zieh dich
+„Pass auf dich auf, Eddie.“ Für Mielke war’s ein banaler Satz, wie „Zieh dich
 warm an“. Aber ich hörte das Flüstern darunter: Ich weiß, was du vorhast. In
 ihrem Blick lag alles. Sie war bei mir, auch wenn sie’s nicht aussprechen
 durfte.
@@ -86,15 +86,15 @@ nicht nur mein Aufbruch. Es war ihr Abschied.
 
 Die Halle verschluckte sie, während ich Richtung Abflug ging.
 
-Im Gang zum Boarding alles wie in einem Traum. Leute mit Plastiktüten, manche
-quasselten, andere starrten leer vor sich hin. Ich spürte jeden Schritt. Und
-dann knallte es mir plötzlich rein: Ich würde sie nicht wiedersehen. Nicht
+Im Gang zum Boarding war alles wie in einem Traum. Leute mit Plastiktüten,
+manche quasselten, andere starrten leer vor sich hin. Ich spürte jeden Schritt.
+Und dann knallte es mir plötzlich rein: Ich würde sie nicht wiedersehen. Nicht
 morgen, nicht nächste Woche, vielleicht nie. Vaters Blick, Mutters Lächeln – ab
 jetzt nur noch Erinnerung. Ich wollte sie festhalten, aber sie glitten mir weg.
 
 Mir wurde heiß und kalt. Ich hatte an alles gedacht – Karten, Routen,
-Deckgeschichten. Aber nicht an das Loch, das sie in mir hinterlassen würden.
-Nicht an das Risiko, dem ich sie aussetze. Man wird sie verhören, ihnen was
+Deckgeschichten. Aber nicht an das Loch, das sie in mir hinterließen. Nicht an
+das Risiko, dem ich sie aussetzte. Man wird sie verhören, ihnen was
 unterstellen. Wegen mir.
 
 Die Tür zur Gangway ging auf. Die Leute schoben sich langsam vorwärts. Ich stand
@@ -103,7 +103,7 @@ zurück, zu zwei Menschen, die so tun mussten, als wären sie nicht zerbrochen.
 
 Ich trat hinaus. Durch ein Fenster sah ich noch einmal zurück. Ganz hinten,
 hinter Glas, ihre Gestalten. Winzig, aber vertraut wie nichts anderes. Ich hob
-die Hand, nur ganz kurz, fast unsichtbar. Stell mir vor, sie taten dasselbe.
+die Hand, nur ganz kurz, fast unsichtbar. Stellte mir vor, sie taten dasselbe.
 
 Dann verschluckte mich das Flugzeug. Und mir wurde klar: Ich ließ nicht nur
 meine Heimat zurück. Ich ließ die Menschen zurück, die mich mehr liebten, als
@@ -114,7 +114,7 @@ begriff ich: Das war die größte Liebe, die es gibt.
 Meine Stimme bricht ab. Ich sitze nur da, als hätte ich alles noch mal
 durchlebt.
 
-Raija sagt nichts, lange. Atmet tief. Ihre Augen glänzen. Dann rückt sie näher,
+Raija sagt lange nichts. Atmet tief. Ihre Augen glänzen. Dann rückt sie näher,
 legt die Arme um meine Schultern. „Eddie … deine Eltern müssen unfassbar stark
 sein. Und du bist es auch. Du trägst das jetzt weiter – für euch alle.“
 

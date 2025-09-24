@@ -40,7 +40,7 @@
 }
 ```
 
-Nochmal Einschlafen kann ich vergessen. Ich hab mich jetzt so lange hin- und
+Noch mal einschlafen kann ich vergessen. Ich hab mich jetzt so lange hin- und
 hergewälzt, dass mir der Rücken wehtut. Bringt nix, sich drüber aufzuregen. Also
 steh ich leise auf und fang an, mein Zeug zu packen. Die Sonne hängt schon
 wieder am Himmel – Mittsommernacht eben – und das Licht reicht locker, um alles
@@ -58,8 +58,8 @@ drauf der wichtigste Schatz: mein Matheblock. Plus ein paar Stifte, damit ich
 nicht wie eine Idiotin dasitze und nix schreiben kann.
 
 Ich starre das Häufchen an. So soll ich also auf alle Eventualitäten vorbereitet
-sein? Haha. Als ob das geht. Irgendwie absurd: Ein bisschen Stoff, ein paar
-Zettel, und damit will ich durchkommen?
+sein? Haha. Als ob das geht. Irgendwie absurd: ein bisschen Stoff, ein paar
+Zettel – und damit will ich durchkommen?
 
 Kurz denk ich: Ich könnte jetzt alles wieder zurücklegen. Einfach so tun, als
 wär nix. Noch bin ich nicht aufgeflogen, niemand weiß Bescheid. Aber nee. Der
@@ -70,14 +70,14 @@ Mein Blick fällt auf die große Tasche unterm Bett. Die bleibt hier. Mit den
 Klamotten, die ich nicht dringend brauche. Und mit meinem kleinen Kuschelhasen.
 Ich seh ihn noch, wie er halb aus dem Reißverschluss lugt, als wollte er fragen:
 „Nimmst du mich nicht mit?“ Ein Stich geht durch meinen Bauch. Der Hase hat mich
-überallhin begleitet, sogar heimlich in Ferienlager, wo’s eigentlich schon
+überallhin begleitet, sogar heimlich ins Ferienlager, wo’s eigentlich schon
 peinlich war. Und jetzt soll er hierbleiben, wie all der Kram aus der DDR, wie
 meine halbe Kindheit. Was werden sie mit dem Koffer und dem Inhalt tun? Werden
 sie ihn gleich hier wegschmeißen oder wird die Stasi gierig in meiner
 gebrauchten Wäsche suchen, ob sie irgendwo einen Hinweis auf Mitwisser finden
 kann? Pustekuchen, da werdet ihr nichts finden!
 
-Ich streich einmal mit den Fingern über den Stoff, dann schieb ich die Tasche
+Ich streiche einmal mit den Fingern über den Stoff, dann schiebe ich die Tasche
 tiefer unters Bett. Weg ist weg. Wenn ich weiterkommen will, darf ich nicht
 alles mitschleppen.
 

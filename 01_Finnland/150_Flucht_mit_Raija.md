@@ -61,7 +61,7 @@ nördlich von Joutsa. Eine große Industriestadt für finnische Verhältnisse.
 Leider liegt sie im Norden und damit gerade in der falschen Richtung, wenn ich
 nach Helsinki will. Aber will ich überhaupt noch nach Helsinki? Wenn sie mich
 sogar aus einer finnischen Polizeistation herausholen können, dann bin ich
-nirgendwo sicher – nur hier bei Raija. Sie sie lässt mich nicht im Stich.
+nirgendwo sicher – nur hier bei Raija. Sie lässt mich nicht im Stich.
 
 Die Fahrt dauert etwa eine Stunde. Immer wieder sehe ich mich ängstlich um, ob
 uns jemand folgt. Es ist wenig Verkehr auf der Straße nach Jyväskylä. Ich
@@ -101,7 +101,7 @@ Ein „Oh“ entfleucht mir.
 
 Sie lacht. „Dafür habt ihr Mathegenies nicht viel übrig, oder?“
 
-Ich fühle mich ertappt und rechtfertige mich. „Nein, so ist es nicht ganz: viele
+Ich fühle mich ertappt und rechtfertige mich. „Nein, so ist es nicht ganz: Viele
 große Mathematiker – zum Beispiel Leibniz – nannten sich selbst Philosophen.“
 
 Sie schaut mich ungläubig an.
@@ -122,8 +122,8 @@ weniger streng.
 Raija biegt schließlich in ein Wohngebiet ein, wo die Häuser auf den ersten
 Blick fast vertraut aussehen. Neubauten – ähnlich wie in Dresden-Gorbitz oder
 Prohlis. Rechteckige Blöcke, Balkone, große Fenster. Aber irgendetwas ist
-anders. Die Fassaden sind frisch gestrichen, die Gehwege sauber, sogar
-Blumenrabatten vor den Eingängen. Nichts wirkt halbfertig, es liegt kein
+anders. Die Fassaden sind frisch gestrichen, die Gehwege sauber, und vor den
+Eingängen liegen sogar Blumenrabatten. Nichts wirkt halbfertig, es liegt kein
 Bauschutt herum, keine kaputten Laternen, keine kahlen Ecken. Ich merke, wie ich
 unwillkürlich vergleiche und leise denke: *So könnte es bei uns auch aussehen –
 wenn man nur wollte.*
@@ -137,11 +137,11 @@ der Fensterbank. Und da steht er – Jorma. Ein hochgewachsener Typ, Bartansatz,
 wirft mir einen prüfenden Blick zu. Man sieht ihm an, dass er nicht damit
 gerechnet hat, dass seine Freundin einen Gast anschleppt.
 
-„Das ist Eddie“, sagt Raija knapp, so als wolle sie gleich alle Fragen abräumen.
-„Sie bleibt hier erstmal.“
+„Das ist Eddie“, sagt Raija knapp, so, als wolle sie gleich alle Fragen
+abräumen. „Sie bleibt hier erstmal.“
 
 Er nickt, mustert mich – neugierig, aber ohne Feindseligkeit. Ich kann nicht
-einschätzen, ob er mich nett findet oder nicht, aber eins ist klar: mir ist er
+einschätzen, ob er mich nett findet oder nicht, aber eins ist klar: Mir ist er
 nicht geheuer. Vielleicht liegt es an seiner Art zu schauen, so, als hätte er
 eine Schicht Gedanken, die er nicht preisgibt.
 

@@ -47,13 +47,13 @@ und ich. Sie klappert in der Küche, ich tapse barfuß hinterher, und ehe ich mi
 versehe, sitzen wir bei Kaffee und Brot am Tisch. Es fühlt sich an, als gäbe es
 heute nur uns beide.
 
-„Hast du Lust, ein bisschen rauszugehen?“, fragt sie nach dem Frühstück.\ Ich
+„Hast du Lust, ein bisschen rauszugehen?“, fragt sie nach dem Frühstück. Ich
 nicke, und schon ziehen wir los. Draußen leuchtet die Sonne, als wäre es noch
 Sommeranfang, obwohl der Kalender längst etwas anderes behauptet.
 
 Wir laufen durch die Straßen, vorbei an Schaufenstern, die übervoll sind mit
 Dingen, die ich mir kaum vorstellen konnte. Kleider, Stereoanlagen, Obst,
-Schokolade in hundert Sorten. Und die Läden -- offen, obwohl Sonntag ist! Ich
+Schokolade in hundert Sorten. Und die Läden – offen, obwohl Sonntag ist! Ich
 starre die Menschen an, die mit gefüllten Taschen herauskommen, als wäre das die
 normalste Sache der Welt. Für sie ist es das. Für mich ist es wie ein
 Zaubertrick.
@@ -75,7 +75,7 @@ zur Flucht zu nutzen? Da muss man doch erst mal hinkommen.“
 Ich zucke die Schultern, als wär’s nichts Besonderes. „War nicht so, dass ich
 morgens aufgewacht bin und dachte: Heute flieh ich mal. Der Gedanke kam, als die
 Eltern von meinem besten Kumpel verhaftet wurden. Wegen
-Republikflucht-Vorbereitung. Die waren völlig normal, total nett. Und zack –
+Republikfluchtvorbereitung. Die waren völlig normal, total nett. Und zack –
 alles vorbei. Er musste ins Heim, die Familie war erledigt.“
 
 Raija schüttelt ungläubig den Kopf. „Die Familie wurde zerstört, so einfach? Nur
@@ -95,8 +95,8 @@ Liebe musste mir auch den Weg in den Westen öffnen.“
 Raija pfeift leise. „Das klingt … irre.“
 
 „War’s auch.“ Ich lehne mich zurück. „Zwei Jahre lang Top fünf bei der
-Landesolympiade. Mehrfach Bezirkssiegerin. Aber das reichte nicht um bei der IMO
-dabei zu sein. Sie wollten mehr. Also: Spezialschule Berlin, Lehrgänge,
+Landesolympiade. Mehrfach Bezirkssiegerin. Aber das reichte nicht, um bei der
+IMO dabei zu sein. Sie wollten mehr. Also: Spezialschule Berlin, Lehrgänge,
 Trainingslager … und dann das Beste: Alle paar Wochen hat man mich einfach aus
 dem Unterricht gezerrt. ‚Komm mit!‘ Zack, Tür zum Direktor, Blatt auf den Tisch,
 Matheaufgaben wie bei der IMO. Kein Spicken, kein Vorbereiten. Nichts. Nur
@@ -119,7 +119,7 @@ hättest du doch alles studieren können.“
 
 Sie legt die Gabel beiseite und schaut aus dem Fenster. „Weißt du, nach der
 Schule wollte ich schnell eigenes Geld verdienen. Ich wollte nicht noch
-jahrelang in Hörsälen sitzen. Und…“ Sie zögert kurz. „In meiner Heimatstadt
+jahrelang in Hörsälen sitzen. Und …“ Sie zögert kurz. „In meiner Heimatstadt
 hätte es bald niemanden mehr gegeben, der die kleine Station besetzt. Also bin
 ich zurückgegangen. Ich dachte, es wäre richtig, das zu tun. Für die Leute dort,
 für meine Familie.“
@@ -139,7 +139,7 @@ Sie lacht, wirft mir ein Küchentuch zu. „Na gut, an den Jyväsjärvi. Der ist
 gleich hier in der Stadt, keine fünf Minuten zu Fuß.“
 
 „Natürlich“, murmele ich grinsend, „bei euch Finnen ist ein See wohl wie bei uns
-ein Bäcker -- immer um die nächste Ecke.“
+ein Bäcker – immer um die nächste Ecke.“
 
 Wir ziehen die Schuhe an, und kurz darauf blitzt schon das Wasser zwischen den
 Häusern hervor. Wir laufen zum Ufer, setzen uns ins Gras, reden weiter. Und

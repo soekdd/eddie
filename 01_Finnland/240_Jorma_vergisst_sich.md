@@ -1,4 +1,4 @@
-# Jorma vergisst sicht
+# Jorma vergisst sich
 
 ```json
 {
@@ -66,7 +66,7 @@ selbst wenn du in der Absicht fortgehst, es später zu holen. Immer mitnehmen.
 Also packe ich alles in meine kleine, viel zu vollgestopfte Reisetasche. Mein
 Herz hämmert, während ich die Tür öffne und die Wohnung verlasse. Nicht leise,
 sondern so, dass er es hört. Jede Stufe im Treppenhaus klingt wie ein
-Befreiungsschlag. Draußen atme ich tief ein -- kalte Luft, klare Luft. Ich
+Befreiungsschlag. Draußen atme ich tief ein – kalte Luft, klare Luft. Ich
 schwöre mir: Nie wieder gehe ich zurück.
 
 Ich stolpere schon fast um die nächste Straßenecke, als mein Blick auf einen
@@ -83,7 +83,7 @@ Stunden vorher gerufen haben. Aber wieso kam er dann später noch betrunken nach
 Hause, nur um mit mir Streit anzufangen? Das ergibt keinen Sinn.
 
 Ich kauere tiefer ins Grün, sehe die beiden nach einer Weile wieder
-herauskommen. Ihre Gesichter sind finster. Tja Eddie ist schon fort! Das war
+herauskommen. Ihre Gesichter sind finster. Tja, Eddie ist schon fort! Das war
 aber mal wieder knapp. Sie verschwinden zurück in den Wagen, rollen davon.
 
 Ich beiße mir auf die Lippe. Jorma weiß nicht, wohin ich will. Gut so. Ich
@@ -94,7 +94,7 @@ Strategie, aber immerhin eine Richtung.
 Ich warte, bis der Lada endgültig außer Sicht ist, schleiche mich zum Bahnhof.
 Das Bahnhofsgebäude wirkt wie ein Spielzeughaus, aus hellem rotem Holz
 gezimmert, mit weißen Verzierungen und einem Dach. Irgendwie aus der Zeit
-gefallen in dieser mordernen Stadt. Vorne hängt eine große Uhr, die allen
+gefallen in dieser modernen Stadt. Vorne hängt eine große Uhr, die allen
 anzeigt, dass hier die Zeit anders läuft – langsamer, fast gemütlich. Die
 Bahnsteige sind kurz, kaum Platz für die langen Züge, die aus Helsinki
 heranrollen. Auf dem Vorplatz verharre ich lange, mustere jeden, der auftaucht.

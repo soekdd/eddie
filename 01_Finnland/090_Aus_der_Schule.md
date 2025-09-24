@@ -47,10 +47,10 @@
 
 Ich reiße die Kabinentür auf. Mein Herz hämmert so laut, ich schwöre, jeder in
 der Toilette muss es hören. Aber die Jungs? Keine Reaktion. Die labern weiter,
-völlig in ihre Gespräche vertieft. Beim Händewaschen schnappe ich einen Blick in
-den Spiegel: Ein Fremder glotzt mich an – kantiges Gesicht, verwuschelt,
+völlig in ihre Gespräche vertieft. Beim Händewaschen erhasche ich einen Blick in
+den Spiegel: Ein Fremder glotzt mich an – kantiges Gesicht, verwuschelte
 schwarze Haare, die im Neonlicht stumpf glänzen. Lederbergschuhe unten drunter.
-Sieht aus, als wär das alles schon immer meins gewesen.
+Sieht aus, als wäre das alles schon immer meins gewesen.
 
 Dann raus auf den Gang – und zack, der Geräuschpegel knallt mir wie ’ne Welle
 ins Gesicht. Stimmen aus allen Richtungen: Finnisch, Russisch, Englisch, ein
@@ -61,7 +61,7 @@ Englisch. Irgendwo nervöses Lachen.
 Kopf runter, rein in die Menge. Die schwarzen Haare stinken noch nach
 Schuhcreme. Mein Tarnanzug – und gleichzeitig meine größte Schwachstelle.
 
-Und dann seh ich ihn. *Mielke.* Grauer Anzug, schmale Lippen, Augen wie spitze
+Und dann sehe ich ihn. *Mielke.* Grauer Anzug, schmale Lippen, Augen wie spitze
 Nadeln. Steht da am Eingang wie ’n Scanner, Arme verschränkt. Er weiß, warum er
 da ist – und ich auch: Keiner aus der DDR geht hier allein irgendwohin.
 
@@ -71,26 +71,26 @@ Zu lange. Er hat mich erkannt. Trotz Haaren, trotz Jacke. Mist.
 
 Jetzt oder nie. Wenn Mielke mich sieht, ist Schluss.
 
-Die Menge schiebt Richtung Ausgang. Plötzlich tritt Fischer einen Schritt vor,
-direkt in Mielkes Bahn. „Einen Moment, ich muss Ihnen noch was zeigen …“ höre
-ich. Mielke dreht sich genervt zu ihm. Mein Schlupfloch!
+Die Menge schiebt sich Richtung Ausgang. Plötzlich tritt Fischer einen Schritt
+vor, direkt in Mielkes Bahn. „Einen Moment, ich muss Ihnen noch was zeigen …“
+höre ich ihn sagen. Mielke dreht sich genervt zu ihm. Mein Schlupfloch!
 
 Ich husche los, vorbei an einer Gruppe Mongolen, dränge mich zwischen zwei
 Bulgaren. Der Flur ist voll, alles wogt, mein Herz rast. Immer wieder ein
 schneller Blick über die Schulter – Mielke checkt mich nicht. Noch nicht.
 
 An der Tür nach draußen knallt mir einer entgegen, ich stolpere, fange mich an
-der Wand. Ein Schwede mit Sommersprossen murmelt eine Entschuldigung. Ich nicke
-nur, weiter, weiter!
+der Wand ab. Ein Schwede mit Sommersprossen murmelt eine Entschuldigung. Ich
+nicke nur, weiter, weiter!
 
-Draußen grelles Licht. Da vorne der Bus. Die Jungs aus unserer Gruppe klettern
-schon rein. Wenn ich geradeaus gehe, bin ich geliefert.
+Draußen grelles Licht. Da vorne steht der Bus. Die Jungs aus unserer Gruppe
+klettern schon rein. Wenn ich geradeaus gehe, bin ich geliefert.
 
-Also links abbiegen, so unauffällig wie möglich. Am Heck vorbei. Hinter mir
+Also biege ich links ab, so unauffällig wie möglich, am Heck vorbei. Hinter mir
 Stimmen – eine davon klingt nach Mielke. Ich lege einen Zahn zu.
 
-Und dann – da! Kleine Baumgruppe, nur ein paar Meter. Ich tauche rein, Zweige
-kratzen an meiner Jacke, Blätter rauschen und fressen die Stimmen.
+Und dann – da! Eine kleine Baumgruppe, nur ein paar Meter. Ich tauche rein,
+Zweige kratzen an meiner Jacke, Blätter rauschen und fressen die Stimmen.
 
-Ich presse mich an eine Birke. Atem brennt. Ich bin nicht frei – aber ich bin
-draußen.
+Ich presse mich an eine Birke. Der Atem brennt. Ich bin nicht frei – aber ich
+bin draußen.
