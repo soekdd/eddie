@@ -137,17 +137,17 @@ Taschen durchsuchen, mich mitnehmen. Ich weiß, dass es nicht echt ist. Aber das
 Wissen hilft nichts.
 
 Auf dem Tisch liegt ein Zettel und eine Telefonnummer. Ich schaue mich um. So
-wie Raija hat auch Sini ein eigenes Telefon. Ich glaube daran kann ich mich nie
-gewöhnen. Doch ich habe keinen Grund und auch keine Kraft zum anrufen. Immer
+wie Raija hat auch Sini ein eigenes Telefon. Ich glaube, daran kann ich mich nie
+gewöhnen. Doch ich habe keinen Grund und auch keine Kraft zum Anrufen. Immer
 wieder sinke ich in kurze Fieberträume.
 
-Sini kommt schon am frühen Nachmittag zurück, viel früher als sie müsste. „Hab
+Sini kommt schon am frühen Nachmittag zurück, viel früher, als sie müsste. „Hab
 nochmal die Schichten getauscht“, murmelt sie, stellt die Tasche ab, zieht die
 Jacke aus. Ihr Gesicht wechselt in Sekunden von Punk zu Krankenschwester. Sie
 zieht die Vorhänge am Fenster auf, lässt Licht in den Raum, schaut mich an, als
 würde sie meinen Puls im Gesicht lesen. „Schon geduscht heute?“ Mein schwaches
-Kopfnicken. Sie prüft die Verbände die ich mit zittigen Fingern angelegt habe.
-„Das machen wir mal neu. Medizin genommen?“ Wieder in Nicken. „Braves Mädchen!“
+Kopfnicken. Sie prüft die Verbände, die ich mit zittrigen Fingern angelegt habe.
+„Das machen wir mal neu. Medizin genommen?“ Wieder ein Nicken. „Braves Mädchen!“
 Ein Lächeln.
 
 Am Abend kann ich wieder sitzen. Ich schlucke Tee, schlucke Tabletten, die sie
@@ -155,8 +155,8 @@ mir reicht. „Aber jetzt erzähl mir bitte deine Geschichte“, sagt sie
 schließlich. Keine große Geste, nur der Ton einer Tür, die aufgeht.
 
 Ich atme durch und fange an. In meiner Vorstellung liegen meine Schritte ewig
-zurück, obwohl es nur 4 Wochen sind: Edmilla – die albernen Bänder im Haar, die
-Wendejacke. Joutsa – der Wettkampf, die Toilette, der Geruch von Schuhcreme,
+zurück, obwohl es nur vier Wochen sind: Edmilla – die albernen Bänder im Haar,
+die Wendejacke. Joutsa – der Wettkampf, die Toilette, der Geruch von Schuhcreme,
 Maria in der Kirche, die Polizisten, die Stasi-Männer mit den kalten Augen.
 Raija – der Wagen bei Nacht, Jyväskylä, Jorma wie eine Abrissbirne. Dann die
 Entscheidung, die sich anfühlte wie aus Versehen getroffen: nicht Helsinki,
@@ -166,9 +166,9 @@ ohne Schmuck, als hätte ich eine alte Rechnung vor mir und wollte sie endlich
 schließen.
 
 Sini sagt eine Weile nichts. Der Wind kämmt ihre blauen Haare, im Hafen klappern
-die Boote eine eigenen Rhythmus. „Verdammt“, sagt sie leise, „du bist gegangen.“
-Es klingt nicht wie eine Frage und nicht wie ein Urteil. Mehr wie ein Staunen,
-das in den Händen liegen bleibt.
+die Boote in einem eigenen Rhythmus. „Verdammt“, sagt sie leise, „du bist
+gegangen.“ Es klingt nicht wie eine Frage und nicht wie ein Urteil. Mehr wie ein
+Staunen, das in den Händen liegen bleibt.
 
 „Ich bin… gestolpert“, korrigiere ich. „Von Fehler zu Fehler. Eine Kette
 schlechter Entscheidungen.“ Ich will es leicht sagen, schief grinsend, doch es
@@ -179,7 +179,7 @@ wollte sie keinen Zweifel lassen. „Das war eine Kette notwendiger
 Entscheidungen. Du hast Freiheit gewählt, immer wieder, auch wenn die Umstände
 hässlich waren. Schlechte Bedingungen sind keine schlechten Entscheidungen.“
 
-Ich will widersprechen, weiß aber plotzlich nicht mehr warum. Stattdessen nicke
+Ich will widersprechen, weiß aber plötzlich nicht mehr warum. Stattdessen nicke
 ich, klein, vielleicht will ich mir mein Versagen nicht schönreden lassen.
 
 Eine Frage stolpert aus mir heraus, noch bevor ich sie bremsen kann: „Bist du
@@ -198,20 +198,20 @@ Himmel.“
 
 Ich nicke hastig, fühle mich ertappt wie ein Kind, das im Unterricht die falsche
 Antwort gegeben hat. „Ich weiß sowieso kaum etwas“, stolpere ich. „Also…
-peinlich wenig. In der Schule—“ Ich suche nach einem Wort und greife ins nächste
-Falsche. „War deine Mutter sowas wie… Indianer?“ Das letzte Silbenpaar schmeckt
-mir sofort bitter.
+peinlich wenig. In der Schule –“ Ich suche nach einem Wort und greife ins
+nächste Falsche. „War deine Mutter sowas wie… Indianer?“ Das letzte Silbenpaar
+schmeckt mir sofort bitter.
 
-Sini legt den Kopf schief. Kein Stich in den Blick, nur Humor, der nicht
-entwertet. „Kein Kostümfest“, sagt sie. „Sámi sein ist nicht etwas, das man sich
+Sini legt den Kopf schief. Kein Stich in ihrem Blick, nur Humor, der nicht
+entwertet. „Kein Kostümfest“, sagt sie. „Sámi-Sein ist nicht etwas, das man sich
 anzieht wie eine Maske.“
 
 „Aber… ihr habt doch diese Trachten?“ frage ich, leiser.
 
-„Ja“, sagt sie, nickt. „Die heißen Gákti. Manche tragen sie stolz, zu Festen, zu
-Wahlen, bei Hochzeiten. Manche jeden Tag, weil es ihr Statement ist. Und andere
-nie, weil sie sagen: Identität hängt nicht an Stoff. Ich gehöre zu den
-Letzteren. Für mich ist Sámi sein Sprache, Land, Streit mit dem Staat. Kein
+„Ja“, sagt sie und nickt. „Die heißen Gákti. Manche tragen sie stolz, zu Festen,
+zu Wahlen, bei Hochzeiten. Manche jeden Tag, weil es ihr Statement ist. Und
+andere nie, weil sie sagen: Identität hängt nicht an Stoff. Ich gehöre zu den
+Letzteren. Für mich ist Sámi-Sein Sprache, Land, Streit mit dem Staat. Kein
 Kleidungsstück.“
 
 Sie zieht die Knie etwas näher an die Brust, blickt entschlossen in die Ferne.
@@ -219,7 +219,7 @@ Sie zieht die Knie etwas näher an die Brust, blickt entschlossen in die Ferne.
 
 Ich sehe sie an und erkenne plötzlich die Konturen dessen, was ich mir immer
 gewünscht habe, ohne den Namen zu wissen: jemand, der wild ist, ohne laut zu
-sein; der Feministin ist, ohne das Wort zu tragen wie ein Schild; jemand der
+sein; der Feministin ist, ohne das Wort zu tragen wie ein Schild; jemand, der
 „keine Eile“ sagt und doch immer dann da ist, wenn die Füße schwach werden. Eine
 Freundin, die nicht fragt, ob sie darf – sondern ob ich will.
 
@@ -230,8 +230,8 @@ in ein paar Tagen mit echten Busfahrern.“
 „Ich bin nie brav“, sage ich, und wir grinsen so breit, dass das Hafenwasser
 zurückgrinst.
 
-Als wir zu Bett gehen, weiß ich: Die ist der Ort, an dem eine Kette schlechter
-Entscheidungen sich in eine Geschichte von Mut verwandelt. Sini streift meinen
-Arm, nicht zufällig, nicht absichtlich – genau dazwischen. „Komm“, sagt sie.
-„Keine Eile.“ Und zum ersten Mal fühlt sich dieses „keine Eile“ nicht nach
+Als wir zu Bett gehen, weiß ich: Das ist der Ort, an dem sich eine Kette
+schlechter Entscheidungen in eine Geschichte von Mut verwandelt. Sini streift
+meinen Arm, nicht zufällig, nicht absichtlich – genau dazwischen. „Komm“, sagt
+sie. „Keine Eile.“ Und zum ersten Mal fühlt sich dieses „keine Eile“ nicht nach
 Stillstand an, sondern nach Richtung.

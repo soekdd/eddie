@@ -9,7 +9,7 @@
     "Eddie",
     "Sini"
   ],
-  "synopsis": "Eddie verschläft das Frühstück, findet Sinis herzförmigen Zettel mit einer Biologie-Matheaufgabe, rechnet und kocht passend zum Thema. Abends erfährt sie – eher nebenbei – dass Sini in Helsinki ein paar Semester Biologie studiert hat, worüber diese aber nicht weiter sprechen will.",
+  "synopsis": "Eddie verschläft das Frühstück, findet Sinis herzförmigen Zettel mit einer Biologie-Matheaufgabe, rechnet und kocht passend zum Thema. Abends erfährt sie – eher nebenbei – dass Sini in Helsinki ein paar Semester Biologie studiert hat, worüber sie aber nicht weiter sprechen will.",
   "mood": "warm, verspielt, häuslich; leise Verletzlichkeit",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
@@ -58,11 +58,11 @@ Ich grinse. Klarer Fall: Füße hoch. Gehirn an. Terminal aus. Clever. Gemein.
 Lieb. Ich setze mich, ziehe den rechten Fuß auf den Stuhl neben mir. Die
 Verbände ziepen, aber weniger als gestern. Fortschritt. Ich löse die Mullbinden,
 prüfe: die Ränder sind nicht mehr knallrot, eher rosa. Ich wasche vorsichtig mit
-abgekochtem Wasser, tupfe trocken, ein dünner Film Salbe, frische Gaze. Links
-das Gleiche. Ich rede leise mit meinen Füßen, als wären sie zwei eigenwillige
-Hunde. „Artig bleiben. Heute kein Hafen.“
+abgekochtem Wasser, tupfe trocken, lege einen dünnen Film Salbe an, frische Gaze
+darüber. Links das Gleiche. Ich rede leise mit meinen Füßen, als wären sie zwei
+eigenwillige Hunde. „Artig bleiben. Heute kein Hafen.“
 
-Ich ziehe mein Heft heran, lege den Zettel obenhin, damit er mich anschaut, und
+Ich ziehe mein Heft heran, lege den Zettel oben hin, damit er mich anschaut, und
 kritzle los. Ich male kleine Fische an den Rand, jeder mit einer peinlich
 genauen Rückenflosse. Für die Mathematik verweise ich mich selbst in die andere
 Datei – Ordnung muss sein, auch im Chaos: Rechnung siehe
@@ -71,17 +71,17 @@ dran.
 
 Nach einer Weile knurrt mein Bauch und die Vernunft schreit: Beweg dich nicht zu
 weit! Also bewege ich mich… bis zum Vorratsschrank. Ich mache
-„Speisekammer-Archäologie“: kurze Expedition zwischen Gewürzgläsern, einer
-einsamen Zwiebel, einer Dose Ananas (warum?), Nudeln, Tiefkühlerbsen
-und—tadaa—Fischstäbchen. Ich halte die Packung hoch wie einen Pokal. Thema
-trifft Küche. Mathe motiviert den Magen. Ich stelle die Pfanne auf den Herd,
-aber hebe mir das Brutzeln für den Abend auf, als Belohnung.
+„Speisekammer-Archäologie“: eine kurze Expedition zwischen Gewürzgläsern, einer
+einsamen Zwiebel, einer Dose Ananas (warum?), Nudeln, Tiefkühlerbsen und – tadaa
+– Fischstäbchen. Ich halte die Packung hoch wie einen Pokal. Thema trifft Küche.
+Mathe motiviert den Magen. Ich stelle die Pfanne auf den Herd, aber hebe mir das
+Brutzeln für den Abend auf, als Belohnung.
 
 Zwischendurch putze ich die Arbeitsplatte, als könnte man mit Putzstreifen auch
 Gedanken sortieren. Ein paar Krümel vom gestrigen Brot, Kaffeeränder in
-Halbmondform—ich reibe, bis die Halbmonde verschwinden. Dann wieder hinsetzen,
-Füße hoch, Bleistift kauen. Neben mir ein Glas Wasser, in dem der Radiergummi
-schwimmt wie ein sehr unglücklicher Karpfen.
+Halbmondform – ich reibe, bis die Halbmonde verschwinden. Dann wieder hinsetzen,
+Füße hoch, am Bleistift kauen. Neben mir steht ein Glas Wasser, in dem der
+Radiergummi schwimmt wie ein sehr unglücklicher Karpfen.
 
 Am Nachmittag wird es in der Wohnung leiser als leise; das Licht kippt ins
 nordische Grau, das alles wie mit Backpapier überzieht. Ich lege mich fünf
@@ -96,7 +96,7 @@ und spritzen, die Erbsen ploppen in der Pfanne wie kleine grüne Morsezeichen.
 Ich decke den Tisch. Den Zettel lege ich zwischen die Teller, damit er den Abend
 mit uns verbringt.
 
-Die Tür geht. Nasser Wind, Jackenrascheln, der Geruch von Hafen—eine Mischung
+Die Tür geht. Nasser Wind, Jackenrascheln, der Geruch nach Hafen – eine Mischung
 aus Metall, draußen und einem Hauch Diesel. Sini tritt herein, schüttelt Tropfen
 aus den Haaren, hängt den Ausweis an den Haken, als sei er ein müder Fisch.
 „Hei.“ Ihre Stimme hat eine tiefe, weiche Kante nach langen Schichten.
@@ -111,11 +111,11 @@ klappe ich das Heft zu, halte die Pointe wie ein Schild hoch: „Und jetzt die
 praktische Folge: Population nach Jahr drei: minus zehn, weil wir Hunger haben.“
 
 Sie lacht. Es ist dieses tiefe Lachen, das zuerst in den Schultern anfängt und
-dann auf dem Tisch landet. „Arme Fische“, sagt sie und beißt in einen.
+dann auf dem Tisch landet. „Arme Fische“, sagt sie und beißt in eins.
 „Statistisch unvermeidbar.“
 
 Wir essen, und das Brutzeln in der Pfanne ist noch als Echo in der Luft. Ich
-beobachte ihre Hände—schnell, sicher, kleine Narbe am Zeigefinger. „Woher hast
+beobachte ihre Hände – schnell, sicher, kleine Narbe am Zeigefinger. „Woher hast
 du die Aufgabe eigentlich?“, frage ich und tue so, als würde ich nur beiläufig
 den Ketchup weiterreichen.
 
@@ -127,10 +127,10 @@ versteckt.
 „Ah.“ Ich nicke und warte, ob noch etwas kommt. Es kommt nichts. Die Luft macht
 eine kleine Kurve um dieses Thema. Ich könnte nachfragen, ich tue es nicht. Ich
 kenne diese Stelle: Da hängt ein dünner Faden, und wenn man daran zieht, reißt
-er. Sini wechselt zum Wetter, zum Hafen, zu der Fähre, die heute zu spät war,
-weil irgendwer auf dem Dock sein Fahrrad genau so abgestellt hat, dass der LKW
-nicht wenden konnte. Ich lache an der richtigen Stelle, und sie lacht mit—und
-der Faden bleibt ganz.
+er. Sini wechselt zum Wetter, zum Hafen, zur Fähre, die heute zu spät war, weil
+irgendwer auf dem Dock sein Fahrrad genauso abgestellt hat, dass der LKW nicht
+wenden konnte. Ich lache an der richtigen Stelle, und sie lacht mit – und der
+Faden bleibt ganz.
 
 Später sitze ich wieder am Tisch und schreibe „Fischsee – bestanden“ auf die
 letzte Zeile. Ich falte den herzförmigen Zettel einmal, zweimal, stecke ihn

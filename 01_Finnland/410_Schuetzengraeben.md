@@ -4,7 +4,7 @@
 {
   "date": "1985-08-06",
   "daytime": "day",
-  "place": "Sini Wohnung, Vaasa",
+  "place": "Sinis Wohnung, Vaasa",
   "persons": [
     "Eddie",
     "Sini",
@@ -46,10 +46,10 @@ Kaffee und Seife. Gardinen filtern das Licht weich, ein Poster hängt schief,
 daneben eine gestrickte bunte Borte, vermutlich irgendeine finnische Folklore.
 Alles ist einfach, aber warm.
 
-Sie hat das Sofa an die Wand geschoben, eine kleine Lampen an die Ecke geklemmt,
-so dass das Licht schräg über mein Gesicht fällt. Ein Handtuch liegt gefaltet
-auf dem Sessel, ein Paar saubere Socken — größer als nötig — auf dem Tisch. Es
-ist eine Wohnung, die funktioniert: ein paar Haken, ein Regal, kleine Vorräte,
+Sie hat das Sofa an die Wand geschoben, eine kleine Lampe an die Ecke geklemmt,
+sodass das Licht schräg über mein Gesicht fällt. Ein Handtuch liegt gefaltet auf
+dem Sessel, ein Paar saubere Socken — größer als nötig — auf dem Tisch. Es ist
+eine Wohnung, die funktioniert: ein paar Haken, ein Regal, kleine Vorräte,
 nichts Überflüssiges. Alles wirkt, als hätte es seinen Platz.
 
 Sini weicht nicht von meiner Seite. Sie sitzt am Rand des Sofas, steht auf, geht
@@ -58,7 +58,7 @@ manchmal streicht sie mir die Haare weg. Es gibt keinen Moment, in dem ich
 allein wäre.
 
 Plötzlich spricht sie. Worte, rasch, knapp, halb Finnisch, halb ein Ton, den ich
-nicht verstehe. Ich blinzle: sie redet nicht mit mir. Aber mit wem dann? Ich
+nicht verstehe. Ich blinzle: Sie redet nicht mit mir. Aber mit wem dann? Ich
 sehe niemanden. Die Wohnung ist leer. Doch sie nickt, als würde jemand
 antworten. Mein Herz schlägt schneller. Ist jemand hier? Hinter der Tür? Auf dem
 Stuhl am Fenster? Ich höre nur ihre Stimme, schneller, eindringlicher, wie ein
@@ -79,11 +79,11 @@ etwas Beruhigendes, als hätte sie zu viele Winter gehört. Er ist alt, der Arzt
 klein, mit einem freundlichen Gesicht, einem großen Mantel und diesen Händen,
 die nach Arbeit riechen. Seine Augen sind wach und sanft.
 
-Sini führt ihn hinein. Er beugt sich zu mir, murmelt auf Finnisch etwas, das
-wie: „Ei huolta“ klingt — keine Sorge — und ich will glauben. Doch in mir hängt
-immer diese Angst: er darf mich nicht der Polizei melden. Sini trifft seinen
-Blick, und in ihrem Gesicht sehe ich die Abwägung eines Versprechens. Er nickt
-nur, als hätte sie ihm etwas zugesichert.
+Sini führt ihn hinein. Er beugt sich zu mir, murmelt auf Finnisch etwas, das wie
+„Ei huolta“ klingt — keine Sorge — und ich will glauben. Doch in mir hängt immer
+diese Angst: Er darf mich nicht der Polizei melden. Sini trifft seinen Blick,
+und in ihrem Gesicht sehe ich die Abwägung eines Versprechens. Er nickt nur, als
+hätte sie ihm etwas zugesichert.
 
 Er zieht Handschuhe an. Sini schneidet die alten Verbände mit einer kleinen
 Schere auf, als öffne sie eine Dose Unheil. Ich schreie, aber es kommt nur ein
@@ -96,7 +96,7 @@ long,“ erklärt sie. „But… not dangerous, if we care. Slowly, it will heal
 Der Arzt wäscht die Wunden mit flüssigem, beißendem Zeug. Es brennt wie Feuer,
 und ich klammere mich an den Sofarand. Sini hält mich, während er eine brennende
 Salbe aufträgt. Dann legt er neue, dicke Verbände an. „Antibiootti,“ sagt er
-schließlich und übergibt Tabletten. Die Packung hat eine aufgeklebte Notiz in
+schließlich und übergibt Tabletten. Die Packung hat eine aufgeklebte Notiz auf
 Englisch: Take twice daily for seven days. Ich schlucke sie mit Wasser, ohne den
 bitteren Geschmack aus der Kehle zu bekommen.
 
@@ -112,16 +112,16 @@ wirkt so lächerlich, dass ich im Schlaf auflache.
 Ich wache richtig auf, als es schon Abend ist. Die Luft ist kühler. Mein Kopf
 fühlt sich leichter an, als hätte jemand eine schwere Decke abgenommen. „Ei
 paha,“ sagt Sini und lächelt müde. „Besser. Viel besser.“ Ich taste meine Füße:
-die Verbände sind fest, aber trocken. Es tut immer noch weh, aber nicht wie
+Die Verbände sind fest, aber trocken. Es tut immer noch weh, aber nicht wie
 vorher — eher wie eine Erinnerung an Schmerz.
 
 Sini beugt sich über mich, legt die Hand an meine Stirn, zählt still bis fünf.
 „Suihkuun nyt,“ sagt sie schließlich, ruhig wie ein Beschluss. Dann auf
-Englisch, für mich: „Shower.“ Bevor ich protestieren kann, kniet sie sich schon
-an meine Füße, löst behutsam die Verbände, prüft jede Stelle mit dem Blick einer
+Englisch, für mich: „Shower.“ Bevor ich protestieren kann, kniet sie schon an
+meinen Füßen, löst behutsam die Verbände, prüft jede Stelle mit dem Blick einer
 Mechanikerin, die ihr Werkzeug kennt. „First off, then water, then new,“ murmelt
 sie, mehr zu sich als zu mir. Sie stützt mich hoch, ein Arm um meine Taille, der
-andere greift nach dem Handtuch. Ich lasse mich führen. Im Bad angekommen zieht
+andere greift nach dem Handtuch. Ich lasse mich führen. Im Bad angekommen, zieht
 sie mir das Shirt über den Kopf und führt mich in ihre Duschkabine.
 
 Das Wasser ist warm, aber mein Körper zittert, als stünde ich unter Eis. Ich

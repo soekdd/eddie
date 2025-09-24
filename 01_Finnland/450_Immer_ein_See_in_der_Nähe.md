@@ -53,12 +53,12 @@ Wahrscheinlichkeit, dass ein zufälliger Punkt höchstens 1 km von einem Seeufer
 entfernt liegt?“
 
 Ich lache und puste Krümel über den Tisch. „Du spinnst.“ Sie lehnt sich zurück.
-„Na los. Professorin. Zeig, was du kannst.“
+„Na los, Professorin. Zeig, was du kannst.“
 
 Nach dem Frühstück ziehe ich die Mullbinden ab. Die Blasen sind fast verheilt,
-nur die tiefsten Stellen empfindlich. Ich wasche, tupfe, trage hauchdünn Salbe
-auf. Dann nur noch leichte Mullstreifen, damit nichts reibt. Es fühlt sich an
-wie Freiheit in Streifenform. Ich teste ein paar Schritte durch die Wohnung –
+nur die tiefsten Stellen sind empfindlich. Ich wasche, tupfe, trage hauchdünn
+Salbe auf. Dann nur noch leichte Mullstreifen, damit nichts reibt. Es fühlt sich
+an wie Freiheit in Streifenform. Ich teste ein paar Schritte durch die Wohnung –
 kein Stechen mehr.
 
 Dann kehre ich zum Zettel zurück. Ich male Finnland auf Küchenrolle, setze
@@ -71,11 +71,11 @@ Zwischendurch schaue ich in den Schrank. Kartoffeln, Zwiebeln, Käse. Ich
 beschließe, einen Auflauf zu machen. Und weil’s zum Thema passt, stelle ich eine
 große Schale Wasser daneben.
 
-Am Abend ist die Wohnung warm vom Ofen. Die Tür geht, Regen prasselt, Sini tritt
-herein, schiebt die Kapuze zurück. „Riecht nach … hm … Geografie?“ Ich grinse
-breit und deute auf den Tisch. Kartoffelauflauf dampft, daneben die Schale
-Wasser. „Dekoration“, sage ich. „Jede Kartoffel höchstens einen Kilometer vom
-See entfernt.“
+Am Abend ist die Wohnung warm vom Ofen. Die Tür geht auf, Regen prasselt, Sini
+tritt herein, schiebt die Kapuze zurück. „Riecht nach … hm … Geografie?“ Ich
+grinse breit und deute auf den Tisch. Der Kartoffelauflauf dampft, daneben die
+Schale Wasser. „Dekoration“, sage ich. „Jede Kartoffel höchstens einen Kilometer
+vom See entfernt.“
 
 Sie starrt, kneift die Augen zusammen, dann lacht sie laut, so laut, dass sie
 sich den Bauch hält. „Du bist verrückt.“ „Nein“, sage ich. „Ich bin statistisch

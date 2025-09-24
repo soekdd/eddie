@@ -123,16 +123,16 @@ Rührei, decke den Tisch. Als Sini hereinkommt, bleibt sie stehen und zieht die
 Brauen hoch. „Na sowas.“ Sie setzt sich, nimmt den Kaffee, mustert meine Füße.
 Nur noch dünne Mullbinden, die Haut darunter blassrosa, nicht mehr entzündet.
 Sie nickt langsam. Dann legt sie den Löffel hin und sagt: „Heute kein Zettel. Du
-bist besser drauf. Heute erlaube ich Dir den ersten kleinen Spaziergang.
-Erinnerst Du Dich an die Bänke am Hafen“
+bist besser drauf. Heute erlaube ich dir den ersten kleinen Spaziergang.
+Erinnerst du dich an die Bänke am Hafen?“
 
 „Ja klar, warum?“
 
-„Sei so lieb und warte da so gegen halb sieben auf mich - Aber Kein Schritt zum
-Terminal, verstanden? Das ist viel zu weit!“ Sinis plötzliche Strenge ist nicht
-nur gespielt. Sie meint es ernst.
+„Sei so lieb und warte da so gegen halb sieben auf mich – aber keinen Schritt
+zum Terminal, verstanden? Das ist viel zu weit!“ Sinis plötzliche Strenge ist
+nicht nur gespielt. Sie meint es ernst.
 
-„Ja Frau General!“ - Sini grinst und ist auch schon aus der Tür.
+„Ja, Frau General!“ – Sini grinst und ist auch schon aus der Tür.
 
 Und ich bin wieder allein. Schon wieder. Sini hat mich eindringlich ermahnt, die
 Füße weiterhin zu schonen. Also sitze ich hier, barfuß auf dem alten Holzboden,
@@ -161,17 +161,17 @@ Seite mit dunklen Wasserrändern, zerknittert, aber noch brauchbar. Genau
 richtig. Sie trägt meine Geschichte in sich – Entbehrung, Flucht, Rettung. Wie
 könnte es passender sein?
 
-Ein Regal steht voller finnischer und schwedischer Biologielehrbücher. Momemt,
+Ein Regal steht voller finnischer und schwedischer Biologielehrbücher. Moment,
 da ist es, ein Genetikbuch: „Perinnöllisyystiede: Molekyylibiologian perusteet“.
-Ich schlage es auf, blättere, und bald fange ich an zu kichern. Eine Idee nimmt
+Ich schlage es auf, blättere und bald fange ich an zu kichern. Eine Idee nimmt
 Gestalt an.
 
 Ich zeichne zwei verdrehte DNA-Doppelhelix-Stränge. Der eine bekommt eine blaue
 Irokesenfrisur, struppig wie Sini selbst, wenn sie frühmorgens verschlafen aus
-dem Bad kommt. Der andere Strang ist artiger: ich sticke ihm bunte Sámi-Muster
+dem Bad kommt. Der andere Strang ist artiger: Ich sticke ihm bunte Sámi-Muster
 an den Wendungen entlang.
 
-Die Codons sind nicht zufällig: ich suche im Buch nach den Sequenzen, die für
+Die Codons sind nicht zufällig: Ich suche im Buch nach den Sequenzen, die für
 Prolin, Alanin, Methionin und Co. stehen. Auf der einen Helix bilden die
 Anfangsbuchstaben das Wort PUNK, auf der anderen SAMI. Neben den Codons lasse
 ich Kästchen frei – so wie bei ihren Matheaufgaben. Sini darf selbst
@@ -189,30 +189,30 @@ hasse und liebe ich dieses einzige Paar Schuhe zugleich. Sie haben mich
 geschunden, aber auch getragen. Der Weg durch die Stadt fühlt sich fremd an, als
 wäre ich hier nie gewesen, obwohl ich schon so lange bleibe.
 
-Sini hat mir den Weg beschrieben, und tatsächlich: es ist leicht. Ich laufe
-langsam, nehme Rücksicht auf meine Füße. Erinnere mich an Sinis „keine Eile“.
-Die frische Abendluft tut mir gut. Laufen weil man möchte, nicht weil man muss.
-Als ich bei den Bänken ankomme, sehe ich schon ganz klein Sini über die Brücke
-laufen. Ihr blauer Iro wippt unverkennbar.
+Sini hat mir den Weg beschrieben, und tatsächlich: Es ist leicht. Ich laufe
+langsam, nehme Rücksicht auf meine Füße. Ich erinnere mich an Sinis „keine
+Eile“. Die frische Abendluft tut mir gut. Laufen, weil man möchte, nicht weil
+man muss. Als ich bei den Bänken ankomme, sehe ich Sini schon ganz klein über
+die Brücke laufen. Ihr blauer Iro wippt unverkennbar.
 
-Ich winke und setze mich auf schönste Holzbank am kleinen Stadthafen, genau
+Ich winke und setze mich auf die schönste Holzbank am kleinen Stadthafen, genau
 dort, wo die Masten Linien in den Himmel zeichnen und die Leinen leise klacken.
 Das Wasser riecht nach Metall und Algen, nach etwas, das immer schon da war.
 Sini setzt sich neben mich, beide Hände um ihren Rucksackriemen, als würde sie
 eine heimliche Trommel halten.
 
-„Wie geht es dir?“ frage ich schnell zuerst. Sie lacht: „Joo, ihan jees.“ - „Ja,
-ganz okay. Und wie geht es Dir?“
+„Wie geht es dir?“ frage ich schnell zuerst. Sie lacht: „Joo, ihan jees.“ – „Ja,
+ganz okay. Und wie geht es dir?“
 
-„Ich lebe Sini. Ich lebe. Ist das nicht wunderbar?“ - „Joo, ihan jees.“ erwidert
-sie lachend.
+„Ich lebe, Sini. Ich lebe. Ist das nicht wunderbar?“ – „Joo, ihan jees“,
+erwidert sie lachend.
 
 „Na, was soll ich dir heute kochen?“ frage ich und stoße sie spielerisch mit der
 Schulter an.
 
-„Heute kümmere ich mich ums Abendessen.“ Sie zieht mich weiter, in eine
-Pizzeria. Drinnen sind die Fenster beschlagen, der Boden klebt, die Luft riecht
-nach Oregano.
+„Heute kümmere ich mich ums Abendessen.“ Sie zieht mich weiter in eine Pizzeria.
+Drinnen sind die Fenster beschlagen, der Boden klebt, die Luft riecht nach
+Oregano.
 
 Ich starre auf die Karte. Die Preise lassen mich schlucken. „Sini … das ist fast
 so viel wie ein Ticket für die Fähre.“
