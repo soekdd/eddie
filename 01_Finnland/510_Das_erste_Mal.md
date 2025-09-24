@@ -96,6 +96,11 @@ Also erzähle ich. Von seinem schelmischen Lächeln, seiner Ruhe, seiner Geduld.
 Von dem Gefühl, dass er mir Raum ließ, obwohl ich nervös war. Und dass er es
 war, weil ich ihn gewählt hatte.
 
+Und doch, wenn ich heute daran denke, wundere ich mich: Er war neun Jahre älter
+als ich. Aber nie hatte ich das Gefühl, er hätte mehr Macht. Im Gegenteil – ich
+hatte entschieden, ich hatte gefragt, ich hatte ihn ausgewählt. Es war mein
+Plan, nicht seiner.
+
 Sini hängt an meinen Lippen, ihre Augen funkeln. Immer wieder bricht sie in
 Gelächter aus, springt hoch, wirft sich wieder hin. Und ich lache mit, bis uns
 der Bauch wehtut.
@@ -114,11 +119,7 @@ romantisch?“
 
 „Alles ein bisschen. Erst vorsichtig, dann nicht mehr.“
 
-Sie lacht, läuft durchs Zimmer, ruft: „Ich sterbe! Und hast du’s ihm mit dem
-Mund gemacht?“
-
-Ich starre sie an, dann brülle ich lachend: „Nicht beim ersten Mal. Später
-schon.“
+Sie lacht, läuft durchs Zimmer, ruft: „Ich sterbe!“
 
 Wir kugeln uns, lachen so sehr, dass fast die Tassen klirren.
 
@@ -127,9 +128,8 @@ klingt? Sechzehn… und er fünfundzwanzig. Fast ein Jahrzehnt Unterschied.“
 
 Sini lacht laut. „Ach Eddie! Als ob dir das damals wichtig war!“
 
-„War’s nicht. Aber wenn ich jetzt drüber nachdenke… die Jungs in meiner Klasse
-konnten kaum ’ne Schallplatte wechseln. Er wusste, was er tut. Und genau das
-wollte ich.“
+„War’s nicht. Ich wollte einfach meine Erfahrung machen. Und ich hab ihn mir
+geschnappt, nicht andersrum.“
 
 Sini stupst mich in die Seite. „Siehst du! Du hast’s clever gemacht. Ich spring
 rum, probier querbeet – und du schnappst dir gleich den Profi.“
@@ -220,15 +220,6 @@ sie Zahnschmerzen.“
 „Das will ich jetzt nicht im Detail wissen!“ Ich kugle mich vor Lachen und halte
 mir demonstrativ die Ohren zu, bin aber viel zu neugierig, um wirklich
 wegzuhören.
-
-„Und runterschlucken – schmeckt wie Batterieflüssigkeit.“
-
-Ich schreie vor Lachen. Dann gestehe ich: „Ich hab’s auch probiert. War
-neugierig. Salzig, warm. Ich wusste nicht, ob lachen oder flüchten.“
-
-Sini quietscht: „Genau so war’s bei mir! Mit meinem ersten Kerl, den ich so
-geliebt hab. Ich dachte, ich muss. Ergebnis: eklig, rostig, null Romantik. Er
-grinst, ich würg innerlich.“
 
 Wir werfen uns Kissen ins Gesicht, lachen Tränen.
 
