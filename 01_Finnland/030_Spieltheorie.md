@@ -61,7 +61,7 @@ Dann diese Fragerunde mit den finnischen Schülern. Herr Fischer, der alte
 Pädagoge, will, dass wir „interessierte Fragen“ stellen. Ich würde am liebsten
 rausbrüllen: „Wie kommt man hier am schnellsten weg?“ Stattdessen mache ich auf
 brav: „Fahrt ihr mit dem Schulbus oder auch mal mit dem Linienbus?“ Antwort: Der
-Linienbus fährt stündlich, und fast niemand nimmt ihn. Ich grinse, scherze etwas
+Linienbus fährt stündlich, und fast niemand nimmt ihn. Ich grinse, scherze was
 von „Schulbus lieber nicht verpassen“. Innen drin schreie ich.
 
 Denn wenn ihn keiner benutzt, kennt auch keiner die genauen Zeiten. Kein
