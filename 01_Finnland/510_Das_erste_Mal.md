@@ -68,7 +68,7 @@ Sini springt halb vom Sofa. „Ausgesucht?! Wie ausgesucht?“
 
 „Oh mein Gott, Eddie! Wie alt war der?“
 
-„Fünfundzwanzig.“ sage ich ruhig.
+„Fünfundzwanzig“, sage ich ruhig.
 
 Sie starrt mich an, dann läuft sie durchs Zimmer wie ein aufgezogener Flummi.
 „Fünfundzwanzig?! Das ist ja… krass. Aber auch… irgendwie heiß.“
@@ -137,13 +137,13 @@ rum, probier querbeet – und du schnappst dir gleich den Profi.“
 Ich werde rot, kichere. „Du redest, als hätte ich mir ’ne Bedienungsanleitung
 ausgesucht.“
 
-„Besser so, als mit irgendeinem Pimpf in der Turnhalle!“
+„Besser so als mit irgendeinem Pimpf in der Turnhalle!“
 
 Wir prusten beide los.
 
 „Und du?“ frage ich neugierig. „Wie viele Männer hattest du?“
 
-Sie grinst schief. „Mehr, als du zählen willst.“
+Sie grinst schief. „Mehr als du zählen willst.“
 
 „Wie viele?!“
 
@@ -153,7 +153,7 @@ Mir bleibt die Luft weg. „Sini!“
 
 Sie lacht, zuckt mit den Schultern. „Ich hab ausprobiert. Viel.“
 
-„Und dein erstes Mal?“ frage ich vorsichtig.
+„Und dein erstes Mal?“, frage ich vorsichtig.
 
 Sie wird ernst, aber lächelt. „Doof. Ich war siebzehn, total verliebt. Dachte,
 er wär die große Liebe. Für ihn war’s wohl nicht so ernst. Tat weh – im Herzen
@@ -240,9 +240,9 @@ Humor macht alles besser.“
 Ich grinse. Sie klingt wie ein unanständiger Mathelehrer. „Du bist echt wie ’ne
 große Schwester, nur unanständiger.“
 
-„Genau so soll’s sein.“
+„Genauso soll’s sein.“
 
-„Also…“ sage ich zögernd. „Es gibt Dinge, die ich nie probiert hab. Aber
+„Also…“, sage ich zögernd. „Es gibt Dinge, die ich nie probiert hab. Aber
 neugierig wär ich.“
 
 „Los!“
@@ -255,7 +255,7 @@ Ich kreische ins Kissen. „Ich hab nur gesagt, ich stell’s mir vor!“
 
 „Du bist kein bisschen braver als ich. Du versteckst es nur besser.“
 
-„Und… hattest du schon mal was mit einer Frau?“ frage ich.
+„Und… hattest du schon mal was mit einer Frau?“, frage ich.
 
 Sie grinst. „Oh ja. Frauen wissen, was Frauen wollen. Zarter, sanfter, keine
 Show. Haut, Küsse, Hände, die wissen, wohin. Es gibt nichts Intimeres.“
@@ -273,9 +273,9 @@ kalt, die Wohnung still.
 Ich sehe sie an. Ihre blauen Haare, ihre blitzenden Augen. Ich hab ihr Dinge
 erzählt, die niemand sonst erfahren hat. Und sie mir genauso.
 
-„Du bist verrückt, Sini,“ flüstere ich.
+„Du bist verrückt, Sini“, flüstere ich.
 
-„Und du mutiger, als du glaubst,“ sagt sie.
+„Und du mutiger, als du glaubst“, sagt sie.
 
 Wir kichern noch einmal, leise, müde. Dann ziehe ich die Decke hoch und denke,
 kurz bevor ich einschlafe: Wenn es jemanden gibt, dem ich meine Geheimnisse

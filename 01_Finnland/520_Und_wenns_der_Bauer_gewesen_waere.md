@@ -123,10 +123,10 @@ richtig anzusehen. Sie wirken eher genervt als feindselig. Ich spüre, wie dünn
 ich wirke, wie schräg meine Klamotten hier aussehen. Das hilft nicht. Aber es
 ist mir recht – ich wollte ohnehin nur Sini abholen.
 
-Drinnen lehne ich am Schalter, sehe die Fähre entladen. Menschen, Taschen,
-Stimmen in allen Sprachen. Dann taucht sie auf: Sini, Jacke offen, die Haare
-zerzaust vom Wind. Sie entdeckt mich, lächelt und ruft: „Bin gleich fertig!“
-Dann kommt sie zu mir, die Schritte schnell, als wolle sie mich gleich
+Drinnen lehne ich am Schalter, sehe die Fähre entladen werden. Menschen,
+Taschen, Stimmen in allen Sprachen. Dann taucht sie auf: Sini, Jacke offen, die
+Haare zerzaust vom Wind. Sie entdeckt mich, lächelt und ruft: „Bin gleich
+fertig!“ Dann kommt sie zu mir, die Schritte schnell, als wolle sie mich gleich
 mitnehmen.
 
 Wir gehen nebeneinander über die Brücke, das Holz unter unseren Sohlen klappert,
@@ -141,7 +141,7 @@ sitzen wir noch im Jahr 2085 hier.“
 Ich ziehe die Nase kraus. „Na toll. Dann bin ich schon Staub.“
 
 Sini schnaubt. „Genau. Deswegen: Frau muss selbst für den Ausgleich sorgen. Ein
-Knopf an der Bluse, der zufällig offensteht, ein Blick, der ein bisschen länger
+Knopf an der Bluse, der zufällig offen steht, ein Blick, der ein bisschen länger
 bleibt – Männer sind wie Schalter. Klick – und sie glauben, sie hätten die
 Macht. Dabei lenkst du sie längst.“
 
@@ -149,13 +149,13 @@ Ich kichere. „Das klingt nach einer sehr… wissenschaftlichen Theorie.“
 
 „Ist es auch!“ Sini hebt den Finger, als würde sie eine Vorlesung halten.
 „Männer sind leicht zu manipulieren. Und wenn’s der richtigen Sache dient – also
-dir ein Ticket, mir ein freier Abend oder der Welt ein Stück mehr Gleichheit –
+dir ein Ticket, mir einen freien Abend oder der Welt ein Stück mehr Gleichheit –
 dann ist das moralisch völlig in Ordnung.“
 
 Ich verziehe den Mund. „Hm. Ich weiß nicht. Ist das nicht ein bisschen…
 schummeln?“
 
-„Ach, Eddie.“ Sie stößt mich sanft an. „Das System ist schummeln. Wir gleichen
+„Ach, Eddie.“ Sie stößt mich sanft an. „Das System ist Schummeln. Wir gleichen
 nur aus.“
 
 Ich schüttle den Kopf. „Also, ich will doch lieber für meine Matheaufgaben
@@ -166,7 +166,8 @@ Lob der Männer. Es geht nicht um ihr Schulterklopfen, sondern um ein Stück ihr
 Macht. Ein Lob bringt dich nicht auf die Fähre, baut dir kein Dach über den Kopf
 und macht dir auch nicht den Magen voll.“
 
-Ich ziehe die Schultern hoch, weil ich ahne, was sie meint, aber mich sträubt.
+Ich ziehe die Schultern hoch, weil ich ahne, was sie meint, aber ich sträube
+mich.
 
 „Jetzt mal ehrlich, Eddie,“ fährt sie fort, „du bist drei Wochen durch Schlamm
 und Regen gekrochen. Vorbei an warmen, trockenen Häusern, wo in jedem zweiten
@@ -174,7 +175,7 @@ wahrscheinlich ein einsamer Junggeselle saß. Du bist ein hübsches Mädchen —
 also, bist du wirklich! — hast du nie überlegt, einfach mal an die Türen zu
 klopfen?“
 
-Ich rolle mit den Augen. „Einmal hab’ ich’s gemacht. Kam aber keine Junggeselle
+Ich rolle mit den Augen. „Einmal hab’ ich’s gemacht. Kam aber kein Junggeselle
 raus, sondern ’ne dicke Bäuerin mit Schürze und Gummistiefeln.“
 
 Sini krümmt sich fast vor Lachen. „Und wär’s der Bauer gewesen? Dann hättest du
