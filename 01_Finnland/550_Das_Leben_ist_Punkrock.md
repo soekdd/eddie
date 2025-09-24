@@ -52,7 +52,7 @@ riechenden Jacken, die klebrigen Tische – all das fühlt sich inzwischen vertr
 an, fast wie ein Versprechen.
 
 Die Band legt los, der Bass hämmert mir direkt in den Bauch, und Sini reißt mich
-auf die Tanzfläche. Ich könnte noch „später vielleicht“ sagen wie beim ersten
+auf die Tanzfläche. Ich könnte noch „später vielleicht“ sagen, wie beim ersten
 Mal, aber diesmal kommt mir nur ein Lachen über die Lippen. Ich tanze.
 
 Erst unsicher, dann immer wilder, im Rhythmus neben ihr. Wir brauchen kaum
@@ -90,7 +90,7 @@ die Gitarre ab und kommt direkt auf mich zu. Mir wird heiß, ich zittere vor
 Aufregung, als er vor mir steht. Keine Worte, keine Fragen. Er nimmt meine
 Hände, zieht mich mit ins Hüpfen. Wir springen zusammen, stoßen im Takt
 aneinander, und als ich stolpere, greift er an meinen Hosenbund, hält mich dicht
-an sich..
+an sich.
 
 Der Beat treibt uns noch höher. Und als das Stück mit einem harten Schlag endet,
 will er sich zu mir herunterbeugen – ich bin schneller. Ich springe ihm
@@ -117,7 +117,7 @@ mich zu ihm: „Danke für den Tanz. War echt schön.“ Er blinzelt überrascht
 versucht es noch mit einem Witz, dann zuckt er die Schultern und verschwindet in
 der Menge.
 
-Sini schaut mich an, halb verwundert, halb ertappt. „Wollest du nicht…?“ fragt
+Sini schaut mich an, halb verwundert, halb ertappt. „Wolltest du nicht…?“ fragt
 sie leise.
 
 Ich schüttle den Kopf und greife nach ihrer Hand. „Doch. Heimgehen. Mit dir.“

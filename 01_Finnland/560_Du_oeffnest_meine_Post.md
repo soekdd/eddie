@@ -65,7 +65,7 @@ Ab da ist das Gespräch für mich wieder verständlich.
 „Deine Post!“, sagt ihr Vater scharf und schwingt die Mappe. „Die Uni droht,
 deine Immatrikulation nicht weiter zu pausieren, Sinikka!“
 
-„Avaisit minun postini?!“ – „Du öffnest meine Post?!“ Sini klingt fassungslos,
+„Avasit minun postini?!“ – „Du öffnest meine Post?!“ Sini klingt fassungslos,
 doch ihr Vater geht hart darüber hinweg. „Zwei Jahre Auszeit – und jetzt
 arbeitest du weit weg, wohnst in einer kleinen Wohnung, die ich noch dazu
 finanziere. Wie lange glaubst du, geht das noch so weiter?“
@@ -91,7 +91,7 @@ kann.
 „Nein, Sinikka! Du hörst mir jetzt zu! Diese Trödelei ist vorbei. Anfang Oktober
 ist Schluss mit der Auszeit. Deine Wohnung muss bis dahin aufgelöst sein, und du
 wirst pünktlich zum Semesterbeginn wieder in Helsinki sein! Ich habe schon mit
-dem Wohnheim gesprochen, ein Zimmer für dich reserviert.“
+dem Wohnheim gesprochen und ein Zimmer für dich reserviert.“
 
 Sini hängt den Kopf. „Joo… minä teen sen…“ – „Ja, Papa… ich werde die Wohnung
 kündigen. Ich verspreche es.“
@@ -121,17 +121,17 @@ den Finger wickeln, morgen werde ich alles anwenden, was du mich gelehrt hast.
 Morgen mache ich dich stolz.“ Ich stehe auf und nehme Sini in den Arm. „Du hast
 schon so viel für mich getan, morgen bin ich dran.“
 
-„Kiitos, Danke Eddie…“, heult Sini. „Ich wollte auch nicht, dass es je endet.
-Aber…“ setzt sie verlegen an. „…ich wußte es schon ganz lange.“. „Mit der
+„Kiitos, Danke Eddie…“ heult Sini. „Ich wollte auch nicht, dass es je endet.
+Aber…“ setzt sie verlegen an. „…ich wusste es schon ganz lange.“ „Mit der
 Wohnung?“ „Ja, naja, dass es so nicht weitergehen kann. Ich bin Saisonkraft. Ab
 Oktober fährt die Fähre nur noch einmal täglich. Ich hätte sowieso meinen Job
-verloren.“ Ich verstehe. „Aber wie hast Du es letzten Winter gemacht?“ - „Da
+verloren.“ Ich verstehe. „Aber wie hast Du es letzten Winter gemacht?“ – „Da
 hatte ich noch Geld gespart. Doch das ist jetzt verbraucht.“
 
-Wir sitzen still nebeneinander, die Tränen fast versiegt, nur unsere Atemzüge
-füllen das kleine Zimmer. Draußen rauscht der Wind durch die dunklen Bäume, aber
-hier drinnen halten wir uns fest wie zwei, die noch längst nicht aufgeben
-wollen.
+Wir sitzen still nebeneinander, die Tränen sind fast versiegt, nur unsere
+Atemzüge füllen das kleine Zimmer. Draußen rauscht der Wind durch die dunklen
+Bäume, aber hier drinnen halten wir uns fest wie zwei, die noch längst nicht
+aufgeben wollen.
 
 Sini wischt sich über die Augen, setzt sich auf und schnaubt trotzig. „Weißt du
 was, wir vergessen das mit den Busfahrern. Ich kauf dir einfach so ein blödes

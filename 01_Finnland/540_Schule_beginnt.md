@@ -53,14 +53,14 @@ lachend: „Für Frieden und Sozialismus – seid bereit!“
 
 Sie reißt die Hand hoch, aber so verkrampft, dass es mich fast vom Hocker haut.
 Ich pruste los, zwischen zwei Lachern keuche ich: „Sini, um Himmels willen –
-diese Handbewegung darfst Du nie machen! Das ist streng verboten. Geht gar
+diese Handbewegung darfst du nie machen! Das ist streng verboten. Geht gar
 nicht.“
 
 Sie erstarrt, wird knallrot. „Was? Echt jetzt?“ ruft sie, „ich dachte, das wär
 nur so ein… keine Ahnung, DDR-Ding?“
 
-Ich lache noch immer Tränen. „Nein! Ganz falsches Land, ganz falsche Zeit, ganz
-falsche Geste!“
+Ich lache so sehr, dass mir Tränen kommen. „Nein! Ganz falsches Land, ganz
+falsche Zeit, ganz falsche Geste!“
 
 Für einen Moment wirkt sie richtig betreten, dann verzieht sie das Gesicht,
 macht eine völlig übertriebene Hampelmannbewegung daraus und wir brechen beide

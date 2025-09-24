@@ -45,14 +45,14 @@ und zu kräuselt der Wind kleine Falten hinein, so, als wollte er testen, wie
 weit er die Spiegelung der Wolken verschieben kann. Ich sitze neben Sini auf
 unserer knorrigen Holzbank direkt am Wasser. Die Bank ist grau und rau vom
 Wetter, an den Kanten splittert sie ein bisschen. Hinter uns riecht es nach
-Rauch -- irgendwo brennt wohl ein Lagerfeuer -- und nach den süßlich-harzigen
+Rauch – irgendwo brennt wohl ein Lagerfeuer – und nach den süßlich-harzigen
 Birken, die sich im Wind wiegen.
 
 „Dein Vater hat dich nicht Sini, sondern Sinikka genannt“, sage ich, während ich
 meine Knie enger anziehe. „Was heißt das? Blaue Blume oder so was?“
 
 Sie zuckt nur leicht mit den Schultern, als ob die Antwort für sie keine große
-Sache wäre. „Ach nein. Das heißt 'kleines blaues Mädchen'. Ich mag es nicht und
+Sache wäre. „Ach nein. Das heißt ‚kleines blaues Mädchen‘. Ich mag es nicht und
 nenne mich daher nur Sini.“
 
 Ich muss grinsen. „Das ist ja süß. Wie heißen diese lustigen kleinen blauen
@@ -115,45 +115,46 @@ unbesiegbar – gefällt mir!“ Sie dreht den Kopf zu mir, grinst schelmisch. �
 jetzt reden wir mal über dich. Dein Name, Eddie – ist das nicht eigentlich ein
 Jungenname?“
 
-„Eigentlich wollte mein Vater mich Ada nennen, nach Ada Lovelace“, erzähle ich.\
+„Eigentlich wollte mein Vater mich Ada nennen, nach Ada Lovelace“, erzähle ich.
 Sini guckt mich sofort an, die Augen glänzen. „Ada Lovelace? Klar kenne ich die!
 Ich weiß zwar nicht viel von Mathe oder Informatik, aber dass sie eine Pionierin
 war, finde ich richtig stark.“
 
 „Na ja, mein Vater fand es einfach beeindruckend, dass Ada Lovelace schon im 19.
 Jahrhundert komplexe Rechenmaschinen programmiert hat, lange bevor es Computer
-gab. Er wollte, dass ich eine Art Vorreiterin werde, so wie sie.“, sage ich.
-„Nur leider kam er nie zum Einsatz. Denn als er im Standesamt den Namen 'Ada' zu
-Protokoll gab, fragte die Standesbeamtin:\ 'Ada? Das machen wir nicht, den Namen
-haben wir hier noch nie vergeben. Wie kommen Sie denn auf sowas?'“ Ich versuchte
+gab. Er wollte, dass ich eine Art Vorreiterin werde, so wie sie“, sage ich. „Nur
+leider kam er nie zum Einsatz. Denn als er im Standesamt den Namen ‚Ada‘ zu
+Protokoll gab, fragte die Standesbeamtin: ‚Ada? Das machen wir nicht, den Namen
+haben wir hier noch nie vergeben. Wie kommen Sie denn auf so was?‘“ Ich versuche
 für Sini den breiten sächsischen Dialekt irgendwie ins Englische zu übertragen.
-„'Ist eine britische Mathematikerin', soll mein Vater erwiderthaben.\ 'Ah, nee,
-die kenn ich nicht. Wollen Sie nicht 'ne sowjetische Mathematikerin nehmen,
-wenn's unbedingt eine sein soll?'\ 'Kennen Sie eine?'\ 'Nee, ehrlich gesagt
-nicht', gestand die Beamtin.\ 'Außerdem spricht man den Namen nicht 'Ada',
-sondern 'Eda' aus', wandte mein Vater ein.\ 'So wie Edda Göring?'\ 'Ja, naja,
-eigentlich eher lang.'\ 'Dann schreiben Sie doch gleich Edda, wenn Sie Edda
-meinen. Ada machen wir nicht.' Das war ihr letztes Wort.
+„‚Ist eine britische Mathematikerin‘, soll mein Vater erwidert haben. ‚Ah, nee,
+die kenn ich nicht. Wollen Sie nicht ’ne sowjetische Mathematikerin nehmen,
+wenn’s unbedingt eine sein soll?‘ ‚Kennen Sie eine?‘ ‚Nee, ehrlich gesagt
+nicht‘, gestand die Beamtin. ‚Außerdem spricht man den Namen nicht „Ada“,
+sondern „Eda“ aus‘, wandte mein Vater ein. ‚So wie Edda Göring?‘ ‚Ja, na ja,
+eigentlich eher lang.‘ ‚Dann schreiben Sie doch gleich Edda, wenn Sie Edda
+meinen. Ada machen wir nicht.‘ Das war ihr letztes Wort.
 
 Und so bekam ich den Namen Edda. Wie Edda Göring. Hässlich, oder? Aber immerhin
-gab es in der DDR auch eine Schauspielerin, die Edda hieß. Edda Dentges -- auf
+gab es in der DDR auch eine Schauspielerin, die Edda hieß. Edda Dentges – auf
 die konnte ich mich wenigstens berufen. Ada hingegen kannte wirklich niemand.
 
 Sini schiebt die Augenbrauen hoch. „Edda Göring? Echt jetzt? Das ist ja…
-irgendwie schräg.“\ „Ja, oder? Aber hätte auch schlimmer kommen können weißt Du?
-Von heute aus betrachtet kann ich froh sein, dass mein Vater weder Pe-la-ge-ya
-Po-lu-ba-ri-nova-Ko-chi-na“ - ich spreche den Namen extra langsam aus und betone
-jede Silbe,„eine russische Göttin der Hydrodynamik, noch Lyud-mila Kel-dysh,
-Mathematikprofessorin an der Moskauer Lomonossow-Universität, kannte.“ Sini
-lacht auf: \„Ja, das wäre endlos schlimmer.“ „Absolut“ erwidere ich und lehne
-mich zurück, „am Ende haben mich sowieso alle nur Eddie genannt, sogar die
-Lehrer.“\ „Eddie?“ Sini lacht. „Das klingt ja viel cooler. Wie ein belgischer
-Fußballspieler oder ein britischer Reggae-Sänger.“ Sina springt von der Bank auf
-und tut so, als ob sie Fußballspielerin und Sängerin zugleich wäre. Ich falle
-vor Lachen beinahe von der Bank. Es ist so schön mit Sini Zeit zu verlieren. Der
-Wind weht mir den Geruch von Seealgen und Rauch in die Nase. Ich streiche über
-den Stoff meiner verwaschenen roten Trainingshose – ein Stück Dresden, das sich
-hier manchmal fremd anfühlt.
+irgendwie schräg.“\ „Ja, oder? Aber hätte auch schlimmer kommen können, weißt
+du? Von heute aus betrachtet kann ich froh sein, dass mein Vater weder
+Pe-la-ge-ya Po-lu-ba-ri-nova-Ko-chi-na“ – ich spreche den Namen extra langsam
+aus und betone jede Silbe, „eine russische Göttin der Hydrodynamik, noch
+Lyud-mila Kel-dysh, Mathematikprofessorin an der Moskauer
+Lomonossow-Universität, kannte.“ Sini lacht auf: „Ja, das wäre endlos
+schlimmer.“ „Absolut“, erwidere ich und lehne mich zurück, „am Ende haben mich
+sowieso alle nur Eddie genannt, sogar die Lehrer.“\ „Eddie?“ Sini lacht. „Das
+klingt ja viel cooler. Wie ein belgischer Fußballspieler oder ein britischer
+Reggae-Sänger.“ Sini springt von der Bank auf und tut so, als ob sie
+Fußballspielerin und Sängerin zugleich wäre. Ich falle vor Lachen beinahe von
+der Bank. Es ist so schön, mit Sini Zeit zu verlieren. Der Wind weht mir den
+Geruch von Seealgen und Rauch in die Nase. Ich streiche über den Stoff meiner
+verwaschenen roten Trainingshose – ein Stück Dresden, das sich hier manchmal
+fremd anfühlt.
 
 Aber während ich neben Sini sitze, merke ich: Zuhause ist vielleicht gar kein
 Ort, kein Name, kein System. Zuhause sind Menschen. Menschen wie sie, die mich

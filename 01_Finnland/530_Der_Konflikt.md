@@ -55,9 +55,9 @@ mühelos zwischen Finnisch, Schwedisch und einem Englisch, das ich nur halb
 verstehe, wenn die Musik zu laut wird. Ich stehe an der Theke, halte meinen
 Apfelwein in der Hand und versuche, nicht im Gedränge erdrückt zu werden.
 
-In der Ecke spielt eine kleine Band -- nur ein Schlagzeug, eine E-Gitarre und
-ein Keyboard, aber sie schaffen es, den Raum zu füllen. Der Bass dröhnt durch
-den Boden, ich spüre ihn bis in den Brustkorb.
+In der Ecke spielt eine kleine Band – nur ein Schlagzeug, eine E-Gitarre und ein
+Keyboard, aber sie schaffen es, den Raum zu füllen. Der Bass dröhnt durch den
+Boden; ich spüre ihn bis in den Brustkorb.
 
 „Eddie!“ Sini taucht neben mir auf, leicht schwitzig vom Tanzen. Ihre Haare
 kleben an ihrer Stirn, die Augen glänzen. „Komm, tanzen!“
@@ -65,9 +65,9 @@ kleben an ihrer Stirn, die Augen glänzen. „Komm, tanzen!“
 „Ich guck lieber“, sage ich, aber sie zieht mich schon halb in Richtung der
 Tanzfläche. Ich lache, reiße mich dann doch los. „Später vielleicht!“
 
-Sie verdreht die Augen, aber lässt mich stehen und wirbelt wieder in die Menge.
-Ich sehe, wie sie den Kopf in den Nacken wirft, den Rhythmus aufnimmt, als hätte
-sie nie etwas anderes gemacht.
+Sie verdreht die Augen, lässt mich stehen und wirbelt wieder in die Menge. Ich
+sehe, wie sie den Kopf in den Nacken wirft, den Rhythmus aufnimmt, als hätte sie
+nie etwas anderes gemacht.
 
 Ich lehne mich an den Tresen. Der Barkeeper, ein junger Typ mit blondem
 Schnurrbart, stellt wortlos eine Schale mit gesalzenen Erdnüssen hin. „On the
@@ -75,7 +75,7 @@ house“, sagt er und grinst.
 
 Ich greife zu, beobachte Sini weiter. Irgendwann tanzt sie mit einem Typen, der
 viel zu breite Schultern und ein kariertes Hemd hat. Sie stößt ihn lachend an,
-er beugt sich zu ihr runter, sagt ihr irgendwas ins Ohr. Sie lacht wieder --
+er beugt sich zu ihr herunter, sagt ihr irgendwas ins Ohr. Sie lacht wieder –
 lauter, wärmer als bei allen anderen.
 
 Irgendwann merke ich, dass meine Füße schon fast eingeschlafen sind und der
@@ -97,7 +97,7 @@ etwas sagen. Aber sie tut es nicht. Stattdessen hakt sie sich bei mir ein, ein
 bisschen zu fest, und wir gehen weiter. Ihre Schritte sind weich und etwas
 schwankend.
 
-„Weißt du,“ sagt Sini plötzlich, „du bist…“ Sie bricht ab, sucht das Wort,
+„Weißt du“, sagt Sini plötzlich, „du bist…“ Sie bricht ab, sucht das Wort,
 während sie mit der freien Hand in der Luft wedelt. „Du bist wie… ein seltener
 Vogel.“
 
@@ -110,12 +110,12 @@ Ich weiß nicht, was ich darauf sagen soll. Vielleicht liegt es am Alkohol in
 ihrer Stimme oder am Wind, der meine Gedanken davonträgt.
 
 Vor ihrem Haus schließt sie auf, stolpert fast über die Stufe. Drinnen schlägt
-mir sofort die Wärme entgegen -- zu warm, nach der klaren Luft draußen. Der
-Geruch von Holz, Kerzenwachs und etwas, das nach dem letzten Kochen geblieben
-ist, hängt in der Luft.
+mir sofort die Wärme entgegen – zu warm nach der klaren Luft draußen. Der Geruch
+von Holz, Kerzenwachs und etwas, das nach dem letzten Kochen geblieben ist,
+hängt in der Luft.
 
 Sie zieht ihre Stiefel halb im Gehen aus, lässt sie im Flur liegen, die Jacke
-rutscht vom Stuhl, auf den sie sie wirft. Ich hänge meine ordentlich auf,
+rutscht vom Stuhl, auf den sie sie wirft. Ich hänge meine ordentlich auf und
 versuche, die Wärme in meinen Händen zu bekommen.
 
 „Setz dich“, sagt sie. Ihre Stimme ist immer noch hell, aber weniger fokussiert.
@@ -132,7 +132,7 @@ Ich lehne mich leicht weg, aber sie legt den Arm um mich, zieht mich mit einer
 plötzlichen, fast ungeschickten Bewegung näher. Ihre Hand rutscht tiefer, zu
 tief, in meine Hose, in meinen Slip.
 
-„Sini!“ Ich springe auf. Meine Stimme ist hart. „Sag mal spinnst Du?“
+„Sini!“ Ich springe auf. Meine Stimme ist hart. „Sag mal, spinnst du?“
 
 Sie zieht die Hand zurück, schaut mich an, erst verwirrt, dann wie ertappt. „War
 nicht so gemeint.“
@@ -143,16 +143,16 @@ einschließen könnte. Seit Wochen schlafe ich auf Sinis ausziehbarer Couch, mei
 Decke ordentlich im Regal verstaut, eben wie ein Gast auf Durchreise.
 
 Sini sieht es mir an. Sie reibt sich das Gesicht, ihre Stimme ist schwerer
-jetzt, weniger betrunken. „Nimm mein Bett. Ich… schlaf hier.“
+jetzt, weniger betrunken. „Nimm mein Bett. Ich… schlafe hier.“
 
 „Ich will nicht, dass du…“
 
-„Eddie.“ Sie unterbricht mich, mit einer Mischung aus Müdigkeit und
+„Eddie.“ Sie unterbricht mich mit einer Mischung aus Müdigkeit und
 Entschlossenheit. „Bitte. Es ist meine Schuld, bitte geh einfach in mein
 Zimmer.“
 
 Ich packe meine Decke und Kissen, gehe an ihr vorbei ins Schlafzimmer. Der Raum
-riecht nach ihr -- nach Shampoo, nach dem kalten Septemberwind, der durchs
+riecht nach ihr – nach Shampoo, nach dem kalten Septemberwind, der durchs
 gekippte Fenster kommt, nach einem Hauch Parfum. Ich lege mich hin, noch in
 Jeans und Pullover, und starre lange in die Dunkelheit. Wütend. Enttäuscht. Und
 irgendwie noch wacher als vorher.
@@ -175,14 +175,14 @@ Die Stille in der Wohnung drückt wie eine schwere Decke auf mich.
 
 Die Tür geht auf. Sini steht da, in einem zerknitterten T-Shirt und einer
 Trainingshose, barfuß. Ihre blauen Haare sind ein einziges Chaos. Sie blinzelt
-ins Licht, presst die Hand an die Schläfe.\ „Guten Morgen“, murmelt sie. Ihre
+ins Licht, presst die Hand an die Schläfe. „Guten Morgen“, murmelt sie. Ihre
 Stimme ist rau, vorsichtig.
 
 Ich sehe nicht hoch. „Morgen.“
 
 Sie geht zum Wasserhahn, lässt es laufen, trinkt direkt aus einem Glas. Das
-Geräusch von Schlucken und dem Glas auf Spüle hallt viel zu laut. „Ich… also…“
-Sie atmet hörbar aus. „Wegen gestern Abend…“
+Geräusch des Schluckens und das Klirren des Glases auf der Spüle hallen viel zu
+laut. „Ich… also…“ Sie atmet hörbar aus. „Wegen gestern Abend…“
 
 Ich lege die Tasse ab, meine Finger sind kalt. „Wegen gestern Abend…“ äffe ich
 sie wütend nach. Meine Stimme zittert, aber nicht vor Angst. Eher vor Wut und
@@ -190,7 +190,7 @@ dieser Hilflosigkeit, die sich wie ein Knoten in mir festgesetzt hat.
 
 Sie setzt sich mir gegenüber, stützt die Ellenbogen auf den Tisch, den Kopf in
 den Händen. „Ich weiß. Ich war betrunken. Das ist keine Entschuldigung, aber…
-ich habe mich wie eine Idiotin benommen. Ich habe dich---“ Sie bricht ab,
+ich habe mich wie eine Idiotin benommen. Ich habe dich—“ Sie bricht ab,
 schluckt. „Ich habe dich wie… wie ein Ding behandelt.“
 
 Ich hebe den Blick, treffe ihre Augen. „Genau. Ein Ding. Und weißt du, was das
@@ -243,7 +243,7 @@ begrapschst, wenn du betrunken bist.“
 ob es wieder okay ist, zu lächeln.
 
 Ich atme aus. Die Schwere zwischen uns ist nicht weg, aber sie ist leichter
-geworden, wie Nebel, der von der Sonne langsam weggeschoben wird.
+geworden, wie Nebel, den die Sonne langsam weggeschoben hat.
 
 „Also…“, meint sie nach einer kurzen Pause, „Frühstück? Ich könnte Rührei
 machen. Oder Toast. Oder… ich versuche Pfannkuchen, wenn du bereit bist, das
@@ -259,15 +259,15 @@ Kochlöffel in der Hand, eine Schürze mit verblassten Erdbeeren umgebunden. Ich
 sitze am Küchentisch und beobachte sie, wie sie konzentriert den Teig rührt, als
 hätte sie gerade eine wissenschaftliche Mission.
 
-„Du guckst, als würdest du erwarten, dass das Ding explodiert,“ sagt sie über
+„Du guckst, als würdest du erwarten, dass das Ding explodiert“, sagt sie über
 die Schulter.
 
-„Ich gucke, weil ich sehen will, wie du scheiterst.“
+„Ich guck, weil ich sehen will, wie du scheiterst.“
 
-„Optimistisch wie immer,“ murmelt sie und gießt den ersten Schwung Teig in die
+„Optimistisch wie immer“, murmelt sie und gießt den ersten Schwung Teig in die
 Pfanne. Es riecht sofort nach warmem Ei und Butter.
 
-Nach zwei Minuten versucht sie, den Pfannkuchen zu wenden -- und verfehlt die
+Nach zwei Minuten versucht sie, den Pfannkuchen zu wenden – und verfehlt die
 perfekte Flugbahn knapp. Das Ding landet halb auf dem Rand, halb wieder in der
 Pfanne.
 
@@ -286,7 +286,7 @@ Nicht giftig. Aber noch steigerungsfähig.“
 „Frech.“ Sie schiebt mir ein Glas Preiselbeermarmelade hin. „Hier. Süß macht
 alles besser.“
 
-Wir essen schweigend, aber es ist ein anderes Schweigen als heute Morgen --
+Wir essen schweigend, aber es ist ein anderes Schweigen als heute Morgen –
 leichter, voller kleiner Pausen, die nicht drücken. Sini beobachtet mich nicht,
 sie drängt sich nicht auf. Sie lässt mich einfach essen.
 
@@ -311,23 +311,23 @@ betüddeln wie eine kleine Schwester.“
 
 Sie lächelt schief. „Abgemacht.“
 
-Wir ziehen uns Jacken über -- meine rote, abgewetzte, sie ihre graue mit
-abgeriebenen Ellenbogen -- und treten hinaus in die klare Luft. Der September
-ist kühl, der Wind vom Meer trägt den Geruch von Salz und Diesel herüber. Die
+Wir ziehen uns Jacken über – meine rote, abgewetzte, sie ihre graue mit
+abgeriebenen Ellenbogen – und treten hinaus in die klare Luft. Der September ist
+kühl, der Wind vom Meer trägt den Geruch von Salz und Diesel herüber. Die
 Straßen sind still, nur irgendwo weiter weg höre ich ein Mofa knattern.
 
 Sini hält den Abstand beim Gehen, nicht zu nah, nicht zu weit. Ich merke, dass
 sie darauf achtet, nicht ungewollt meinen Arm zu streifen. Wir gehen
 nebeneinander, aber jeder mit seinem eigenen Raum.
 
-„Da drüben,“ sagt sie und deutet auf ein kleines, verbeultes Fischerboot, das
+„Da drüben“, sagt sie und deutet auf ein kleines, verbeultes Fischerboot, das
 gerade von einem älteren Mann aus dem Hafenbecken gezogen wird. „Sieht aus, als
 hätte es schon hundert Winter überlebt.“
 
 Ich lache leise. „So wie meine Jacke.“
 
 „Nur deine Jacke ist schöner“, sagt sie und lässt es dabei. Keine Anspielung,
-kein Blick, der zu lange dauert -- einfach nur ein Satz.
+kein Blick, der zu lange dauert – einfach nur ein Satz.
 
 Am Ende des Stegs setzen wir wieder auf die alte Holzbank. Die Wellen klatschen
 leise dagegen, Möwen kreischen irgendwo über uns. Sini reicht mir eine
@@ -351,8 +351,8 @@ grau geworden, und der Wind hat aufgefrischt, drückt die Zweige der Birken gege
 die Fensterscheiben. Ich sitze am Tisch, Sini hat mir eine Schüssel mit
 Haferflocken und frischen Beeren hingestellt.
 
-„Die Brombeeren sind aus dem Garten von meiner Chefin“, sagt sie beiläufig,.
-„Die hat sie mir vorgestern geschenkt, voll lieb von ihr.“
+„Die Brombeeren sind aus dem Garten von meiner Chefin“, sagt sie beiläufig. „Die
+hat sie mir vorgestern geschenkt, voll lieb von ihr.“
 
 Ich stoße den Löffel in den Brei, ohne zu essen. „Sini… kann ich dir was
 erzählen? Aber versprich mir, dass du nicht gleich Mitleid hast.“
@@ -378,7 +378,7 @@ sollen still und bescheiden sein. Das ist so tief drin… dass ich manchmal nich
 mal mir selbst traue.“
 
 Ich merke, dass meine Stimme brüchig wird. „Deshalb war gestern Nacht… so
-schlimm. Nicht nur wegen dem, was passiert ist. Sondern weil ich dich zu den
+schlimm. Nicht nur wegen dessen, was passiert ist. Sondern weil ich dich zu den
 wenigen gezählt hab, bei denen ich nicht aufpassen muss.“
 
 Sini legt die Hände auf den Tisch, verschränkt die Finger, als müsste sie
@@ -397,17 +397,17 @@ wollte es zuhören. Ich nehme einen Löffel von den Himbeeren, und ihr süßer,
 saurer Geschmack vermischt sich mit einem winzigen, vorsichtigen Gefühl von
 Hoffnung.
 
-Sini dreht sie das Radio an. Eine finnische Sängerin singt langsam und rau, die
+Sini dreht das Radio an. Eine finnische Sängerin singt langsam und rau, die
 Melodie schwappt wie leises Wasser durch den Raum. Sini stellt zwei Kerzen auf
 den Tisch, zündet sie an, ohne ein Wort zu sagen. Das Licht flackert und lässt
 die Tapete wie in Bewegung wirken.
 
-„Ich geh kurz duschen“, sagt sie, nimmt ihr Handtuch und verschwindet ins Bad.
+„Ich gehe kurz duschen“, sagt sie, nimmt ihr Handtuch und verschwindet ins Bad.
 Keine Andeutung, kein Blick, der zu lange dauert. Einfach nur Alltag.
 
 Als sie zurückkommt, trägt sie einen dicken Pullover und eine Jogginghose, die
 an den Knien leicht ausgeleiert ist. Sie setzt sich in den Sessel gegenüber,
-nicht aufs Sofa neben mich. Zwischen uns der kleine Holztisch, auf dem zwei
+nicht auf das Sofa neben mir. Zwischen uns der kleine Holztisch, auf dem zwei
 Tassen dampfen.
 
 „Ich hab dir Kamillentee gemacht“, sagt sie. „Ich weiß, du magst den lieber als
@@ -422,7 +422,7 @@ sie mir in den Schoß. „Falls dir kalt wird.“ Sie bleibt nicht stehen, warte
 nicht auf ein Danke. Geht einfach zurück zu ihrem Sessel, zieht ihre eigenen
 Beine unter die Decke, die dort liegt.
 
-Es ist so banal, so unspektakulär -- und genau das macht es ungewohnt. Keine
+Es ist so banal, so unspektakulär – und genau das macht es ungewohnt. Keine
 Annäherung, kein Druck. Nur Raum. Und Wärme.
 
 „Sini?“
@@ -433,9 +433,9 @@ Annäherung, kein Druck. Nur Raum. Und Wärme.
 
 Sie lächelt schwach. „Normal sein kann ich ziemlich gut, wenn ich will.“
 
-Wir bleiben sitzen, bis die Kerzen fast heruntergebrannt sind. „Heute nimmst Du
-wieder das Bett“, sage ich. Ein fragender, dankbarer Blick von Sini: „Danke,
-Eddie“.
+Wir bleiben sitzen, bis die Kerzen fast heruntergebrannt sind. „Heute nimmst du
+wieder das Bett“, sage ich. Ein fragender, dankbarer Blick von Sini. „Danke,
+Eddie.“
 
 Als Sini in ihr Schlafzimmer geht, ist der Knoten in meinem Bauch kleiner. Und
 zum ersten Mal denke ich: Vielleicht kann Vertrauen auch leise zurückkommen.
