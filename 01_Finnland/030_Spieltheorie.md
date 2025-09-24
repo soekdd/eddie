@@ -21,15 +21,15 @@
     },
     "Logik": {
       "Einschaetzung": "Spieltheorie als Motiv plausibel und originell.",
-      "Kritik": "Manche Herleitungen zu glatt und zu perfekt. Eddie könnte mehr stolpern oder Halbwissen zeigen."
+      "Kritik": "Manche Herleitungen wirken zu glatt und zu perfekt. Eddie könnte mehr stolpern oder Halbwissen zeigen."
     },
     "Charaktere": {
-      "Einschaetzung": "Eddie als Mathegenie klar erkennbar, zeigt Kreativität.",
+      "Einschaetzung": "Eddie als Mathegenie ist klar erkennbar, zeigt Kreativität.",
       "Kritik": "Ihre jugendliche Verletzlichkeit tritt zurück, sie wirkt sehr souverän. Nebenfiguren fehlen."
     },
     "Sprache": {
       "Einschaetzung": "Anschaulich, witzige Vergleiche.",
-      "Kritik": "Absätze mit Formeln wirken zu trocken, zu wenig innere Kommentare. Füllwörter und Spontaneität fehlen – Sprache fast zu glatt."
+      "Kritik": "Absätze mit Formeln wirken zu trocken, es gibt zu wenig innere Kommentare. Füllwörter und Spontaneität fehlen – Sprache fast zu glatt."
     },
     "Fazit": {
       "Staerken": "Originelle Mathe-Einbindung, Eddie zeigt Genialität und Witz.",
@@ -40,7 +40,7 @@
 }
 ```
 
-Ich sitze auf der Bettkante, starre in Halbdunkel und sehe mich schon wieder in
+Ich sitze auf der Bettkante, starre ins Halbdunkel und sehe mich schon wieder in
 diesen verfluchten Bus nach Helsinki hüpfen. Rein, Sitzplatz am Fenster, fertig.
 In sechzehn Stunden wäre ich frei. Klingt wie ein Cheatcode. Und dann höre ich
 Papas Stimme: „Hüte dich vor den einfachen Lösungen.“ Ja, ja. Nervig. Und
@@ -58,24 +58,24 @@ jämmerliche Büsche. Wie soll ich mich da verstecken? Vielleicht als
 Deko-Grasbüschel.
 
 Dann diese Fragerunde mit den finnischen Schülern. Herr Fischer, der alte
-Pädagoge, will, dass wir „interessierte Fragen“ stellen. Ich würd am liebsten
+Pädagoge, will, dass wir „interessierte Fragen“ stellen. Ich würde am liebsten
 rausbrüllen: „Wie kommt man hier am schnellsten weg?“ Stattdessen mache ich auf
 brav: „Fahrt ihr mit dem Schulbus oder auch mal mit dem Linienbus?“ Antwort: Der
-Linienbus fährt stündlich, und fast niemand nimmt ihn. Ich grinse, scherze was
+Linienbus fährt stündlich, und fast niemand nimmt ihn. Ich grinse, scherze etwas
 von „Schulbus lieber nicht verpassen“. Innen drin schreie ich.
 
-Weil wenn ihn keiner benutzt, kennt auch keiner die genauen Zeiten. Kein
-Fahrplan, kein Deckungsfeuer, nur Zufall. Ich schnappe mir die Faustregel: Bus
-kommt ungefähr alle 30 Minuten (also einmal pro Richtung), steht vielleicht fünf
-Minuten. Trefferchance = 1 – (55/60)² ≈ 0,16. Also 16 Prozent, dass ich zufällig
-genau dann auftauche, wenn ein Bus dasteht. Das ist der Bonus auf den Reststapel
-Katastrophen: etwa 80 Prozent, dass der Fahrer meine paar D-Mark schluckt. Und
-nochmal 80 Prozent dass Mielke am nächsten Halt einsteigt, mich packt und
-„zurück nach Hause“ bellt. Kombiniert bleibt: knapp unter zehn Prozent
-Siegquote. Zehn! Für ein Leben.
+Denn wenn ihn keiner benutzt, kennt auch keiner die genauen Zeiten. Kein
+Fahrplan, kein Deckungsfeuer, nur Zufall. Ich schnappe mir die Faustregel: Der
+Bus kommt ungefähr alle 30 Minuten (also einmal pro Richtung), steht vielleicht
+fünf Minuten. Trefferchance = 1 – (55/60)² ≈ 0,16. Also 16 Prozent Chance, dass
+ich zufällig genau dann auftauche, wenn ein Bus dasteht. Das ist der Bonus auf
+den Reststapel Katastrophen: etwa 80 Prozent Chance, dass der Fahrer meine paar
+D-Mark schluckt. Und noch mal 80 Prozent, dass Mielke am nächsten Halt einsteigt,
+mich packt und „zurück nach Hause“ bellt. Kombiniert bleiben knapp unter zehn
+Prozent Siegquote übrig. Zehn! Für ein Leben.
 
 > Spieltheorie und Entscheidungsbäume…
-> (Die Mini-Rechnung ging jetzt etwas schnell: Im Band „Eddie rechnet“, Kapitel 1, packe ich sie Schritt für Schritt aus.)
+> (Die Mini-Rechnung ging jetzt etwas schnell: Im Band „Eddie rechnet“, Kapitel 1, packe ich sie Schritt für Schritt aus.)
 
 Und falls der Bus nur drei Minuten hält? Dann rutscht die Chance auf sechs
 Prozent. Da kann ich gleich Lotto spielen.
