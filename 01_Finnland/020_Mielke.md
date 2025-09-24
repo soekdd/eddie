@@ -69,8 +69,8 @@ Kaugummiautomaten: alle gleich, alle fies. Wenigstens musste ich als Mädchen
 nicht zur NVA. Wäre ich ein Junge gewesen, hätte ich mir spätestens da gesagt:
 „Alter, renn! Renn, bis die Socken qualmen!“
 
-Am meisten leiden die Leute, die ein mehr bisschen Herz und ein bisschen mehr
-Hirn haben, als der Rest. So welche wie ich. Kein Wunder, dass ich ihn sofort
+Am meisten leiden die Leute, die ein bisschen mehr Herz und ein bisschen mehr
+Hirn haben als der Rest. So welche wie ich. Kein Wunder, dass ich ihn sofort
 Mielke getauft hab. Und witzigerweise – hier in Finnland hab ich ein paar
-Schüler gehört, die flüstern den Namen auch schon. Ich hab den nie laut gesagt!
+Schüler gehört, die den Namen auch schon flüstern. Ich hab den nie laut gesagt!
 Aber die Ähnlichkeit ist einfach zu krass.
