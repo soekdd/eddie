@@ -14,20 +14,6 @@
   "mood": "trotzig, verletzt, entschlossen-klar",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  },
   "todo": "Die Szene ist zu früh eingeordnet, sie muss hinter das Kennenlernen, aber vor die Duschszene"
 }
 ```

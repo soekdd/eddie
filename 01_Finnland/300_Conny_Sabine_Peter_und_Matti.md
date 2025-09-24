@@ -114,7 +114,7 @@ Westdeutsche. Ich entspanne mich. Aber werden sie meine Legende durchschauen?
 Ich habe keine Wahl und räuspere mich ganz leise. Vier Köpfe drehen sich
 gleichzeitig zu mir um. Für einen Moment ist es still – dann ruft einer:
 
-„Heeey! Eine Wanderin! Komm rüber!"
+„Heeey! Eine Wanderin! Komm rüber!“
 
 Und da stehe ich, mitten im Wald, nach Tagen allein, plötzlich vor vier
 lachenden, neugierigen Deutschen.

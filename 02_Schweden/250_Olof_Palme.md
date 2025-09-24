@@ -11,26 +11,12 @@
   "synopsis": "Nach der Ermordung Olof Palmes liegt Stockholm in Trauer; die Nachricht reißt Eddies eigene Wunde auf – kurz darauf meldet sich die Botschaft mit dem Abflugtermin nach Deutschland.",
   "mood": "",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "mainline"
 }
 ```
 
 Am Morgen wecken mich meine WG Mädels. Ihre Gesicht sind fahl, das Radio läuft
-schon. „Statsminister Olof Palme sköts igår kväll…" -- erschossen. Mitten in der
+schon. „Statsminister Olof Palme sköts igår kväll…“ -- erschossen. Mitten in der
 Stadt, auf der Sveavägen, ohne Bodyguards, nur mit seiner Frau.
 
 Ich sitze da wie betäubt. Stockholm, das eben noch nach Hoffnung und Zukunft
@@ -39,7 +25,7 @@ Wort zu laut. Kerzen flackern auf den Gehwegen, Blumen liegen vor Hauseingängen
 Im Bus trägt der Fahrer eine schwarze Armbinde. In der Schule spricht keiner,
 nicht mal die Lehrer finden Worte.
 
-Greta sagt immer wieder: „So etwas passiert nicht hier. Nicht in Schweden." Aber
+Greta sagt immer wieder: „So etwas passiert nicht hier. Nicht in Schweden.“ Aber
 es ist passiert. Ein Schuss hat das Bild dieser sicheren Welt zerrissen.
 
 Vidar kommt direkt nach der Schule zu mir in die WG, acuch er ist betroffen und
@@ -54,9 +40,9 @@ Alles ist plötzlich wieder da. Sein Griff, sein Atem, diese schmale Gasse. Ich
 habe geglaubt, ich hätte es vergessen. Aber der Schuss auf Palme hat auch meine
 Wunde wieder aufgerissen.
 
-„Du bist ganz bleich," sagt Vidar leise.
+„Du bist ganz bleich,“ sagt Vidar leise.
 
-„Vielleicht kenne ich ihn," flüstere ich. Meine Stimme klingt fremd. Und dann
+„Vielleicht kenne ich ihn,“ flüstere ich. Meine Stimme klingt fremd. Und dann
 stolpern die Sätze heraus, bruchstückhaft, als könnte ich sie gar nicht mehr
 zurückhalten: wie er mich gepackt hat, wie ich nur knapp entkam, wie ich schwor,
 es nie zu erzählen.
@@ -89,7 +75,7 @@ trauernden Stadt, die nie mehr die alte sein wird.
 im Flur der WG klingelt das Telefon.
 
 Die Stimme am anderen Ende ist sachlich, nüchtern: die Botschaft der
-Bundesrepublik Deutschland. Kein „Übermorgen", kein „bald", sondern ein klares
+Bundesrepublik Deutschland. Kein „Übermorgen“, kein „bald“, sondern ein klares
 Datum. **15. März 1986**. Genau an dem Tag, an dem Schweden in Schwarz steht,
 soll ein Regierungsflugzeug starten -- mit mir an Bord. Auch für Streuner wird
 gesorgt, eine Box ist vorgesehen.

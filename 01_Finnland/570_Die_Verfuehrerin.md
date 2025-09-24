@@ -17,21 +17,7 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Vaasa_Busse.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 
@@ -42,18 +28,18 @@ weiß, genau das, was Sini immer zu verhindern versucht -- und stammelte auf
 Englisch irgendetwas von *mitfahren* und *have you a ticket left?*.
 
 Sini hielt es nie lange aus, mir dabei zuzusehen. „Du musst die Typen erst mal
-ein paar Minuten anflirten, dich interessant machen!", sagte sie dann, so als
+ein paar Minuten anflirten, dich interessant machen!“, sagte sie dann, so als
 sei das Flirten ein Handwerk, das man in drei Abenden erlernen könne -- und
 nicht eine Kunst, für die ich schlicht das falsche Betriebssystem installiert
 habe.
 
-Trotz ihrer Grundregel „Das musst du allein schaffen" kam sie zweimal mit.
+Trotz ihrer Grundregel „Das musst du allein schaffen“ kam sie zweimal mit.
 Natürlich sprach sie die Fahrer auf Finnisch oder Schwedisch an, lächelte wie
 aus der Werbung für irgendwas, was es nur in Schweden gibt, und flirtete eine
 halbe Ewigkeit, bevor sie die entscheidende Frage stellte. In beiden Fällen:
 keine Karten übrig. Aber die Fahrer sahen aus, als hätten sie für Sini am
 liebsten einen anderen Fahrgast aus dem Bus geworfen.\ „Tja, diesmal hatten wir
-Pech", sagte Sini -- und grinste, als sei das alles nur ein Aufwärmspiel.
+Pech“, sagte Sini -- und grinste, als sei das alles nur ein Aufwärmspiel.
 
 Die Spieltheorie war eindeutig: Selbst wenn die Chancen gering sind, gewinnt am
 Ende die große Zahl an Versuchen. Und ich hatte in den letzten Wochen -- ob
@@ -63,45 +49,45 @@ ernst und mache ich es für Sini. Und wenn ich mich für Sini ins Zeug lege, dan
 richtig.
 
 Die Mission beginnt am Morgen vor Sinis Kleiderschrank. Sie hat mir schon ewig
-angeboten, mir etwas „Heißes" -- Originalzitat -- auszusuchen. Heute bin ich
+angeboten, mir etwas „Heißes“ -- Originalzitat -- auszusuchen. Heute bin ich
 bereit, jede Hemmschwelle abzulegen.
 
 Sini stöbert wie eine Stylistin im Film, die gleich den entscheidenden
 Makeover-Moment hat. Ein kurzer Jeansrock, eine Jeansjacke sind schnell
 ausgewählt.\ „Sini, wenn ich in diesen Bus einsteige, kann ich dir die Sachen
-nicht zurückgeben."\ „Es wäre mir eine Freude, wenn du sie behältst! Aber jetzt
-brauchen wir noch was total Unverschämtes für unten drunter."
+nicht zurückgeben.“\ „Es wäre mir eine Freude, wenn du sie behältst! Aber jetzt
+brauchen wir noch was total Unverschämtes für unten drunter.“
 
 Sie drückt mir etwas in die Hand, das kaum größer ist als ein Bikinioberteil.\
-„Oh Mann, Sini!" heule ich. Aber die Zeit für Widerstand ist längst vorbei. Also
+„Oh Mann, Sini!“ heule ich. Aber die Zeit für Widerstand ist längst vorbei. Also
 drehe ich mich um und ziehe mich direkt vor ihrem Kleiderschrank um. Sie tut so,
-als würde sie demonstrativ wegschauen.\ „Kannst gucken!\", sage ich, halb
+als würde sie demonstrativ wegschauen.\ „Kannst gucken!\“, sage ich, halb
 trotzig, halb neugierig.
 
 Und ja, das Outfit funktioniert -- leider nicht auf diese schwesterliche Art,
 wie ich's mir von Sini wünschen würde. Sie tanzt um mich herum wie ein Kind, das
-gerade ein besonders gefährliches Haustier bekommen hat. "Sini, ich bin ein
-gutes Stück größer als Du, findest Du nicht, alles ist etwas… …kurz?"\ „Absolut
-Eddie, absolut! Was soll ich sagen -- du bist heiß!"
+gerade ein besonders gefährliches Haustier bekommen hat. „Sini, ich bin ein
+gutes Stück größer als Du, findest Du nicht, alles ist etwas… …kurz?“\ „Absolut
+Eddie, absolut! Was soll ich sagen -- du bist heiß!“
 
 Ich habe keine Zeit, das richtig zu verdauen, da schleift sie mich ins Bad und
-legt mir ein bisschen Make-up auf. „Nicht viel", meint sie, aber als ich in den
+legt mir ein bisschen Make-up auf. „Nicht viel“, meint sie, aber als ich in den
 Spiegel sehe, blickt mir fast das Hochzeitsbild meiner Mutter entgegen. Sie war
 für mich immer das höchste Maß an Schönheit gewesen. Und jetzt -- komisch --
 gefällt mir, was ich sehe.
 
 „Mann, Eddie, Mann, Eddie, jetzt muss ich mich echt auf meine Hände setzen, um
-nicht wieder etwas schrecklich Dummes zu tun."\ Ich ziehe die Augenbrauen hoch.
+nicht wieder etwas schrecklich Dummes zu tun.“\ Ich ziehe die Augenbrauen hoch.
 War das jetzt Warnung genug?
 
-„Wenn du heute keinen Erfolg hast, weiß ich auch nicht mehr weiter." Klingt
+„Wenn du heute keinen Erfolg hast, weiß ich auch nicht mehr weiter.“ Klingt
 optimistisch. Aber in meinem Kopf klingt auch: *Wenn das nicht klappt, haben wir
 keinen Plan B und die Zeit läuft uns davon*.\ „Deine Haare sehen allerdings
-schrecklich aus."
+schrecklich aus.“
 
 Sie drückt mir ein buntes Haarband in die Hand. „Bist du heute Abend noch da,
 gehen wir zu einer Freundin und schneiden sie raspelkurz, damit die Schuhcreme
-endlich ganz verschwindet."
+endlich ganz verschwindet.“
 
 So ausstaffiert marschiere ich zur langen Schlange der wartenden Busfahrer. Ich
 fühle mich nackt. Billig. Als hätte ich eine fremde Hülle übergestreift, die an
@@ -120,40 +106,40 @@ freies Ticket.
 Als ich am letzten Bus stehe und mir die letzte Abfuhr des Tages abhole, wartet
 dort schon Sini.
 
-„Es hat nicht geklappt", sage ich, und ich höre mich an, wie in einer Szene aus
+„Es hat nicht geklappt“, sage ich, und ich höre mich an, wie in einer Szene aus
 einem Film, den keiner so enden sehen will.
 
-„Du warst großartig", sagt Sini. „An dir hat's nicht gelegen! Morgen klappt's
-bestimmt."
+„Du warst großartig“, sagt Sini. „An dir hat's nicht gelegen! Morgen klappt's
+bestimmt.“
 
 Ja. Morgen. Das Prinzip der großen Zahl.
 
 „Was soll ich sagen, heiße kleine Eddie -- ich bin so froh, dass du noch einen
-Tag da bist."
+Tag da bist.“
 
-„Ich auch!" Wir nehmen uns in den Arm. Aber zwischen uns hängt dieser graue
+„Ich auch!“ Wir nehmen uns in den Arm. Aber zwischen uns hängt dieser graue
 Schleier aus Misserfolg und dem Wissen, dass jeder Tag unser letzter sein
 könnte.
 
 Sini zieht mich durch die Studentengegend von Vaasa. Jungs drehen sich um, rufen
 mir etwas nach. Sini ruft zurück, irgendetwas Finnisches, das wohl heißen soll:
-„Finger weg, die gehört mir!" Ein Scherz -- sie weiß, dass ich nie jemandem
+„Finger weg, die gehört mir!“ Ein Scherz -- sie weiß, dass ich nie jemandem
 gehören würde.
 
 Bei ihrer Freundin verwandelt sich die Küche in einen Friseursalon. Ein
 Küchenstuhl, ein Laken um den Hals, kein Spiegel. Sinis Anweisung ist eindeutig:
-„Alles, was nicht richtig blond ist, muss ab!"
+„Alles, was nicht richtig blond ist, muss ab!“
 
 Eine Viertelstunde später streiche ich über meinen Hinterkopf. Raspelkurz.
 
-„So kurz hatte ich sie noch nie", staune ich. „Sehe ich jetzt nicht erst recht
-wie ein Junge aus?"
+„So kurz hatte ich sie noch nie“, staune ich. „Sehe ich jetzt nicht erst recht
+wie ein Junge aus?“
 
-„Nicht in den Klamotten, Schätzchen", lacht Sini, und ihre Freundin nickt.
+„Nicht in den Klamotten, Schätzchen“, lacht Sini, und ihre Freundin nickt.
 
-„Was willst du jetzt tun?"
+„Was willst du jetzt tun?“
 
-„Zeit mit dir verbringen. Jeder Tag kann unser letzter sein."
+„Zeit mit dir verbringen. Jeder Tag kann unser letzter sein.“
 
-„Das ist süß von dir", lächelt sie. „Komm, wir gehen zur unserer alten Bank am
-Hafen."
+„Das ist süß von dir“, lächelt sie. „Komm, wir gehen zur unserer alten Bank am
+Hafen.“

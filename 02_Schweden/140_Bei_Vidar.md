@@ -16,27 +16,13 @@
   "mode": "mainline",
   "illustrations": [
     "SWE_Stockholm_Eddie_kuesst_Vidar.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 
 Es ist spät, die Fenster der Stadt glitzern im Dunkel. Vidar schaut sich immer
-wieder um, so als würde er gleich erwischt. „Meine Eltern sind nicht da," sagt
-er schließlich, „komm mit."
+wieder um, so als würde er gleich erwischt. „Meine Eltern sind nicht da,“ sagt
+er schließlich, „komm mit.“
 
 Ich kenne das Haus schon, vom Hof, vom Waschhaus unten. Aber noch nie war ich
 drin. Mein Herz hämmert, als er die Tür aufschließt. Ein warmer Luftzug schlägt
@@ -50,11 +36,11 @@ als wäre das alles selbstverständlich. Ich fühle mich wie eine Einbrecherin i
 Paradies.
 
 Vidar sieht meinen Blick, wird rot. „Es ist… ich weiß, es ist viel. Ich hab das
-nie so…" Er bricht ab, senkt den Kopf.
+nie so…“ Er bricht ab, senkt den Kopf.
 
-Ich schüttle den Kopf. „Es ist unglaublich." Meine Stimme klingt ehrfürchtig,
+Ich schüttle den Kopf. „Es ist unglaublich.“ Meine Stimme klingt ehrfürchtig,
 obwohl ich es gar nicht will. „So was habe ich noch nie gesehen. Vielleicht mal
-im Fernsehen. Aber nicht echt."
+im Fernsehen. Aber nicht echt.“
 
 Er lächelt verlegen, kratzt sich im Nacken. Für einen Moment wirkt er selbst wie
 ein Fremder in diesem Haus.
@@ -69,10 +55,10 @@ Augen steigen. *Wie kann so viel Normalität existieren, während ich draußen i
 Dreck geschlafen habe?*
 
 Vidar setzt sich neben mich, die Schultern hochgezogen, als schäme er sich, mir
-das alles zu zeigen. „Es ist nur mein Zimmer," murmelt er.
+das alles zu zeigen. „Es ist nur mein Zimmer,“ murmelt er.
 
 Ich sehe ihn an, dann lege ich meine Hand auf seine. „Für mich ist es wie eine
-andere Welt."
+andere Welt.“
 
 Unsere Augen treffen sich. Und plötzlich ist die Scham weg, sowohl seine als
 auch meine. Alles, was bleibt, ist dieses Ziehen in meiner Brust, dieses Brennen
@@ -89,9 +75,9 @@ Wir sitzen auf seinem Bett, die Schultern dicht aneinander, unsere Finger
 verschränkt. Der Kuss, der uns eben noch überrascht hat, brennt immer noch nach.
 Ich spüre, wie Vidar zittert, wie er kaum weiß, wohin mit sich.
 
-Ich löse mich ein Stück, sehe ihm in die Augen. „Es ist okay," flüstere ich.
-„Ich weiß, dass du's noch nie…" Er nickt hastig, errötet, und ich lege meine
-Hand auf seine Wange. „Ich bin hier. Ich zeige dir, wie."
+Ich löse mich ein Stück, sehe ihm in die Augen. „Es ist okay,“ flüstere ich.
+„Ich weiß, dass du's noch nie…“ Er nickt hastig, errötet, und ich lege meine
+Hand auf seine Wange. „Ich bin hier. Ich zeige dir, wie.“
 
 Wir küssen uns wieder, diesmal langsamer. Ich führe, gebe den Rhythmus, spüre,
 wie er sich entspannt, wie er mutiger wird. Seine Hände finden meinen Rücken,
@@ -121,7 +107,7 @@ und ich weiß: Für ihn war es das erste Mal. Für mich ist es das erste Mal, da
 es wirklich zählt.
 
 Ich lege meinen Kopf auf seine Brust, höre sein Herz, gleichmäßig und stark.
-„Vidar," flüstere ich. „Das hier… das war Liebe."
+„Vidar,“ flüstere ich. „Das hier… das war Liebe.“
 
 Und als ich die Augen schließe, weiß ich: Ich habe ihn nicht nur geküsst, ich
 habe ihn in mich aufgenommen -- in meinen Körper, in mein Herz, in mein Leben.
@@ -184,15 +170,15 @@ nicht nur nachts, nicht nur wenn alles brennt. Sondern auch jetzt, im ganz
 normalen Morgenlicht.
 
 Langsam öffnet er die Augen. Blinzelt. Und dann dieses Lächeln, halb
-verschlafen, halb überrascht. „Eddie…" flüstert er, als könnte er's nicht
+verschlafen, halb überrascht. „Eddie…“ flüstert er, als könnte er's nicht
 glauben.
 
-„Guten Morgen," sage ich, und küsse ihn noch einmal auf die Stirn.
+„Guten Morgen,“ sage ich, und küsse ihn noch einmal auf die Stirn.
 
 Er legt den Arm um mich, zieht mich sanft zu sich. „So bin ich noch nie geweckt
-worden," murmelt er, und sein Gesicht wird rot, selbst im Dämmerlicht.
+worden,“ murmelt er, und sein Gesicht wird rot, selbst im Dämmerlicht.
 
-Ich kichere, lege meinen Kopf an seine Schulter. „Dann gewöhn dich dran."
+Ich kichere, lege meinen Kopf an seine Schulter. „Dann gewöhn dich dran.“
 
 Und wir bleiben so liegen, eng verschlungen, während draußen die Welt langsam
 erwacht.
@@ -203,11 +189,11 @@ die ich sonst nur von Westpaketen oder Schaufenstern kenne. Käse in allen
 Farben, Butter, Joghurt, Wurst, ein ganzer Berg von Südfrüchten, sogar eine
 Schachtel mit Erdbeeren -- im Winter!
 
-Ich bleibe wie angewurzelt stehen. „Ihr habt… das alles einfach so?" frage ich
+Ich bleibe wie angewurzelt stehen. „Ihr habt… das alles einfach so?“ frage ich
 leise, fast ehrfürchtig.
 
 Vidar sieht verlegen zu Boden. „Meine Eltern kaufen viel. Manches wird nicht mal
-gegessen." Er sagt es so, als schäme er sich, und für einen Moment merke ich,
+gegessen.“ Er sagt es so, als schäme er sich, und für einen Moment merke ich,
 wie verschieden unsere Welten sind. Doch gleichzeitig berührt es mich, dass er
 es genauso sieht wie ich -- dass er nicht stolz, sondern eher still betroffen
 ist.
@@ -219,19 +205,19 @@ einem Jungen frühstückt.
 
 Dann höre ich es. Ein Jaulen, erst leise, dann drängender. Streuner.
 
-„Oh Gott!" Ich springe auf, stoße beinahe meinen Stuhl um. „Ich hab ihn draußen
-vergessen!" Das schlechte Gewissen sticht mir ins Herz.
+„Oh Gott!“ Ich springe auf, stoße beinahe meinen Stuhl um. „Ich hab ihn draußen
+vergessen!“ Das schlechte Gewissen sticht mir ins Herz.
 
-Vidar lächelt, beruhigend. „Dann holen wir ihn rein."
+Vidar lächelt, beruhigend. „Dann holen wir ihn rein.“
 
 Wir öffnen die Hintertür, und Streuner stürmt sofort herein, der Schwanz schlägt
 wie ein Besen, er läuft im Kreis, bis er mich endlich gefunden hat. Ich knie
 mich hin, er springt an mir hoch, leckt mir übers Gesicht, so als hätte ich ihn
-eine Woche lang allein gelassen. „Tut mir leid, Kleiner," flüstere ich, drücke
+eine Woche lang allein gelassen. „Tut mir leid, Kleiner,“ flüstere ich, drücke
 mein Gesicht in sein Fell.
 
 Vidar lacht leise und holt eine Schale, füllt sie mit Wasser und legt sogar ein
-Stück Wurst hinein. „Er gehört doch zu dir," sagt er, als wäre es das Normalste
+Stück Wurst hinein. „Er gehört doch zu dir,“ sagt er, als wäre es das Normalste
 der Welt.
 
 Und da, während Streuner gierig schmatzt und ich seine weiche Ohren kraule,

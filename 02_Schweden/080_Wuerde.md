@@ -17,20 +17,6 @@
   "illustrations": [
     "SWE_Stockholm_Eddie_hat_geduscht.png"
   ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  },
   "todo": "dieser und der nächste Abschnitt passen nicht zusammen"
 }
 ```
@@ -93,8 +79,8 @@ Mal seit Monaten fühlt es sich an, als hätte ich einen Weg. Nicht nur ein
 Überleben von Tag zu Tag. Sondern einen Ausweg. Einen wirklichen Ausweg.
 
 Er zeigt mir das Waschhaus im Keller. Hell, sauber, mit Waschmaschinen, einem
-Trockner, Regalen voller Waschmittel. Ich schlucke. „Du kannst dir Zeit lassen",
-sagt er sanft, „ich lass dich allein." Er verschwindet, und ich bleibe zurück,
+Trockner, Regalen voller Waschmittel. Ich schlucke. „Du kannst dir Zeit lassen“,
+sagt er sanft, „ich lass dich allein.“ Er verschwindet, und ich bleibe zurück,
 inmitten dieser glänzenden, fremden Ordnung.
 
 Ich packe meine lumpigen Klamotten aus. Die Nähte sind ausgeleiert, sie stinken,
@@ -108,7 +94,7 @@ das kalte Wasser über mich laufen. Es brennt auf meiner Haut, aber es ist ein
 brennendes Glück. Ich reibe und schrubbe, bis meine Finger wehtun.
 
 Da geht die Tür auf. Ich drehe mich erschrocken um. Vidar steht im Rahmen, seine
-Augen weiten sich, er stößt ein hastiges „Oh!" aus, reißt den Blick weg und
+Augen weiten sich, er stößt ein hastiges „Oh!“ aus, reißt den Blick weg und
 stolpert hinaus. Mein Herz rast, aber nicht nur vor Scham. Da ist etwas anderes,
 ein warmes, fremdes Gefühl, das mich fast noch mehr zittern lässt als das kalte
 Wasser.

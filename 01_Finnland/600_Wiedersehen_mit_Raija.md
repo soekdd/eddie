@@ -16,21 +16,7 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Vaasa_Eddie_kuesst_Sini.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 
@@ -38,9 +24,9 @@ Wir liegen im Dunkeln auf Sinis Sofa. Die Uhr auf dem Küchentisch tickt leise,
 als wolle sie uns verhöhnen. Jedes Ticken sagt: noch eine Minute weniger. Noch
 eine Nacht, die wir verlieren.
 
-„Was, wenn wir einfach… morgen einen anderen Bus probieren?" frage ich.\ „Und
-wenn die wieder fragen, wie alt du bist?"\ „Sag ich was anderes."\ „Die schauen
-in deinem Pass, Eddie. Das bringt doch nichts."
+„Was, wenn wir einfach… morgen einen anderen Bus probieren?“ frage ich.\ „Und
+wenn die wieder fragen, wie alt du bist?“\ „Sag ich was anderes.“\ „Die schauen
+in deinem Pass, Eddie. Das bringt doch nichts.“
 
 Wir reden uns fest. Ich schlage vor, dass ich mich als Austauschschülerin
 ausgebe, Sini als meine Cousine. Sie sagt, wir würden auffliegen, noch bevor wir
@@ -48,8 +34,8 @@ auf der Fähre sind. Sie schlägt vor, wir könnten mit einem Fischerboot rüber
 Ich male mir aus, wie wir im Nebel treiben, bis uns ein Patrouillenboot
 aufgreift.
 
-„Was bleibt uns denn?" frage ich irgendwann ins Dunkel und beantworte es mir
-selbst: „Kirche. Vielleicht noch mal Kirchenasyl."
+„Was bleibt uns denn?“ frage ich irgendwann ins Dunkel und beantworte es mir
+selbst: „Kirche. Vielleicht noch mal Kirchenasyl.“
 
 Ich will lachen, aber es bleibt in meiner Kehle stecken. Wir drehen uns hin und
 her, jeder Plan wird geboren und stirbt innerhalb von Minuten. Die Müdigkeit
@@ -62,30 +48,30 @@ auf, scharf gegen den grauen Himmel. Ich frage mich, ob dort drinnen jemand
 wirklich bereit wäre, mich aufzunehmen, auch wenn die Polizei klopft.
 
 Dann fällt mein Blick auf einen kleinen Opel, hellblau, mit der Motorhaube noch
-vom Tau glänzend. Ich bleibe stehen. „Den kenn ich."\ Sini folgt meinem Blick.
-„Dein Traumauto?"\ „Nein. Raijas Auto."
+vom Tau glänzend. Ich bleibe stehen. „Den kenn ich.“\ Sini folgt meinem Blick.
+„Dein Traumauto?“\ „Nein. Raijas Auto.“
 
 Ich sehe mich um -- und da ist sie. Keine zehn Meter entfernt, an der Ecke, wo
 der Gehweg zum Park abbiegt. Sie trägt die gleiche Lederjacke wie zuletzt an
 unserem gemeinsamen Sonntag in Jyväskylä.
 
-„Raija!" Meine Stimme klingt lauter, als ich wollte. Sie dreht sich um, und dann
+„Raija!“ Meine Stimme klingt lauter, als ich wollte. Sie dreht sich um, und dann
 ist da dieses Lächeln, das mich sofort wärmt.
 
 Wir rennen fast zu ihr. Sie zieht mich in eine Umarmung, fest, so wie man es nur
 macht, wenn man wirklich froh ist, jemanden wiederzusehen. Sini steht daneben,
-lächelt uns an.\ „Das ist also die berühmte Raija", sagt sie.\ „Und das ist
-Sini", sage ich stolz zu Raija.
+lächelt uns an.\ „Das ist also die berühmte Raija“, sagt sie.\ „Und das ist
+Sini“, sage ich stolz zu Raija.
 
 Wir stehen noch keine fünf Minuten zusammen, da fällt der Schatten auf das
 Gespräch.\ „Ich hab gestern was im Funk gehört, Eddie. Von dir. Am
-Fährterminal."\ Mir wird schlagartig kalt. „Wenn *du* es gehört hast…"\ „…dann
-hat es Mielke auch", beendet sie den Satz für mich.
+Fährterminal.“\ Mir wird schlagartig kalt. „Wenn *du* es gehört hast…“\ „…dann
+hat es Mielke auch“, beendet sie den Satz für mich.
 
 Die Luft zwischen uns wird schwer. Kein Lächeln mehr. Nur die Stille, in der wir
 alle wissen, was das heißt. Wir schauen uns um.
 
-„Komm", sagt Raija. „Nicht hier."\ Wir lassen ihr Auto stehen. Keiner sagt,
+„Komm“, sagt Raija. „Nicht hier.“\ Wir lassen ihr Auto stehen. Keiner sagt,
 warum -- aber wir wissen es alle. Zu auffällig, zu nah am Kirchturm, zu leicht
 zu finden.
 
@@ -100,30 +86,30 @@ die langsam Form annimmt.
 
 Sini stützt den Kopf in die Hand. „Es gibt hier Zöllner, die alles ganz genau
 nehmen… und andere, die einer hübschen jungen Frau schon mal einen Gefallen
-tun." Sie zieht eine Augenbraue hoch, als wollte sie mir sagen, wer die „hübsche
-junge Frau" in diesem Plan wohl wäre. Ich starre zurück, versuche nicht rot zu
+tun.“ Sie zieht eine Augenbraue hoch, als wollte sie mir sagen, wer die „hübsche
+junge Frau“ in diesem Plan wohl wäre. Ich starre zurück, versuche nicht rot zu
 werden.
 
-„Und dann gibt's noch die Neuen", sagt sie. „Die kennen die Regeln nicht so gut.
+„Und dann gibt's noch die Neuen“, sagt sie. „Die kennen die Regeln nicht so gut.
 Ich kann den Dienstplan besorgen. Wenn wir den richtigen erwischen, kommen wir
-vielleicht durch."
+vielleicht durch.“
 
 Raija, die bisher schweigend zugehört hat, schüttelt den Kopf. „Dieser
 Busfahrer-Plan war Mist. Wir machen das sauberer. Zwei Tickets -- eins hin und
 zurück für mich, eins ohne Rückfahrt für dich. Ich begleite dich in Uniform, wie
-bei einer Gefangenenüberführung."\ „Klingt… offiziell", sage ich und versuche,
+bei einer Gefangenenüberführung.“\ „Klingt… offiziell“, sage ich und versuche,
 mich nicht zu sehr in das Bild hineinzusteigern, wie ich in Handschellen, aber
 frei, nach Schweden fahre.
 
-„Offiziell reicht nicht", sagt Raija. „Ich brauch was auf Papier."
+„Offiziell reicht nicht“, sagt Raija. „Ich brauch was auf Papier.“
 
-Da fällt es mir ein. „Was, wenn wir… eins dieser Fax schicken?"\ Die beiden
+Da fällt es mir ein. „Was, wenn wir… eins dieser Fax schicken?“\ Die beiden
 sehen mich an, als hätte ich vorgeschlagen, wir fliegen einfach mit einem
-Heißluftballon über die Ostsee. „Ein Fax?", fragt Sini.\ „Ja! Die Dinger sind
-neu, sehen furchtbar wichtig aus. Jede Polizeistation in Finnland hat so eines."
-"Na du weißt ja Sachen", lacht Sini. "Wir schreiben einen Auslieferungsauftrag,
+Heißluftballon über die Ostsee. „Ein Fax?“, fragt Sini.\ „Ja! Die Dinger sind
+neu, sehen furchtbar wichtig aus. Jede Polizeistation in Finnland hat so eines.“
+„Na du weißt ja Sachen“, lacht Sini. „Wir schreiben einen Auslieferungsauftrag,
 auf Schwedisch, an dich, Raija. Von einer erfundenen Behörde. Ist dein
-schwedisch gut genug, Sini?" Sini nickt.
+schwedisch gut genug, Sini?“ Sini nickt.
 
 Eine Stunde später klappert Sinis alte Schreibmaschine. Ich tippe mit zwei
 Fingern, Sini übersetzt ins Schwedische, Raija kontrolliert jeden Satz wie eine
@@ -155,7 +141,7 @@ springe über meinen eigenen Schatten, lege meine Hände an ihre Wangen und küs
 sie -- lange, mitten im Lärm und im Neonlicht. Sie erwidert es, als hätten wir
 alle Zeit der Welt.
 
-Raija grinst. „Da habe ich wohl was verpasst?"
+Raija grinst. „Da habe ich wohl was verpasst?“
 
 Dann drehe ich mich um und gehe, ohne mich noch einmal umzusehen. Die Überfahrt
 beginnt. Keine Fragen, keine Komplikationen mehr. Nur das Rauschen des Wassers
@@ -189,74 +175,74 @@ Aber sie hat mir etwas mitgegeben, das nicht an irgendeiner Grenze hängenbleibt
 Raija lehnt sich neben mich an die Reling, schaut lange aufs Wasser, als würde
 sie dort unten die passenden Worte finden.
 
-„Eddie…", sagt sie schließlich, „als die Stasi vor unserer Wohnung auftauchte,
-warst du schon weg. Wie konntest du das wissen?" Ihre Stimme ist ruhig, aber
+„Eddie…“, sagt sie schließlich, „als die Stasi vor unserer Wohnung auftauchte,
+warst du schon weg. Wie konntest du das wissen?“ Ihre Stimme ist ruhig, aber
 dahinter liegt etwas Hartes -- Sorge oder vielleicht auch leise Wut.
 
 Ich atme durch, blicke auf meine Hände, die auf dem kalten Metall liegen. „Ich
-dachte, du weißt es. Wegen Jorma."
+dachte, du weißt es. Wegen Jorma.“
 
-„Hat er dich gewarnt? Oder hast du es geahnt, wegen seiner Sprüche?"
+„Hat er dich gewarnt? Oder hast du es geahnt, wegen seiner Sprüche?“
 
-„Nein", sage ich. „Wegen seiner Hände."
+„Nein“, sage ich. „Wegen seiner Hände.“
 
 Es dauert ein paar Sekunden, bis sie versteht. Ihre Stirn zieht sich zusammen.
-"Oh, nein!" ruft sie. "Was genau ist passiert?"
+„Oh, nein!“ ruft sie. „Was genau ist passiert?“
 
-"Als er am Morgen zurückkam, … Er war betrunken und immer noch sauer auf mich.
-Da er keine Argumente mehr hatte, fing ich mir ne Ohrfeige von ihm."
+„Als er am Morgen zurückkam, … Er war betrunken und immer noch sauer auf mich.
+Da er keine Argumente mehr hatte, fing ich mir ne Ohrfeige von ihm.“
 
 Raija stößt einen leisen, bitteren Laut aus. „Verdammt. Und ich war nicht da.
-Hätte ihn rausschmeißen sollen, längst…" Sie schüttelt den Kopf, als wollte sie
+Hätte ihn rausschmeißen sollen, längst…“ Sie schüttelt den Kopf, als wollte sie
 den Gedanken loswerden.
 
-„Ich bin dir damals gefolgt", sage ich leise. „Mit dem Zug bis Tampere. Bin
-sogar bis vor die Polizeistation gelaufen, wo du gearbeitet hast."
+„Ich bin dir damals gefolgt“, sage ich leise. „Mit dem Zug bis Tampere. Bin
+sogar bis vor die Polizeistation gelaufen, wo du gearbeitet hast.“
 
-„Was? Du warst da, in Tampere? Und warum bist du nicht reingekommen?"
+„Was? Du warst da, in Tampere? Und warum bist du nicht reingekommen?“
 
 „Weil ich dachte, dass mich die Polizei dann wieder ausliefert. Also bin ich
 einfach los, zu Fuß Richtung Vaasa. Ich hatte mir fest vorgenommen, dir zu
-schreiben, aber dann kam so viel dazwischen."
+schreiben, aber dann kam so viel dazwischen.“
 
 Raija blinzelt mich an, als hätte sie sich verhört. „Von Tampere bis Vaasa? Das
-sind doch dreihundert Kilometer!"
+sind doch dreihundert Kilometer!“
 
-„Eher vierhundert", erwidere ich leise. „Es war kein einfacher Weg. Als Sini
-mich fand, war ich halb tot."
+„Eher vierhundert“, erwidere ich leise. „Es war kein einfacher Weg. Als Sini
+mich fand, war ich halb tot.“
 
-Raija presst die Lippen zusammen, ihre Augen glänzen. „Mein Gott, Eddie…"
+Raija presst die Lippen zusammen, ihre Augen glänzen. „Mein Gott, Eddie…“
 
 Sie sieht mich an, als müsste sie neu lernen, wer ich eigentlich bin. „Ich habe
 später erfahren, dass einer von Jormas Freunden bei der SKOL Kontakt zur Stasi
-aufgenommen hat."
+aufgenommen hat.“
 
 Mir wird kurz kalt, obwohl der Wind heute mild ist. „Also wusste Jorma gar
-nicht, dass die Stasi kommt?"
+nicht, dass die Stasi kommt?“
 
 Raija seufzt. „Nein. Jorma war dumm, unvorsichtig, hat gequatscht. Wollte sich
 vor einen Kumpels wichtig machen. Er wusste nicht, dass er dich damit verrät.
 Aber unentschuldbar bleibt es trotzdem. Also warst du schon weg, als die Männer
-der Stasi vor unserer Wohnung standen… Glück im Unglück."
+der Stasi vor unserer Wohnung standen… Glück im Unglück.“
 
 Wir schweigen. Die Ostsee zieht unter uns vorbei wie ein endloses Fließband.
-„Komisch, wie das Schicksal manchmal funktioniert", murmelt Raija. „Als ich die
+„Komisch, wie das Schicksal manchmal funktioniert“, murmelt Raija. „Als ich die
 Ohrfeige fing, habe ich nur trotzig reagiert und bin ohne Plan einfach nur raus
-aus der Wohnung. Und jetzt seh ich, dass sie mich gerettet hat."
+aus der Wohnung. Und jetzt seh ich, dass sie mich gerettet hat.“
 
 Ich beiße mir auf die Lippe. „Das erklärt aber, warum sie so schnell an deiner
 Wohnung waren. Aber hast du eine Ahnung, wie sie auch so schnell in der Kirche
-sein konnten?"
+sein konnten?“
 
 Raija nickt langsam. „Das habe ich mich auch gefragt und mit meinem Kollegen
 durchdiskutiert. Wir denken, die Männer aus der Botschaft waren während der
-ganzen IMO in Joutsa und haben den Bussteig überwacht."
+ganzen IMO in Joutsa und haben den Bussteig überwacht.“
 
-„Ja, einen anderen Weg raus aus der Stadt gibt es ja nicht…"
+„Ja, einen anderen Weg raus aus der Stadt gibt es ja nicht…“
 
-„Genau. Und die Kirche – also Kirchenasyl – war der nächste logische Gedanke."
+„Genau. Und die Kirche – also Kirchenasyl – war der nächste logische Gedanke.“
 
-„Mein Gott, sie waren die ganze Zeit in Joutsa…"
+„Mein Gott, sie waren die ganze Zeit in Joutsa…“
 
 Wir stehen da, jede in ihren eigenen Gedanken. Und zwischen all dem Schmerz und
 der Schwere bleibt dieser kleine, helle Punkt – dass selbst eine scheinbare

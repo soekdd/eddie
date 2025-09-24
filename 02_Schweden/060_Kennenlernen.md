@@ -14,20 +14,6 @@
   "mood": "zögernd → erleichtert, wiedergewonnene Würde",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  },
   "todo": "dieser und der vorherige Abschnitt passen nicht zusammen"
 }
 ```
@@ -72,9 +58,9 @@ würde ich die Sachen zufällig finden. Aber jetzt… jetzt weiß ich, was es
 bedeutet.
 
 Ich streiche dem Hund durchs Fell, er hebt träge den Kopf und schaut mich mit
-diesen treuen Augen an. „Wir müssen ihn finden", flüstere ich. Meine Stimme
+diesen treuen Augen an. „Wir müssen ihn finden“, flüstere ich. Meine Stimme
 zittert, aber ich spüre die Entschlossenheit. „Er ist unsere Chance. Unsere
-einzige."
+einzige.“
 
 Zum ersten Mal seit Monaten fühlt es sich an, als hätte ich einen Weg. Nicht nur
 ein Überleben von Tag zu Tag, nicht nur diese graue Zwischenwelt, in der ich

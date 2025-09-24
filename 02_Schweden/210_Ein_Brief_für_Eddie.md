@@ -14,20 +14,6 @@
   "mood": "",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  },
   "todo": "Im Brief liegen auch Fotos"
 }
 ```

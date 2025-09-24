@@ -1,4 +1,4 @@
-# „Schlumpfine"
+# „Schlumpfine“
 
 ```json
 {
@@ -12,21 +12,7 @@
   "synopsis": "Eddie und Sini sitzen am See, sprechen über ihre Namen, vergleichen Sini mit Schlumpfine und Eddie erzählt die Geschichte ihres Namens.",
   "mood": "warm, playful, intimate",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "mainline"
 }
 ```
 
@@ -38,61 +24,61 @@ Wetter, an den Kanten splittert sie ein bisschen. Hinter uns riecht es nach
 Rauch -- irgendwo brennt wohl ein Lagerfeuer -- und nach den süßlich-harzigen
 Birken, die sich im Wind wiegen.
 
-„Dein Vater hat dich nicht Sini, sondern Sinikka genannt", sage ich, während ich
-meine Knie enger anziehe. „Was heißt das? Blaue Blume oder so was?"
+„Dein Vater hat dich nicht Sini, sondern Sinikka genannt“, sage ich, während ich
+meine Knie enger anziehe. „Was heißt das? Blaue Blume oder so was?“
 
 Sie zuckt nur leicht mit den Schultern, als ob die Antwort für sie keine große
 Sache wäre. „Ach nein. Das heißt 'kleines blaues Mädchen'. Ich mag es nicht und
-nenne mich daher nur Sini."
+nenne mich daher nur Sini.“
 
 Ich muss grinsen. „Das ist ja süß. Wie heißen diese lustigen kleinen blauen
 Zwerge auf Englisch? Wir nennen sie Schlümpfe. Meine Oma hat mir immer welche
 aus dem Westen mitgebracht – ich liebe diese kräftigen, glänzenden Farben und
 die vielen lustigen Berufe. Die Hartgummifiguren aus der DDR waren entweder
-Tiere oder Soldaten."
+Tiere oder Soldaten.“
 
 Sini verschränkt die Arme, die Stirn leicht gerunzelt. „Smurfs nennt man sie.
 Und ich weiß schon, worauf du hinauswillst: auf die Smurfette! Aber diesen
-Schlumpfine-Vergleich mag ich eigentlich gar nicht."
+Schlumpfine-Vergleich mag ich eigentlich gar nicht.“
 
 Ich ziehe die Beine an, sehe aufs Wasser und zucke lächelnd die Schultern. „Mir
 geht’s da anders. In meiner Matheklasse war ich fast immer das einzige Mädchen
 zwischen lauter Jungs. Genau deshalb hab ich mich oft wie Schlumpfine gefühlt –
 ein bisschen anders, manchmal allein, aber auch clever. Sie war für mich kein
 Klischee, sondern eher Beweis, dass man auch als Einzige im Haufen seinen Platz
-finden kann."
+finden kann.“
 
 Sini schnaubt. „Hm. Klingt nett, aber die Story hinter ihr ist halt mies.
 Gargamel hat Schlumpfine erschaffen, um die Schlümpfe verrückt zu machen. Und
 Papa Schlumpf musste sie erst zu diesem braven, blonden Mädchen machen. Zwei
-Männer, die bestimmen, was aus ihr wird. Boah, das ist so was von sexistisch."
+Männer, die bestimmen, was aus ihr wird. Boah, das ist so was von sexistisch.“
 
 Ich grinse frech. „Okay, fair point. Aber weißt du was? Dann schreiben wir die
 Geschichte einfach um. Ist ja im Grunde Literatur – und Literatur darf man
-biegen."
+biegen.“
 
 Sini blinzelt mich an, ihr Sidecut glänzt im Abendlicht. „Und wie genau biegen
-wir die?"
+wir die?“
 
 „So: Gargamel erschafft Schlumpfine unwiderstehlich schön und klug, wie sie nun
 mal ist. Aber anstatt Zwietracht zu säen, nimmt sie die kleinen blauen Typen an
 der Hand und führt sie. Sie bevorzugt keinen, bringt Ordnung rein, macht die
 Schlümpfe fast schon zu Gentlemen. Eine Frau, die die Männerwelt im Dorf einfach
-besser macht."
+besser macht.“
 
 Sini grinst breit, fast triumphierend. „Das gefällt mir! Eine Schlumpfine, die
 nicht zur Blondine verbogen wird, sondern die Bude regelt. Feministische
-Revolution im Pilzdorf."
+Revolution im Pilzdorf.“
 
 Ich nicke, mein Grinsen wird schief. „Und stell dir vor: kurze blonde Haare,
 rebellischer Blick – trotzdem liegen alle Schlümpfe flach. Nicht weil sie
-sabbern, sondern weil sie Respekt gelernt haben."
+sabbern, sondern weil sie Respekt gelernt haben.“
 
 Sini lacht schallend, hebt das Birkenblatt wie ein kleines Zepter. „Unsere
 Schlumpfine wäre unbesiegbar. Punkig, klug, gerecht – und kein Papa Schlumpf der
-Welt dürfte ihr reinreden."
+Welt dürfte ihr reinreden.“
 
-„Deal!", sage ich und strecke ihr die Faust hin. Wir boxen dagegen, als hätten
+„Deal!“, sage ich und strecke ihr die Faust hin. Wir boxen dagegen, als hätten
 wir gerade ein Manifest beschlossen.
 
 Wir lachen beide noch, der Wind spielt mit Sinis Haar, und für einen Moment
@@ -101,21 +87,21 @@ Schlümpfe inklusive.
 
 Dann lehnt Sini sich zurück, streckt die Beine aus, ihre weißen Turnschuhe
 wippen leicht. „Na gut, damit kann ich leben. Clever, schön und ein bisschen
-unbesiegbar – gefällt mir!" Sie dreht den Kopf zu mir, grinst schelmisch. „Aber
+unbesiegbar – gefällt mir!“ Sie dreht den Kopf zu mir, grinst schelmisch. „Aber
 jetzt reden wir mal über dich. Dein Name, Eddie – ist das nicht eigentlich ein
-Jungenname?"
+Jungenname?“
 
-„Eigentlich wollte mein Vater mich Ada nennen, nach Ada Lovelace", erzähle ich.\
+„Eigentlich wollte mein Vater mich Ada nennen, nach Ada Lovelace“, erzähle ich.\
 Sini guckt mich sofort an, die Augen glänzen. „Ada Lovelace? Klar kenne ich die!
 Ich weiß zwar nicht viel von Mathe oder Informatik, aber dass sie eine Pionierin
-war, finde ich richtig stark."
+war, finde ich richtig stark.“
 
 „Na ja, mein Vater fand es einfach beeindruckend, dass Ada Lovelace schon im 19.
 Jahrhundert komplexe Rechenmaschinen programmiert hat, lange bevor es Computer
-gab. Er wollte, dass ich eine Art Vorreiterin werde, so wie sie.", sage ich.
+gab. Er wollte, dass ich eine Art Vorreiterin werde, so wie sie.“, sage ich.
 „Nur leider kam er nie zum Einsatz. Denn als er im Standesamt den Namen 'Ada' zu
 Protokoll gab, fragte die Standesbeamtin:\ 'Ada? Das machen wir nicht, den Namen
-haben wir hier noch nie vergeben. Wie kommen Sie denn auf sowas?'" Ich versuchte
+haben wir hier noch nie vergeben. Wie kommen Sie denn auf sowas?'“ Ich versuchte
 für Sini den breiten sächsischen Dialekt irgendwie ins Englische zu übertragen.
 „'Ist eine britische Mathematikerin', soll mein Vater erwiderthaben.\ 'Ah, nee,
 die kenn ich nicht. Wollen Sie nicht 'ne sowjetische Mathematikerin nehmen,
@@ -130,15 +116,15 @@ gab es in der DDR auch eine Schauspielerin, die Edda hieß. Edda Dentges -- auf
 die konnte ich mich wenigstens berufen. Ada hingegen kannte wirklich niemand.
 
 Sini schiebt die Augenbrauen hoch. „Edda Göring? Echt jetzt? Das ist ja…
-irgendwie schräg."\ „Ja, oder? Aber hätte auch schlimmer kommen können weißt Du?
+irgendwie schräg.“\ „Ja, oder? Aber hätte auch schlimmer kommen können weißt Du?
 Von heute aus betrachtet kann ich froh sein, dass mein Vater weder Pe-la-ge-ya
-Po-lu-ba-ri-nova-Ko-chi-na" - ich spreche den Namen extra langsam aus und betone
-jede Silbe ,"eine russische Göttin der Hydrodynamik, noch Lyud-mila Kel-dysh,
-Mathematikprofessorin an der Moskauer Lomonossow-Universität, kannte." Sini
-lacht auf: \"Ja, das wäre endlos schlimmer." "Absolut" erwidere ich und lehne
+Po-lu-ba-ri-nova-Ko-chi-na“ - ich spreche den Namen extra langsam aus und betone
+jede Silbe,„eine russische Göttin der Hydrodynamik, noch Lyud-mila Kel-dysh,
+Mathematikprofessorin an der Moskauer Lomonossow-Universität, kannte.“ Sini
+lacht auf: \„Ja, das wäre endlos schlimmer.“ „Absolut“ erwidere ich und lehne
 mich zurück, „am Ende haben mich sowieso alle nur Eddie genannt, sogar die
-Lehrer."\ „Eddie?" Sini lacht. „Das klingt ja viel cooler. Wie ein belgischer
-Fußballspieler oder ein britischer Reggae-Sänger." Sina springt von der Bank auf
+Lehrer.“\ „Eddie?“ Sini lacht. „Das klingt ja viel cooler. Wie ein belgischer
+Fußballspieler oder ein britischer Reggae-Sänger.“ Sina springt von der Bank auf
 und tut so, als ob sie Fußballspielerin und Sängerin zugleich wäre. Ich falle
 vor Lachen beinahe von der Bank. Es ist so schön mit Sini Zeit zu verlieren. Der
 Wind weht mir den Geruch von Seealgen und Rauch in die Nase. Ich streiche über

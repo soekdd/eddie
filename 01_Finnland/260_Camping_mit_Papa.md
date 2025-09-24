@@ -14,7 +14,12 @@
   "synopsis": "Eddie erinnert sich beim Holzsammeln in Finnland an die geheimen Survival-Übungen, die ihr Vater mit ihr im Dresdner Wald geprobt hat. Feuer, Pilze, Unterstand, Wasser reinigen, Kompass, Verstecke, Nahrung, psychologische Stärke – alles war Vorbereitung für den Ernstfall.",
   "mood": "warm, nachdenklich, praktisch",
   "tense": "past, Eddies first-person perspective",
-  "mode": "flashback"
+  "mode": "flashback",
+  "proofreading":{
+    "Staerken": "Glaubwürdiger Hintergrund, erklärt Eddies Fähigkeiten. Kapitel verankert die Überlebensthemen.",
+    "Schwaechen": "Zuviel Lehrbuchton, zu glatte Erinnerung, zu wenig jugendliche Energie.",
+    "Fix": "Rotzgören-Sprache einbauen, Missgeschicke/Emotionen erwähnen, sachliche Listen verdichten."
+  }
 }
 ```
 

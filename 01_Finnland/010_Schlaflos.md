@@ -14,21 +14,7 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Joutsa_Bungalow.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 

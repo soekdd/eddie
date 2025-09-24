@@ -16,28 +16,14 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Vaasa_Sini_spielt_Luftgitarre.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 
 Wir kommen von der Brücke, Wind im Gesicht, das Wasser rauscht unter uns, und
 Sini riecht noch nach Hafen und Metall und einem Hauch Diesel. „Komm, heute führ
-ich dich aus", sagt sie und grinst so selbstsicher, dass mir das Herz klopft.
-Eine amerikanische Komödie, sagen alle, die sei „ganz großartig". Ich nicke, tue
+ich dich aus“, sagt sie und grinst so selbstsicher, dass mir das Herz klopft.
+Eine amerikanische Komödie, sagen alle, die sei „ganz großartig“. Ich nicke, tue
 cool, und innerlich schreie ich: Oh Gott, auf Englisch! Aber mein Englisch
 reicht inzwischen -- hoffe ich.
 
@@ -49,7 +35,7 @@ Süßzeug in durchsichtigen Schütten liegt. Die Wände wirken neuer als bei uns
 rote Polster, Messingkanten, hier und da blinkt eine Reklame. Irgendwo führt
 eine Tür zum kleinen Saal; wir gehen in den großen.
 
-Sini legt den Kopf schief. „Iso ämpäri?" -- ein großer Eimer? Ich lache und
+Sini legt den Kopf schief. „Iso ämpäri?“ -- ein großer Eimer? Ich lache und
 nicke. Sie bestellt den **größten** Eimer Popcorn, dazu zwei Becher Limo, und
 noch eine Tüte irgendwas mit Schokolade und Salzig-Lakritz. Wir tragen das wie
 zwei Bauarbeiter ihr Werkzeug, nur viel klebriger. In der Reihe mittig finde ich
@@ -68,14 +54,14 @@ als sei es ein Haustier.
 Ich esse. Und esse. Der Eimer schrumpft in rasender Geschwindigkeit, als wäre
 unten ein Loch. Das Popcorn ist warm, jedes Körnchen knackig, die Limo zu süß,
 aber ich trinke weiter, weil die Bläschen meine Zunge kitzeln. Sini greift mit
-den langen Fingern immer wieder rein, „tack", sagt sie im Scherz, und ich
-antwortete „please", als wären wir im englischen Unterricht. Nach vielleicht
+den langen Fingern immer wieder rein, „tack“, sagt sie im Scherz, und ich
+antwortete „please“, als wären wir im englischen Unterricht. Nach vielleicht
 fünf Minuten starre ich auf den **leeren** Eimer. Mein Bauch gluckert. Mein Kopf
 wird leicht.
 
-„Na, Genossin, Westluxus bekommen?", flüstert Sini und stupst mich mit der
+„Na, Genossin, Westluxus bekommen?“, flüstert Sini und stupst mich mit der
 Schulter. Ich presse die Lippen zusammen, damit ich nicht aufstöhne, lache aber,
-weil sie so liebevoll frech ist. „Mir ist… ein bisschen schlecht", flüstere ich
+weil sie so liebevoll frech ist. „Mir ist… ein bisschen schlecht“, flüstere ich
 zurück. Sie zieht eine Grimasse, die sagt: Hätte ich dir auch vorher sagen
 können, Kleine. Dann legt sie mir kurz die Hand aufs Knie, als wäre das die
 beste Medizin.
@@ -90,12 +76,12 @@ Becher, vergesse den süßen Knoten im Magen, vergesse fast, dass ich aus einem
 Land komme, in dem Lachen manchmal falsch ist, wenn es am falschen Ort passiert.
 Hier ist es richtig. Hier dürfen wir.
 
-Auf der Leinwand brüllt Biff: „Make like a tree and get outta here!" Der Saal
+Auf der Leinwand brüllt Biff: „Make like a tree and get outta here!“ Der Saal
 lacht. Ich nicht. Ich beuge mich zu Sini. „Was soll der Satz -- und was ist
-falsch daran?"
+falsch daran?“
 
 Sini flüstert: „Eigentlich heißt's ‚make like a tree and **leave**'---Wortspiel:
-*leave* wie *leaf*."\ Es macht sofort *klick*---und ich pruste los, viel zu
+*leave* wie *leaf*.“\ Es macht sofort *klick*---und ich pruste los, viel zu
 laut, viel zu spät. Köpfe drehen sich, Stirnen runzeln sich, irgendwer räuspert.
 Ich presse mir die Hand vor den Mund, aber das macht's nur schlimmer; Sini fängt
 an zu glucksen, ich kicher nach, dann wir beide, schuldbewusst und glücklich wie
@@ -112,49 +98,49 @@ Beat.
 Ich fange an zu lachen. Erst leise, dann lauter, und plötzlich lache ich so
 sehr, dass mir die Tränen laufen. Sini wirft den Kopf zurück, macht den letzten
 *Tschring!* in die Luft, und im Halbdunkel klatschen wirklich ein paar Leute --
-erst zögerlich, dann richtig. Jemand ruft „Jatka - Zugabe!", der Mann am Rand
-pfeift anerkennend, und irgendwo zischt ein „pssst!", aber selbst das klingt
+erst zögerlich, dann richtig. Jemand ruft „Jatka - Zugabe!“, der Mann am Rand
+pfeift anerkennend, und irgendwo zischt ein „pssst!“, aber selbst das klingt
 freundlich. Sini verbeugt sich übertrieben tief, lässt sich in den Sitz fallen,
 atmet heiß und glücklich, und ich kann gar nicht mehr aufhören zu kichern.
 Unsere Schultern stoßen gegeneinander, die Leinwand bebt im Lichtkegel, Marty
-schreit „This is an oldie…", und ich denke: Wenn Freiheit ein Geräusch hat, dann
+schreit „This is an oldie…“, und ich denke: Wenn Freiheit ein Geräusch hat, dann
 klingt sie genau so.
 
 Als wir später aus dem Adams treten, sitzt der Popcornberg noch schwer in mir,
 aber die Luft draußen ist kühl und salzig, und die Stadt blinkt. Sini hakt sich
-bei mir ein. „Also, Englisch bestanden?" -- „Mit Auszeichnung", behaupte ich,
+bei mir ein. „Also, Englisch bestanden?“ -- „Mit Auszeichnung“, behaupte ich,
 und sie lacht.
 
 Wir stolpern aus dem Adams in die Augustluft, die Kauppi blinkt wie ein
 Laufsteg. Sini stellt sich breitbeinig hin, reißt die Augen auf und ruft mit
-Doktor-Pathos: „**Great Scott!**" Ich antworte sofort, tief und dramatisch:
-„**This is heavy.**" Wir fallen ineinander vor Lachen, zwei Schatten auf dem
+Doktor-Pathos: „**Great Scott!**“ Ich antworte sofort, tief und dramatisch:
+„**This is heavy.**“ Wir fallen ineinander vor Lachen, zwei Schatten auf dem
 Pflaster.
 
-Sini hebt den Finger wie ein verrückter Professor: „**1.21 gigawatts!**"\ Ich
-klopfe mir gegen die Stirn: „**Hello? McFly?**" -- und sie spielt mit, stupst
+Sini hebt den Finger wie ein verrückter Professor: „**1.21 gigawatts!**“\ Ich
+klopfe mir gegen die Stirn: „**Hello? McFly?**“ -- und sie spielt mit, stupst
 mir die Stirn zurück. Dann versuche ich feierlich Martys Tonfall: „**Roads?
-Where we're going, we don't need roads.**" Ich versemmle die Betonung, wir
+Where we're going, we don't need roads.**“ Ich versemmle die Betonung, wir
 prusten, und Sini legt noch einen drauf: „Und jetzt richtig: **Make like a tree
-and leave.**" Wir quietschen vor Kichern, als hätten wir den Witz gerade neu
+and leave.**“ Wir quietschen vor Kichern, als hätten wir den Witz gerade neu
 erfunden.
 
 Jetzt platzt die Schwärmerei aus mir heraus: „Er ist klein -- und trotzdem
-größer als alle anderen auf der Leinwand", sage ich. „Wie er läuft! Dieses
+größer als alle anderen auf der Leinwand“, sage ich. „Wie er läuft! Dieses
 schnelle, federnde… als würde er dauernd auf einem unsichtbaren Skateboard
-stehen."\ Sini nickt heftig. „Und sein Timing. Er wirft nur einen Blick -- zack,
-Punktlandung. Ich fühl's bis in die Zehen."\ „Seine Stimme", sage ich. „Dieses
+stehen.“\ Sini nickt heftig. „Und sein Timing. Er wirft nur einen Blick -- zack,
+Punktlandung. Ich fühl's bis in die Zehen.“\ „Seine Stimme“, sage ich. „Dieses
 leicht heisere, freche. Und wie er von Panik zu Mut springt, ohne unglaubwürdig
-zu wirken" "Und seine blauen Augen!" schwärme ich weiter, "kannst Du Dich noch
+zu wirken“ „Und seine blauen Augen!“ schwärme ich weiter, „kannst Du Dich noch
 an diesen Peter erinnern, von dem ich Dir erzählt habe, der Deutsch? Solche
-Augen waren das!" "Ach, nee" lacht Sini ungläubig und macht weiter "Dieser
+Augen waren das!“ „Ach, nee“ lacht Sini ungläubig und macht weiter „Dieser
 Blick! Dieses ‚Ich pack das schon'-Leuchten. Ich schwöre, der könnte eine
-Einkaufsliste vorlesen und ich würde weinen und klatschen."\ Ich lache. „Er ist
+Einkaufsliste vorlesen und ich würde weinen und klatschen.“\ Ich lache. „Er ist
 wie… Freiheit in Turnschuhen. Wenn er rennt, renne ich mit. Wenn er stolpert,
-steh' ich wieder auf."\ Sini schnaubt. „Er ist mein neuer Maßstab. Wer mich
-daten will, muss erst mal mit Marty McFly Schritt halten."\ „Dann tut's mir leid
-für Vaasa", sage ich und hake mich ein. „Denn an **Michael J. Fox** kommt heute
-niemand vorbei."
+steh' ich wieder auf.“\ Sini schnaubt. „Er ist mein neuer Maßstab. Wer mich
+daten will, muss erst mal mit Marty McFly Schritt halten.“\ „Dann tut's mir leid
+für Vaasa“, sage ich und hake mich ein. „Denn an **Michael J. Fox** kommt heute
+niemand vorbei.“
 
 Wir gehen weiter, wiederholen unsere Lieblingsstellen, werfen uns die Sätze zu
 wie Bälle. Jeder Laternenfleck auf dem Pflaster ist ein kleiner Zeitsprung, jede

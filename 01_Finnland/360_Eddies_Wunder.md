@@ -14,20 +14,6 @@
   "mood": "reflektierend, dankbar, nach innen gewandt",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  },
   "todo": "konkrete Etappe bennen"
 }
 ```

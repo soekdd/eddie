@@ -19,21 +19,7 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Joutsa_Raija_beschuetzt_Eddie.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 

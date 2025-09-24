@@ -77,7 +77,7 @@ meinem Leben reich.
 Ich renne durch Stockholm, die Lichter der Weihnachtszeit tanzen in den
 Schaufenstern. Zum ersten Mal sehe ich sie nicht wie eine Fremde, sondern wie
 eine, die sich auch etwas leisten kann. Zwischen Glas und Glitzer entdecke ich
-den Laden. "Tyska Julboden", so gut ist mein Schedisch gerade, um das als
+den Laden. „Tyska Julboden“, so gut ist mein Schedisch gerade, um das als
 Deutscher Weihnachtsladen zu übersetzen. Ein Schaufenster voller Holzfiguren,
 Nussknacker mit strengem Blick, Engelchen, und dazwischen – Räuchermänner.
 

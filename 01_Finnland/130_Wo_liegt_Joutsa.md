@@ -17,20 +17,6 @@
   "illustrations": [
     "DDR_Dresden_Eddie_versteckt_die_Karten.png"
   ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  },
   "todo": "Eddie erfährt erst am Flughafen Helsinki, wo genau die Reise hingeht."
 }
 ```
@@ -57,12 +43,12 @@ Abkürzungen wie in einem Geheimcode. Dann malte ich die Hauptstraßen und
 Bahnlinien ab, so genau, dass ich sie später noch vor Augen hatte, wenn ich die
 Augen schloss.
 
-Zuhause nahm mein „Fluchtblock" Gestalt an. Nach außen ein stinknormaler
+Zuhause nahm mein „Fluchtblock“ Gestalt an. Nach außen ein stinknormaler
 Mathe-Übungsblock. Doch zwischen den Aufgaben verbargen sich die Wege in die
 Freiheit. Die Karten durfte ich dort nicht abmalen -- das wäre zu auffällig
 gewesen. Also verwandelte ich sie in Geometrie. So bildeted drei wichtige Städte
 ein Dreieck, die Seiten für Straßen, die Winkel für Abzweigungen. Wer
-reingeschaut hätte, hätte nur Aufgaben wie „Berechne den Winkel bei A" gesehen.
+reingeschaut hätte, hätte nur Aufgaben wie „Berechne den Winkel bei A“ gesehen.
 Aber für mich war es ein kleiner Atlas.
 
 Mein Vater half mir dabei, ohne viele Worte. Er wusste, was ich da tat. Manchmal

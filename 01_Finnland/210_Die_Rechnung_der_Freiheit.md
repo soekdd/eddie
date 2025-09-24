@@ -12,21 +12,7 @@
   "synopsis": "Raija erklärt Eddie, dass Helsinki zu gefährlich ist, und rät ihr, nach Schweden zu fliehen. Eddie verrät stolz, dass sie durch Poker genug Geld hat, um die Reise selbst zu bezahlen.",
   "mood": "tense but hopeful",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "mainline"
 }
 ```
 

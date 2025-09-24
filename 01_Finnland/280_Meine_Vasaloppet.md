@@ -16,21 +16,7 @@
   "synopsis": "Eddie erinnert sich an die Vasaloppet-Geschichte ihres Vaters und sieht ihre eigene Flucht als persönlichen Vasaloppet, bis sie im finnischen Wald auf vier junge Deutsche trifft.",
   "mood": "tense but hopeful",
   "tense": "past, Eddies first-person perspective",
-  "mode": "flashback",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "flashback"
 }
 ```
 
@@ -38,7 +24,7 @@ Als ich am nächsten Tag wieder auf der Tour bin, kommt mir eine Geschichte
 meiner Kindheit in den Sinn.
 
 Ein Freund meines Vaters war begeisterter Ski-Langläufer. Er überredete meinen
-Vater, mit ihm die "Hohe Tour" zu machen. Eine Ski-Langstreckenroute, die sich
+Vater, mit ihm die „Hohe Tour“ zu machen. Eine Ski-Langstreckenroute, die sich
 entlang der Grenze der DDR zur Tschechoslowakei erstreckte. Mit 50 km Länge und
 vielen steilen Abfahrten war sie technisch ausgesprochen anspruchsvoll. Mein
 Vater war wenig begeistert von der Idee, trainierte aber heimlich für dieses
@@ -49,8 +35,8 @@ mehrerer schwerer Stürze und Materialversagens seiner Ausrüstung. Danach war e
 eine Woche krank, so sehr hatte er sich verausgabt und seine Füße sahen aus wie
 eine einzige dicke Blase. Als sein Freund kurz danach wieder mal bei uns zu
 Besuch war, feierten sie ihre Tour feucht-fröhlich. Ich kann mich noch an einen
-Satz seines Freundes erinnern: "Das war unsere Vasaloppet!" "Was ist die
-Vasaloppet?\" habe ich als kleines Kind gefragt. Und dann erzählte er mir die
+Satz seines Freundes erinnern: „Das war unsere Vasaloppet!“ „Was ist die
+Vasaloppet?\“ habe ich als kleines Kind gefragt. Und dann erzählte er mir die
 Legende, von König Vasa in blumigen spannenden Worten: Es war ein bitterkalter
 Winter irgendwann Anfang des 16 Jahrhunderts. Der junge Prinz Gustav Vasa, ein
 Mann mit mutigem Herzen und festem Willen, war auf der Flucht. Hinter ihm jagten
@@ -69,9 +55,9 @@ treuesten Gefolgsleute von seinem Plan gehört. Sie wussten, dass Schweden ohne
 Gustav keine Chance hatte. So schnappten sie ihre Skier und setzten alles daran,
 ihn einzuholen. Mit eisernem Willen und flinken Bewegungen durchpflügten sie den
 tiefen Schnee, sprangen über umgestürzte Baumstämme und rasten enge Abfahrten
-hinab. Endlich, nach unzähligen Stunden, holten sie den Prinzen ein. „Gustav!",
+hinab. Endlich, nach unzähligen Stunden, holten sie den Prinzen ein. „Gustav!“,
 riefen sie, „die Bauern haben sich entschieden! Sie folgen deinem Ruf. Komm
-zurück, das Land braucht dich!" Der Mut in Gustav entbrannte neu. Gemeinsam
+zurück, das Land braucht dich!“ Der Mut in Gustav entbrannte neu. Gemeinsam
 kehrten sie zurück nach Schweden, wo die Menschen sich sammelten, um für ihre
 Freiheit zu kämpfen. Bald darauf begann ein Aufstand, der Schweden befreien und
 Gustav auf den Thron bringen sollte.

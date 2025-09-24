@@ -14,20 +14,6 @@
   "mood": "taumelnd, verletzt, entschlossen-klar",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  },
   "todo": "hier stimmt die Timeline nicht, unbedingt überarbeiten"
 }
 ```
@@ -42,8 +28,8 @@ Er schlief nicht unter Brücken, roch nicht nach altem Rauch und fauligem Bier.
 Aber er hatte mich gesehen, mehr als einmal, und er hatte es nicht so getan wie
 die anderen, die ihren Blick abwenden, weil sie sich nicht mit unserem Elend
 beschmutzen wollen. Er hatte mich direkt angesehen. Einmal hatte er mir sogar
-ein belegtes Brötchen in die Hand gedrückt. „Wenn du mal Hilfe brauchst", hatte
-er leise gesagt, „komm."
+ein belegtes Brötchen in die Hand gedrückt. „Wenn du mal Hilfe brauchst“, hatte
+er leise gesagt, „komm.“
 
 Damals hatte ich gelacht, bitter und trotzig, und gedacht: *Was weißt du schon
 von Hilfe?* Außerdem wollte ich nicht, dass jemand meinen Schmutz, meinen
@@ -59,8 +45,8 @@ Ich atme tief durch, der Gestank meiner eigenen Kleidung steigt mir in die Nase,
 und es ekelt mich. Doch zum ersten Mal sage ich mir: *Egal. Ich schäme mich
 nicht mehr.* Scham hält mich nicht am Leben. Aber Hilfe könnte es.
 
-„Wir gehen zu ihm", flüstere ich zum Hund. Meine Stimme ist kaum hörbar, aber
-entschlossen. „Wir holen uns Hilfe. Egal wie." Der Hund stupst meine Hand mit
+„Wir gehen zu ihm“, flüstere ich zum Hund. Meine Stimme ist kaum hörbar, aber
+entschlossen. „Wir holen uns Hilfe. Egal wie.“ Der Hund stupst meine Hand mit
 seiner Schnauze, als würde er zustimmen.
 
 Und so gehe ich los, mit schweren Schritten, aber mit einem Ziel. Zum ersten Mal
@@ -74,7 +60,7 @@ Hemden von den Helfern, nach einem Leben, das nicht meines ist. Ich drücke mich
 in die hintere Ecke, hungrig, aber auch nervös. An der Essensausgabe steht er.
 Ein Junge, vielleicht ein Jahr älter als ich. Er reicht mir einen Teller,
 höflich, mit gesenktem Blick. Kein dummer Spruch, kein Mitleid in den Augen. Nur
-dieser leise, ernste Ausdruck. Er sagt fast nichts, nur ein leises *„Bitte."*
+dieser leise, ernste Ausdruck. Er sagt fast nichts, nur ein leises *„Bitte.“*
 Und trotzdem bleibt er mir im Kopf hängen, wie ein Lied, das man nicht loswird.
 
 Am nächsten Tag, zurück bei meiner Gruppe. Wir sitzen auf den Pappkartons, reden

@@ -12,21 +12,7 @@
   "synopsis": "Eddie und Raija verbringen einen friedlichen Tag zusammen, gehen einkaufen, kochen, reden offen über Vergangenes und spazieren zum See.",
   "mood": "calm, intimate, safe",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "mainline"
 }
 ```
 
@@ -37,7 +23,7 @@ und ich. Sie klappert in der Küche, ich tapse barfuß hinterher, und ehe ich mi
 versehe, sitzen wir bei Kaffee und Brot am Tisch. Es fühlt sich an, als gäbe es
 heute nur uns beide.
 
-„Hast du Lust, ein bisschen rauszugehen?", fragt sie nach dem Frühstück.\ Ich
+„Hast du Lust, ein bisschen rauszugehen?“, fragt sie nach dem Frühstück.\ Ich
 nicke, und schon ziehen wir los. Draußen leuchtet die Sonne, als wäre es noch
 Sommeranfang, obwohl der Kalender längst etwas anderes behauptet.
 
@@ -104,15 +90,15 @@ spüre ich, wie nah alles an der Kante war. Wenn nur ein Test schiefgegangen wä
 … Ich schiebe den Gedanken weg, bevor er mich runterzieht.
 
 Als die Teller leer sind und der Wein im Glas glitzert, lehne ich mich zurück.
-„Und du?", frage ich. „Wieso bist du Polizistin geworden? Mit deinem Abitur
-hättest du doch alles studieren können."
+„Und du?“, frage ich. „Wieso bist du Polizistin geworden? Mit deinem Abitur
+hättest du doch alles studieren können.“
 
 Sie legt die Gabel beiseite und schaut aus dem Fenster. „Weißt du, nach der
 Schule wollte ich schnell eigenes Geld verdienen. Ich wollte nicht noch
-jahrelang in Hörsälen sitzen. Und…" Sie zögert kurz. „In meiner Heimatstadt
+jahrelang in Hörsälen sitzen. Und…“ Sie zögert kurz. „In meiner Heimatstadt
 hätte es bald niemanden mehr gegeben, der die kleine Station besetzt. Also bin
 ich zurückgegangen. Ich dachte, es wäre richtig, das zu tun. Für die Leute dort,
-für meine Familie."
+für meine Familie.“
 
 Ich nicke. Ich kann mir kaum vorstellen, dass jemand mit voller Überzeugung
 zurück in ein kleines Dorf geht, um dort Polizistin zu sein. Aber in ihrem Ton
@@ -120,16 +106,16 @@ liegt dieselbe Entschlossenheit, die sie gestern schon gezeigt hat: Wenn etwas
 richtig ist, dann macht sie es. Ganz egal, was andere denken.
 
 Der Tag vergeht ohne Eile. Am Nachmittag räumt Raija die Teller vom Tisch und
-streckt sich. „Wie wär's, wenn wir noch ein Stück rausgehen? An den See."
+streckt sich. „Wie wär's, wenn wir noch ein Stück rausgehen? An den See.“
 
 Ich kann nicht anders und pruste los. „An den See? Hier gibt's doch an jeder
-Ecke einen See! Sag mir lieber, *welchen* du meinst."
+Ecke einen See! Sag mir lieber, *welchen* du meinst.“
 
 Sie lacht, wirft mir ein Küchentuch zu. „Na gut, an den Jyväsjärvi. Der ist
-gleich hier in der Stadt, keine fünf Minuten zu Fuß."
+gleich hier in der Stadt, keine fünf Minuten zu Fuß.“
 
-„Natürlich", murmele ich grinsend, „bei euch Finnen ist ein See wohl wie bei uns
-ein Bäcker -- immer um die nächste Ecke."
+„Natürlich“, murmele ich grinsend, „bei euch Finnen ist ein See wohl wie bei uns
+ein Bäcker -- immer um die nächste Ecke.“
 
 Wir ziehen die Schuhe an, und kurz darauf blitzt schon das Wasser zwischen den
 Häusern hervor. Wir laufen zum Ufer, setzen uns ins Gras, reden weiter. Und

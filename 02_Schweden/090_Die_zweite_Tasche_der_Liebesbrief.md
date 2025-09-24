@@ -17,20 +17,6 @@
   "illustrations": [
     "SWE_Stockholm_Eddie_erhaelt_Liebesbrief.png"
   ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  },
   "todo": "Redundanz zu 'Hof hinter dem Haus"
 }
 ```
@@ -63,7 +49,7 @@ aushalten. Ich habe sofort gespürt, dass da mehr ist -- eine Kraft, die du
 selbst vielleicht nicht siehst.
 
 Als ich dich so schmutzig und erschöpft sah, dachte ich nicht: „Da ist ein
-Mädchen, das man bemitleiden muss." Nein. Ich dachte: „Da ist jemand Schönes."
+Mädchen, das man bemitleiden muss.“ Nein. Ich dachte: „Da ist jemand Schönes.“
 Nicht schön, weil alles glänzt oder passt -- sondern weil du echt bist. Deine
 Augen haben eine Tiefe, die ich nie vergessen kann.
 
@@ -101,21 +87,21 @@ Streuner hat sich schon hingelegt, doch ich kann nicht stillhalten. Meine Finger
 zittern, als ich die Worte noch einmal lese. Laut, kaum hörbar, aber so, dass
 sie durch die Nacht hallen:
 
-„*Da ist jemand Schönes.*"
+„*Da ist jemand Schönes.*“
 
 Meine Stimme bricht, ich lache bitter und schluchze zugleich. *Wie kann er das
 schreiben? Mich? Schön?* Ich wische mir mit dem Ärmel über die Augen, doch es
 bringt nichts, die Tränen laufen einfach weiter.
 
-„*Dankbarkeit ist nicht Liebe.*" flüstere ich, und meine Stimme klingt fremd.
+„*Dankbarkeit ist nicht Liebe.*“ flüstere ich, und meine Stimme klingt fremd.
 Ich streichle Streuners Kopf, der sich schwer auf meinen Oberschenkel legt.
-„Hörst du das, Kleiner? Ich soll nicht dankbar sein. Ich soll… lieben können."
+„Hörst du das, Kleiner? Ich soll nicht dankbar sein. Ich soll… lieben können.“
 
 Streuner seufzt tief, als würde er mich verstehen. Ich drücke den Brief an meine
 Brust, lese weiter, stolpere über jedes Wort, bis ich wieder bei diesem Satz
 lande:
 
-„*Ich verspreche, dass ich nie wegsehen werde.*"
+„*Ich verspreche, dass ich nie wegsehen werde.*“
 
 Da zerreißt es mich vollends. Die Tränen fließen ohne Halt, ich krümme mich über
 den Zetteln zusammen und presse das Gesicht in Streuners Fell. Er hält still,
@@ -123,7 +109,7 @@ warm und lebendig, während ich mich an ihn klammere wie an den letzten Rest der
 Welt.
 
 Irgendwann, zwischen Schluchzern und Atemzügen, flüstere ich: „Ich wünschte, ich
-könnte ihm glauben." Dann falte ich den Brief, lege ihn direkt unter mein Herz,
+könnte ihm glauben.“ Dann falte ich den Brief, lege ihn direkt unter mein Herz,
 schlüpfe in die neue Jacke und ziehe die Decke über mich. Streuner rückt noch
 näher, schiebt seine Schnauze in meine Hand.
 

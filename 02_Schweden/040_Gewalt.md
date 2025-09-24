@@ -15,20 +15,6 @@
   "illustrations": [
     "SWE_Stockholm_Eddie_entkommt_Gewalt.png"
   ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  },
   "todo": "Redundanzen am Ende des Textes!"
 }
 ```

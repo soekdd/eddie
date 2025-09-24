@@ -13,20 +13,6 @@
   "mood": "fear turning into fragile relief",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  },
   "todo": [
     "In der Stadt laufen Vorbereitungen für das große Festival, was in etwa einer Woche starten wird. Eddie überlegt kurz, ob einer der Fahrer sie mitnehmen könnte, verwirft die Ideen aber schließlich - Nein, Festival ist abgewählt, die Augenzeugen können sich nicht daran erinnern. Es stört den Fluss."
   ]

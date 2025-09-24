@@ -13,21 +13,7 @@
   "synopsis": "Sinis Vater erscheint unerwartet, stellt sie wegen der Uni und der Wohnung zur Rede und macht Eddie klar, dass sie nicht bleiben kann.",
   "mood": "tense, humiliating, bittersweet",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "mainline"
 }
 ```
 

@@ -20,18 +20,28 @@
     "FIN_Jotsenlampi_Sauna_Wasser.png",
     "FIN_Jotsenlampi_Sauna_zu_dritt.png"
   ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
+  "proofreading":{
+    "Kapitel": "270_Ankunft_in_Jotsenlampi",
+    "Ton": {
+      "Einschaetzung": "Beobachtend, neugierig, mit einem Hauch Ehrfurcht. Eddie beschreibt die Ankunft recht nüchtern.",
+      "Kritik": "Ton kippt teilweise ins Reiseführerhafte. Wenig persönliche Färbung, mehr Beschreibung als innere Beteiligung."
     },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
+    "Logik": {
+      "Einschaetzung": "Ablauf der Ankunft nachvollziehbar, keine groben Logikfehler.",
+      "Kritik": "Die Orientierung Eddies wirkt zu souverän; als Fremde könnte sie stärker stolpern oder zweifeln."
     },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
+    "Charaktere": {
+      "Einschaetzung": "Nebenfiguren bleiben blass, Fokus liegt klar auf Eddie.",
+      "Kritik": "Eddie zeigt wenig Emotionen; wirkt eher wie eine Beobachterin als wie eine Jugendliche im Ausnahmezustand."
+    },
+    "Sprache": {
+      "Einschaetzung": "Flüssig, klare Sätze.",
+      "Kritik": "Einige unnötige Füllwörter, stellenweise zu lange Satzketten. Direkte Rede wirkt etwas gestelzt."
+    },
+    "Fazit": {
+      "Staerken": "Klares Bild der Umgebung, Szenenfolge verständlich.",
+      "Schwaechen": "Zu distanziert erzählt, wenig Emotionen, Eddie wirkt zu reif.",
+      "Fix": "Mehr innere Reaktionen einbauen (Staunen, Unsicherheit, Vergleiche), jugendliche Farbe stärken, Sprache straffen."
     }
   }
 }

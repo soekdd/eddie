@@ -16,21 +16,7 @@
     "DDR_Dresden_Eddies_Vater_erhaelt_die_geheime_Botschaft.png",
     "DDR_Dresden_Eddies_Vater_rennt_nach_Hause.png",
     "DDR_Dresden_Eltern_feiern.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 
@@ -50,7 +36,7 @@ Vaters und sagt mit dieser lauten, verschwörerischen Stimme, so als sollte es
 jeder im Haus hören:
 
 „Stell Dir vor! Das Pariser Institut hat entschieden: Die Preisverleihung findet
-nun tatsächlich statt!"
+nun tatsächlich statt!“
 
 Und dann passiert es: In meinem Kopf sehe ich, wie mein Vater erst blinzelt,
 dann abrupt mit seiner Arbeit aufhört. Er hebt den Kopf, als hätte jemand die
@@ -59,7 +45,7 @@ Tränen übers Gesicht. Einfach so, mitten im Institut, vor allen verbliebenen
 Kollegen.
 
 Sein Chef ist verwirrt, gerührt, vielleicht ein bisschen beschämt. „Aber… das
-nimmst Du Dir ja sehr zu Herzen, mein Lieber…"
+nimmst Du Dir ja sehr zu Herzen, mein Lieber…“
 
 Doch mein Vater hört ihn gar nicht mehr. Er springt auf, stößt fast den Stuhl um
 und rennt. Ja, er rennt -- durch die langen Gänge der Gebäudes, hinaus auf die

@@ -17,20 +17,6 @@
   "illustrations": [
     "SWE_Stockholm_Eddie_kuesst_Vidar.png"
   ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  },
   "todo": "Redundanz zu 'Die zweite Tasche'"
 }
 ```
@@ -69,10 +55,10 @@ anders. Das hier ist wahr.
 
 Als wir uns lösen, sind unsere Stirnen noch aneinandergelehnt. Ich atme schwer,
 meine Lippen kribbeln, mein Herz will aus meiner Brust springen. Er flüstert
-kaum hörbar: „Eddie…"
+kaum hörbar: „Eddie…“
 
 Ich lächle, und es ist ein Lächeln, das ich nicht zurückhalten kann. „Das war
-mein erster Kuss," sage ich. „Mein erster richtiger."
+mein erster Kuss,“ sage ich. „Mein erster richtiger.“
 
 Streuner hebt kurz den Kopf, als hätte er den Zauber gespürt, dann legt er sich
 wieder hin. Und ich weiß: Ab jetzt wird nichts mehr so sein wie vorher.
@@ -86,7 +72,7 @@ zuerst zögerten, dann weich, dann mutig wurden. Mein Herz stolpert schon wieder
 wenn ich nur daran denke. Ich halte mir die Finger an den Mund, als müsste ich
 prüfen, ob er noch da ist, der Kuss.
 
-„Mein erster richtiger Kuss", flüstere ich in die Dunkelheit. Ich muss lachen
+„Mein erster richtiger Kuss“, flüstere ich in die Dunkelheit. Ich muss lachen
 und weinen gleichzeitig. So oft habe ich mir eingeredet, ich wüsste, was Liebe
 sei. Sini, mein erster Freund, all die Verwirrung, die Nähe, die Abenteuer --
 ich dachte, das wäre es. Aber das hier… das ist anders.
@@ -95,6 +81,6 @@ Ich fühle mich nicht leer, ich fühle mich nicht beschämt. Ich fühle mich
 lebendig. Als wäre in mir etwas aufgegangen, was ich vorher gar nicht kannte.
 
 Streuner rührt sich, schiebt seine Nase unter meinen Arm. Ich drücke ihn fest an
-mich. „Jetzt weiß ich, was Liebe ist", flüstere ich. Und während mir die Augen
+mich. „Jetzt weiß ich, was Liebe ist“, flüstere ich. Und während mir die Augen
 zufallen, ist da ein Gefühl, das ich seit meiner Flucht kaum mehr gekannt habe:
 Frieden.

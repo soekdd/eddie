@@ -13,21 +13,7 @@
   "synopsis": "Eddies Vater erklärt Eddie, dass sie sich vor der Flucht verstellen muss, Edmilla wird geboren",
   "mood": "ernst, konspirativ, leicht humorvoll",
   "tense": "past, Eddies first-person perspective",
-  "mode": "flashback",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "flashback"
 }
 ```
 

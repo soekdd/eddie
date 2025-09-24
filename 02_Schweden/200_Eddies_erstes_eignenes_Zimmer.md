@@ -12,20 +12,6 @@
   "mood": "",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  },
   "todo": "Ein Zimmer und ein Telefon auf dem Flur: Stundenlange telefonate mit Raija  und Sini, eine Minute kostete 10 Schwedische Kronen. Eddie arbeitet hat für lange Telefonate."
 }
 ```

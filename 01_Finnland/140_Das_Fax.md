@@ -13,21 +13,7 @@
   "synopsis": "Ein Fax kündigt diplomatischen Druck der DDR an; Raija widersetzt sich und flieht mit Eddie aus der Polizeistation.",
   "mood": "tense, urgent, defiant",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "mainline"
 }
 ```
 

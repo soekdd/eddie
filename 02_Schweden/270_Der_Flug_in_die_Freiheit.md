@@ -14,21 +14,7 @@
   "mode": "mainline",
   "illustrations": [
     "BRD_Flugzeug.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 
@@ -62,33 +48,33 @@ Anzug, das Haar zurückgekämmt, wirkt wie einer, der gewohnt ist, in Sitzungen 
 reden. Er kommt zu mir, bleibt neben meinem Platz stehen, lächelt, als hätte er
 mich schon lange erwartet.
 
-„Entschuldigen Sie… ich kenne Sie doch."
+„Entschuldigen Sie… ich kenne Sie doch.“
 
 Ich seufze innerlich. Klar kennt man mich, das Mädchen mit Hundebox, die
 Ostdeutsche im Regierungsflieger. Ich bin der bunte Hund, der aus der Reihe
 fällt.
 
 Doch dann sagt er: „Ich kenne Sie von den Schilderungen meiner Tochter.
-Cornelia."
+Cornelia.“
 
 Es dauert einen Moment, bis der Groschen fällt. Cornelia? Ach Conny. Das Mädchen
 mit der Gitarre, den schnellen Fingern und dem breiten Grinsen.
 
-„Sie sind ihr Vater?" frage ich ungläubig.
+„Sie sind ihr Vater?“ frage ich ungläubig.
 
 Er nickt, fast stolz. „Ja. Sie hat so viel von Ihnen erzählt. Dass Sie ein
 Ausnahmetalent seien. Dass Sie mit Zahlen umgehen wie andere mit Musik. Seit
-einem halben Jahr hoffe ich, dass ich Sie treffe. Heute, endlich."
+einem halben Jahr hoffe ich, dass ich Sie treffe. Heute, endlich.“
 
 Ich starre ihn an. Er redet weiter, fast aufgeregt: „Ich habe die Gelegenheit
 genutzt, als Vertreter von Nixdorf bei der Delegation dabei zu sein. Ich wusste,
 dass Sie hier sein würden, ich habe Sie schon am Flughafen erkannt. Aber ich
-wollte mich nicht in Ihre Verabschiedung drängen. Das war Ihr Moment."
+wollte mich nicht in Ihre Verabschiedung drängen. Das war Ihr Moment.“
 
 Er beugt sich ein Stück vor. „Cornelia hat es Ihnen versprochen. Ich will es
 einlösen: ein Stipendium, damit Sie Ihr Abitur beenden können. Danach ein
 Werkstudentenjob bei uns, ein weiteres Stipendium von Nixdorf. Wir suchen Leute
-wie Sie. Mathegenies. Wir könnten Sie gut gebrauchen."
+wie Sie. Mathegenies. Wir könnten Sie gut gebrauchen.“
 
 Er klingt fast so, als bewerbe er sich bei mir, als hätte er Angst, ich könnte
 Nein sagen, zu einer anderen Firma gehen, mich verkaufen wie ein Spieler auf
@@ -99,29 +85,29 @@ gehandelt. Doch mein Wert scheint hoch zu sein. Sehr hoch.
 
 Ich lasse ihn nicht zappeln. Ich denke an Conny, an Sabine, an Matti und Peter
 -- vier Freunde, die schon in Paderborn auf mich warten. Ich nicke. „Ja, ich
-komme sehr gern!"
+komme sehr gern!“
 
 Er atmet auf, wirkt erleichtert, fast dankbar. „Danke. Sie werden es nicht
 bereuen. Am Flughafen wartet schon ein Wagen auf uns. In zwei Stunden sind wir
 dann in Paderborn, Cornelia freut sich schon auf Sie. In NRW haben heute die
-Osterferien begonnen - 3 Wochen!"
+Osterferien begonnen - 3 Wochen!“
 
 Mein Herz schlägt nun nicht mehr so hart. Vor mir liegt kein Nebel mehr, sondern
 ein Weg. Und ich beginne, mich in meine Zukunft hineinzuträumen.
 
-Er richtet sich auf, wünscht mir noch einen guten Flug und "bis dann gleich",
+Er richtet sich auf, wünscht mir noch einen guten Flug und „bis dann gleich“,
 will gerade an seinen Platz zwischen den grauen Anzügen gehen, da halte ich ihn
 zurück. „Eine Frage noch. Dieses Telefon hier im Flugzeug… wie funktionieren
-das?"
+das?“
 
-Er wirkt erstaunt. „Man braucht eine Kreditkarte."
+Er wirkt erstaunt. „Man braucht eine Kreditkarte.“
 
-„Oh."
+„Oh.“
 
-„Wollen Sie telefonieren? So dringend, dass es nicht bis Bonn warten kann?"
+„Wollen Sie telefonieren? So dringend, dass es nicht bis Bonn warten kann?“
 
-Ich schaue auf die Uhr. 17:25, das passt genau. „Ja," sage ich. „Furchtbar
-dringend."
+Ich schaue auf die Uhr. 17:25, das passt genau. „Ja,“ sage ich. „Furchtbar
+dringend.“
 
 Er zückt wortlos seine Karte, zieht sie durch den Schlitz, zeigt mir die Tasten.
 Ich wähle die Nummer, die ich längst auswendig kann. Jede Ziffer brennt in

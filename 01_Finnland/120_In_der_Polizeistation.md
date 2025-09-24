@@ -20,21 +20,7 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Joutsa_Haare_waschen.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 
@@ -193,7 +179,7 @@ Raijas Kollege tippt ihr auf die Schulter, möchte, dass sie ihm etwas übersetz
 In ihrem Finnisch höre ich ihn das deutsche Wort „Jugendwerkhof!“ sagen und an
 mich: „In Thorgau, yes?“
 
-Ich bin total perplex. „Ja, Thorgau! Genau, woher...?“
+Ich bin total perplex. „Ja, Thorgau! Genau, woher…?“
 
 „Mein Kollege hat vor einiger Zeit in der Zeitung davon gelesen. Soll schlimm
 sein.“

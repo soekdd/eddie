@@ -16,20 +16,6 @@
   "illustrations": [
     "SWE_Stockholm_Stadtmission.png"
   ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  },
   "todo": "Hier ist die Timeline noch total kaputt"
 }
 ```

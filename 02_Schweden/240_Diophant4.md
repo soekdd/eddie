@@ -11,21 +11,7 @@
   "synopsis": "Eddie erinnert sich im Dresdner Kartenraum daran, wie sie sich zwischen Atlanten und Lehrplänen als heimliche Diophant-Schülerin fühlte und eine stille Analogie zwischen Alexandria und der DDR zog – Mathematik als Schutzwall gegen die Römer von heute.",
   "mood": "",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "mainline"
 }
 ```
 
@@ -43,8 +29,8 @@ Damals hab ich zum ersten Mal von Alexandria gehört. Nicht vom Ort – den kann
 ich schon von den Karten –, sondern von der Idee. Alexandria als dieser Hort des
 Wissens, mit Diophant und all den anderen alten Griechen, die versessen waren
 auf Rätsel und Zahlen. Und da war dieser eine Satz, den ich irgendwo gelesen
-oder mir eingebildet habe: "Sie rechneten mit der Welt, während Rom sie mit
-Gewalt ordnete."
+oder mir eingebildet habe: „Sie rechneten mit der Welt, während Rom sie mit
+Gewalt ordnete.“
 
 Und da hat es klick gemacht.
 
@@ -59,9 +45,9 @@ hießen. Oder Schuldirektor. Oder Leonhard Radmer.
 Und manchmal, wenn ich besonders still war, stellte ich mir vor, wie sie mich
 suchen. Wie sie mich nicht finden. Weil ich nicht laut bin. Weil ich nicht
 protestiere. Sondern weil ich eine andere Sprache spreche. Die Sprache der
-Unauffälligen. Die Sprache von "Wenn-a-durch-b-ein-ganzes-Ergebnis-gibt-dann…"
+Unauffälligen. Die Sprache von „Wenn-a-durch-b-ein-ganzes-Ergebnis-gibt-dann…“
 
-Einmal schrieb ich mit Bleistift an den Rand eines Kartenblatts: "Alexandria, 3.
-Jahrhundert – Dresden, 1984. Diophant lebt."
+Einmal schrieb ich mit Bleistift an den Rand eines Kartenblatts: „Alexandria, 3.
+Jahrhundert – Dresden, 1984. Diophant lebt.“
 
 Ich hab’s später wegradiert. Aber ich hab’s nicht vergessen.

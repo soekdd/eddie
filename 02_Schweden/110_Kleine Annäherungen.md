@@ -13,21 +13,7 @@
   "synopsis": "Vidars Hilfsbereitschaft, zufällige Berührung beim Tee, Spaziergänge, Lachen – und ein Fast-Kuss auf der Mauer.",
   "mood": "kribbelnd, scheu, verheißungsvoll",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "mainline"
 }
 ```
 
@@ -39,13 +25,13 @@ nicht, wohin damit.
 
 Ich will eigentlich gar nichts sagen. Mir reicht es, neben ihm zu sein. Aber
 dann spricht er, leise, so als müsste er sich dazu zwingen:\ „Manchmal fühle ich
-mich hier… als wäre ich nicht wirklich Teil davon."
+mich hier… als wäre ich nicht wirklich Teil davon.“
 
 Ich drehe den Kopf zu ihm, er schaut geradeaus.
 
-„Meine Eltern sind Schweden", sagt er. „Sie haben mich aus Südkorea adoptiert,
+„Meine Eltern sind Schweden“, sagt er. „Sie haben mich aus Südkorea adoptiert,
 da war ich noch ein Baby. Ich habe davon keine Erinnerung. Aber in der Schule,
-im Bus, auf der Straße… ich bin immer der, der anders aussieht."
+im Bus, auf der Straße… ich bin immer der, der anders aussieht.“
 
 Seine Stimme zittert kaum merklich. Ich sehe die angespannte Linie seines
 Kiefers. Er spricht, als wäre es das erste Mal, dass er es laut ausspricht.
@@ -55,16 +41,16 @@ aber ich bin es. Immer die Fremde, die nicht dazugehört.*
 
 Er seufzt. „Meine Eltern meinen es gut. Sie lieben mich. Aber sie verstehen
 nicht, wie es ist, wenn du nie so aussiehst wie die anderen. Wenn sie dich immer
-anschauen, als wärst du… von woanders."
+anschauen, als wärst du… von woanders.“
 
 Ich merke, wie mir ein Kloß im Hals wächst. Eigentlich wollte ich ihn fragen, ob
 er sich nicht manchmal schämt, neben mir zu sitzen. Mit meiner abgetragenen
 Jacke, den schmutzigen Schuhen. Aber jetzt… jetzt verstehe ich, dass er auch
 Scham kennt. Nur eine andere.
 
-„Ich weiß genau, was du meinst", sage ich. Meine Stimme klingt fester, als ich
+„Ich weiß genau, was du meinst“, sage ich. Meine Stimme klingt fester, als ich
 fühle. „Ich habe auch nie dazugehört. Zuhause nicht, in der Schule nicht,
-nirgendwo."
+nirgendwo.“
 
 Er sieht mich an, das erste Mal richtig. Und in diesem Blick ist etwas, das mir
 einen Schauer über den Rücken jagt -- nicht vor Angst, sondern weil ich mich
@@ -103,7 +89,7 @@ Ich liege wach. Streuner schnarcht leise neben mir, eingerollt wie ein
 Fellknäuel, und über mir nur der graue Himmel der Stadt. In meiner Hand der
 Brief, schon ganz weich an den Kanten, weil ich ihn immer wieder auf- und
 zuklappe. Ich lese die Sätze, die ich längst auswendig kenne. „*Du musst mir
-nicht dankbar sein.*" „*Ich hoffe, du wirst mich eines Tages lieben können.*"
+nicht dankbar sein.*“ „*Ich hoffe, du wirst mich eines Tages lieben können.*“
 
 Und plötzlich reicht mir das Lesen nicht mehr. Plötzlich denke ich: *Wie wäre
 es, wenn ich ihn wirklich lieben könnte?*
@@ -124,7 +110,7 @@ weiß, wie es sich anfühlt, Haut an Haut. Aber diesmal wäre es anders. Nicht n
 Neugier. Nicht nur Ablenkung. Es wäre… weil ich es will. Weil er es ist.
 
 Ich schließe die Augen, halte den Brief fest, so fest, dass meine Finger wehtun.
-„Verdammt", flüstere ich in die Nacht, „ich glaube, ich will es wirklich."
+„Verdammt“, flüstere ich in die Nacht, „ich glaube, ich will es wirklich.“
 
 Streuner rührt sich, legt seine Schnauze auf meine Schulter, als hätte er meine
 Gedanken gehört. Ich streiche über sein Fell, lächle trotz allem, mit klopfendem

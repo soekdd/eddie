@@ -13,21 +13,7 @@
   "synopsis": "Eddie ruft mit Raijas Hilfe den Professor an und täuscht eine französische Preisnominierung vor, um ein Lebenszeichen an ihre Eltern zu senden.",
   "mood": "tense but triumphant",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "mainline"
 }
 ```
 
@@ -37,59 +23,59 @@ Küchentisch wirkt plötzlich wie ein Monster mit offenem Maul. Ich halte den
 Hörer schon in der Hand, aber meine Finger sind so schwitzig, dass ich ihn fast
 wieder fallen lasse.
 
-„Ruf schon an", sagt Raija trocken, als wär's das Normalste der Welt. Sie sitzt
+„Ruf schon an“, sagt Raija trocken, als wär's das Normalste der Welt. Sie sitzt
 neben mir, Ellenbogen aufgestützt, sieht aus, als könnte sie den ganzen Tag lang
 ungerührt Polizistenberichte tippen. Nur ihre Augen zwinkern mir ermutigend zu.
 
-„Ja, ja", murmele ich, wähle vorsichtig die lange internationale Nummer, Schritt
+„Ja, ja“, murmele ich, wähle vorsichtig die lange internationale Nummer, Schritt
 für Schritt, als könnte jeder falsche Ton das Telefon explodieren lassen. Dann
 tutet es. Einmal, zweimal. Mein Herz pocht wie verrückt.
 
 Plötzlich eine Stimme, heiser, genervt, eindeutig er: „Professor Dr. Leonhard
-Radmer, hallo?"
+Radmer, hallo?“
 
 Ich schlucke. Dann hole ich tief Luft und lege los, mit meinem besten
 französischen Akzent, den ich zuvor ewig mit Raija geübt habe:
 
-„Bonjour, hier spricht das Sekretariat des Institut de…" -- ich werfe Raija
+„Bonjour, hier spricht das Sekretariat des Institut de…“ -- ich werfe Raija
 einen panischen Blick zu.
 
-Sie flüstert prompt: „Sciences Avancées."
+Sie flüstert prompt: „Sciences Avancées.“
 
-„…des *Institut de Sciences Avancées*", wiederhole ich schnell. „Ich rufe an, um
-Ihnen mitzuteilen, dass Sie für den Prix de sûreté nucléaire nominiert wurden."
+„…des *Institut de Sciences Avancées*“, wiederhole ich schnell. „Ich rufe an, um
+Ihnen mitzuteilen, dass Sie für den Prix de sûreté nucléaire nominiert wurden.“
 
-Pause. Am anderen Ende ist es still, dann ein leises Räuspern. „Oh!" sagt er,
+Pause. Am anderen Ende ist es still, dann ein leises Räuspern. „Oh!“ sagt er,
 gedehnt, und dann viel lauter: „Oh! Na, das ist ja… das ist ja wirklich… also,
-das ist großartig! Aus Frankreich, sagen Sie?"
+das ist großartig! Aus Frankreich, sagen Sie?“
 
 Ich nicke stumm, obwohl er's nicht sehen kann, und drücke mir die Handfläche
 gegen den Bauch, um das Zittern zu stoppen. „Oui, monsieur. Aus Frankreich. Ganz
-offiziell."
+offiziell.“
 
 Neben mir grinst Raija, sie schreibt mit dem Finger in die Luft: *slowly.* Also
 setze ich noch einen Satz nach: „Die Jury berät noch. Sie hören bald wieder von
-uns."
+uns.“
 
-„Ja, natürlich, natürlich!" tönt er. „Das muss ich sofort meiner Frau erzählen
+„Ja, natürlich, natürlich!“ tönt er. „Das muss ich sofort meiner Frau erzählen
 -- und den Kollegen! Wissen Sie, ich habe ja schon lange darauf gewartet, dass
-Paris meine Arbeit würdigt." um dann noch auf breitem sächsisch ein
-„formidable!" hintendran zu hängen.
+Paris meine Arbeit würdigt.“ um dann noch auf breitem sächsisch ein
+„formidable!“ hintendran zu hängen.
 
 Ich beiße mir auf die Lippe, fast hätte ich losgeprustet.
 
-„Vielen Dank, vielen Dank!", ruft er, als hätte er gerade den Nobelpreis
+„Vielen Dank, vielen Dank!“, ruft er, als hätte er gerade den Nobelpreis
 gewonnen.
 
-„Bonne journée", murmele ich schnell, und lege auf, bevor mir doch noch die
+„Bonne journée“, murmele ich schnell, und lege auf, bevor mir doch noch die
 Stimme bricht.
 
 Ich sitze wie versteinert da, dann kippe ich den Hörer aufs Gerät zurück und
 presse beide Hände aufs Gesicht. „Oh Gott. Ich hab's geschafft. Ich hab's
-wirklich geschafft!"
+wirklich geschafft!“
 
 Raija lacht leise, aber warm. „Und der glaubt dir jedes Wort. Du solltest
-Schauspielerin werden, Eddie. Oder Spionin."
+Schauspielerin werden, Eddie. Oder Spionin.“
 
 Das war der Code, den ich mit meinem Vater ausgemacht habe.
 
@@ -120,10 +106,10 @@ ins Gesicht.
 Ich lasse die Hände sinken und fange an zu lachen, ein bisschen hysterisch, ein
 bisschen erleichtert. „Wenn der morgen früh in die Mensa platzt und von seiner
 französischen Nominierung prahlt, dann wissen meine Eltern, dass ich es raus
-geschafft habe. Und keiner kann's verhindern."
+geschafft habe. Und keiner kann's verhindern.“
 
 Raija legt mir die Hand auf die Schulter. „Das hast du gut gemacht, kleine
 Fluchtkünstlerin. Und jetzt… trinken wir einen Kaffee. Du siehst aus, als
-würdest du gleich umfallen."
+würdest du gleich umfallen.“
 
 Der Anruf hat gesessen.

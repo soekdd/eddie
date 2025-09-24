@@ -14,21 +14,7 @@
   "mode": "mainline",
   "illustrations": [
     "SWE_Stockholm_Eddie_trifft_Streuner.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 

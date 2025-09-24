@@ -11,21 +11,7 @@
   "synopsis": "Eddie verwirft den Plan, mit dem Bus nach Helsinki zu fliehen – zu riskant, die Erfolgschance liegt unter zehn Prozent.",
   "mood": "anxious, calculating, hopeless",
   "tense": "past, Eddies first-person perspective",
-  "mode": "flashback",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "flashback"
 }
 ```
 

@@ -15,21 +15,7 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Vaasa_Kissenschlacht2.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 

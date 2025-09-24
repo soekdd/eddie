@@ -15,21 +15,7 @@
   "synopsis": "Peter erzählt von der Ausgrenzung und dem Verlust seiner Familie nach einem Ausreiseantrag; die Gruppe versteht dadurch besser Eddies Flucht.",
   "mood": "somber but bonding",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "mainline"
 }
 ```
 

@@ -15,21 +15,7 @@
   "illustrations": [
     "SWE_Stockholm_Abflug.png",
     "BRD_Flugzeug.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 
@@ -62,11 +48,11 @@ selben Tag, im selben Land -- eine im Schweigen, eine im Aufbruch.
 Ich sehe die Staatmänner aus aller Welt, der dicke deutsche Kanzler überragt
 alle.
 
-„Mensch Eddie, mit dem sitzt Du heute Abend im Flieger!", stuppst mich Vidar von
+„Mensch Eddie, mit dem sitzt Du heute Abend im Flieger!“, stuppst mich Vidar von
 der Seite an.
 
 Honneker fehlt. Schon seltsam immerhin tragen sie einen Sozialisten zu Grabe.
-Vidar meint: "Palme hatte wenig übrig für totalitäre Systeme."
+Vidar meint: „Palme hatte wenig übrig für totalitäre Systeme.“
 
 Ich nutze den Rest des Tages für kurze Anrufe nach Finnland. Raija und Sini,
 meine beiden Löwinnen, sie jubeln und beglückwünschen mich. Ich verspreche, mich

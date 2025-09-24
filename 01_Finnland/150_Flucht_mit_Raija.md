@@ -13,21 +13,7 @@
   "synopsis": "Raija bringt Eddie nach Jyväskylä in ihre Wohnung; dort kommt es nachts zum heftigen Streit zwischen Raija und Jorma über das Risiko, das sie für Eddie eingeht.",
   "mood": "tense, conflicted, heavy",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "mainline"
 }
 ```
 

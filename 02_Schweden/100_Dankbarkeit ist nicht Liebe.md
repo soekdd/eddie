@@ -13,21 +13,7 @@
   "synopsis": "Eddie ringt um Begriffe: frühere Nähe vs. echte Liebe; erkennt langsames Wachsen.",
   "mood": "nachdenklich, ehrlich, selbstkritisch",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "mainline"
 }
 ```
 
@@ -56,8 +42,8 @@ nur dankbar? Ist es nur, weil er mich sauber gemacht hat, weil er mir eine Jacke
 gibt, weil er mir das Gefühl zurückgibt, ein Mensch zu sein? Oder ist da mehr?
 
 Ich drehe den Kopf zu Streuner, der im Schlaf zuckt und ein leises Winseln
-ausstößt. „Was ist Liebe?", flüstere ich. „Ist es Feuer? Oder ist es, wenn man
-jemanden ansieht und sich plötzlich nicht mehr so allein fühlt?"
+ausstößt. „Was ist Liebe?“, flüstere ich. „Ist es Feuer? Oder ist es, wenn man
+jemanden ansieht und sich plötzlich nicht mehr so allein fühlt?“
 
 Ich lege den Brief an meine Lippen, atme seine Worte ein. Vielleicht ist es
 beides. Vielleicht weiß ich es noch nicht. Aber eins weiß ich: Es tut mir gut,
@@ -86,13 +72,13 @@ beschämt. Bin ich verliebt? Oder nur erleichtert, dass endlich jemand kommt und
 mich nicht wie Dreck behandelt? Ich könnte heulen vor Wut über mich selbst, weil
 ich's nicht schnall.
 
-„Was ist Liebe überhaupt?!" fauche ich leise in die Dunkelheit, so heftig, dass
+„Was ist Liebe überhaupt?!“ fauche ich leise in die Dunkelheit, so heftig, dass
 Streuner hochschreckt und mich fragend ansieht. „Ist das dieses dumme Kribbeln
 im Bauch, wovon immer alle reden? Oder ist es das, wenn man sich neben jemandem
-endlich nicht mehr so verloren fühlt?"
+endlich nicht mehr so verloren fühlt?“
 
 Streuner gähnt nur und legt seinen Kopf wieder auf meine Beine. Ich seufze. „Na
-toll, du weißt es auch nicht."
+toll, du weißt es auch nicht.“
 
 Ich drücke den Brief an mein Gesicht, spüre das Papier auf meinen Lippen.
 Vielleicht ist Liebe beides. Vielleicht ist sie gar nichts, was man sofort

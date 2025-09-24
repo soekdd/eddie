@@ -14,21 +14,7 @@
   "mode": "mainline",
   "illustrations": [
     "SWE_Stockholm_Vidar_Eddie_Streuner_schlafen.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 
@@ -54,19 +40,19 @@ gibt Formulare, Gespräche, ein Datum, das wie ein kleiner, glühender Punkt in
 meinem Kalender sitzt. Ich will dorthin, gierig, und genau deshalb weiß ich: Mit
 der Freiheit kommt der Abschied. Von diesem Zimmer, dieser Familie, von Vidar.
 
-„Du bist noch wach?" Seine Stimme ist kaum mehr als ein Schatten.
+„Du bist noch wach?“ Seine Stimme ist kaum mehr als ein Schatten.
 
-„Ja."
+„Ja.“
 
 Eine Pause, in der die Stadt wieder ganz still wird. Dann sagt er: „Ich habe
-gedacht… wir sind wie Linien, die fast zusammenkommen. Aber eben nur fast."
+gedacht… wir sind wie Linien, die fast zusammenkommen. Aber eben nur fast.“
 
-Ich lächle gegen die Dunkelheit. „Asymptoten."
+Ich lächle gegen die Dunkelheit. „Asymptoten.“
 
-„Genau." Kein Vorwurf in seiner Stimme, nur dieses Wissen, das wir jetzt beide
-tragen. „Du wirst gehen."
+„Genau.“ Kein Vorwurf in seiner Stimme, nur dieses Wissen, das wir jetzt beide
+tragen. „Du wirst gehen.“
 
-„Und du gehörst hierher," sage ich. „Ich bin auf der Durchreise."
+„Und du gehörst hierher,“ sage ich. „Ich bin auf der Durchreise.“
 
 Er nickt. Man hört so ein Nicken nicht, aber ich höre es. Und das Schweigen
 danach ist kein schweres. Eher wie Schnee, der fällt und alles weich macht.

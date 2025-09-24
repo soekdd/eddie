@@ -11,21 +11,7 @@
   "synopsis": "In Stockholms Bibliothek stößt Eddie auf die klassische Diophant-Gleichung, rechnet sie wie einst im DDR-Bus durch und erkennt, wie Mathematik ihr Leben strukturiert – diesmal, um eigene Zukunftsvariablen zu setzen.",
   "mood": "",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "mainline"
 }
 ```
 
@@ -41,7 +27,7 @@ Jahre nach der Hochzeit ein Sohn; der lebte die Hälfte seines Lebens; vier Jahr
 später starb der Vater.*
 
 Ich atmete durch. **Okay, Eddie, wie im Bus.** Damals hatte ich mit dem
-Bleistift ins Heft gekritzelt: „sei xxx das, was ich suche". Jetzt war es ein
+Bleistift ins Heft gekritzelt: „sei xxx das, was ich suche“. Jetzt war es ein
 ganzes Leben.
 
 Ich rechnete Schritt für Schritt. Nenner angleichen: 84. Dann:

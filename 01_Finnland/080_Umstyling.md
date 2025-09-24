@@ -14,21 +14,7 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Joutsa_Haare_faerben.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 
@@ -50,12 +36,12 @@ ein, streiche die erste Strähne. Hände zittern. Zweite Strähne – Mist, da b
 noch blond durch! Panik schießt hoch. Nachbürsten, schneller, gleichmäßiger. Die
 Uhr tickt wie irre, Eddie, mir läuft die Zeit davon!
 
-Hinter mir ein Geräusch. Tropfen? Schritt? , die Hände werden feucht. Ich muss
+Hinter mir ein Geräusch. Tropfen? Schritt?, die Hände werden feucht. Ich muss
 schneller werden, darf keine Zeit verlieren, um mit den anderen gemeinsam die
 Schule zu verlassen. Strähne um Strähne, von links nach rechts, oben nach unten.
 
 Ich halte inne, prüfe in dem winzigen Spiegel, den ich als Schlüsselanhänger
-trage -- hinten ist eine Lücke. "Verdamt! Das kostet mich wieder Zeit!", fluche
+trage -- hinten ist eine Lücke. „Verdamt! Das kostet mich wieder Zeit!“, fluche
 ich leise. Kopf drehen, nachpinseln. Dann nochmal über die Schläfen, wo das
 Blond mich auslacht. Meine Finger sind längst schwarz verschmiert, die Creme
 klebt unter den Nägeln.

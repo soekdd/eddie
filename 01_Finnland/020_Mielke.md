@@ -15,21 +15,7 @@
   "mode": "flashback",
   "illustrations": [
     "DDR_Berlin_Eddie_trifft_auf_Mielke.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 

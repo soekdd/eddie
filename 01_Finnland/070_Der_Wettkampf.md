@@ -15,21 +15,7 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Jotsenlampi_Wettkampf.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 

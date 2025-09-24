@@ -17,20 +17,6 @@
   "illustrations": [
     "FIN_SWE_Eddie_und_Raija.png"
   ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  },
   "todo": "Wir haben vergessen zuerwähnen, dass Eddie in den Zug eingesteigen ist und er abfährt, bevor die grauen Gestalten kommen. Es wird Nacht während der Fahrt, Eddie kommt am zeitigen Morgen in Stockholm an. Beim Aussteigen gibt es Redundanzen im Text. Es fehlt der Vergleich mit ostdeutschen Städten. Die Hoffnungslosigkeit der zerfallenden Bausubstanz."
 }
 ```
@@ -39,7 +25,7 @@ Die Fähre legt an. Schweden liegt vor uns, rötlich in der Abendsonne und ruhig
 als hätte sich die Welt auf einmal verändert, und alles, was hinter mir liegt,
 nur geträumt.
 
-„Ich begleite dich noch bis zum Bahnhof", sagt Raija, während wir die Gangway
+„Ich begleite dich noch bis zum Bahnhof“, sagt Raija, während wir die Gangway
 hinuntergehen.
 
 Dann sehe ich sie -- ein paar Männer in schwedischen Uniformen. Mein Puls
@@ -53,21 +39,21 @@ Ziehen der Angst in mir. Bald werde ich wieder allein sein.
 
 Am Bahnhof kauft sie mir ein Ticket nach Stockholm. Ich halte es fest, prüfe das
 Datum, den Wagen, die Nummer. Mein Herz klopft wie wild. „Danke, Raija… für
-alles. Für damals, für heute, einfach für alles", sage ich leise, die Worte
+alles. Für damals, für heute, einfach für alles“, sage ich leise, die Worte
 brechen ein wenig.
 
-„Du hast es geschafft, Eddie. Du bist unglaublich", antwortet sie, ihre Stimme
+„Du hast es geschafft, Eddie. Du bist unglaublich“, antwortet sie, ihre Stimme
 warm und sicher. Sie hält meine Hände noch einmal in ihren. „Vergiss nie, dass
-du stark bist."
+du stark bist.“
 
 Ich will nicht loslassen, will mich festhalten an ihr, an dieser Wärme, an
 diesem Schutz. Aber wir müssen. Sie sieht die Angst in meinen Augen, nickt nur
 leicht und drückt meine Hände noch einmal. „Geh, kleine Eddie. Sei vorsichtig,
-und komm zurück, wenn alles vorbei ist."
+und komm zurück, wenn alles vorbei ist.“
 
-Ich kann die Tränen kaum zurückhalten. „Ich… danke dir… für alles."\ „Du hast
-nichts zu danken", sagt sie und lächelt dabei so, dass die Wärme durch den
-kalten Bahnhof zieht. „Nur geh, jetzt. Ich sehe dich wieder."
+Ich kann die Tränen kaum zurückhalten. „Ich… danke dir… für alles.“\ „Du hast
+nichts zu danken“, sagt sie und lächelt dabei so, dass die Wärme durch den
+kalten Bahnhof zieht. „Nur geh, jetzt. Ich sehe dich wieder.“
 
 Ich umarme sie ein letztes Mal, viel länger, als es nötig wäre. Meine
 Dankbarkeit brennt in mir wie Feuer, Raijas Wärme schmiegt sich an mich wie ein

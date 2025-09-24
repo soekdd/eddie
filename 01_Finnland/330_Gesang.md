@@ -15,21 +15,7 @@
   "synopsis": "In der Waldhütte singen und musizieren Eddie und ihre Freunde Lieder von Freiheitsliedern bis Beatles; Eddie fühlt sich zum ersten Mal wirklich frei und angenommen.",
   "mood": "ecstatic, liberating, joyful",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  "mode": "mainline"
 }
 ```
 
@@ -52,7 +38,7 @@ wir uns einig: völlig verrückte Idee.
 Drinnen, tropfend und durchfroren, wärmen sie sich am Ofen. Die Stimmung kippt
 vom Gelächter ins Leichte, Weiche. Jemand beginnt zu summen, leise zuerst, dann
 tragen wir die Melodie weiter. Und plötzlich füllt sich die Hütte mit Gesang…
-*„Die Gedanken sind frei…"*
+*„Die Gedanken sind frei…“*
 
 Ich kenne das Lied natürlich. Wir haben es zu Hause auch schon gesungen, aber
 eher heimlich, auf Geburtstagen oder wenn die Eltern sicher waren, dass kein

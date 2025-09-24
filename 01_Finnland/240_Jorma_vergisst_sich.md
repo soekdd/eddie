@@ -15,35 +15,21 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Jyvaeskylae_Jorma.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 
 Am Morgen wache ich auf, Raija ist schon wieder weg nach Tampere. Die Wohnung
 ist still, bis auf ein Poltern an der Tür. Jorma stolpert herein. Er ist
-betrunken, die Augen glasig, der Atem stinkt nach billigem Schnaps. „Na, Eddie…"
+betrunken, die Augen glasig, der Atem stinkt nach billigem Schnaps. „Na, Eddie…“
 lallt er und kommt auf mich zu, schwankend. Er grinst schief. „Du bist viel
-hübscher als Raija…" Dann beugt er sich vor, versucht, mich zu küssen.
+hübscher als Raija…“ Dann beugt er sich vor, versucht, mich zu küssen.
 
 Mir schießt das Blut in den Kopf. Ich stoße ihn weg und schreie: „Du bist
 widerlich, Jorma! Du schwärmst von der DDR, während du im freien Westen lebst.
 Du redest von Idealen, aber du bist nur feige. Du lässt dich von Raija
 aushalten, obwohl du sie nicht respektierst. Und dann machst du dich an Mädchen
-ran, die viel zu jung für dich sind. Hast du überhaupt noch einen Funken Würde?"
+ran, die viel zu jung für dich sind. Hast du überhaupt noch einen Funken Würde?“
 
 Sein Gesicht verzerrt sich. Plötzlich holt er aus und schlägt mich ins Gesicht.
 Der Schmerz brennt, mein Ohr rauscht. Für einen Moment denke ich, er schlägt

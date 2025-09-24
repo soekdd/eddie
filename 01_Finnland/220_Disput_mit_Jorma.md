@@ -16,21 +16,7 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Jyvaeskylae_Jorma.png"
-  ],
-  "feedback": {
-    "anni": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "lucia": {
-      "rating": ".....",
-      "comments": ""
-    },
-    "soek": {
-      "rating": ".....",
-      "comments": ""
-    }
-  }
+  ]
 }
 ```
 

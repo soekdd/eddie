@@ -102,7 +102,7 @@ richtig. Sie trägt meine Geschichte in sich – Entbehrung, Flucht, Rettung. Wi
 könnte es passender sein?
 
 Ein Regal steht voller finnischer und schwedischer Biologielehrbücher. Momemt,
-da ist es, ein Genetikbuch: "Perinnöllisyystiede: Molekyylibiologian perusteet".
+da ist es, ein Genetikbuch: „Perinnöllisyystiede: Molekyylibiologian perusteet“.
 Ich schlage es auf, blättere, und bald fange ich an zu kichern. Eine Idee nimmt
 Gestalt an.
 
@@ -144,7 +144,7 @@ eine heimliche Trommel halten.
 „Wie geht es dir?“ frage ich schnell zuerst. Sie lacht: „Joo, ihan jees.“ - „Ja,
 ganz okay. Und wie geht es Dir?“
 
-"Ich lebe Sini. Ich lebe. Ist das nicht wunderbar?" - „Joo, ihan jees.“ erwidert
+„Ich lebe Sini. Ich lebe. Ist das nicht wunderbar?“ - „Joo, ihan jees.“ erwidert
 sie lachend.
 
 „Na, was soll ich dir heute kochen?“ frage ich und stoße sie spielerisch mit der
