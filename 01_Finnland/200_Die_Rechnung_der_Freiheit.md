@@ -40,7 +40,7 @@
 }
 ```
 
-Es ist schon dunkel draußen, die Lichter von Jyväskylä schimmern verschwommen
+<!-- Es ist schon dunkel draußen, die Lichter von Jyväskylä schimmern verschwommen
 hinter dem Vorhang. Der Sonntag liegt hinter uns – Einkaufen, Kochen, der
 Spaziergang am See, endlose Gespräche. So viel Normalität, dass ich fast
 vergessen könnte, wo ich wirklich stehe. Fast.
@@ -60,7 +60,7 @@ Ich zucke die Schultern. „Bin ich oft.“
 
 Ein kleines Lächeln huscht über ihr Gesicht, aber es bleibt nicht. Sie schiebt
 die Tasse ein Stück zur Seite, richtet sich auf. Jetzt weiß ich: Gleich wird sie
-ernst.
+ernst. -->
 
 „Wir müssen reden“, beginnt sie. „So … wie es weitergehen soll.“
 
@@ -73,8 +73,8 @@ Sie wollen dich zurückschicken.“
 „Zurück …“ Meine Stimme bricht fast. Zurück, das heißt: in die Hände von Mielke.
 
 Raija sieht mich an, fest und entschlossen. „Hier in Jyväskylä bist du erstmal
-sicher. Aber Helsinki?“ Sie schüttelt den Kopf. „Das ist gefährlich. Dort wartet
-er schon.“
+sicher. Aber Helsinki?“ Sie schüttelt den Kopf. „Das ist gefährlich. Dort warten
+sie schon.“
 
 Ich beiße mir auf die Lippe. In der Theorie wusste ich das längst, aber wenn sie
 es so ausspricht, fühlt es sich wie ein Urteil an.

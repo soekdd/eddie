@@ -82,7 +82,7 @@ jetzt nur noch Erinnerung. Ich wollte sie festhalten, aber sie glitten mir weg.
 Mir wurde heiß und kalt. Ich hatte an alles gedacht – Karten, Routen,
 Deckgeschichten. Aber nicht an das Loch, das sie in mir hinterließen. Nicht an
 das Risiko, dem ich sie aussetzte. Man wird sie verhören, ihnen was
-unterstellen. Meinetwegen.
+unterstellen. Meinetwegen. Ich bin ein Monster, was mache ich hier?
 
 Die Tür zur Gangway ging auf. Die Leute schoben sich langsam vorwärts. Ich stand
 dazwischen, wie gebremst. Mein Kopf schrie: Geh! Jetzt! Aber mein Herz wollte
