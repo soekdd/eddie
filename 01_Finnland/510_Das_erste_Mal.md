@@ -99,11 +99,10 @@ uns nicht mehr getroffen.“
 Sini kneift die Augen zusammen. „Und wie war er so?“
 
 Also erzähle ich. Von seinem schelmischen Lächeln, seiner Ruhe, seiner Geduld.
-Von dem Gefühl, dass er mir Raum ließ, obwohl ich nervös war.
-Und doch, wenn ich heute daran denke, wundere ich mich: Er war neun Jahre älter
-als ich. Aber nie hatte ich das Gefühl, er hätte mehr Macht. Im Gegenteil – ich
-hatte entschieden, ich hatte gefragt, ich hatte ihn ausgewählt. Es war mein
-Plan, nicht seiner.
+Von dem Gefühl, dass er mir Raum ließ, obwohl ich nervös war. Und doch, wenn ich
+heute daran denke, wundere ich mich: Er war neun Jahre älter als ich. Aber nie
+hatte ich das Gefühl, er hätte mehr Macht. Im Gegenteil – ich hatte entschieden,
+ich hatte gefragt, ich hatte ihn ausgewählt. Es war mein Plan, nicht seiner.
 
 Sini hängt an meinen Lippen, ihre Augen funkeln. Immer wieder bricht sie in
 Gelächter aus, springt hoch, wirft sich wieder hin. Und ich lache mit, bis uns
