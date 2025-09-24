@@ -48,7 +48,7 @@ sich ein Sturm darunter. Die Wipfel ächzen im Wind, der See ist graugrün und
 voller Schaumkronen. Keiner denkt ernsthaft ans Weiterziehen – eine dritte Nacht
 in der Hütte ist keine Frage.
 
-Doch nachmittags packt Peter und Matti der Übermut. „Nur mal testen!“, ruft
+Doch nachmittags packt der Übermut Peter und Matti. „Nur mal testen!“, ruft
 Matti, und schon stehen sie im Sturm draußen, beide nur in Badehosen, das
 Faltboot bereit. Wir drei Mädchen johlen und pfeifen, halb entsetzt, halb
 begeistert von dem Anblick.
@@ -57,7 +57,7 @@ Sie stoßen ab, werden von den Wellen hinausgetragen, paddeln tapfer gegen Wind
 und Gischt. In der Mitte des Sees stockt ihnen der Mut – zu gefährlich, um zu
 drehen. Also paddeln sie rückwärts wieder zurück, kämpfen sich klatschnass ans
 Ufer. Wir empfangen sie wie Sieger, klatschen und lachen, doch in Wahrheit sind
-wir uns einig: völlig verrückte Idee.
+wir uns einig: eine völlig verrückte Idee.
 
 Drinnen, tropfend und durchfroren, wärmen sie sich am Ofen. Die Stimmung kippt
 vom Gelächter ins Leichte, Weiche. Jemand beginnt zu summen, leise zuerst, dann
@@ -70,7 +70,7 @@ falsches Ohr mithört. Hier aber, mitten im Wald, weit weg von Dresden und den
 grauen Männern, kann ich einfach loslassen.
 
 Meine Stimme bricht zuerst ein bisschen, weil ich so laut einsetze. Dann ist es
-mir egal. Ich singe mit voller Kehle, so dass meine Brust vibriert. Alles in mir
+mir egal. Ich singe mit voller Kehle, sodass meine Brust vibriert. Alles in mir
 weitet sich – der Druck, die Angst, die heimlichen Gedanken – alles fliegt raus.
 Neben mir grinst Conny, und Sabine stößt mich lachend an, weil ich die höchste
 Note erwische, als hätte ich das geübt.
@@ -78,8 +78,8 @@ Note erwische, als hätte ich das geübt.
 Der Chor in der engen Hütte klingt schief und gleichzeitig wunderschön. Die
 Wände werfen den Gesang zurück, und ich habe das Gefühl, als würden wir nicht
 nur für uns singen, sondern für alle, die still bleiben müssen. Ich spüre
-Gänsehaut, aber nicht vor Kälte. Ich weiß in diesem Moment: selbst wenn morgen
-alles schiefgeht – diesen Abend, diesen Gesang, kann mir niemand mehr wegnehmen.
+Gänsehaut, aber nicht vor Kälte. Ich weiß in diesem Moment: Selbst wenn morgen
+alles schiefgeht, kann mir diesen Abend, diesen Gesang niemand mehr wegnehmen.
 
 Nachdem der letzte Ton verklungen ist, hängen wir alle einen Moment still da.
 Mein Herz klopft, als wäre ich gerade einen Marathon gelaufen. Da zieht Conny
@@ -87,15 +87,15 @@ ihre Gitarre hervor, stimmt ein paar Saiten und lässt die ersten Töne von
 Imagine erklingen. Sabine klopft dazu den Takt auf den Boden, Peter summt
 zaghaft mit.
 
-„Imagine all the people…“ – sie singen auf Englisch, ein wenig unsicher, aber
+„Imagine all the people…“ – Sie singen auf Englisch, ein wenig unsicher, aber
 mit voller Inbrunst. Ich stolpere über die Aussprache, doch wir lachen nur, wenn
 einer danebenliegt. Und trotzdem klingt es – groß.
 
-Conny lächelt schief, haut kräftiger in die Saiten, und schon zaubert sie die
+Conny lächelt schief, haut kräftiger in die Saiten und schon zaubert sie die
 ersten Akkorde von Let it be. Wir alle fallen ein, diesmal lauter,
 selbstbewusster. Bei Hey Jude reißt sie die Gitarre hoch, wir strecken die Arme
-in die Höhe, und beim endlosen Na-na-na-naaa kippen wir fast vor Lachen um. Die
-Hütte bebt, und jeder Ton jagt durch die Balken.
+in die Höhe und kippen beim endlosen Na-na-na-naaa fast vor Lachen um. Die Hütte
+bebt, und jeder Ton jagt durch die Balken.
 
 Mein Hals kratzt, doch ich singe weiter, weil ich nicht will, dass es endet. Im
 flackernden Licht sehe ich die Gesichter der anderen: rote Wangen, glänzende
@@ -109,7 +109,7 @@ singe ich leiser, fast nur für sie. Dann reißt mich der Refrain wieder mit, un
 ich schmettere, als wollte ich den Klang bis über die Ostsee tragen.
 
 Conny wechselt abrupt den Rhythmus, hämmert ein punkiges Riff. „Du willst mich
-küssen!“ – sie brüllt den Einstieg, wir stürzen uns lachend hinterher. Sabine
+küssen!“ – Sie brüllt den Einstieg, wir stürzen uns lachend hinterher. Sabine
 hüpft auf der Pritsche, Matti trommelt auf eine leere Dose, Peter klatscht im
 Takt. Ich singe schief, wild, voller Energie, als sei das Lied eine Kampfansage
 an alles, was uns fesselt.
@@ -120,7 +120,7 @@ knacken, draußen peitscht der Regen, und drinnen fühlen wir uns, als hätten w
 das Universum beschworen.
 
 Ich stolpere kurz hinaus in die Nacht. Die Luft ist kühl, die Sterne funkeln.
-Ich atme tief ein, flüstere ein stummes „Danke“ an wen auch immer, und gehe
+Ich atme tief ein, flüstere ein stummes „Danke“ an wen auch immer und gehe
 zurück in die Hütte.
 
 Drinnen greift Conny schon wieder in die Saiten. Let it be. Alle brüllen mit,
@@ -132,5 +132,5 @@ vielleicht stimmt das auch.
 Als der Refrain verklingt, lachen wir, Sabine wirft mir die Arme um die
 Schultern, und mein Herz hämmert nicht vor Angst, sondern vor Leben. Draußen
 kündigt ein erster Vogel den Morgen an. Wir sinken erschöpft in unsere
-Schlafsäcke, noch kichernd, noch summend, und schlafen ein wie eine Band nach
-dem letzten Konzert.
+Schlafsäcke, noch kichernd, noch summend und schlafen ein wie eine Band nach dem
+letzten Konzert.

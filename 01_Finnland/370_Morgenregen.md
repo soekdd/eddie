@@ -190,7 +190,7 @@ Der Regen fängt nicht spektakulär an. Er ist einfach da, als hätte jemand am
 Himmel die Dusche vergessen zuzudrehen. Ich stolpere weiter, die Schuhe saugen
 sich voll, das Moos zieht mir fast die Sohlen ab. Auf der Karte steht „Laavu“,
 aber da ist nur ein Picknickdach. Der Wind peitscht den Regen darunter. Ich
-ziehe mein Hemd aus, wringe, hänge es an einen rostigen Nagel – es tropft
+ziehe mein Hemd aus, wringe es aus, hänge es an einen rostigen Nagel – es tropft
 schneller, als es trocknet.
 
 Die Mücken sind schlimmer als der Regen. Mein Spray ist fast leer, jeder
@@ -198,9 +198,9 @@ Sprühstoß ist schon Panik. Sie stürzen sich trotzdem auf mich, als hätten si
 mich ausgesucht. Sie stechen durch Stoff und Haut, meine Hände schwellen an,
 Finger wie Würste, rot, juckend, brennend. Ich kratze, bis es blutet. Ich
 schlage um mich, verliere, immer wieder. Mein Körper ist ein offenes Buffet. Ich
-fühle mich wie ausgeliefert, kleiner als klein. Ich esse kalte Nudeln aus der
-Tüte, versuche nicht zu heulen, doch die Tränen laufen sowieso. In dem Moment,
-verfluche ich in den Regen, als wäre er ein lebendiger Feind.
+fühle mich ausgeliefert, kleiner als klein. Ich esse kalte Nudeln aus der Tüte,
+versuche nicht zu heulen, doch die Tränen laufen sowieso. In dem Moment
+verfluche ich den Regen, als wäre er ein lebendiger Feind.
 
 Am nächsten Tag: Wald, Moor, Wald, immer gleich, immer nass. Der nächste
 Unterstand, Kourajärven kota, ist ein schlechter Witz. Bretter, modrig, kein
@@ -211,14 +211,14 @@ wollen mich im Stich lassen. Ich will schreien: „Ich schaffe das nicht!“ Doc
 niemand hört. Also gehe ich weiter, obwohl ich es nicht kann, einfach nur, weil
 ich keine Wahl habe.
 
-Die darauf folgende Hütte, Sompalaavu, liegt in einem alten Torfmoor. Gräben
+Die darauffolgende Hütte, Sompalaavu, liegt in einem alten Torfmoor. Gräben
 ziehen sich wie Narben durchs Gelände, nasses Gras peitscht gegen meine Beine.
 Der Regen kennt kein Erbarmen. Der Unterstand spottet mir ins Gesicht: klein,
-winddurchlässig. Ich versuche ein Feuer, es ertrinkt sofort. Kalte Nudeln,
-kalter Atem. Nachts die Schüttelfröste, mein ganzer Körper schlägt im Takt des
-Regens. Ich liege da und weiß: ich habe die Kontrolle verloren. Ich denke an den
-See am Anfang, an das Gefühl, unbesiegbar zu sein. Und könnte fast lachen, so
-weit weg ist das.
+winddurchlässig. Ich versuche, ein Feuer zu machen. Es ertrinkt sofort. Kalte
+Nudeln, kalter Atem. Nachts die Schüttelfröste, mein ganzer Körper schlägt im
+Takt des Regens. Ich liege da und weiß: Ich habe die Kontrolle verloren. Ich
+denke an den See am Anfang, an das Gefühl, unbesiegbar zu sein. Und könnte fast
+lachen, so weit weg ist das.
 
 Harjanevan laavu, laut Karte gleich ums Eck, entpuppt sich als zähe Ewigkeit.
 Ich gehe nicht, ich zähle: zweihundert Schritte, Pause. Noch mal zweihundert.
@@ -234,16 +234,16 @@ Die Karte lügt: „ikkeläjärven laavu“ sollte die nächste Station sein. De
 schüttet, der Boden klebt, am Ziel – nichts. Nur Wald, Felder, Leere. Ich starre
 auf die Stelle, als könnte ich die Hütte herbeizaubern. Dann sehe ich am Rand
 der Felder einen Hof: rote Gebäude, eine Reihe Birken davor, ein Weg biegt
-dorthin ab. Ich bleibe stehen, kämpfe mit mir, übe im Kopf einen Satz, stark,
+dorthin ab. Ich bleibe stehen, kämpfe mit mir, übe im Kopf einen Satz: stark,
 erwachsen. Doch meine Stimme bricht, als ich sage: „Nass. Nur eine Nacht.
 Scheune?“ Die Frau sieht mich an wie etwas, das man vom Hof jagen sollte. Doch
 sie nickt. Rettung – knapp, ohne Wärme.
 
 Die Scheune: Heu, Eisen, Kuhgeruch. Ein Ort, der nicht nach Hölle riecht. Ich
 ziehe die Schuhe aus, sehe meine Füße: weiß, aufgequollen, runzlig, wie von
-Säure zerfressen. Ich schmiere sie trocken, es nützt nichts. Ich breite meine
+Säure zerfressen. Ich reibe sie trocken, es nützt nichts. Ich breite meine
 Sachen aus, baue mir einen Wäschewald. Die Bäuerin bringt heißes Wasser, einen
-Laib Brot und ein ordentliches Stück Käse. Ich will „danke“ sagen, doch meine
+Laib Brot und ein ordentliches Stück Käse. Ich will „Danke“ sagen, doch meine
 Stimme ist weg. Ich nicke nur, atme Dampf wie ein kaputter Schornstein. Und
 kippe ins Heu, nicht weil ich will, sondern weil ich nicht mehr kann.
 

@@ -79,15 +79,15 @@ es genau das, was Glauben bedeutet: so fest an etwas zu glauben, dass man sich
 selbst vergisst. Ich habe keine Kirche, keinen Gott, aber ich spüre ihre
 Aufrichtigkeit noch jetzt. Und vielleicht war das auch eines dieser Wunder.
 
-Und dann denke ich an Klara und Jens. Freunde meiner Eltern, Künstler. Kein
-Parteibuch-Karrierist, kein grauer Funktionär. Sie hatten Linolschnitte an den
-Wänden hängen, den Geruch von Terpentin in der Luft, und manchmal stapelten sich
-Plakate mit dicken roten Lettern in der Ecke. Ihr kleines Atelier wirkte wie
-eine Mischung aus Werkstatt und Wohnzimmer. Sie sagten nie: „Die DDR ist
+Und dann denke ich an Klara und Jens. Freunde meiner Eltern, Künstler. Keine
+Parteibuchkarrieristen, keine grauen Funktionäre. Sie hatten Linolschnitte an
+den Wänden hängen, den Geruch von Terpentin in der Luft, und manchmal stapelten
+sich Plakate mit dicken roten Lettern in der Ecke. Ihr kleines Atelier wirkte
+wie eine Mischung aus Werkstatt und Wohnzimmer. Sie sagten nie: „Die DDR ist
 perfekt.“ Im Gegenteil. Am Küchentisch, spät am Abend, wenn sie dachten, ich
-schliefe schon, diskutierten sie leise mit meinen Eltern. „Von innen verändern“,
+schlafe schon, diskutierten sie leise mit meinen Eltern. „Von innen verändern“,
 hörte ich Klara einmal sagen, „sonst nehmen sie uns auch noch die letzten Reste
-Würde.“ Jens nickte nur, während er die Hände schwarz von der Druckerschwärze
+an Würde.“ Jens nickte nur, während er die Hände schwarz von der Druckerschwärze
 hatte.
 
 Sie glaubten. Nicht an Gott, sondern an eine gerechte Welt, in der niemand mehr

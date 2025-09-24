@@ -53,7 +53,7 @@ kommt auch aus dem Osten. Aus Rostock.“
 
 Mir stockt der Atem. Ich hatte ihn für still, fast unscheinbar gehalten – und
 jetzt wird mir klar: Er trägt dieselben Schatten im Gepäck wie ich. Die anderen
-nicken, neugierig. Sie wollen meine Flucht mit seiner Geschichte vergleichen,
+nicken neugierig. Sie wollen meine Flucht mit seiner Geschichte vergleichen,
 gespannt, ob es Unterschiede oder Gemeinsamkeiten gibt.
 
 Peter rückt näher ans Feuer, zieht die Jacke enger und sagt langsam, als müsste
@@ -97,8 +97,8 @@ einen Job – man verliert sein Umfeld, seine Rechte, sein Zuhause. Das Warten,
 das Schweigen, die Isolation – das frisst dich auf.“
 
 Die anderen hören gebannt zu. Sabine hält die Hand vor den Mund, Conny wischt
-sich heimlich die Augen. Matti sagt nichts, aber seine Finger trommeln nervös am
-Becher.
+sich heimlich die Augen. Mattie sagt nichts, aber seine Finger trommeln nervös
+am Becher.
 
 Ich denke: Das sind Fakten, die ich kenne, aber noch nie so gehört habe. Peters
 Stimme macht das alles greifbar – nicht abstrakt, sondern mit Namen, mit Zorn

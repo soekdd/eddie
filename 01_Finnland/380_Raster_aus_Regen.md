@@ -56,7 +56,7 @@
     "bleigrauer See, tropfender Steg",
     "Rhythmus der Turbinen im Kopf",
     "kariertes Landschafts-Raster (Gräben im rechten Winkel)",
-    "nasses Holz, Lkw-Spuren, quetschter Frosch",
+    "nasses Holz, Lkw-Spuren, gequetschter Frosch",
     "Zählgeräusch der Schritte (Pace-Counting)",
     "Geruch von Zuckerwasser/Tee, Asche in der Tasse",
     "das permanente Prasseln des Regens hinter Brettern"
@@ -136,7 +136,7 @@
     "Entscheidung auf Raster-Logik (Gräben als x- und y-Achsen)",
     "Markierungspunkt A via abgestorbenem Kieferstumpf",
     "Peilung auf Straßenrauschen, grobe Winkelbestimmung",
-    "'Aim-off' Technik zur sicheren Treffung eines Forstwegs",
+    "'aim-off'-Technik zum sicheren Treffen eines Forstwegs",
     "Messung in Paces (geschätzt: 100 Paces ≈ 70 m) und Schnittmengenrechnung"
   ],
   "nearest_cities": [
@@ -190,13 +190,13 @@ Jucken. Dann überrollt mich ein Anfall, ich kratze wie verrückt, höre nicht a
 bis Blut an den Fingern klebt. Und auch das ändert nichts – sie kommen trotzdem
 wieder.
 
-Am nächsten Tag reißt es kurz auf, Santavuori. Ich schleppe mich auf den
+Am nächsten Tag reißt es kurz auf, bei Santavuori. Ich schleppe mich auf den
 Aussichtsturm, jeder Schritt knirscht in den Knien. Oben weitet sich die Welt:
 Felder, Straßen, Kieferplantagen, ein kariertes Brett, das sich bis Vaasa zieht.
 So nah – und gleichzeitig unendlich weit. Ich greife mir an den Hals, spüre
-Fieberhitze unter nassen Haaren. Der Wind weht mir Tränen aus dem Gesicht, und
-ich schwöre mir, weiterzugehen. Unten brennen die Füße wieder, ich gehe trotzdem
-weiter.
+Fieberhitze unter nassen Haaren. Der Wind weht mir die Tränen aus dem Gesicht,
+und ich schwöre mir, weiterzugehen. Unten brennen die Füße wieder, ich gehe
+trotzdem weiter.
 
 Dann kommt der Tag, an dem ich mich verliere.
 
@@ -208,26 +208,26 @@ schiefes Wort ist. Der Wind drückt, die Sicht ist flach, die Welt eine Tapete.
 Ich bleibe stehen. Panik steigt in mir hoch, meine Hände zittern. Ich setze mich
 in den Matsch und fange an zu heulen, laut, hässlich, wie ein Kind.
 
-Papa hat mit mir Paces geübt: hundert Schritte sind ungefähr siebzig Meter. Ich
-klammere mich daran, wie an ein Seil. „Nullpunkt“, sage ich mir, „dieser Graben
+Papa hat mit mir Paces geübt: Hundert Schritte sind ungefähr siebzig Meter. Ich
+klammere mich daran wie an ein Seil. „Nullpunkt“, sage ich mir, „dieser Graben
 ist meine x-Achse.“ Ich zähle Paces, schreie zwischendurch in den Regen, weil
-ich nicht mehr kann. Ich setze Markierungen: ein abgestorbener Kieferstumpf mit
+ich nicht mehr kann. Ich setze Markierungen: Ein abgestorbener Kieferstumpf mit
 drei Ästen – Punkt A. Ich wische mir Rotz und Tränen ins Hemd. Die Karte läuft
-mir weg, die Finger sind zu nass, zu schwach. Aber die Zahlen bleiben.
+mir davon, die Finger sind zu nass, zu schwach. Aber die Zahlen bleiben.
 
 Ich suche ein zweites Merkmal. Nichts. Dann höre ich es: fernes Rauschen.
 Straße. Ich drehe mich, bis der Wind gleichmäßig auf beide Wangen trifft, peile,
 rechne grob. Die Gräben verlaufen Nord–Süd, Ost–West. Mathe rettet mich. Ich
-gehe 300 Paces nach Süden, rechne 210 Meter. Punkt B: eine breitere Rinne. Auf
-der Karte gibt es genau eine Stelle, wo das passt. Wenn ich recht habe, bin ich
-falsch abgebogen – nur eine Zelle.
+gehe 300 Paces nach Süden, rechne 210 Meter aus. Punkt B: Eine breitere Rinne.
+Auf der Karte gibt es genau eine Stelle, an der das passt. Wenn ich recht habe,
+bin ich falsch abgebogen – nur eine Zelle.
 
 Ich setze bewusst daneben an, „aim-off“, um sicher den Forstweg zu treffen. 600
-Paces West, dann 200 Nord. Ich zähle wie eine Wahnsinnige, stolpere, verliere
-den Faden, fange wieder von vorn an. 1, 2, 3 … Meine Stimme bricht, meine Beine
-auch. Und doch treffe ich einen Weg. Kein Schild, nur Lkw-Spuren und ein
-gequetschter Frosch als Beweis, dass Zivilisation noch existiert. Ich kippe fast
-hin, vor Erleichterung.
+Paces nach Westen, dann 200 nach Norden. Ich zähle wie eine Wahnsinnige,
+stolpere, verliere den Faden, fange wieder von vorn an. 1, 2, 3 … Meine Stimme
+bricht, meine Beine auch. Und doch treffe ich einen Weg. Kein Schild, nur
+Lkw-Spuren und ein gequetschter Frosch als Beweis, dass Zivilisation noch
+existiert. Ich kippe fast um vor Erleichterung.
 
 Aber ich habe Angst. Angst, dass ich mich verrechnet habe, dass ich wieder um
 ein Quadrat verzählt habe. Ich weine wieder, weil ich zu müde bin, mich zu
@@ -235,20 +235,20 @@ freuen. Meine Beine sind Holz, mein Kopf rechnet Kreise: Distanz A, Distanz B,
 Schnittpunkt C. Jeder Schnitt lässt meinen Körper noch mehr nachgeben.
 
 Nach Stunden endlich: eine Kante, ein Schlag, gezackt wie auf der Karte.
-Treffer. Ich bin wieder drin. Ich lache heiser, ein Tiergeräusch. Kein Triumph.
-Nur nacktes Überleben.
+Treffer. Ich bin wieder drin. Ich lache heiser, es klingt wie ein Tiergeräusch.
+Kein Triumph. Nur nacktes Überleben.
 
-Der Preis: fast vierzig Kilometer an diesem Tag. Kein Held, nur ein zerfetztes
-Mädchen. Als ich Kurpanvuoren laavu erreiche, falle ich einfach in den
-Unterstand. Kein Feuer, kein Essen. Nur Husten, der durch mich durchschlägt, wie
-ein Motor, der nicht mehr ausgeht. Meine Stirn glüht, die Beine sind taub. Ich
-trinke Zuckerwasser, weil ich nichts anderes schaffe. In der Nacht wache ich
+Der Preis: fast vierzig Kilometer an diesem Tag. Keine Heldin, nur ein
+zerfetztes Mädchen. Als ich die Kurpanvuoren laavu erreiche, falle ich einfach
+in den Unterstand. Kein Feuer, kein Essen. Nur Husten, der durch mich schlägt
+wie ein Motor, der nicht mehr ausgeht. Meine Stirn glüht, die Beine sind taub.
+Ich trinke Zuckerwasser, weil ich nichts anderes schaffe. In der Nacht wache ich
 auf, weil mein eigener Atem mich erschreckt.
 
 Am Morgen stolpere ich weiter, blind, fast benommen. Särkisen tupa – endlich
-eine Hütte. Geschlossen, aber mit Dach, mit Brettern, die mich trennen vom Regen
-und den Mücken. Ich kapituliere, nicht aus Wahl, sondern aus Zusammenbruch. Zwei
-Nächte. Tee, noch ein Tee, dann nur heißes Wasser in einer Tasse, die nach Asche
-riecht. Ich sitze da, schlottere, und denke: Ich habe mich verloren. Aber die
-Mathematik hat mich zurückgebracht. Mein Kopf rechnet, mein Körper zerfällt.
-Zwangspause. Ende der Diskussion.
+eine Hütte. Geschlossen, aber mit Dach, mit Brettern, die mich vom Regen und den
+Mücken trennen. Ich kapituliere, nicht aus freier Wahl, sondern aus purem
+Zusammenbruch. Zwei Nächte. Tee, noch ein Tee, dann nur heißes Wasser in einer
+Tasse, die nach Asche riecht. Ich sitze da, schlottere und denke: Ich habe mich
+verloren. Aber die Mathematik hat mich zurückgebracht. Mein Kopf rechnet, mein
+Körper zerfällt. Zwangspause. Ende der Diskussion.

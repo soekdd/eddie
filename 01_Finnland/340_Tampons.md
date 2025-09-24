@@ -9,10 +9,10 @@
     "Eddie",
     "Sabine",
     "Conny",
-    "Mattie",
+    "Matti",
     "Peter"
   ],
-  "synopsis": "Eddie bekommt von Sabine Tampons angeboten, probiert sie zum ersten Mal aus und entdeckt am sonnigen Morgen nach Regentagen beim gemeinsamen Baden im See eine neue Freiheit. Die Jungs Mattie und Peter zeigen auffälliges Interesse, was Eddie verlegen macht, aber insgeheim freut sie sich.",
+  "synopsis": "Eddie bekommt von Sabine Tampons angeboten, probiert sie zum ersten Mal aus und entdeckt am sonnigen Morgen nach Regentagen beim gemeinsamen Baden im See eine neue Freiheit. Die Jungs Matti und Peter zeigen auffälliges Interesse, was Eddie verlegen macht, aber insgeheim freut sie sich.",
   "mood": "intimate, cozy, liberating, shy but joyful",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
@@ -60,9 +60,9 @@ eine erwachsene Frau zu einer anderen: „Nicht verkrampfen. Drehen, nicht
 drücken. Geht besser, wenn du entspannt bist. Probier’s gleich draußen. Und dann
 Daumen hoch oder runter.“
 
-Plötzlich halte ich ein Stück erwachsene Welt in der Hand. Mit der Packung fühle
-ich mich nicht mehr wie ein Mädchen – sondern wie jemand, der ernst genommen
-wird.
+Plötzlich halte ich ein Stück erwachsener Welt in der Hand. Mit der Packung
+fühle ich mich nicht mehr wie ein Mädchen – sondern wie jemand, der ernst
+genommen wird.
 
 Ich schleiche hinaus, probiere es. Erst verkrampft, fast wie bei einer Mutprobe.
 Dann klappt es. Ganz ungewohnt, fast so, als hätte ich etwas vergessen, was
@@ -78,7 +78,7 @@ Sabine, und plötzlich sind wir wieder wie Kinder im Ferienlager.
 
 Matti und Peter reißen sofort die Klamotten runter. Ich hatte längst erklärt,
 dass ich keine Badesachen habe – und nach einem Blick zwischen Sabine und Conny
-ist klar: wir machen alle FKK.
+ist klar: Wir machen alle FKK.
 
 Einen Herzschlag lang werde ich rot wie eine Zwölfjährige, die etwas Verbotenes
 tut. Dann renne ich los, den Steg hinunter, springe ins Wasser. Es ist kalt, ich

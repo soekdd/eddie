@@ -76,16 +76,16 @@ Stimmung. Vier Gesichter schauen mich mit einer fast strengen Empörung an.
 
 Und ich spüre plötzlich, wie verbindlich sie ist, wie sicher, fast so, als hätte
 sie für mich einen Platz in ihrer Welt reserviert. Mir wird warm ums Herz. Ich
-nicke, leise: „Danke. Wirklich … danke.“ Und für einen Moment träume ich mich
+nicke leise. „Danke. Wirklich … danke.“ Und für einen Moment träume ich mich
 nach Paderborn: eine kleine Wohnung, eine Uni, ich mit Heften voller
 Gleichungen, nicht als Außenseiterin, sondern als eine von vielen, die an
 Mathematik Freude haben. Und draußen stehen Freunde, die schon auf mich warten.
 
-Als es dann wirklich soweit ist, tuscheln die vier hinter meinem Rücken,
+Als es dann wirklich so weit ist, tuscheln die vier hinter meinem Rücken,
 kichern, tragen Kisten und Beutel zusammen. Ich ahne etwas, aber erst im letzten
 Moment drücken sie mir das alles in die Hand: Töpfe, Besteck, Lebensmittel, eine
 Isomatte, fast ein halbes Outdoor-Geschäft -- und obendrauf einen ganzen Haufen
-Damenhygiene, Kosmetik und Schokolade. Westliche. Sachen, die ich noch nie
+Damenhygiene, Kosmetik und Schokolade. Westliches. Sachen, die ich noch nie
 gesehen habe, die ich staunend betrachte wie exotische Waren von einem anderen
 Planeten.
 

@@ -103,9 +103,9 @@ schleppen zwei Paddelboote vom See auf eine Wiese. Sie wirken wie Studenten und
 reden über die Route und über das Wetter, das schon wieder Regen bringen soll.
 
 Mir wird heiß und kalt zugleich. Was, wenn sie Westdeutsche sind? Dann könnten
-sie sofort merken, dass meine Wuppertal Legende nicht stimmt. Und was, wenn es…
-Ostdeutsche sind? Nein, das wäre fast unmöglich, oder? Aber ich traue mich
-nicht, nähere mich ihnen vorsichtig und halte einigem Abstand, bis ich die
+sie sofort merken, dass meine Wuppertal-Legende nicht stimmt. Und was, wenn es…
+Ostdeutsche sind? Nein, das wäre fast unmöglich, oder? Aber ich traue mich nicht
+so recht, nähere mich ihnen vorsichtig und halte einigen Abstand, bis ich die
 Schutzhütte sehe.
 
 Mein Magen zieht sich zusammen. Elämyskota. Genau diese Hütte hatte ich mir für
@@ -131,7 +131,7 @@ Kontakt wagen.
 
 Langsam trete ich aus dem Schatten der Bäume. Ich spüre, wie mein Herz pocht.
 Noch sehen sie mich nicht. Ich betrachte ihre Boote. Es sind eindeutig
-Pouch-Faltboote aus der DDR. Wie können hier mitten in Finnland vier Ostdeutsche
+Pouch-Faltboote aus der DDR. Wie können hier mitten in Finnland vier ostdeutsche
 Jugendliche sein? Dann sehe ich den Schriftzug „Germania“, wo eigentlich „Pouch“
 stehen müsste. Sie haben die Boote nicht in der DDR gekauft. Es sind
 Westdeutsche. Ich entspanne mich. Aber werden sie meine Legende durchschauen?
@@ -144,7 +144,7 @@ Und da stehe ich, mitten im Wald, nach Tagen allein, plötzlich vor vier
 lachenden, neugierigen Deutschen.
 
 Ich bin noch gar nicht richtig im Licht, da winkt mir schon eine von den beiden
-Mädchen zu. Blond, lachend, ein offender Blick – als ob ich längst zur Gruppe
+Mädchen zu. Blond, lachend, ein offener Blick – als ob ich längst zur Gruppe
 gehöre. „Komm her, wir haben genug Tee für alle!“, ruft sie.
 
 Unsicher stolpere ich näher, und sofort geht das große Vorstellen los. „Ich bin
@@ -153,7 +153,7 @@ und deutet auf die anderen. „Das ist Conny – eigentlich Cornelia, aber sag b
 nicht Cornelia, das mag sie nicht. Und das sind Peter und Matti. Wir sind aus
 Paderborn. Und du?“
 
-„Eddie“ stammele ich, doch bevor ich weiter antworten kann, fällt mir Conny
+„Eddie“, stammele ich, doch bevor ich weiter antworten kann, fällt mir Conny
 schon lachend ins Wort: „Nicht gleich so streng, Sabi! Lass das Mädchen erstmal
 Luft holen!“ Sie hat braune Locken, ein Gesicht voller Sommersprossen und diese
 Art von Lachen, die sofort ansteckt.
@@ -193,7 +193,7 @@ Der Abend wird lebhaft. Wir kochen Nudeln, sitzen auf der Terrasse, hören den
 Regen rauschen. Ich versuche, locker mitzuhalten, aber irgendwann kommt das
 Gespräch auf meine Herkunft.
 
-„Also Eddie“, sagt Sabine schließlich, „jetzt sind wir mal gespannt. Wo kommst
+„Also, Eddie“, sagt Sabine schließlich, „jetzt sind wir mal gespannt. Wo kommst
 *du* eigentlich her?“
 
 Mir schnürt es den Hals zu. Ich hole tief Luft und versuche noch einmal die alte
