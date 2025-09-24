@@ -11,7 +11,8 @@
   "synopsis": "In Stockholms Bibliothek stößt Eddie auf die klassische Diophant-Gleichung, rechnet sie wie einst im DDR-Bus durch und erkennt, wie Mathematik ihr Leben strukturiert – diesmal, um eigene Zukunftsvariablen zu setzen.",
   "mood": "",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {}
 }
 ```
 

@@ -90,7 +90,31 @@
       "description": "Eddies Eltern und akademische Verbündete sitzen im Besprechungszimmer; Eddie wartet draußen und zählt Bodenfliesen.",
       "style": "realistisch, angespannte Stimmung"
     }
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "470_Gute_Gruende",
+    "Ton": {
+      "Einschaetzung": "Reflektiert, ernst, Eddie denkt über ihre Entscheidungen nach.",
+      "Kritik": "Ton wirkt stellenweise zu abgeklärt, fast wie nachträgliche Analyse. Für eine 17-Jährige klingt es sehr erwachsen."
+    },
+    "Logik": {
+      "Einschaetzung": "Gedankengang nachvollziehbar, passt in die Entwicklung.",
+      "Kritik": "Begründungen wirken zu rational und zu glatt, als hätte Eddie alle Antworten parat. Weniger Brüche, Zweifel oder Widersprüche als glaubwürdig wären."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie steht klar im Fokus, zeigt Nachdenklichkeit.",
+      "Kritik": "Ihre Verletzlichkeit fehlt. Sie wirkt wie eine Erzählerin mit Überblick, nicht wie eine Jugendliche im Moment."
+    },
+    "Sprache": {
+      "Einschaetzung": "Klar, präzise.",
+      "Kritik": "Zu analytisch, wenig jugendliche Direktheit. Füllwörter fehlen fast komplett, dadurch wirkt es glatt und unspontan."
+    },
+    "Fazit": {
+      "Staerken": "Zeigt Eddies Reifung, verdeutlicht innere Auseinandersetzung.",
+      "Schwaechen": "Zu rational und erwachsen, Zweifel und Brüche fehlen, Sprache zu glatt.",
+      "Fix": "Mehr Unsicherheiten einbauen, jugendliche Gedankensprünge zulassen, Sprache lebendiger machen."
+    }
+  }
 }
 ```
 

@@ -16,7 +16,31 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Vaasa_Eddie_kuesst_Sini.png"
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "600_Wiedersehen_mit_Raija",
+    "Ton": {
+      "Einschaetzung": "Emotional, hoffnungsvoll, Eddie schildert Begegnung mit Freude.",
+      "Kritik": "Ton kippt stellenweise ins Pathetische. Eddie wirkt sehr abgeklärt in der Darstellung, jugendliche Unsicherheit fehlt."
+    },
+    "Logik": {
+      "Einschaetzung": "Wiedersehen dramaturgisch sinnvoll, passt in den Handlungsbogen.",
+      "Kritik": "Die Szene wirkt zu glatt, ohne Reibung oder Missverständnisse. Realismus könnte durch Stolperer gestärkt werden."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie voller Emotion, Raija als wichtige Bezugsperson klar erkennbar.",
+      "Kritik": "Beide Figuren wirken stellenweise zu idealisiert. Konflikte oder Ambivalenzen fehlen."
+    },
+    "Sprache": {
+      "Einschaetzung": "Gefühlsbetont, bildhaft.",
+      "Kritik": "Teilweise überladen mit Metaphern, Sprache fast kitschig. Wenig jugendliche Direktheit oder spontane Reaktionen."
+    },
+    "Fazit": {
+      "Staerken": "Schönes Wiedersehen, emotionale Intensität, wichtiger Bezug für Eddie.",
+      "Schwaechen": "Zu glatt, zu idealisiert, Sprache kitschig.",
+      "Fix": "Mehr Unsicherheit, Missverständnisse oder Brüche einbauen, Sprache straffen und jugendlicher machen."
+    }
+  }
 }
 ```
 

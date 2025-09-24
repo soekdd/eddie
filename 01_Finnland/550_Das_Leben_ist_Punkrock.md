@@ -5,12 +5,43 @@
   "date": "1985-09-07",
   "daytime": "evening",
   "place": "Kneipe in Vaasa",
-  "persons": ["Eddie", "Sini", "Jussi", "viele Gäste"],
+  "persons": [
+    "Eddie",
+    "Sini",
+    "Jussi",
+    "viele Gäste"
+  ],
   "synopsis": "Eddie tanzt wild, bekommt von Sini den Schlüssel überreicht, entscheidet sich aber gegen den One-Night-Stand und geht mit Sini nach Hause.",
   "mood": "bittersüß, Freundschaft, zärtliche Nähe, ausgelassenes Gelächter",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "illustrations": ["FIN_Vaasa_Jussi.png"]
+  "illustrations": [
+    "FIN_Vaasa_Jussi.png"
+  ],
+  "proofreading": {
+    "Kapitel": "550_Das_Leben_ist_Punkrock",
+    "Ton": {
+      "Einschaetzung": "Wild, rotzig, jugendlich. Eddie klingt frech und trotzig.",
+      "Kritik": "Ton schwankt: manchmal authentisch jugendlich, dann wieder zu reflektiert. Gefahr, dass die wilde Energie nicht durchgehend trägt."
+    },
+    "Logik": {
+      "Einschaetzung": "Bezug zu Punkkultur passt, spiegelt jugendliches Lebensgefühl.",
+      "Kritik": "Manche Bezüge wirken zu erklärend, fast lexikonhaft. Für Eddie sollte es unmittelbarer klingen."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie rebellisch, voller Energie.",
+      "Kritik": "Ihre Verletzlichkeit bleibt außen vor, sie wirkt fast zu cool. Andere Figuren treten kaum in Erscheinung."
+    },
+    "Sprache": {
+      "Einschaetzung": "Direkt, bissig, mit Witz.",
+      "Kritik": "Einige Sätze überinszeniert, fast wie Songtexte. Füllwörter und Jugendsprache könnten natürlicher wirken."
+    },
+    "Fazit": {
+      "Staerken": "Lebendig, energiegeladen, zeigt Eddies Rebellion.",
+      "Schwaechen": "Zu reflektiert und erklärend, Verletzlichkeit fehlt, Sprache teils überinszeniert.",
+      "Fix": "Mehr spontane Gedanken, weniger Erklärung, mehr Brüche/Unsicherheit zulassen, Sprache natürlicher machen."
+    }
+  }
 }
 ```
 

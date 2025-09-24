@@ -15,7 +15,31 @@
   "synopsis": "In der Waldhütte singen und musizieren Eddie und ihre Freunde Lieder von Freiheitsliedern bis Beatles; Eddie fühlt sich zum ersten Mal wirklich frei und angenommen.",
   "mood": "ecstatic, liberating, joyful",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {
+    "Kapitel": "330_Gesang",
+    "Ton": {
+      "Einschaetzung": "Locker, verspielt, fast schon ausgelassen. Eddie beschreibt Musik und Singen mit jugendlicher Freude.",
+      "Kritik": "Ton ist sehr leicht, teilweise zu unbeschwert im Kontrast zur Gesamtlage. Gefahr, dass die Bedrohung verblasst."
+    },
+    "Logik": {
+      "Einschaetzung": "Die Szene passt als Moment der Entlastung.",
+      "Kritik": "Wirkung wirkt etwas abrupt, Übergang zur Leichtigkeit könnte besser vorbereitet sein."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie zeigt sich lebendig und jugendlich, Nebenfiguren treten freundschaftlich hervor.",
+      "Kritik": "Charaktertiefe bleibt gering, Interaktionen etwas oberflächlich. Eddie wirkt nur positiv, keine Reibung oder innere Spannung."
+    },
+    "Sprache": {
+      "Einschaetzung": "Lebendig, rhythmisch, passend zu Musikthema.",
+      "Kritik": "Zu viele Auslassungspunkte, Füllwörter häufen sich. Manche Sätze klingen zu glatt und nicht jugendlich genug."
+    },
+    "Fazit": {
+      "Staerken": "Schöner Stimmungswechsel, jugendlicher Leichtsinn kommt durch.",
+      "Schwaechen": "Zu unbeschwert für die Lage, Charaktere oberflächlich, Sprache uneinheitlich.",
+      "Fix": "Übergang zur Leichtigkeit stärker andeuten, Eddie auch Zweifel oder Brüche spüren lassen, Sprache straffen."
+    }
+  }
 }
 ```
 

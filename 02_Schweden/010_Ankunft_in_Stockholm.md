@@ -17,7 +17,8 @@
   "illustrations": [
     "FIN_SWE_Eddie_und_Raija.png"
   ],
-  "todo": "Wir haben vergessen zuerwähnen, dass Eddie in den Zug eingesteigen ist und er abfährt, bevor die grauen Gestalten kommen. Es wird Nacht während der Fahrt, Eddie kommt am zeitigen Morgen in Stockholm an. Beim Aussteigen gibt es Redundanzen im Text. Es fehlt der Vergleich mit ostdeutschen Städten. Die Hoffnungslosigkeit der zerfallenden Bausubstanz."
+  "todo": "Wir haben vergessen zuerwähnen, dass Eddie in den Zug eingesteigen ist und er abfährt, bevor die grauen Gestalten kommen. Es wird Nacht während der Fahrt, Eddie kommt am zeitigen Morgen in Stockholm an. Beim Aussteigen gibt es Redundanzen im Text. Es fehlt der Vergleich mit ostdeutschen Städten. Die Hoffnungslosigkeit der zerfallenden Bausubstanz.",
+  "proofreading": {}
 }
 ```
 

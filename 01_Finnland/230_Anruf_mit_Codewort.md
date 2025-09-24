@@ -13,7 +13,31 @@
   "synopsis": "Eddie ruft mit Raijas Hilfe den Professor an und täuscht eine französische Preisnominierung vor, um ein Lebenszeichen an ihre Eltern zu senden.",
   "mood": "tense but triumphant",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {
+    "Kapitel": "230_Anruf_mit_Codewort",
+    "Ton": {
+      "Einschaetzung": "Angespannt, geheimnisvoll, Eddie konzentriert sich auf den riskanten Anruf.",
+      "Kritik": "Ton ist stellenweise zu kühl und sachlich, jugendliche Nervosität kommt zu kurz."
+    },
+    "Logik": {
+      "Einschaetzung": "Anruf mit Codewort plausibel, baut Spannung auf.",
+      "Kritik": "Ablauf wirkt sehr kontrolliert und glatt. Kleine Fehler, Versprecher oder Missverständnisse würden Realismus steigern."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie im Fokus, handelt zielstrebig.",
+      "Kritik": "Ihre Angst und Unsicherheit könnten stärker spürbar sein. Gesprächspartner bleibt blass und funktional."
+    },
+    "Sprache": {
+      "Einschaetzung": "Klar, präzise.",
+      "Kritik": "Dialog wirkt zu sauber und gestellt. Kaum jugendliche Ausrufe oder Füllwörter, Sprache dadurch etwas steif."
+    },
+    "Fazit": {
+      "Staerken": "Spannungsreicher Moment, verdeutlicht Risiko und Eddies Mut.",
+      "Schwaechen": "Zu glatt, Emotionen fehlen, Gesprächspartner schemenhaft.",
+      "Fix": "Mehr jugendliche Nervosität und spontane Gedanken einbauen, Dialog mit kleinen Brüchen versehen, Nebenfigur klarer zeichnen."
+    }
+  }
 }
 ```
 

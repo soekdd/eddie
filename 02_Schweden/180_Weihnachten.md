@@ -15,7 +15,8 @@
   "illustrations": [
     "SWE_Stockholm_Vidar_bittet_Eddie_hinein.png"
   ],
-  "todo": "Eddie erzwingt vom Übersetzer endlich ihren Lohn für ihre viele Arbeit. Die Tierarztgeschichte kommt sofort, damit Streuner im Waschhaus schlafen darf. Eddie schläft bei ihm, nicht bei Vidar."
+  "todo": "Eddie erzwingt vom Übersetzer endlich ihren Lohn für ihre viele Arbeit. Die Tierarztgeschichte kommt sofort, damit Streuner im Waschhaus schlafen darf. Eddie schläft bei ihm, nicht bei Vidar.",
+  "proofreading": {}
 }
 ```
 

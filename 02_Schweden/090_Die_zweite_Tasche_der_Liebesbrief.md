@@ -17,7 +17,8 @@
   "illustrations": [
     "SWE_Stockholm_Eddie_erhaelt_Liebesbrief.png"
   ],
-  "todo": "Redundanz zu 'Hof hinter dem Haus"
+  "todo": "Redundanz zu 'Hof hinter dem Haus",
+  "proofreading": {}
 }
 ```
 

@@ -14,7 +14,8 @@
   "mood": "zögernd → erleichtert, wiedergewonnene Würde",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "todo": "dieser und der vorherige Abschnitt passen nicht zusammen"
+  "todo": "dieser und der vorherige Abschnitt passen nicht zusammen",
+  "proofreading": {}
 }
 ```
 

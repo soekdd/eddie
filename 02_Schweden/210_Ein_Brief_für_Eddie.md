@@ -14,7 +14,8 @@
   "mood": "",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "todo": "Im Brief liegen auch Fotos"
+  "todo": "Im Brief liegen auch Fotos",
+  "proofreading": {}
 }
 ```
 

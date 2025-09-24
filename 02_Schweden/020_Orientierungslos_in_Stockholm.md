@@ -16,7 +16,8 @@
   "illustrations": [
     "SWE_Stockholm_Stadtmission.png"
   ],
-  "todo": "Hier ist die Timeline noch total kaputt"
+  "todo": "Hier ist die Timeline noch total kaputt",
+  "proofreading": {}
 }
 ```
 

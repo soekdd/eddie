@@ -19,7 +19,31 @@
   "mode": "flashback",
   "illustrations": [
     "DDR_Berlin_Flughafen.png"
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "200_Abschied_am_Flughafen",
+    "Ton": {
+      "Einschaetzung": "Emotional, ernst, Eddie schildert den Abschied mit Wehmut und Unsicherheit.",
+      "Kritik": "Ton ist stellenweise zu pathetisch und erwachsen. Die jugendliche Direktheit tritt zurück."
+    },
+    "Logik": {
+      "Einschaetzung": "Abschiedsszene plausibel, starke emotionale Wirkung.",
+      "Kritik": "Abläufe wirken zu glatt. Überraschende Details (falsche Worte, unpassende Gedanken) könnten den Realismus verstärken."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie im Fokus, verletzlich. Bezugspersonen als emotionale Gegenspieler sichtbar.",
+      "Kritik": "Eddie klingt zu reflektiert. Ihre chaotische Gefühlslage (z. B. Zorn, Trotz, Verdrängung) könnte stärker herauskommen. Nebenfiguren bleiben eher schematisch."
+    },
+    "Sprache": {
+      "Einschaetzung": "Gefühlsbetont, atmosphärisch.",
+      "Kritik": "Zu viele Metaphern, Sprache wirkt überinszeniert. Wenig jugendliche Einwürfe oder spontane Kommentare."
+    },
+    "Fazit": {
+      "Staerken": "Starke emotionale Szene, zentral für Eddies Geschichte, verdeutlicht Bruch mit Vergangenheit.",
+      "Schwaechen": "Zu glatt, zu literarisch, jugendliche Stimme fehlt teilweise.",
+      "Fix": "Mehr chaotische Gedanken und jugendliche Kommentare einbauen, Sprache straffen, Nebenfiguren lebendiger zeichnen."
+    }
+  }
 }
 ```
 

@@ -13,7 +13,31 @@
   "synopsis": "Eddie liegt mit schwerem Fieber in Sinis Wohnung, die sie liebevoll beschreibt. Sini hat ihre Schichten getauscht und weicht nicht von Eddies Seite. Eddie halluziniert, missversteht Sinis Telefonat als Gespräch mit einer unsichtbaren Person. Ein alter Arzt kommt, diagnostiziert Schützengrabensfuß, reinigt und verbindet die Wunden neu. Eddie erhält Tabletten, schläft lange und träumt grotesk von Mielke. Am Abend fühlt sie sich besser, Sini wechselt die Verbände erneut und bringt sie unter die Dusche. Eddie deliriert noch einmal und schläft schließlich in Sinis Armen ein.",
   "mood": "besorgt, fiebrig, intim, zärtlich, beängstigend, auch grotesk",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {
+    "Kapitel": "410_Schuetzengraeben",
+    "Ton": {
+      "Einschaetzung": "Ernst, nachdenklich, mit deutlicher Metaphorik. Eddie beschreibt ihre Lage in Kriegsbildern.",
+      "Kritik": "Ton wirkt sehr erwachsen, die Metaphern sind schwer und literarisch. Gefahr: Verlust der jugendlichen Stimme."
+    },
+    "Logik": {
+      "Einschaetzung": "Die Kriegsvergleiche verdeutlichen Bedrohung und Angst.",
+      "Kritik": "Manche Vergleiche wirken überzogen, fast zu pathetisch für eine Jugendliche. Realitätsnähe leidet."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie tritt als reflektierende Figur hervor, ihre Angst wird sichtbar.",
+      "Kritik": "Die körperliche Dimension der Angst fehlt (Zittern, Atem, Herz). Stattdessen bleibt es bei Bildern und Gedanken."
+    },
+    "Sprache": {
+      "Einschaetzung": "Bildreich, stark metaphorisch.",
+      "Kritik": "Zu viele schwere Bilder hintereinander, kaum jugendliche Direktheit. Sprache wirkt eher literarisch als authentisch."
+    },
+    "Fazit": {
+      "Staerken": "Kraftvolle Metaphorik, verdeutlicht Bedrohung, atmosphärisch dicht.",
+      "Schwaechen": "Zu erwachsen und pathetisch, Körperreaktionen fehlen, Gefahr von Distanzierung.",
+      "Fix": "Metaphorik reduzieren, jugendlichere Sprache einbauen, mehr unmittelbare körperliche Reaktionen zeigen."
+    }
+  }
 }
 ```
 

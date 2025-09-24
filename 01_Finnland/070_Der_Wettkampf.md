@@ -15,7 +15,31 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Jotsenlampi_Wettkampf.png"
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "070_Der_Wettkampf",
+    "Ton": {
+      "Einschaetzung": "Angespannt, ehrgeizig, Eddie schildert den Wettbewerb mit Ernst und Konzentration.",
+      "Kritik": "Ton ist stellenweise zu sportreportageartig oder zu nüchtern. Eddies jugendliche Stimme geht in der Strenge teilweise verloren."
+    },
+    "Logik": {
+      "Einschaetzung": "Abläufe des Wettkampfs plausibel und klar nachvollziehbar.",
+      "Kritik": "Manche Beschreibungen wirken wie aus zweiter Hand – fast protokollarisch. Mehr subjektive Eindrücke (Hitze, Müdigkeit, Frust) wären realistischer."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie im Zentrum, ehrgeizig und fokussiert.",
+      "Kritik": "Ihre Nervosität und Unsicherheit fehlen an einigen Stellen. Nebenfiguren (Mitstreiter, Aufsicht) bleiben blass und funktional."
+    },
+    "Sprache": {
+      "Einschaetzung": "Präzise, klar, teilweise spannend.",
+      "Kritik": "Einige Sätze zu lang und zu sachlich. Kaum jugendliche Einwürfe oder Humor, Sprache dadurch zu glatt."
+    },
+    "Fazit": {
+      "Staerken": "Verdeutlicht Eddies Ehrgeiz und Können, zeigt den Wettkampf als dramatischen Moment.",
+      "Schwaechen": "Zu sachlich, zu protokollarisch, jugendliche Spontaneität fehlt.",
+      "Fix": "Mehr Emotion und Körperreaktionen einbauen, kleine chaotische Gedanken zulassen, Nebenfiguren lebendiger zeichnen."
+    }
+  }
 }
 ```
 

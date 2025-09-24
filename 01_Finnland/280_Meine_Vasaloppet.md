@@ -16,7 +16,31 @@
   "synopsis": "Eddie erinnert sich an die Vasaloppet-Geschichte ihres Vaters und sieht ihre eigene Flucht als persönlichen Vasaloppet, bis sie im finnischen Wald auf vier junge Deutsche trifft.",
   "mood": "tense but hopeful",
   "tense": "past, Eddies first-person perspective",
-  "mode": "flashback"
+  "mode": "flashback",
+  "proofreading": {
+    "Kapitel": "280_Meine_Vasaloppet",
+    "Ton": {
+      "Einschaetzung": "Leicht spöttisch, sportlich-übermütig, Eddie zieht Vergleiche zum Skirennen.",
+      "Kritik": "Ton schwankt zwischen humorvoller Rotzgöre und zu technischer Beschreibung. Streckenweise wirkt es wie Sportreportage."
+    },
+    "Logik": {
+      "Einschaetzung": "Vergleiche mit Vasaloppet plausibel, vermittelt Anstrengung und Leistung.",
+      "Kritik": "Teilweise zu viel Detail, könnte den Leser ermüden. Eddie wirkt fast überinformiert über sportliche Abläufe."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie steht klar im Mittelpunkt, selbstironisch, kämpferisch.",
+      "Kritik": "Ihre Verletzlichkeit tritt zu wenig hervor; sie wirkt eher cool als erschöpft oder unsicher."
+    },
+    "Sprache": {
+      "Einschaetzung": "Rhythmisch, teilweise witzig formuliert.",
+      "Kritik": "Manche Sätze zu lang, Redundanzen in den Beschreibungen. Füllwörter könnten reduziert werden."
+    },
+    "Fazit": {
+      "Staerken": "Sportliche Metapher macht Szene bildhaft, Eddie zeigt Energie und Durchhaltewillen.",
+      "Schwaechen": "Zu sehr Reportage-Ton, wenig Emotionstiefe, technische Detailfülle.",
+      "Fix": "Mehr innere Gedanken/Erschöpfung einbauen, Reportage-Stil reduzieren, Sprache straffen."
+    }
+  }
 }
 ```
 

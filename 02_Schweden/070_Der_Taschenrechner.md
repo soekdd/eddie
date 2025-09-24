@@ -14,7 +14,8 @@
   "mood": "trotzig, verletzt, entschlossen-klar",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "todo": "Die Szene ist zu früh eingeordnet, sie muss hinter das Kennenlernen, aber vor die Duschszene"
+  "todo": "Die Szene ist zu früh eingeordnet, sie muss hinter das Kennenlernen, aber vor die Duschszene",
+  "proofreading": {}
 }
 ```
 

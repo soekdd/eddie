@@ -17,7 +17,8 @@
   "illustrations": [
     "SWE_Stockholm_Eddie_kuesst_Vidar.png"
   ],
-  "todo": "Redundanz zu 'Die zweite Tasche'"
+  "todo": "Redundanz zu 'Die zweite Tasche'",
+  "proofreading": {}
 }
 ```
 

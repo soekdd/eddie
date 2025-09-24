@@ -16,7 +16,8 @@
     "DDR_Dresden_Eddies_Vater_erhaelt_die_geheime_Botschaft.png",
     "DDR_Dresden_Eddies_Vater_rennt_nach_Hause.png",
     "DDR_Dresden_Eltern_feiern.png"
-  ]
+  ],
+  "proofreading": {}
 }
 ```
 

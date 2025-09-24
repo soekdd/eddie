@@ -17,28 +17,28 @@
     "FIN_Tampere_Marktplatz.png",
     "FIN_Tampere_Laavu.png"
   ],
-  "proofreading":{
-    "Kapitel": "260_Camping_mit_Papa",
+  "proofreading": {
+    "Kapitel": "250_Tampere",
     "Ton": {
-      "Einschaetzung": "Warm, sachlich, rückblickend. Eddie schildert Übungen mit Papa ernsthaft und detailliert.",
-      "Kritik": "Ton ist stellenweise zu erwachsen-reflektiert, fast wie ein Lehrbuch. Rotzgörenfarbe fehlt. Es klingt mehr wie eine Anleitung als eine Erinnerung."
+      "Einschaetzung": "Beobachtend, neugierig, Eddie beschreibt Stadt und Atmosphäre.",
+      "Kritik": "Ton wirkt stellenweise wie Reiseführer, zu beschreibend. Jugendlich-chaotische Kommentare fehlen."
     },
     "Logik": {
-      "Einschaetzung": "Übungen (Feuer, Unterstand, Pilze) plausibel. Zusammenhang zur Flucht nachvollziehbar.",
-      "Kritik": "Manche Details wirken zu perfekt erinnert. Könnte glaubwürdiger sein, wenn Eddie sich über Fehler oder Missgeschicke lustig macht."
+      "Einschaetzung": "Eindrücke von Tampere plausibel, geben Lokalkolorit.",
+      "Kritik": "Passage bleibt zu oberflächlich, ohne Konflikt oder persönliche Reibung. Gefahr, dass Szene wie Kulisse wirkt."
     },
     "Charaktere": {
-      "Einschaetzung": "Papa wirkt klar gezeichnet: streng aber fürsorglich.",
-      "Kritik": "Eddie selbst bleibt etwas blass; sie erzählt, aber zeigt wenig Emotion (Stolz, Frust, Trotz)."
+      "Einschaetzung": "Eddie als Beobachterin präsent.",
+      "Kritik": "Ihre Gefühle (Überforderung, Staunen, Orientierungslosigkeit) treten kaum hervor. Nebenfiguren werden nur gestreift."
     },
     "Sprache": {
-      "Einschaetzung": "Klar, flüssig, wenig Fehler.",
-      "Kritik": "Zu viele Aufzählungen in sachlichem Ton. Füllwörter moderat, könnten gestrichen werden. Kommafehler bei direkter Rede prüfen."
+      "Einschaetzung": "Detailreich, anschaulich.",
+      "Kritik": "Zu glatt und erklärend, wenig jugendliche Direktheit. Kaum spontane Gedanken oder rotzige Vergleiche, die Eddie sonst lebendig machen."
     },
     "Fazit": {
-      "Staerken": "Glaubwürdiger Hintergrund, erklärt Eddies Fähigkeiten. Kapitel verankert die Überlebensthemen.",
-      "Schwaechen": "Zuviel Lehrbuchton, zu glatte Erinnerung, zu wenig jugendliche Energie.",
-      "Fix": "Rotzgören-Sprache einbauen, Missgeschicke/Emotionen erwähnen, sachliche Listen verdichten."
+      "Staerken": "Verortet Handlung in Finnland, zeigt Atmosphäre von Tampere.",
+      "Schwaechen": "Zu deskriptiv, Emotionen blass, jugendliche Stimme fehlt.",
+      "Fix": "Mehr persönliche Reaktionen Eddies einbauen (Witz, Panik, Freude), Sprache jugendlicher und sprunghafter gestalten, kleine Begegnungen oder Stolperer ergänzen."
     }
   }
 }

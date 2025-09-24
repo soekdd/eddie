@@ -14,7 +14,8 @@
   "mood": "taumelnd, verletzt, entschlossen-klar",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "todo": "hier stimmt die Timeline nicht, unbedingt überarbeiten"
+  "todo": "hier stimmt die Timeline nicht, unbedingt überarbeiten",
+  "proofreading": {}
 }
 ```
 

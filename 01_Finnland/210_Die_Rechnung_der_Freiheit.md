@@ -12,7 +12,31 @@
   "synopsis": "Raija erklärt Eddie, dass Helsinki zu gefährlich ist, und rät ihr, nach Schweden zu fliehen. Eddie verrät stolz, dass sie durch Poker genug Geld hat, um die Reise selbst zu bezahlen.",
   "mood": "tense but hopeful",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {
+    "Kapitel": "210_Die_Rechnung_der_Freiheit",
+    "Ton": {
+      "Einschaetzung": "Ernst, nachdenklich, Eddie reflektiert den Preis ihrer Entscheidung.",
+      "Kritik": "Ton wirkt stellenweise zu erwachsen und abgeklärt. Jugendlich-chaotische Gefühle fehlen weitgehend."
+    },
+    "Logik": {
+      "Einschaetzung": "Thematisierung von Kosten und Konsequenzen plausibel und wichtig für Handlung.",
+      "Kritik": "Gedankengang manchmal zu linear und zu rational. Mehr Brüche, Widersprüche oder Zweifel würden realistischer wirken."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie steht klar im Mittelpunkt, reflektierend und ernst.",
+      "Kritik": "Ihre Unsicherheit wird eher behauptet als gezeigt. Körperliche Reaktionen oder jugendliche Kurzschlussgedanken fehlen."
+    },
+    "Sprache": {
+      "Einschaetzung": "Präzise, teilweise poetisch.",
+      "Kritik": "Zu glatt und literarisch. Wenig spontane Einwürfe oder jugendliche Direktheit. Gefahr, dass es wie ein Essay klingt."
+    },
+    "Fazit": {
+      "Staerken": "Wichtige Reflexion, zentrale thematische Weitung, unterstreicht Ernst der Lage.",
+      "Schwaechen": "Zu erwachsen, zu glatt, jugendliche Authentizität fehlt.",
+      "Fix": "Mehr chaotische Gedanken und körperliche Unsicherheiten einbauen, Sprache lockern, Widersprüche und Zweifel sichtbar machen."
+    }
+  }
 }
 ```
 

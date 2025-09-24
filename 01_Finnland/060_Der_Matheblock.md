@@ -17,7 +17,31 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Joutsa_Fluchtblock.png"
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "060_Der_Matheblock",
+    "Ton": {
+      "Einschaetzung": "Sachlich, analytisch, Eddie denkt in mathematischen Strukturen.",
+      "Kritik": "Ton rutscht stark ins Dozierende. Eddie klingt wie eine Lehrerin, nicht wie eine 17-Jährige, die sich Mut macht. Die jugendliche Stimme geht verloren."
+    },
+    "Logik": {
+      "Einschaetzung": "Gedankengänge nachvollziehbar, Mathe als Halt plausibel.",
+      "Kritik": "Die Ausführungen wirken zu glatt und fehlerfrei. Für Authentizität fehlen kleine Irrtümer, Zweifel oder chaotische Assoziationen."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie als Mathegenie tritt klar hervor.",
+      "Kritik": "Ihre Persönlichkeit tritt zurück hinter dem Fachtext. Menschliche Regungen (Frust, Stolz, Humor) fehlen weitgehend."
+    },
+    "Sprache": {
+      "Einschaetzung": "Klar, strukturiert, fachlich präzise.",
+      "Kritik": "Zu trocken und zu schulisch. Kaum jugendliche Einwürfe oder rotzig-freche Kommentare, die Eddie sonst lebendig machen."
+    },
+    "Fazit": {
+      "Staerken": "Zeigt Eddies besonderes Talent, verdeutlicht ihren Halt in Mathe.",
+      "Schwaechen": "Zu lehrbuchhaft, jugendliche Stimme fehlt, menschliche Seite von Eddie wird unsichtbar.",
+      "Fix": "Innere Kommentare und spontane Gedanken einfügen, kleine Patzer oder Selbstzweifel zulassen, Mathepassagen straffen und mit Eddie-Humor färben."
+    }
+  }
 }
 ```
 

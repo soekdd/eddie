@@ -74,7 +74,31 @@
         "Eddie erkennt gegenseitige Verlustangst"
       ]
     }
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "520_Und_wenns_der_Bauer_gewesen_waere",
+    "Ton": {
+      "Einschaetzung": "Humorvoll, ironisch, Eddie spielt mit einer hypothetischen Situation.",
+      "Kritik": "Ton kippt gelegentlich ins Klamaukige. Gefahr, dass Ernsthaftigkeit der Gesamtsituation verwässert wird."
+    },
+    "Logik": {
+      "Einschaetzung": "Überlegung nachvollziehbar als Gedankenspiel.",
+      "Kritik": "Manche Wendungen wirken zu konstruiert, fast wie Bühnenwitz. Realismus geht verloren."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie zeigt Humor, Sini reagiert als Gegenpart.",
+      "Kritik": "Dialog wirkt stellenweise zu pointiert, wie geschrieben, nicht gesprochen. Sini bleibt Stichwortgeberin."
+    },
+    "Sprache": {
+      "Einschaetzung": "Locker, jugendlich, witzig.",
+      "Kritik": "Zu viele Pointen, überhöhte Dialogführung. Auslassungspunkte und Füllwörter häufen sich."
+    },
+    "Fazit": {
+      "Staerken": "Unterhaltsam, gibt Einblick in Eddies Humor, lockert die Stimmung.",
+      "Schwaechen": "Klamaukig, unnatürlicher Dialog, Nebenfigur blass.",
+      "Fix": "Dialog natürlicher machen, Humor dosieren, Ernst der Situation unterschwellig erhalten."
+    }
+  }
 }
 ```
 

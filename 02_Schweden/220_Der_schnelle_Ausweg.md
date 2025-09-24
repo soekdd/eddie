@@ -13,7 +13,8 @@
   "synopsis": "Vidars Mutter hat Kontakt mit der westdeutschen Botschaft aufgenommen. Sie haben Briefe für Eddie",
   "mood": "",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {}
 }
 ```
 

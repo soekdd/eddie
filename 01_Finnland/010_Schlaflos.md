@@ -14,7 +14,31 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Joutsa_Bungalow.png"
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "010_Schlaflos",
+    "Ton": {
+      "Einschaetzung": "Introspektiv, nervös, Eddie wirkt aufgewühlt und gedanklich sprunghaft.",
+      "Kritik": "Ton schwankt zwischen jugendlicher Direktheit und sehr literarischen Formulierungen. Gefahr, dass Authentizität leidet."
+    },
+    "Logik": {
+      "Einschaetzung": "Schlaflosigkeit als Einstieg plausibel, baut Spannung auf.",
+      "Kritik": "Gedankenfluss manchmal zu komplex und reflektiert für eine 17-Jährige in dieser Situation. Könnte spontaner und ungeordneter wirken."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie klar im Fokus, verletzlich und wach.",
+      "Kritik": "Ihre Unsicherheit ist spürbar, aber auch hier klingt sie stellenweise zu erwachsen. Nebenfiguren treten nicht auf."
+    },
+    "Sprache": {
+      "Einschaetzung": "Bildhaft, rhythmisch.",
+      "Kritik": "Teilweise überinszeniert, zu viele Metaphern. Füllwörter fehlen fast komplett – dadurch wirkt es zu glatt und wenig jugendlich."
+    },
+    "Fazit": {
+      "Staerken": "Starker Einstieg, vermittelt Unruhe und Erwartung, Leser ist sofort bei Eddie.",
+      "Schwaechen": "Zu literarisch und reflektiert, jugendliche Direktheit fehlt an einigen Stellen.",
+      "Fix": "Gedankenstrom sprunghafter machen, mehr jugendliche Spracheelemente einbauen, Metaphern reduzieren."
+    }
+  }
 }
 ```
 

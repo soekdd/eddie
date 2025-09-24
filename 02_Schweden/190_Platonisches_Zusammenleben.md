@@ -14,7 +14,8 @@
   "mode": "mainline",
   "illustrations": [
     "SWE_Stockholm_Vidar_Eddie_Streuner_schlafen.png"
-  ]
+  ],
+  "proofreading": {}
 }
 ```
 

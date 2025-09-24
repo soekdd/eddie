@@ -11,7 +11,8 @@
   "synopsis": "Nach der Ermordung Olof Palmes liegt Stockholm in Trauer; die Nachricht reißt Eddies eigene Wunde auf – kurz darauf meldet sich die Botschaft mit dem Abflugtermin nach Deutschland.",
   "mood": "",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {}
 }
 ```
 

@@ -16,7 +16,31 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Jyvaeskylae_Jorma.png"
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "220_Disput_mit_Jorma",
+    "Ton": {
+      "Einschaetzung": "Konfrontativ, angespannt, Eddie schildert den Streit energisch.",
+      "Kritik": "Ton wirkt teils zu reif und kontrolliert. Chaotische, jugendliche Impulsivität fehlt streckenweise."
+    },
+    "Logik": {
+      "Einschaetzung": "Disput nachvollziehbar, spiegelt Eddies prekäre Situation.",
+      "Kritik": "Ablauf manchmal zu linear, Eskalation wirkt konstruiert. Mehr Zwischentöne oder Missverständnisse würden realistischer wirken."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie zeigt Rückgrat, Jorma als Gegenspieler deutlich gezeichnet.",
+      "Kritik": "Eddies Verletzlichkeit tritt zurück, sie wirkt zu souverän. Jorma bleibt eher Typ als komplexe Figur."
+    },
+    "Sprache": {
+      "Einschaetzung": "Direkt, dialogorientiert.",
+      "Kritik": "Manche Dialogzeilen klingen gestellt, zu sauber formuliert. Füllwörter und Unterbrechungen fehlen – dadurch wirkt es geschrieben, nicht gesprochen."
+    },
+    "Fazit": {
+      "Staerken": "Dynamische Szene, bringt Konflikt und Spannung, Eddie zeigt Stärke.",
+      "Schwaechen": "Zu konstruiert, wenig spontane Emotion, Jorma eindimensional.",
+      "Fix": "Dialog natürlicher machen, mehr Unterbrechungen oder Missverständnisse, Eddies Unsicherheit betonen, Jorma differenzierter darstellen."
+    }
+  }
 }
 ```
 

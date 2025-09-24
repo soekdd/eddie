@@ -13,7 +13,31 @@
   "synopsis": "Raija bringt Eddie nach Jyväskylä in ihre Wohnung; dort kommt es nachts zum heftigen Streit zwischen Raija und Jorma über das Risiko, das sie für Eddie eingeht.",
   "mood": "tense, conflicted, heavy",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {
+    "Kapitel": "150_Flucht_mit_Raija",
+    "Ton": {
+      "Einschaetzung": "Dramatisch, angespannt, Eddie schildert die Flucht ernst und konzentriert.",
+      "Kritik": "Ton wirkt stellenweise wie ein Bericht, zu sachlich. Emotionale Unmittelbarkeit schwankt, jugendliche Gedanken fehlen streckenweise."
+    },
+    "Logik": {
+      "Einschaetzung": "Fluchtszene plausibel und nachvollziehbar.",
+      "Kritik": "Manche Abläufe wirken zu glatt und kontrolliert. Mehr Chaos, Unsicherheiten oder zufällige Störungen wären realistischer."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie und Raija im Fokus, Zusammenarbeit deutlich.",
+      "Kritik": "Eddies Angst und Nervosität könnten stärker gezeigt werden. Raija wirkt funktional, ihre Persönlichkeit bleibt im Hintergrund."
+    },
+    "Sprache": {
+      "Einschaetzung": "Klar, detailreich, spannungsvoll.",
+      "Kritik": "Teilweise zu beschreibend und nüchtern. Wenig jugendliche Ausrufe, spontane Gedanken oder unpassende Assoziationen."
+    },
+    "Fazit": {
+      "Staerken": "Spannender Handlungspunkt, zeigt Eddies Mut und die Verbindung zu Raija.",
+      "Schwaechen": "Zu kontrolliert, wenig Chaos, Figuren wirken zu glatt.",
+      "Fix": "Mehr körperliche Reaktionen und chaotische Gedanken zeigen, Raijas Persönlichkeit stärker einbinden, Sprache jugendlicher machen."
+    }
+  }
 }
 ```
 

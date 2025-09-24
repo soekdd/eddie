@@ -14,7 +14,31 @@
   "synopsis": "Eddie liegt nach ihrer Flucht schlaflos im Bett, quält sich mit Schuldgefühlen um ihre Familie; Raija tröstet sie in der Nacht, doch am Morgen fühlt sie sich von Jorma unbehaglich beobachtet.",
   "mood": "fearful, vulnerable, briefly comforted",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {
+    "Kapitel": "170_Eddie_traeumt_von_daheim",
+    "Ton": {
+      "Einschaetzung": "Melancholisch, sehnsüchtig, Eddie denkt an Zuhause.",
+      "Kritik": "Ton wirkt sehr erwachsen und literarisch, wenig jugendliche Direktheit. Gefahr, dass es zu pathetisch klingt."
+    },
+    "Logik": {
+      "Einschaetzung": "Rückblick auf Zuhause plausibel, zeigt Eddies innere Zerrissenheit.",
+      "Kritik": "Erinnerungen erscheinen zu glatt und harmonisch. Konflikte oder Brüche in den Gefühlen fehlen."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie steht im Mittelpunkt, verletzlich, sehnsüchtig.",
+      "Kritik": "Ihre Emotionen bleiben stark in Bildern verpackt. Direkte körperliche Reaktionen (Tränen, Lachen, Wut) fehlen. Familie wird idealisiert."
+    },
+    "Sprache": {
+      "Einschaetzung": "Poetisch, bildhaft.",
+      "Kritik": "Zu viele Metaphern, lange Sätze. Kaum jugendliche Einwürfe oder chaotische Gedanken, die Authentizität schaffen würden."
+    },
+    "Fazit": {
+      "Staerken": "Zeigt Eddies Sehnsucht, verdeutlicht emotionale Zerrissenheit, schafft Tiefgang.",
+      "Schwaechen": "Zu literarisch und erwachsen, Erinnerungen idealisiert, Emotionen nicht körperlich genug.",
+      "Fix": "Mehr jugendliche Gedanken und chaotische Gefühle einbauen, Erinnerungen realistischer und widersprüchlicher machen, Sprache straffen."
+    }
+  }
 }
 ```
 

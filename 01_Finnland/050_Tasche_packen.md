@@ -12,7 +12,31 @@
   "synopsis": "Schlaflos beschließt Eddie, ihre Fluchtvorbereitungen ernsthaft zu beginnen. Im Licht der Mittsommersonne packt sie ihre kleine Reisetasche mit Unterwäsche, Trainingshose, Hygieneartikeln, Seife, Zahnbürste, ihrem Matheblock und Stiften. Sie erkennt, dass sie ihre große Tasche, viele Klamotten, ihr Kuscheltier und symbolisch auch die DDR und ihre Kindheit zurücklassen muss. Ein kurzer Moment des Zweifelns, doch sie wischt ihn beiseite. Bald wird der Bus nach Joutsa zum zweiten Wettkampftag fahren.",
   "mood": "restless, tender, determined",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {
+    "Kapitel": "050_Tasche_packen",
+    "Ton": {
+      "Einschaetzung": "Praktisch, fokussiert, Eddie listet Dinge auf und denkt taktisch.",
+      "Kritik": "Ton wirkt teils zu erwachsen und organisiert. Wenig jugendliche Unsicherheit oder Spontaneität."
+    },
+    "Logik": {
+      "Einschaetzung": "Das Packen ist nachvollziehbar und logisch strukturiert.",
+      "Kritik": "Liste wirkt zu perfekt, ohne Ablenkung oder Fehler. Realismus würde mehr Chaos oder Fehlentscheidungen vertragen."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie zeigt sich pragmatisch, selbständig.",
+      "Kritik": "Ihre jugendliche Seite tritt zurück – kaum Emotion oder Trotz. Sie klingt fast wie eine Erwachsene auf Mission."
+    },
+    "Sprache": {
+      "Einschaetzung": "Klar, strukturiert, teilweise sachlich.",
+      "Kritik": "Abschnitt klingt streckenweise wie eine Inventarliste. Wenig jugendliche Kommentare oder humorvolle Einwürfe."
+    },
+    "Fazit": {
+      "Staerken": "Klarer Einblick in Eddies Vorbereitung, verdeutlicht ihre Sachlichkeit.",
+      "Schwaechen": "Zu perfekt, zu sachlich, wenig jugendliche Farbe.",
+      "Fix": "Ein paar chaotische Gedanken einbauen, Unsicherheit zeigen (was nehme ich, was vergesse ich?), jugendliche Kommentare ergänzen."
+    }
+  }
 }
 ```
 

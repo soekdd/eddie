@@ -1,6 +1,7 @@
 # Spieltheorie
 
 ```json
+{
   "flashback-date": "1985-07-04",
   "date": "1985-07-05",
   "daytime": "morning",
@@ -11,7 +12,31 @@
   "synopsis": "Eddie verwirft den Plan, mit dem Bus nach Helsinki zu fliehen – zu riskant, die Erfolgschance liegt unter zehn Prozent.",
   "mood": "anxious, calculating, hopeless",
   "tense": "past, Eddies first-person perspective",
-  "mode": "flashback"
+  "mode": "flashback",
+  "proofreading": {
+    "Kapitel": "030_Spieltheorie",
+    "Ton": {
+      "Einschaetzung": "Frech, jugendlich, Eddie experimentiert mit Gedanken und wendet Mathe spielerisch an.",
+      "Kritik": "Ton schwankt: teils gelungen jugendlich, teils zu schulbuchhaft erklärt. Gefahr, dass es zu didaktisch klingt."
+    },
+    "Logik": {
+      "Einschaetzung": "Spieltheorie als Motiv plausibel und originell.",
+      "Kritik": "Manche Herleitungen zu glatt und zu perfekt. Eddie könnte mehr stolpern oder Halbwissen zeigen."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie als Mathegenie klar erkennbar, zeigt Kreativität.",
+      "Kritik": "Ihre jugendliche Verletzlichkeit tritt zurück, sie wirkt sehr souverän. Nebenfiguren fehlen."
+    },
+    "Sprache": {
+      "Einschaetzung": "Anschaulich, witzige Vergleiche.",
+      "Kritik": "Absätze mit Formeln wirken zu trocken, zu wenig innere Kommentare. Füllwörter und Spontaneität fehlen – Sprache fast zu glatt."
+    },
+    "Fazit": {
+      "Staerken": "Originelle Mathe-Einbindung, Eddie zeigt Genialität und Witz.",
+      "Schwaechen": "Didaktisch, zu souverän, jugendliche Direktheit fehlt.",
+      "Fix": "Mehr innere Einwürfe und jugendliche Kommentare, kleine Unsicherheiten, trockene Passagen straffen."
+    }
+  }
 }
 ```
 

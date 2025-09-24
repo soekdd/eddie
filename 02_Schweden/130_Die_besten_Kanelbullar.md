@@ -5,7 +5,10 @@
   "date": "1985-10-25",
   "daytime": "afternoon",
   "place": "Stockholm, Café am Hafen",
-  "persons": ["Eddie", "Vidar"],
+  "persons": [
+    "Eddie",
+    "Vidar"
+  ],
   "synopsis": "Nach einem Tag Arbeit für den Übersetzer lädt Eddie Vidar stolz in ein Café ein. Sie bestellt Kaffee und Zimtschnecken. Beim Bezahlen wird deutlich, dass sie all ihr Geld (40 SEK) ausgegeben hat, das zugleich ihren gesamten Tageslohn ausmacht. Vidar ist schockiert, versucht ihr das Geld zurückzugeben und erklärt, wie schlecht sie bezahlt wird. Eddie ist verletzt, weil er ihr die Freude nimmt, doch sie versöhnen sich. Der Tag endet nachdenklich, aber nicht schwermütig.",
   "mood": "stolz, freudig, dann wütend, nachdenklich, versöhnlich",
   "tense": "present, Eddies first-person perspective",
@@ -23,7 +26,13 @@
     "Zimtschnecken (Kanelbullar)",
     "Kassenbon oder Münzen"
   ],
-  "themes": ["Selbstbestimmung", "Ungleichheit", "Freude am Geben", "Ausbeutung", "Freundschaft"],
+  "themes": [
+    "Selbstbestimmung",
+    "Ungleichheit",
+    "Freude am Geben",
+    "Ausbeutung",
+    "Freundschaft"
+  ],
   "continuity": {
     "translator_exploitation": true,
     "vidar_awareness": "ab diesem Tag kennt Vidar die Details von Eddies Bezahlung",
@@ -31,7 +40,8 @@
   },
   "files": {
     "suggested_path": "02_Schweden/180_Die_beste_Zimtschnecke.md"
-  }
+  },
+  "proofreading": {}
 }
 ```
 

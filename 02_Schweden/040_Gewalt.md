@@ -15,7 +15,8 @@
   "illustrations": [
     "SWE_Stockholm_Eddie_entkommt_Gewalt.png"
   ],
-  "todo": "Redundanzen am Ende des Textes!"
+  "todo": "Redundanzen am Ende des Textes!",
+  "proofreading": {}
 }
 ```
 

@@ -12,7 +12,8 @@
   "synopsis": "Handschriftliche Einladung der Eltern zum Weihnachtsfest; Eddie ringt mit dem Wunsch, echte Geschenke zu finden.",
   "mood": "ungläubig, glücklich, nervös tatendurstig",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {}
 }
 ```
 

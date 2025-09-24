@@ -65,7 +65,31 @@
         "Schweigegelöbnis und neuer Zusammenhalt"
       ]
     }
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "300_Conny_Sabine_Peter_und_Matti",
+    "Ton": {
+      "Einschaetzung": "Jugendlich, gruppendynamisch, Eddie kommentiert frech und beobachtet spöttisch.",
+      "Kritik": "Ton springt zwischen Rotzgöre und zu erwachsener Analyse. Stellenweise klingt es eher wie eine Sozialstudie als eine persönliche Erinnerung."
+    },
+    "Logik": {
+      "Einschaetzung": "Interaktionen zwischen den Jugendlichen wirken grundsätzlich nachvollziehbar.",
+      "Kritik": "Manche Dialoge wirken zu konstruiert, zu pointiert, als ob jeder Satz auf eine Pointe zielt. Gefahr von Künstlichkeit."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddies Beobachtungen sind witzig, die anderen Jugendlichen haben erkennbares Profil.",
+      "Kritik": "Einige Nebenfiguren sind klischeehaft gezeichnet. Eddie kommentiert viel, zeigt aber weniger eigene Unsicherheit."
+    },
+    "Sprache": {
+      "Einschaetzung": "Dialogreich, lebendig.",
+      "Kritik": "Zu viele Füllwörter und Ellipsen. Dialoge manchmal überstilisiert. Satzzeichen uneinheitlich."
+    },
+    "Fazit": {
+      "Staerken": "Lebendige Gruppenszene, Eddie als scharfe Beobachterin.",
+      "Schwaechen": "Dialoge teils künstlich, Eddie zu souverän, übertriebene Pointendichte.",
+      "Fix": "Dialoge natürlicher gestalten, Unsicherheit durchscheinen lassen, Pointen reduzieren."
+    }
+  }
 }
 ```
 

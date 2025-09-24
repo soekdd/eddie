@@ -1,4 +1,4 @@
-# Papa
+# Erzählt von ihrem Vater
 
 ```json
 {
@@ -14,31 +14,21 @@
   "mood": "bitter yet intimate",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "todo": "Der Dialog der Mädchen ist noch zu schwach, zu redundant.",
-  "proofreading": {
-    "Kapitel": "480_Papa",
-    "Ton": {
-      "Einschaetzung": "Warm, respektvoll, Eddie erinnert Szenen mit ihrem Vater.",
-      "Kritik": "Ton kippt ins Nostalgische und wirkt stellenweise zu literarisch. Die jugendliche Direktheit tritt zurück."
+  "feedback": {
+    "anni": {
+      "rating": ".....",
+      "comments": ""
     },
-    "Logik": {
-      "Einschaetzung": "Erinnerungen plausibel und konsistent mit früheren Passagen.",
-      "Kritik": "Manche Erinnerungen wirken zu idealisiert. Konflikte oder Ambivalenzen fehlen."
+    "lucia": {
+      "rating": ".....",
+      "comments": ""
     },
-    "Charaktere": {
-      "Einschaetzung": "Der Vater wirkt klar umrissen, Eddie zeigt Bindung und Respekt.",
-      "Kritik": "Eddies eigene Stimme klingt zu erwachsen, fast wie eine Rückschau aus späterer Perspektive."
-    },
-    "Sprache": {
-      "Einschaetzung": "Bildhaft, gefühlsbetont.",
-      "Kritik": "Überladen mit Metaphern, Sätze oft lang. Wenig jugendliche Einfachheit oder Spontaneität."
-    },
-    "Fazit": {
-      "Staerken": "Gute Charakterisierung des Vaters, emotionale Tiefe, konsistente Erinnerungslinie.",
-      "Schwaechen": "Zu nostalgisch und erwachsen erzählt, Ambivalenzen fehlen, Sprache überhöht.",
-      "Fix": "Mehr jugendliche Perspektive einbauen, kleine Reibungen oder Widersprüche im Vaterbild zeigen, Sprache straffen."
+    "soek": {
+      "rating": ".....",
+      "comments": ""
     }
-  }
+  },
+  "todo": "Der Dialog der Mädchen ist noch zu schwach, zu redundant."
 }
 ```
 
@@ -66,19 +56,19 @@ ganze Arbeit, Radmer schnappt sich die Lorbeeren.
 Das Verrückte: Der Lehrstuhl hat einen internationalen Ruf bekommen, sogar in
 Frankreich werden die zitiert. Aber das liegt nicht an Radmer, sondern allein an
 meinem Vater. Er ist das Hirn dahinter, aber im Rampenlicht steht immer der
-falsche.„
+falsche."
 
 Sini schweigt kurz, zieht an einer losen blauen Haarsträhne. Dann sagt sie
 leise, fast beiläufig: „Klingt wie'n schlechter Tausch. Talent gegen
-Parteibuch.“
+Parteibuch."
 
 Ich nicke. „Und das Bitterste: Ohne meinen Vater wäre dieser ganze Lehrstuhl
 längst tot. Alle Welt lobt die ‚Arbeiten von Professor Radmer'. Aber eigentlich
-ist es nur sein Deckmantel.“
+ist es nur sein Deckmantel."
 
 Sini lacht trocken, aber nicht böse. „Also dein Vater ist das Herz. Und Radmer
-die Maske.“\ Sie schaut mich schief an, als wollte sie prüfen, ob ich es auch so
-empfinde. „Maske sind leichter zu zerreißen als Herzen, weißt du?“
+die Maske."\ Sie schaut mich schief an, als wollte sie prüfen, ob ich es auch so
+empfinde. „Maske sind leichter zu zerreißen als Herzen, weißt du?"
 
 Ich will noch etwas erwidern, vielleicht einen meiner altklugen Sprüche, aber da
 steht plötzlich der Kellner vor uns. Groß, kantiges Gesicht, die Stirn schon

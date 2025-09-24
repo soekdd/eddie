@@ -13,7 +13,8 @@
   "synopsis": "Eddie ringt um Begriffe: frühere Nähe vs. echte Liebe; erkennt langsames Wachsen.",
   "mood": "nachdenklich, ehrlich, selbstkritisch",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {}
 }
 ```
 

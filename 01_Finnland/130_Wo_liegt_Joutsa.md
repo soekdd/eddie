@@ -17,7 +17,31 @@
   "illustrations": [
     "DDR_Dresden_Eddie_versteckt_die_Karten.png"
   ],
-  "todo": "Eddie erfährt erst am Flughafen Helsinki, wo genau die Reise hingeht."
+  "todo": "Eddie erfährt erst am Flughafen Helsinki, wo genau die Reise hingeht.",
+  "proofreading": {
+    "Kapitel": "130_Wo_liegt_Joutsa",
+    "Ton": {
+      "Einschaetzung": "Erklärend, sachlich, Eddie beschreibt geografische und kulturelle Details.",
+      "Kritik": "Ton kippt ins Lexikonhafte, wenig jugendliche Farbe. Eddie klingt zu sehr wie eine Fremdenführerin."
+    },
+    "Logik": {
+      "Einschaetzung": "Informationen zu Joutsa nachvollziehbar, plausibel eingebaut.",
+      "Kritik": "Infodump-Gefahr: zu viele Fakten auf einmal. Zusammenhang zu Eddies emotionaler Lage bleibt dünn."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie als Erzählerin klar im Fokus.",
+      "Kritik": "Ihre Persönlichkeit verschwindet hinter der Infoflut. Emotionale Reaktion (Langeweile, Neugier, Ironie) fehlt."
+    },
+    "Sprache": {
+      "Einschaetzung": "Klar, beschreibend.",
+      "Kritik": "Zu sachlich, wenig jugendliche Kommentare. Kaum spontane Assoziationen oder humorvolle Einwürfe."
+    },
+    "Fazit": {
+      "Staerken": "Verortet die Handlung, gibt geografischen Rahmen.",
+      "Schwaechen": "Zu faktenlastig, jugendliche Stimme fehlt, Emotionen blass.",
+      "Fix": "Infos stärker mit Eddies Gedanken und Gefühlen verknüpfen, humorvolle Kommentare einbauen, Textfluss lebendiger gestalten."
+    }
+  }
 }
 ```
 

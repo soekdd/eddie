@@ -20,7 +20,7 @@
     "FIN_Jotsenlampi_Sauna_Wasser.png",
     "FIN_Jotsenlampi_Sauna_zu_dritt.png"
   ],
-  "proofreading":{
+  "proofreading": {
     "Kapitel": "270_Ankunft_in_Jotsenlampi",
     "Ton": {
       "Einschaetzung": "Beobachtend, neugierig, mit einem Hauch Ehrfurcht. Eddie beschreibt die Ankunft recht nüchtern.",

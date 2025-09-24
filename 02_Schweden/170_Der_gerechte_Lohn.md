@@ -5,7 +5,12 @@
   "date": "1985-12-22",
   "daytime": "afternoon",
   "place": "Stockholm",
-  "persons": ["Eddie", "Pro-Bono-Anwalt", "Verlag (indirekt)", "Hilfsorganisation (indirekt)"],
+  "persons": [
+    "Eddie",
+    "Pro-Bono-Anwalt",
+    "Verlag (indirekt)",
+    "Hilfsorganisation (indirekt)"
+  ],
   "synopsis": "Nach Vidars Einladung (07.12.) wendet sich Eddie am 08.12. an einen Pro-Bono-Anwalt, der ihr Honorar gegenüber Verlag/Übersetzer durchsetzt. Das Geld wird halblegal über ein Spendenkonto ausgezahlt. Kurz vor Weihnachten erhält Eddie 800 DM (≈ 2 400 SEK) und kauft davon einen erzgebirgischen Räuchermann (Mittelklasse) als Geschenk für Vidars Eltern.",
   "mood": "entschlossen, erleichtert, warm, festlich",
   "tense": "present, Eddies first-person perspective",
@@ -28,7 +33,12 @@
     "shop": "Holzgeruch, matte Lacke, leises Klingeln an der Tür",
     "home": "Vorstellung von Räucherkerzenduft unterm Weihnachtsbaum"
   },
-  "themes": ["Würde durch Arbeit", "Selbstbestimmung", "Zugehörigkeit", "Weihnachten"],
+  "themes": [
+    "Würde durch Arbeit",
+    "Selbstbestimmung",
+    "Zugehörigkeit",
+    "Weihnachten"
+  ],
   "todos": [
     "Namen/Adresse der Hilfsorganisation als fiktives, glaubwürdiges Detail festlegen",
     "Ladenbeschreibung in Stockholm (Name, Straße) optional konkretisieren",
@@ -36,7 +46,8 @@
   ],
   "files": {
     "suggested_path": "02_Schweden/230_Echtes_Geschenk.md"
-  }
+  },
+  "proofreading": {}
 }
 ```
 

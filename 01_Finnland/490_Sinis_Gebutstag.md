@@ -6,7 +6,10 @@
   "date": "1985-08-15",
   "daytime": "morning",
   "place": "Sinis Wohnung, Vöyrinkatu 25, Vaasa",
-  "persons": ["Eddie", "Sini"],
+  "persons": [
+    "Eddie",
+    "Sini"
+  ],
   "synopsis": "Eddie stellt den Wecker, um früh aufzustehen und Sini mit einem Geburtstagsfrühstück zu überraschen. Spiegeleier, Toast und Muffins füllen die kleine Küche mit Duft. Sini entdeckt verblüfft Eddies Geschenk: eine DNA-Zeichnung, in der Codons die Wörter PUNK und SAMI ergeben. Eddie quält sich mit einem finnischen Geburtstagsgruß, der Sini zum Lachen bringt. Gemeinsam entziffern sie die Codons, Sini trägt die Aminosäuren in Schönschrift ein. Gerührt erklärt sie Eddie, dass sie es wirklich begriffen hat. Die beiden lachen, umarmen sich (ungewohnt für Finnen, aber typisch für Eddie).",
   "mood": "warm, heiter, berührt, verspielt",
   "tense": "present, Eddies first-person perspective",
@@ -49,11 +52,38 @@
     }
   ],
   "continuity": {
-    "before": ["Eddie entdeckt Sinis Studentenausweis und plant das Geschenk"],
-    "after": ["Eddie möchte Sini nach der Arbeit abholen und zeigt stolz ihre fast verheilten Füße"]
+    "before": [
+      "Eddie entdeckt Sinis Studentenausweis und plant das Geschenk"
+    ],
+    "after": [
+      "Eddie möchte Sini nach der Arbeit abholen und zeigt stolz ihre fast verheilten Füße"
+    ]
+  },
+  "proofreading": {
+    "Kapitel": "490_Sinis_Geburtstag",
+    "Ton": {
+      "Einschaetzung": "Warm, verspielt, Eddie bemüht sich um eine Überraschung und zeigt Zuneigung.",
+      "Kritik": "Ton kippt stellenweise ins Kitschige. Eddie wirkt sehr souverän im Umgang, Unsicherheit fehlt."
+    },
+    "Logik": {
+      "Einschaetzung": "Geburtstagsszene nachvollziehbar, schöne Normalität im Kontrast zur Flucht.",
+      "Kritik": "Einige Details wirken zu perfekt vorbereitet. Für Eddies Lage wirkt es fast zu glatt und planvoll."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie liebevoll, Sini überrascht und gerührt.",
+      "Kritik": "Eddie wirkt sehr erwachsen und kontrolliert, wenig jugendliche Aufregung. Sini bleibt eher Reaktionsfigur."
+    },
+    "Sprache": {
+      "Einschaetzung": "Gefühlsbetont, anschaulich.",
+      "Kritik": "Stellenweise überladen, leicht kitschig. Füllwörter fehlen fast völlig, Sprache wirkt dadurch zu glatt."
+    },
+    "Fazit": {
+      "Staerken": "Herzliche Szene, zeigt Bindung zwischen Eddie und Sini, schöner Kontrast zur Bedrohung.",
+      "Schwaechen": "Zu perfekt, leicht kitschig, jugendliche Unsicherheit fehlt.",
+      "Fix": "Mehr jugendliche Aufregung und kleine Fehler einbauen, Sprache straffen, Kitsch reduzieren."
+    }
   }
 }
-
 ```
 
 Der Küchenwecker rappelt im Halbdunkel, und ich springe hoch, bevor er Sini

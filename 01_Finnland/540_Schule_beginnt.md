@@ -6,11 +6,38 @@
   "date": "1985-09-01",
   "daytime": "morning, afternoon, evening",
   "place": "Vaasa, Finnland",
-  "persons": ["Eddie", "Sini"],
+  "persons": [
+    "Eddie",
+    "Sini"
+  ],
   "synopsis": "Am 1. September wird Eddie bewusst, dass in der DDR die Schule wieder beginnt. Beim Frühstück erzählt sie Sini davon, die den FDJ-Gruß auf komische Weise nachmacht. Eddie lacht, wird aber auch schwermütig, weil sie das Lernen vermisst. Statt Sini zum Terminal zu begleiten, geht sie in die Uni-Bibliothek von Vaasa, liest besessen ein englisches Buch über Technische Mechanik und macht am Abend einen Witz, um die Schwere zu vertreiben. Sini erwähnt beiläufig, dass sie einmal Biologie studiert hat, spricht darüber aber nicht weiter.",
   "mood": "light, humorous, tinged with hidden melancholy",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {
+    "Kapitel": "540_Schule_beginnt",
+    "Ton": {
+      "Einschaetzung": "Melancholisch, reflektierend. Eddie denkt über Schule und Lernen nach.",
+      "Kritik": "Ton wirkt zu erwachsen und nachdenklich. Jugendliterarische Direktheit fehlt stellenweise."
+    },
+    "Logik": {
+      "Einschaetzung": "Bezug zu Schulbeginn in der DDR plausibel, zeigt Kontrast zu Eddies Lage.",
+      "Kritik": "Eddies Gedanken erscheinen sehr abgeklärt, fast wie Essay. Weniger naive oder jugendliche Perspektive als erwartet."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie im Mittelpunkt, reflektierend.",
+      "Kritik": "Ihre Emotionen bleiben blass, es wirkt mehr wie Bericht als innere Anteilnahme. Sini bleibt Randfigur."
+    },
+    "Sprache": {
+      "Einschaetzung": "Klar, strukturiert.",
+      "Kritik": "Zu glatt und essayistisch. Wenig jugendliche Einwürfe oder spontane Assoziationen."
+    },
+    "Fazit": {
+      "Staerken": "Interessanter Kontrast DDR vs. Finnland, unterstreicht Eddies Verlust.",
+      "Schwaechen": "Zu essayistisch, jugendliche Stimme fehlt, Emotionen schwach.",
+      "Fix": "Mehr jugendliche Assoziationen einbauen, Emotionen stärker zeigen, Sprache weniger glatt machen."
+    }
+  }
 }
 ```
 

@@ -14,7 +14,31 @@
   "mood": "reflektierend, dankbar, nach innen gewandt",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "todo": "konkrete Etappe bennen"
+  "todo": "konkrete Etappe bennen",
+  "proofreading": {
+    "Kapitel": "360_Eddies_Wunder",
+    "Ton": {
+      "Einschaetzung": "Hoffnungsvoll, fast euphorisch. Eddie klingt erleichtert und staunend.",
+      "Kritik": "Ton schwankt zwischen authentischer Freude und zu großer Pathetik. Gefahr, dass es zu märchenhaft wirkt."
+    },
+    "Logik": {
+      "Einschaetzung": "Das Wunderhafte ist nachvollziehbar als subjektive Wahrnehmung.",
+      "Kritik": "Die Plausibilität hängt stark von Eddies Empfindung ab, könnte für Leser rational nicht nachvollziehbar wirken."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie im Mittelpunkt, voller Emotion.",
+      "Kritik": "Andere Figuren treten kaum hervor; Eddies Begeisterung wirkt stellenweise übersteigert."
+    },
+    "Sprache": {
+      "Einschaetzung": "Bildhaft, emotional.",
+      "Kritik": "Teilweise überladen, viele Metaphern und Ausrufe. Füllwörter verstärken den pathetischen Eindruck."
+    },
+    "Fazit": {
+      "Staerken": "Transportiert Hoffnung und Erleichterung, wichtiger Wendepunkt für Eddies Gefühlslage.",
+      "Schwaechen": "Übersteigerte Emotionen, Pathos-Gefahr, Nebenfiguren blass.",
+      "Fix": "Freude etwas erden, mehr innere Reflexion statt nur Ausrufungen, Nebenfiguren stärker einbeziehen."
+    }
+  }
 }
 ```
 

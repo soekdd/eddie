@@ -5,12 +5,39 @@
   "date": "1985-08-09",
   "daytime": "morning & evening",
   "place": "Vaasa, Sinis Küche",
-  "persons": ["Eddie", "Sini"],
+  "persons": [
+    "Eddie",
+    "Sini"
+  ],
   "synopsis": "Eddie verschläft das Frühstück, findet Sinis herzförmigen Zettel mit einer Biologie-Matheaufgabe, rechnet und kocht passend zum Thema. Abends erfährt sie – eher nebenbei – dass Sini in Helsinki ein paar Semester Biologie studiert hat, worüber diese aber nicht weiter sprechen will.",
   "mood": "warm, verspielt, häuslich; leise Verletzlichkeit",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "notes": "Die ausführliche Rechnung liegt ausgelagert in 'Eddie_rechnet_Tag1_Fischsee.md'."
+  "notes": "Die ausführliche Rechnung liegt ausgelagert in 'Eddie_rechnet_Tag1_Fischsee.md'.",
+  "proofreading": {
+    "Kapitel": "430_Fischpopulation",
+    "Ton": {
+      "Einschaetzung": "Sachlich, fast wissenschaftlich. Eddie erklärt mit einem gewissen Stolz.",
+      "Kritik": "Ton ist zu dozentisch, wenig jugendliche Farbe. Gefahr: klingt wie Biologiestunde, nicht wie Eddies Gedanken."
+    },
+    "Logik": {
+      "Einschaetzung": "Erklärungen plausibel, zeigen Eddies analytische Seite.",
+      "Kritik": "Details sind zu glatt und zu vollständig. Ein 17-jähriges Mädchen würde eher Halbwissen haben oder Unsicherheiten zeigen."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie tritt als Wissensvermittlerin auf.",
+      "Kritik": "Ihre Persönlichkeit tritt zurück, wirkt wie eine Lehrerin. Humor oder jugendliche Unsicherheit fehlen."
+    },
+    "Sprache": {
+      "Einschaetzung": "Klar, technisch präzise.",
+      "Kritik": "Zu viele Fachbegriffe, wenig Variation. Kaum emotionale Sprache oder jugendlicher Ton."
+    },
+    "Fazit": {
+      "Staerken": "Unterstreicht Eddies Genie und Wissensdurst, originelles Thema.",
+      "Schwaechen": "Zu lehrbuchhaft, Eddie wirkt unjugendlich, Sprache trocken.",
+      "Fix": "Unsicherheiten oder Halbwissen zeigen, Humor oder Selbstironie einbauen, Fachsprache vereinfachen."
+    }
+  }
 }
 ```
 

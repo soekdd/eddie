@@ -17,7 +17,31 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Jyvaskyla_Eddie_Raija_Spaziergang.png"
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "180_Erzaehlt_von_Ihren_Eltern",
+    "Ton": {
+      "Einschaetzung": "Reflektierend, ernst, Eddie berichtet über ihre Eltern.",
+      "Kritik": "Ton klingt sehr erwachsen, fast wie ein Bericht. Jugendlich-ungefilterte Emotionen fehlen streckenweise."
+    },
+    "Logik": {
+      "Einschaetzung": "Erzählung über die Eltern plausibel, fügt Hintergrundwissen hinzu.",
+      "Kritik": "Darstellung teilweise zu einseitig und glatt. Konflikte oder widersprüchliche Gefühle kommen zu kurz."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddies Eltern werden eingeführt, Eddie wirkt als Vermittlerin.",
+      "Kritik": "Eltern bleiben stark typisiert (positiv/negativ). Eddies persönliche Reibung mit ihnen könnte stärker gezeigt werden."
+    },
+    "Sprache": {
+      "Einschaetzung": "Klar, bildhaft.",
+      "Kritik": "Zu literarisch und erklärend. Wenig jugendliche Kommentare oder spontane Gedanken, Sprache wirkt zu erwachsen."
+    },
+    "Fazit": {
+      "Staerken": "Liefert Hintergrund zu Eddie, verankert sie familiär, gibt Tiefe.",
+      "Schwaechen": "Zu erklärend, zu glatt, jugendliche Stimme fehlt, Eltern bleiben Typen.",
+      "Fix": "Mehr persönliche Gefühle (Wut, Scham, Liebe) zeigen, Eltern widersprüchlicher darstellen, Sprache lockern und jugendlicher machen."
+    }
+  }
 }
 ```
 

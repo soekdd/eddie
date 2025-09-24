@@ -16,7 +16,8 @@
   "mode": "mainline",
   "illustrations": [
     "SWE_Stockholm_Eddie_kuesst_Vidar.png"
-  ]
+  ],
+  "proofreading": {}
 }
 ```
 

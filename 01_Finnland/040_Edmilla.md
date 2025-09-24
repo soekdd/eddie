@@ -13,7 +13,31 @@
   "synopsis": "Eddies Vater erklärt Eddie, dass sie sich vor der Flucht verstellen muss, Edmilla wird geboren",
   "mood": "ernst, konspirativ, leicht humorvoll",
   "tense": "past, Eddies first-person perspective",
-  "mode": "flashback"
+  "mode": "flashback",
+  "proofreading": {
+    "Kapitel": "040_Edmilla",
+    "Ton": {
+      "Einschaetzung": "Spielerisch, Eddie erfindet sich eine neue Identität mit Fantasie und Mut.",
+      "Kritik": "Ton schwankt zwischen jugendlicher Kreativität und zu reflektiertem Erzählen. Gefahr, dass der Entstehungsprozess zu glatt wirkt."
+    },
+    "Logik": {
+      "Einschaetzung": "Identitätserfindung plausibel, passt zu Eddies Situation.",
+      "Kritik": "Die Leichtigkeit, mit der Eddie Edmilla erschafft, könnte unrealistisch wirken – mehr Zögern oder Zweifel wären glaubwürdig."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie im Mittelpunkt, zeigt Fantasie und Anpassungsfähigkeit.",
+      "Kritik": "Ihre innere Zerrissenheit kommt zu kurz, Edmilla entsteht fast zu mühelos. Nebenfiguren fehlen ganz."
+    },
+    "Sprache": {
+      "Einschaetzung": "Anschaulich, teils witzig.",
+      "Kritik": "Stellenweise zu glatt, wenige jugendliche Einwürfe. Füllwörter und spontane Ausrufe fehlen, wodurch es literarischer klingt als nötig."
+    },
+    "Fazit": {
+      "Staerken": "Originelle Szene, zeigt Eddies Kreativität und Überlebensstrategie.",
+      "Schwaechen": "Zu glatt und problemlos erzählt, innere Konflikte fehlen, Sprache teils zu literarisch.",
+      "Fix": "Mehr Zögern, Zweifel und Unsicherheit zeigen, Sprache jugendlicher und spontaner machen."
+    }
+  }
 }
 ```
 

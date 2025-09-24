@@ -15,7 +15,31 @@
   "mode": "mainline",
   "todo": [
     "In der Stadt laufen Vorbereitungen für das große Festival, was in etwa einer Woche starten wird. Eddie überlegt kurz, ob einer der Fahrer sie mitnehmen könnte, verwirft die Ideen aber schließlich - Nein, Festival ist abgewählt, die Augenzeugen können sich nicht daran erinnern. Es stört den Fluss."
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "100_Durch_Joutsa",
+    "Ton": {
+      "Einschaetzung": "Beobachtend, Eddie schildert Eindrücke von der Umgebung und Menschen.",
+      "Kritik": "Ton wirkt stellenweise wie Reisereportage, zu beschreibend. Jugendlich-subjektive Färbung tritt zurück."
+    },
+    "Logik": {
+      "Einschaetzung": "Reise durch Joutsa nachvollziehbar, keine groben Brüche.",
+      "Kritik": "Beschreibung wirkt zu glatt, ohne Zwischenfälle oder Unsicherheiten. Gefahr: Szene bleibt blass."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie als Beobachterin präsent.",
+      "Kritik": "Ihre Emotionen (Langeweile, Neugier, Angst) treten kaum hervor. Nebenfiguren sind Staffage und ohne eigene Kontur."
+    },
+    "Sprache": {
+      "Einschaetzung": "Flüssig, detailreich.",
+      "Kritik": "Zu viele Aufzählungen, wenig jugendliche Kommentare. Sprache streckenweise zu glatt und erwachsen."
+    },
+    "Fazit": {
+      "Staerken": "Gibt Lokalkolorit und erweitert das Setting.",
+      "Schwaechen": "Zu deskriptiv, wenig Handlung, jugendliche Stimme fehlt.",
+      "Fix": "Mehr persönliche Reaktionen und Gedanken einbauen, Sprache jugendlicher machen, kleine Konflikte oder Stolperer einfügen."
+    }
+  }
 }
 ```
 

@@ -17,7 +17,8 @@
   "illustrations": [
     "SWE_Stockholm_Eddie_hat_geduscht.png"
   ],
-  "todo": "dieser und der nächste Abschnitt passen nicht zusammen"
+  "todo": "dieser und der nächste Abschnitt passen nicht zusammen",
+  "proofreading": {}
 }
 ```
 

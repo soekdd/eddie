@@ -52,7 +52,31 @@
         "Rucksack mit Schokolade stärkt sie für den weiteren Weg"
       ]
     }
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "290_Ploetzlich_Robinson",
+    "Ton": {
+      "Einschaetzung": "Verspielt, Eddie macht ironische Bezüge zu Robinson Crusoe, beschreibt ihre Lage mit Humor.",
+      "Kritik": "Ton rutscht stellenweise zu sehr ins Parodistische. Gefahr, dass die Bedrohung der Lage zu leicht wirkt."
+    },
+    "Logik": {
+      "Einschaetzung": "Die Robinson-Parallelen sind nachvollziehbar und passen als jugendliche Strategie, sich Mut zu machen.",
+      "Kritik": "Manche Details (Improvisation) wirken zu glatt; es fehlen Stolperer oder Fehler, die es realistischer machen würden."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie wirkt witzig, kreativ, nutzt Humor als Waffe gegen Angst.",
+      "Kritik": "Ihre Verletzlichkeit tritt zu wenig hervor. Nebenfiguren bleiben unsichtbar, Eddie erzählt allein."
+    },
+    "Sprache": {
+      "Einschaetzung": "Lebendig, humorvoll, mit Selbstironie.",
+      "Kritik": "Teilweise zu viele Pointen am Stück, Tempo zu gleichmäßig. Füllwörter wie 'irgendwie' tauchen häufiger auf."
+    },
+    "Fazit": {
+      "Staerken": "Originelle Parallele zu Robinson Crusoe, Eddie zeigt Witz und Fantasie.",
+      "Schwaechen": "Gefahr der Verharmlosung, zu glatte Improvisationen, zu viele Pointen.",
+      "Fix": "Mehr Momente von Scheitern/Unsicherheit einbauen, Humor dosieren, Füllwörter straffen."
+    }
+  }
 }
 ```
 

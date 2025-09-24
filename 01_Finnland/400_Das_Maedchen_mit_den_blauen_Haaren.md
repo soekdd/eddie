@@ -57,7 +57,31 @@
         "Ankunft in der Wohnung, Bewusstlosigkeit als rettender Schnitt"
       ]
     }
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "400_Das_Maedchen_mit_den_blauen_Haaren",
+    "Ton": {
+      "Einschaetzung": "Neugierig, vorsichtig, Eddie beobachtet intensiv und beschreibt Details.",
+      "Kritik": "Ton schwankt zwischen jugendlichem Staunen und literarischer Überhöhung. Stellenweise wirkt es zu geschliffen für Eddies Stimme."
+    },
+    "Logik": {
+      "Einschaetzung": "Begegnung plausibel, Spannung in der Beobachtung vorhanden.",
+      "Kritik": "Einige Beschreibungen wirken überladen, Fokus auf Äußerlichkeiten dominiert. Gefahr, dass Szene ins rein Ästhetische kippt."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie tritt als Beobachterin klar hervor, das Mädchen wirkt geheimnisvoll.",
+      "Kritik": "Eddie wirkt zu abgeklärt, ihre Unsicherheit oder Überraschung könnte stärker hervortreten. Das andere Mädchen bleibt sehr schemenhaft."
+    },
+    "Sprache": {
+      "Einschaetzung": "Bildhaft, detailreich.",
+      "Kritik": "Teilweise zu viele Adjektive, Sprache wirkt überinszeniert. Wenig jugendliche Direktheit."
+    },
+    "Fazit": {
+      "Staerken": "Stimmungsvolle Szene, erzeugt Neugier und Spannung, klare Bildhaftigkeit.",
+      "Schwaechen": "Überinszenierte Sprache, Eddies Gefühlslage zu kühl, Gegenfigur zu schemenhaft.",
+      "Fix": "Adjektive reduzieren, Eddies Verunsicherung deutlicher zeigen, Mädchen mehr Kontur geben."
+    }
+  }
 }
 ```
 

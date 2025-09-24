@@ -17,7 +17,31 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Vaasa_Busse.png"
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "570_Die_Verfuehrerin",
+    "Ton": {
+      "Einschaetzung": "Intensiv, sinnlich, Eddie schildert Begegnung mit Faszination und Unsicherheit.",
+      "Kritik": "Ton schwankt zwischen jugendlicher Neugier und erwachsener Sinnlichkeit. Gefahr: wirkt zu literarisch und abgeklärt für Eddies Alter."
+    },
+    "Logik": {
+      "Einschaetzung": "Verführung als Thema plausibel in der Situation.",
+      "Kritik": "Manche Handlungen wirken zu geplant oder glatt. Für eine jugendliche Perspektive fehlen mehr Brüche und Unsicherheiten."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie verletzlich und neugierig, Gegenfigur geheimnisvoll und stärker.",
+      "Kritik": "Eddie wirkt stellenweise zu reflektiert. Die Verführerin bleibt klischeehaft, wenig eigene Tiefe."
+    },
+    "Sprache": {
+      "Einschaetzung": "Bildhaft, emotional, teilweise poetisch.",
+      "Kritik": "Überladen mit Metaphern, Sätze oft lang und literarisch. Wenig jugendliche Direktheit oder spontane Sprache."
+    },
+    "Fazit": {
+      "Staerken": "Spannungsgeladen, wichtig für Eddies Entwicklung, emotionale Intensität.",
+      "Schwaechen": "Zu literarisch und erwachsen, Verführerin klischeehaft, Eddies Unsicherheit zu wenig spürbar.",
+      "Fix": "Mehr jugendliche Gedanken (peinlich, verwirrt), Verführerin individueller zeichnen, Sprache straffen und weniger Metaphern."
+    }
+  }
 }
 ```
 

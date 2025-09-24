@@ -13,7 +13,31 @@
   "synopsis": "Sinis Vater erscheint unerwartet, stellt sie wegen der Uni und der Wohnung zur Rede und macht Eddie klar, dass sie nicht bleiben kann.",
   "mood": "tense, humiliating, bittersweet",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {
+    "Kapitel": "560_Du_oeffnest_meine_Post",
+    "Ton": {
+      "Einschaetzung": "Konfrontativ, angespannt. Eddie reagiert empfindlich und spitz.",
+      "Kritik": "Ton wirkt teils überzogen, fast theatralisch. Gefahr: melodramatisch statt jugendlich-authentisch."
+    },
+    "Logik": {
+      "Einschaetzung": "Konflikt nachvollziehbar – Privatsphäre-Verletzung als Trigger plausibel.",
+      "Kritik": "Reaktion eskaliert sehr schnell. Zwischentöne oder innerer Zwiespalt fehlen, wodurch Szene holzschnittartig wirkt."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie klar im Fokus, verletzlich und aggressiv zugleich.",
+      "Kritik": "Ihre Emotion kippt abrupt, wirkt konstruiert. Die Gegenfigur bleibt blass, agiert nur als Auslöser."
+    },
+    "Sprache": {
+      "Einschaetzung": "Direkt, scharf, kurze Sätze.",
+      "Kritik": "Manchmal zu viele Ausrufezeichen, überbetonte Empörung. Wenig Variation, Sprache wirkt gleichförmig."
+    },
+    "Fazit": {
+      "Staerken": "Starker Konfliktstoff, Eddie zeigt klare Grenzen und Verletzlichkeit.",
+      "Schwaechen": "Überinszeniert, abrupte Eskalation, Nebenfigur konturlos.",
+      "Fix": "Reaktion realistischer staffeln, Zwischentöne einbauen, Nebenfigur stärker zeichnen, Sprache variieren."
+    }
+  }
 }
 ```
 

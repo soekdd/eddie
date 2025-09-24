@@ -20,7 +20,31 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Joutsa_Haare_waschen.png"
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "120_In_der_Polizeistation",
+    "Ton": {
+      "Einschaetzung": "Beklemmend, angespannt, Eddie schildert die Situation ernst und konzentriert.",
+      "Kritik": "Ton kippt stellenweise ins Protokollarische, zu glatt und reflektiert. Jugendlich-chaotische Gedanken fehlen fast völlig."
+    },
+    "Logik": {
+      "Einschaetzung": "Darstellung der Polizeistation plausibel, Atmosphäre nachvollziehbar.",
+      "Kritik": "Dialoge wirken zu sachlich und glatt, wie aus einem Bericht. Mehr Brüche, Missverständnisse oder nonverbale Spannung wären realistischer."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie zeigt Unsicherheit, Beamte wirken bedrohlich.",
+      "Kritik": "Eddies Angst wird zu kontrolliert dargestellt. Ihre körperliche Reaktion (zitternde Hände, Schweiß, unpassende Gedanken) fehlt. Beamte bleiben Stereotype."
+    },
+    "Sprache": {
+      "Einschaetzung": "Klar, präzise.",
+      "Kritik": "Zu sachlich, zu erwachsen. Wenig jugendliche Sprachelemente oder rotzige Gedanken, die Eddie sonst lebendig machen."
+    },
+    "Fazit": {
+      "Staerken": "Atmosphäre beklemmend, zeigt Bedrohungssituation, wichtig für Handlung.",
+      "Schwaechen": "Zu glatt, zu protokollarisch, jugendliche Stimme fehlt, Figuren eindimensional.",
+      "Fix": "Mehr innere Gedanken und chaotische Gefühle einbauen, körperliche Reaktionen zeigen, Beamte differenzierter darstellen."
+    }
+  }
 }
 ```
 

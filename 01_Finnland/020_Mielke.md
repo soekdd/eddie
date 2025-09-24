@@ -15,7 +15,31 @@
   "mode": "flashback",
   "illustrations": [
     "DDR_Berlin_Eddie_trifft_auf_Mielke.png"
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "020_Mielke",
+    "Ton": {
+      "Einschaetzung": "Düster, bedrohlich, Eddie denkt über Macht und Angst nach.",
+      "Kritik": "Ton wirkt sehr literarisch und erwachsen. Wenig jugendliche Direktheit, Gefahr der Überhöhung."
+    },
+    "Logik": {
+      "Einschaetzung": "Bezug zu Mielke plausibel, verankert im DDR-Kontext.",
+      "Kritik": "Einige Passagen wirken erklärend und referierend, fast wie Geschichtsstunde. Könnte stärker aus Eddies unmittelbarer Sicht erzählt sein."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie reflektiert, Mielke erscheint als Symbolfigur.",
+      "Kritik": "Eddie wirkt zu abgeklärt, fast wie Historikerin. Ihre jugendliche Perspektive und Angst treten in den Hintergrund."
+    },
+    "Sprache": {
+      "Einschaetzung": "Ernst, bildhaft, kraftvoll.",
+      "Kritik": "Zu viele schwere Metaphern, Sätze zu lang. Wenig jugendliche Schnörkellosigkeit."
+    },
+    "Fazit": {
+      "Staerken": "Verbindet persönliche Geschichte mit politischem Hintergrund, setzt starken Kontrast.",
+      "Schwaechen": "Zu literarisch und erklärend, Eddie wirkt unjugendlich, Sprache überinszeniert.",
+      "Fix": "Mehr persönliche Angst und unmittelbare Reaktionen einbauen, weniger Geschichtsreferat, Sprache straffen."
+    }
+  }
 }
 ```
 

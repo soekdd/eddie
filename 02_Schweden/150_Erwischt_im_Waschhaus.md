@@ -16,7 +16,8 @@
   "mode": "mainline",
   "illustrations": [
     "SWE_Stockholm_Vidars_Mutter_entdeckt_Eddie.png"
-  ]
+  ],
+  "proofreading": {}
 }
 ```
 

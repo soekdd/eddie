@@ -14,7 +14,8 @@
   "mode": "mainline",
   "illustrations": [
     "SWE_Stockholm_Eddie_trifft_Streuner.png"
-  ]
+  ],
+  "proofreading": {}
 }
 ```
 

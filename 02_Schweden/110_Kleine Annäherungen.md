@@ -13,7 +13,8 @@
   "synopsis": "Vidars Hilfsbereitschaft, zufällige Berührung beim Tee, Spaziergänge, Lachen – und ein Fast-Kuss auf der Mauer.",
   "mood": "kribbelnd, scheu, verheißungsvoll",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {}
 }
 ```
 

@@ -15,7 +15,8 @@
   "illustrations": [
     "SWE_Stockholm_Abflug.png",
     "BRD_Flugzeug.png"
-  ]
+  ],
+  "proofreading": {}
 }
 ```
 

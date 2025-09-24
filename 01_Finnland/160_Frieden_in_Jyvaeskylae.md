@@ -12,7 +12,31 @@
   "synopsis": "Eddie und Raija verbringen einen friedlichen Tag zusammen, gehen einkaufen, kochen, reden offen über Vergangenes und spazieren zum See.",
   "mood": "calm, intimate, safe",
   "tense": "present, Eddies first-person perspective",
-  "mode": "mainline"
+  "mode": "mainline",
+  "proofreading": {
+    "Kapitel": "160_Frieden_in_Jyvaeskylae",
+    "Ton": {
+      "Einschaetzung": "Ruhig, erleichtert, Eddie erlebt eine Atempause und schildert friedliche Eindrücke.",
+      "Kritik": "Ton wirkt stellenweise zu idyllisch und erwachsen. Die jugendliche Direktheit tritt zurück."
+    },
+    "Logik": {
+      "Einschaetzung": "Kontrast zwischen Flucht und Ruhe plausibel, dramaturgisch sinnvoll.",
+      "Kritik": "Idylle wirkt fast zu perfekt, ohne kleine Störungen. Realismus könnte durch kleine Spannungen gestützt werden."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie zeigt Erleichterung, kann kurz durchatmen.",
+      "Kritik": "Ihre innere Zerrissenheit und Angst sind in dieser Ruhephase kaum spürbar. Nebenfiguren bleiben Staffage."
+    },
+    "Sprache": {
+      "Einschaetzung": "Bildhaft, beschreibend.",
+      "Kritik": "Zu glatt und idyllisch, wenig jugendliche Gedanken oder humorvolle Einwürfe. Manche Sätze klingen wie aus einem Reiseprospekt."
+    },
+    "Fazit": {
+      "Staerken": "Schafft Ruhepol, betont Kontrast zur Flucht, atmosphärisch dicht.",
+      "Schwaechen": "Zu idyllisch und erwachsen, Figuren blass, Emotionen schwach.",
+      "Fix": "Mehr jugendliche Kommentare und chaotische Gedanken einbauen, kleine Störungen zeigen (Angstschatten, Unsicherheit), Sprache weniger prosaisch."
+    }
+  }
 }
 ```
 

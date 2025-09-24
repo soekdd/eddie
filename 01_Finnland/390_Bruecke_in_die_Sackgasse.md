@@ -4,38 +4,167 @@
 {
   "title": "Über die Brücke in die Sackgasse",
   "chapter_id": "FIN_Seq18-23_Bruecke_Sackgasse",
-  "seq_range": ["18", "23"],
+  "seq_range": [
+    "18",
+    "23"
+  ],
   "date": "1985-07-29",
   "date_from": "1985-07-29",
   "date_to": "1985-08-04",
   "tense": "present",
   "pov": "Eddie, first-person",
   "mode": "mainline",
-  "mood": ["fiebrig", "entkräftet", "ausgesetzt", "hoffnungsmüde", "zartes Vertrauen"],
-  "themes": ["Vaasa als Sackgasse", "Körperlicher Zusammenbruch", "Fremde Hilfe", "Brücke als Prüfung", "Angst vor Sichtbarkeit"],
-  "persons": ["Eddie", "Junges Punkmädchen (blaues Haar)"],
-  "landscapes": ["Felder", "Sumpf/Moor", "Küste/Schärennähe", "Urban/Terminal", "Insel Vasklot"],
+  "mood": [
+    "fiebrig",
+    "entkräftet",
+    "ausgesetzt",
+    "hoffnungsmüde",
+    "zartes Vertrauen"
+  ],
+  "themes": [
+    "Vaasa als Sackgasse",
+    "Körperlicher Zusammenbruch",
+    "Fremde Hilfe",
+    "Brücke als Prüfung",
+    "Angst vor Sichtbarkeit"
+  ],
+  "persons": [
+    "Eddie",
+    "Junges Punkmädchen (blaues Haar)"
+  ],
+  "landscapes": [
+    "Felder",
+    "Sumpf/Moor",
+    "Küste/Schärennähe",
+    "Urban/Terminal",
+    "Insel Vasklot"
+  ],
   "weather_summary": "Regen, Wind, kühl; an der Küste stürmischer.",
   "synopsis": "Völlig entkräftet stolpert Eddie über die letzte Brücke nach Vaasa, kämpft mit Paranoia und Zusammenbrüchen und bricht schließlich am Fährterminal zusammen – genau dort, wo das Mädchen mit den blauen Haaren sie findet.",
   "overnights": [
-    { "seq": "18", "date": "1985-07-29", "type": "Picknickdach", "name": "Pohjoismäki", "near": "Laihia (Pohjanmaa)" },
-    { "seq": "19", "date": "1985-07-30", "type": "Großer Unterstand", "name": "Kempinnevan laavu", "near": "Laihia (Pohjanmaa)" },
-    { "seq": "20", "date": "1985-07-31", "type": "Lean-to", "name": "Haarinnevan laavu", "near": "Laihia (Pohjanmaa)" },
-    { "seq": "21", "date": "1985-08-01", "type": "Geschlossene kleine Hütte", "name": "Kaarluoman laavu", "near": "Laihia (Pohjanmaa)" },
-    { "seq": "22", "date": "1985-08-02", "type": "Wartetplatz/Skihang, kein Shelter", "name": "Öjbergetin taukotupa (Umgebung)", "near": "Vaasa (Pohjanmaa)" },
-    { "seq": "23", "date": "1985-08-03", "type": "Notlager hinter Terminal / Büro", "name": "Wasaline Terminal Vaasa (Vasklot)", "near": "Vaasa (Pohjanmaa)" }
+    {
+      "seq": "18",
+      "date": "1985-07-29",
+      "type": "Picknickdach",
+      "name": "Pohjoismäki",
+      "near": "Laihia (Pohjanmaa)"
+    },
+    {
+      "seq": "19",
+      "date": "1985-07-30",
+      "type": "Großer Unterstand",
+      "name": "Kempinnevan laavu",
+      "near": "Laihia (Pohjanmaa)"
+    },
+    {
+      "seq": "20",
+      "date": "1985-07-31",
+      "type": "Lean-to",
+      "name": "Haarinnevan laavu",
+      "near": "Laihia (Pohjanmaa)"
+    },
+    {
+      "seq": "21",
+      "date": "1985-08-01",
+      "type": "Geschlossene kleine Hütte",
+      "name": "Kaarluoman laavu",
+      "near": "Laihia (Pohjanmaa)"
+    },
+    {
+      "seq": "22",
+      "date": "1985-08-02",
+      "type": "Wartetplatz/Skihang, kein Shelter",
+      "name": "Öjbergetin taukotupa (Umgebung)",
+      "near": "Vaasa (Pohjanmaa)"
+    },
+    {
+      "seq": "23",
+      "date": "1985-08-03",
+      "type": "Notlager hinter Terminal / Büro",
+      "name": "Wasaline Terminal Vaasa (Vasklot)",
+      "near": "Vaasa (Pohjanmaa)"
+    }
   ],
   "route_segments": [
-    { "seq": "18", "site_name": "Pohjoismäki", "lat": 62.830517, "lon": 22.159714, "province": "Pohjanmaa", "landscape": "Felder" },
-    { "seq": "19", "site_name": "Kempinnevan laavu", "lat": 62.8596208609, "lon": 22.2948925343, "province": "Pohjanmaa", "landscape": "Sumpf/Moor" },
-    { "seq": "20", "site_name": "Haarinnevan laavu", "lat": 62.9485307679, "lon": 22.2448746806, "province": "Pohjanmaa", "landscape": "Sumpf/Moor" },
-    { "seq": "21", "site_name": "Kaarluoman laavu", "lat": 62.9657701249, "lon": 21.9045754885, "province": "Pohjanmaa", "landscape": "Felder" },
-    { "seq": "22", "site_name": "Öjberget (Skihang/Umgebung)", "lat": 63.037177982, "lon": 21.5689160302, "province": "Pohjanmaa", "landscape": "Küste" },
-    { "seq": "23", "site_name": "Wasaline Ferry Terminal (Vasklot/Vaskiluoto)", "lat": 63.088583333, "lon": 21.560030556, "province": "Pohjanmaa", "landscape": "Urban/Insellage" }
+    {
+      "seq": "18",
+      "site_name": "Pohjoismäki",
+      "lat": 62.830517,
+      "lon": 22.159714,
+      "province": "Pohjanmaa",
+      "landscape": "Felder"
+    },
+    {
+      "seq": "19",
+      "site_name": "Kempinnevan laavu",
+      "lat": 62.8596208609,
+      "lon": 22.2948925343,
+      "province": "Pohjanmaa",
+      "landscape": "Sumpf/Moor"
+    },
+    {
+      "seq": "20",
+      "site_name": "Haarinnevan laavu",
+      "lat": 62.9485307679,
+      "lon": 22.2448746806,
+      "province": "Pohjanmaa",
+      "landscape": "Sumpf/Moor"
+    },
+    {
+      "seq": "21",
+      "site_name": "Kaarluoman laavu",
+      "lat": 62.9657701249,
+      "lon": 21.9045754885,
+      "province": "Pohjanmaa",
+      "landscape": "Felder"
+    },
+    {
+      "seq": "22",
+      "site_name": "Öjberget (Skihang/Umgebung)",
+      "lat": 63.037177982,
+      "lon": 21.5689160302,
+      "province": "Pohjanmaa",
+      "landscape": "Küste"
+    },
+    {
+      "seq": "23",
+      "site_name": "Wasaline Ferry Terminal (Vasklot/Vaskiluoto)",
+      "lat": 63.088583333,
+      "lon": 21.560030556,
+      "province": "Pohjanmaa",
+      "landscape": "Urban/Insellage"
+    }
   ],
-  "nearest_cities": ["Laihia", "Vaasa"],
+  "nearest_cities": [
+    "Laihia",
+    "Vaasa"
+  ],
   "approx_word_count": 780,
-  "updated": "2025-09-19"
+  "updated": "2025-09-19",
+  "proofreading": {
+    "Kapitel": "390_Bruecke_in_die_Sackgasse",
+    "Ton": {
+      "Einschaetzung": "Bedrückend, ernst, Eddie schildert die Szene mit spürbarer Schwere.",
+      "Kritik": "Ton fällt streckenweise ins Protokollarische. Emotionale Intensität wird behauptet, nicht ausreichend gezeigt."
+    },
+    "Logik": {
+      "Einschaetzung": "Grundsituation nachvollziehbar, Spannung vorhanden.",
+      "Kritik": "Einige Abläufe wirken zu glatt erklärt. Gefahr, dass Bedrohung an Schärfe verliert, weil Eddie zu analytisch erzählt."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie steht im Mittelpunkt, reagiert nachdenklich.",
+      "Kritik": "Ihre Angst bleibt abstrakt, körperliche Reaktionen fehlen. Nebenfiguren wirken blass und funktional."
+    },
+    "Sprache": {
+      "Einschaetzung": "Klar, strukturiert.",
+      "Kritik": "Zu sachlich, teilweise fast berichtend. Wenig jugendliche Direktheit oder Rotzgören-Farbe."
+    },
+    "Fazit": {
+      "Staerken": "Atmosphäre bedrückend eingefangen, klare Dramaturgie.",
+      "Schwaechen": "Zu kühl und berichtend, Emotionen bleiben fern, Nebenfiguren konturlos.",
+      "Fix": "Mehr körperliche Angstreaktionen einbauen, Eddie jugendlicher und verletzlicher wirken lassen, Sprache emotionaler machen."
+    }
+  }
 }
 ```
 

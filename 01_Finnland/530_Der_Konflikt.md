@@ -16,7 +16,31 @@
   "mode": "mainline",
   "illustrations": [
     "FIN_Vaasa_Sini_schaemt_sich.png"
-  ]
+  ],
+  "proofreading": {
+    "Kapitel": "530_Der_Konflikt",
+    "Ton": {
+      "Einschaetzung": "Emotional, aufgeladen, Eddie und Sini geraten aneinander.",
+      "Kritik": "Ton teils überdramatisiert, mit pathetischen Spitzen. Gefahr, dass es melodramatisch wirkt statt authentisch jugendlich."
+    },
+    "Logik": {
+      "Einschaetzung": "Konflikt nachvollziehbar, baut auf vorherigen Spannungen auf.",
+      "Kritik": "Eskalation wirkt zu schnell; Zwischenschritte oder leisere Töne fehlen. Konfliktauflösung wirkt etwas zu sauber."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie und Sini deutlich im Fokus, Emotionen sichtbar.",
+      "Kritik": "Beide Figuren reagieren stellenweise zu scharf oder theatralisch. Feinere Nuancen (Verletzlichkeit, Schweigen) fehlen."
+    },
+    "Sprache": {
+      "Einschaetzung": "Dramatisch, bildhaft.",
+      "Kritik": "Überladen mit Metaphern und Ausrufungen. Lange Sätze verstärken das Pathos. Füllwörter fehlen – Sprache wirkt unnatürlich glatt."
+    },
+    "Fazit": {
+      "Staerken": "Intensives Kapitel, zentrale Figuren im Schlagabtausch, Emotionen klar.",
+      "Schwaechen": "Melodramatisch, Konflikt zu abrupt, wenig Zwischentöne.",
+      "Fix": "Konflikt schrittweiser aufbauen, mehr stille Verletzungen einbauen, Sprache zurücknehmen."
+    }
+  }
 }
 ```
 

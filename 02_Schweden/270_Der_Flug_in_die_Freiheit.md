@@ -14,7 +14,8 @@
   "mode": "mainline",
   "illustrations": [
     "BRD_Flugzeug.png"
-  ]
+  ],
+  "proofreading": {}
 }
 ```
 
