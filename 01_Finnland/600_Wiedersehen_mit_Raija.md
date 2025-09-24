@@ -75,7 +75,7 @@ Dann fällt mein Blick auf einen kleinen Opel, hellblau, mit der Motorhaube noch
 vom Tau glänzend. Ich bleibe stehen. „Den kenn ich.“\ Sini folgt meinem Blick.
 „Dein Traumauto?“\ „Nein. Raijas Auto.“
 
-Ich sehe mich um -- und da ist sie. Keine zehn Meter entfernt, an der Ecke, wo
+Ich sehe mich um – und da ist sie. Keine zehn Meter entfernt, an der Ecke, wo
 der Gehweg zum Park abbiegt. Sie trägt die gleiche Lederjacke wie zuletzt an
 unserem gemeinsamen Sonntag in Jyväskylä.
 
@@ -96,8 +96,8 @@ Die Luft zwischen uns wird schwer. Kein Lächeln mehr. Nur die Stille, in der wi
 alle wissen, was das heißt. Wir schauen uns um.
 
 „Komm“, sagt Raija. „Nicht hier.“\ Wir lassen ihr Auto stehen. Keiner sagt,
-warum -- aber wir wissen es alle. Zu auffällig, zu nah am Kirchturm, zu leicht
-zu finden.
+warum – aber wir wissen es alle. Zu auffällig, zu nah am Kirchturm, zu leicht zu
+finden.
 
 Wir gehen schnell. Durch Straßen, die immer enger wirken, obwohl sie offen vor
 uns liegen. Sini führt uns im Zickzack durch die Gassen. Ich merke erst, als wir
@@ -105,40 +105,40 @@ direkt vor Sinis Haustür stehen, dass wir schon da sind. Drinnen ist es warm,
 aber die Wärme macht nichts leichter.
 
 Wir sitzen wieder in Sinis Küche, aber diesmal ist die Luft nicht so schwer wie
-gestern. Es knistert -- nicht vor Hoffnungslosigkeit, sondern vor einer Idee,
-die langsam Form annimmt.
+gestern. Es knistert – nicht vor Hoffnungslosigkeit, sondern vor einer Idee, die
+langsam Form annimmt.
 
 Sini stützt den Kopf in die Hand. „Es gibt hier Zöllner, die alles ganz genau
-nehmen… und andere, die einer hübschen jungen Frau schon mal einen Gefallen
+nehmen … und andere, die einer hübschen jungen Frau schon mal einen Gefallen
 tun.“ Sie zieht eine Augenbraue hoch, als wollte sie mir sagen, wer die „hübsche
-junge Frau“ in diesem Plan wohl wäre. Ich starre zurück, versuche nicht rot zu
+junge Frau“ in diesem Plan wohl wäre. Ich starre zurück, versuche, nicht rot zu
 werden.
 
-„Und dann gibt's noch die Neuen“, sagt sie. „Die kennen die Regeln nicht so gut.
+„Und dann gibt’s noch die Neuen“, sagt sie. „Die kennen die Regeln nicht so gut.
 Ich kann den Dienstplan besorgen. Wenn wir den richtigen erwischen, kommen wir
 vielleicht durch.“
 
 Raija, die bisher schweigend zugehört hat, schüttelt den Kopf. „Dieser
-Busfahrer-Plan war Mist. Wir machen das sauberer. Zwei Tickets -- eins hin und
+Busfahrer-Plan war Mist. Wir machen das sauberer. Zwei Tickets – eins hin und
 zurück für mich, eins ohne Rückfahrt für dich. Ich begleite dich in Uniform, wie
-bei einer Gefangenenüberführung.“\ „Klingt… offiziell“, sage ich und versuche,
+bei einer Gefangenenüberführung.“\ „Klingt … offiziell“, sage ich und versuche,
 mich nicht zu sehr in das Bild hineinzusteigern, wie ich in Handschellen, aber
 frei, nach Schweden fahre.
 
 „Offiziell reicht nicht“, sagt Raija. „Ich brauch was auf Papier.“
 
-Da fällt es mir ein. „Was, wenn wir… eins dieser Fax schicken?“\ Die beiden
+Da fällt es mir ein. „Was, wenn wir … eins dieser Faxe schicken?“\ Die beiden
 sehen mich an, als hätte ich vorgeschlagen, wir fliegen einfach mit einem
 Heißluftballon über die Ostsee. „Ein Fax?“, fragt Sini.\ „Ja! Die Dinger sind
 neu, sehen furchtbar wichtig aus. Jede Polizeistation in Finnland hat so eines.“
-„Na du weißt ja Sachen“, lacht Sini. „Wir schreiben einen Auslieferungsauftrag,
+„Na, du weißt ja Sachen“, lacht Sini. „Wir schreiben einen Auslieferungsauftrag,
 auf Schwedisch, an dich, Raija. Von einer erfundenen Behörde. Ist dein
-schwedisch gut genug, Sini?“ Sini nickt.
+Schwedisch gut genug, Sini?“ Sini nickt.
 
 Eine Stunde später klappert Sinis alte Schreibmaschine. Ich tippe mit zwei
 Fingern, Sini übersetzt ins Schwedische, Raija kontrolliert jeden Satz wie eine
 Lehrerin, die ahnt, dass die Schülerin heimlich spickt. Wir haben einen
-offiziellen Briefkopf, eine gefälschte Unterschrift, und sogar ein erfundenes
+offiziellen Briefkopf, eine gefälschte Unterschrift und sogar ein erfundenes
 Aktenzeichen.
 
 Am Nachmittag sitzen wir in der Bücherei von Vaasa, zwischen staubigen Regalen
