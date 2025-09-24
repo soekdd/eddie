@@ -1,14 +1,14 @@
-# Ankunft in Jotsenlampi
+# Ankunft in Joutsenlampi
 
 ```json
 {
   "flashback-date": "1985-07-01",
   "date": "1985-07-10",
   "daytime": "evening",
-  "place": "Jotsenlampi",
+  "place": "Joutsenlampi",
   "persons": [
     "Eddie",
-    "andere Teilnehmer des DDR Teams"
+    "andere Teilnehmer des DDR-Teams"
   ],
   "synopsis": "Beim Aufbruch schenken die Freunde Eddie Ausrüstung und sprechen ihr Mut zu, mit einem Ziel im Westen: Paderborn.",
   "mood": "hopeful and heartwarming",
@@ -21,7 +21,7 @@
     "FIN_Jotsenlampi_Sauna_zu_dritt.png"
   ],
   "proofreading": {
-    "Kapitel": "270_Ankunft_in_Jotsenlampi",
+    "Kapitel": "270_Ankunft_in_Joutsenlampi",
     "Ton": {
       "Einschaetzung": "Beobachtend, neugierig, mit einem Hauch Ehrfurcht. Eddie beschreibt die Ankunft recht nüchtern.",
       "Kritik": "Ton kippt teilweise ins Reiseführerhafte. Wenig persönliche Färbung, mehr Beschreibung als innere Beteiligung."
@@ -47,13 +47,13 @@
 }
 ```
 
-Meine nächste Etappe führt mich nur wenig Kilometer durch den Wald. Ich will
+Meine nächste Etappe führt mich nur wenige Kilometer durch den Wald. Ich will
 mich erstmal langsam an die großen Etappen heranwagen. Und wieder stehe ich vor
 einer dieser wunderbaren Hütten und kann kaum glauben, dass sie mir für eine
 Nacht allein gehört. Der Boden riecht noch nach frischem Holz, alles ist neu,
 alles sauber, alles großzügig. Ich muss unwillkürlich lachen – wenn das
 Kapitalismus sein soll, dann hat meine Schule mir eine verdammt schlechte
-Vorstellung davon verkauft. Kostenlos eine Hütte, kostenlos ein Bett, kostenlos
+Vorstellung davon verkauft. Kostenlos eine Hütte, kostenlos ein Bett, kostenlose
 Wärme und Sicherheit.
 
 Und während ich mich umsehe, während mein Blick von der kleinen Veranda über das
@@ -78,7 +78,7 @@ skandinavische Klarheit. Wir wurden in Empfang genommen, fast wie Gäste, nicht
 wie Verdächtige.
 
 Draußen wartete ein Bus. Kein alter Ikarus mit flatternden Vorhängen, sondern
-ein moderner Reisebus, blauweiß lackiert, mit bequemen Sitzen, die sich
+ein moderner Reisebus, blau-weiß lackiert, mit bequemen Sitzen, die sich
 zurücklehnen ließen. Ich sank hinein und dachte, ich träume. Wir fuhren
 stundenlang durch Wälder, an Seen vorbei, auf Straßen, die so glatt waren, dass
 man fast vergessen konnte, dass wir uns bewegten.
@@ -91,7 +91,7 @@ einem flauen Gefühl, aber auch mit einer heimlichen Freude wahrnahm.
 Und dann: Joutsenlampi. Eine Ferienanlage aus einer anderen Welt. Reihen von
 Hütten, alle frisch gebaut, wie kleine Reihenhäuser mit großen Glasfronten zum
 See. Stege, die ins Wasser führten. Boote, die man einfach nehmen durfte.
-Sportplätze, Wiesen, und natürlich die Sauna, für uns alle ein Erlebnis.
+Sportplätze, Wiesen und natürlich die Sauna, für uns alle ein Erlebnis.
 
 Ich bekam eine Hütte zugeteilt, offiziell sollte ich sie mit zwei anderen
 Mädchen aus fernen Ländern teilen, doch da wir so früh angekommen waren,
@@ -109,7 +109,7 @@ auf dieses Prinzip: Gastfreundschaft, ganz ohne Misstrauen.
 
 Und ich dachte an den Unterricht in Dresden. Kapitalismus sei Ausbeutung, hieß
 es dort. Kapitalismus sei kalt und unmenschlich. Aber hier, in diesem
-„kapitalistischen“ Finnland, stand ich in einer nagelneuen Hütte mit riesigen
+"kapitalistischen" Finnland, stand ich in einer nagelneuen Hütte mit riesigen
 Fenstern zum See – und das ganz umsonst. Es passte nicht zusammen.
 
 Vordergründig ging es bei der Internationalen Mathe-Olympiade um Zahlen,
@@ -131,10 +131,10 @@ Ich denke an die Organisatoren, die uns Jugendlichen diesen Sommer voller Wunder
 ermöglicht haben. Und ich denke daran, wie wichtig es ist, diese Aufrichtigkeit
 zu sehen und zu ehren.
 
-Bevor ich seelig einschlafe, muss ich doch mal heftig kichern. Die anderen
-beiden Mädchen kam aus der Mongolei und aus Zypern. Beide sehr klug und nett,
-aber keine sprach eine Sprache der anderen. Damit sie irgendwie miteinander
-reden konnten, musste ich übersetzen. Das English der Zypriotin in das Russisch
-der Mongolin und umgekehrt. Gerade wird mir klar, dass die zwei die letzten Tage
-in der Hütte ohne mich klar kommen mussten. Na, ihnen blieb ja noch die
-gemeinssme Sprache der Mathematik….
+Bevor ich selig einschlafe, muss ich doch mal heftig kichern. Die anderen beiden
+Mädchen kamen aus der Mongolei und aus Zypern. Beide sehr klug und nett, aber
+keine sprach die Sprache der anderen. Damit sie irgendwie miteinander reden
+konnten, musste ich übersetzen: das Englisch der Zypriotin ins Russisch der
+Mongolin und umgekehrt. Gerade wird mir klar, dass die zwei die letzten Tage in
+der Hütte ohne mich klarkommen mussten. Na, ihnen blieb ja noch die gemeinsame
+Sprache der Mathematik...
