@@ -63,8 +63,7 @@ jeden Tag saß ich in diesem muffigen Raum und studierte Finnland.
 
 Ich schrieb die Namen von rund hundert Städten auf, gab ihnen zweibuchstabige
 Abkürzungen wie in einem Geheimcode. Dann malte ich die Hauptstraßen und
-Bahnlinien ab, so genau, dass ich sie später noch vor Augen hatte, wenn ich die
-Augen schloss.
+Bahnlinien ab, so genau, dass ich sie später noch vor Augen hatte.
 
 Zu Hause nahm mein „Fluchtblock“ Gestalt an. Nach außen ein stinknormaler
 Mathe-Übungsblock. Doch zwischen den Aufgaben verbargen sich die Wege in die

@@ -40,10 +40,9 @@
 }
 ```
 
-Der Morgen riecht nach Kaffee und kaltem Wasser im Gesicht.
+<Jorma und Raija haben Stress in der Nacht>
 
-Der Morgen beginnt langsam, fast schwerelos. Kein Jorma, kein Streit, nur Raija
-und ich. Sie klappert in der Küche, ich tapse barfuß hinterher, und ehe ich mich
+<!-- Am Morgen klappert Raija schon in der Küche, ich tapse barfuß hinterher, und ehe ich mich
 versehe, sitzen wir bei Kaffee und Brot am Tisch. Es fühlt sich an, als gäbe es
 heute nur uns beide.
 
@@ -59,7 +58,9 @@ normalste Sache der Welt. Für sie ist es das. Für mich ist es wie ein
 Zaubertrick.
 
 Wir kaufen Brot, Gemüse, etwas Fleisch, sogar eine Flasche Wein. Ich trage die
-Hälfte der Tüten, stolz wie ein Packesel, weil ich in diesem Moment dazu gehöre.
+Hälfte der Tüten, stolz wie ein Packesel, weil ich in diesem Moment dazu gehöre. -->
+
+<Raija geht alleine raus>
 
 Zu Hause kochen wir gemeinsam. Ich stehe am Herd, rühre, probiere, während Raija
 Zwiebeln schneidet und die Pfanne schwenkt, als wäre sie im Takt einer Melodie.
@@ -96,7 +97,7 @@ Raija pfeift leise. „Das klingt … irre.“
 
 „War’s auch.“ Ich lehne mich zurück. „Zwei Jahre lang Top fünf bei der
 Landesolympiade. Mehrfach Bezirkssiegerin. Aber das reichte nicht, um bei der
-IMO dabei zu sein. Sie wollten mehr. Also: Spezialschule Berlin, Lehrgänge,
+IMO dabei zu sein. Sie wollten mehr. Also: Lehrgänge in der Spezialschule Berlin, so eine Art
 Trainingslager … und dann das Beste: Alle paar Wochen hat man mich einfach aus
 dem Unterricht gezerrt. ‚Komm mit!‘ Zack, Tür zum Direktor, Blatt auf den Tisch,
 Matheaufgaben wie bei der IMO. Kein Spicken, kein Vorbereiten. Nichts. Nur
@@ -110,7 +111,7 @@ Raija starrt mich an, als hätte ich den Mount Everest im Turnschuh bestiegen.
 
 Ich tue so, als wär’s nicht der Rede wert. „Na ja, andere haben ihre
 Fußballkarriere. Ich hab halt meine Fluchtkarriere.“ Ich lache, aber tief in mir
-spüre ich, wie nah alles an der Kante war. Wenn nur ein Test schiefgegangen wäre
+spüre ich, wie knapp alles war. Wenn nur ein Test schiefgegangen wäre
 … Ich schiebe den Gedanken weg, bevor er mich runterzieht.
 
 Als die Teller leer sind und der Wein im Glas glitzert, lehne ich mich zurück.
@@ -128,7 +129,7 @@ Ich nicke. Ich kann mir kaum vorstellen, dass jemand mit voller Überzeugung
 zurück in ein kleines Dorf geht, um dort Polizistin zu sein. Aber in ihrem Ton
 liegt dieselbe Entschlossenheit, die sie gestern schon gezeigt hat: Wenn etwas
 richtig ist, dann macht sie es. Ganz egal, was andere denken.
-
+<!--
 Der Tag vergeht ohne Eile. Am Nachmittag räumt Raija die Teller vom Tisch und
 streckt sich. „Wie wär's, wenn wir noch ein Stück rausgehen? An den See.“
 
@@ -145,4 +146,4 @@ Wir ziehen die Schuhe an, und kurz darauf blitzt schon das Wasser zwischen den
 Häusern hervor. Wir laufen zum Ufer, setzen uns ins Gras, reden weiter. Und
 jedes Mal, wenn ich kurz daran denke, dass irgendwo dort draußen noch diese
 grauen Gestalten auf mich warten könnten, schiebe ich den Gedanken weg. *Heute
-nicht.* Heute bin ich frei.
+nicht.* Heute bin ich frei. -->

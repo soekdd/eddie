@@ -56,8 +56,8 @@ Fernverkehrsstraße, die aus Joutsa hinausführt.
 
 „Zu mir nach Hause“, sagt Raija. „Nach Jyväskylä!“
 
-Jyväskylä, die Stadt mit dem unaussprechlichen Namen, liegt etwa eine Stunde
-nördlich von Joutsa. Eine große Industriestadt für finnische Verhältnisse.
+Ich erinnere mich an Jyväskylä, die Stadt mit dem unaussprechlichen Namen.
+Sie liegt etwa eine Stunde nördlich von Joutsa. Eine große Industriestadt für finnische Verhältnisse.
 Leider liegt sie im Norden und damit gerade in der falschen Richtung, wenn ich
 nach Helsinki will. Aber will ich überhaupt noch nach Helsinki? Wenn sie mich
 sogar aus einer finnischen Polizeistation herausholen können, dann bin ich
@@ -111,13 +111,7 @@ studieren.“
 
 ---
 
-Die große Stadt liegt nun vor uns. Wir rollen durch die breiten Straßen, die
-voller Lichterketten und Reklameschilder sind. Jyväskylä wirkt auf mich im
-ersten Augenblick fast wie ein hell erleuchtetes Labyrinth. So viele bunte
-Schriften, Neonfarben, Schaufenster mit lauter Dingen, die ich nicht kenne. Für
-einen Moment muss ich an die Alexanderstraße in Ost-Berlin denken, wenn alles
-vollgepflastert ist mit Lichtern, doch hier scheint es moderner, offener,
-weniger streng.
+Als wir in Jyväskylä einrollen, fällt mir die Stille auf: keine Abgaswolken, kein Knattern von Trabis. Neonlichter spiegeln sich in den Schaufenstern voller bunter Kleidung und glänzender Radios. Junge Leute lachen, stehen in Grüppchen, tragen Jeans und helle Windjacken. Die Straßen sind sauber, der Asphalt glatt, kein graues Lochpflaster wie in Dresden. Über allem liegt der Duft von Kiefern und frischem Abendwind. Für einen Moment glaube ich, in einer anderen Welt zu sein.
 
 Raija biegt schließlich in ein Wohngebiet ein, wo die Häuser auf den ersten
 Blick fast vertraut aussehen. Neubauten – ähnlich wie in Dresden-Gorbitz oder
@@ -155,5 +149,3 @@ riecht.
 
 Ich murmele noch ein Dankeschön, rolle mich ein – und schon bin ich weg. Ohne
 Träume, ohne Gedanken. Nur Schlaf, tiefer, rettender Schlaf.
-
-Ich falle einfach ins Bett. Kein Gedanke hält mich mehr wach.

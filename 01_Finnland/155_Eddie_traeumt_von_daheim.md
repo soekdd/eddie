@@ -55,27 +55,20 @@ die Polizei… nein, die Stasi – sie werden meine Eltern abgeholt haben.
 Vielleicht sitzen sie jetzt gerade in irgendeinem kahlen Raum, unter grellem
 Licht, mit fragenden Blicken, die keine Fragen sind, sondern Drohungen.
 
-Mein kleiner Bruder. Ich sehe ihn vor mir, wie er verschlafen die Augen reibt,
-als Mutter ihm die Jacke überzieht. Haben sie ihn noch rechtzeitig zu Oma und
-Opa gebracht? Oder hockt er jetzt allein in der Wohnung, während fremde Männer
-in Schränken wühlen? Die Vorstellung, dass sie ihn in staatliche Obhut stecken
-könnten, schnürt mir die Kehle zu.
-
 Und Vater… Sie werden ihn festhalten, stundenlang, vielleicht tagelang. Er
 wusste es, er hat mir geholfen, und die Stasi weiß, dass er klüger ist als sie.
 Ob sie es beweisen können? Ob sie ihn zwingen können, zu gestehen? Ich sehe sein
 Gesicht, streng und ruhig, wie er immer war. Aber ich weiß auch, wie dünn die
 Haut über seiner Schläfe wird, wenn er die ganze Nacht nicht schläft. Wird er
 seine Arbeit an der Uni verlieren? Wahrscheinlich. Alles wird er verlieren.
-Wegen mir.
+Meinetwegen.
 
 Mutter dagegen wird es abstreiten. Sie kann das, sie kann unsichtbar sein, wenn
 sie will. Mit einem einzigen Blick wirkt sie so überzeugend, dass jeder ihr
 glaubt. Aber wie lange werden sie sie festhalten, sie zermürben, mit endlosen
 Wiederholungen derselben Fragen, bis jedes Wort in sich selbst zerbricht?
 
-Ich drehe mich auf die Seite, presse das Kissen gegen mein Gesicht, so fest,
-dass mir schwindelig wird. Ich wollte frei sein. Ich wollte endlich atmen. Aber
+Ich drehe mich auf die Seite. Ich wollte frei sein. Ich wollte endlich atmen. Aber
 in dieser Dunkelheit kriecht das schlechte Gewissen wie ein Tier in mir hoch,
 krallt sich fest. Vater kannte das Risiko, und er hat es für mich getragen – und
 trotzdem fühlt es sich an, als hätte ich ihn verraten.
@@ -105,6 +98,8 @@ Doch Raijas Arm um meine Schultern, ihre Nähe, ihr Herzschlag – das alles wie
 schwerer als die Gedanken. Ich lasse mich in diese Wärme fallen, als könnte sie
 mich für eine Nacht vor allem verbergen. Und irgendwann, mitten im stillen
 Weinen, übermannt mich der Schlaf.
+
+---
 
 Als ich die Augen öffne, ist die Sonne schon hoch. Die Wohnung ist still, leer,
 fast so, als wäre ich allein zurückgelassen. Raija ist längst auf dem Weg zur
@@ -142,11 +137,16 @@ Für einen Moment bleibe ich einfach stehen, halte den Atem an. Der Kontrast ist
 brutal: Noch in der Nacht lag Raijas Arm warm und beschützend um mich. Und jetzt
 fühle ich mich kalt, beobachtet, allein.
 
-Später am Tag ist Raija wieder da. Wir gehen zwei Straßen zum Laden, besorgen
+Später am Tag ist Raija wieder da.
+
+<!-- Wir gehen zwei Straßen zum Laden, besorgen
 Brot, Milch, eine Tüte Kartoffeln. An der Kasse fragt mich niemand nach einem
-Ausweis – alles läuft ruhig, wie auf Schienen. Zu Hause wäscht Raija die Tassen,
-ich trockne ab. Kleine Handgriffe, die sich wie ein Plan falten, sauber und
-übersichtlich. Wir reden über nichts Wichtiges: über ihre Kollegin, über
+Ausweis – alles läuft ruhig, wie auf Schienen. -->
+<Gewohnte Aufgaben, Abwaschen egal on Sozialismus oder Kapital>
+
+<!-- Zu Hause wäscht Raija die Tassen,
+ich trockne ab. Wir reden über nichts Wichtiges: über ihre Kollegin, über
 Wolkenformen, über eine Pflanze, die zu viel Sonne bekommen hat. Es klingt
 banal, aber es gibt mir Halt. Optionen wie in einer Matrix – und zum ersten Mal
 fühlt es sich an, als könnte ich frei wählen.
+ -->
