@@ -38,6 +38,12 @@
       "Staerken": "Wichtiger Entwicklungsschritt, Eddie zeigt Verletzlichkeit und Offenheit.",
       "Schwaechen": "Zu glatt und souverän erzählt, Gegenfigur blass, Unsicherheit fehlt.",
       "Fix": "Mehr Unsicherheit, Brüche und kleine Peinlichkeiten einbauen, Sprache jugendlicher machen, Partner aktiver zeichnen."
+    },
+    "note": {
+      "context": "Die Szene ist bewusst so konstruiert, dass Eddie mit 16 ihr erstes Mal nüchtern und selbstbestimmt plant.",
+      "intention": "Nicht Romantisierung eines Machtgefälles, sondern Darstellung ihrer Autonomie und berechnenden Art.",
+      "zeitgeist": "Der offene, lockere Umgang mit Sexualität spiegelt die Jugendkultur Mitte der 1980er wider.",
+      "editor_hint": "Die Altersdifferenz ist bewusst gewählt, um Eddies Unabhängigkeit und bewusste Entscheidung zu unterstreichen."
     }
   }
 }
