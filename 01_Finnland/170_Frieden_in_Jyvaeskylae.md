@@ -58,7 +58,8 @@ normalste Sache der Welt. Für sie ist es das. Für mich ist es wie ein
 Zaubertrick.
 
 Wir kaufen Brot, Gemüse, etwas Fleisch, sogar eine Flasche Wein. Ich trage die
-Hälfte der Tüten, stolz wie ein Packesel, weil ich in diesem Moment dazu gehöre. -->
+Hälfte der Tüten, stolz wie ein Packesel, weil ich in diesem Moment dazu gehöre.
+-->
 
 <Raija geht alleine raus>
 
@@ -97,11 +98,11 @@ Raija pfeift leise. „Das klingt … irre.“
 
 „War’s auch.“ Ich lehne mich zurück. „Zwei Jahre lang Top fünf bei der
 Landesolympiade. Mehrfach Bezirkssiegerin. Aber das reichte nicht, um bei der
-IMO dabei zu sein. Sie wollten mehr. Also: Lehrgänge in der Spezialschule Berlin, so eine Art
-Trainingslager … und dann das Beste: Alle paar Wochen hat man mich einfach aus
-dem Unterricht gezerrt. ‚Komm mit!‘ Zack, Tür zum Direktor, Blatt auf den Tisch,
-Matheaufgaben wie bei der IMO. Kein Spicken, kein Vorbereiten. Nichts. Nur
-schwitzen. Ein Jahr lang.“
+IMO dabei zu sein. Sie wollten mehr. Also: Lehrgänge in der Spezialschule
+Berlin, so eine Art Trainingslager … und dann das Beste: Alle paar Wochen hat
+man mich einfach aus dem Unterricht gezerrt. ‚Komm mit!‘ Zack, Tür zum Direktor,
+Blatt auf den Tisch, Matheaufgaben wie bei der IMO. Kein Spicken, kein
+Vorbereiten. Nichts. Nur schwitzen. Ein Jahr lang.“
 
 Ich grinse schief. „Und jedes Mal dachte ich: Jetzt bist du durchgefallen. Jetzt
 war’s das. Und dann, kurz vor der Abreise … kam die Nachricht. Qualifiziert.“
@@ -111,8 +112,8 @@ Raija starrt mich an, als hätte ich den Mount Everest im Turnschuh bestiegen.
 
 Ich tue so, als wär’s nicht der Rede wert. „Na ja, andere haben ihre
 Fußballkarriere. Ich hab halt meine Fluchtkarriere.“ Ich lache, aber tief in mir
-spüre ich, wie knapp alles war. Wenn nur ein Test schiefgegangen wäre
-… Ich schiebe den Gedanken weg, bevor er mich runterzieht.
+spüre ich, wie knapp alles war. Wenn nur ein Test schiefgegangen wäre … Ich
+schiebe den Gedanken weg, bevor er mich runterzieht.
 
 Als die Teller leer sind und der Wein im Glas glitzert, lehne ich mich zurück.
 „Und du?“, frage ich. „Wieso bist du Polizistin geworden? Mit deinem Abitur

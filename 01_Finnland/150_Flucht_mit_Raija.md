@@ -2,7 +2,7 @@
 
 ```json
 {
-  "date": "1985-07-05",
+  "date": "1985-07-07",
   "daytime": "late evening",
   "place": "Raijas Auto auf der Fahrt von Joutsa nach Jyväskylä",
   "persons": [
@@ -56,12 +56,13 @@ Fernverkehrsstraße, die aus Joutsa hinausführt.
 
 „Zu mir nach Hause“, sagt Raija. „Nach Jyväskylä!“
 
-Ich erinnere mich an Jyväskylä, die Stadt mit dem unaussprechlichen Namen.
-Sie liegt etwa eine Stunde nördlich von Joutsa. Eine große Industriestadt für finnische Verhältnisse.
-Leider liegt sie im Norden und damit gerade in der falschen Richtung, wenn ich
-nach Helsinki will. Aber will ich überhaupt noch nach Helsinki? Wenn sie mich
-sogar aus einer finnischen Polizeistation herausholen können, dann bin ich
-nirgendwo sicher – nur hier bei Raija. Sie lässt mich nicht im Stich.
+Ich erinnere mich an Jyväskylä, die Stadt mit dem unaussprechlichen Namen. Sie
+liegt etwa eine Stunde nördlich von Joutsa. Eine große Industriestadt für
+finnische Verhältnisse. Leider liegt sie im Norden und damit gerade in der
+falschen Richtung, wenn ich nach Helsinki will. Aber will ich überhaupt noch
+nach Helsinki? Wenn sie mich sogar aus einer finnischen Polizeistation
+herausholen können, dann bin ich nirgendwo sicher – nur hier bei Raija. Sie
+lässt mich nicht im Stich.
 
 Die Fahrt dauert etwa eine Stunde. Immer wieder sehe ich mich ängstlich um, ob
 uns jemand folgt. Es ist wenig Verkehr auf der Straße nach Jyväskylä. Ich
@@ -111,7 +112,13 @@ studieren.“
 
 ---
 
-Als wir in Jyväskylä einrollen, fällt mir die Stille auf: keine Abgaswolken, kein Knattern von Trabis. Neonlichter spiegeln sich in den Schaufenstern voller bunter Kleidung und glänzender Radios. Junge Leute lachen, stehen in Grüppchen, tragen Jeans und helle Windjacken. Die Straßen sind sauber, der Asphalt glatt, kein graues Lochpflaster wie in Dresden. Über allem liegt der Duft von Kiefern und frischem Abendwind. Für einen Moment glaube ich, in einer anderen Welt zu sein.
+Als wir in Jyväskylä einrollen, fällt mir die Stille auf: keine Abgaswolken,
+kein Knattern von Trabis. Neonlichter spiegeln sich in den Schaufenstern voller
+bunter Kleidung und glänzender Radios. Junge Leute lachen, stehen in Grüppchen,
+tragen Jeans und helle Windjacken. Die Straßen sind sauber, der Asphalt glatt,
+kein graues Lochpflaster wie in Dresden. Über allem liegt der Duft von Kiefern
+und frischem Abendwind. Für einen Moment glaube ich, in einer anderen Welt zu
+sein.
 
 Raija biegt schließlich in ein Wohngebiet ein, wo die Häuser auf den ersten
 Blick fast vertraut aussehen. Neubauten – ähnlich wie in Dresden-Gorbitz oder

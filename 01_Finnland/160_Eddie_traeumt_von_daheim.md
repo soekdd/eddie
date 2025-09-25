@@ -2,7 +2,7 @@
 
 ```json
 {
-  "date": "1985-07-07",
+  "date": "1985-07-08",
   "daytime": "night",
   "place": "Raijas Wohnung",
   "persons": [
@@ -42,13 +42,12 @@
 }
 ```
 
-Die zweite Nacht hier ist anders: Ich träume von daheim. Ich liege wach im
-fremden Bett, die Decke riecht nach Raija, ein bisschen nach fremdem
-Waschpulver. Alles ist still, nur draußen ruft ein Nachtvogel, als fände auch er
-keinen Schlaf. Mein Kopf hämmert, als würde jemand von innen mit Fäusten gegen
-die Schädelwand schlagen.
+Ich erwache mit einem Schreck in den Gliedern. Wo bin ich? Ich kenne das fremden
+Bett, die Decke riecht nach Raija, ein bisschen nach fremdem Waschpulver. Alles
+ist still, nur draußen ruft ein Nachtvogel. Mein Kopf hämmert, als würde jemand
+von innen mit Fäusten gegen die Schädelwand schlagen.
 
-Es ist die zweite Nacht seit meiner Flucht – und ich weiß: Jetzt, in diesem
+Es ist die erste Nacht nach meiner Flucht – und ich weiß: Jetzt, in diesem
 Moment, muss die Nachricht in Dresden längst angekommen sein. Die Nachbarn
 tuscheln bestimmt schon, der Hausmeister hat sicher irgendwas „gemeldet“. Und
 die Polizei… nein, die Stasi – sie werden meine Eltern abgeholt haben.
@@ -68,10 +67,10 @@ sie will. Mit einem einzigen Blick wirkt sie so überzeugend, dass jeder ihr
 glaubt. Aber wie lange werden sie sie festhalten, sie zermürben, mit endlosen
 Wiederholungen derselben Fragen, bis jedes Wort in sich selbst zerbricht?
 
-Ich drehe mich auf die Seite. Ich wollte frei sein. Ich wollte endlich atmen. Aber
-in dieser Dunkelheit kriecht das schlechte Gewissen wie ein Tier in mir hoch,
-krallt sich fest. Vater kannte das Risiko, und er hat es für mich getragen – und
-trotzdem fühlt es sich an, als hätte ich ihn verraten.
+Ich drehe mich auf die Seite. Ich wollte frei sein. Ich wollte endlich atmen.
+Aber in dieser Dunkelheit kriecht das schlechte Gewissen wie ein Tier in mir
+hoch, krallt sich fest. Vater kannte das Risiko, und er hat es für mich getragen
+– und trotzdem fühlt es sich an, als hätte ich ihn verraten.
 
 Und je länger ich wach liege, desto klarer wird mir: Die Mauer habe ich
 überlistet. Aber dem Schatten, den sie mir nachschickt, kann ich nicht
@@ -116,7 +115,7 @@ meinen Körper, als wäre ich eine Aufgabe, die er lösen will. Ein kurzer Schau
 läuft mir über den Rücken, obwohl er gar nichts tut, nur schaut. Aber das
 reicht.
 
-Vor zwei Tagen, als Raija uns einander vorgestellt hat, war er höflich gewesen.
+Gestern Abend, als Raija uns einander vorgestellt hat, war er höflich gewesen.
 Ein bisschen steif vielleicht, aber immerhin freundlich, interessiert. Jetzt, da
 wir kurz allein sind, liegt etwas anderes in seiner Art. Etwas, das ich nicht
 benennen kann, aber das mir plötzlich die Kehle zuschnürt.
@@ -148,5 +147,4 @@ Ausweis – alles läuft ruhig, wie auf Schienen. -->
 ich trockne ab. Wir reden über nichts Wichtiges: über ihre Kollegin, über
 Wolkenformen, über eine Pflanze, die zu viel Sonne bekommen hat. Es klingt
 banal, aber es gibt mir Halt. Optionen wie in einer Matrix – und zum ersten Mal
-fühlt es sich an, als könnte ich frei wählen.
- -->
+fühlt es sich an, als könnte ich frei wählen. -->

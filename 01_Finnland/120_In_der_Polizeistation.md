@@ -2,7 +2,7 @@
 
 ```json
 {
-  "date": "1985-07-05",
+  "date": "1985-07-07",
   "daytime": "afternoon",
   "place": "Polizeistation von Joutsa",
   "persons": [
@@ -50,18 +50,17 @@
 
 In der Wache angekommen, führt uns Raija in ein kleines Büro. Maria weicht nicht
 von meiner Seite. Raija verschwindet kurz und kommt mit zwei Tassen Kaffee und
-einer großen Tasse Kakao zurück. Meine Hände zittern
-so sehr, dass ich fast Angst habe, die Tasse fallen zu lassen. Ich klammere mich
-an den Becher, als wäre er ein Rettungsring.
+einer großen Tasse Kakao zurück. Meine Hände zittern so sehr, dass ich fast
+Angst habe, die Tasse fallen zu lassen. Ich klammere mich an den Becher, als
+wäre er ein Rettungsring.
 
 „Jetzt erzähle mal in Ruhe“, sagt sie auf Englisch.
 
 Und ich erzähle. Aber meine Stimme klingt dünn, brüchig, irgendwie gar nicht
-nach mir. Ich klinge wie so ein Kind, das einfach von zu Hause
-weggelaufen ist. Alles, was ich vorbereitet habe, die ganzen Jahre Angst und
-Pläne – das kriege ich nicht erklärt. Ich stolpere über Worte,
-erzähle viel zu hastig und springe hin und her. Aber Raija hört zu, nickt, unterbricht mich
-nicht.
+nach mir. Ich klinge wie so ein Kind, das einfach von zu Hause weggelaufen ist.
+Alles, was ich vorbereitet habe, die ganzen Jahre Angst und Pläne – das kriege
+ich nicht erklärt. Ich stolpere über Worte, erzähle viel zu hastig und springe
+hin und her. Aber Raija hört zu, nickt, unterbricht mich nicht.
 
 „Und wie ging dein Plan weiter?“, fragt sie mich.
 
@@ -69,8 +68,8 @@ nicht.
 Aufpasser.“ Ich merke, wie meine Stimme immer leiser wird.
 
 „Darüber müsste der Pfarrer entscheiden“, sagt Raija. „Maria ist die
-Haushälterin. Der Pfarrer betreut Gläubige im ganzen Gebiet um Joutsa und ist
-wohl aktuell unterwegs. Und nach dem Kirchenasyl? Du kannst ja nicht ewig hier
+Haushälterin. Der Pfarrer ist gerade bei einer Hochzeitsfeier ein Stück
+außerhalb von Joutsa. Und nach dem Kirchenasyl? Du kannst ja nicht ewig hier
 bleiben.“
 
 „Ich … ich müsste … nach Helsinki, zur Botschaft der BRD.“

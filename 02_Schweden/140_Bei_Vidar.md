@@ -18,7 +18,7 @@
     "SWE_Stockholm_Eddie_kuesst_Vidar.png"
   ],
   "proofreading": {},
-  "todo":"Die haben sicherlich einen Geschirrspüler, geiles Ding, doch kein Abwaschen mehr in Kapitalismus"
+  "todo": "Die haben sicherlich einen Geschirrspüler, geiles Ding, doch kein Abwaschen mehr in Kapitalismus"
 }
 ```
 

@@ -2,7 +2,7 @@
 
 ```json
 {
-  "date": "1985-07-05",
+  "date": "1985-07-07",
   "daytime": "afternoon",
   "place": "Kirche von Joutsa",
   "persons": [
@@ -116,7 +116,7 @@ Gleich würde einer das Tischtuch wegziehen.
 ---
 
 Plötzlich höre ich ein Klicken. Ein summendes Geräusch beginnt, und gleich
-darauf fängt die kleine Kirchenglocke im Turm an zu schlagen.
+darauf fängt die kleine Kirchenglocke im Turm neben der Kirche an zu schlagen.
 
 „Die Alte hat das Geläut angemacht!“, ruft einer der Männer.
 
@@ -126,11 +126,15 @@ darauf fängt die kleine Kirchenglocke im Turm an zu schlagen.
 
 Die kleine Glocke lässt es ordentlich in der Kirche dröhnen.
 
-Die Männer schreien sich jetzt an.
+Die Männer schreien sich jetzt an. Laufen kreuz und quer durch die Kirche,
+während die kleine Glocke unbeirrt Marias Hilferuf in die Stadt hinaus schreit.
+Aber wird es jemandem auffallen? Eine Glocke, die am Sonntannachmittag schlägt?
+Doch sie lenkt sie ab von mir. Ein paar minuten Zeit gewonnen. Wofür?
 
-„Da hinten in der Ecke, da sind viele Schalter!“ „Manfred, komm mal rüber, hier
-steht irgendwas auf Finnisch!“ „Warte, das heißt Beleuchtung Chorgestühl… Ach
-hier: das könnten Glocken sein!“
+Nach einer halben Ewigkeit ruft einer der Männer plötzlich: „Da hinten in der
+Ecke, da sind viele Schalter!“ „René, komm mal rüber, hier steht irgendwas auf
+Finnisch!“ „Warte, das heißt Beleuchtung Chorgestühl… Ach hier: das könnten
+Glocken sein!“
 
 Ein Klick – und die Glocke verstummt nach zwei, drei Schlägen.
 
@@ -167,7 +171,7 @@ Und dann…
 …ein schneller Griff unter das Tischtuch an meinen Knöchel. Ein Mann zieht mich
 grob über den Boden hinaus vor den Altar.
 
-Maria kommt angerannt, doch einer der anderen Männer hält sie zurück.
+Maria kommt angerannt, doch einer der anderen Männer hält sie grob zurück.
 
 Mielke grinst mich an. „Haben wir dich!“, lacht er. „Das war ja eine kurze
 Flucht! Du weißt, was wir mit Verrätern machen?“
@@ -177,7 +181,7 @@ laufen die Tränen.
 
 Was bin ich für eine Verliererin? Der ganze Plan, die Vorbereitung, die ständige
 Angst, das Sichverstellen, die blöden Kleidchen tragen – alles schon nach
-wenigen Stunden gescheitert.
+wenigen Minuten gescheitert.
 
 Da bricht es aus mir heraus – ich fange hemmungslos an zu heulen.
 

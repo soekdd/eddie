@@ -3,7 +3,7 @@
 ```json
 {
   "flashback-date": "1985-07-04",
-  "date": "1985-07-05",
+  "date": "1985-07-07",
   "daytime": "morning",
   "place": "Joutsenlampi",
   "persons": [
@@ -51,11 +51,13 @@ wird schon. Doch jetzt schrumpft die Zahl. Noch mal Zahlen drehen, noch mal
 Worst Case denken – plötzlich bleiben kümmerliche zehn Prozent übrig. Super.
 Mathe rettet mich und zerstört mich gleichzeitig.
 
-Mein Kopf zeigt mir Busbahnhöfe wie in Berlin oder Dresden: Menschen, Lärm, man
-taucht unter. Finnland lacht mich aus. Hier ist alles flach wie gebügelte
-Bettwäsche. Eine Haltestelle, ein Steig, ein durchsichtiger Windschutz, zwei
-jämmerliche Büsche. Wie soll ich mich da verstecken? Vielleicht als
-Deko-Grasbüschel.
+Mein Kopf zeigt mir Busbahnhöfe mit Gewusel wie in Berlin oder Dresden: Leute
+überall, man kann easy irgendwo verschwinden. Aber hier in Finnland? Alles flach
+wie’m Brett. Kleine Häuser, Straßen so breit, dass man schon von weitem wie’n
+bunter Hund auffällt. Die Haltestelle hab ich gestern gesehen: ein einzelner
+Steig an der Hauptstraße, kleines offenes Häuschen, dahinter ein paar mickrige
+Büsche. Verstecken? Haha. Ich müsste mich da schon ins Gras legen und so tun,
+als wär ich Teil der Botanik.
 
 Dann diese Fragerunde mit den finnischen Schülern. Herr Fischer, der alte
 Pädagoge, will, dass wir „interessierte Fragen“ stellen. Ich würde am liebsten
@@ -65,11 +67,11 @@ Linienbus fährt stündlich, und fast niemand nimmt ihn. Ich grinse, scherze was
 von „Schulbus lieber nicht verpassen“. Innen drin schreie ich.
 
 Denn wenn ihn keiner benutzt, kennt auch keiner die genauen Zeiten. Kein
-Fahrplan, kein Deckungsfeuer, nur Zufall. Ich schnappe mir die Faustregel: Der
-Bus kommt ungefähr alle 30 Minuten (also einmal pro Richtung), steht vielleicht
-fünf Minuten. Trefferchance = 1 – (55/60)² ≈ 0,16. Also 16 Prozent Chance, dass
-ich zufällig genau dann auftauche, wenn ein Bus dasteht. Das ist der Bonus auf
-den Reststapel Katastrophen: etwa 80 Prozent Chance, dass der Fahrer meine paar
+Fahrplan, keine Deckung, nur Zufall. Ich schnappe mir die Faustregel: Der Bus
+kommt ungefähr alle 30 Minuten (also einmal pro Richtung), steht vielleicht fünf
+Minuten. Trefferchance = 1 – (55/60)² ≈ 0,16. Also 16 Prozent Chance, dass ich
+zufällig genau dann auftauche, wenn ein Bus dasteht. Das ist der Bonus auf den
+Reststapel Katastrophen: etwa 80 Prozent Chance, dass der Fahrer meine paar
 D-Mark schluckt. Und noch mal 80 Prozent, dass Mielke am nächsten Halt
 einsteigt, mich packt und „zurück nach Hause“ bellt. Kombiniert bleiben knapp
 unter zehn Prozent Siegquote übrig. Zehn! Für ein Leben.
@@ -78,10 +80,11 @@ unter zehn Prozent Siegquote übrig. Zehn! Für ein Leben.
 > (Die Mini-Rechnung ging jetzt etwas schnell: Im Band „Eddie rechnet“, Kapitel 1, packe ich sie Schritt für Schritt aus.)
 
 Und falls der Bus nur drei Minuten hält? Dann rutscht die Chance auf sechs
-Prozent. Da kann ich gleich Lotto spielen.
+Prozent. Außerdem ist heute Sonntag. Gut möglich, dass der Bus dann sogar noch
+seltener fährt. Da kann ich gleich Lotto spielen.
 
-Ja, ich habe inzwischen finnische Markka. Währungsproblem gestrichen. Trotzdem
-ist der Busplan tot. Ein hübsches Skelett, das mich auslacht.
+Ja, ich habe inzwischen finnische Markka. Währungsproblem gestrichen. Aber
+ehrlich: Die Variante bleibt trotzdem ein Totalausfall.
 
 Ich stopfe Zahlen zurück in meinen Kopf, schiebe sie rum, zähle Wege. Die
 Zukunft fühlt sich an wie ein Puzzle mit fehlenden Teilen. Ich weiß nur: Wenn

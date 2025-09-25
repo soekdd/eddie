@@ -2,7 +2,7 @@
 
 ```json
 {
-  "date": "1985-07-05",
+  "date": "1985-07-07",
   "daytime": "morning",
   "place": "Bus von Joutsenlampi nach Joutsa",
   "persons": [

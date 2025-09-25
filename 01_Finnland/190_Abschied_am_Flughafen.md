@@ -47,26 +47,40 @@
 }
 ```
 
-Die Bilder ploppen sofort wieder auf, so klar, als stünde ich noch immer dort, in der Halle von Schönefeld. Alles wirkte fremd – Schilder in zig
-Sprachen, die blecherne Lautsprecherstimme. Fliegen war in der DDR was
-Besonderes, fast schon verdächtig. Keiner aus unserer Nachbarschaft flog je
-irgendwohin.
+Die Bilder ploppen sofort wieder auf, so klar, als stünde ich noch immer dort,
+in der Halle von Schönefeld. Alles wirkte fremd – Schilder in zig Sprachen, die
+blecherne Lautsprecherstimme. Fliegen war in der DDR was Besonderes, fast schon
+verdächtig. Keiner aus unserer Nachbarschaft flog je irgendwohin.
 
 Die Leute musterten uns. Ein grauer Uniformierter mit zu engem Kragen blieb
-unauffällig neben der Schlange stehen, Papiere in der Hand. Mielke. Du kennst
-ja diese Typen mit diesem Blick, der dich festnagelt… seine kleinen
-Schweineaugen würden jede Regung deuten. Er verteilte die
-Reisepässe wie Bonbons an kleine Kinder. Wir sollten unser Land vertreten, aber
-unsere Pässe behielten sie bis kurz vor der Abfahrt. Die von unserer Gruppe, die schon ihre Abiturprüfungen hinter sich hatten, sollten ihre Zeugnisse erst nach der Reise bekommen.
+unauffällig neben der Schlange stehen, Papiere in der Hand. Mielke. Du kennst ja
+diese Typen mit diesem Blick, der dich festnagelt… seine kleinen Schweineaugen
+würden jede Regung deuten. Er verteilte die Reisepässe wie Bonbons an kleine
+Kinder. Wir sollten unser Land vertreten, aber unsere Pässe behielten sie bis
+kurz vor der Abfahrt. Die von unserer Gruppe, die schon ihre Abiturprüfungen
+hinter sich hatten, sollten ihre Zeugnisse erst nach der Reise bekommen.
 
-Meine Eltern… die waren unglaublich. Die haben sich nichts anmerken lassen. Mein Vater wirkte sachlich wie immer, völlig kontrolliert, als würden wir einfach nur eine ganz normale Fahrt besprechen. Meine Mutter… na ja, sie lächelte, aber ich habe gemerkt, wie ihre Finger leicht gezittert haben. Nur so, dass man es sieht, wenn man sie kennt.
-Dann hat sie gesagt: ‚Eddie… pass auf dich auf.‘ So leise, dass es fast im Bahnhofslärm unterging. Für Mielke klang das wie ein ganz banaler Abschiedsgruß. Aber ich wusste sofort, was sie meinte. Es war… wie ein Code. In ihrem Blick lag alles drin: Sie weiß, was ich vorhabe. Sie ist bei mir, auch wenn sie es nicht sagen kann.
-Mein Vater hat mir dann die Hand auf die Schulter gelegt und nur gesagt: ‚Du weißt, was zu tun ist.‘ Trocken, neutral, kein Muskel im Gesicht hat gezuckt. Ich habe genickt, als würde er mir nur irgendeine Aufgabe mitgeben. Aber in mir drin… ich habe mich an diesen Satz festgehalten.
-Wir haben uns kurz umarmt, keine Sekunde zu lang. Alles musste aussehen wie Routine. Meine Mutter hat meine Hand gedrückt, fest, fast schmerzhaft. Ihre Finger haben mir zu verstehen gegeben: Sei vorsichtig. Sei klug. Lass dich nicht erwischen.
+Meine Eltern… die waren unglaublich. Die haben sich nichts anmerken lassen. Mein
+Vater wirkte sachlich wie immer, völlig kontrolliert, als würden wir einfach nur
+eine ganz normale Fahrt besprechen. Meine Mutter… na ja, sie lächelte, aber ich
+habe gemerkt, wie ihre Finger leicht gezittert haben. Nur so, dass man es sieht,
+wenn man sie kennt. Dann hat sie gesagt: ‚Eddie… pass auf dich auf.‘ So leise,
+dass es fast im Bahnhofslärm unterging. Für Mielke klang das wie ein ganz
+banaler Abschiedsgruß. Aber ich wusste sofort, was sie meinte. Es war… wie ein
+Code. In ihrem Blick lag alles drin: Sie weiß, was ich vorhabe. Sie ist bei mir,
+auch wenn sie es nicht sagen kann. Mein Vater hat mir dann die Hand auf die
+Schulter gelegt und nur gesagt: ‚Du weißt, was zu tun ist.‘ Trocken, neutral,
+kein Muskel im Gesicht hat gezuckt. Ich habe genickt, als würde er mir nur
+irgendeine Aufgabe mitgeben. Aber in mir drin… ich habe mich an diesen Satz
+festgehalten. Wir haben uns kurz umarmt, keine Sekunde zu lang. Alles musste
+aussehen wie Routine. Meine Mutter hat meine Hand gedrückt, fest, fast
+schmerzhaft. Ihre Finger haben mir zu verstehen gegeben: Sei vorsichtig. Sei
+klug. Lass dich nicht erwischen.
 
 Dann kam die Kontrolle. Ein Offizier blätterte endlos in meinen Papieren, als
-suchte er einen Grund mit nicht mitfliegen zu lassen. Ich hielt die Luft an. Am Ende
-nickte er nur knapp – dieses typische Stasi-Nicken, das dich kleiner machen sollte.
+suchte er einen Grund mit nicht mitfliegen zu lassen. Ich hielt die Luft an. Am
+Ende nickte er nur knapp – dieses typische Stasi-Nicken, das dich kleiner machen
+sollte.
 
 Ich drehte mich noch einmal um. Mutter hielt Vaters Arm, als müsste sie sich
 festhalten. Beide lächelten, aber ihre Augen sagten alles.
@@ -94,9 +108,9 @@ die Hand, nur ganz kurz, fast unsichtbar. Stellte mir vor, sie taten dasselbe.
 
 Dann verschluckte mich das Flugzeug. Und mir wurde klar: Ich ließ nicht nur
 meine Heimat zurück. Ich ließ die Menschen zurück, die mich mehr lieben, als
-mich vielleicht je wieder Menschen lieben werden. Sie verzichteten auf alles – meine Zukunft bei ihnen,
-Enkel, Feste, Alltag. Alles, nur damit ich frei sein konnte. In dem Moment
-begriff ich: Das war die größte Liebe, die es gibt.
+mich vielleicht je wieder Menschen lieben werden. Sie verzichteten auf alles –
+meine Zukunft bei ihnen, Enkel, Feste, Alltag. Alles, nur damit ich frei sein
+konnte. In dem Moment begriff ich: Das war die größte Liebe, die es gibt.
 
 Meine Stimme bricht ab. Ich sitze nur da, als hätte ich alles noch mal
 durchlebt.

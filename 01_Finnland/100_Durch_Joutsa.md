@@ -2,7 +2,7 @@
 
 ```json
 {
-  "date": "1985-07-05",
+  "date": "1985-07-07",
   "daytime": "afternoon",
   "place": "Weg vom Gymnasium Joutsa zur Kirche",
   "persons": [
@@ -13,9 +13,7 @@
   "mood": "fear turning into fragile relief",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
-  "todo": [
-    "In der Stadt laufen Vorbereitungen für das große Festival, was in etwa einer Woche starten wird. Eddie überlegt kurz, ob einer der Fahrer sie mitnehmen könnte, verwirft die Ideen aber schließlich - Nein, Festival ist abgewählt, die Augenzeugen können sich nicht daran erinnern. Es stört den Fluss."
-  ],
+  "todo": "Maria weniger souverän zeichnen, auch ihr Mut muss erst wachsen",
   "proofreading": {
     "Kapitel": "100_Durch_Joutsa",
     "Ton": {
@@ -69,8 +67,9 @@ Eins, zwei, drei – als könnte das die Panik ausbremsen.
 
 Dann – die Mauer. Hüfthoch, grau, mit Flechten drauf. Dahinter eine Wiese, weit,
 altbelaubte Bäume rauschen leise im Sommerwind. Und die Kirche. Weiß getünchte
-Wände, ein einfacher Turm. Keine Gläubigen. Kein Summen von Stimmen. Vielleicht
-sind alle am See, bei einem Fest.
+Wände, ein einfacher Turm. Keine Gläubigen, sollten nicht am Sonntagnachmittag
+wenigstens ein paar in der Kirche sein? Kein Summen von Stimmen. Wieder keine
+Menschenmenge in der ich verschwinden kann.
 
 Ich kraxle über die Mauer, meine Jacke bleibt hängen, ich reiße mich los.
 Schritte über die Wiese, leiser jetzt. Die Tür der Kirche steht offen.
@@ -85,7 +84,7 @@ direkt zu mir. Mein Herz flippt völlig aus.
 „Please… help me…“ flüstere ich, Englisch, unsicher, fast kratzig vor Zittern.
 „I… I need… Kirchenasyl…“
 
-Sie guckt mich an, unbewegt. Kein Stirnrunzeln, kein Kopfschütteln. Nur dieser
+Sie schaut mich an, unbewegt. Kein Stirnrunzeln, kein Kopfschütteln. Nur dieser
 Blick, als würde sie genau in mich reingucken. Ich presse die Hände zusammen,
 noch mal: „I… I am… in danger… from them… please…“
 
