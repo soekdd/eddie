@@ -2,7 +2,7 @@
 
 ```json
 {
-  "date": "1985-07-06",
+  "date": "1985-07-07",
   "daytime": "day",
   "place": "Jyväskylä",
   "persons": [

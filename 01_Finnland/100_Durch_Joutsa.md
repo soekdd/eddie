@@ -2,7 +2,7 @@
 
 ```json
 {
-  "date": "1985-07-07",
+  "date": "1985-07-05",
   "daytime": "afternoon",
   "place": "Weg vom Gymnasium Joutsa zur Kirche",
   "persons": [
@@ -67,9 +67,9 @@ Eins, zwei, drei – als könnte das die Panik ausbremsen.
 
 Dann – die Mauer. Hüfthoch, grau, mit Flechten drauf. Dahinter eine Wiese, weit,
 altbelaubte Bäume rauschen leise im Sommerwind. Und die Kirche. Weiß getünchte
-Wände, ein einfacher Turm. Keine Gläubigen, sollten nicht am Sonntagnachmittag
-wenigstens ein paar in der Kirche sein? Kein Summen von Stimmen. Wieder keine
-Menschenmenge in der ich verschwinden kann.
+Wände, ein einfacher Turm. Keine Gläubigen, eigentlich keine Überraschung an
+einen Freitagnachmittag. Kein Summen von Stimmen. Wieder keine Menschenmenge in
+der ich verschwinden kann.
 
 Ich kraxle über die Mauer, meine Jacke bleibt hängen, ich reiße mich los.
 Schritte über die Wiese, leiser jetzt. Die Tür der Kirche steht offen.

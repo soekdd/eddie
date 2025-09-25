@@ -2,7 +2,7 @@
 
 ```json
 {
-  "date": "1985-07-07",
+  "date": "1985-07-05",
   "daytime": "afternoon",
   "place": "Polizeistation von Joutsa",
   "persons": [
@@ -115,10 +115,10 @@ Ihre Flucht offensichtlich gut vorbereitet haben.“
 
 „Ja … siebzehn“, sage ich.
 
-„Passen Sie auf! Ich schicke einen Angestellten nach Joutsa. Mal sehen, wie
-schnell das geht. Ich hoffe, dass er morgen, spätestens übermorgen bei Ihnen
-ist. Bis dahin müssen Sie in der Polizeistation bleiben. Ich bespreche das
-gleich noch mal mit Frau Rehtaaler – geben Sie sie mir bitte zurück.“
+„Passen Sie auf! Ich schicke einen Angestellten nach Joutsa. Allerdings steht das Wochenende an. Mal sehen, wie schnell das geht. Ich fürchte, dass er erst am Montag oder Dienstag bei Ihnen
+sein kann. Bis dahin müssen Sie in der Polizeistation bleiben oder irgendwo anders unterkommen.
+Fahren Sie nicht nach Helskini, die Botschaft ist am Wochenende geschlossen.
+Ich bespreche das gleich noch mal mit Frau Rehtaaler – geben Sie sie mir bitte zurück.“
 
 Ich reiche den Hörer zurück an Raija. Sie spricht eine gefühlte Ewigkeit auf
 Finnisch. Raijas Ton klingt alles andere als optimistisch. Oft legt sie die

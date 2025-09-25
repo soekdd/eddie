@@ -2,7 +2,7 @@
 
 ```json
 {
-  "date": "1985-07-07",
+  "date": "1985-07-05",
   "daytime": "noon",
   "place": "Toilette Gymnasium Joutsa",
   "persons": [

@@ -40,31 +40,55 @@
 }
 ```
 
-<Jorma und Raija haben Stress in der Nacht>
+Ich wache auf, noch halb im Traum, halb im Schock. Stimmen aus der Küche.
+Scharf, laut, hart wie Messer, die aneinander schlagen. Mein Herz rast sofort
+wieder los. Ich halte die Luft an, lausche. Finnisch. Kein Wort verstehe ich,
+gar nichts. Nur diese schnellen Silben, die wie Steine aufeinanderprallen.
+Streiten sie wegen mir? Bestimmt.
 
-<!-- Am Morgen klappert Raija schon in der Küche, ich tapse barfuß hinterher, und ehe ich mich
-versehe, sitzen wir bei Kaffee und Brot am Tisch. Es fühlt sich an, als gäbe es
-heute nur uns beide.
+Dann knallt eine Tür. Schritte, schwer und schnell, und weg ist er. Jorma. Ich
+hab ihn nicht mal gesehen. Nur sein Zorn hängt noch in der Luft.
 
-„Hast du Lust, ein bisschen rauszugehen?“, fragt sie nach dem Frühstück. Ich
-nicke, und schon ziehen wir los. Draußen leuchtet die Sonne, als wäre es noch
-Sommeranfang, obwohl der Kalender längst etwas anderes behauptet.
+Barfuß tapse ich in die Küche. Der Boden ist kühl, ich fröstel. Raija dreht sich
+um, ihr Blick ist weich, gar nicht wie eben die Stimmen. „Hyvää huomenta,
+Eddie.“ Ihre Stimme klingt, als hätte es nie Streit gegeben. Auf dem Tisch
+wartet Frühstück – Brot, Käse, Gurken, sogar eine Tasse Kakao. Für mich.
 
-Wir laufen durch die Straßen, vorbei an Schaufenstern, die übervoll sind mit
-Dingen, die ich mir kaum vorstellen konnte. Kleider, Stereoanlagen, Obst,
-Schokolade in hundert Sorten. Und die Läden – offen, obwohl Sonntag ist! Ich
-starre die Menschen an, die mit gefüllten Taschen herauskommen, als wäre das die
-normalste Sache der Welt. Für sie ist es das. Für mich ist es wie ein
-Zaubertrick.
+„War das … wegen mir?“ frage ich, vorsichtig, fast flüsternd.
 
-Wir kaufen Brot, Gemüse, etwas Fleisch, sogar eine Flasche Wein. Ich trage die
-Hälfte der Tüten, stolz wie ein Packesel, weil ich in diesem Moment dazu gehöre.
--->
+Sie winkt ab. „Nein. Mach dir keine Sorgen. Iss erst mal.“
 
-<Raija geht alleine raus>
+Ich nicke, aber mein Bauch bleibt ein Knoten. Wir reden leise, während ich kaue.
+Sie versucht, die Stimmung hell zu halten, doch auch ihre Augen verraten
+Müdigkeit. Gestresst. Erschöpft.
 
-Zu Hause kochen wir gemeinsam. Ich stehe am Herd, rühre, probiere, während Raija
-Zwiebeln schneidet und die Pfanne schwenkt, als wäre sie im Takt einer Melodie.
+„Besser, du bleibst heute hier“, sagt sie irgendwann. „Meine Wohnung ist
+sicherer als draußen. Genau hier würde die Stasi suchen.“
+
+Ich zucke nicht mal. Ja, das klingt genau nach ihnen.
+
+Als sie später einkaufen geht, bleibe ich zurück. Sofa, Decke, mein Körper sackt
+einfach weg. Dösen, wegrutschen. Ich merke kaum, wie der Tag weiterzieht.
+
+--
+
+Doch da steht er. Jorma. Am Morgen war er verschwunden, und auch jetzt wirkt es, als würde er nur schnell ein paar Sachen holen.
+
+„Ausgeschlafen?“, fragt er. Es klingt nicht unfreundlich, aber sein Blick bleibt zu lange an mir hängen. Er mustert mich, nicht nur mein Gesicht, sondern meinen ganzen Körper, als wäre ich eine Aufgabe, die er lösen will. Ein kurzer Schauer läuft mir über den Rücken, obwohl er nichts tut – nur schaut. Doch das reicht.
+
+Gestern Abend, als Raija uns vorgestellt hat, war er höflich gewesen. Ein bisschen steif vielleicht, aber immerhin freundlich, interessiert. Jetzt, wo wir allein sind, liegt etwas anderes in seiner Art. Etwas, das ich nicht greifen kann, das mir aber plötzlich die Kehle zuschnürt.
+
+„Kannst du Raija sagen, dass ich zur SKOL gehe?“, meint er beiläufig, während er seine Tasche zurechtrückt. Aber in seinen Augen blitzt etwas, das mich beunruhigt. Kein offenes Misstrauen, kein klarer Vorwurf – eher ein merkwürdiger Widerspruch. Als fände er mich spannend und gleichzeitig falsch.
+
+Ich nicke zu schnell, wende mich ab, tue so, als würde ich auf dem Tisch noch etwas suchen. Meine Hände zittern leicht, und ich hoffe, er bemerkt es nicht.
+
+„Dann … bis später“, sagt er schließlich und geht zur Tür hinaus. Sie fällt hinter ihm ins Schloss, dumpf, fast wie ein Schlag.
+
+Einen Moment bleibe ich stehen, halte den Atem an. Der Kontrast ist brutal: Noch in der Nacht lag Raijas Arm warm und beschützend um mich. Und jetzt fühle ich mich kalt, beobachtet, allein.
+
+Später am Tag kommt Raija mit den Einkäufen zurück und es kehrt wieder wieder Leben in die Wohnung: Wir stehen nebeneinander in der kleinen Küche,
+schneiden, rühren, würzen. Der Duft von Zwiebeln mischt sich mit Wärme. Ein fast
+normaler Moment, so normal, dass ich ihn kaum glauben kann.
 Wir reden, viel, manchmal ernst, manchmal albern. Und immer wieder erzähle ich
 ihr Stück für Stück von dem, was hinter mir liegt.
 
@@ -130,21 +154,11 @@ Ich nicke. Ich kann mir kaum vorstellen, dass jemand mit voller Überzeugung
 zurück in ein kleines Dorf geht, um dort Polizistin zu sein. Aber in ihrem Ton
 liegt dieselbe Entschlossenheit, die sie gestern schon gezeigt hat: Wenn etwas
 richtig ist, dann macht sie es. Ganz egal, was andere denken.
-<!--
-Der Tag vergeht ohne Eile. Am Nachmittag räumt Raija die Teller vom Tisch und
-streckt sich. „Wie wär's, wenn wir noch ein Stück rausgehen? An den See.“
 
-Ich kann nicht anders und pruste los. „An den See? Hier gibt's doch an jeder
-Ecke einen See! Sag mir lieber, *welchen* du meinst.“
+Raija lächelt nur kurz, steht auf und schiebt den Teller zu mir rüber. „Komm, du hilfst mir. Abwaschen macht man gemeinsam.“ Ich springe eifrig an die Spüle, weil ich irgendwas tun muss mit den Händen, sonst setzt mir das Herz gleich wieder aus. Warmes Wasser, Seifenblasen, das Klirren von Besteck — so simpel, so unheimlich tröstlich.
 
-Sie lacht, wirft mir ein Küchentuch zu. „Na gut, an den Jyväsjärvi. Der ist
-gleich hier in der Stadt, keine fünf Minuten zu Fuß.“
+Abwaschen, denke ich und muss kurz lachen. Abwaschen wie zu Hause. Dieselbe blöde Pflicht, dieselbe schmierige Seife, egal ob man in Dresden wohnt oder in Jyväskylä: Teller schrubben, Reste wegwischen, Hände einweichen, damit sich der Kopf beruhigt. In dem Rhythmus — Schrubben, abspülen, abtropfen — klappen für einen Moment die Gedanken zusammen wie ein ordentlich zusammengefaltetes Hemd. Die Erinnerung an Zuhause rutscht hoch wie Dampf in der Küche: Mutter, die immer noch zu früh aufsteht; Vater, der die alte Kaffeemaschine repariert, als wäre es ein Experiment; Ich spüre plötzlich eine Wärme, die weh tut.
 
-„Natürlich“, murmele ich grinsend, „bei euch Finnen ist ein See wohl wie bei uns
-ein Bäcker – immer um die nächste Ecke.“
+Beim letzten Teller bleibe ich stehen und merke: Ich hab den ganzen Tag kaum an sie gedacht. Nicht richtig. Es fühlt sich ekelhaft an, ein bisschen wie Verrat. Nicht, weil ich jetzt hier bin — das wusste ich ja — sondern weil der Rausch des Tages mich hat fressen lassen: die Angst, das Adrenalin, die fremden Gesichter, die lauten Städte. Ich schäme mich ein bisschen, dass die Sorgen in Dresden für ein paar Stunden so leise geworden sind. Raija sieht mich an, ohne zu fragen, und legt mir die Hand auf den Arm. Keine großen Worte.
 
-Wir ziehen die Schuhe an, und kurz darauf blitzt schon das Wasser zwischen den
-Häusern hervor. Wir laufen zum Ufer, setzen uns ins Gras, reden weiter. Und
-jedes Mal, wenn ich kurz daran denke, dass irgendwo dort draußen noch diese
-grauen Gestalten auf mich warten könnten, schiebe ich den Gedanken weg. *Heute
-nicht.* Heute bin ich frei. -->
+Später schiebt sie mir eine Decke über die Knie. „Schlaf ein bisschen“, flüstert sie. Ich liege da, die Hände noch warm vom Spülwasser, und versuche, mir selbst zu erlauben, müde zu sein. Die Wohnung riecht nach Seife und gebratenen Zwiebeln und ein kleines bisschen nach Raija — nach einem Zuhause, das mir nicht gehört, aber gerade sehr hilfreich ist. Ich schließe die Augen und sage mir, dass morgen alles nochmal bedacht werden muss: Botschaft, Pässe, der Mann aus Stockholm vielleicht. Aber jetzt — jetzt darf ich für eine Nacht so tun, als wäre alles in Ordnung.

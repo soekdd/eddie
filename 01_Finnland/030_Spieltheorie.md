@@ -3,7 +3,7 @@
 ```json
 {
   "flashback-date": "1985-07-04",
-  "date": "1985-07-07",
+  "date": "1985-07-05",
   "daytime": "morning",
   "place": "Joutsenlampi",
   "persons": [
@@ -80,8 +80,7 @@ unter zehn Prozent Siegquote übrig. Zehn! Für ein Leben.
 > (Die Mini-Rechnung ging jetzt etwas schnell: Im Band „Eddie rechnet“, Kapitel 1, packe ich sie Schritt für Schritt aus.)
 
 Und falls der Bus nur drei Minuten hält? Dann rutscht die Chance auf sechs
-Prozent. Außerdem ist heute Sonntag. Gut möglich, dass der Bus dann sogar noch
-seltener fährt. Da kann ich gleich Lotto spielen.
+Prozent. Da kann ich gleich Lotto spielen.
 
 Ja, ich habe inzwischen finnische Markka. Währungsproblem gestrichen. Aber
 ehrlich: Die Variante bleibt trotzdem ein Totalausfall.
