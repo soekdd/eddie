@@ -53,10 +53,10 @@ will. Ich tue so, als würde ich’s nicht merken, auch wenn mir jedes Mal die
 Nackenhaare hochgehen.
 
 Ich hab null Bock, Stress zwischen ihn und Raija zu bringen, also reiße ich mich
-zusammen. Besser so tun, als wär alles normal. Jorma redet beiläufig über
-Kaffee und Frühstück. Neben ihm steht seine abgewetzte Stofftasche. Drauf
-dieses Gesicht mit der Baskenmütze, das ich schon mal irgendwo gesehen habe –
-und vier dicke Buchstaben: SKOL.
+zusammen. Besser so tun, als wär alles normal. Jorma redet beiläufig über Kaffee
+und Frühstück. Neben ihm steht seine abgewetzte Stofftasche. Drauf dieses
+Gesicht mit der Baskenmütze, das ich schon mal irgendwo gesehen habe – und vier
+dicke Buchstaben: SKOL.
 
 „Was heißt das, SKOL? Klingt wie ’n Fußballverein.“
 
@@ -145,8 +145,8 @@ Mittags koche ich Nudeln, in der Hoffnung auf Ruhe. Doch Jorma redet weiter, als
 säße er in einem endlosen Seminar. Ich halte dagegen, bis mir die Stimme bricht.
 
 Am Nachmittag sitze ich erschöpft am Küchentisch, als endlich die Tür ins
-Schloss fällt. Raija kommt zu Glück zeitig heim, wirft uns einen Blick zu – und ich sehe sofort:
-Sie spürt, wie sehr es gekracht hat.
+Schloss fällt. Raija kommt zu Glück zeitig heim, wirft uns einen Blick zu – und
+ich sehe sofort: Sie spürt, wie sehr es gekracht hat.
 
 „Eddie“, sagt sie leise, „es gab heute viel Aufregung wegen deines Verschwindens
 in Joutsa.“ Sie atmet tief durch. „Aber mein älterer Kollege hat mich gedeckt.

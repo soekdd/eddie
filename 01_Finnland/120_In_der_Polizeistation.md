@@ -117,8 +117,8 @@ Ihre Flucht offensichtlich gut vorbereitet haben.“
 „Ja … siebzehn“, sage ich.
 
 „Wir haben leider keine Konsulate in der Nähe. Sie müssen nach Helsinki kommen.
-Mit Ihrer Geburtsurkunde und den Passbildern können wir ihnen sofort einen
-Pass der BRD ausstellen, mit dem Sie dann auf die Fähre nach Deutschland kommen.
+Mit Ihrer Geburtsurkunde und den Passbildern können wir ihnen sofort einen Pass
+der BRD ausstellen, mit dem Sie dann auf die Fähre nach Deutschland kommen.
 Allerdings steht das Wochenende an. Wir öffnen erst wieder am Montag. Bis dahin
 müssen Sie irgendwo anders unterkommen. Ich bespreche das gleich noch mal mit
 Frau Rehtaaler – geben Sie sie mir bitte zurück.“
@@ -151,8 +151,8 @@ Mielke und der ältere Polizist sind in einen heftigen Wortwechsel vertieft.
 Offensichtlich spricht niemand die Sprache des anderen, weshalb er einem der
 Männer, vermutlich dem Übersetzer, immer wieder heftig auf den Rücken schlägt.
 Er scheint mit seiner Übersetzung nicht zufrieden zu sein. Auf dem Tresen vor
-ihnen liegen Dokumente. Mielke zeigt immer wieder auf eins dieser
-Dokumente. Der ältere Polizist verliert zunehmend die Nerven.
+ihnen liegen Dokumente. Mielke zeigt immer wieder auf eins dieser Dokumente. Der
+ältere Polizist verliert zunehmend die Nerven.
 
 Als Raija zu seiner Seite tritt, explodiert er förmlich. Seinen Worten und
 Gesten folgend, versucht er die Männer rauszuschmeißen. Doch die weigern sich.
@@ -242,9 +242,9 @@ Maria holt ein Bündel Scheine hervor und drückt es mir in die Hand. Raija scha
 so überrascht auf den Betrag, dass mir klar wird: Das ist viel Geld, besonders
 für eine einfache Haushälterin. Ich kenne die finnischen Scheine nicht, die
 Farben und Zahlen verwirren mich, doch Raijas Reaktion reicht, um zu begreifen,
-was es bedeutet. Ich will es ablehnen, in ein paar Tagen bin ich doch schon bei der
-Botschaft, aber Maria besteht darauf. Ihre Augen funkeln entschlossen,
-als wollte sie sagen: *Du brauchst das mehr als ich.*
+was es bedeutet. Ich will es ablehnen, in ein paar Tagen bin ich doch schon bei
+der Botschaft, aber Maria besteht darauf. Ihre Augen funkeln entschlossen, als
+wollte sie sagen: *Du brauchst das mehr als ich.*
 
 „Ich glaube, ich kann jetzt gehen“, sagt Maria. „Ist das in Ordnung für dich?“
 

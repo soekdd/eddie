@@ -44,35 +44,62 @@
 }
 ```
 
-Am Morgen wache ich auf, Raija ist schon wieder weg nach Tampere. Die Wohnung ist still, bis auf ein Poltern an der Tür. Jorma stolpert herein. Er ist betrunken, die Augen glasig, der Atem stinkt nach billigem Schnaps. „Na, Eddie …“ lallt er und kommt schwankend auf mich zu.
+Am Morgen wache ich auf, Raija ist schon wieder weg nach Tampere. Die Wohnung
+ist still, bis auf ein Poltern an der Tür. Jorma stolpert herein. Er ist
+betrunken, die Augen glasig, der Atem stinkt nach billigem Schnaps. „Na, Eddie
+…“ lallt er und kommt schwankend auf mich zu.
 
-Er grinst schief, lehnt sich in den Türrahmen und mustert mich unverhohlen von Kopf bis Fuß. „So jung … so frisch …“, murmelt er, fast andächtig. „Raija weiß gar nicht, was für ein hübsches Ding sie hier unterbringt.“
+Er grinst schief, lehnt sich in den Türrahmen und mustert mich unverhohlen von
+Kopf bis Fuß. „So jung … so frisch …“, murmelt er, fast andächtig. „Raija weiß
+gar nicht, was für ein hübsches Ding sie hier unterbringt.“
 
-Sein Blick bleibt an meinem Körper hängen, er tritt näher, viel zu nah. „Weißt du, eigentlich bist du auf dem Holzweg. Flucht aus der DDR, so ein Unsinn … man rennt nicht einfach vor seiner Heimat davon. Aber trotzdem … du hast etwas. Etwas, das Raija nie hatte.“ Seine Stimme kippt, tief und lallend, zwischen Vorwurf und Begehren.
+Sein Blick bleibt an meinem Körper hängen, er tritt näher, viel zu nah. „Weißt
+du, eigentlich bist du auf dem Holzweg. Flucht aus der DDR, so ein Unsinn … man
+rennt nicht einfach vor seiner Heimat davon. Aber trotzdem … du hast etwas.
+Etwas, das Raija nie hatte.“ Seine Stimme kippt, tief und lallend, zwischen
+Vorwurf und Begehren.
 
-Ich will zurückweichen, doch er beugt sich vor, stützt sich neben mir auf und sein Gesicht kommt meinem viel zu nah. „Du brauchst jemanden … der dich führt.“ Seine Hand greift nach meinem Arm, streift meine Haut, als gehöre sie ihm.
+Ich will zurückweichen, doch er beugt sich vor, stützt sich neben mir auf und
+sein Gesicht kommt meinem viel zu nah. „Du brauchst jemanden … der dich führt.“
+Seine Hand greift nach meinem Arm, streift meine Haut, als gehöre sie ihm.
 
-Dann beugt er sich noch weiter herunter, der Geruch nach Schnaps schlägt mir ins Gesicht, als er versucht, mich zu küssen.
+Dann beugt er sich noch weiter herunter, der Geruch nach Schnaps schlägt mir ins
+Gesicht, als er versucht, mich zu küssen.
 
-Mir schießt das Blut in den Kopf. Ich stoße ihn weg und schreie: „Du bist widerlich, Jorma! Du schwärmst von der DDR, während du im freien Westen lebst. Du redest von Idealen, aber du bist nur feige. Du lässt dich von Raija aushalten, obwohl du sie nicht respektierst. Und dann machst du dich an Mädchen ran, die viel zu jung für dich sind. Hast du überhaupt noch einen Funken Würde?“
+Mir schießt das Blut in den Kopf. Ich stoße ihn weg und schreie: „Du bist
+widerlich, Jorma! Du schwärmst von der DDR, während du im freien Westen lebst.
+Du redest von Idealen, aber du bist nur feige. Du lässt dich von Raija
+aushalten, obwohl du sie nicht respektierst. Und dann machst du dich an Mädchen
+ran, die viel zu jung für dich sind. Hast du überhaupt noch einen Funken Würde?“
 
-Sein Gesicht verzerrt sich. Plötzlich holt er aus und schlägt mich ins Gesicht. Der Schmerz brennt, mein Ohr rauscht. Für einen Moment denke ich, er schlägt noch einmal. Doch stattdessen sackt er in die Ecke des Zimmers zusammen, zieht die Knie an den Körper und beginnt hemmungslos zu heulen.
+Sein Gesicht verzerrt sich. Plötzlich holt er aus und schlägt mich ins Gesicht.
+Der Schmerz brennt, mein Ohr rauscht. Für einen Moment denke ich, er schlägt
+noch einmal. Doch stattdessen sackt er in die Ecke des Zimmers zusammen, zieht
+die Knie an den Körper und beginnt hemmungslos zu heulen.
 
-Ich taste über meine Wange, die heiß pulsiert. Dann gehe ich wortlos ins Zimmer,
-packe meine Sachen. Mein Vater hat mir eingebläut: Lass dein Gepäck nie zurück,
-selbst wenn du in der Absicht fortgehst, es später zu holen. Immer mitnehmen.
-Also packe ich alles in meine kleine, viel zu vollgestopfte Reisetasche. Mein
-Herz hämmert, während ich die Tür öffne und die Wohnung verlasse. Nicht leise,
-sondern so, dass er es hört. Jede Stufe im Treppenhaus klingt wie ein
-Befreiungsschlag. Draußen atme ich tief ein – kalte Luft, klare Luft. Ich
-schwöre mir: Nie wieder gehe ich zurück.
+Ich taste über meine Wange, die heiß pulsiert. Dann gehe ich wortlos in mein
+Zimmer, packe meine Sachen. Mein Vater hat mir eingebläut: Lass dein Gepäck nie
+zurück, selbst wenn du denkst, du holst es später. Immer mitnehmen. Also stopfe
+ich alles in meine kleine, viel zu vollgestopfte Reisetasche. Mein Herz hämmert.
 
-Ich stolpere schon fast um die nächste Straßenecke, als mein Blick auf einen
-vertrauten Wagen fällt: ein Lada, graublau, mit Diplomatenkennzeichen. Mir
-bleibt die Luft weg. Ich ducke mich sofort hinter eine Hecke, die eigentlich
-viel zu spärlich ist, um mich wirklich zu verstecken. Aber es reicht: Zwei
-Männer steigen aus, Mielke vorneweg, der Dritte bleibt am Wagen stehen. Sie
-marschieren direkt zu Raijas Wohnblock und klingeln.
+Am Fenster halte ich inne, ziehe den Vorhang nur einen Spalt auf. Früher Morgen,
+graues Licht, die Straße wirkt leer. Kein Lada, keine Männer im Anzug. Für einen
+Moment wage ich zu hoffen. Vielleicht haben sie aufgegeben. Vielleicht sind sie
+weg.
+
+Ich atme tief ein, hänge mir die Tasche über die Schulter und öffne vorsichtig
+die Wohnungstür. Das Treppenhaus ist still, nur meine Schritte hallen leise.
+Jede Stufe fühlt sich an wie ein Befreiungsschlag. Unten drücke ich die Haustür
+auf, trete hinaus in die kühle Morgenluft.
+
+Doch kaum biege ich um die Straßenecke, bleibt mir die Luft weg. Da ist er. Der
+graublaue Lada, Diplomatenkennzeichen glänzen im fahlen Licht. Er rollt langsam
+heran, fast lautlos, wie ein Tier auf der Jagd.
+
+Ich ducke mich hastig hinter eine Hecke, die viel zu spärlich ist, um mich
+wirklich zu verstecken. Aber es reicht: Zwei Männer steigen aus, der Dritte
+bleibt am Steuer. Sie marschieren zielstrebig auf Raijas Wohnblock zu und
+klingeln.
 
 Mein Herz hämmert. Wie konnten die so schnell hier sein? Selbst wenn Jorma
 sofort angerufen hätte, nachdem ich hinausgestürmt bin — das geht gar nicht. Sie
