@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-08-06",
+  "day": "Tuesday",
   "daytime": "day",
   "place": "Sinis Wohnung, Vaasa",
   "persons": [

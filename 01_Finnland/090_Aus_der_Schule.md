@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-07-05",
+  "day": "Friday",
   "daytime": "noon",
   "place": "Gymnasium Joutsa",
   "persons": [

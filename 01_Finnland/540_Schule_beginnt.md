@@ -4,6 +4,7 @@
 {
   "title": "Schule beginnt",
   "date": "1985-09-01",
+  "day": "Sunday",
   "daytime": "morning, afternoon, evening",
   "place": "Vaasa, Finnland",
   "persons": [

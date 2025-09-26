@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-07-05",
+  "day": "Friday",
   "daytime": "afternoon",
   "place": "Kirche von Joutsa",
   "persons": [
@@ -129,7 +130,8 @@ Die kleine Glocke lässt es ordentlich in der Kirche dröhnen.
 Die Männer schreien sich jetzt an. Laufen kreuz und quer durch die Kirche,
 während die kleine Glocke unbeirrt Marias Hilferuf in die Stadt hinaus schreit.
 Aber wird es jemandem auffallen? Eine Glocke, die am Nachmittag schlägt?
-Immerhin lenkt das Gebimmel die Männder von mir ab. Ein paar minuten Zeit gewonnen. Wofür?
+Immerhin lenkt das Gebimmel die Männder von mir ab. Ein paar minuten Zeit
+gewonnen. Wofür?
 
 Nach einer halben Ewigkeit ruft einer der Männer plötzlich: „Da hinten in der
 Ecke, da sind viele Schalter!“ „René, komm mal rüber, hier steht irgendwas auf

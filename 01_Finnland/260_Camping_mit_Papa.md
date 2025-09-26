@@ -4,6 +4,7 @@
 {
   "flashback_date": "1984-05-04",
   "date": "1985-07-09",
+  "day": "Tuesday",
   "daytime": "day",
   "place": "Wald nahe Dresden",
   "persons": [

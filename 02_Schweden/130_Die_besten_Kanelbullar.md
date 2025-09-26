@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-10-25",
+  "day": "Friday",
   "daytime": "afternoon",
   "place": "Stockholm, Café am Hafen",
   "persons": [

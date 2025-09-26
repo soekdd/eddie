@@ -6,6 +6,7 @@
   "chapter_id": "FIN_Vaasa_Tag3_Gute_Gruende",
   "flashback-date": "1982-04-15",
   "date": "1985-08-12",
+  "day": "Monday",
   "daytime": "evening",
   "tense": "present (frame), past (flashback)",
   "pov": "Eddie, first-person",

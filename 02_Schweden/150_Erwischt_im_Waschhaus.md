@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-11-28",
+  "day": "Thursday",
   "daytime": "afternoon → evening",
   "place": "Stockholm, Waschhaus & Küche im Elternhaus",
   "persons": [

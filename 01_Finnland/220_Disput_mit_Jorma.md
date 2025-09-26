@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-07-08",
+  "day": "Monday",
   "daytime": "morning -> late afternoon",
   "place": "Raijas Wohnung in Jyväskylä",
   "persons": [
@@ -53,22 +54,17 @@ Nackenhaare hochgehen.
 
 Ich hab null Bock, Stress zwischen ihn und Raija zu bringen, also reiße ich mich
 zusammen. Besser so tun, als wär alles normal. Jorma redet beiläufig über
-Kaffee, fragt, ob ich mit rauskommen will, Sonne genießen, frische Luft. Ich
-nicke – halb aus Höflichkeit, halb weil’s draußen wenigstens nicht nach
-Zigaretten und Spülmittel riecht.
-
-Also sitzen wir nebeneinander auf dieser wackligen Bank, Becher in der Hand, die
-Sonne knallt mir ins Gesicht. Neben ihm steht eine abgewetzte Stofftasche. Drauf
+Kaffee und Frühstück. Neben ihm steht seine abgewetzte Stofftasche. Drauf
 dieses Gesicht mit der Baskenmütze, das ich schon mal irgendwo gesehen habe –
-und dicke Buchstaben: SKOL.
+und vier dicke Buchstaben: SKOL.
 
-„Was heißt das überhaupt, SKOL? Klingt wie ’n Fußballverein.“
+„Was heißt das, SKOL? Klingt wie ’n Fußballverein.“
 
 Er grinst gönnerhaft. „Das ist unsere Studentenvereinigung. Wir stehen für
 Solidarität und die sozialistische Zukunft. Che Guevara – ein Held des Volkes.“
 
 Ich hebe eine Augenbraue. „Aha. Und du willst da ernsthaft leben? Im
-Kommunismus? Mit Mauer drumrum und Stasi im Nacken?“
+Sozialismus? Mit Mauer drumrum und Stasi im Nacken?“
 
 Sein Blick verengt sich, er setzt an wie ein Lehrer, der gleich die Tafel
 vollschreibt. Ich halte den Becher fester, spüre, wie in mir Trotz und Wut
@@ -149,7 +145,7 @@ Mittags koche ich Nudeln, in der Hoffnung auf Ruhe. Doch Jorma redet weiter, als
 säße er in einem endlosen Seminar. Ich halte dagegen, bis mir die Stimme bricht.
 
 Am Nachmittag sitze ich erschöpft am Küchentisch, als endlich die Tür ins
-Schloss fällt. Raija kommt heim, wirft uns einen Blick zu – und ich sehe sofort:
+Schloss fällt. Raija kommt zu Glück zeitig heim, wirft uns einen Blick zu – und ich sehe sofort:
 Sie spürt, wie sehr es gekracht hat.
 
 „Eddie“, sagt sie leise, „es gab heute viel Aufregung wegen deines Verschwindens
@@ -174,7 +170,7 @@ muss noch Leute von der Fakultät treffen, es geht um Seminare“, sagt er, ohne
 mich anzusehen.
 
 Raija verschränkt die Arme, ihr Blick spricht Bände. „Immer wenn’s unbequem
-wird, bist du weg.“
+wird, ist er weg, aber seine Rechnungen darf ich bezahlen!“
 
 Ich lege ihr die Hand auf den Arm, flüstere: „Raija, ich brauche dringend deine
 Hilfe … in einer sehr verwickelten Sache.“

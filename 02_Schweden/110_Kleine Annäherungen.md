@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-10-20",
+  "day": "Sunday",
   "daytime": "various",
   "place": "Stockholm, Kirche & Straßen",
   "persons": [

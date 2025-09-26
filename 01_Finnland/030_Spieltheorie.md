@@ -4,6 +4,7 @@
 {
   "flashback-date": "1985-07-04",
   "date": "1985-07-05",
+  "day": "Friday",
   "daytime": "morning",
   "place": "Joutsenlampi",
   "persons": [

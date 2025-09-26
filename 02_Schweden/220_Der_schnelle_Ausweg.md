@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-01-20",
+  "day": "Sunday",
   "daytime": "",
   "place": "",
   "persons": [

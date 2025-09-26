@@ -4,6 +4,7 @@
 {
   "flashback-date": "1984-09-09",
   "date": "1985-07-05",
+  "day": "Friday",
   "daytime": "day",
   "place": "TU-Dresden, zu Hause",
   "persons": [
@@ -56,10 +57,11 @@ die Aufsicht nicht richtig auf -- und schwupps, stand ich zwischen Regalen
 voller Schätze. Ich zog einen Schuber heraus, und da waren sie: Messtischblätter
 von Finnland, fein säuberlich aufgereiht. Mein Herz schlug bis zum Hals.
 
-Ich wusste, dass ich sie unmöglich mitnehmen konnte. Also schmuggelte ich sie in
-die öffentlich zugängliche Kartensammlung, versteckt unter den mongolischen
-Karten, die sich eh keiner anschaute. Von da an hatte ich *meine Karten*. Fast
-jeden Tag saß ich in diesem muffigen Raum und studierte Finnland.
+Ich wusste, dass ich sie unmöglich mit nach Hause nehmen konnte. Also
+schmuggelte ich sie in die öffentlich zugängliche Kartensammlung, versteckt
+unter den mongolischen Karten, die sich eh keiner anschaute. Von da an hatte ich
+*meine Karten*. Fast jeden Tag saß ich in diesem muffigen Raum und studierte
+Finnland.
 
 Ich schrieb die Namen von rund hundert Städten auf, gab ihnen zweibuchstabige
 Abkürzungen wie in einem Geheimcode. Dann malte ich die Hauptstraßen und

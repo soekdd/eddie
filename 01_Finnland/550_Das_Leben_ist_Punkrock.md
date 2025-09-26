@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-09-07",
+  "day": "Saturday",
   "daytime": "evening",
   "place": "Kneipe in Vaasa",
   "persons": [

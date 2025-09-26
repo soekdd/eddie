@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-07-04",
+  "day": "Thursday",
   "daytime": "night",
   "place": "Joutsenlampi",
   "persons": [

@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-10-15",
+  "day": "Tuesday",
   "daytime": "afternoon",
   "place": "Stockholm, Schlafplatz & Waschhaus",
   "persons": [

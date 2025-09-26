@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-11-02",
+  "day": "Saturday",
   "daytime": "night → morning",
   "place": "Stockholm, Vidars Elternhaus (Zimmer/Küche)",
   "persons": [

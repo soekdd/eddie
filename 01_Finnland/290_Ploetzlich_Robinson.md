@@ -5,6 +5,7 @@
   "title": "Plötzlich Robinson",
   "chapter_id": "FIN_Weg_Tag20_Ploetzlich_Robinson",
   "date": "1985-07-14",
+  "day": "Sunday",
   "daytime": "day",
   "tense": "present, Eddies first-person perspective",
   "pov": "Eddie, first-person",

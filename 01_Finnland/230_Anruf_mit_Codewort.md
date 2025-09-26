@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-07-08",
+  "day": "Monday",
   "daytime": "afternoon",
   "place": "Raijas Wohnung in Jyväskylä",
   "persons": [

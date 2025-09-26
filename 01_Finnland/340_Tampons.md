@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-07-17",
+  "day": "Wednesday",
   "daytime": "evening, night, morning",
   "place": "Hütte bei den Paderbornern, Finnland",
   "persons": [

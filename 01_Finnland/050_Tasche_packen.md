@@ -4,6 +4,7 @@
 {
   "title": "Tasche packen",
   "date": "1985-07-05",
+  "day": "Friday",
   "daytime": "early morning",
   "place": "Joutsenlampi",
   "persons": [

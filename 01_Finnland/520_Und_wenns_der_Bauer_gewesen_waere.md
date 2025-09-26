@@ -5,6 +5,7 @@
   "title": "Und wenn's der Bauer gewesen wäre?",
   "chapter_id": "FIN_Vaasa_Tag4_Faehrenprobe",
   "date": "1985-08-13",
+  "day": "Tuesday",
   "daytime": "morning & evening",
   "tense": "present",
   "pov": "Eddie, first-person",

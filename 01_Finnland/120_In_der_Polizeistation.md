@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-07-05",
+  "day": "Friday",
   "daytime": "afternoon",
   "place": "Polizeistation von Joutsa",
   "persons": [
@@ -68,8 +69,8 @@ hin und her. Aber Raija hört zu, nickt, unterbricht mich nicht.
 Aufpasser.“ Ich merke, wie meine Stimme immer leiser wird.
 
 „Darüber müsste der Pfarrer entscheiden“, sagt Raija. „Maria ist die
-Haushälterin. Der Pfarrer ist gerade bei einer Hochzeitsfeier ein Stück
-außerhalb von Joutsa. Und nach dem Kirchenasyl? Du kannst ja nicht ewig hier
+Haushälterin. Der Pfarrer betreut Gläubige im ganzen Gebiet um Joutsa und ist
+wohl aktuell unterwegs. Und nach dem Kirchenasyl? Du kannst ja nicht ewig hier
 bleiben.“
 
 „Ich … ich müsste … nach Helsinki, zur Botschaft der BRD.“
@@ -85,9 +86,9 @@ Raija spricht lange mit dem Mann. Ich schnappe Worte auf: Reisepass, Passbilder,
 Geburtsurkunde. Raija zuckt manchmal beim Sprechen mit den Schultern.
 
 „Warte!“, sage ich, wühle in meiner Tasche und hole meinen großen Block heraus.
-Ich finde das Blatt mit Herrn Fischers Handschrift. Ich drehe den Block um und
-falte die Rückseite nach außen. „Birth certificate“, sage ich zu Raija und
-schiebe ihr den Block über den Tisch.
+Ich finde das Blatt mit Herrn Fischers Handschrift, drehe den Block um und falte
+die Rückseite nach außen. „Birth certificate“, sage ich zu Raija und schiebe ihr
+den Block über den Tisch.
 
 Sie reagiert erfreut und teilt die Neuigkeit mit ihrem Gesprächspartner. Dann
 fische ich vom Schreibtisch eine Schere und zerschneide das Innenfutter meiner
@@ -115,10 +116,12 @@ Ihre Flucht offensichtlich gut vorbereitet haben.“
 
 „Ja … siebzehn“, sage ich.
 
-„Passen Sie auf! Ich schicke einen Angestellten nach Joutsa. Allerdings steht das Wochenende an. Mal sehen, wie schnell das geht. Ich fürchte, dass er erst am Montag oder Dienstag bei Ihnen
-sein kann. Bis dahin müssen Sie in der Polizeistation bleiben oder irgendwo anders unterkommen.
-Fahren Sie nicht nach Helskini, die Botschaft ist am Wochenende geschlossen.
-Ich bespreche das gleich noch mal mit Frau Rehtaaler – geben Sie sie mir bitte zurück.“
+„Wir haben leider keine Konsulate in der Nähe. Sie müssen nach Helsinki kommen.
+Mit Ihrer Geburtsurkunde und den Passbildern können wir ihnen dann sofort einen
+Pass der BRD ausstellen, mit dem Sie dann auf die Fähre nach Deutschland kommen.
+Allerdings steht das Wochenende an. Wir öffnen erst wieder am Montag. Bis dahin
+müssen Sie irgendwo anders unterkommen. Ich bespreche das gleich noch mal mit
+Frau Rehtaaler – geben Sie sie mir bitte zurück.“
 
 Ich reiche den Hörer zurück an Raija. Sie spricht eine gefühlte Ewigkeit auf
 Finnisch. Raijas Ton klingt alles andere als optimistisch. Oft legt sie die
@@ -191,7 +194,7 @@ ihr nicht! Sie werden mich ins Gefängnis stecken.“
 
 „Ins Gefängnis?“, fragt Raija.
 
-„Ja!“ Ich versuche es zu übersetzen: „Youth-Work-Yard“
+„Ja!“ Ich versuche den Begriff „Jugendwerkhof“ zu übersetzen: „Youth-Work-Yard“
 
 „Ein Hof? Die ein Bauerhof?“
 
@@ -200,7 +203,7 @@ Menschen. Sie brechen sie dort.“
 
 „Du meinst auch mit Gewalt?“, fragt Raija.
 
-„Wenn psychische Gewalt nicht reicht, dann auch mit physischer.“
+„Wenn seelische Gewalt nicht reicht, dann auch mit körperlicher.“
 
 Sie schaut ihren Kollegen an. Ich habe ihn bisher noch nicht Englisch sprechen
 gehört, aber ich glaube, das hat er verstanden. Im gebrochenen Englisch
@@ -216,17 +219,18 @@ kleine Lüge, die mich aus allen Problemen herausbringt.
 
 „Okay, er schlägt mich!“
 
-Beide nicken. Dann fährt Raija fort: „Dann machen wir das so: Wir warten auf den
-Vertreter der Botschaft, der morgen oder übermorgen kommt. Er wird dir einen
-Pass ausstellen und dich mit nach Helsinki nehmen und dich in die Fähre setzen.
-Wir werden die Zentrale informieren, dass wir dich in Gewahrsam haben, um dich
-vor deinem gewalttätigen Vormund zu beschützen.“
+Beide nicken. Dann fährt Raija fort: „Dann machen wir das so: Wir suchen Dir
+eine sichere Unterkunft bis Montag, dann fährst Du mit dem Bus nach Helsinki.
+Wenn die Stasi Probleme bereitet, halte Dich an die finnische Polizei. Die
+Botschaft wird dir einen Pass ausstellen und dich in die Fähre setzen. Wir
+werden die Zentrale informieren, dass wir dich in Gewahrsam haben, um dich vor
+deinem gewalttätigen Vormund zu beschützen.“
 
 „Dann darf ich hier bleiben? Und dann über Helsinki in den Westen?“
 
 Ich spüre, wie Euphorie mich erfasst. *Du musst dich an gute Menschen halten*,
-hat mein Vater zu mir gesagt. Und ich glaube, Raija ist ein guter Mensch. Bei
-dem Gedanken schießen mir schon wieder die Tränen.
+hat mein Vater zu mir gesagt. Und ich glaube, Raija und Maria sind gute
+Menschen. Bei dem Gedanken schießen mir schon wieder die Tränen.
 
 Maria, die ich schon ganz vergessen habe, nimmt mich wieder in den Arm. „Alles
 gut jetzt, Eddie“, sagt sie in ihrem großmütterlichen Russisch. „Alles gut,

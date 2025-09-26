@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-10-17",
+  "day": "Thursday",
   "daytime": "night",
   "place": "Stockholm, Schlafplatz",
   "persons": [

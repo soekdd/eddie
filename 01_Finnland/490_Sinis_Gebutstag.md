@@ -4,6 +4,7 @@
 {
   "title": "Sinis Geburtstag",
   "date": "1985-08-15",
+  "day": "Thursday",
   "daytime": "morning",
   "place": "Sinis Wohnung, Vöyrinkatu 25, Vaasa",
   "persons": [

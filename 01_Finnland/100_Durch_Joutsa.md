@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-07-05",
+  "day": "Friday",
   "daytime": "afternoon",
   "place": "Weg vom Gymnasium Joutsa zur Kirche",
   "persons": [

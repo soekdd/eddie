@@ -5,6 +5,7 @@
   "title": "Conny, Sabine, Peter und Matti",
   "chapter_id": "FIN_Weg_Tag21_Paddlergruppe",
   "date": "1985-07-15",
+  "day": "Monday",
   "daytime": "afternoon & evening",
   "tense": "present, Eddies first-person perspective",
   "pov": "Eddie, first-person",

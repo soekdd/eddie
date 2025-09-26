@@ -4,6 +4,7 @@
 {
   "flashback-date": "1983-12-08",
   "date": "1985-07-11",
+  "day": "Thursday",
   "daytime": "evening",
   "place": "Dresden",
   "persons": [

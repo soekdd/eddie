@@ -4,6 +4,7 @@
 {
   "flashback-date": "1983-10-07",
   "date": "1985-07-05",
+  "day": "Friday",
   "daytime": "day",
   "place": "Wohnung der Eltern Dresden",
   "persons": [

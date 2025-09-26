@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-07-17",
+  "day": "Wednesday",
   "place": "Wanderweg westlich von Tampere",
   "persons": [
     "Eddie",

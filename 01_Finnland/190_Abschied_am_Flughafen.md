@@ -4,6 +4,7 @@
 {
   "flashback-date": "1985-06-30",
   "date": "1985-07-07",
+  "day": "Sunday",
   "daytime": "noon",
   "place": "Berlin Schönefeld",
   "persons": [

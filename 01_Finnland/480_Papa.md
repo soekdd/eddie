@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-08-12",
+  "day": "Monday",
   "place": "Pizzaria in Vaasa",
   "synopsis": "Eddie erzählt Sini, wie ihr Vater trotz überragender Fähigkeiten im Schatten des Parteikarrieristen Radmer blieb.",
   "persons": [

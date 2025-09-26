@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-07-05",
+  "day": "Friday",
   "daytime": "late evening",
   "place": "Raijas Auto auf der Fahrt von Joutsa nach Jyväskylä",
   "persons": [

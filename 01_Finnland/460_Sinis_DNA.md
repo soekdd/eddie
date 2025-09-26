@@ -4,6 +4,7 @@
 {
   "title": "Eddies Rätsel für Sini",
   "date": "1985-08-12",
+  "day": "Monday",
   "daytime": "afternoon",
   "place": "Sinis Wohnung, Vöyrinkatu 25, Vaasa",
   "persons": [

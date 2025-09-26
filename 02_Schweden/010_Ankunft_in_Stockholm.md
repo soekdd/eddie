@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-09-19",
+  "day": "Thursday",
   "daytime": "evening",
   "place": "Umea, Hafen und Bahnhof",
   "persons": [

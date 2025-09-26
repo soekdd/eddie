@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-08-09",
+  "day": "Friday",
   "daytime": "morning & evening",
   "place": "Vaasa, Sinis Küche",
   "persons": [

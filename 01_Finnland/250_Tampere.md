@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-07-09",
+  "day": "Tuesday",
   "daytime": "morning",
   "place": "Marktplatz Tampere",
   "persons": [

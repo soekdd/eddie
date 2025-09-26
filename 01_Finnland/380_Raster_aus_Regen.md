@@ -9,6 +9,7 @@
     "17"
   ],
   "date": "1985-07-24",
+  "day": "Wednesday",
   "date_from": "1985-07-24",
   "date_to": "1985-07-28",
   "tense": "present",

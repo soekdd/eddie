@@ -3,6 +3,7 @@
 ```json
 {
   "date": "1985-07-14",
+  "day": "Sunday",
   "daytime": "morning",
   "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
   "persons": [

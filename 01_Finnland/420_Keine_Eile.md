@@ -5,6 +5,7 @@
   "title": "Keine Eile – Frühstück, Mutprobe & Hafenbank",
   "chapter_id": "FIN_Vaasa_Tag1_Fruehstueck_und_Hafenbank",
   "date": "1985-08-07",
+  "day": "Wednesday",
   "tense": "present",
   "pov": "Eddie, first-person",
   "mode": "mainline",
