@@ -66,17 +66,17 @@ Vater wirkte sachlich wie immer, völlig kontrolliert, als würden wir einfach n
 eine ganz normale Fahrt besprechen. Meine Mutter… na ja, sie lächelte, aber ich
 habe gemerkt, wie ihre Finger leicht gezittert haben. Nur so, dass man es sieht,
 wenn man sie kennt. Dann hat sie gesagt: ‚Eddie… pass auf dich auf.‘ So leise,
-dass es fast im FLughafen unterging. Für Mielke klang das wie ein ganz banaler
-Abschiedsgruß. Aber ich wusste sofort, was sie meinte. Es war… wie ein Code. In
-ihrem Blick lag alles drin: Sie weiß, was ich vorhabe. Sie ist bei mir, auch
-wenn sie es nicht sagen kann. Mein Vater hat mir dann die Hand auf die Schulter
-gelegt und nur gesagt: ‚Du weißt, was zu tun ist.‘ Trocken, neutral, kein Muskel
-im Gesicht hat gezuckt. Ich habe genickt, als würde er mir nur irgendeine
-Aufgabe mitgeben. Aber in mir drin… ich habe mich an diesen Satz festgehalten.
-Wir haben uns kurz umarmt, keine Sekunde zu lang. Alles musste aussehen wie
-Routine. Meine Mutter hat meine Hand gedrückt, fest, fast schmerzhaft. Ihre
-Finger haben mir zu verstehen gegeben: Sei vorsichtig. Sei klug. Lass dich nicht
-erwischen.
+dass es fast im Flughafenlärm unterging. Für Mielke klang das wie ein ganz
+banaler Abschiedsgruß. Aber ich wusste sofort, was sie meinte. Es war… wie ein
+Code. In ihrem Blick lag alles drin: Sie weiß, was ich vorhabe. Sie ist bei mir,
+auch wenn sie es nicht sagen kann. Mein Vater hat mir dann die Hand auf die
+Schulter gelegt und nur gesagt: ‚Du weißt, was zu tun ist.‘ Trocken, neutral,
+kein Muskel im Gesicht hat gezuckt. Ich habe genickt, als würde er mir nur
+irgendeine Aufgabe mitgeben. Aber in mir drin… ich habe mich an diesen Satz
+festgehalten. Wir haben uns kurz umarmt, keine Sekunde zu lang. Alles musste
+aussehen wie Routine. Meine Mutter hat meine Hand gedrückt, fest, fast
+schmerzhaft. Ihre Finger haben mir zu verstehen gegeben: Sei vorsichtig. Sei
+klug. Lass dich nicht erwischen.
 
 Dann kam die Kontrolle. Ein Offizier blätterte endlos in meinen Papieren, als
 suchte er einen Grund mit nicht mitfliegen zu lassen. Ich hielt die Luft an. Am

@@ -56,17 +56,17 @@ anspruchsvoll. Mein Vater war wenig begeistert von der Idee, trainierte aber
 heimlich für dieses Ereignis. Wobei es da nicht um die Zeit oder die Platzierung
 ging – es war überhaupt kein offizielles Rennen – sondern es ging allein um den
 Umstand, sie überhaupt zu Ende zu bringen. Am Ende schaffte mein Vater die Tour,
-trotz mehrerer schwerer Stürze und Materialversagens seiner Ausrüstung.
-Danach war er eine Woche krank, so sehr hatte er sich verausgabt, und seine Füße
-sahen aus wie eine einzige dicke Blase. Als sein Freund kurz danach wieder mal
-bei uns zu Besuch war, feierten sie ihre Tour feucht-fröhlich. Ich kann mich
-noch an einen Satz seines Freundes erinnern: „Das war unsere Vasaloppet!“ „Was
-ist die Vasaloppet?“ habe ich als kleines Kind gefragt. Und dann erzählte er mir
-die Legende von König Vasa in blumigen, spannenden Worten: Es war ein
-bitterkalter Winter, irgendwann Anfang des 16. Jahrhunderts. Der junge Prinz
-Gustav Vasa, ein Mann mit mutigem Herzen und festem Willen, war auf der Flucht.
-Hinter ihm jagten die Truppen des grausamen dänischen Königs her – ein König,
-der das Land mit eiserner Hand beherrschte und seine Gegner gnadenlos verfolgte.
+trotz mehrerer schwerer Stürze und Materialversagens seiner Ausrüstung. Danach
+war er eine Woche krank, so sehr hatte er sich verausgabt, und seine Füße sahen
+aus wie eine einzige dicke Blase. Als sein Freund kurz danach wieder mal bei uns
+zu Besuch war, feierten sie ihre Tour feucht-fröhlich. Ich kann mich noch an
+einen Satz seines Freundes erinnern: „Das war unsere Vasaloppet!“ „Was ist die
+Vasaloppet?“ habe ich als kleines Kind gefragt. Und dann erzählte er mir die
+Legende von König Vasa in blumigen, spannenden Worten: Es war ein bitterkalter
+Winter, irgendwann Anfang des 16. Jahrhunderts. Der junge Prinz Gustav Vasa, ein
+Mann mit mutigem Herzen und festem Willen, war auf der Flucht. Hinter ihm jagten
+die Truppen des grausamen dänischen Königs her – ein König, der das Land mit
+eiserner Hand beherrschte und seine Gegner gnadenlos verfolgte.
 
 Gustav hatte sich erhoben, um Schweden von der fremden Herrschaft zu befreien,
 doch es sah nicht gut aus. Seine Hoffnung schwand, denn die Bauern in seinem
