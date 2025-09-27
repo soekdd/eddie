@@ -44,9 +44,9 @@
 ```
 
 Ich erwache mit einem Schreck in den Gliedern. Wo bin ich? Ich erkenne Raijas
-Sofa, ihre warme Decke. Alles
-ist still, nur draußen ruft ein Nachtvogel. Mein Kopf hämmert, als würde jemand
-von innen mit Fäusten gegen die Schädelwand schlagen.
+Sofa, ihre warme Decke. Alles ist still, nur draußen ruft ein Nachtvogel. Mein
+Kopf hämmert, als würde jemand von innen mit Fäusten gegen die Schädelwand
+schlagen.
 
 Es ist die zweite Nacht nach meiner Flucht – und ich weiß: Jetzt, in diesem
 Moment, muss die Nachricht in Dresden längst angekommen sein. Die Nachbarn
