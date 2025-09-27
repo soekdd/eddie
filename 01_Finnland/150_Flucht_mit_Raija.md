@@ -132,7 +132,6 @@ wenn man nur wollte.*
 
 Wir steigen aus, Raija schließt die Eingangstür auf, und schon rieche ich diesen
 typischen Treppenhausduft – Waschmittel, ein Hauch Kaffee, irgendwie wohnlich.
-Nicht muffig, nicht nach Kohlenstaub.
 
 Oben in der Wohnung ist es sofort gemütlich. Helle Möbel, Teppiche, Pflanzen auf
 der Fensterbank. Und da steht er – Jorma. Ein hochgewachsener Typ, Bartansatz,

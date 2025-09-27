@@ -196,7 +196,7 @@ ihr nicht! Sie werden mich ins Gefängnis stecken.“
 
 „Ja!“ Ich versuche den Begriff „Jugendwerkhof“ zu übersetzen: „Youth-Work-Yard“
 
-„Ein Hof? Die ein Bauerhof?“
+„Ein Hof? Wie ein Bauerhof?“
 
 „Nein, so heißt es nur, es ist ein Gefängnis. Ein Gefängnis nur für junge
 Menschen. Sie brechen sie dort.“
