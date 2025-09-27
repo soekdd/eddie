@@ -54,9 +54,9 @@ ganze Zeit, dass ich immer zu viel mitschleppe. Perfekt. Niemand wundert sich.
 
 Unten rein stopfe ich meine Trainingshose, alles, was ich noch an frischer
 Unterwäsche habe, den ganzen Kram, den man halt braucht, wenn man nicht wie ein
-Penner rumlaufen will. Ein bisschen Damenzeug, Zahnbürste, ein Stück Seife. Oben
-drauf der wichtigste Schatz: mein Matheblock. Plus ein paar Stifte, damit ich
-nicht wie eine Idiotin dasitze und nix schreiben kann.
+Penner rumlaufen will. Ein paar Binden, Zahnbürste, ein Stück Seife. Oben drauf
+der wichtigste Schatz: mein Matheblock. Plus ein paar Stifte, damit ich nicht
+wie eine Idiotin dasitze und nix schreiben kann.
 
 Ich starre das Häufchen an. So soll ich also auf alle Eventualitäten vorbereitet
 sein? Haha. Als ob das geht. Irgendwie absurd: ein bisschen Stoff, ein paar
@@ -65,7 +65,7 @@ Zettel – und damit will ich durchkommen?
 Kurz denk ich: Ich könnte jetzt alles wieder zurücklegen. Einfach so tun, als
 wär nix. Noch bin ich nicht aufgeflogen, niemand weiß Bescheid. Aber nee. Der
 Gedanke nervt. Ich schiebe ihn weg, so wie man ’ne lästige Fliege verscheucht.
-Weiter jetzt. Keine Zeit für Jammern.
+Weiter jetzt. Keine Zeit zum Jammern.
 
 Mein Blick fällt auf die große Tasche unterm Bett. Die bleibt hier. Mit den
 Klamotten, die ich nicht dringend brauche. Und mit meinem kleinen Kuschelhasen.

@@ -43,7 +43,7 @@
 }
 ```
 
-Ich hock mich auf den geschlossenen Klo-Deckel. Neonlicht flimmert wie ein
+Ich hocke mich auf den geschlossenen Klo-Deckel. Neonlicht flimmert wie ein
 schlechtes Signal. Herzklopfen, das mir bis in die Ohren hämmert. Jeder
 verdammte Augenblick zählt – draußen könnte schon Mielke lauern.
 
@@ -79,5 +79,5 @@ Ich atme tief durch. Draußen stürmt 'ne Gruppe Jungs rein, und sie palavern la
 über die Aufgaben. Ich bin also noch nicht zu spät dran. Ich wisch mir die
 Stirn, klapp die Dose zu, steh auf.
 
-Die Jacke sitzt wie zweite Haut. Schwarz, ernst. Keine Edmilla mehr. Nur ich.
-Kein Zurück.
+Die Jacke sitzt wie eine zweite Haut. Schwarz, ernst. Keine Edmilla mehr. Nur
+ich. Kein Zurück.

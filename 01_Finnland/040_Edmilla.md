@@ -87,8 +87,7 @@ Verkleiden auf’m Klo, zack, fertig. Aber jetzt klang es ernst.
 
 „Ja, das wäre nützlich“, lachte er.
 
-„Na super. Bisher war genau das mein Geheimtrick, Verehrer fernzuhalten. Und die
-Haare?“
+„Na super. Bisher war das ein super Trick, Typen fernzuhalten. Und die Haare?“
 
 „Die kannst du unterwegs nicht schneiden – keine Zeit. Also kurz lassen. Aber
 Spangen, Bänder… halt Mädchensachen.“

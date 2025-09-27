@@ -48,9 +48,9 @@
 Montagmorgen. Ich stolpere verschlafen in die Küche, Raija ist schon längst weg
 zur Arbeit. Stattdessen sitzt da Jorma – und wirkt plötzlich anders. Nicht mehr
 so abweisend wie gestern, fast freundlich, was bei ihm irgendwie unheimlich ist.
-Er mustert mich dauernd, als wäre ich irgendein Rätsel, das er unbedingt lösen
-will. Ich tue so, als würde ich’s nicht merken, auch wenn mir jedes Mal die
-Nackenhaare hochgehen.
+Er mustert mich aber immer noch so, als wäre ich irgendein Rätsel, das er
+unbedingt lösen will. Ich tue so, als würde ich’s nicht merken, auch wenn mir
+jedes Mal die Nackenhaare hochgehen.
 
 Ich hab null Bock, Stress zwischen ihn und Raija zu bringen, also reiße ich mich
 zusammen. Besser so tun, als wär alles normal. Jorma redet beiläufig über Kaffee
@@ -130,7 +130,7 @@ Angst lebt und trotzdem frei ist.“
 
 Er schüttelt den Kopf, fast mitleidig. „Das ist westliche Propaganda. Die DDR
 schützt ihre Bürger, keiner wird zurückgelassen. In zehn Jahren wird man sehen,
-dass euer Kapitalismus zerbricht.“
+wie der Kapitalismus an sich selbst zerbricht und der Sozialismus triumphiert.“
 
 „Jorma“, sage ich leise, „ich brauche keine zehn Jahre. Ich hab es gelebt. Jeden
 Tag. Die Angst, dass die Stasi zuhört. Die Gewissheit, dass mein Vater nie

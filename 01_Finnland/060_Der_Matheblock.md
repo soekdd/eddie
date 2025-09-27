@@ -98,8 +98,8 @@ Ich muss aussehen wie ein Kaninchen vor der Schlange.
 
 Noch mal schnipsen. Und er bleibt hängen. Genau auf der Seite, auf der er gerade
 geschrieben hat. Er hebt die Ecke an. Mist. Das Siegel vom Standesamt blitzt auf
-der Rückseite. Seine Augen werden groß. Er wird blass. Niemand außer mir sieht
-das.
+der Rückseite auf. Seine Augen werden groß. Er wird blass. Niemand außer mir
+sieht das.
 
 Dann, ganz ruhig, deckt er die Ecke ab, klappt den Block zu. Reicht ihn mir
 zurück, so beiläufig, als wär nix. Schaut demonstrativ zum Fenster raus. Und

@@ -63,7 +63,7 @@ Kopf runter, rein in die Menge. Die schwarzen Haare stinken noch nach
 Schuhcreme. Mein Tarnanzug – und gleichzeitig meine größte Schwachstelle.
 
 Und dann sehe ich ihn. *Mielke.* Grauer Anzug, schmale Lippen, Augen wie spitze
-Nadeln. Steht da am Eingang wie ’n Scanner, Arme verschränkt. Er weiß, warum er
+Nadeln. Steht da am Eingang wie ’n Wachhund, Arme verschränkt. Er weiß, warum er
 da ist – und ich auch: Keiner aus der DDR geht hier allein irgendwohin.
 
 Neben ihm Herr Fischer. Nicht so scharf, eher müde Augen. Er redet mit ’nem

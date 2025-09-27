@@ -90,19 +90,20 @@ ein alter Mann mit schiefem Hut, macht eine Handbewegung zum Mund. Essen? Ich
 starre ihn an. Hä? Ach so! Essbare Pflanzen! Ich schlage irgendeine Seite auf,
 tippe aufs Bild, mache Kaubewegungen. Er nickt eifrig.
 
-Auf dem Einband: Syötävät Villikasvit Suomessa. Keine Ahnung, was das heißt.
-Aber wenn mein Vater mir eines beigebracht hat, dann Pilze. Und beim
-Durchblättern denke ich: Ja, das passt. Ein Buch, das mich füttern kann. Und
-jetzt ist Juli, die Wälder sind bestimmt voll davon. Ein Gedanke schießt mir
-durch den Kopf: Untertauchen. Einfach weg. Ein paar Wochen im Wald. Bis Mielke
-aufgibt.
+Bisher hatte ich immer nur Helsinki im Kopf. Westdeutsche Botschaft, BRD-Pass,
+Freiheit. Raija hatte sogar schon grob geplant, wie sie mich dorthin bringen
+könnte. Aber hier auf dem Marktplatz von Tampere, mitten im Gewimmel, spüre ich
+plötzlich, wie schwer das alles auf ihr lastet. Sie riskiert ihren Job,
+vielleicht mehr, nur weil ich hier sitze. Ich will sie da nicht noch tiefer
+hineinziehen.
 
-Die Zugfahrt hierher hat 20 Markka gekostet. Nach Schweden wird’s sicher viel
-teurer. Aber vielleicht brauche ich gar kein Ticket. Ich krame einen
-Straßenatlas hervor. Landweg nach Stockholm: 1700 Kilometer. Unmöglich. Aber von
-Vaasa fährt eine Fähre nach Schweden. 300 Kilometer Autobahn – also 350 bis 400
-Kilometer zu Fuß. Jeden Tag 20 Kilometer: drei Wochen. Drei Wochen, in denen ich
-unsichtbar bin. Machbar.
+Ich suche einen Straßenatlas auf dem Büchertisch. Mein Blick bleibt an Stockholm
+hängen. Ein Wort, das nach Ferne klingt. Nach Westen. Nach der Welt hinter der
+Grenze. Eine Fähre fährt von Vaasa nach Schweden. Ich folge mit dem Finger den
+Straßen: Von hier aus 300 Kilometer Autobahn, vielleicht 350 bis 400 Kilometer
+zu Fuß. Jeden Tag 20 Kilometer: drei Wochen. Drei Wochen, in denen ich
+unsichtbar bin. Kein Ticket, keine Papiere, keine Botschaft. Nur ich. Machbar?
+Vielleicht.
 
 Der Alte drückt mir noch ein zweites Buch in die Hand: Laavujen Opas:
 Pohjois-Länsi-Suomi. „Opas?“ Ich kichere. Was für Opas? Beim Aufschlagen wird’s

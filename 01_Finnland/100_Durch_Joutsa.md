@@ -105,11 +105,11 @@ Ich gehe ein paar Schritte, meine Knie wackeln. „Ich… ich habe Angst… он
 меня… They are looking for me…“
 
 Da legt sie mir die Hand auf den Arm. Nicht hart, nicht besitzergreifend –
-einfach Halt. Warm. Ich spüre, wie die Angst nachgibt, Millimeter für
-Millimeter. Wieder Russisch, leise, fest: „Я помогу тебе… следуй за мной.“ Ich
-werde dir helfen… folge mir.
+einfach warm. Ich spüre, wie die Angst nachgibt, Millimeter für Millimeter.
+Wieder Russisch, leise, fest: „Я помогу тебе… следуй за мной.“ Ich werde dir
+helfen… folge mir.
 
-Ich nicke, kriege keinen Ton mehr raus, aber meine Beine gehorchen. Ich geh zu
+Ich nicke, kriege keinen Ton mehr raus, aber meine Beine gehorchen. Ich geh' zu
 ihr, rein in ihre Wärme. Zum ersten Mal seit Stunden das Gefühl: nicht allein.
 Draußen warten Schritte, Rufe, Gefahr. Aber hier, unter ihrem Schutz, ein
 Atemzug Ruhe. Ein Herzschlag Pause.

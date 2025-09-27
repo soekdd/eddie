@@ -154,16 +154,52 @@ eine Ewigkeit, aber immerhin: Hier bei Raija habe ich nichts auszustehen. Essen,
 ein Sofa, Wärme, Freundschaft. Soll doch die Stasi ihr schräges Versteckspiel
 veranstalten.
 
-Sie mustert mich, ihre Stirn legt sich in Falten. „Bitte erzähle mir noch mehr,
-Eddie … wie bist du eigentlich auf die Idee gekommen, die Olympiade zur Flucht
-zu nutzen? Da muss man doch erst mal hinkommen.“
+„Fährst du am Montag wieder nach Joutsa?“ frage ich nach einer Weile.
+
+„Das kommt auf meinen Schichtplan an“, antwortet sie. „Meine Dienststelle ist in
+Tampere, nicht in Joutsa. Ich bin immer ein paar Tage da und ein paar Tage dort.
+Die nächsten Tage werde ich in Tampere sein. Bürodienst. Ich fürchte, es gibt
+einige Berichte zu schreiben.“
+
+„Also bist du gar nicht jeden Tag in Joutsa?“ Mir fällt erst jetzt auf, was das
+bedeutet.
+
+Raija nickt langsam, als hätte sie meinen Gedanken schon vorher gesehen. „Nein.
+Aber dann hätte dich ein anderer Kollege gerettet. Die sind alle nett.“
+
+Unwillkürlich schüttele ich den Kopf. Ich kann es mir nicht vorstellen, wie
+meine Geschichte ohne Raija ausgegangen wäre.
+
+„Wäre die IMO an einem anderen Tag gewesen,“ sage ich leise, „hätte ich dich
+vielleicht nie getroffen.“
+
+Sie lächelt flüchtig, steht auf und räumt die Einkäufe auf die Arbeitsfläche.
+„Komm, wir kochen was.“
+
+Ich springe auf, froh über etwas Handfestes. Sie reicht mir ein Messer, ich
+schneide Zwiebeln, während sie die Pfanne aufsetzt. Das Zischen, als die ersten
+Stücke im Öl aufprallen, klingt wie ein kleiner Befreiungsschlag. Der Duft
+breitet sich aus, warm und vertraut. Ich rühre, sie wirft Kräuter dazu, wir
+arbeiten Hand in Hand. Für einen Moment wirkt es fast normal – zwei junge Frauen
+in einer Küche, Lachen, Pfannenklickern, Alltäglichkeit.
+
+Dann, als wir nebeneinander am Herd stehen, wendet sie sich mir wieder zu. Ihre
+Stirn legt sich in Falten. „Bitte erzähle mir noch mehr, Eddie … wie bist du
+eigentlich auf die Idee gekommen, die Olympiade zur Flucht zu nutzen? Da muss
+man doch erst mal hinkommen.“
 
 Ich zucke die Schultern, als wär’s nichts Besonderes. „War nicht so, dass ich
-morgens aufgewacht bin und dachte: Heute flieh ich mal. Der Gedanke kam mit bei
-verschiedenen Gelegenheiten. Aber den entgültigen Entschluss fasste ich, als die
+morgens aufgewacht bin und dachte: Heute flieh ich mal. Der Gedanke kam mir bei
+verschiedenen Gelegenheiten. Aber den endgültigen Entschluss fasste ich, als die
 Eltern von meinem besten Kumpel verhaftet wurden. Wegen
 Republikfluchtvorbereitung. Die waren völlig normal, total nett. Und zack –
 alles vorbei. Er musste ins Heim, die Familie war erledigt.“
+
+Wir setzen uns an den Küchentisch, die Teller dampfen vor uns. Doch kaum dass
+wir anfangen zu essen, merke ich, dass Raija gar nicht richtig bei den Nudeln
+ist. Sie stochert mit der Gabel, aber ihr Blick hängt an mir, an jedem meiner
+Worte. Sie fragt nicht aus Höflichkeit, sie will es wirklich wissen und
+verstehen.
 
 Raija schüttelt ungläubig den Kopf. „Die Familie wurde zerstört, so einfach? Nur
 weil die Eltern das Land verlassen wollten? Hat die DDR nicht damals auch hier
@@ -196,7 +232,7 @@ Raija starrt mich an, als hätte ich den Mount Everest im Turnschuh bestiegen.
 „Eddie … unglaublich. Mit siebzehn.“
 
 Ich tue so, als wär’s nicht der Rede wert. „Na ja, andere haben ihre
-Fußballkarriere. Ich hab halt meine Fluchtkarriere.“ Ich lache, aber tief in mir
+Fußballkarriere. Ich hab halt meine Mathematik.“ Ich lache, aber tief in mir
 spüre ich, wie knapp alles war. Wenn nur ein Test schiefgegangen wäre … Ich
 schiebe den Gedanken weg, bevor er mich runterzieht.
 
@@ -225,11 +261,11 @@ unheimlich tröstlich.
 Abwaschen, denke ich und muss kurz lachen. Abwaschen wie zu Hause. Dieselbe
 blöde Pflicht, dieselbe schmierige Seife, egal ob man in Dresden wohnt oder in
 Jyväskylä: Teller schrubben, Reste wegwischen, Hände einweichen, damit sich der
-Kopf beruhigt. In dem Rhythmus — Schrubben, abspülen, abtropfen — klappen für
-einen Moment die Gedanken zusammen wie ein ordentlich zusammengefaltetes Hemd.
-Die Erinnerung an Zuhause rutscht hoch wie Dampf in der Küche: Mutter, die immer
-noch zu früh aufsteht; Vater, der die alte Kaffeemaschine repariert, als wäre es
-ein Experiment; Ich spüre plötzlich eine Wärme, die weh tut.
+Kopf beruhigt. In dem Rhythmus — Schrubben, abspülen, abtropfen — sinken für
+einen Moment alle anderen Gedanken zusammen. Die Erinnerung an Zuhause rutscht
+hoch wie Dampf in der Küche: Mutter, die immer noch zu früh aufsteht; Vater, der
+die alte Kaffeemaschine repariert, als wäre es ein Experiment; Ich spüre
+plötzlich eine Wärme, die weh tut.
 
 Beim letzten Teller bleibe ich stehen und merke: Ich hab den ganzen Tag kaum an
 sie gedacht. Nicht richtig. Es fühlt sich ekelhaft an, ein bisschen wie Verrat.
@@ -239,11 +275,22 @@ die lauten Städte. Ich schäme mich ein bisschen, dass die Sorgen in Dresden f�
 ein paar Stunden so leise geworden sind. Raija sieht mich an, ohne zu fragen,
 und legt mir die Hand auf den Arm. Keine großen Worte.
 
-Später schiebt sie mir eine Decke über die Knie. „Schlaf ein bisschen“, flüstert
-sie. Ich liege da, die Hände noch warm vom Spülwasser, und versuche, mir selbst
-zu erlauben, müde zu sein. Die Wohnung riecht nach Seife und gebratenen Zwiebeln
-und ein kleines bisschen nach Raija — nach einem Zuhause, das mir nicht gehört,
-aber gerade sehr hilfreich ist. Ich schließe die Augen und sage mir, dass morgen
-alles nochmal bedacht werden muss: Botschaft, Pässe, der Mann aus Stockholm
-vielleicht. Aber jetzt — jetzt darf ich für eine Nacht so tun, als wäre alles in
-Ordnung.
+Wir haben gegessen, sitzen jetzt nur noch nebeneinander auf dem Sofa. Lange sagt
+keiner von uns etwas. In meinem Kopf flackern die Bilder immer noch: Mielkes
+Gesicht, das Auto mit dem Diplomatenkennzeichen, die Angst, die jede Ecke
+verdunkelt. Mein Herz stolpert manchmal ohne Grund, als würde es Alarm schlagen,
+obwohl nichts geschieht.
+
+Raija merkt es. Sie schiebt mir eine Decke über die Knie. „Vielleicht gehst du
+heute einfach mal früher ins Bett“, sagt sie leise.
+
+Ich liege schon halb eingekuschelt da, die Hände noch warm vom Spülwasser, die
+Müdigkeit schwer in meinen Gliedern. Die Wohnung riecht nach Seife und
+gebratenen Zwiebeln und ein kleines bisschen nach Raija — nach einem Zuhause,
+das mir nicht gehört, aber gerade wie eine rettende kleine Insel für mich ist.
+Ich schließe die Augen und sage mir, dass morgen alles nochmal bedacht werden
+muss: Botschaft, Pässe, die Fahrt nach Helsinki vielleicht. Aber jetzt — jetzt
+darf ich für eine Nacht so tun, als wäre alles in Ordnung.
+
+Und so bleibt es: Ich schlafe dort auf dem Sofa ein, unter der Decke, erschöpft,
+aber für den Moment in Sicherheit.

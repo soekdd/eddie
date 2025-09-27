@@ -63,12 +63,20 @@ Ich will zurückweichen, doch er beugt sich vor, stützt sich neben mir auf und
 sein Gesicht kommt meinem viel zu nah. „Du brauchst jemanden … der dich führt.“
 Seine Hand greift nach meinem Arm, streift meine Haut, als gehöre sie ihm.
 
-Dann beugt er sich noch weiter herunter, der Geruch nach Schnaps schlägt mir ins
+Dann packt er fester zu, zieht mich zu sich heran, so dass ich sein
+verschwitztes Hemd rieche. Ich zappele, trete ihm mit dem Fuß gegen das
+Schienbein. Er flucht, versucht mich mit einer plumpen Bewegung an den Schultern
+festzuhalten. Für einen Moment ringen wir miteinander, sein Griff ist stark,
+aber fahrig, von Alkohol geschwächt. Ich reiße mich los, stoße ihn hart vor die
+Brust.
+
+„Lass mich in Ruhe!“ schreie ich, doch er kommt wieder auf mich zu, taumelnd,
+und beugt sich noch weiter herunter. Der Geruch nach Schnaps schlägt mir ins
 Gesicht, als er versucht, mich zu küssen.
 
-Mir schießt das Blut in den Kopf. Ich stoße ihn weg und schreie: „Du bist
-widerlich, Jorma! Du schwärmst von der DDR, während du im freien Westen lebst.
-Du redest von Idealen, aber du bist nur feige. Du lässt dich von Raija
+Mir schießt das Blut in den Kopf. Ich stoße ihn ein zweites Mal weg und schreie:
+„Du bist widerlich, Jorma! Du schwärmst von der DDR, während du im freien Westen
+lebst. Du redest von Idealen, aber du bist nur feige. Du lässt dich von Raija
 aushalten, obwohl du sie nicht respektierst. Und dann machst du dich an Mädchen
 ran, die viel zu jung für dich sind. Hast du überhaupt noch einen Funken Würde?“
 
@@ -79,8 +87,9 @@ die Knie an den Körper und beginnt hemmungslos zu heulen.
 
 Ich taste über meine Wange, die heiß pulsiert. Dann gehe ich wortlos in mein
 Zimmer, packe meine Sachen. Mein Vater hat mir eingebläut: Lass dein Gepäck nie
-zurück, selbst wenn du denkst, du holst es später. Immer mitnehmen. Also stopfe
-ich alles in meine kleine, viel zu vollgestopfte Reisetasche. Mein Herz hämmert.
+zurück, selbst wenn du denkst, du holst es später. Immer mitnehmen. Also packe
+ich alles in meine kleine, viel zu vollgestopfte Reisetasche. Die Aufregung
+nimmt mir fast den Atem.
 
 Am Fenster halte ich inne, ziehe den Vorhang nur einen Spalt auf. Früher Morgen,
 graues Licht, die Straße wirkt leer. Kein Lada, keine Männer im Anzug. Für einen
@@ -98,22 +107,23 @@ heran, fast lautlos, wie ein Tier auf der Jagd.
 
 Ich ducke mich hastig hinter eine Hecke, die viel zu spärlich ist, um mich
 wirklich zu verstecken. Aber es reicht: Zwei Männer steigen aus, der Dritte
-bleibt am Steuer. Sie marschieren zielstrebig auf Raijas Wohnblock zu und
-klingeln.
+bleibt am Steuer. Zielstrebig gehen sie auf Raijas Wohnblock zu – und dann
+passiert das, womit ich nicht gerechnet habe. Jorma öffnet ihnen tatsächlich die
+Tür.
 
-Mein Herz hämmert. Wie konnten die so schnell hier sein? Selbst wenn Jorma
-sofort angerufen hätte, nachdem ich hinausgestürmt bin — das geht gar nicht. Sie
-waren schon unterwegs, lange bevor er mir die Ohrfeige verpasst hat. Er muss sie
-Stunden vorher gerufen haben. Aber wieso kam er dann später noch betrunken nach
-Hause, nur um mit mir Streit anzufangen? Das ergibt keinen Sinn.
+Mein Herz hämmert. Er lässt sie einfach rein. Kein Zögern, kein Widerstand. Als
+hätte er nur auf diesen Moment gewartet. Ich spüre, wie mir der Magen umkippt.
+Raija kämpft um meine Sicherheit – und er spielt Türsteher für die Stasi.
 
-Ich kauere tiefer ins Grün, sehe die beiden nach einer Weile wieder
-herauskommen. Ihre Gesichter sind finster. Tja, Eddie ist schon fort! Das war
-aber mal wieder knapp. Sie verschwinden zurück in den Wagen, rollen davon.
+Ich kauere tiefer ins Grün. Minuten später sehe ich die Männer wieder
+herauskommen. Ihre Gesichter sind finster, als hätten sie nicht gefunden, wonach
+sie suchten. Natürlich nicht – ich bin schon weg. „Nehmt das ihr Luschen!“ Sie
+steigen zurück in den Wagen, der Motor heult auf, und der graublaue Lada rollt
+langsam davon.
 
-Ich beiße mir auf die Lippe. Jorma weiß nicht, wohin ich will. Gut so. Ich
-selbst weiß es ja kaum. Zu Raija? Sie hat heute Dienst in Tampere. „Halte dich
-an gute Menschen“, höre ich Vaters Stimme. Tampere liegt südwestlich. Keine
+Ich beiße mir auf die Lippe. Jorma weiß nicht, wohin ich will. Gut so. Ich weiß
+es ja selbst kaum. Zu Raija? Sie hat heute Dienst in Tampere. „Halte dich an
+gute Menschen“, höre ich Vaters Stimme. Tampere liegt südwestlich. Keine
 Strategie, aber immerhin eine Richtung.
 
 Ich warte, bis der Lada endgültig außer Sicht ist, schleiche mich zum Bahnhof.

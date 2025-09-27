@@ -73,7 +73,7 @@ kommt ungefähr alle 30 Minuten (also einmal pro Richtung), steht vielleicht fü
 Minuten. Trefferchance = 1 – (55/60)² ≈ 0,16. Also 16 Prozent Chance, dass ich
 zufällig genau dann auftauche, wenn ein Bus dasteht. Das ist der Bonus auf den
 Reststapel Katastrophen: etwa 80 Prozent Chance, dass der Fahrer meine paar
-D-Mark schluckt. Und noch mal 80 Prozent, dass Mielke am nächsten Halt
+D-Mark schluckt. Und noch mal 80 Prozent, dass Mielke nicht am nächsten Halt
 einsteigt, mich packt und „zurück nach Hause“ bellt. Kombiniert bleiben knapp
 unter zehn Prozent Siegquote übrig. Zehn! Für ein Leben.
 

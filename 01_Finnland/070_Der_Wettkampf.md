@@ -79,7 +79,7 @@ schräg, nickt dann.
 
 Tür zu. Bäm. Ich stehe im langen, hellen Flur. Leer, zum Glück. Endlich raus aus
 der stickigen Hölle. Meine Schuhe quietschen viel zu laut auf dem Linoleum. Ich
-gehe schneller, als hätte ich wirklich dringend… na ja.
+gehe schneller, als müsste ich wirklich dringend… na ja.
 
 Die Tür mit dem Mädchenschild kommt. Ich streife sie nur mit’m Blick – und gehe
 weiter. Noch zwei Türen. Da: Jungen.

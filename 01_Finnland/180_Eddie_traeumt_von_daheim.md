@@ -43,8 +43,8 @@
 }
 ```
 
-Ich erwache mit einem Schreck in den Gliedern. Wo bin ich? Ich kenne das fremden
-Bett, die Decke riecht nach Raija, ein bisschen nach fremdem Waschpulver. Alles
+Ich erwache mit einem Schreck in den Gliedern. Wo bin ich? Ich erkenne Raijas
+Sofa, ihre warme Decke. Alles
 ist still, nur draußen ruft ein Nachtvogel. Mein Kopf hämmert, als würde jemand
 von innen mit Fäusten gegen die Schädelwand schlagen.
 

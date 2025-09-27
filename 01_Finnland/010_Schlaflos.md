@@ -93,15 +93,15 @@ Betrag kennen.
 
 „Und was willst du mit dreißig Markka?“
 
-„Ein Kleidchen kaufen. So'n finnisches, wie die Mädchen hier tragen. Und
-vielleicht Eis oder Cola für die anderen.“ Ich hör' mich fast flehen: „Kann ich
-morgen in die Stadt? Bitte!“
+„Ein Kleid kaufen. So'n finnisches, wie die Mädchen hier tragen. Und vielleicht
+Eis oder Cola für die anderen.“ Ich hör' mich fast flehen: „Kann ich morgen in
+die Stadt? Bitte!“
 
 Er schnaubte. „Nach dem Wettkampf? Ins Einkaufszentrum?“
 
 „Ja.“
 
-„Hm.“ Sein Gesicht blieb Beton. „Das überlege ich mir noch – versprochen ist
+„Hm.“ Sein Gesicht blieb wie Beton. „Das überlege ich mir noch – versprochen ist
 erst mal nichts. Mir wäre lieber, du hättest die Mathematik im Kopf, um uns
 morgen einen ersten Platz zu erkämpfen. Statt Kerlen und Kleidchen.“
 

@@ -4,7 +4,7 @@
 {
   "date": "1985-07-07",
   "day": "Sunday",
-  "daytime": "day",
+  "daytime": "morning",
   "place": "Jyväskylä",
   "persons": [
     "Eddie",
