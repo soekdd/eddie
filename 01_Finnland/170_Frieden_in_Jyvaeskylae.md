@@ -104,7 +104,7 @@ Verstanden?“
 Ich nicke heftig, der Kloß in meiner Kehle wird dicker. „Und wenn sie
 herkommen?“
 
-„Ins Haus hinein werden sie sich nicht waagen“ Ihr Blick ist fest, doch ihre
+„Ins Haus hinein werden sie sich nicht wagen“ Ihr Blick ist fest, doch ihre
 Augen verraten dieselbe Angst, die in mir tobt.
 
 Für einen Moment ist alles still, nur das Ticken der Küchenuhr. Mein Herz
@@ -117,7 +117,7 @@ einfach vertreiben.“
 
 Mir wird schwindelig. „Also … sind wir ihnen ausgeliefert?“
 
-Sie schüttelt den Kopf, aber überzeugt klingt es nicht. „Die Polizei darf auch
+Sie schüttelt den Kopf, aber überzeugt wirkt es nicht. „Die Polizei darf auch
 gar nicht wissen, dass du hier bist. Offiziell bist du … nirgends. Das Einzige,
 was wir tun können, ist warten. Ein Geduldsspiel. Irgendwann geben sie die
 ständige Überwachung auf.“
@@ -181,7 +181,7 @@ schneide Zwiebeln, während sie die Pfanne aufsetzt. Das Zischen, als die ersten
 Stücke im Öl aufprallen, klingt wie ein kleiner Befreiungsschlag. Der Duft
 breitet sich aus, warm und vertraut. Ich rühre, sie wirft Kräuter dazu, wir
 arbeiten Hand in Hand. Für einen Moment wirkt es fast normal – zwei junge Frauen
-in einer Küche, Lachen, Pfannenklickern, Alltäglichkeit.
+in einer Küche, Lachen, Pfannenbruzeln, Alltäglichkeit.
 
 Dann, als wir nebeneinander am Herd stehen, wendet sie sich mir wieder zu. Ihre
 Stirn legt sich in Falten. „Bitte erzähle mir noch mehr, Eddie … wie bist du
@@ -261,13 +261,13 @@ unheimlich tröstlich.
 Abwaschen, denke ich und muss kurz lachen. Abwaschen wie zu Hause. Dieselbe
 blöde Pflicht, dieselbe schmierige Seife, egal ob man in Dresden wohnt oder in
 Jyväskylä: Teller schrubben, Reste wegwischen, Hände einweichen, damit sich der
-Kopf beruhigt. In dem Rhythmus — Schrubben, abspülen, abtropfen — sinken für
+Kopf beruhigt. In dem Rhythmus — schrubben, abspülen, abtropfen — sinken für
 einen Moment alle anderen Gedanken zusammen. Die Erinnerung an Zuhause rutscht
 hoch wie Dampf in der Küche: Mutter, die immer noch zu früh aufsteht; Vater, der
 die alte Kaffeemaschine repariert, als wäre es ein Experiment; Ich spüre
 plötzlich eine Wärme, die weh tut.
 
-Beim letzten Teller bleibe ich stehen und merke: Ich hab den ganzen Tag kaum an
+Beim letzten Teller bleibe ich stehen und merke: Ich habe den ganzen Tag kaum an
 sie gedacht. Nicht richtig. Es fühlt sich ekelhaft an, ein bisschen wie Verrat.
 Nicht, weil ich jetzt hier bin — das wusste ich ja — sondern weil der Rausch des
 Tages mich hat fressen lassen: die Angst, das Adrenalin, die fremden Gesichter,

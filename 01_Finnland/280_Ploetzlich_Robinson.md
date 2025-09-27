@@ -110,25 +110,31 @@ Ich stapfe also weiter und stolpere plötzlich in eine kleine Wandertruppe hinei
 – drei ältere Männer mit wettergegerbten Gesichtern und Angelruten über den
 Schultern. Freundlich, neugierig, ein bisschen schelmisch. Sie mustern mich, und
 ich sehe in ihren Blicken dieses leise „Wie kann die nur?“ – so jung, so allein,
-so jämmerlich ausgestattet. Aber statt mich zu verscheuchen, laden sie mich zum
-Picknick ein. Sie haben Fische gefangen, braten sie am Feuer, und ich kann gar
-nicht sagen, wie köstlich das schmeckt nach Tagen von Reis und Pilzen. Natürlich
-fragen sie, woher ich komme. Mein Herz schlägt mir bis in den Hals. Oh Gott. Ich
-brauche dringend eine Legende. Wenn sie nachher herumtratschen, sie hätten eine
-junge Ostdeutsche getroffen, dann weiß es am Ende Mielke. Das darf nicht
-passieren. Ich darf nicht auffliegen. Also druckse ich und sage schließlich:
-„Wuppertal.“ Der Name schießt mir nur deshalb in den Kopf, weil ich einmal
-gelesen habe, dass der Ingenieur, der die Wuppertaler Schwebebahn erfand, auch
-die kleine Schwebebahn in Dresden gebaut hat. Ein Anker, mehr nicht. Sie hören
-mir zu, nicken, aber ich sehe den Zweifel in ihren Gesichtern. Westdeutsche, das
-wissen selbst sie hier, sind bestens ausgerüstet mit dicken Rucksäcken und
-Funktionsjacken – und nicht so erbärmlich mit einer Reisetasche und Stoffbeuteln
-unterwegs wie ich. Sie necken mich, machen Späße über meine
-„Gepäckkonstruktion“, doch es ist kein Spott, eher freundliches Kopfschütteln.
+so jämmerlich ausgestattet.
+
+Aber statt mich zu verscheuchen, laden sie mich zum Picknick ein. Sie haben
+Fische gefangen, braten sie am Feuer, und ich kann gar nicht sagen, wie köstlich
+das schmeckt nach Tagen von Reis und Pilzen. Natürlich fragen sie, woher ich
+komme. Mein Herz schlägt mir bis in den Hals. Oh Gott. Ich brauche dringend eine
+Legende. Wenn sie nachher herumtratschen, sie hätten eine junge Ostdeutsche
+getroffen, dann weiß es am Ende Mielke. Das darf nicht passieren. Ich darf nicht
+auffliegen. Also druckse ich und sage schließlich:
+
+„Wuppertal.“
+
+Der Name schießt mir nur deshalb in den Kopf, weil ich einmal gelesen habe, dass
+der Ingenieur, der die Wuppertaler Schwebebahn erfand, auch die Schwebebahn in
+Dresden gebaut hat. Ein Anker, mehr nicht. Sie hören mir zu, nicken, aber ich
+sehe den Zweifel in ihren Gesichtern. Westdeutsche, das wissen selbst sie hier,
+sind bestens ausgerüstet mit dicken Rucksäcken und Funktionsjacken – und nicht
+so erbärmlich mit einer Tasche und Stoffbeuteln unterwegs wie ich. Sie necken
+mich, machen Späße über meine „Gepäckkonstruktion“, doch es ist kein Spott, eher
+freundliches Kopfschütteln.
+
 Beim Abschied dann: ein kurzes stummes Sechs-Augengespräch zwischen ihnen, ein
-Nicken – und einer drückt mir einen Rucksack in die Hand – angeblich leer. Erst
-am Keihäänmaan laavu, einem kleinen Shelter zwischen Felsen, merke ich, dass er
-nicht ganz leer ist: Zwei Tafeln Schokolade liegen darin. Ich reiße eine sofort
-auf, genieße sie mit einer Gier, die fast wehtut. Schokolade! Der süße Geschmack
-macht mich benommen. Ich schaue an mir herunter. Nach fünf Tagen Wildnis ist da
-ein Loch, wo mal ein Bauch war.
+Nicken – und einer drückt mir einen großen alten Rucksack in die Hand –
+angeblich leer. Erst am Keihäänmaan laavu, einem kleinen Shelter zwischen
+Felsen, merke ich, dass er nicht ganz leer ist: Zwei Tafeln Schokolade liegen
+darin. Ich reiße eine sofort auf, genieße sie mit einer Gier, die fast wehtut.
+Schokolade! Der süße Geschmack macht mich benommen. Ich schaue an mir herunter.
+Nach fünf Tagen Wildnis ist da ein Loch, wo mal ein Bauch war.

@@ -62,13 +62,13 @@ er erst wieder Worte finden.
 
 Er spricht in einem Ton, der nichts Dramatisches haben will, aber alles enthält.
 „Meine Eltern“, beginnt er, „haben einen Ausreiseantrag gestellt, weil sie
-einfach nicht länger mitmachen wollten. Mein Vater war Ingenieur in einer
-kleinen Fabrik, meine Mutter Lehrerin. Nach dem Antrag wurden sie von ihren
+einfach nicht länger mitmachen wollten. Mein Vater war Schiffbauer in einer
+kleinen Werft, meine Mutter Lehrerin. Nach dem Antrag wurden sie von ihren
 Vorgesetzten zur Rede gestellt. Mein Vater wurde versetzt, musste plötzlich
 irgendwo außerhalb von Rostock ein Lager verwalten. Meine Mutter durfte gar
 nicht mehr arbeiten. Von einem Tag auf den anderen war sie ‚überflüssig‘.“
 
-Er macht eine kurze Pause. „Die Freunde haben sie gemieden. Auf der Straße sind
+Er macht eine kurze Pause. „Die Freunde haben sie gemieden. Auf der Straße haben
 viele einfach auf die andere Seite gewechselt. Und das Haus … ja, das mussten
 wir verkaufen. Da gab es keine Wahl. Weit unter Wert, versteht sich. Die Käufer?
 Immer dieselben: Parteifunktionäre, die solche Schnäppchen abgreifen konnten.“

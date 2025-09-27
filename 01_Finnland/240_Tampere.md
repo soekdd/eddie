@@ -63,10 +63,10 @@ Entschluss, die Stadt zu verlassen, war richtig.
 Tampere ist ein Riese. Kaum stolpere ich aus dem Backsteinklotz vom Bahnhof,
 knallt mir Tampere ins Gesicht: fette Bürgerhäuser, alle großmäulig und bunt,
 nix graues Plattenzeug wie daheim. Autos hupen, Leute rennen mit Koffern, und
-ich steh da mit meinem lächerlichen Rucksack, seh aus wie vom Dorf. In Dresden
+ich steh da mit meiner lächerlichen Tasche, seh aus wie vom Dorf. In Dresden
 sind die Straßen leerer, das Grau zieht sich bis in die Knochen – hier dagegen
 wirkt alles lebendig, laut, fast frech. Als hätte die Stadt selber Bock, mir
-zuzurufen: „Na, Mädchen, willkommen im Westen des Ostens!“
+zuzurufen: „Na, Mädchen, willkommen im Osten des Westen!“
 
 Zwischen den Straßenbahnen, Bussen, Autos und Menschenmassen fühle ich mich wie
 eine Ameise. Überall Werbung, Stimmen, Hektik. Ich finde nach einigem Herumirren
@@ -90,42 +90,65 @@ ein alter Mann mit schiefem Hut, macht eine Handbewegung zum Mund. Essen? Ich
 starre ihn an. Hä? Ach so! Essbare Pflanzen! Ich schlage irgendeine Seite auf,
 tippe aufs Bild, mache Kaubewegungen. Er nickt eifrig.
 
+Ich halte das Buch hoch. „Syötävät Villikasvit Suomessa“, steht vorne drauf.
+Heißt bestimmt irgendwas mit Pflanzen, denke ich. Mein Vater hat mir
+beigebracht, welche Pilze essbar und welche tödlich sind. Ich blättere und prüfe
+stichprobenartig. Ja, das könnte echt ein Essensführer sein. Und jetzt ist Juli,
+die Wälder müssen voll davon sein. Ich spüre, wie in meinem Kopf plötzlich ein
+Schalter umlegt: Untertauchen? Einfach im Wald verschwinden, bis Mielke mich
+vergessen hat?
+
+Doch nur in den finnischen Wäldern leben, irgendwo in der Nähe von Tampere oder
+Jyväskylä, wäre das wirklich eine Lösung? Oder ist es besser, den Wald als
+Durchgang zu nutzen – und sich dabei gleich auf den Weg zu machen? Nur wohin
+wohl?
+
 Bisher hatte ich immer nur Helsinki im Kopf. Westdeutsche Botschaft, BRD-Pass,
 Freiheit. Raija hatte sogar schon grob geplant, wie sie mich dorthin bringen
 könnte. Aber hier auf dem Marktplatz von Tampere, mitten im Gewimmel, spüre ich
 plötzlich, wie schwer das alles auf ihr lastet. Sie riskiert ihren Job,
-vielleicht mehr, nur weil ich hier sitze. Ich will sie da nicht noch tiefer
-hineinziehen.
+vielleicht mehr. Ich will sie da nicht noch tiefer mit hineinziehen. Und
+außerdem: Helsinki bedeutet offizielle Wege, viele Augen, viele Möglichkeiten,
+entdeckt zu werden.
 
 Ich suche einen Straßenatlas auf dem Büchertisch. Mein Blick bleibt an Stockholm
 hängen. Ein Wort, das nach Ferne klingt. Nach Westen. Nach der Welt hinter der
-Grenze. Eine Fähre fährt von Vaasa nach Schweden. Ich folge mit dem Finger den
-Straßen: Von hier aus 300 Kilometer Autobahn, vielleicht 350 bis 400 Kilometer
-zu Fuß. Jeden Tag 20 Kilometer: drei Wochen. Drei Wochen, in denen ich
-unsichtbar bin. Kein Ticket, keine Papiere, keine Botschaft. Nur ich. Machbar?
-Vielleicht.
+Grenze. Stockholm hat doch auch eine westdeutsche Botschaft. Warum nicht
+dorthin? Es ist weit weg, ja, aber vielleicht gerade deshalb sicherer. Sicher zu
+weit selbst für Mielke. Und der Weg dorthin? Eine Fähre fährt von Vaasa nach
+Schweden. Ich folge mit dem Finger den Straßen: Von hier aus 300 Kilometer
+Autobahn bis Vaasa, vielleicht 350 bis 400 Kilometer zu Fuß. Jeden Tag 20
+Kilometer: drei Wochen. Drei Wochen, in denen ich unsichtbar sein könnte. Kein
+Ticket, keine Papiere, keine Botschaft. Nur ich. Vollkommen unabhängig. Machbar?
+Vielleicht sogar besser als Helsinki.
 
 Der Alte drückt mir noch ein zweites Buch in die Hand: Laavujen Opas:
 Pohjois-Länsi-Suomi. „Opas?“ Ich kichere. Was für Opas? Beim Aufschlagen wird’s
 klar: Laavus sind Schutzhütten. Kleine Holzhäuschen im Wald, seitenweise
 Koordinaten. Ich teste sofort und suche eine Hütte bei Tampere, gleiche die
-Koordinaten mit einer Karte ab – und tatsächlich: ein kleiner See mit Häuschen
-eingezeichnet. Finnland ist übersät damit! Manche nur Picknickdächer, andere
-winzig für zwei Schlafsäcke, wieder andere groß genug für fünf Leute.
+Koordinaten mit einer Karte ab – und tatsächlich: da ist ein kleiner See mit
+Häuschen eingezeichnet. Finnland ist übersät damit! Manche nur Picknickdächer,
+andere winzig für zwei Schlafsäcke, wieder andere groß genug für fünf Leute.
 
 Mein Kopf summt. Das ist es! Von Tampere nach Vaasa, durch Wälder, Hütten als
-Stationen. Keine Hotels, keine Tickets. Mein eigenes System.
+Stationen. Keine Hotels, keine Tickets. Mein eigenes System. Und am Ende nicht
+Helsinki, sondern Stockholm. Nicht der erwartete Weg, sondern meiner.
+
+Und in diesem Moment weiß ich: Genau das mache ich. Kein Zögern mehr, kein
+„vielleicht“. Ich entscheide mich. Die große Wanderung wird mein Weg sein, der
+mich Schritt für Schritt - und ohne sinnloses Risiko - an mein Ziel führen wird.
 
 Ich hetze von Stand zu Stand: alte Armeeausrüstung, Schlafsäcke, Karten. Ich
-rechne im Kopf wie bei der Olympiade: 280 Markka habe ich noch. Schlafsack und
-Isomatte: 120. Regenjacke: 50. Bücher und Karten: ein paar Markka. Noch 50 für
-Lebensmittel. Dann bleiben mir 60 für die Fähre. Perfekt.
+rechne im Kopf wie bei der Olympiade: 380 Markka habe ich noch. Schlafsack und
+Isomatte: 140. Regenjacke: 90. Bücher und Karten: ein paar Markka. Noch 50 für
+Lebensmittel. Dann bleiben mir noch knapp 100 für die Fähre und Zug nach
+Stockholm. Perfekt.
 
 Handeln ist knifflig. Manche reden Brocken Englisch, andere nur mit Händen.
 Einer fängt auf Russisch an – fast ein Schock. Diese Sprache verfolgt mich! Aber
 immerhin: Ich drücke die Preise immer etwas runter.
 
-Am Ende habe ich 190 Markka ausgegeben. Und ich halte meine Beute wie einen
+Am Ende habe ich 230 Markka ausgegeben. Und ich halte meine Beute wie einen
 Pokal.
 
 Beim Lebensmittelhändler geht’s an die Kalorien. 50 Kilo Gewicht, 20 Kilometer
@@ -135,9 +158,9 @@ Den Rest finde oder kaufe ich unterwegs. Pflanzen aus dem Buch sind nur Beilage.
 Gesund, lecker – aber kein Benzin.
 
 Ich muss lachen. Diophantos, der alte Grieche mit seinen Bauern und Kühen, würde
-staunen: Meine Gleichung heißt Überleben. Bauer Eddie hat nun zwei Kühe namens
-Reis und zwei Schweine namens Nudeln. Aber Bauer Eddie hat nicht sein ganzes
-Geld ausgegeben.
+staunen: Meine Gleichung heißt Überleben. Bauer Eddie hat nun zwei Pfund Reis
+und zwei Pfund Nudeln statt Kühen und Schweinen. Aber Bauer Eddie hat auch nicht
+sein ganzes Geld ausgegeben.
 
 > **➡ Die diophantische Gleichung #2…**\
 > (Hätte ich all mein Geld exakt für Reis und Nudeln auszugeben, sähe die Rechnung wie im Kapitel 4 von „Eddie rechnet“ aus.)
@@ -148,15 +171,15 @@ Blechgeschirr, eine Regenjacke, ein Schweizer Taschenmesser mit kleiner Säge
 (noch nie gesehen, mega praktisch), zwei kleine Feuerzeuge, Mückenspray
 (überlebensnotwendig). Dazu die zwei Bücher, fünfzehn (!!) Wanderkarten im
 Maßstab 1:25.000 und ein Geschenk vom Buchhändler: ein winziges
-Finnisch–Englisch-Wörterbuch. Nicht übel für 220 Markka.
+Finnisch–Englisch-Wörterbuch. Nicht übel für 255 Markka.
 
 Die Sonne brennt, ich ziehe Linien mit dem Finger über die Karte. Erste Etappe,
 zweite Woche, dritte Woche. Ich male mir alles aus. 400 Kilometer nach Vaasa.
-Verrückt. Aber ich bin jung, ich bin stark. Und vor allem: ich habe keine andere
+Verrückt. Aber ich bin Wäng, ich bin stark. Und vor allem: ich habe keine andere
 Wahl.
 
-Und dann kommt sie, die Euphorie. Kein Warten mehr, kein Bitten. Ich laufe. Ich
-laufe nach Vaasa. Es ist mein Plan. Meiner!
+Und dann kommt sie, die Euphorie. Kein Warten mehr, kein Bitten.Von niemadem
+mehr abhängig sein. Ich laufe. Ich laufe nach Vaasa. Es ist mein Plan. Meiner!
 
 Ich schultere die Beutel, binde die Regenjacke um und gehe los. Erste Etappe:
 eine Schutzhütte westlich von Tampere. Jeder Schritt fühlt sich nach Freiheit

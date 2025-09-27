@@ -109,7 +109,7 @@ Ostdeutsche sind? Nein, das wäre fast unmöglich, oder? Aber ich traue mich nic
 so recht, nähere mich ihnen vorsichtig und halte einigen Abstand, bis ich die
 Schutzhütte sehe.
 
-Mein Magen zieht sich zusammen. Elämyskota. Genau diese Hütte hatte ich mir für
+Mein Magen zieht sich zusammen. Elämyskota, genau diese Hütte hatte ich mir für
 die Nacht ausgesucht. Ich wusste, eigentlich müsste man sie buchen – aber ich
 hatte gehofft, niemanden anzutreffen und wenigstens auf der Terrasse
 unterzukommen. Nun aber breiten sich dort die vier aus, packen ihre Sachen,
@@ -168,16 +168,16 @@ kumpelhaft auf die Schulter. „Na, willkommen im Club der Verrückten!“
 Alle lachen, ich auch, obwohl mir der Mund trocken ist.
 
 Bald erfahre ich, dass Matti, der in Paderborn bei der Freiwilligen Feuerwehr
-ist, diese Elämyskota für die Gruppe organisiert hat. Und weil für die kommenden
-Tage Regen angesagt ist, laden sie mich ein, in ihrer gebuchten Hütte mit
+ist, diese Hütte für die Gruppe organisiert hat. Und weil für die kommenden Tage
+Regen angesagt ist, laden sie mich ein, in ihrer gebuchten Hütte mit
 unterzukommen. Mein Herz macht einen Sprung. Nicht nur ein Dach über dem Kopf –
 eine richtige Hütte, mit Wärme, Platz und Gesellschaft.
 
 Die Mädels scheinen die Anführerinnen zu sein. Sie erklären mir gleich, wie sie
 die Route organisiert haben, die Hütten im Auge behalten und dass irgendwo am
 Ende der Tour ein alter VW auf sie wartet. „Wir haben alles durchgerechnet,
-alles geplant – na ja, fast alles. Aber hey, das Abenteuer lebt von den
-Überraschungen, oder?“
+alles geplant – na ja, fast alles, sicherlich nicht den Regen der heute Nacht
+kommen soll. Aber hey, das Abenteuer lebt von den Überraschungen, oder?“
 
 „Und von Sabines Rechenkünsten“, wirft Conny ein, „sonst hätten wir nicht mal
 genug Geld für die Nudeln heute Abend.“
@@ -205,12 +205,12 @@ Du bist doch aus dem Osten.“
 
 Mir rutscht das Herz in die Hose. Vier Augenpaare, die mich ernst, fast ein
 bisschen herausfordernd anschauen. Ich könnte widersprechen, könnte trotzig
-bleiben – aber ich weiß, sie haben recht. Ich gebe auf.
+bleiben – aber ich weiß, sie haben mich längst durchschaut. Ich gebe auf.
 
 Und dann erzähle ich. Von der Olympiade in Joutsa. Vom Umstyling mit Schuhcreme.
-Von Tampere und dem Markt. Vom Vaasaloppet, den ich allein laufe, ohne Zelt,
-ohne Karte, nur mit ein paar Mark in der Tasche. Ich erzähle von meinem Vater,
-dem Ingenieur, der mir alles beigebracht hat, und wie ich alles auf eine Karte
+Von Tampere und dem Markt. Vom Vaasaloppet, den ich allein laufe, ohne Zelt, nur
+mit ein paar Markka in der Tasche. Ich erzähle von meinem Vater, dem Ingenieur,
+der mir alles beigebracht hat, meiner Mutter und wie ich alles auf eine Karte
 gesetzt habe: die Flucht.
 
 „Aber bitte“, sage ich am Ende, fast flehend, „erzählt das niemandem. Nicht für

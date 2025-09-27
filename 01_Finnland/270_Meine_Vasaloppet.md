@@ -56,7 +56,7 @@ anspruchsvoll. Mein Vater war wenig begeistert von der Idee, trainierte aber
 heimlich für dieses Ereignis. Wobei es da nicht um die Zeit oder die Platzierung
 ging – es war überhaupt kein offizielles Rennen – sondern es ging allein um den
 Umstand, sie überhaupt zu Ende zu bringen. Am Ende schaffte mein Vater die Tour,
-trotz mehrerer schwerer Stürze und des Materialversagens seiner Ausrüstung.
+trotz mehrerer schwerer Stürze und Materialversagens seiner Ausrüstung.
 Danach war er eine Woche krank, so sehr hatte er sich verausgabt, und seine Füße
 sahen aus wie eine einzige dicke Blase. Als sein Freund kurz danach wieder mal
 bei uns zu Besuch war, feierten sie ihre Tour feucht-fröhlich. Ich kann mich
