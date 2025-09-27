@@ -1,0 +1,74 @@
+--- old
++++ new
+@@ -18,1 +18,4 @@
+-  "persons": ["Eddie", "Sini"],
++  "persons": [
++    "Eddie",
++    "Sini"
++  ],
+@@ -20,0 +23,1 @@
++  "synopsis": "Sini pflegt die fiebernde Eddie durch den ersten Vaasa-Tag, lässt sie zur Ruhe kommen und zwingt sie zur Geduld – vom Frühstück in der Wohnung bis zum gemeinsamen Abend an der Hafenbank, wo sie Geschichten und Vertrauen teilen.",
+@@ -24,1 +28,6 @@
+-      "rooms": ["kleines Wohnzimmer (Sofa)", "kleines Schlafzimmer", "Bad mit Dusche", "kleine Küche"]
++      "rooms": [
++        "kleines Wohnzimmer (Sofa)",
++        "kleines Schlafzimmer",
++        "Bad mit Dusche",
++        "kleine Küche"
++      ]
+@@ -42,1 +51,8 @@
+-      "props": ["frische Brötchen", "Kaffee", "Butter/Käse/Marmelade", "Dusche", "Waschleine", "Verbände"],
++      "props": [
++        "frische Brötchen",
++        "Kaffee",
++        "Butter/Käse/Marmelade",
++        "Dusche",
++        "Waschleine",
++        "Verbände"
++      ],
+@@ -52,1 +68,6 @@
+-      "mood": ["gehalten", "erschöpft", "trotzig", "gelöst"],
++      "mood": [
++        "gehalten",
++        "erschöpft",
++        "trotzig",
++        "gelöst"
++      ],
+@@ -60,1 +81,1 @@
+-      "summary": "Rast auf einer Bank am kleinen Stadthafen – ein Ort, zu dem sie zurückkehren werden. Eddie erzählt vom Weg: Edmila, Joutsa, Raija, Marsch nach Vaasa. Sini ist beeindruckt und widerspricht Eddies Selbstabwertung („Kette schlechter Entscheidungen“). Gespräch über Herkunft: Sini ist halb Sámi (väterlicherseits); Eddie weiß peinlich wenig, Sini nimmt es mit Humor und bietet ‚Erste Lektionen‘ an. Eddie erkennt Sini als freien Geist, Feministin und die Freundin, die sie sich immer gewünscht hat.",
++      "summary": "Rast auf einer Bank am kleinen Stadthafen – ein Ort, zu dem sie zurückkehren werden. Eddie erzählt vom Weg: Edmilla, Joutsa, Raija, Marsch nach Vaasa. Sini ist beeindruckt und widerspricht Eddies Selbstabwertung („Kette schlechter Entscheidungen“). Gespräch über Herkunft: Sini ist halb Sámi (väterlicherseits); Eddie weiß peinlich wenig, Sini nimmt es mit Humor und bietet ‚Erste Lektionen‘ an. Eddie erkennt Sini als freien Geist, Feministin und die Freundin, die sie sich immer gewünscht hat.",
+@@ -68,1 +89,6 @@
+-      "mood": ["intim", "bestärkend", "humorvoll", "hoffnungsvoll"],
++      "mood": [
++        "intim",
++        "bestärkend",
++        "humorvoll",
++        "hoffnungsvoll"
++      ],
+@@ -77,1 +103,25 @@
+-  "updated": "2025-09-19"
++  "updated": "2025-09-19",
++  "proofreading": {
++    "Kapitel": "420_Keine_Eile",
++    "Ton": {
++      "Einschaetzung": "Ruhig, entschleunigt, Eddie nimmt Tempo raus und wirkt fast gelassen.",
++      "Kritik": "Ton wirkt stellenweise zu abgeklärt. Für eine Jugendliche in ihrer Lage klingt es fast zu weise."
++    },
++    "Logik": {
++      "Einschaetzung": "Die Szene funktioniert als Atempause und Kontrast zu bedrückenden Kapiteln.",
++      "Kritik": "Eddies Gelassenheit wirkt nicht durchweg glaubwürdig – Gefahr, dass die Spannung der Gesamterzählung absackt."
++    },
++    "Charaktere": {
++      "Einschaetzung": "Eddie zeigt sich als reflektierend und ruhig.",
++      "Kritik": "Ihre jugendliche Seite tritt zurück, wirkt mehr wie eine Autorin als wie eine 17-Jährige."
++    },
++    "Sprache": {
++      "Einschaetzung": "Schlicht, flüssig, klar.",
++      "Kritik": "Manche Sätze zu glatt, jugendliche Direktheit fehlt. Füllwörter häufen sich leicht."
++    },
++    "Fazit": {
++      "Staerken": "Schöne Ruheinsel im Erzählfluss, schafft Kontrast.",
++      "Schwaechen": "Zu weise und abgeklärt für Eddies Alter, jugendliche Stimme fehlt.",
++      "Fix": "Mehr jugendliche Gedanken/Assoziationen einbauen, kleine Unsicherheiten oder Albernheiten zeigen."
++    }
++  }

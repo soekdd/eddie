@@ -1,0 +1,33 @@
+--- old
++++ new
+@@ -17,15 +17,2 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
+-    }
+-  },
+-  "todo": "hier stimmt die Timeline nicht, unbedingt überarbeiten"
++  "todo": "hier stimmt die Timeline nicht, unbedingt überarbeiten",
++  "proofreading": {}
+@@ -45,2 +32,2 @@
+-ein belegtes Brötchen in die Hand gedrückt. „Wenn du mal Hilfe brauchst", hatte
+-er leise gesagt, „komm."
++ein belegtes Brötchen in die Hand gedrückt. „Wenn du mal Hilfe brauchst“, hatte
++er leise gesagt, „komm.“
+@@ -62,2 +49,2 @@
+-„Wir gehen zu ihm", flüstere ich zum Hund. Meine Stimme ist kaum hörbar, aber
+-entschlossen. „Wir holen uns Hilfe. Egal wie." Der Hund stupst meine Hand mit
++„Wir gehen zu ihm“, flüstere ich zum Hund. Meine Stimme ist kaum hörbar, aber
++entschlossen. „Wir holen uns Hilfe. Egal wie.“ Der Hund stupst meine Hand mit
+@@ -77,1 +64,1 @@
+-dieser leise, ernste Ausdruck. Er sagt fast nichts, nur ein leises *„Bitte."*
++dieser leise, ernste Ausdruck. Er sagt fast nichts, nur ein leises *„Bitte.“*

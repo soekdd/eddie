@@ -1,0 +1,147 @@
+--- old
++++ new
+@@ -5,21 +5,23 @@
+-    "date": "1985-07-06",
+-    "daytime": "evening",
+-    "place": "Raijas Wohnung, Jyväskylä",
+-    "persons": ["Eddie", "Raija"],
+-    "synopsis": "Raija erklärt Eddie, dass Helsinki zu gefährlich ist, und rät ihr, nach Schweden zu fliehen. Eddie verrät stolz, dass sie durch Poker genug Geld hat, um die Reise selbst zu bezahlen.",
+-    "mood": "tense but hopeful",
+-    "tense": "present, Eddies first-person perspective",
+-    "mode": "mainline", // flashback | mainline
+-    "feedback": {
+-        "anni": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "lucia": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "soek": {
+-            "rating":".....",
+-            "comments":""
+-        }
++  "date": "1985-07-06",
++  "daytime": "evening",
++  "place": "Raijas Wohnung, Jyväskylä",
++  "persons": [
++    "Eddie",
++    "Raija"
++  ],
++  "synopsis": "Raija erklärt Eddie, dass Helsinki zu gefährlich ist, und rät ihr, nach Schweden zu fliehen. Eddie verrät stolz, dass sie durch Poker genug Geld hat, um die Reise selbst zu bezahlen.",
++  "mood": "tense but hopeful",
++  "tense": "present, Eddies first-person perspective",
++  "mode": "mainline",
++  "feedback": {
++    "anni": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "lucia": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "soek": {
++      "rating": ".....",
++      "comments": ""
+@@ -27,0 +29,1 @@
++  }
+@@ -30,1 +33,4 @@
+-Es ist schon dunkel draußen, die Lichter von Jyväskylä schimmern verschwommen hinter dem Vorhang. Der Sonntag liegt hinter uns – Einkaufen, Kochen, der Spaziergang am See, endlose Gespräche. So viel Normalität, dass ich fast vergessen könnte, wo ich wirklich stehe. Fast.
++Es ist schon dunkel draußen, die Lichter von Jyväskylä schimmern verschwommen
++hinter dem Vorhang. Der Sonntag liegt hinter uns – Einkaufen, Kochen, der
++Spaziergang am See, endlose Gespräche. So viel Normalität, dass ich fast
++vergessen könnte, wo ich wirklich stehe. Fast.
+@@ -32,1 +38,4 @@
+-Wir sitzen beide in Raijas kleiner Küche. Sie nippt an ihrem Tee, stützt den Kopf in die Hand, und ich spüre, wie die Stille zwischen uns langsam dichter wird. Irgendetwas liegt in der Luft, das nicht zu diesem friedlichen Tag passen will.
++Wir sitzen beide in Raijas kleiner Küche. Sie nippt an ihrem Tee, stützt den
++Kopf in die Hand, und ich spüre, wie die Stille zwischen uns langsam dichter
++wird. Irgendetwas liegt in der Luft, das nicht zu diesem friedlichen Tag passen
++will.
+@@ -34,1 +43,3 @@
+-Ich trommle mit den Fingern auf die Tischkante, nur ganz leicht, aber Raija hebt sofort die Augenbrauen. Ihre Blicke sind wie Scheinwerfer – immer so klar, dass man nichts verbergen kann.
++Ich trommle mit den Fingern auf die Tischkante, nur ganz leicht, aber Raija hebt
++sofort die Augenbrauen. Ihre Blicke sind wie Scheinwerfer – immer so klar, dass
++man nichts verbergen kann.
+@@ -40,1 +51,3 @@
+-Ein kleines Lächeln huscht über ihr Gesicht, aber es bleibt nicht. Sie schiebt die Tasse ein Stück zur Seite, richtet sich auf. Jetzt weiß ich: Gleich wird sie ernst.
++Ein kleines Lächeln huscht über ihr Gesicht, aber es bleibt nicht. Sie schiebt
++die Tasse ein Stück zur Seite, richtet sich auf. Jetzt weiß ich: Gleich wird sie
++ernst.
+@@ -46,1 +59,3 @@
+-„Du weißt, was das Fax bedeutet hat.“ Ihre Stimme ist ruhig, fast kontrolliert. „Das Innenministerium in Helsinki wird den Druck der DDR nicht mehr ignorieren. Sie wollen dich zurückschicken.“
++„Du weißt, was das Fax bedeutet hat.“ Ihre Stimme ist ruhig, fast kontrolliert.
++„Das Innenministerium in Helsinki wird den Druck der DDR nicht mehr ignorieren.
++Sie wollen dich zurückschicken.“
+@@ -50,1 +65,3 @@
+-Raija sieht mich an, fest und entschlossen. „Hier in Jyväskylä bist du erstmal sicher. Aber Helsinki?“ Sie schüttelt den Kopf. „Das ist gefährlich. Dort wartet er schon.“
++Raija sieht mich an, fest und entschlossen. „Hier in Jyväskylä bist du erstmal
++sicher. Aber Helsinki?“ Sie schüttelt den Kopf. „Das ist gefährlich. Dort wartet
++er schon.“
+@@ -52,1 +69,2 @@
+-Ich beiße mir auf die Lippe. In der Theorie wusste ich das längst, aber wenn sie es so ausspricht, fühlt es sich wie ein Urteil an.
++Ich beiße mir auf die Lippe. In der Theorie wusste ich das längst, aber wenn sie
++es so ausspricht, fühlt es sich wie ein Urteil an.
+@@ -56,1 +74,3 @@
+-Raija lehnt sich zurück, als müsste sie sich sammeln. „Es gibt keine andere Botschaft der Bundesrepublik in Finnland. Helsinki ist die einzige. Die Polizei ist keine Option, das hast du gesehen. Wenn du dorthin gehst, haben sie dich.“
++Raija lehnt sich zurück, als müsste sie sich sammeln. „Es gibt keine andere
++Botschaft der Bundesrepublik in Finnland. Helsinki ist die einzige. Die Polizei
++ist keine Option, das hast du gesehen. Wenn du dorthin gehst, haben sie dich.“
+@@ -58,1 +78,2 @@
+-Ich schweige, lasse die Worte einsinken. Keine Botschaft, keine Polizei. Nichts. Nur Sackgassen.
++Ich schweige, lasse die Worte einsinken. Keine Botschaft, keine Polizei. Nichts.
++Nur Sackgassen.
+@@ -60,1 +81,2 @@
+-„Es bleibt nur eine Möglichkeit“, sagt sie schließlich. „Du musst nach Schweden. Stockholm. Dort gibt es die Botschaft, dort hast du eine Chance.“
++„Es bleibt nur eine Möglichkeit“, sagt sie schließlich. „Du musst nach Schweden.
++Stockholm. Dort gibt es die Botschaft, dort hast du eine Chance.“
+@@ -62,1 +84,3 @@
+-Stockholm. Der Name klingt plötzlich wie ein ferner Hafen, fast zu weit, fast unwirklich. Ich starre auf meine Hände, die auf dem Tisch liegen. „Und wie soll ich da hinkommen?“
++Stockholm. Der Name klingt plötzlich wie ein ferner Hafen, fast zu weit, fast
++unwirklich. Ich starre auf meine Hände, die auf dem Tisch liegen. „Und wie soll
++ich da hinkommen?“
+@@ -64,1 +88,2 @@
+-Raija zeichnet mit dem Finger eine Linie auf die Tischplatte. „Zug nach Vaasa. Dann die Fähre nach Umeå. Und von dort weiter mit dem Zug nach Stockholm.“
++Raija zeichnet mit dem Finger eine Linie auf die Tischplatte. „Zug nach Vaasa.
++Dann die Fähre nach Umeå. Und von dort weiter mit dem Zug nach Stockholm.“
+@@ -67,1 +92,2 @@
+-kostet zwar eine Menge Geld, ja. Aber mach dir keine Sorgen, Eddi. Ich übernehme das.“
++kostet zwar eine Menge Geld, ja. Aber mach dir keine Sorgen, Eddi. Ich übernehme
++das.“
+@@ -72,2 +98,3 @@
+-einfachste Sache der Welt. „Du kannst unmöglich so viel Geld haben. Die hundert Markka,
+-die du von Maria bekommen hast – das reicht gerade einmal für die Fähre.“
++einfachste Sache der Welt. „Du kannst unmöglich so viel Geld haben. Die hundert
++Markka, die du von Maria bekommen hast – das reicht gerade einmal für die
++Fähre.“
+@@ -75,1 +102,2 @@
+-Ihre Stimme ist bestimmt, aber nicht hart. Es klingt eher wie Fürsorge, als hätte sie die Entscheidung längst getroffen.
++Ihre Stimme ist bestimmt, aber nicht hart. Es klingt eher wie Fürsorge, als
++hätte sie die Entscheidung längst getroffen.
+@@ -80,1 +108,2 @@
+-„Raija“, sage ich und richte mich ein Stück auf. „Mach dir mal keine Sorgen. Ich hab Geld.“
++„Raija“, sage ich und richte mich ein Stück auf. „Mach dir mal keine Sorgen. Ich
++hab Geld.“
+@@ -84,1 +113,4 @@
+-Ich nicke energisch. „Die Markka von Maria – und noch mal dreihundert obendrauf.“ Meine Stimme klingt fester, als ich es erwartet hätte. Fast so, als müsste ich beweisen, dass ich mehr bin als nur ein Mädchen, das gerettet werden muss.
++Ich nicke energisch. „Die Markka von Maria – und noch mal dreihundert
++obendrauf.“ Meine Stimme klingt fester, als ich es erwartet hätte. Fast so, als
++müsste ich beweisen, dass ich mehr bin als nur ein Mädchen, das gerettet werden
++muss.
+@@ -88,1 +120,2 @@
+-Ich kann ein breites Grinsen nicht unterdrücken. Ich lächle ein wenig schief, halb stolz, halb verlegen. „Ich hab beim Pokern gewonnen. Dreihundert Markku.“
++Ich kann ein breites Grinsen nicht unterdrücken. Ich lächle ein wenig schief,
++halb stolz, halb verlegen. „Ich hab beim Pokern gewonnen. Dreihundert Markka.“
+@@ -90,1 +123,2 @@
+-Einen Moment lang starrt sie mich nur an, dann beginnt sie zu lachen – ehrlich, überrascht, fast ungläubig. „Du?! Poker?!“
++Einen Moment lang starrt sie mich nur an, dann beginnt sie zu lachen – ehrlich,
++überrascht, fast ungläubig. „Du?! Poker?!“
+@@ -92,1 +126,2 @@
+-Ich verschränke die Arme, tue trotzig, auch wenn ich am liebsten selbst lachen müsste. „Ja, ich. Ganz allein.“
++Ich verschränke die Arme, tue trotzig, auch wenn ich am liebsten selbst lachen
++müsste. „Ja, ich. Ganz allein.“
+@@ -94,1 +129,2 @@
+-Sie schüttelt den Kopf, immer noch schmunzelnd. „Na schön, das will ich hören. Von Anfang an.“
++Sie schüttelt den Kopf, immer noch schmunzelnd. „Na schön, das will ich hören.
++Von Anfang an.“

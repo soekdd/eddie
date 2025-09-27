@@ -1,0 +1,116 @@
+--- old
++++ new
+@@ -20,4 +20,5 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
++  "proofreading": {
++    "Kapitel": "500_Zurueck_in_die_Zukunft",
++    "Ton": {
++      "Einschaetzung": "Reflektierend, Eddie denkt über Vergangenheit und Zukunft nach.",
++      "Kritik": "Ton sehr erwachsen und analytisch. Gefahr, dass Eddies jugendliche Stimme verschwindet."
+@@ -25,3 +26,3 @@
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
++    "Logik": {
++      "Einschaetzung": "Verknüpfung von Rückblick und Ausblick plausibel.",
++      "Kritik": "Manche Übergänge wirken konstruiert, fast wie Essay. Wenig spontaner Fluss."
+@@ -29,3 +30,12 @@
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
++    "Charaktere": {
++      "Einschaetzung": "Eddie steht im Mittelpunkt, sehr reflektiert.",
++      "Kritik": "Ihre jugendliche Unsicherheit fehlt, sie klingt wie eine erwachsene Erzählerin."
++    },
++    "Sprache": {
++      "Einschaetzung": "Präzise, geordnet.",
++      "Kritik": "Zu essayistisch, kaum jugendliche Direktheit, lange Sätze. Füllwörter fehlen – dadurch unnatürlich glatt."
++    },
++    "Fazit": {
++      "Staerken": "Ordnet Ereignisse, schafft Klarheit für den Leser.",
++      "Schwaechen": "Zu erwachsen, zu essayistisch, Spannung fehlt.",
++      "Fix": "Mehr jugendliche Gedankensprünge einbauen, Sprache lebendiger machen, Reflexion mit Emotion mischen."
+@@ -39,2 +49,2 @@
+-ich dich aus", sagt sie und grinst so selbstsicher, dass mir das Herz klopft.
+-Eine amerikanische Komödie, sagen alle, die sei „ganz großartig". Ich nicke, tue
++ich dich aus“, sagt sie und grinst so selbstsicher, dass mir das Herz klopft.
++Eine amerikanische Komödie, sagen alle, die sei „ganz großartig“. Ich nicke, tue
+@@ -52,1 +62,1 @@
+-Sini legt den Kopf schief. „Iso ämpäri?" -- ein großer Eimer? Ich lache und
++Sini legt den Kopf schief. „Iso ämpäri?“ -- ein großer Eimer? Ich lache und
+@@ -71,2 +81,2 @@
+-den langen Fingern immer wieder rein, „tack", sagt sie im Scherz, und ich
+-antwortete „please", als wären wir im englischen Unterricht. Nach vielleicht
++den langen Fingern immer wieder rein, „tack“, sagt sie im Scherz, und ich
++antwortete „please“, als wären wir im englischen Unterricht. Nach vielleicht
+@@ -76,1 +86,1 @@
+-„Na, Genossin, Westluxus bekommen?", flüstert Sini und stupst mich mit der
++„Na, Genossin, Westluxus bekommen?“, flüstert Sini und stupst mich mit der
+@@ -78,1 +88,1 @@
+-weil sie so liebevoll frech ist. „Mir ist… ein bisschen schlecht", flüstere ich
++weil sie so liebevoll frech ist. „Mir ist… ein bisschen schlecht“, flüstere ich
+@@ -93,1 +103,1 @@
+-Auf der Leinwand brüllt Biff: „Make like a tree and get outta here!" Der Saal
++Auf der Leinwand brüllt Biff: „Make like a tree and get outta here!“ Der Saal
+@@ -95,1 +105,1 @@
+-falsch daran?"
++falsch daran?“
+@@ -98,1 +108,1 @@
+-*leave* wie *leaf*."\ Es macht sofort *klick*---und ich pruste los, viel zu
++*leave* wie *leaf*.“\ Es macht sofort *klick*---und ich pruste los, viel zu
+@@ -115,2 +125,2 @@
+-erst zögerlich, dann richtig. Jemand ruft „Jatka - Zugabe!", der Mann am Rand
+-pfeift anerkennend, und irgendwo zischt ein „pssst!", aber selbst das klingt
++erst zögerlich, dann richtig. Jemand ruft „Jatka - Zugabe!“, der Mann am Rand
++pfeift anerkennend, und irgendwo zischt ein „pssst!“, aber selbst das klingt
+@@ -120,1 +130,1 @@
+-schreit „This is an oldie…", und ich denke: Wenn Freiheit ein Geräusch hat, dann
++schreit „This is an oldie…“, und ich denke: Wenn Freiheit ein Geräusch hat, dann
+@@ -125,1 +135,1 @@
+-bei mir ein. „Also, Englisch bestanden?" -- „Mit Auszeichnung", behaupte ich,
++bei mir ein. „Also, Englisch bestanden?“ -- „Mit Auszeichnung“, behaupte ich,
+@@ -130,2 +140,2 @@
+-Doktor-Pathos: „**Great Scott!**" Ich antworte sofort, tief und dramatisch:
+-„**This is heavy.**" Wir fallen ineinander vor Lachen, zwei Schatten auf dem
++Doktor-Pathos: „**Great Scott!**“ Ich antworte sofort, tief und dramatisch:
++„**This is heavy.**“ Wir fallen ineinander vor Lachen, zwei Schatten auf dem
+@@ -134,2 +144,2 @@
+-Sini hebt den Finger wie ein verrückter Professor: „**1.21 gigawatts!**"\ Ich
+-klopfe mir gegen die Stirn: „**Hello? McFly?**" -- und sie spielt mit, stupst
++Sini hebt den Finger wie ein verrückter Professor: „**1.21 gigawatts!**“\ Ich
++klopfe mir gegen die Stirn: „**Hello? McFly?**“ -- und sie spielt mit, stupst
+@@ -137,1 +147,1 @@
+-Where we're going, we don't need roads.**" Ich versemmle die Betonung, wir
++Where we're going, we don't need roads.**“ Ich versemmle die Betonung, wir
+@@ -139,1 +149,1 @@
+-and leave.**" Wir quietschen vor Kichern, als hätten wir den Witz gerade neu
++and leave.**“ Wir quietschen vor Kichern, als hätten wir den Witz gerade neu
+@@ -143,1 +153,1 @@
+-größer als alle anderen auf der Leinwand", sage ich. „Wie er läuft! Dieses
++größer als alle anderen auf der Leinwand“, sage ich. „Wie er läuft! Dieses
+@@ -145,2 +155,2 @@
+-stehen."\ Sini nickt heftig. „Und sein Timing. Er wirft nur einen Blick -- zack,
+-Punktlandung. Ich fühl's bis in die Zehen."\ „Seine Stimme", sage ich. „Dieses
++stehen.“\ Sini nickt heftig. „Und sein Timing. Er wirft nur einen Blick -- zack,
++Punktlandung. Ich fühl's bis in die Zehen.“\ „Seine Stimme“, sage ich. „Dieses
+@@ -148,1 +158,1 @@
+-zu wirken" "Und seine blauen Augen!" schwärme ich weiter, "kannst Du Dich noch
++zu wirken“ „Und seine blauen Augen!“ schwärme ich weiter, „kannst Du Dich noch
+@@ -150,1 +160,1 @@
+-Augen waren das!" "Ach, nee" lacht Sini ungläubig und macht weiter "Dieser
++Augen waren das!“ „Ach, nee“ lacht Sini ungläubig und macht weiter „Dieser
+@@ -152,1 +162,1 @@
+-Einkaufsliste vorlesen und ich würde weinen und klatschen."\ Ich lache. „Er ist
++Einkaufsliste vorlesen und ich würde weinen und klatschen.“\ Ich lache. „Er ist
+@@ -154,4 +164,4 @@
+-steh' ich wieder auf."\ Sini schnaubt. „Er ist mein neuer Maßstab. Wer mich
+-daten will, muss erst mal mit Marty McFly Schritt halten."\ „Dann tut's mir leid
+-für Vaasa", sage ich und hake mich ein. „Denn an **Michael J. Fox** kommt heute
+-niemand vorbei."
++steh' ich wieder auf.“\ Sini schnaubt. „Er ist mein neuer Maßstab. Wer mich
++daten will, muss erst mal mit Marty McFly Schritt halten.“\ „Dann tut's mir leid
++für Vaasa“, sage ich und hake mich ein. „Denn an **Michael J. Fox** kommt heute
++niemand vorbei.“

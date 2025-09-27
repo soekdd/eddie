@@ -1,0 +1,38 @@
+--- old
++++ new
+@@ -18,14 +18,1 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
+-    }
+-  }
++  "proofreading": {}
+@@ -57,1 +44,1 @@
+-„Du bist noch wach?" Seine Stimme ist kaum mehr als ein Schatten.
++„Du bist noch wach?“ Seine Stimme ist kaum mehr als ein Schatten.
+@@ -59,1 +46,1 @@
+-„Ja."
++„Ja.“
+@@ -62,1 +49,1 @@
+-gedacht… wir sind wie Linien, die fast zusammenkommen. Aber eben nur fast."
++gedacht… wir sind wie Linien, die fast zusammenkommen. Aber eben nur fast.“
+@@ -64,1 +51,1 @@
+-Ich lächle gegen die Dunkelheit. „Asymptoten."
++Ich lächle gegen die Dunkelheit. „Asymptoten.“
+@@ -66,2 +53,2 @@
+-„Genau." Kein Vorwurf in seiner Stimme, nur dieses Wissen, das wir jetzt beide
+-tragen. „Du wirst gehen."
++„Genau.“ Kein Vorwurf in seiner Stimme, nur dieses Wissen, das wir jetzt beide
++tragen. „Du wirst gehen.“
+@@ -69,1 +56,1 @@
+-„Und du gehörst hierher," sage ich. „Ich bin auf der Durchreise."
++„Und du gehörst hierher,“ sage ich. „Ich bin auf der Durchreise.“

@@ -1,0 +1,7 @@
+--- old
++++ new
+@@ -6,0 +6,1 @@
++  "day": "Saturday",
+@@ -21,1 +22,1 @@
+-  "todo":"Die haben sicherlich einen Geschirrspüler, geiles Ding, doch kein Abwaschen mehr in Kapitalismus"
++  "todo": "Die haben sicherlich einen Geschirrspüler, geiles Ding, doch kein Abwaschen mehr in Kapitalismus"

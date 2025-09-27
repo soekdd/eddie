@@ -1,0 +1,682 @@
+--- old
++++ new
+@@ -5,22 +5,27 @@
+-    "date": "1985-08-22",
+-    "daytime": "evening, next day",
+-    "place": "Sinis Wohnung",
+-    "persons": ["Eddie", "Sini", "Kneipengäste"],
+-    "synopsis": "Bar in Vaasa: Sini tanzt, später übergriffig; Eddie stoppt. Am Morgen Entschuldigung, klare Grenzen, vorsichtige Annäherung (Pfannkuchen, Hafen).",
+-    "mood": "Tense → hurt → honest repair; cautious hope.",
+-    "tense": "present, Eddies first-person perspective",
+-    "mode": "mainline", // flashback | mainline
+-    "illustrations": ["FIN_Vaasa_Sini_schaemt_sich.png"],
+-    "feedback": {
+-        "anni": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "lucia": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "soek": {
+-            "rating":".....",
+-            "comments":""
+-        }
++  "date": "1985-08-22",
++  "daytime": "evening, next day",
++  "place": "Sinis Wohnung",
++  "persons": [
++    "Eddie",
++    "Sini",
++    "Kneipengäste"
++  ],
++  "synopsis": "Bar in Vaasa: Sini tanzt, später übergriffig; Eddie stoppt. Am Morgen Entschuldigung, klare Grenzen, vorsichtige Annäherung (Pfannkuchen, Hafen).",
++  "mood": "Tense → hurt → honest repair; cautious hope.",
++  "tense": "present, Eddies first-person perspective",
++  "mode": "mainline",
++  "illustrations": [
++    "FIN_Vaasa_Sini_schaemt_sich.png"
++  ],
++  "feedback": {
++    "anni": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "lucia": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "soek": {
++      "rating": ".....",
++      "comments": ""
+@@ -28,0 +33,1 @@
++  }
+@@ -31,6 +37,5 @@
+-Die Kneipe ist klein, kaum größer als ein Wohnzimmer, und trotzdem
+-drängt sich halb Vaasa hinein. Die Wände sind mit dunklem Holz
+-vertäfelt, das in den Ecken schon stumpf vom Rauch ist. Über dem Tresen
+-hängt ein Neonlicht in Form eines Bierglases, das in regelmäßigen
+-Abständen flackert. Der Geruch ist eine Mischung aus süßem Likör,
+-abgestandenem Bier und nassen Wolljacken.
++Die Kneipe ist klein, kaum größer als ein Wohnzimmer, und trotzdem drängt sich
++halb Vaasa hinein. Die Wände sind mit dunklem Holz vertäfelt, das in den Ecken
++schon stumpf vom Rauch ist. Über dem Tresen hängt ein Neonlicht in Form eines
++Bierglases, das in regelmäßigen Abständen flackert. Der Geruch ist eine Mischung
++aus süßem Likör, abgestandenem Bier und nassen Wolljacken.
+@@ -38,5 +43,4 @@
+-Sini kennt hier jeden. Zumindest wirkt es so. Sie lacht, umarmt Leute,
+-wechselt mühelos zwischen Finnisch, Schwedisch und einem Englisch, das
+-ich nur halb verstehe, wenn die Musik zu laut wird. Ich stehe an der
+-Theke, halte meinen Apfelwein in der Hand und versuche, nicht im
+-Gedränge erdrückt zu werden.
++Sini kennt hier jeden. Zumindest wirkt es so. Sie lacht, umarmt Leute, wechselt
++mühelos zwischen Finnisch, Schwedisch und einem Englisch, das ich nur halb
++verstehe, wenn die Musik zu laut wird. Ich stehe an der Theke, halte meinen
++Apfelwein in der Hand und versuche, nicht im Gedränge erdrückt zu werden.
+@@ -44,3 +48,3 @@
+-In der Ecke spielt eine kleine Band -- nur ein Schlagzeug, eine
+-E-Gitarre und ein Keyboard, aber sie schaffen es, den Raum zu füllen.
+-Der Bass dröhnt durch den Boden, ich spüre ihn bis in den Brustkorb.
++In der Ecke spielt eine kleine Band -- nur ein Schlagzeug, eine E-Gitarre und
++ein Keyboard, aber sie schaffen es, den Raum zu füllen. Der Bass dröhnt durch
++den Boden, ich spüre ihn bis in den Brustkorb.
+@@ -48,2 +52,2 @@
+-„Eddie!" Sini taucht neben mir auf, leicht schwitzig vom Tanzen. Ihre
+-Haare kleben an ihrer Stirn, die Augen glänzen. „Komm, tanzen!"
++„Eddie!" Sini taucht neben mir auf, leicht schwitzig vom Tanzen. Ihre Haare
++kleben an ihrer Stirn, die Augen glänzen. „Komm, tanzen!"
+@@ -51,3 +55,2 @@
+-„Ich guck lieber", sage ich, aber sie zieht mich schon halb in Richtung
+-der Tanzfläche. Ich lache, reiße mich dann doch los. „Später
+-vielleicht!"
++„Ich guck lieber", sage ich, aber sie zieht mich schon halb in Richtung der
++Tanzfläche. Ich lache, reiße mich dann doch los. „Später vielleicht!"
+@@ -55,3 +58,3 @@
+-Sie verdreht die Augen, aber lässt mich stehen und wirbelt wieder in die
+-Menge. Ich sehe, wie sie den Kopf in den Nacken wirft, den Rhythmus
+-aufnimmt, als hätte sie nie etwas anderes gemacht.
++Sie verdreht die Augen, aber lässt mich stehen und wirbelt wieder in die Menge.
++Ich sehe, wie sie den Kopf in den Nacken wirft, den Rhythmus aufnimmt, als hätte
++sie nie etwas anderes gemacht.
+@@ -60,2 +63,2 @@
+-Schnurrbart, stellt wortlos eine Schale mit gesalzenen Erdnüssen hin.
+-„On the house", sagt er und grinst.
++Schnurrbart, stellt wortlos eine Schale mit gesalzenen Erdnüssen hin. „On the
++house", sagt er und grinst.
+@@ -63,4 +66,4 @@
+-Ich greife zu, beobachte Sini weiter. Irgendwann tanzt sie mit einem
+-Typen, der viel zu breite Schultern und ein kariertes Hemd hat. Sie
+-stößt ihn lachend an, er beugt sich zu ihr runter, sagt ihr irgendwas
+-ins Ohr. Sie lacht wieder -- lauter, wärmer als bei allen anderen.
++Ich greife zu, beobachte Sini weiter. Irgendwann tanzt sie mit einem Typen, der
++viel zu breite Schultern und ein kariertes Hemd hat. Sie stößt ihn lachend an,
++er beugt sich zu ihr runter, sagt ihr irgendwas ins Ohr. Sie lacht wieder --
++lauter, wärmer als bei allen anderen.
+@@ -68,5 +71,4 @@
+-Irgendwann merke ich, dass meine Füße schon fast eingeschlafen sind und
+-der Boden klebt, so dass ich kaum von der Stelle komme. Ich bestelle
+-noch ein Wasser, dann noch eins, und irgendwann steht Sini wieder neben
+-mir. Ihre Wangen sind rot, ihr Atem riecht nach Bier und
+-Pfefferminzlikör.
++Irgendwann merke ich, dass meine Füße schon fast eingeschlafen sind und der
++Boden klebt, so dass ich kaum von der Stelle komme. Ich bestelle noch ein
++Wasser, dann noch eins, und irgendwann steht Sini wieder neben mir. Ihre Wangen
++sind rot, ihr Atem riecht nach Bier und Pfefferminzlikör.
+@@ -78,4 +80,4 @@
+-Wir treten in die Nacht hinaus. Die Luft ist klar, fast scharf, nach all
+-dem Rauch und Lärm drinnen. Der Sand der Straße knirscht unter unseren
+-Schuhen, die Straßenlaternen werfen lange gelbe Streifen auf den Boden.
+-Wir reden nicht viel, nur unser Atem ist zu hören.
++Wir treten in die Nacht hinaus. Die Luft ist klar, fast scharf, nach all dem
++Rauch und Lärm drinnen. Der Sand der Straße knirscht unter unseren Schuhen, die
++Straßenlaternen werfen lange gelbe Streifen auf den Boden. Wir reden nicht viel,
++nur unser Atem ist zu hören.
+@@ -83,4 +85,4 @@
+-Unter einer Laterne bleibt sie kurz stehen, sieht mich an, als wollte
+-sie noch etwas sagen. Aber sie tut es nicht. Stattdessen hakt sie sich
+-bei mir ein, ein bisschen zu fest, und wir gehen weiter. Ihre Schritte
+-sind weich und etwas schwankend.
++Unter einer Laterne bleibt sie kurz stehen, sieht mich an, als wollte sie noch
++etwas sagen. Aber sie tut es nicht. Stattdessen hakt sie sich bei mir ein, ein
++bisschen zu fest, und wir gehen weiter. Ihre Schritte sind weich und etwas
++schwankend.
+@@ -88,3 +90,3 @@
+-„Weißt du," sagt Sini plötzlich, „du bist..." Sie bricht ab, sucht das
+-Wort, während sie mit der freien Hand in der Luft wedelt. „Du bist
+-wie... ein seltener Vogel."
++„Weißt du," sagt Sini plötzlich, „du bist..." Sie bricht ab, sucht das Wort,
++während sie mit der freien Hand in der Luft wedelt. „Du bist wie... ein seltener
++Vogel."
+@@ -94,2 +96,2 @@
+-„Ja! So einer, den man nicht fangen darf. Aber man hofft, dass er
+-trotzdem bleibt."
++„Ja! So einer, den man nicht fangen darf. Aber man hofft, dass er trotzdem
++bleibt."
+@@ -97,2 +99,2 @@
+-Ich weiß nicht, was ich darauf sagen soll. Vielleicht liegt es am
+-Alkohol in ihrer Stimme oder am Wind, der meine Gedanken davonträgt.
++Ich weiß nicht, was ich darauf sagen soll. Vielleicht liegt es am Alkohol in
++ihrer Stimme oder am Wind, der meine Gedanken davonträgt.
+@@ -100,4 +102,4 @@
+-Vor ihrem Haus schließt sie auf, stolpert fast über die Stufe. Drinnen
+-schlägt mir sofort die Wärme entgegen -- zu warm, nach der klaren Luft
+-draußen. Der Geruch von Holz, Kerzenwachs und etwas, das nach dem
+-letzten Kochen geblieben ist, hängt in der Luft.
++Vor ihrem Haus schließt sie auf, stolpert fast über die Stufe. Drinnen schlägt
++mir sofort die Wärme entgegen -- zu warm, nach der klaren Luft draußen. Der
++Geruch von Holz, Kerzenwachs und etwas, das nach dem letzten Kochen geblieben
++ist, hängt in der Luft.
+@@ -105,3 +107,3 @@
+-Sie zieht ihre Stiefel halb im Gehen aus, lässt sie im Flur liegen, die
+-Jacke rutscht vom Stuhl, auf den sie sie wirft. Ich hänge meine
+-ordentlich auf, versuche, die Wärme in meinen Händen zu bekommen.
++Sie zieht ihre Stiefel halb im Gehen aus, lässt sie im Flur liegen, die Jacke
++rutscht vom Stuhl, auf den sie sie wirft. Ich hänge meine ordentlich auf,
++versuche, die Wärme in meinen Händen zu bekommen.
+@@ -109,3 +111,2 @@
+-„Setz dich", sagt sie. Ihre Stimme ist immer noch hell, aber weniger
+-fokussiert. Sie verschwindet in der Küche, kommt mit zwei Weingläsern
+-zurück.
++„Setz dich", sagt sie. Ihre Stimme ist immer noch hell, aber weniger fokussiert.
++Sie verschwindet in der Küche, kommt mit zwei Weingläsern zurück.
+@@ -115,3 +116,2 @@
+-„Ein Schluck." Sie drückt mir das Glas in die Hand, setzt sich dicht
+-neben mich auf das Sofa. So dicht, dass unsere Oberschenkel sich
+-berühren.
++„Ein Schluck." Sie drückt mir das Glas in die Hand, setzt sich dicht neben mich
++auf das Sofa. So dicht, dass unsere Oberschenkel sich berühren.
+@@ -121,3 +121,3 @@
+-Ich lehne mich leicht weg, aber sie legt den Arm um mich, zieht mich mit
+-einer plötzlichen, fast ungeschickten Bewegung näher. Ihre Hand rutscht
+-tiefer, zu tief, in meine Hose, in meinen Slip.
++Ich lehne mich leicht weg, aber sie legt den Arm um mich, zieht mich mit einer
++plötzlichen, fast ungeschickten Bewegung näher. Ihre Hand rutscht tiefer, zu
++tief, in meine Hose, in meinen Slip.
+@@ -127,2 +127,2 @@
+-Sie zieht die Hand zurück, schaut mich an, erst verwirrt, dann wie
+-ertappt. „War nicht so gemeint."
++Sie zieht die Hand zurück, schaut mich an, erst verwirrt, dann wie ertappt. „War
++nicht so gemeint."
+@@ -130,5 +130,4 @@
+-„War trotzdem so." Mein Blick sucht instinktiv einen Ort, an den ich
+-gehen könnte. Aber da ist nichts. Kein Zimmer, keine Tür, hinter die ich
+-mich einschließen könnte. Seit Wochen schlafe ich auf Sinis ausziehbarer
+-Couch, meine Decke ordentlich im Regal verstaut, eben wie ein Gast auf
+-Durchreise.
++„War trotzdem so." Mein Blick sucht instinktiv einen Ort, an den ich gehen
++könnte. Aber da ist nichts. Kein Zimmer, keine Tür, hinter die ich mich
++einschließen könnte. Seit Wochen schlafe ich auf Sinis ausziehbarer Couch, meine
++Decke ordentlich im Regal verstaut, eben wie ein Gast auf Durchreise.
+@@ -136,2 +135,2 @@
+-Sini sieht es mir an. Sie reibt sich das Gesicht, ihre Stimme ist
+-schwerer jetzt, weniger betrunken. „Nimm mein Bett. Ich... schlaf hier."
++Sini sieht es mir an. Sie reibt sich das Gesicht, ihre Stimme ist schwerer
++jetzt, weniger betrunken. „Nimm mein Bett. Ich... schlaf hier."
+@@ -145,5 +144,5 @@
+-Ich packe meine Decke und Kissen, gehe an ihr vorbei ins Schlafzimmer.
+-Der Raum riecht nach ihr -- nach Shampoo, nach dem kalten Septemberwind,
+-der durchs gekippte Fenster kommt, nach einem Hauch Parfum. Ich lege
+-mich hin, noch in Jeans und Pullover, und starre lange in die
+-Dunkelheit. Wütend. Enttäuscht. Und irgendwie noch wacher als vorher.
++Ich packe meine Decke und Kissen, gehe an ihr vorbei ins Schlafzimmer. Der Raum
++riecht nach ihr -- nach Shampoo, nach dem kalten Septemberwind, der durchs
++gekippte Fenster kommt, nach einem Hauch Parfum. Ich lege mich hin, noch in
++Jeans und Pullover, und starre lange in die Dunkelheit. Wütend. Enttäuscht. Und
++irgendwie noch wacher als vorher.
+@@ -151,4 +150,4 @@
+-Die Nacht ist unruhig. Ich schlafe kaum, drehe mich hin und her. Jede
+-Bewegung raschelt in der Bettdecke, und jedes Mal rieche ich wieder
+-diesen vertrauten Duft, den ich eigentlich mag, der mir jetzt aber
+-schlechte Erinnerungen beschert.
++Die Nacht ist unruhig. Ich schlafe kaum, drehe mich hin und her. Jede Bewegung
++raschelt in der Bettdecke, und jedes Mal rieche ich wieder diesen vertrauten
++Duft, den ich eigentlich mag, der mir jetzt aber schlechte Erinnerungen
++beschert.
+@@ -156,4 +155,4 @@
+-Irgendwann wird das Schwarz vor den Fenstern heller, erst grau, dann
+-blassblau. Meine Augen brennen vom fehlenden Schlaf. Ich stehe auf,
+-barfuß, und schleiche in die Küche. Der Boden ist eiskalt, die Luft
+-trocken. Ich mache Tee, setze mich an den Tisch und starre ins Leere.
++Irgendwann wird das Schwarz vor den Fenstern heller, erst grau, dann blassblau.
++Meine Augen brennen vom fehlenden Schlaf. Ich stehe auf, barfuß, und schleiche
++in die Küche. Der Boden ist eiskalt, die Luft trocken. Ich mache Tee, setze mich
++an den Tisch und starre ins Leere.
+@@ -161,6 +160,5 @@
+-Die Küche riecht nach kaltem Kaffee und einem Hauch von Zigarettenrauch
+-vom Vorabend. Die Morgensonne fällt schräg durch die Gardine, zieht ein
+-Muster aus hellen Vierecken auf den abgewetzten Holztisch. Ich sitze
+-schon eine Ewigkeit hier, die Hände um meine Tasse gelegt, in der der
+-Tee längst kalt geworden ist. Die Stille in der Wohnung drückt wie eine
+-schwere Decke auf mich.
++Die Küche riecht nach kaltem Kaffee und einem Hauch von Zigarettenrauch vom
++Vorabend. Die Morgensonne fällt schräg durch die Gardine, zieht ein Muster aus
++hellen Vierecken auf den abgewetzten Holztisch. Ich sitze schon eine Ewigkeit
++hier, die Hände um meine Tasse gelegt, in der der Tee längst kalt geworden ist.
++Die Stille in der Wohnung drückt wie eine schwere Decke auf mich.
+@@ -168,4 +166,4 @@
+-Die Tür geht auf. Sini steht da, in einem zerknitterten T-Shirt und
+-einer Trainingshose, barfuß. Ihre blauen Haare sind ein einziges Chaos.
+-Sie blinzelt ins Licht, presst die Hand an die Schläfe.\
+-„Guten Morgen", murmelt sie. Ihre Stimme ist rau, vorsichtig.
++Die Tür geht auf. Sini steht da, in einem zerknitterten T-Shirt und einer
++Trainingshose, barfuß. Ihre blauen Haare sind ein einziges Chaos. Sie blinzelt
++ins Licht, presst die Hand an die Schläfe.\ „Guten Morgen", murmelt sie. Ihre
++Stimme ist rau, vorsichtig.
+@@ -175,3 +173,3 @@
+-Sie geht zum Wasserhahn, lässt es laufen, trinkt direkt aus einem Glas.
+-Das Geräusch von Schlucken und dem Glas auf Spüle hallt viel zu laut.
+-„Ich... also..." Sie atmet hörbar aus. „Wegen gestern Abend..."
++Sie geht zum Wasserhahn, lässt es laufen, trinkt direkt aus einem Glas. Das
++Geräusch von Schlucken und dem Glas auf Spüle hallt viel zu laut. „Ich...
++also..." Sie atmet hörbar aus. „Wegen gestern Abend..."
+@@ -179,4 +177,3 @@
+-Ich lege die Tasse ab, meine Finger sind kalt. „Wegen gestern Abend..."
+-äffe ich sie wütend nach. Meine Stimme zittert, aber nicht vor Angst.
+-Eher vor Wut und dieser Hilflosigkeit, die sich wie ein Knoten in mir
+-festgesetzt hat.
++Ich lege die Tasse ab, meine Finger sind kalt. „Wegen gestern Abend..." äffe ich
++sie wütend nach. Meine Stimme zittert, aber nicht vor Angst. Eher vor Wut und
++dieser Hilflosigkeit, die sich wie ein Knoten in mir festgesetzt hat.
+@@ -184,5 +181,4 @@
+-Sie setzt sich mir gegenüber, stützt die Ellenbogen auf den Tisch, den
+-Kopf in den Händen. „Ich weiß. Ich war betrunken. Das ist keine
+-Entschuldigung, aber... ich habe mich wie eine Idiotin benommen. Ich
+-habe dich---" Sie bricht ab, schluckt. „Ich habe dich wie... wie ein
+-Ding behandelt."
++Sie setzt sich mir gegenüber, stützt die Ellenbogen auf den Tisch, den Kopf in
++den Händen. „Ich weiß. Ich war betrunken. Das ist keine Entschuldigung, aber...
++ich habe mich wie eine Idiotin benommen. Ich habe dich---" Sie bricht ab,
++schluckt. „Ich habe dich wie... wie ein Ding behandelt."
+@@ -190,3 +186,3 @@
+-Ich hebe den Blick, treffe ihre Augen. „Genau. Ein Ding. Und weißt du,
+-was das Schlimmste ist? Ich bin hier komplett auf dich angewiesen. Ich
+-kann nirgendwo hin. Ich habe niemanden. Und dann machst du das."
++Ich hebe den Blick, treffe ihre Augen. „Genau. Ein Ding. Und weißt du, was das
++Schlimmste ist? Ich bin hier komplett auf dich angewiesen. Ich kann nirgendwo
++hin. Ich habe niemanden. Und dann machst du das."
+@@ -194,3 +190,2 @@
+-Sini zuckt zusammen, als hätte ich sie geohrfeigt. „Ich weiß. Ich hab's
+-kaputt gemacht. Ich wollte nie... dich so fühlen lassen. Vor allem nicht
+-dich."
++Sini zuckt zusammen, als hätte ich sie geohrfeigt. „Ich weiß. Ich hab's kaputt
++gemacht. Ich wollte nie... dich so fühlen lassen. Vor allem nicht dich."
+@@ -198,4 +193,3 @@
+-„Du redest immer von Feminismus, davon, dass Frauen stark und frei sein
+-sollen." Meine Stimme wird lauter, ich kann nicht anders. „Aber gestern
+-Nacht... da war ich für dich nicht stark oder frei. Da war ich nur...
+-ein Körper."
++„Du redest immer von Feminismus, davon, dass Frauen stark und frei sein sollen."
++Meine Stimme wird lauter, ich kann nicht anders. „Aber gestern Nacht... da war
++ich für dich nicht stark oder frei. Da war ich nur... ein Körper."
+@@ -203,3 +197,3 @@
+-Sie starrt auf den Tisch, die Finger krallen sich ins Holz. „Ich schäme
+-mich. Ich habe das alles verraten, woran ich eigentlich glaube. Du bist
+-mir wichtig, Eddie. Nicht nur... so."
++Sie starrt auf den Tisch, die Finger krallen sich ins Holz. „Ich schäme mich.
++Ich habe das alles verraten, woran ich eigentlich glaube. Du bist mir wichtig,
++Eddie. Nicht nur... so."
+@@ -207,3 +201,3 @@
+-Ich lehne mich zurück, atme tief. „Weißt du, ich hab gedacht, du bist
+-die eine Person, die mich nicht auf irgendwas reduziert. Nicht auf meine
+-Herkunft, nicht auf mein Alter, nicht auf meinen Körper."
++Ich lehne mich zurück, atme tief. „Weißt du, ich hab gedacht, du bist die eine
++Person, die mich nicht auf irgendwas reduziert. Nicht auf meine Herkunft, nicht
++auf mein Alter, nicht auf meinen Körper."
+@@ -211,4 +205,3 @@
+-Sini hebt den Kopf, ihre Augen sind glasig. „Ich will wieder diese
+-Person für dich sein. Ich weiß nicht, ob ich's gleich schaffe, aber...
+-ich will's versuchen. Und du darfst mir das nicht durchgehen lassen, nie
+-wieder."
++Sini hebt den Kopf, ihre Augen sind glasig. „Ich will wieder diese Person für
++dich sein. Ich weiß nicht, ob ich's gleich schaffe, aber... ich will's
++versuchen. Und du darfst mir das nicht durchgehen lassen, nie wieder."
+@@ -216,4 +209,4 @@
+-Die Wut in mir ist immer noch da, aber sie ist kleiner geworden.
+-Vielleicht, weil ihre Stimme so bricht. Vielleicht, weil ich ihr glauben
+-will. „Okay. Aber ich brauche Zeit. Und ich will, dass du verstehst: Nur
+-weil ich hier bei dir bin, heißt das nicht, dass ich dir gehöre."
++Die Wut in mir ist immer noch da, aber sie ist kleiner geworden. Vielleicht,
++weil ihre Stimme so bricht. Vielleicht, weil ich ihr glauben will. „Okay. Aber
++ich brauche Zeit. Und ich will, dass du verstehst: Nur weil ich hier bei dir
++bin, heißt das nicht, dass ich dir gehöre."
+@@ -223,2 +216,1 @@
+-Ich halte ihren Blick, nicke langsam. „Gut. Dann lass uns das so
+-festhalten."
++Ich halte ihren Blick, nicke langsam. „Gut. Dann lass uns das so festhalten."
+@@ -226,2 +218,2 @@
+-Sie lehnt sich zurück, reibt sich die Stirn. „Meinst du, wir brauchen
+-dafür einen Vertrag? So mit Siegel und Zeugen?"
++Sie lehnt sich zurück, reibt sich die Stirn. „Meinst du, wir brauchen dafür
++einen Vertrag? So mit Siegel und Zeugen?"
+@@ -229,2 +221,1 @@
+-„Und wer soll das bezeugen?" frage ich trocken. „Die Birke vorm
+-Fenster?"
++„Und wer soll das bezeugen?" frage ich trocken. „Die Birke vorm Fenster?"
+@@ -232,2 +223,2 @@
+-Sini zuckt mit den Schultern. „Die ist sehr vertrauenswürdig. Hat
+-gestern Abend nichts gesagt."
++Sini zuckt mit den Schultern. „Die ist sehr vertrauenswürdig. Hat gestern Abend
++nichts gesagt."
+@@ -235,2 +226,2 @@
+-Ich muss lachen, obwohl ich es nicht will. Das Geräusch kommt erst
+-zögerlich, dann wärmer.
++Ich muss lachen, obwohl ich es nicht will. Das Geräusch kommt erst zögerlich,
++dann wärmer.
+@@ -238,2 +229,2 @@
+-„Na gut", sage ich. „Vertrag mit der Birke. Aber nur, wenn du sie nicht
+-auch begrapschst, wenn du betrunken bist."
++„Na gut", sage ich. „Vertrag mit der Birke. Aber nur, wenn du sie nicht auch
++begrapschst, wenn du betrunken bist."
+@@ -241,2 +232,2 @@
+-„Abgemacht." Sie grinst schief, aber es ist ein vorsichtiges Grinsen,
+-das fragt, ob es wieder okay ist, zu lächeln.
++„Abgemacht." Sie grinst schief, aber es ist ein vorsichtiges Grinsen, das fragt,
++ob es wieder okay ist, zu lächeln.
+@@ -244,3 +235,2 @@
+-Ich atme aus. Die Schwere zwischen uns ist nicht weg, aber sie ist
+-leichter geworden, wie Nebel, der von der Sonne langsam weggeschoben
+-wird.
++Ich atme aus. Die Schwere zwischen uns ist nicht weg, aber sie ist leichter
++geworden, wie Nebel, der von der Sonne langsam weggeschoben wird.
+@@ -248,3 +238,3 @@
+-„Also...", meint sie nach einer kurzen Pause, „Frühstück? Ich könnte
+-Rührei machen. Oder Toast. Oder... ich versuche Pfannkuchen, wenn du
+-bereit bist, das Risiko einzugehen."
++„Also...", meint sie nach einer kurzen Pause, „Frühstück? Ich könnte Rührei
++machen. Oder Toast. Oder... ich versuche Pfannkuchen, wenn du bereit bist, das
++Risiko einzugehen."
+@@ -252,2 +242,2 @@
+-„Pfannkuchen." Ich lehne mich zurück. „Aber nur, wenn du mir vorher
+-versprichst, dass sie nicht als Waffe eingesetzt werden."
++„Pfannkuchen." Ich lehne mich zurück. „Aber nur, wenn du mir vorher versprichst,
++dass sie nicht als Waffe eingesetzt werden."
+@@ -258,4 +248,3 @@
+-Kochlöffel in der Hand, eine Schürze mit verblassten Erdbeeren
+-umgebunden. Ich sitze am Küchentisch und beobachte sie, wie sie
+-konzentriert den Teig rührt, als hätte sie gerade eine wissenschaftliche
+-Mission.
++Kochlöffel in der Hand, eine Schürze mit verblassten Erdbeeren umgebunden. Ich
++sitze am Küchentisch und beobachte sie, wie sie konzentriert den Teig rührt, als
++hätte sie gerade eine wissenschaftliche Mission.
+@@ -263,2 +252,2 @@
+-„Du guckst, als würdest du erwarten, dass das Ding explodiert," sagt sie
+-über die Schulter.
++„Du guckst, als würdest du erwarten, dass das Ding explodiert," sagt sie über
++die Schulter.
+@@ -268,2 +257,2 @@
+-„Optimistisch wie immer," murmelt sie und gießt den ersten Schwung Teig
+-in die Pfanne. Es riecht sofort nach warmem Ei und Butter.
++„Optimistisch wie immer," murmelt sie und gießt den ersten Schwung Teig in die
++Pfanne. Es riecht sofort nach warmem Ei und Butter.
+@@ -271,3 +260,3 @@
+-Nach zwei Minuten versucht sie, den Pfannkuchen zu wenden -- und
+-verfehlt die perfekte Flugbahn knapp. Das Ding landet halb auf dem Rand,
+-halb wieder in der Pfanne.
++Nach zwei Minuten versucht sie, den Pfannkuchen zu wenden -- und verfehlt die
++perfekte Flugbahn knapp. Das Ding landet halb auf dem Rand, halb wieder in der
++Pfanne.
+@@ -275,2 +264,2 @@
+-„Siehst du?" Ich lehne mich zurück, verschränke die Arme. „Waffe Nummer
+-eins. Wenn du das Teil jetzt wirfst, kannst du mich bewusstlos machen."
++„Siehst du?" Ich lehne mich zurück, verschränke die Arme. „Waffe Nummer eins.
++Wenn du das Teil jetzt wirfst, kannst du mich bewusstlos machen."
+@@ -278,2 +267,2 @@
+-Sini lacht, zum ersten Mal seit gestern Abend unbeschwert. „Dann nehme
+-ich lieber den Nächsten. Der hier wird als Beweismittel gebraucht."
++Sini lacht, zum ersten Mal seit gestern Abend unbeschwert. „Dann nehme ich
++lieber den Nächsten. Der hier wird als Beweismittel gebraucht."
+@@ -281,2 +270,2 @@
+-Der zweite Versuch klappt besser. Sie legt den Pfannkuchen auf einen
+-Teller, schiebt ihn zu mir. „Testesserin?"
++Der zweite Versuch klappt besser. Sie legt den Pfannkuchen auf einen Teller,
++schiebt ihn zu mir. „Testesserin?"
+@@ -284,2 +273,2 @@
+-Ich steche ein Stück ab, kaue, tue so, als müsste ich lange überlegen.
+-„Hm. Nicht giftig. Aber noch steigerungsfähig."
++Ich steche ein Stück ab, kaue, tue so, als müsste ich lange überlegen. „Hm.
++Nicht giftig. Aber noch steigerungsfähig."
+@@ -287,2 +276,2 @@
+-„Frech." Sie schiebt mir ein Glas Preiselbeermarmelade hin. „Hier. Süß
+-macht alles besser."
++„Frech." Sie schiebt mir ein Glas Preiselbeermarmelade hin. „Hier. Süß macht
++alles besser."
+@@ -290,3 +279,3 @@
+-Wir essen schweigend, aber es ist ein anderes Schweigen als heute Morgen
+--- leichter, voller kleiner Pausen, die nicht drücken. Sini beobachtet
+-mich nicht, sie drängt sich nicht auf. Sie lässt mich einfach essen.
++Wir essen schweigend, aber es ist ein anderes Schweigen als heute Morgen --
++leichter, voller kleiner Pausen, die nicht drücken. Sini beobachtet mich nicht,
++sie drängt sich nicht auf. Sie lässt mich einfach essen.
+@@ -294,2 +283,2 @@
+-Als ich den Teller leer habe, sagt sie: „Siehst du, ich kann auch etwas
+-machen, das man freiwillig runterschluckt."
++Als ich den Teller leer habe, sagt sie: „Siehst du, ich kann auch etwas machen,
++das man freiwillig runterschluckt."
+@@ -297,3 +286,3 @@
+-Ich rolle mit den Augen, aber mein Lächeln verrät mich. „Okay, Vertrag
+-mit der Birke gilt. Und du darfst Pfannkuchen machen, solange du nicht
+-versuchst, mich danach zu hypnotisieren."
++Ich rolle mit den Augen, aber mein Lächeln verrät mich. „Okay, Vertrag mit der
++Birke gilt. Und du darfst Pfannkuchen machen, solange du nicht versuchst, mich
++danach zu hypnotisieren."
+@@ -303,3 +292,3 @@
+-Draußen ist es Mittag geworden, drinnen riecht es nach Butter und
+-Preiselbeeren. Und zum ersten Mal seit gestern fühlt es sich an, als
+-könnte der Tag doch noch gut werden.
++Draußen ist es Mittag geworden, drinnen riecht es nach Butter und Preiselbeeren.
++Und zum ersten Mal seit gestern fühlt es sich an, als könnte der Tag doch noch
++gut werden.
+@@ -307,2 +296,2 @@
+-„Magst du raus?" fragt sie schließlich. „Ein bisschen frische Luft? Wir
+-könnten zum Hafen runtergehen... die Boote gucken."
++„Magst du raus?" fragt sie schließlich. „Ein bisschen frische Luft? Wir könnten
++zum Hafen runtergehen... die Boote gucken."
+@@ -310,2 +299,2 @@
+-Ich nicke zögerlich. „Ja. Aber nur, wenn du diesmal nicht versuchst,
+-mich zu betüddeln wie eine kleine Schwester."
++Ich nicke zögerlich. „Ja. Aber nur, wenn du diesmal nicht versuchst, mich zu
++betüddeln wie eine kleine Schwester."
+@@ -316,4 +305,3 @@
+-abgeriebenen Ellenbogen -- und treten hinaus in die klare Luft. Der
+-September ist kühl, der Wind vom Meer trägt den Geruch von Salz und
+-Diesel herüber. Die Straßen sind still, nur irgendwo weiter weg höre ich
+-ein Mofa knattern.
++abgeriebenen Ellenbogen -- und treten hinaus in die klare Luft. Der September
++ist kühl, der Wind vom Meer trägt den Geruch von Salz und Diesel herüber. Die
++Straßen sind still, nur irgendwo weiter weg höre ich ein Mofa knattern.
+@@ -321,3 +309,3 @@
+-Sini hält den Abstand beim Gehen, nicht zu nah, nicht zu weit. Ich
+-merke, dass sie darauf achtet, nicht ungewollt meinen Arm zu streifen.
+-Wir gehen nebeneinander, aber jeder mit seinem eigenen Raum.
++Sini hält den Abstand beim Gehen, nicht zu nah, nicht zu weit. Ich merke, dass
++sie darauf achtet, nicht ungewollt meinen Arm zu streifen. Wir gehen
++nebeneinander, aber jeder mit seinem eigenen Raum.
+@@ -325,3 +313,3 @@
+-„Da drüben," sagt sie und deutet auf ein kleines, verbeultes
+-Fischerboot, das gerade von einem älteren Mann aus dem Hafenbecken
+-gezogen wird. „Sieht aus, als hätte es schon hundert Winter überlebt."
++„Da drüben," sagt sie und deutet auf ein kleines, verbeultes Fischerboot, das
++gerade von einem älteren Mann aus dem Hafenbecken gezogen wird. „Sieht aus, als
++hätte es schon hundert Winter überlebt."
+@@ -331,2 +319,2 @@
+-„Nur deine Jacke ist schöner", sagt sie und lässt es dabei. Keine
+-Anspielung, kein Blick, der zu lange dauert -- einfach nur ein Satz.
++„Nur deine Jacke ist schöner", sagt sie und lässt es dabei. Keine Anspielung,
++kein Blick, der zu lange dauert -- einfach nur ein Satz.
+@@ -334,4 +322,4 @@
+-Am Ende des Stegs setzen wir wieder auf die alte Holzbank. Die Wellen
+-klatschen leise dagegen, Möwen kreischen irgendwo über uns. Sini reicht
+-mir eine Thermoskanne, die sie im Rucksack mitgebracht hat. „Nur Kaffee.
+-Du darfst ihn selbst einschenken."
++Am Ende des Stegs setzen wir wieder auf die alte Holzbank. Die Wellen klatschen
++leise dagegen, Möwen kreischen irgendwo über uns. Sini reicht mir eine
++Thermoskanne, die sie im Rucksack mitgebracht hat. „Nur Kaffee. Du darfst ihn
++selbst einschenken."
+@@ -339,4 +327,4 @@
+-Ich nehme den Deckelbecher, gieße mir ein, während der warme Dampf mir
+-ins Gesicht steigt. Es ist so ein banaler Moment, aber genau das macht
+-ihn wertvoll: keine Spannung, kein unausgesprochenes Drängen, nur zwei
+-Frauen, die nebeneinander sitzen und aufs Wasser schauen.
++Ich nehme den Deckelbecher, gieße mir ein, während der warme Dampf mir ins
++Gesicht steigt. Es ist so ein banaler Moment, aber genau das macht ihn wertvoll:
++keine Spannung, kein unausgesprochenes Drängen, nur zwei Frauen, die
++nebeneinander sitzen und aufs Wasser schauen.
+@@ -346,2 +334,1 @@
+-Sie nickt, ohne mich anzusehen. „Ich will, dass du dich sicher fühlst.
+-Immer."
++Sie nickt, ohne mich anzusehen. „Ich will, dass du dich sicher fühlst. Immer."
+@@ -349,2 +336,2 @@
+-Wir sitzen noch lange dort, und der Wind spielt mit meinen Haaren. Zum
+-ersten Mal seit gestern Nacht fühlt sich mein Atem wieder leicht an.
++Wir sitzen noch lange dort, und der Wind spielt mit meinen Haaren. Zum ersten
++Mal seit gestern Nacht fühlt sich mein Atem wieder leicht an.
+@@ -352,4 +339,4 @@
+-Am Nachmittag sitzen wir wieder bei Sini in der Küche. Der Himmel
+-draußen ist grau geworden, und der Wind hat aufgefrischt, drückt die
+-Zweige der Birken gegen die Fensterscheiben. Ich sitze am Tisch, Sini
+-hat mir eine Schüssel mit Haferflocken und frischen Beeren hingestellt.
++Am Nachmittag sitzen wir wieder bei Sini in der Küche. Der Himmel draußen ist
++grau geworden, und der Wind hat aufgefrischt, drückt die Zweige der Birken gegen
++die Fensterscheiben. Ich sitze am Tisch, Sini hat mir eine Schüssel mit
++Haferflocken und frischen Beeren hingestellt.
+@@ -357,2 +344,2 @@
+-„Die Brombeeren sind aus dem Garten von meiner Chefin", sagt sie
+-beiläufig,. „Die hat sie mir vorgestern geschenkt, voll lieb von ihr."
++„Die Brombeeren sind aus dem Garten von meiner Chefin", sagt sie beiläufig,.
++„Die hat sie mir vorgestern geschenkt, voll lieb von ihr."
+@@ -360,2 +347,2 @@
+-Ich stoße den Löffel in den Brei, ohne zu essen. „Sini... kann ich dir
+-was erzählen? Aber versprich mir, dass du nicht gleich Mitleid hast."
++Ich stoße den Löffel in den Brei, ohne zu essen. „Sini... kann ich dir was
++erzählen? Aber versprich mir, dass du nicht gleich Mitleid hast."
+@@ -365,2 +352,2 @@
+-Ich atme tief ein. „In der DDR ist Vertrauen... keine Option. Zumindest
+-nicht für Leute wie mich."
++Ich atme tief ein. „In der DDR ist Vertrauen... keine Option. Zumindest nicht
++für Leute wie mich."
+@@ -370,5 +357,4 @@
+-„Die nicht spuren. Die zu viele Fragen stellen." Ich halte kurz inne,
+-der Geruch von Kaffee und Beeren mischt sich mit diesem Knoten im Bauch.
+-„Ich hab gelernt, immer einen Teil von mir zu verstecken. Sogar vor
+-Freunden. Weil du nie weißt, ob sie's weitertragen. Ob sie's jemandem
+-sagen, der's gegen dich verwendet."
++„Die nicht spuren. Die zu viele Fragen stellen." Ich halte kurz inne, der Geruch
++von Kaffee und Beeren mischt sich mit diesem Knoten im Bauch. „Ich hab gelernt,
++immer einen Teil von mir zu verstecken. Sogar vor Freunden. Weil du nie weißt,
++ob sie's weitertragen. Ob sie's jemandem sagen, der's gegen dich verwendet."
+@@ -378,5 +364,5 @@
+-„In der Schule war's genauso", fahre ich fort. „Ich war gut in Mathe,
+-hab oft die Jungs überholt. Aber das hat mich nicht beliebt gemacht.
+-Lehrer haben mir gesagt, ich soll mich nicht so hervortun. Bei meinen
+-Großeltern hieß es, Mädchen sollen still und bescheiden sein. Das ist so
+-tief drin... dass ich manchmal nicht mal mir selbst traue."
++„In der Schule war's genauso", fahre ich fort. „Ich war gut in Mathe, hab oft
++die Jungs überholt. Aber das hat mich nicht beliebt gemacht. Lehrer haben mir
++gesagt, ich soll mich nicht so hervortun. Bei meinen Großeltern hieß es, Mädchen
++sollen still und bescheiden sein. Das ist so tief drin... dass ich manchmal
++nicht mal mir selbst traue."
+@@ -384,3 +370,3 @@
+-Ich merke, dass meine Stimme brüchig wird. „Deshalb war gestern Nacht...
+-so schlimm. Nicht nur wegen dem, was passiert ist. Sondern weil ich dich
+-zu den wenigen gezählt hab, bei denen ich nicht aufpassen muss."
++Ich merke, dass meine Stimme brüchig wird. „Deshalb war gestern Nacht... so
++schlimm. Nicht nur wegen dem, was passiert ist. Sondern weil ich dich zu den
++wenigen gezählt hab, bei denen ich nicht aufpassen muss."
+@@ -388,3 +374,3 @@
+-Sini legt die Hände auf den Tisch, verschränkt die Finger, als müsste
+-sie verhindern, mich zu berühren. „Und genau das will ich sein. Die, bei
+-der du nicht aufpassen musst."
++Sini legt die Hände auf den Tisch, verschränkt die Finger, als müsste sie
++verhindern, mich zu berühren. „Und genau das will ich sein. Die, bei der du
++nicht aufpassen musst."
+@@ -392,4 +378,3 @@
+-Ich nicke, starre auf die Beeren in meiner Schüssel. „Aber du musst
+-wissen: Wenn das Vertrauen einmal reißt... in meinem Kopf dauert's ewig,
+-bis es wieder hält. In der DDR... wenn du's verlierst, bist du
+-erledigt."
++Ich nicke, starre auf die Beeren in meiner Schüssel. „Aber du musst wissen: Wenn
++das Vertrauen einmal reißt... in meinem Kopf dauert's ewig, bis es wieder hält.
++In der DDR... wenn du's verlierst, bist du erledigt."
+@@ -397,2 +382,2 @@
+-Sie atmet tief aus. „Dann lass mich dir beweisen, dass es hält. Egal wie
+-lange es dauert."
++Sie atmet tief aus. „Dann lass mich dir beweisen, dass es hält. Egal wie lange
++es dauert."
+@@ -400,4 +385,4 @@
+-Draußen rauscht der Wind, und ein einzelnes Blatt klebt an der Scheibe,
+-als wollte es zuhören. Ich nehme einen Löffel von den Himbeeren, und ihr
+-süßer, saurer Geschmack vermischt sich mit einem winzigen, vorsichtigen
+-Gefühl von Hoffnung.
++Draußen rauscht der Wind, und ein einzelnes Blatt klebt an der Scheibe, als
++wollte es zuhören. Ich nehme einen Löffel von den Himbeeren, und ihr süßer,
++saurer Geschmack vermischt sich mit einem winzigen, vorsichtigen Gefühl von
++Hoffnung.
+@@ -405,4 +390,4 @@
+-Sini dreht sie das Radio an. Eine finnische Sängerin singt langsam und
+-rau, die Melodie schwappt wie leises Wasser durch den Raum. Sini stellt
+-zwei Kerzen auf den Tisch, zündet sie an, ohne ein Wort zu sagen. Das
+-Licht flackert und lässt die Tapete wie in Bewegung wirken.
++Sini dreht sie das Radio an. Eine finnische Sängerin singt langsam und rau, die
++Melodie schwappt wie leises Wasser durch den Raum. Sini stellt zwei Kerzen auf
++den Tisch, zündet sie an, ohne ein Wort zu sagen. Das Licht flackert und lässt
++die Tapete wie in Bewegung wirken.
+@@ -410,3 +395,2 @@
+-„Ich geh kurz duschen", sagt sie, nimmt ihr Handtuch und verschwindet
+-ins Bad. Keine Andeutung, kein Blick, der zu lange dauert. Einfach nur
+-Alltag.
++„Ich geh kurz duschen", sagt sie, nimmt ihr Handtuch und verschwindet ins Bad.
++Keine Andeutung, kein Blick, der zu lange dauert. Einfach nur Alltag.
+@@ -414,4 +398,4 @@
+-Als sie zurückkommt, trägt sie einen dicken Pullover und eine
+-Jogginghose, die an den Knien leicht ausgeleiert ist. Sie setzt sich in
+-den Sessel gegenüber, nicht aufs Sofa neben mich. Zwischen uns der
+-kleine Holztisch, auf dem zwei Tassen dampfen.
++Als sie zurückkommt, trägt sie einen dicken Pullover und eine Jogginghose, die
++an den Knien leicht ausgeleiert ist. Sie setzt sich in den Sessel gegenüber,
++nicht aufs Sofa neben mich. Zwischen uns der kleine Holztisch, auf dem zwei
++Tassen dampfen.
+@@ -419,2 +403,2 @@
+-„Ich hab dir Kamillentee gemacht", sagt sie. „Ich weiß, du magst den
+-lieber als Schwarztee."
++„Ich hab dir Kamillentee gemacht", sagt sie. „Ich weiß, du magst den lieber als
++Schwarztee."
+@@ -422,3 +406,3 @@
+-Wir trinken schweigend. Die Kerzen knistern leise, irgendwo draußen
+-rauscht ein Auto vorbei. Ich merke, wie mein Körper sich langsam
+-entspannt, ohne dass ich es bewusst will.
++Wir trinken schweigend. Die Kerzen knistern leise, irgendwo draußen rauscht ein
++Auto vorbei. Ich merke, wie mein Körper sich langsam entspannt, ohne dass ich es
++bewusst will.
+@@ -426,4 +410,4 @@
+-Nach einer Weile steht sie auf, holt eine Decke aus dem Schlafzimmer und
+-legt sie mir in den Schoß. „Falls dir kalt wird." Sie bleibt nicht
+-stehen, wartet nicht auf ein Danke. Geht einfach zurück zu ihrem Sessel,
+-zieht ihre eigenen Beine unter die Decke, die dort liegt.
++Nach einer Weile steht sie auf, holt eine Decke aus dem Schlafzimmer und legt
++sie mir in den Schoß. „Falls dir kalt wird." Sie bleibt nicht stehen, wartet
++nicht auf ein Danke. Geht einfach zurück zu ihrem Sessel, zieht ihre eigenen
++Beine unter die Decke, die dort liegt.
+@@ -431,2 +415,2 @@
+-Es ist so banal, so unspektakulär -- und genau das macht es ungewohnt.
+-Keine Annäherung, kein Druck. Nur Raum. Und Wärme.
++Es ist so banal, so unspektakulär -- und genau das macht es ungewohnt. Keine
++Annäherung, kein Druck. Nur Raum. Und Wärme.
+@@ -438,2 +422,2 @@
+-„Das... was du gerade machst... so normal sein... das ist mehr wert, als
+-du glaubst."
++„Das... was du gerade machst... so normal sein... das ist mehr wert, als du
++glaubst."
+@@ -443,3 +427,3 @@
+-Wir bleiben sitzen, bis die Kerzen fast heruntergebrannt sind. "Heute
+-nimmst Du wieder das Bett", sage ich. Ein fragender, dankbarer Blick von
+-Sini: "Danke, Eddie".
++Wir bleiben sitzen, bis die Kerzen fast heruntergebrannt sind. "Heute nimmst Du
++wieder das Bett", sage ich. Ein fragender, dankbarer Blick von Sini: "Danke,
++Eddie".
+@@ -447,3 +431,2 @@
+-Als Sini in ihr Schlafzimmer geht, ist der Knoten in meinem Bauch
+-kleiner. Und zum ersten Mal denke ich: Vielleicht kann Vertrauen auch
+-leise zurückkommen.
++Als Sini in ihr Schlafzimmer geht, ist der Knoten in meinem Bauch kleiner. Und
++zum ersten Mal denke ich: Vielleicht kann Vertrauen auch leise zurückkommen.

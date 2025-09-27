@@ -1,0 +1,17 @@
+--- old
++++ new
+@@ -5,1 +5,13 @@
+-  "date": "1985-09-0
++  "date": "1985-09-07",
++  "daytime": "evening",
++  "place": "Kneipe in Vaasa",
++  "persons": ["Eddie", "Sini", "Jussi", "viele Gäste"],
++  "synopsis": "Eddie und Sini feiern in einer kleinen Kneipe. Eddie tanzt diesmal wild mit, gewinnt die Aufmerksamkeit des Gitarristen Jussi, und die beiden verbringen die Nacht zusammen. Am nächsten Morgen tauschen Eddie und Sini ausgelassen ihre Erlebnisse aus.",
++  "mood": "wild, lustvoll, ausgelassen, befreiend",
++  "tense": "present, Eddies first-person perspective",
++  "mode": "mainline",
++  "historical": "Eddies ausgelassener Abend fällt auf den 7. September, den 'Tag der Republik' in der DDR – ein stiller Kontrast zu den offiziellen Feiern, die sie längst hinter sich gelassen hat."
++}
++```
++
++

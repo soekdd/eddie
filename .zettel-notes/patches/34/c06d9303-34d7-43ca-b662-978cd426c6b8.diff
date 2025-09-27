@@ -1,0 +1,407 @@
+--- old
++++ new
+@@ -5,22 +5,27 @@
+-    "date": "1985-09-18",
+-    "daytime": "early morning, whole day",
+-    "place": "Sinis Wohnung, Straßen von Vaasa, Bibliothek, Fähre",
+-    "persons": ["Eddie", "Sini", "Raija"],
+-    "synopsis": "Nach einer schlaflosen Nacht treffen Eddie und Sini in Vaasa überraschend Raija. Gemeinsam schmieden sie einen Fluchtplan mit gefälschtem Fax und Polizeiuniform. Am nächsten Morgen gelingt die Überfahrt nach Schweden, begleitet von Abschied, Kuss und Aufbruch.",
+-    "mood": "tense but hopeful, bittersweet",
+-    "tense": "present, Eddies first-person perspective",
+-    "mode": "mainline", // flashback | mainline
+-    "illustrations": ["FIN_Vaasa_Eddie_kuesst_Sini.png"],
+-    "feedback": {
+-        "anni": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "lucia": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "soek": {
+-            "rating":".....",
+-            "comments":""
+-        }
++  "date": "1985-09-18",
++  "daytime": "early morning, whole day",
++  "place": "Sinis Wohnung, Straßen von Vaasa, Bibliothek, Fähre",
++  "persons": [
++    "Eddie",
++    "Sini",
++    "Raija"
++  ],
++  "synopsis": "Nach einer schlaflosen Nacht treffen Eddie und Sini in Vaasa überraschend Raija. Gemeinsam schmieden sie einen Fluchtplan mit gefälschtem Fax und Polizeiuniform. Am nächsten Morgen gelingt die Überfahrt nach Schweden, begleitet von Abschied, Kuss und Aufbruch.",
++  "mood": "tense but hopeful, bittersweet",
++  "tense": "present, Eddies first-person perspective",
++  "mode": "mainline",
++  "illustrations": [
++    "FIN_Vaasa_Eddie_kuesst_Sini.png"
++  ],
++  "feedback": {
++    "anni": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "lucia": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "soek": {
++      "rating": ".....",
++      "comments": ""
+@@ -28,0 +33,1 @@
++  }
+@@ -31,3 +37,3 @@
+-Wir liegen im Dunkeln auf Sinis Sofa. Die Uhr auf dem Küchentisch tickt leise, als
+-wolle sie uns verhöhnen. Jedes Ticken sagt: noch eine Minute weniger.
+-Noch eine Nacht, die wir verlieren.
++Wir liegen im Dunkeln auf Sinis Sofa. Die Uhr auf dem Küchentisch tickt leise,
++als wolle sie uns verhöhnen. Jedes Ticken sagt: noch eine Minute weniger. Noch
++eine Nacht, die wir verlieren.
+@@ -35,5 +41,3 @@
+-„Was, wenn wir einfach... morgen einen anderen Bus probieren?" frage
+-ich.\
+-„Und wenn die wieder fragen, wie alt du bist?"\
+-„Sag ich was anderes."\
+-„Die schauen in deinem Pass, Eddie. Das bringt doch nichts."
++„Was, wenn wir einfach... morgen einen anderen Bus probieren?" frage ich.\ „Und
++wenn die wieder fragen, wie alt du bist?"\ „Sag ich was anderes."\ „Die schauen
++in deinem Pass, Eddie. Das bringt doch nichts."
+@@ -41,5 +45,5 @@
+-Wir reden uns fest. Ich schlage vor, dass ich mich als
+-Austauschschülerin ausgebe, Sini als meine Cousine. Sie sagt, wir würden
+-auffliegen, noch bevor wir auf der Fähre sind. Sie schlägt vor, wir
+-könnten mit einem Fischerboot rüber. Ich male mir aus, wie wir im Nebel
+-treiben, bis uns ein Patrouillenboot aufgreift.
++Wir reden uns fest. Ich schlage vor, dass ich mich als Austauschschülerin
++ausgebe, Sini als meine Cousine. Sie sagt, wir würden auffliegen, noch bevor wir
++auf der Fähre sind. Sie schlägt vor, wir könnten mit einem Fischerboot rüber.
++Ich male mir aus, wie wir im Nebel treiben, bis uns ein Patrouillenboot
++aufgreift.
+@@ -47,2 +51,2 @@
+-„Was bleibt uns denn?" frage ich irgendwann ins Dunkel.\
+-„Kirche. Vielleicht noch mal Kirchenasyl."
++„Was bleibt uns denn?" frage ich irgendwann ins Dunkel.\ „Kirche. Vielleicht
++noch mal Kirchenasyl."
+@@ -50,4 +54,4 @@
+-Ich will lachen, aber es bleibt in meiner Kehle stecken. Wir drehen uns
+-hin und her, jeder Plan wird geboren und stirbt innerhalb von Minuten.
+-Die Müdigkeit kommt, aber der Schlaf nicht. Ich starre an die Decke, bis
+-die ersten Streifen Morgenlicht hineinkriechen.
++Ich will lachen, aber es bleibt in meiner Kehle stecken. Wir drehen uns hin und
++her, jeder Plan wird geboren und stirbt innerhalb von Minuten. Die Müdigkeit
++kommt, aber der Schlaf nicht. Ich starre an die Decke, bis die ersten Streifen
++Morgenlicht hineinkriechen.
+@@ -55,5 +59,4 @@
+-Wir gehen schweigend los. Die Straßen von Vaasa sind noch halb leer, nur
+-ein paar Frühaufsteher, die sich in den Tag schleppen. Vor uns ragt der
+-Kirchturm auf, scharf gegen den grauen Himmel. Ich frage mich, ob dort
+-drinnen jemand wirklich bereit wäre, mich aufzunehmen, auch wenn die
+-Polizei klopft.
++Wir gehen schweigend los. Die Straßen von Vaasa sind noch halb leer, nur ein
++paar Frühaufsteher, die sich in den Tag schleppen. Vor uns ragt der Kirchturm
++auf, scharf gegen den grauen Himmel. Ich frage mich, ob dort drinnen jemand
++wirklich bereit wäre, mich aufzunehmen, auch wenn die Polizei klopft.
+@@ -61,4 +64,3 @@
+-Dann fällt mein Blick auf einen kleinen Opel, hellblau, mit der
+-Motorhaube noch vom Tau glänzend. Ich bleibe stehen. „Den kenn ich."\
+-Sini folgt meinem Blick. „Dein Traumauto?"\
+-„Nein. Raijas Auto."
++Dann fällt mein Blick auf einen kleinen Opel, hellblau, mit der Motorhaube noch
++vom Tau glänzend. Ich bleibe stehen. „Den kenn ich."\ Sini folgt meinem Blick.
++„Dein Traumauto?"\ „Nein. Raijas Auto."
+@@ -66,3 +68,3 @@
+-Ich sehe mich um -- und da ist sie. Keine zehn Meter entfernt, an der
+-Ecke, wo der Gehweg zum Park abbiegt. Sie trägt die gleiche Lederjacke
+-wie zuletzt an unserem gemeinsamen Sonntag in Jyväskylät.
++Ich sehe mich um -- und da ist sie. Keine zehn Meter entfernt, an der Ecke, wo
++der Gehweg zum Park abbiegt. Sie trägt die gleiche Lederjacke wie zuletzt an
++unserem gemeinsamen Sonntag in Jyväskylät.
+@@ -70,2 +72,2 @@
+-„Raija!" Meine Stimme klingt lauter, als ich wollte. Sie dreht sich um,
+-und dann ist da dieses Lächeln, das mich sofort wärmt.
++„Raija!" Meine Stimme klingt lauter, als ich wollte. Sie dreht sich um, und dann
++ist da dieses Lächeln, das mich sofort wärmt.
+@@ -73,5 +75,4 @@
+-Wir rennen fast zu ihr. Sie zieht mich in eine Umarmung, fest, so wie
+-man es nur macht, wenn man wirklich froh ist, jemanden wiederzusehen.
+-Sini steht daneben, lächelt uns an.\
+-„Das ist also die berühmte Raija", sagt sie.\
+-„Und das ist Sini", sage ich stolz zu Raija.
++Wir rennen fast zu ihr. Sie zieht mich in eine Umarmung, fest, so wie man es nur
++macht, wenn man wirklich froh ist, jemanden wiederzusehen. Sini steht daneben,
++lächelt uns an.\ „Das ist also die berühmte Raija", sagt sie.\ „Und das ist
++Sini", sage ich stolz zu Raija.
+@@ -79,4 +80,3 @@
+-Wir stehen noch keine fünf Minuten zusammen, da fällt der Schatten auf
+-das Gespräch.\
+-„Ich hab gestern was im Funk gehört, Eddie. Von dir. Am Fährterminal."\
+-Mir wird schlagartig kalt. „Wenn *du* es gehört hast..."\
++Wir stehen noch keine fünf Minuten zusammen, da fällt der Schatten auf das
++Gespräch.\ „Ich hab gestern was im Funk gehört, Eddie. Von dir. Am
++Fährterminal."\ Mir wird schlagartig kalt. „Wenn *du* es gehört hast..."\
+@@ -85,2 +85,2 @@
+-Die Luft zwischen uns wird schwer. Kein Lächeln mehr. Nur die Stille, in
+-der wir alle wissen, was das heißt. Wir schauen uns um.
++Die Luft zwischen uns wird schwer. Kein Lächeln mehr. Nur die Stille, in der wir
++alle wissen, was das heißt. Wir schauen uns um.
+@@ -88,3 +88,3 @@
+-„Komm", sagt Raija. „Nicht hier."\
+-Wir lassen ihr Auto stehen. Keiner sagt, warum -- aber wir wissen es
+-alle. Zu auffällig, zu nah am Kirchturm, zu leicht zu finden.
++„Komm", sagt Raija. „Nicht hier."\ Wir lassen ihr Auto stehen. Keiner sagt,
++warum -- aber wir wissen es alle. Zu auffällig, zu nah am Kirchturm, zu leicht
++zu finden.
+@@ -92,4 +92,4 @@
+-Wir gehen schnell. Durch Straßen, die immer enger wirken, obwohl sie
+-offen vor uns liegen. Sini führt uns im Zickzack durch die Gassen. Ich
+-merke erst, als wir direkt vor Sinis Haustür stehen, dass wir schon da
+-sind. Drinnen ist es warm, aber die Wärme macht nichts leichter.
++Wir gehen schnell. Durch Straßen, die immer enger wirken, obwohl sie offen vor
++uns liegen. Sini führt uns im Zickzack durch die Gassen. Ich merke erst, als wir
++direkt vor Sinis Haustür stehen, dass wir schon da sind. Drinnen ist es warm,
++aber die Wärme macht nichts leichter.
+@@ -97,3 +97,3 @@
+-Wir sitzen wieder in Sinis Küche, aber diesmal ist die Luft nicht so
+-schwer wie gestern. Es knistert -- nicht vor Hoffnungslosigkeit, sondern
+-vor einer Idee, die langsam Form annimmt.
++Wir sitzen wieder in Sinis Küche, aber diesmal ist die Luft nicht so schwer wie
++gestern. Es knistert -- nicht vor Hoffnungslosigkeit, sondern vor einer Idee,
++die langsam Form annimmt.
+@@ -101,5 +101,5 @@
+-Sini stützt den Kopf in die Hand. „Es gibt hier Zöllner, die alles ganz
+-genau nehmen... und andere, die einer hübschen jungen Frau schon mal
+-einen Gefallen tun." Sie zieht eine Augenbraue hoch, als wollte sie mir
+-sagen, wer die „hübsche junge Frau" in diesem Plan wohl wäre. Ich starre
+-zurück, versuche nicht rot zu werden.
++Sini stützt den Kopf in die Hand. „Es gibt hier Zöllner, die alles ganz genau
++nehmen... und andere, die einer hübschen jungen Frau schon mal einen Gefallen
++tun." Sie zieht eine Augenbraue hoch, als wollte sie mir sagen, wer die „hübsche
++junge Frau" in diesem Plan wohl wäre. Ich starre zurück, versuche nicht rot zu
++werden.
+@@ -107,3 +107,3 @@
+-„Und dann gibt's noch die Neuen", sagt sie. „Die kennen die Regeln nicht
+-so gut. Ich kann den Dienstplan besorgen. Wenn wir den richtigen
+-erwischen, kommen wir vielleicht durch."
++„Und dann gibt's noch die Neuen", sagt sie. „Die kennen die Regeln nicht so gut.
++Ich kann den Dienstplan besorgen. Wenn wir den richtigen erwischen, kommen wir
++vielleicht durch."
+@@ -112,6 +112,5 @@
+-Busfahrer-Plan war Mist. Wir machen das sauberer. Zwei Tickets -- eins
+-hin und zurück für mich, eins ohne Rückfahrt für dich. Ich begleite dich
+-in Uniform, wie bei einer Gefangenenüberführung."\
+-„Klingt... offiziell", sage ich und versuche, mich nicht zu sehr in das
+-Bild hineinzusteigern, wie ich in Handschellen, aber frei, nach Schweden
+-fahre.
++Busfahrer-Plan war Mist. Wir machen das sauberer. Zwei Tickets -- eins hin und
++zurück für mich, eins ohne Rückfahrt für dich. Ich begleite dich in Uniform, wie
++bei einer Gefangenenüberführung."\ „Klingt... offiziell", sage ich und versuche,
++mich nicht zu sehr in das Bild hineinzusteigern, wie ich in Handschellen, aber
++frei, nach Schweden fahre.
+@@ -121,9 +120,7 @@
+-Da fällt es mir ein. „Was, wenn wir... eins dieser Fax schicken?"\
+-Die beiden sehen mich an, als hätte ich vorgeschlagen, wir fliegen
+-einfach mit einem Heißluftballon über die Ostsee. „Ein Fax?", fragt
+-Sini.\
+-„Ja! Die Dinger sind neu, sehen furchtbar wichtig aus. Jede
+-Polizeistation in Finnland hat so eines." "Na du weißt ja Sachen", lacht
+-Sini. "Wir schreiben einen Auslieferungsauftrag, auf Schwedisch, an
+-dich, Raija. Von einer erfundenen Behörde. Ist dein schwedisch gut
+-genug, Sini?" Sini nickt.
++Da fällt es mir ein. „Was, wenn wir... eins dieser Fax schicken?"\ Die beiden
++sehen mich an, als hätte ich vorgeschlagen, wir fliegen einfach mit einem
++Heißluftballon über die Ostsee. „Ein Fax?", fragt Sini.\ „Ja! Die Dinger sind
++neu, sehen furchtbar wichtig aus. Jede Polizeistation in Finnland hat so eines."
++"Na du weißt ja Sachen", lacht Sini. "Wir schreiben einen Auslieferungsauftrag,
++auf Schwedisch, an dich, Raija. Von einer erfundenen Behörde. Ist dein
++schwedisch gut genug, Sini?" Sini nickt.
+@@ -131,5 +128,5 @@
+-Eine Stunde später klappert Sinis alte Schreibmaschine. Ich tippe mit
+-zwei Fingern, Sini übersetzt ins Schwedische, Raija kontrolliert jeden
+-Satz wie eine Lehrerin, die ahnt, dass die Schülerin heimlich spickt.
+-Wir haben einen offiziellen Briefkopf, eine gefälschte Unterschrift, und
+-sogar ein erfundenes Aktenzeichen.
++Eine Stunde später klappert Sinis alte Schreibmaschine. Ich tippe mit zwei
++Fingern, Sini übersetzt ins Schwedische, Raija kontrolliert jeden Satz wie eine
++Lehrerin, die ahnt, dass die Schülerin heimlich spickt. Wir haben einen
++offiziellen Briefkopf, eine gefälschte Unterschrift, und sogar ein erfundenes
++Aktenzeichen.
+@@ -137,5 +134,5 @@
+-Am Nachmittag sitzen wir in der Bücherei von Vaasa, zwischen staubigen
+-Regalen an einem Faxgerät, das leise summt, als wir das Papier
+-hineinschieben. Minuten später läuft es in der Polizeistation um die
+-Ecke ein -- mit dem perfekten Stempel: Empfangsbestätigung Vaasa. Raija
+-holt es in Uniform ab, als gehöre es zu ihrem Job.
++Am Nachmittag sitzen wir in der Bücherei von Vaasa, zwischen staubigen Regalen
++an einem Faxgerät, das leise summt, als wir das Papier hineinschieben. Minuten
++später läuft es in der Polizeistation um die Ecke ein -- mit dem perfekten
++Stempel: Empfangsbestätigung Vaasa. Raija holt es in Uniform ab, als gehöre es
++zu ihrem Job.
+@@ -143,2 +140,2 @@
+-Sini kommt mit guten Nachrichten von der Arbeit zurück: die Zöllner, die
+-am nächsten Morgen Schicht haben, seien zwei ganz entspannte Typen.
++Sini kommt mit guten Nachrichten von der Arbeit zurück: die Zöllner, die am
++nächsten Morgen Schicht haben, seien zwei ganz entspannte Typen.
+@@ -146,5 +143,4 @@
+-Der Abend ist unser letzter zu dritt. Wir essen Brot, das zu hart für
+-Butter ist, und reden wenig. Irgendwann liegen Sini und ich im Bett,
+-Raija schnarcht leise auf dem Sofa. Ich kann nicht schlafen, weil jede
+-Minute hier doppelt zählt -- und weil ich weiß, dass das Ende einer Welt
+-näher rückt.
++Der Abend ist unser letzter zu dritt. Wir essen Brot, das zu hart für Butter
++ist, und reden wenig. Irgendwann liegen Sini und ich im Bett, Raija schnarcht
++leise auf dem Sofa. Ich kann nicht schlafen, weil jede Minute hier doppelt zählt
++-- und weil ich weiß, dass das Ende einer Welt näher rückt.
+@@ -152,4 +148,3 @@
+-Am Morgen läuft alles wie geprobt. Uniform, Dokument, zwei Tickets. Die
+-Zöllner sehen uns, sehen das Papier und winken durch. Sini eilt uns
+-nach, bis in den Abfertigungsbereich. Man kennt sie, niemand hält sie
+-auf.
++Am Morgen läuft alles wie geprobt. Uniform, Dokument, zwei Tickets. Die Zöllner
++sehen uns, sehen das Papier und winken durch. Sini eilt uns nach, bis in den
++Abfertigungsbereich. Man kennt sie, niemand hält sie auf.
+@@ -157,2 +152,5 @@
+-Wir stehen uns gegenüber. Ich will etwas sagen, etwas, das all mein Dankbarkeit ausdrückt, etwas das sie für immer behält. Stattdessen atme ich tief ein, springe über meinen eigenen Schatten, lege meine Hände an ihre Wangen und küsse sie -- lange, mitten
+-im Lärm und im Neonlicht. Sie erwidert es, als hätten wir alle Zeit der Welt.
++Wir stehen uns gegenüber. Ich will etwas sagen, etwas, das all mein Dankbarkeit
++ausdrückt, etwas das sie für immer behält. Stattdessen atme ich tief ein,
++springe über meinen eigenen Schatten, lege meine Hände an ihre Wangen und küsse
++sie -- lange, mitten im Lärm und im Neonlicht. Sie erwidert es, als hätten wir
++alle Zeit der Welt.
+@@ -162,4 +160,3 @@
+-Dann drehe ich mich um und gehe, ohne mich noch einmal umzusehen. Die
+-Überfahrt beginnt. Keine Fragen, keine Komplikationen mehr. Nur das
+-Rauschen des Wassers und die Ahnung, dass ich gerade alles hinter mir
+-gelassen habe.
++Dann drehe ich mich um und gehe, ohne mich noch einmal umzusehen. Die Überfahrt
++beginnt. Keine Fragen, keine Komplikationen mehr. Nur das Rauschen des Wassers
++und die Ahnung, dass ich gerade alles hinter mir gelassen habe.
+@@ -167,4 +164,3 @@
+-Ich lehne mich an die Reling, das Metall noch kühl von der Nacht. Unter
+-mir schlägt die Ostsee gegen den Rumpf, gleichmäßig, fast beruhigend --
+-wie ein Herzschlag, nur lauter.\
+-Hinter mir liegt Vaasa, vor mir liegt alles.
++Ich lehne mich an die Reling, das Metall noch kühl von der Nacht. Unter mir
++schlägt die Ostsee gegen den Rumpf, gleichmäßig, fast beruhigend -- wie ein
++Herzschlag, nur lauter.\ Hinter mir liegt Vaasa, vor mir liegt alles.
+@@ -172,2 +168,2 @@
+-Ich taste unauffällig über meine Lippen, als könnte da noch etwas von
+-Sini sein. Ist da auch. Zumindest für mich.
++Ich taste unauffällig über meine Lippen, als könnte da noch etwas von Sini sein.
++Ist da auch. Zumindest für mich.
+@@ -175,4 +171,3 @@
+-Neben mir stehen ein paar LKW-Fahrer mit Thermoskannen, reden über
+-Motoren und den Preis für Diesel in Umeå. Einer wirft mir einen Blick
+-zu, mustert die Uniform von Raija und mich -- aber er fragt nichts. Gut
+-so.
++Neben mir stehen ein paar LKW-Fahrer mit Thermoskannen, reden über Motoren und
++den Preis für Diesel in Umeå. Einer wirft mir einen Blick zu, mustert die
++Uniform von Raija und mich -- aber er fragt nichts. Gut so.
+@@ -180,2 +175,2 @@
+-Raija lehnt sich mit verschränkten Armen ans Geländer. Sie sagt nichts,
+-muss sie auch nicht. Ihre bloße Anwesenheit ist wie ein Schutzschild.
++Raija lehnt sich mit verschränkten Armen ans Geländer. Sie sagt nichts, muss sie
++auch nicht. Ihre bloße Anwesenheit ist wie ein Schutzschild.
+@@ -183,5 +178,5 @@
+-Ich starre nach vorn, wo der Horizont aussieht, als hätte ihn jemand mit
+-einem Lineal gezogen. Irgendwo dahinter ist Schweden, das Land, das seit
+-Monaten wie ein Märchen in meinem Kopf wohnt.\
+-Ich frage mich, ob es wirklich so ist, wie ich es mir vorstelle.
+-Wahrscheinlich nicht. Aber es ist nicht die DDR. Das reicht fürs Erste.
++Ich starre nach vorn, wo der Horizont aussieht, als hätte ihn jemand mit einem
++Lineal gezogen. Irgendwo dahinter ist Schweden, das Land, das seit Monaten wie
++ein Märchen in meinem Kopf wohnt.\ Ich frage mich, ob es wirklich so ist, wie
++ich es mir vorstelle. Wahrscheinlich nicht. Aber es ist nicht die DDR. Das
++reicht fürs Erste.
+@@ -189,4 +184,4 @@
+-Der Wind frischt auf, zumpft an meinen kurzen Haaren. Ich lache leise, einfach so, weil ich kann. Und unter all dem neuen, wilden Gefühl liegt dieser eine Gedanke wie
+-ein kleiner, warmer Stein in der Tasche: Sini hat mich gehen lassen.
+-Aber sie hat mir etwas mitgegeben, das nicht an irgendeiner Grenze
+-hängenbleibt.
++Der Wind frischt auf, zumpft an meinen kurzen Haaren. Ich lache leise, einfach
++so, weil ich kann. Und unter all dem neuen, wilden Gefühl liegt dieser eine
++Gedanke wie ein kleiner, warmer Stein in der Tasche: Sini hat mich gehen lassen.
++Aber sie hat mir etwas mitgegeben, das nicht an irgendeiner Grenze hängenbleibt.
+@@ -194,2 +189,2 @@
+-Raija lehnt sich neben mich an die Reling, schaut lange aufs Wasser, als
+-würde sie dort unten die passenden Worte finden.
++Raija lehnt sich neben mich an die Reling, schaut lange aufs Wasser, als würde
++sie dort unten die passenden Worte finden.
+@@ -197,2 +192,2 @@
+-„Eddie...", sagt sie schließlich, „warum bist du damals so plötzlich aus
+-meiner Wohnung abgehauen? Ich hab überall nach dir gesucht."
++„Eddie...", sagt sie schließlich, „warum bist du damals so plötzlich aus meiner
++Wohnung abgehauen? Ich hab überall nach dir gesucht."
+@@ -200,2 +195,2 @@
+-Ihre Stimme ist ruhig, aber dahinter liegt etwas Hartes -- Sorge oder
+-vielleicht auch leise Wut.
++Ihre Stimme ist ruhig, aber dahinter liegt etwas Hartes -- Sorge oder vielleicht
++auch leise Wut.
+@@ -203,2 +198,2 @@
+-Ich atme durch, blicke auf meine Hände, die auf dem kalten Metall
+-liegen. „Ich dachte, du weißt es. Wegen Markku."
++Ich atme durch, blicke auf meine Hände, die auf dem kalten Metall liegen. „Ich
++dachte, du weißt es. Wegen Jorma."
+@@ -210,2 +205,2 @@
+-Es dauert ein paar Sekunden, bis sie versteht. Ihre Stirn zieht sich
+-zusammen. "Oh, nein!" ruft sie. "Was genau ist passiert?"
++Es dauert ein paar Sekunden, bis sie versteht. Ihre Stirn zieht sich zusammen.
++"Oh, nein!" ruft sie. "Was genau ist passiert?"
+@@ -213,3 +208,2 @@
+-"Als er am Morgen zurückkam, ... Er war betrunken und immer noch sauer
+-auf mich. Da er keine Argumente mehr hatte, fing ich mir ne Ohrfeige von
+-ihm."
++"Als er am Morgen zurückkam, ... Er war betrunken und immer noch sauer auf mich.
++Da er keine Argumente mehr hatte, fing ich mir ne Ohrfeige von ihm."
+@@ -217,3 +211,3 @@
+-Raija stößt einen leisen, bitteren Laut aus. „Verdammt. Und ich war
+-nicht da. Hätte ihn rausschmeißen sollen, längst..." Sie schüttelt den
+-Kopf, als wollte sie den Gedanken loswerden.
++Raija stößt einen leisen, bitteren Laut aus. „Verdammt. Und ich war nicht da.
++Hätte ihn rausschmeißen sollen, längst..." Sie schüttelt den Kopf, als wollte
++sie den Gedanken loswerden.
+@@ -221,2 +215,2 @@
+-„Ich bin dir damals gefolgt", sage ich leise. „Mit dem Zug bis Tampere.
+-Bin sogar bis vor die Polizeistation gelaufen, wo du gearbeitet hast."
++„Ich bin dir damals gefolgt", sage ich leise. „Mit dem Zug bis Tampere. Bin
++sogar bis vor die Polizeistation gelaufen, wo du gearbeitet hast."
+@@ -226,3 +220,3 @@
+-„Weil ich dachte, dass mich die Polizei dann wieder ausliefert. Also bin
+-ich einfach los, zu Fuß Richtung Vaasa. Ich hatte mir fest vorgenommen,
+-dir zu schreiben, aber dann kam so viel dazwischen."
++„Weil ich dachte, dass mich die Polizei dann wieder ausliefert. Also bin ich
++einfach los, zu Fuß Richtung Vaasa. Ich hatte mir fest vorgenommen, dir zu
++schreiben, aber dann kam so viel dazwischen."
+@@ -230,5 +224,4 @@
+-Sie sieht mich an, als müsste sie neu lernen, wer ich eigentlich bin.
+-„Ich habe später erfahren, dass einer von Markkus Freunden bei der SKOL
+-Kontakt zur Stasi aufgenommen hat. Markku wusste nicht, dass er dich
+-verraten würde. Er war total unvorsichtig. Unentschuldbar
+-unvorsichtig."
++Sie sieht mich an, als müsste sie neu lernen, wer ich eigentlich bin. „Ich habe
++später erfahren, dass einer von Jormas Freunden bei der SKOL Kontakt zur Stasi
++aufgenommen hat. Jorma wusste nicht, dass er dich verraten würde. Er war total
++unvorsichtig. Unentschuldbar unvorsichtig."
+@@ -238,2 +231,2 @@
+-„Bevor Markku dich geschlagen hat. Aber du warst schon weg, als die
+-Männer der Stasi vor unserer Wohnung standen… Glück im Unglück."
++„Bevor Jorma dich geschlagen hat. Aber du warst schon weg, als die Männer der
++Stasi vor unserer Wohnung standen… Glück im Unglück."
+@@ -241,5 +234,4 @@
+-Wir schweigen. Die Ostsee zieht unter uns vorbei wie ein endloses
+-Fließband.
+-„Komisch, wie das Schicksal manchmal funktioniert", murmelt Raija.
+-„Ja. Ich hab gedacht, die Flucht aus deiner Wohnung war mein größter
+-Absturz. Und jetzt seh ich, dass sie mich gerettet hat."
++Wir schweigen. Die Ostsee zieht unter uns vorbei wie ein endloses Fließband.
++„Komisch, wie das Schicksal manchmal funktioniert", murmelt Raija. „Ja. Ich hab
++gedacht, die Flucht aus deiner Wohnung war mein größter Absturz. Und jetzt seh
++ich, dass sie mich gerettet hat."
+@@ -247,3 +239,3 @@
+-Wir stehen da, jede in ihren eigenen Gedanken. Und zwischen all dem
+-Schmerz und der Schwere bleibt dieser kleine, helle Punkt – dass selbst
+-eine scheinbare Niederlage manchmal genau der Schritt ist, der dich weiterbringt.
++Wir stehen da, jede in ihren eigenen Gedanken. Und zwischen all dem Schmerz und
++der Schwere bleibt dieser kleine, helle Punkt – dass selbst eine scheinbare
++Niederlage manchmal genau der Schritt ist, der dich weiterbringt.

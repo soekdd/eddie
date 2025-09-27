@@ -1,0 +1,18 @@
+--- old
++++ new
+@@ -18,14 +18,1 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
+-    }
+-  }
++  "proofreading": {}

@@ -1,0 +1,119 @@
+--- old
++++ new
+@@ -5,21 +5,16 @@
+-    "date": "1985-08-10",
+-    "place": "Sinis Wohnung, Vaasa",
+-    "synopsis": "Eddie erzählt Sini … (Rückblick auf Dresden).",
+-    "persons": ["Eddie", "Sini", "Eddies Vater", "Leonhard Radmer"],
+-    "synopsis": "Eddie erzählt Sini, wie ihr Vater trotz überragender Fähigkeiten im Schatten des Parteikarrieristen Radmer blieb.",
+-    "mood": "bitter yet intimate",
+-    "tense": "present, Eddies first-person perspective",
+-    "mode": "mainline", // flashback | mainline
+-    "feedback": {
+-        "anni": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "lucia": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "soek": {
+-            "rating":".....",
+-            "comments":""
+-        }
++  "date": "1985-08-10",
++  "place": "Sinis Wohnung, Vaasa",
++  "synopsis": "Eddie erzählt Sini, wie ihr Vater trotz überragender Fähigkeiten im Schatten des Parteikarrieristen Radmer blieb.",
++  "persons": [
++    "Eddie",
++    "Sini",
++    "Eddies Vater",
++    "Leonhard Radmer"
++  ],
++  "mood": "bitter yet intimate",
++  "tense": "present, Eddies first-person perspective",
++  "mode": "mainline",
++  "feedback": {
++    "anni": {
++      "rating": ".....",
++      "comments": ""
+@@ -27,1 +22,10 @@
+-    "todo":"Der Dialog der Mädchen ist noch zu schwach, zu redundant."
++    "lucia": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "soek": {
++      "rating": ".....",
++      "comments": ""
++    }
++  },
++  "todo": "Der Dialog der Mädchen ist noch zu schwach, zu redundant."
+@@ -31,4 +35,4 @@
+-„Weißt du, mein Alter war im Studium der Allerbeste. Kernreaktortechnik,
+-TU Dresden -- der Typ konnte die Formeln aus dem Ärmel schütteln, wo die
+-anderen noch die Taschenrechner falsch rum hielten. Nur hat er sich halt
+-nie für Politik interessiert. Und da fängt die ganze Tragödie an.
++„Weißt du, mein Alter war im Studium der Allerbeste. Kernreaktortechnik, TU
++Dresden -- der Typ konnte die Formeln aus dem Ärmel schütteln, wo die anderen
++noch die Taschenrechner falsch rum hielten. Nur hat er sich halt nie für Politik
++interessiert. Und da fängt die ganze Tragödie an.
+@@ -36,5 +40,5 @@
+-Sein Kumpel damals hieß Leo. Eigentlich Leonhard Radmer, aber alle
+-nannten ihn Leo. Den hat mein Vater immer durchgezogen, durch jede
+-verdammte Prüfung. Der war nämlich so ein Parteihengst -- schon in der
+-FDJ groß, dann früh in der SED. Immer mit Fähnchen schwenken und Parolen
+-brüllen, dafür aber in Mathe und Physik auf dem Zahnfleisch.
++Sein Kumpel damals hieß Leo. Eigentlich Leonhard Radmer, aber alle nannten ihn
++Leo. Den hat mein Vater immer durchgezogen, durch jede verdammte Prüfung. Der
++war nämlich so ein Parteihengst -- schon in der FDJ groß, dann früh in der SED.
++Immer mit Fähnchen schwenken und Parolen brüllen, dafür aber in Mathe und Physik
++auf dem Zahnfleisch.
+@@ -42,5 +46,4 @@
+-Und was passiert? Nach dem Studium: Promotionsstelle für Leo. Für meinen
+-Vater: nichts. Als dann noch ein neuer Lehrstuhl ‚Reaktordynamik und
+-Sicherheitsforschung' aufgemacht wurde -- rat mal, wer da Professor
+-wurde? Klar, Radmer. Dr. Leonhard Radmer, frisch gebackener
+-Parteisekretär.
++Und was passiert? Nach dem Studium: Promotionsstelle für Leo. Für meinen Vater:
++nichts. Als dann noch ein neuer Lehrstuhl ‚Reaktordynamik und
++Sicherheitsforschung' aufgemacht wurde -- rat mal, wer da Professor wurde? Klar,
++Radmer. Dr. Leonhard Radmer, frisch gebackener Parteisekretär.
+@@ -48,5 +51,4 @@
+-Nur: der Typ hatte null Plan. Völlig überfordert mit der ganzen Nummer.
+-Also hat er meinen Vater als wissenschaftlichen Mitarbeiter geholt --
+-offiziell, um sich glänzende Zuarbeit zu sichern. In echt war es eher
+-so: Mein Vater macht die ganze Arbeit, Radmer schnappt sich die
+-Lorbeeren.
++Nur: der Typ hatte null Plan. Völlig überfordert mit der ganzen Nummer. Also hat
++er meinen Vater als wissenschaftlichen Mitarbeiter geholt -- offiziell, um sich
++glänzende Zuarbeit zu sichern. In echt war es eher so: Mein Vater macht die
++ganze Arbeit, Radmer schnappt sich die Lorbeeren.
+@@ -54,4 +56,4 @@
+-Das Verrückte: Der Lehrstuhl hat einen internationalen Ruf bekommen,
+-sogar in Frankreich werden die zitiert. Aber das liegt nicht an Radmer,
+-sondern allein an meinem Vater. Er ist das Hirn dahinter, aber im
+-Rampenlicht steht immer der falsche."
++Das Verrückte: Der Lehrstuhl hat einen internationalen Ruf bekommen, sogar in
++Frankreich werden die zitiert. Aber das liegt nicht an Radmer, sondern allein an
++meinem Vater. Er ist das Hirn dahinter, aber im Rampenlicht steht immer der
++falsche."
+@@ -59,2 +61,2 @@
+-Sini schweigt kurz, zieht an einer losen blauen Haarsträhne. Dann sagt
+-sie leise, fast beiläufig: „Klingt wie'n schlechter Tausch. Talent gegen
++Sini schweigt kurz, zieht an einer losen blauen Haarsträhne. Dann sagt sie
++leise, fast beiläufig: „Klingt wie'n schlechter Tausch. Talent gegen
+@@ -63,3 +65,3 @@
+-Ich nicke. „Und das Bitterste: Ohne meinen Vater wäre dieser ganze
+-Lehrstuhl längst tot. Alle Welt lobt die ‚Arbeiten von Professor
+-Radmer'. Aber eigentlich ist es nur sein Deckmantel."
++Ich nicke. „Und das Bitterste: Ohne meinen Vater wäre dieser ganze Lehrstuhl
++längst tot. Alle Welt lobt die ‚Arbeiten von Professor Radmer'. Aber eigentlich
++ist es nur sein Deckmantel."
+@@ -67,3 +69,2 @@
+-Sini lacht trocken, aber nicht böse. „Also dein Vater ist das Herz. Und
+-Radmer die Maske."\
+-Sie schaut mich schief an, als wollte sie prüfen, ob ich es auch so
++Sini lacht trocken, aber nicht böse. „Also dein Vater ist das Herz. Und Radmer
++die Maske."\ Sie schaut mich schief an, als wollte sie prüfen, ob ich es auch so

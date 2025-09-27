@@ -1,0 +1,20 @@
+--- old
++++ new
+@@ -15,15 +15,2 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
+-    }
+-  },
+-  "todo": "Ein Zimmer und ein Telefon auf dem Flur: Stundenlange telefonate mit Raija  und Sini, eine Minute kostete 10 Schwedische Kronen. Eddie arbeitet hat für lange Telefonate."
++  "todo": "Ein Zimmer und ein Telefon auf dem Flur: Stundenlange telefonate mit Raija  und Sini, eine Minute kostete 10 Schwedische Kronen. Eddie arbeitet hat für lange Telefonate.",
++  "proofreading": {}

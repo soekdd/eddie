@@ -1,0 +1,53 @@
+--- old
++++ new
+@@ -5,22 +5,16 @@
+-    "date": "1985-09-01",
+-    "daytime": "morning",
+-    "place": "Sinis Wohnung",
+-    "persons": ["Eddie", "Sini"],
+-    "synopsis": "Eddie wird klar, dass das Schuljahr ohne sie startet. Sie erzählt Sini, wie sie zur IMO gekommen ist",
+-    "mood": "Tense → hurt → honest repair; cautious hope.",
+-    "tense": "present, Eddies first-person perspective",
+-    "mode": "mainline", // flashback | mainline
+-    "illustrations": [],
+-    "feedback": {
+-        "anni": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "lucia": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "soek": {
+-            "rating":".....",
+-            "comments":""
+-        }
++  "date": "1985-09-01",
++  "daytime": "morning",
++  "place": "Sinis Wohnung",
++  "persons": [
++    "Eddie",
++    "Sini"
++  ],
++  "synopsis": "Eddie wird klar, dass das Schuljahr ohne sie startet. Sie erzählt Sini, wie sie zur IMO gekommen ist",
++  "mood": "Tense → hurt → honest repair; cautious hope.",
++  "tense": "present, Eddies first-person perspective",
++  "mode": "mainline",
++  "illustrations": [],
++  "feedback": {
++    "anni": {
++      "rating": ".....",
++      "comments": ""
+@@ -28,1 +22,10 @@
+-    "todo":"Prompt: Eddie wird klar, dass das neue Schuljahr in der DDR ohne sie startet. Sie erzählt Sini, wie sie zur IMO gekommen ist. Auswahl über die Siege der Bezirksolympiade und dann wieder und wieder Aufgaben unter Prüfungsbedingungen lösen"
++    "lucia": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "soek": {
++      "rating": ".....",
++      "comments": ""
++    }
++  },
++  "todo": "Prompt: Eddie wird klar, dass das neue Schuljahr in der DDR ohne sie startet. Sie erzählt Sini, wie sie zur IMO gekommen ist. Auswahl über die Siege der Bezirksolympiade und dann wieder und wieder Aufgaben unter Prüfungsbedingungen lösen"

@@ -1,0 +1,188 @@
+--- old
++++ new
+@@ -20,4 +20,5 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
++  "proofreading": {
++    "Kapitel": "600_Wiedersehen_mit_Raija",
++    "Ton": {
++      "Einschaetzung": "Emotional, hoffnungsvoll, Eddie schildert Begegnung mit Freude.",
++      "Kritik": "Ton kippt stellenweise ins Pathetische. Eddie wirkt sehr abgeklärt in der Darstellung, jugendliche Unsicherheit fehlt."
+@@ -25,3 +26,3 @@
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
++    "Logik": {
++      "Einschaetzung": "Wiedersehen dramaturgisch sinnvoll, passt in den Handlungsbogen.",
++      "Kritik": "Die Szene wirkt zu glatt, ohne Reibung oder Missverständnisse. Realismus könnte durch Stolperer gestärkt werden."
+@@ -29,3 +30,12 @@
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
++    "Charaktere": {
++      "Einschaetzung": "Eddie voller Emotion, Raija als wichtige Bezugsperson klar erkennbar.",
++      "Kritik": "Beide Figuren wirken stellenweise zu idealisiert. Konflikte oder Ambivalenzen fehlen."
++    },
++    "Sprache": {
++      "Einschaetzung": "Gefühlsbetont, bildhaft.",
++      "Kritik": "Teilweise überladen mit Metaphern, Sprache fast kitschig. Wenig jugendliche Direktheit oder spontane Reaktionen."
++    },
++    "Fazit": {
++      "Staerken": "Schönes Wiedersehen, emotionale Intensität, wichtiger Bezug für Eddie.",
++      "Schwaechen": "Zu glatt, zu idealisiert, Sprache kitschig.",
++      "Fix": "Mehr Unsicherheit, Missverständnisse oder Brüche einbauen, Sprache straffen und jugendlicher machen."
+@@ -41,3 +51,3 @@
+-„Was, wenn wir einfach… morgen einen anderen Bus probieren?" frage ich.\ „Und
+-wenn die wieder fragen, wie alt du bist?"\ „Sag ich was anderes."\ „Die schauen
+-in deinem Pass, Eddie. Das bringt doch nichts."
++„Was, wenn wir einfach… morgen einen anderen Bus probieren?“ frage ich.\ „Und
++wenn die wieder fragen, wie alt du bist?“\ „Sag ich was anderes.“\ „Die schauen
++in deinem Pass, Eddie. Das bringt doch nichts.“
+@@ -51,2 +61,2 @@
+-„Was bleibt uns denn?" frage ich irgendwann ins Dunkel und beantworte es mir
+-selbst: „Kirche. Vielleicht noch mal Kirchenasyl."
++„Was bleibt uns denn?“ frage ich irgendwann ins Dunkel und beantworte es mir
++selbst: „Kirche. Vielleicht noch mal Kirchenasyl.“
+@@ -65,2 +75,2 @@
+-vom Tau glänzend. Ich bleibe stehen. „Den kenn ich."\ Sini folgt meinem Blick.
+-„Dein Traumauto?"\ „Nein. Raijas Auto."
++vom Tau glänzend. Ich bleibe stehen. „Den kenn ich.“\ Sini folgt meinem Blick.
++„Dein Traumauto?“\ „Nein. Raijas Auto.“
+@@ -72,1 +82,1 @@
+-„Raija!" Meine Stimme klingt lauter, als ich wollte. Sie dreht sich um, und dann
++„Raija!“ Meine Stimme klingt lauter, als ich wollte. Sie dreht sich um, und dann
+@@ -77,2 +87,2 @@
+-lächelt uns an.\ „Das ist also die berühmte Raija", sagt sie.\ „Und das ist
+-Sini", sage ich stolz zu Raija.
++lächelt uns an.\ „Das ist also die berühmte Raija“, sagt sie.\ „Und das ist
++Sini“, sage ich stolz zu Raija.
+@@ -82,2 +92,2 @@
+-Fährterminal."\ Mir wird schlagartig kalt. „Wenn *du* es gehört hast…"\ „…dann
+-hat es Mielke auch", beendet sie den Satz für mich.
++Fährterminal.“\ Mir wird schlagartig kalt. „Wenn *du* es gehört hast…“\ „…dann
++hat es Mielke auch“, beendet sie den Satz für mich.
+@@ -88,1 +98,1 @@
+-„Komm", sagt Raija. „Nicht hier."\ Wir lassen ihr Auto stehen. Keiner sagt,
++„Komm“, sagt Raija. „Nicht hier.“\ Wir lassen ihr Auto stehen. Keiner sagt,
+@@ -103,2 +113,2 @@
+-tun." Sie zieht eine Augenbraue hoch, als wollte sie mir sagen, wer die „hübsche
+-junge Frau" in diesem Plan wohl wäre. Ich starre zurück, versuche nicht rot zu
++tun.“ Sie zieht eine Augenbraue hoch, als wollte sie mir sagen, wer die „hübsche
++junge Frau“ in diesem Plan wohl wäre. Ich starre zurück, versuche nicht rot zu
+@@ -107,1 +117,1 @@
+-„Und dann gibt's noch die Neuen", sagt sie. „Die kennen die Regeln nicht so gut.
++„Und dann gibt's noch die Neuen“, sagt sie. „Die kennen die Regeln nicht so gut.
+@@ -109,1 +119,1 @@
+-vielleicht durch."
++vielleicht durch.“
+@@ -114,1 +124,1 @@
+-bei einer Gefangenenüberführung."\ „Klingt… offiziell", sage ich und versuche,
++bei einer Gefangenenüberführung.“\ „Klingt… offiziell“, sage ich und versuche,
+@@ -118,1 +128,1 @@
+-„Offiziell reicht nicht", sagt Raija. „Ich brauch was auf Papier."
++„Offiziell reicht nicht“, sagt Raija. „Ich brauch was auf Papier.“
+@@ -120,1 +130,1 @@
+-Da fällt es mir ein. „Was, wenn wir… eins dieser Fax schicken?"\ Die beiden
++Da fällt es mir ein. „Was, wenn wir… eins dieser Fax schicken?“\ Die beiden
+@@ -122,3 +132,3 @@
+-Heißluftballon über die Ostsee. „Ein Fax?", fragt Sini.\ „Ja! Die Dinger sind
+-neu, sehen furchtbar wichtig aus. Jede Polizeistation in Finnland hat so eines."
+-"Na du weißt ja Sachen", lacht Sini. "Wir schreiben einen Auslieferungsauftrag,
++Heißluftballon über die Ostsee. „Ein Fax?“, fragt Sini.\ „Ja! Die Dinger sind
++neu, sehen furchtbar wichtig aus. Jede Polizeistation in Finnland hat so eines.“
++„Na du weißt ja Sachen“, lacht Sini. „Wir schreiben einen Auslieferungsauftrag,
+@@ -126,1 +136,1 @@
+-schwedisch gut genug, Sini?" Sini nickt.
++schwedisch gut genug, Sini?“ Sini nickt.
+@@ -158,1 +168,1 @@
+-Raija grinst. „Da habe ich wohl was verpasst?"
++Raija grinst. „Da habe ich wohl was verpasst?“
+@@ -192,2 +202,3 @@
+-„Eddie…", sagt sie schließlich, „warum bist du damals so plötzlich aus meiner
+-Wohnung abgehauen? Ich hab überall nach dir gesucht."
++„Eddie…“, sagt sie schließlich, „als die Stasi vor unserer Wohnung auftauchte,
++warst du schon weg. Wie konntest du das wissen?“ Ihre Stimme ist ruhig, aber
++dahinter liegt etwas Hartes -- Sorge oder vielleicht auch leise Wut.
+@@ -195,3 +206,0 @@
+-Ihre Stimme ist ruhig, aber dahinter liegt etwas Hartes -- Sorge oder vielleicht
+-auch leise Wut.
+-
+@@ -199,1 +207,1 @@
+-dachte, du weißt es. Wegen Jorma."
++dachte, du weißt es. Wegen Jorma.“
+@@ -201,1 +209,1 @@
+-„Wegen seiner politischen Sprüche?"
++„Hat er dich gewarnt? Oder hast du es geahnt, wegen seiner Sprüche?“
+@@ -203,1 +211,1 @@
+-„Nein", sage ich. „Wegen seiner Hände."
++„Nein“, sage ich. „Wegen seiner Hände.“
+@@ -206,1 +214,1 @@
+-"Oh, nein!" ruft sie. "Was genau ist passiert?"
++„Oh, nein!“ ruft sie. „Was genau ist passiert?“
+@@ -208,2 +216,2 @@
+-"Als er am Morgen zurückkam, … Er war betrunken und immer noch sauer auf mich.
+-Da er keine Argumente mehr hatte, fing ich mir ne Ohrfeige von ihm."
++„Als er am Morgen zurückkam, … Er war betrunken und immer noch sauer auf mich.
++Da er keine Argumente mehr hatte, fing ich mir ne Ohrfeige von ihm.“
+@@ -212,1 +220,1 @@
+-Hätte ihn rausschmeißen sollen, längst…" Sie schüttelt den Kopf, als wollte sie
++Hätte ihn rausschmeißen sollen, längst…“ Sie schüttelt den Kopf, als wollte sie
+@@ -215,2 +223,2 @@
+-„Ich bin dir damals gefolgt", sage ich leise. „Mit dem Zug bis Tampere. Bin
+-sogar bis vor die Polizeistation gelaufen, wo du gearbeitet hast."
++„Ich bin dir damals gefolgt“, sage ich leise. „Mit dem Zug bis Tampere. Bin
++sogar bis vor die Polizeistation gelaufen, wo du gearbeitet hast.“
+@@ -218,1 +226,1 @@
+-„Was? Du warst da, in Tampere? Und warum bist du nicht reingekommen?"
++„Was? Du warst da, in Tampere? Und warum bist du nicht reingekommen?“
+@@ -222,1 +230,1 @@
+-schreiben, aber dann kam so viel dazwischen."
++schreiben, aber dann kam so viel dazwischen.“
+@@ -224,0 +232,8 @@
++Raija blinzelt mich an, als hätte sie sich verhört. „Von Tampere bis Vaasa? Das
++sind doch dreihundert Kilometer!“
++
++„Eher vierhundert“, erwidere ich leise. „Es war kein einfacher Weg. Als Sini
++mich fand, war ich halb tot.“
++
++Raija presst die Lippen zusammen, ihre Augen glänzen. „Mein Gott, Eddie…“
++
+@@ -226,2 +242,1 @@
+-aufgenommen hat. Jorma wusste nicht, dass er dich verraten würde. Er war total
+-unvorsichtig. Unentschuldbar unvorsichtig."
++aufgenommen hat.“
+@@ -229,1 +244,2 @@
+-Mir wird kurz kalt, obwohl der Wind heute mild ist. „Und das war, bevor…?"
++Mir wird kurz kalt, obwohl der Wind heute mild ist. „Also wusste Jorma gar
++nicht, dass die Stasi kommt?“
+@@ -231,2 +247,4 @@
+-„Bevor Jorma dich geschlagen hat. Aber du warst schon weg, als die Männer der
+-Stasi vor unserer Wohnung standen… Glück im Unglück."
++Raija seufzt. „Nein. Jorma war dumm, unvorsichtig, hat gequatscht. Wollte sich
++vor einen Kumpels wichtig machen. Er wusste nicht, dass er dich damit verrät.
++Aber unentschuldbar bleibt es trotzdem. Also warst du schon weg, als die Männer
++der Stasi vor unserer Wohnung standen… Glück im Unglück.“
+@@ -235,3 +253,3 @@
+-„Komisch, wie das Schicksal manchmal funktioniert", murmelt Raija. „Ja. Ich hab
+-gedacht, die Flucht aus deiner Wohnung war mein größter Absturz. Und jetzt seh
+-ich, dass sie mich gerettet hat."
++„Komisch, wie das Schicksal manchmal funktioniert“, murmelt Raija. „Als ich die
++Ohrfeige fing, habe ich nur trotzig reagiert und bin ohne Plan einfach nur raus
++aus der Wohnung. Und jetzt seh ich, dass sie mich gerettet hat.“
+@@ -239,0 +257,14 @@
++Ich beiße mir auf die Lippe. „Das erklärt aber, warum sie so schnell an deiner
++Wohnung waren. Aber hast du eine Ahnung, wie sie auch so schnell in der Kirche
++sein konnten?“
++
++Raija nickt langsam. „Das habe ich mich auch gefragt und mit meinem Kollegen
++durchdiskutiert. Wir denken, die Männer aus der Botschaft waren während der
++ganzen IMO in Joutsa und haben den Bussteig überwacht.“
++
++„Ja, einen anderen Weg raus aus der Stadt gibt es ja nicht…“
++
++„Genau. Und die Kirche – also Kirchenasyl – war der nächste logische Gedanke.“
++
++„Mein Gott, sie waren die ganze Zeit in Joutsa…“
++

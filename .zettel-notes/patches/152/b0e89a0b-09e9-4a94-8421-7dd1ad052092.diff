@@ -1,0 +1,34 @@
+--- old
++++ new
+@@ -11,1 +11,1 @@
+-  "synopsis": "",
++  "synopsis": "Eddie erinnert sich im Dresdner Kartenraum daran, wie sie sich zwischen Atlanten und Lehrplänen als heimliche Diophant-Schülerin fühlte und eine stille Analogie zwischen Alexandria und der DDR zog – Mathematik als Schutzwall gegen die Römer von heute.",
+@@ -15,14 +15,1 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
+-    }
+-  }
++  "proofreading": {}
+@@ -46,2 +33,2 @@
+-oder mir eingebildet habe: "Sie rechneten mit der Welt, während Rom sie mit
+-Gewalt ordnete."
++oder mir eingebildet habe: „Sie rechneten mit der Welt, während Rom sie mit
++Gewalt ordnete.“
+@@ -62,1 +49,1 @@
+-Unauffälligen. Die Sprache von "Wenn-a-durch-b-ein-ganzes-Ergebnis-gibt-dann…"
++Unauffälligen. Die Sprache von „Wenn-a-durch-b-ein-ganzes-Ergebnis-gibt-dann…“
+@@ -64,2 +51,2 @@
+-Einmal schrieb ich mit Bleistift an den Rand eines Kartenblatts: "Alexandria, 3.
+-Jahrhundert – Dresden, 1984. Diophant lebt."
++Einmal schrieb ich mit Bleistift an den Rand eines Kartenblatts: „Alexandria, 3.
++Jahrhundert – Dresden, 1984. Diophant lebt.“

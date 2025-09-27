@@ -1,0 +1,46 @@
+--- old
++++ new
+@@ -20,4 +20,6 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
++  "todo": "Eddie erfährt erst am Flughafen Helsinki, wo genau die Reise hingeht.",
++  "proofreading": {
++    "Kapitel": "130_Wo_liegt_Joutsa",
++    "Ton": {
++      "Einschaetzung": "Erklärend, sachlich, Eddie beschreibt geografische und kulturelle Details.",
++      "Kritik": "Ton kippt ins Lexikonhafte, wenig jugendliche Farbe. Eddie klingt zu sehr wie eine Fremdenführerin."
+@@ -25,3 +27,3 @@
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
++    "Logik": {
++      "Einschaetzung": "Informationen zu Joutsa nachvollziehbar, plausibel eingebaut.",
++      "Kritik": "Infodump-Gefahr: zu viele Fakten auf einmal. Zusammenhang zu Eddies emotionaler Lage bleibt dünn."
+@@ -29,3 +31,12 @@
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
++    "Charaktere": {
++      "Einschaetzung": "Eddie als Erzählerin klar im Fokus.",
++      "Kritik": "Ihre Persönlichkeit verschwindet hinter der Infoflut. Emotionale Reaktion (Langeweile, Neugier, Ironie) fehlt."
++    },
++    "Sprache": {
++      "Einschaetzung": "Klar, beschreibend.",
++      "Kritik": "Zu sachlich, wenig jugendliche Kommentare. Kaum spontane Assoziationen oder humorvolle Einwürfe."
++    },
++    "Fazit": {
++      "Staerken": "Verortet die Handlung, gibt geografischen Rahmen.",
++      "Schwaechen": "Zu faktenlastig, jugendliche Stimme fehlt, Emotionen blass.",
++      "Fix": "Infos stärker mit Eddies Gedanken und Gefühlen verknüpfen, humorvolle Kommentare einbauen, Textfluss lebendiger gestalten."
+@@ -33,2 +44,1 @@
+-  },
+-  "todo": "Eddie erfährt erst am Flughafen Helsinki, wo genau die Reise hingeht."
++  }
+@@ -60,1 +70,1 @@
+-Zuhause nahm mein „Fluchtblock" Gestalt an. Nach außen ein stinknormaler
++Zuhause nahm mein „Fluchtblock“ Gestalt an. Nach außen ein stinknormaler
+@@ -65,1 +75,1 @@
+-reingeschaut hätte, hätte nur Aufgaben wie „Berechne den Winkel bei A" gesehen.
++reingeschaut hätte, hätte nur Aufgaben wie „Berechne den Winkel bei A“ gesehen.

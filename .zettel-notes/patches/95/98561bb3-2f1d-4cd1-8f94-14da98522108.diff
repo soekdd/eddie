@@ -1,0 +1,88 @@
+--- old
++++ new
+@@ -17,1 +17,5 @@
+-Heute rechne ich **wie Ada**. Keine Panik: Ich nehme dich an die Hand, Schritt für Schritt, und wenn ich dabei zu schnell werde, pfeif mich einfach innerlich zurück. Ich kann nämlich sehr gut zu schnell werden. Ada wollte damals mit Hilfe von Charles Babbage Rechenmaschine eine Reihe magischer Zahlen, sogenannter Bernoulli Zahlen ausrechnen.
++Heute rechne ich **wie Ada**. Keine Panik: Ich nehme dich an die Hand, Schritt
++für Schritt, und wenn ich dabei zu schnell werde, pfeif mich einfach innerlich
++zurück. Ich kann nämlich sehr gut zu schnell werden. Ada wollte damals mit Hilfe
++von Charles Babbage Rechenmaschine eine Reihe magischer Zahlen, sogenannter
++Bernoulli Zahlen ausrechnen.
+@@ -21,1 +25,3 @@
+-Adas Maschine heißt **Analytical Engine**. Sie ist nie ganz gebaut worden – das ist der fiktive Teil. Aber die Idee ist glasklar: eine **universelle Rechenmaschine**, ganz aus Zahnrädern. Zwei Hauptteile musst du dir merken:
++Adas Maschine heißt **Analytical Engine**. Sie ist nie ganz gebaut worden – das
++ist der fiktive Teil. Aber die Idee ist glasklar: eine **universelle
++Rechenmaschine**, ganz aus Zahnrädern. Zwei Hauptteile musst du dir merken:
+@@ -26,1 +32,2 @@
+-Und **wie sagt man so einer Maschine, was sie tun soll?** Mit **Lochkarten**. Drei Sorten:
++Und **wie sagt man so einer Maschine, was sie tun soll?** Mit **Lochkarten**.
++Drei Sorten:
+@@ -32,1 +39,4 @@
+-Karten laufen der Reihe nach durch. Wie ein Musikstück auf einer Spieldose – nur dass hier Rechnen „erklingt“. Und ja: Man kann sogar **Schleifen** und **Abzweigungen** bauen, indem man Kartenschleifen legt oder verschiedene Pfade wählt. Programmlogik – aber mit Pappe. Ich liebe das.
++Karten laufen der Reihe nach durch. Wie ein Musikstück auf einer Spieldose – nur
++dass hier Rechnen „erklingt“. Und ja: Man kann sogar **Schleifen** und
++**Abzweigungen** bauen, indem man Kartenschleifen legt oder verschiedene Pfade
++wählt. Programmlogik – aber mit Pappe. Ich liebe das.
+@@ -36,2 +46,5 @@
+-Gute Frage. Kurz: eine geheimnisvolle Zahlenfolge B₀, B₁, B₂, …, die überall auftaucht, wo Summen von Potenzen oder feine Krümmungen eine Rolle spielen. Zum Beispiel, wenn man 1 + 2 + … + n oder 1² + 2² + … + n² **genau** als Formel haben will, stecken Bernoulli-Zahlen in den Antworten.
+-Sie sind nicht „ausgedacht“, sondern über eine Regel definiert (eine Rekurrenz). Der Start ist:
++Gute Frage. Kurz: eine geheimnisvolle Zahlenfolge B₀, B₁, B₂, …, die überall
++auftaucht, wo Summen von Potenzen oder feine Krümmungen eine Rolle spielen. Zum
++Beispiel, wenn man 1 + 2 + … + n oder 1² + 2² + … + n² **genau** als Formel
++haben will, stecken Bernoulli-Zahlen in den Antworten. Sie sind nicht
++„ausgedacht“, sondern über eine Regel definiert (eine Rekurrenz). Der Start ist:
+@@ -46,1 +59,3 @@
+-Ich stelle mir vor, ich sitze an einem Küchentisch (ja, meiner), vor mir drei kleine Stapel Karteikarten. Ich will die ersten Bernoulli-Zahlen **B₀, B₁, B₂** berechnen.
++Ich stelle mir vor, ich sitze an einem Küchentisch (ja, meiner), vor mir drei
++kleine Stapel Karteikarten. Ich will die ersten Bernoulli-Zahlen **B₀, B₁, B₂**
++berechnen.
+@@ -51,2 +66,1 @@
+-*Aktion:* „Schreibe 1 in V[0].“
+-Jetzt gilt: **V[0] = B₀ = 1**.
++*Aktion:* „Schreibe 1 in V[0].“ Jetzt gilt: **V[0] = B₀ = 1**.
+@@ -56,2 +70,2 @@
+-Für m=1 lautet die Regel vereinfacht: B₀ + 2·B₁ = 0.
+-Das ist eine kleine Gleichung. Ich löse nach B₁ auf: B₁ = -B₀/2.
++Für m=1 lautet die Regel vereinfacht: B₀ + 2·B₁ = 0. Das ist eine kleine
++Gleichung. Ich löse nach B₁ auf: B₁ = -B₀/2.
+@@ -71,2 +85,2 @@
+-Für m=2 kommt heraus: B₀ + 3·B₁ + 3·B₂ = 0.
+-Also 3·B₂ = -B₀ - 3·B₁ und damit B₂ = (−B₀ − 3B₁)/3.
++Für m=2 kommt heraus: B₀ + 3·B₁ + 3·B₂ = 0. Also 3·B₂ = -B₀ - 3·B₁ und damit B₂
++= (−B₀ − 3B₁)/3.
+@@ -89,2 +103,6 @@
+-Nimm die einfache Summe 1 + 2 + … + n. Die kennst du als n(n+1)/2. Dahinter steckt – versteckt – B₁.
+-Für 1² + 2² + … + n² taucht B₂ auf. Je höher die Potenzen, desto tiefer graben die Formeln, und da warten die Bernoullis wie kleine Zahnräder, die alles zusammenklicken lassen. Ada hat das gesehen: **Mit Karten kann man nicht nur Zahlen ausspucken, sondern Muster.** Und Muster sind Sprache.
++Nimm die einfache Summe 1 + 2 + … + n. Die kennst du als n(n+1)/2. Dahinter
++steckt – versteckt – B₁. Für 1² + 2² + … + n² taucht B₂ auf. Je höher die
++Potenzen, desto tiefer graben die Formeln, und da warten die Bernoullis wie
++kleine Zahnräder, die alles zusammenklicken lassen. Ada hat das gesehen: **Mit
++Karten kann man nicht nur Zahlen ausspucken, sondern Muster.** Und Muster sind
++Sprache.
+@@ -102,1 +120,5 @@
+-Ich tippe mit dem Finger auf den Tisch wie auf drei unsichtbare Stapel: „Operation“, „Zahl“, „Variable“. Dann baue ich mein Programm wie Lego: Karte an Karte. Fehler? Kein Drama: Ich stecke die falsche Karte zurück und nehme die richtige. Das ist das Beruhigende an Adas Welt – **sie ist mechanisch fair**. Wenn etwas nicht passt, klappert es hörbar.
++Ich tippe mit dem Finger auf den Tisch wie auf drei unsichtbare Stapel:
++„Operation“, „Zahl“, „Variable“. Dann baue ich mein Programm wie Lego: Karte an
++Karte. Fehler? Kein Drama: Ich stecke die falsche Karte zurück und nehme die
++richtige. Das ist das Beruhigende an Adas Welt – **sie ist mechanisch fair**.
++Wenn etwas nicht passt, klappert es hörbar.
+@@ -104,1 +126,5 @@
+-Und ja, ich weiß: Wir tun so, als gäbe es die Maschine wirklich. Aber genau dieses „Als-ob“ ist der Trick beim Denken. Ada macht mir Mut, weil sie sagt: „Schau, Eddie, du kannst die Musik des Rechnens komponieren. Du brauchst nur Ordnung, Geduld und ein paar gute Karten.“ Ich nicke. Ordnung und Geduld habe ich. Karten finde ich.
++Und ja, ich weiß: Wir tun so, als gäbe es die Maschine wirklich. Aber genau
++dieses „Als-ob“ ist der Trick beim Denken. Ada macht mir Mut, weil sie sagt:
++„Schau, Eddie, du kannst die Musik des Rechnens komponieren. Du brauchst nur
++Ordnung, Geduld und ein paar gute Karten.“ Ich nicke. Ordnung und Geduld habe
++ich. Karten finde ich.
+@@ -108,5 +134,3 @@
+-Brüche kürzen kann jeder – aber jetzt will ich, dass **Adas Computer** das macht. Das Zauberwort heißt **gcd**, größter gemeinsamer Teiler.
+-Beispiel:
+-\[
+-\frac{48}{18} = \frac{8}{3}, \quad \text{weil gcd(48,18) = 6.}
+-\]
++Brüche kürzen kann jeder – aber jetzt will ich, dass **Adas Computer** das
++macht. Das Zauberwort heißt **gcd**, größter gemeinsamer Teiler. Beispiel: \[
++\frac{48}{18} = \frac{8}{3}, \quad \text{weil gcd(48,18) = 6.} \]
+@@ -160,2 +184,2 @@
+-Jetzt prüft die Maschine: b = 0 → fertig.
+-Im Store steht **V[a] = 6**. Das ist der gcd.
++Jetzt prüft die Maschine: b = 0 → fertig. Im Store steht **V[a] = 6**. Das ist
++der gcd.

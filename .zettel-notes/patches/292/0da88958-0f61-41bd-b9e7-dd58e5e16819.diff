@@ -1,0 +1,119 @@
+--- old
++++ new
+@@ -21,4 +21,5 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
++  "proofreading": {
++    "Kapitel": "570_Die_Verfuehrerin",
++    "Ton": {
++      "Einschaetzung": "Intensiv, sinnlich, Eddie schildert Begegnung mit Faszination und Unsicherheit.",
++      "Kritik": "Ton schwankt zwischen jugendlicher Neugier und erwachsener Sinnlichkeit. Gefahr: wirkt zu literarisch und abgeklärt für Eddies Alter."
+@@ -26,3 +27,3 @@
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
++    "Logik": {
++      "Einschaetzung": "Verführung als Thema plausibel in der Situation.",
++      "Kritik": "Manche Handlungen wirken zu geplant oder glatt. Für eine jugendliche Perspektive fehlen mehr Brüche und Unsicherheiten."
+@@ -30,3 +31,12 @@
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
++    "Charaktere": {
++      "Einschaetzung": "Eddie verletzlich und neugierig, Gegenfigur geheimnisvoll und stärker.",
++      "Kritik": "Eddie wirkt stellenweise zu reflektiert. Die Verführerin bleibt klischeehaft, wenig eigene Tiefe."
++    },
++    "Sprache": {
++      "Einschaetzung": "Bildhaft, emotional, teilweise poetisch.",
++      "Kritik": "Überladen mit Metaphern, Sätze oft lang und literarisch. Wenig jugendliche Direktheit oder spontane Sprache."
++    },
++    "Fazit": {
++      "Staerken": "Spannungsgeladen, wichtig für Eddies Entwicklung, emotionale Intensität.",
++      "Schwaechen": "Zu literarisch und erwachsen, Verführerin klischeehaft, Eddies Unsicherheit zu wenig spürbar.",
++      "Fix": "Mehr jugendliche Gedanken (peinlich, verwirrt), Verführerin individueller zeichnen, Sprache straffen und weniger Metaphern."
+@@ -45,1 +55,1 @@
+-ein paar Minuten anflirten, dich interessant machen!", sagte sie dann, so als
++ein paar Minuten anflirten, dich interessant machen!“, sagte sie dann, so als
+@@ -50,1 +60,1 @@
+-Trotz ihrer Grundregel „Das musst du allein schaffen" kam sie zweimal mit.
++Trotz ihrer Grundregel „Das musst du allein schaffen“ kam sie zweimal mit.
+@@ -56,1 +66,1 @@
+-Pech", sagte Sini -- und grinste, als sei das alles nur ein Aufwärmspiel.
++Pech“, sagte Sini -- und grinste, als sei das alles nur ein Aufwärmspiel.
+@@ -66,1 +76,1 @@
+-angeboten, mir etwas „Heißes" -- Originalzitat -- auszusuchen. Heute bin ich
++angeboten, mir etwas „Heißes“ -- Originalzitat -- auszusuchen. Heute bin ich
+@@ -72,2 +82,2 @@
+-nicht zurückgeben."\ „Es wäre mir eine Freude, wenn du sie behältst! Aber jetzt
+-brauchen wir noch was total Unverschämtes für unten drunter."
++nicht zurückgeben.“\ „Es wäre mir eine Freude, wenn du sie behältst! Aber jetzt
++brauchen wir noch was total Unverschämtes für unten drunter.“
+@@ -76,1 +86,1 @@
+-„Oh Mann, Sini!" heule ich. Aber die Zeit für Widerstand ist längst vorbei. Also
++„Oh Mann, Sini!“ heule ich. Aber die Zeit für Widerstand ist längst vorbei. Also
+@@ -78,1 +88,1 @@
+-als würde sie demonstrativ wegschauen.\ „Kannst gucken!\", sage ich, halb
++als würde sie demonstrativ wegschauen.\ „Kannst gucken!\“, sage ich, halb
+@@ -83,3 +93,3 @@
+-gerade ein besonders gefährliches Haustier bekommen hat. "Sini, ich bin ein
+-gutes Stück größer als Du, findest Du nicht, alles ist etwas… …kurz?"\ „Absolut
+-Eddie, absolut! Was soll ich sagen -- du bist heiß!"
++gerade ein besonders gefährliches Haustier bekommen hat. „Sini, ich bin ein
++gutes Stück größer als Du, findest Du nicht, alles ist etwas… …kurz?“\ „Absolut
++Eddie, absolut! Was soll ich sagen -- du bist heiß!“
+@@ -88,1 +98,1 @@
+-legt mir ein bisschen Make-up auf. „Nicht viel", meint sie, aber als ich in den
++legt mir ein bisschen Make-up auf. „Nicht viel“, meint sie, aber als ich in den
+@@ -94,1 +104,1 @@
+-nicht wieder etwas schrecklich Dummes zu tun."\ Ich ziehe die Augenbrauen hoch.
++nicht wieder etwas schrecklich Dummes zu tun.“\ Ich ziehe die Augenbrauen hoch.
+@@ -97,1 +107,1 @@
+-„Wenn du heute keinen Erfolg hast, weiß ich auch nicht mehr weiter." Klingt
++„Wenn du heute keinen Erfolg hast, weiß ich auch nicht mehr weiter.“ Klingt
+@@ -100,1 +110,1 @@
+-schrecklich aus."
++schrecklich aus.“
+@@ -104,1 +114,1 @@
+-endlich ganz verschwindet."
++endlich ganz verschwindet.“
+@@ -123,1 +133,1 @@
+-„Es hat nicht geklappt", sage ich, und ich höre mich an, wie in einer Szene aus
++„Es hat nicht geklappt“, sage ich, und ich höre mich an, wie in einer Szene aus
+@@ -126,2 +136,2 @@
+-„Du warst großartig", sagt Sini. „An dir hat's nicht gelegen! Morgen klappt's
+-bestimmt."
++„Du warst großartig“, sagt Sini. „An dir hat's nicht gelegen! Morgen klappt's
++bestimmt.“
+@@ -132,1 +142,1 @@
+-Tag da bist."
++Tag da bist.“
+@@ -134,1 +144,1 @@
+-„Ich auch!" Wir nehmen uns in den Arm. Aber zwischen uns hängt dieser graue
++„Ich auch!“ Wir nehmen uns in den Arm. Aber zwischen uns hängt dieser graue
+@@ -140,1 +150,1 @@
+-„Finger weg, die gehört mir!" Ein Scherz -- sie weiß, dass ich nie jemandem
++„Finger weg, die gehört mir!“ Ein Scherz -- sie weiß, dass ich nie jemandem
+@@ -145,1 +155,1 @@
+-„Alles, was nicht richtig blond ist, muss ab!"
++„Alles, was nicht richtig blond ist, muss ab!“
+@@ -149,2 +159,2 @@
+-„So kurz hatte ich sie noch nie", staune ich. „Sehe ich jetzt nicht erst recht
+-wie ein Junge aus?"
++„So kurz hatte ich sie noch nie“, staune ich. „Sehe ich jetzt nicht erst recht
++wie ein Junge aus?“
+@@ -152,1 +162,1 @@
+-„Nicht in den Klamotten, Schätzchen", lacht Sini, und ihre Freundin nickt.
++„Nicht in den Klamotten, Schätzchen“, lacht Sini, und ihre Freundin nickt.
+@@ -154,1 +164,1 @@
+-„Was willst du jetzt tun?"
++„Was willst du jetzt tun?“
+@@ -156,1 +166,1 @@
+-„Zeit mit dir verbringen. Jeder Tag kann unser letzter sein."
++„Zeit mit dir verbringen. Jeder Tag kann unser letzter sein.“
+@@ -158,2 +168,2 @@
+-„Das ist süß von dir", lächelt sie. „Komm, wir gehen zur unserer alten Bank am
+-Hafen."
++„Das ist süß von dir“, lächelt sie. „Komm, wir gehen zur unserer alten Bank am
++Hafen.“

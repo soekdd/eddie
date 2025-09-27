@@ -1,0 +1,25 @@
+--- old
++++ new
+@@ -8,1 +8,6 @@
+-  "persons": ["Eddie", "Pro-Bono-Anwalt", "Verlag (indirekt)", "Hilfsorganisation (indirekt)"],
++  "persons": [
++    "Eddie",
++    "Pro-Bono-Anwalt",
++    "Verlag (indirekt)",
++    "Hilfsorganisation (indirekt)"
++  ],
+@@ -31,1 +36,6 @@
+-  "themes": ["Würde durch Arbeit", "Selbstbestimmung", "Zugehörigkeit", "Weihnachten"],
++  "themes": [
++    "Würde durch Arbeit",
++    "Selbstbestimmung",
++    "Zugehörigkeit",
++    "Weihnachten"
++  ],
+@@ -39,1 +49,2 @@
+-  }
++  },
++  "proofreading": {}
+@@ -80,1 +91,1 @@
+-den Laden. "Tyska Julboden", so gut ist mein Schedisch gerade, um das als
++den Laden. „Tyska Julboden“, so gut ist mein Schedisch gerade, um das als

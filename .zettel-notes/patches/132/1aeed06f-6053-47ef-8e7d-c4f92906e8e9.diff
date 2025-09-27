@@ -1,0 +1,161 @@
+--- old
++++ new
+@@ -5,23 +5,30 @@
+-    "date": "1985-07-17",
+-    "daytime": "morning",
+-    "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
+-    "persons": ["Eddie", "Sabine", "Conny", "Peter", "Matti"],
+-    "synopsis": "Beim Aufbruch schenken die Freunde Eddie Ausrüstung und sprechen ihr Mut zu, mit einem Ziel im Westen: Paderborn.",
+-    "mood": "hopeful and heartwarming",
+-    "tense": "present, Eddies first-person perspective",
+-    "mode": "mainline", // flashback | mainline
+-    "source": "https://ita-ikaalistenvpk.fi/elamyskota/",
+-    "illustrations": ["FIN_Vaasalopet_Abschied.png"],
+-    "feedback": {
+-        "anni": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "lucia": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "soek": {
+-            "rating":".....",
+-            "comments":""
+-        }
++  "date": "1985-07-17",
++  "daytime": "morning",
++  "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
++  "persons": [
++    "Eddie",
++    "Sabine",
++    "Conny",
++    "Peter",
++    "Matti"
++  ],
++  "synopsis": "Beim Aufbruch schenken die Freunde Eddie Ausrüstung und sprechen ihr Mut zu, mit einem Ziel im Westen: Paderborn.",
++  "mood": "hopeful and heartwarming",
++  "tense": "present, Eddies first-person perspective",
++  "mode": "mainline",
++  "source": "https://ita-ikaalistenvpk.fi/elamyskota/",
++  "illustrations": [
++    "FIN_Vaasalopet_Abschied.png"
++  ],
++  "feedback": {
++    "anni": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "lucia": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "soek": {
++      "rating": ".....",
++      "comments": ""
+@@ -29,0 +36,1 @@
++  }
+@@ -33,3 +41,3 @@
+-verschlafen in das Licht. Die Nacht mit den Liedern klingt noch in mir
+-nach, aber jetzt ist alles anders: kein Regen, keine Schwere -- heute
+-sieht es aus, als würde mir die Welt wirklich offenstehen.
++verschlafen in das Licht. Die Nacht mit den Liedern klingt noch in mir nach,
++aber jetzt ist alles anders: kein Regen, keine Schwere -- heute sieht es aus,
++als würde mir die Welt wirklich offenstehen.
+@@ -38,3 +46,2 @@
+-irgendwie merkt man, dass keiner so richtig Eile hat. Jeder Schritt
+-dauert ein kleines Stück länger, weil jeder spürt, dass gleich etwas zu
+-Ende geht.
++irgendwie merkt man, dass keiner so richtig Eile hat. Jeder Schritt dauert ein
++kleines Stück länger, weil jeder spürt, dass gleich etwas zu Ende geht.
+@@ -42,2 +49,2 @@
+-„Und du?", fragt Sabine plötzlich, während sie ihre Sachen
+-zusammenschnürt. „Wo willst du eigentlich hin, wenn du im Westen bist?"
++„Und du?", fragt Sabine plötzlich, während sie ihre Sachen zusammenschnürt. „Wo
++willst du eigentlich hin, wenn du im Westen bist?"
+@@ -45,3 +52,2 @@
+-Alle schauen mich an, und ich merke, dass ich keine richtige Antwort
+-parat habe. Ich zucke mit den Schultern. „Keine Ahnung. Hauptsache nicht
+-mehr zurück."
++Alle schauen mich an, und ich merke, dass ich keine richtige Antwort parat habe.
++Ich zucke mit den Schultern. „Keine Ahnung. Hauptsache nicht mehr zurück."
+@@ -49,2 +55,2 @@
+-Peter grinst breit: „Na, dann eben nach Wuppertal!" -- und alle lachen,
+-als hätten wir einen Geheimwitz.
++Peter grinst breit: „Na, dann eben nach Wuppertal!" -- und alle lachen, als
++hätten wir einen Geheimwitz.
+@@ -52,2 +58,2 @@
+-„Oder nach Paderborn!", ruft Conny dazwischen, und sofort sind die
+-anderen dabei.
++„Oder nach Paderborn!", ruft Conny dazwischen, und sofort sind die anderen
++dabei.
+@@ -55,2 +61,1 @@
+-Ich runzle die Stirn, frage: „Paderborn? Warum denn ausgerechnet
+-Paderborn?"
++Ich runzle die Stirn, frage: „Paderborn? Warum denn ausgerechnet Paderborn?"
+@@ -58,4 +63,4 @@
+-Conny wird ernst, so ernst, dass ich fast ein bisschen erschrecke. „Mein
+-Vater ist ein hohes Tier bei Nixdorf. Der Chef, Heinz Nixdorf, ist in Torgau aufgewachsen. Der nimmt gern Leute von drüben, besonders
+-Ingenieure. Für dich -- mit deinem Mathehirn -- könnte da locker ein
+-Stipendium rausspringen."
++Conny wird ernst, so ernst, dass ich fast ein bisschen erschrecke. „Mein Vater
++ist ein hohes Tier bei Nixdorf. Der Chef, Heinz Nixdorf, ist in Torgau
++aufgewachsen. Der nimmt gern Leute von drüben, besonders Ingenieure. Für dich --
++mit deinem Mathehirn -- könnte da locker ein Stipendium rausspringen."
+@@ -64,3 +69,2 @@
+-Stimmung. Vier Gesichter schauen mich mit einer fast strengen Empörung
+-an. „Nein", sagt Sabine knapp. „Wenn Conny das sagt, dann meint sie das
+-so."
++Stimmung. Vier Gesichter schauen mich mit einer fast strengen Empörung an.
++„Nein", sagt Sabine knapp. „Wenn Conny das sagt, dann meint sie das so."
+@@ -68,7 +72,6 @@
+-Und ich spüre plötzlich, wie verbindlich sie ist, wie sicher, fast so,
+-als hätte sie für mich einen Platz in ihrer Welt reserviert. Mir wird
+-warm ums Herz. Ich nicke, leise: „Danke. Wirklich ... danke." Und für
+-einen Moment träume ich mich nach Paderborn: eine kleine Wohnung, eine
+-Uni, ich mit Heften voller Gleichungen, nicht als Außenseiterin, sondern
+-als eine von vielen, die an Mathematik Freude haben. Und draußen stehen
+-Freunde, die schon auf mich warten.
++Und ich spüre plötzlich, wie verbindlich sie ist, wie sicher, fast so, als hätte
++sie für mich einen Platz in ihrer Welt reserviert. Mir wird warm ums Herz. Ich
++nicke, leise: „Danke. Wirklich ... danke." Und für einen Moment träume ich mich
++nach Paderborn: eine kleine Wohnung, eine Uni, ich mit Heften voller
++Gleichungen, nicht als Außenseiterin, sondern als eine von vielen, die an
++Mathematik Freude haben. Und draußen stehen Freunde, die schon auf mich warten.
+@@ -77,6 +80,5 @@
+-kichern, tragen Kisten und Beutel zusammen. Ich ahne etwas, aber erst im
+-letzten Moment drücken sie mir das alles in die Hand: Töpfe, Besteck,
+-Lebensmittel, eine Isomatte, fast ein halbes Outdoor-Geschäft -- und
+-obendrauf einen ganzen Haufen Damenhygiene. Westliche. Sachen, die ich
+-noch nie gesehen habe, die ich staunend betrachte wie exotische Waren
+-von einem anderen Planeten.
++kichern, tragen Kisten und Beutel zusammen. Ich ahne etwas, aber erst im letzten
++Moment drücken sie mir das alles in die Hand: Töpfe, Besteck, Lebensmittel, eine
++Isomatte, fast ein halbes Outdoor-Geschäft -- und obendrauf einen ganzen Haufen
++Damenhygiene. Westliche. Sachen, die ich noch nie gesehen habe, die ich staunend
++betrachte wie exotische Waren von einem anderen Planeten.
+@@ -84,2 +86,2 @@
+-„Damit kommst du durch", sagt Sabine, und ihre Stimme klingt, als würde
+-sie gleich losheulen.
++„Damit kommst du durch", sagt Sabine, und ihre Stimme klingt, als würde sie
++gleich losheulen.
+@@ -87,3 +89,3 @@
+-Ich schaffe nur ein Lächeln, dann steigen sie schon in ihre Boote.
+-Rudern langsam hinaus, winken mir zu. „Wir sehen uns in Paderborn!"
+-rufen sie, alle vier gleichzeitig, als hätten sie es geprobt.
++Ich schaffe nur ein Lächeln, dann steigen sie schon in ihre Boote. Rudern
++langsam hinaus, winken mir zu. „Wir sehen uns in Paderborn!" rufen sie, alle
++vier gleichzeitig, als hätten sie es geprobt.
+@@ -91,4 +93,7 @@
+-Ich winke zurück, die Sonne im Gesicht, und denke: Jetzt habe ich keine
+-Legende, sondern ein echtes Ziel. Und vier Freunde, die mich ernsthaft
+-erwarten. Das macht alles leichter. Fast so, als hätte ich schon eine
+-Zukunft.
++Ich winke noch einmal zurück, bis die Boote kleiner und kleiner werden und
++schließlich hinter einer Biegung verschwinden. Ein letzter Ruf schwappt noch
++über das Wasser, dann legt sich Stille über den See. Ich bleibe einen Moment
++stehen, lasse den Blick schweifen, atme tief durch. Der Rucksack drückt schwer
++auf den Schultern, aber irgendetwas in mir ist leichter geworden. Vielleicht,
++weil ich jetzt nicht mehr nur allein unterwegs bin – irgendwo da draußen warten
++vier Menschen auf mich.

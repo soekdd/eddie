@@ -1,0 +1,261 @@
+--- old
++++ new
+@@ -5,22 +5,28 @@
+-    "date": "1985-09-16",
+-    "daytime": "morning",
+-    "place": "Sinis Wohnung, später Fährterminal",
+-    "persons": ["Eddie", "Sini", "Busfahrer", "Sinis Freundin"],
+-    "synopsis": "Eddie versucht mit Sinis Hilfe, eine Busfahrkarte zu ergattern, scheitert jedoch. Sini stylt sie um, und Eddie bekommt ihre Haare raspelkurz geschnitten.",
+-    "mood": "playful, tender, bittersweet",
+-    "tense": "present, Eddies first-person perspective",
+-    "mode": "mainline", // flashback | mainline
+-    "illustrations": ["FIN_Vaasa_Busse.png"],
+-    "feedback": {
+-        "anni": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "lucia": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "soek": {
+-            "rating":".....",
+-            "comments":""
+-        }
++  "date": "1985-09-16",
++  "daytime": "morning",
++  "place": "Sinis Wohnung, später Fährterminal",
++  "persons": [
++    "Eddie",
++    "Sini",
++    "Busfahrer",
++    "Sinis Freundin"
++  ],
++  "synopsis": "Eddie versucht mit Sinis Hilfe, eine Busfahrkarte zu ergattern, scheitert jedoch. Sini stylt sie um, und Eddie bekommt ihre Haare raspelkurz geschnitten.",
++  "mood": "playful, tender, bittersweet",
++  "tense": "present, Eddies first-person perspective",
++  "mode": "mainline",
++  "illustrations": [
++    "FIN_Vaasa_Busse.png"
++  ],
++  "feedback": {
++    "anni": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "lucia": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "soek": {
++      "rating": ".....",
++      "comments": ""
+@@ -28,0 +34,1 @@
++  }
+@@ -31,7 +38,5 @@
+-Meine halbherzigen Versuche, eine der überzähligen Fahrkarten in den
+-Reisebussen vor der Fähre zu ergattern, liefen immer nach demselben
+-Schema ab:\
+-Ich klopfte an Türen oder Fenster der Fahrer, stand da wie ein Häufchen
+-Elend -- ja, ich weiß, genau das, was Sini immer zu verhindern versucht
+--- und stammelte auf Englisch irgendetwas von *mitfahren* und *have you
+-a ticket left?*.
++Meine halbherzigen Versuche, eine der überzähligen Fahrkarten in den Reisebussen
++vor der Fähre zu ergattern, liefen immer nach demselben Schema ab:\ Ich klopfte
++an Türen oder Fenster der Fahrer, stand da wie ein Häufchen Elend -- ja, ich
++weiß, genau das, was Sini immer zu verhindern versucht -- und stammelte auf
++Englisch irgendetwas von *mitfahren* und *have you a ticket left?*.
+@@ -39,5 +44,5 @@
+-Sini hielt es nie lange aus, mir dabei zuzusehen. „Du musst die Typen
+-erst mal ein paar Minuten anflirten, dich interessant machen!", sagte
+-sie dann, so als sei das Flirten ein Handwerk, das man in drei Abenden
+-erlernen könne -- und nicht eine Kunst, für die ich schlicht das falsche
+-Betriebssystem installiert habe.
++Sini hielt es nie lange aus, mir dabei zuzusehen. „Du musst die Typen erst mal
++ein paar Minuten anflirten, dich interessant machen!", sagte sie dann, so als
++sei das Flirten ein Handwerk, das man in drei Abenden erlernen könne -- und
++nicht eine Kunst, für die ich schlicht das falsche Betriebssystem installiert
++habe.
+@@ -45,9 +50,7 @@
+-Trotz ihrer Grundregel „Das musst du allein schaffen" kam sie zweimal
+-mit. Natürlich sprach sie die Fahrer auf Finnisch oder Schwedisch an,
+-lächelte wie aus der Werbung für irgendwas, was es nur in Schweden gibt,
+-und flirtete eine halbe Ewigkeit, bevor sie die entscheidende Frage
+-stellte. In beiden Fällen: keine Karten übrig. Aber die Fahrer sahen
+-aus, als hätten sie für Sini am liebsten einen anderen Fahrgast aus dem
+-Bus geworfen.\
+-„Tja, diesmal hatten wir Pech", sagte Sini -- und grinste, als sei das
+-alles nur ein Aufwärmspiel.
++Trotz ihrer Grundregel „Das musst du allein schaffen" kam sie zweimal mit.
++Natürlich sprach sie die Fahrer auf Finnisch oder Schwedisch an, lächelte wie
++aus der Werbung für irgendwas, was es nur in Schweden gibt, und flirtete eine
++halbe Ewigkeit, bevor sie die entscheidende Frage stellte. In beiden Fällen:
++keine Karten übrig. Aber die Fahrer sahen aus, als hätten sie für Sini am
++liebsten einen anderen Fahrgast aus dem Bus geworfen.\ „Tja, diesmal hatten wir
++Pech", sagte Sini -- und grinste, als sei das alles nur ein Aufwärmspiel.
+@@ -55,8 +58,7 @@
+-Die Spieltheorie war eindeutig: Selbst wenn die Chancen gering sind,
+-gewinnt am Ende die große Zahl an Versuchen. Und ich hatte in den
+-letzten Wochen -- ob bewusst oder aus Bequemlichkeit -- verdammt viele
+-Versuche einfach verfallen lassen. Jetzt musste mich die Statistik
+-retten. Denn jetzt nehme ich die Sache ernst. Bislang habe ich's für
+-mich gemacht, und wenn's für mich ist, kann's auch mal schiefgehen. Aber
+-jetzt? Jetzt mache ich es für Sini. Und wenn ich mich für Sini ins Zeug
+-lege, dann richtig.
++Die Spieltheorie war eindeutig: Selbst wenn die Chancen gering sind, gewinnt am
++Ende die große Zahl an Versuchen. Und ich hatte in den letzten Wochen -- ob
++bewusst oder aus Bequemlichkeit -- verdammt viele Versuche einfach verfallen
++lassen. Jetzt musste mich die Statistik retten. Denn jetzt nehme ich die Sache
++ernst. Bislang habe ich's für mich gemacht, und wenn's für mich ist, kann's auch
++mal schiefgehen. Aber jetzt? Jetzt mache ich es für Sini. Und wenn ich mich für
++Sini ins Zeug lege, dann richtig.
+@@ -64,3 +66,3 @@
+-Die Mission beginnt am Morgen vor Sinis Kleiderschrank. Sie hat mir
+-schon ewig angeboten, mir etwas „Heißes" -- Originalzitat --
+-auszusuchen. Heute bin ich bereit, jede Hemmschwelle abzulegen.
++Die Mission beginnt am Morgen vor Sinis Kleiderschrank. Sie hat mir schon ewig
++angeboten, mir etwas „Heißes" -- Originalzitat -- auszusuchen. Heute bin ich
++bereit, jede Hemmschwelle abzulegen.
+@@ -70,5 +72,3 @@
+-ausgewählt.\
+-„Sini, wenn ich in diesen Bus einsteige, kann ich dir die Sachen nicht
+-zurückgeben."\
+-„Es wäre mir eine Freude, wenn du sie behältst! Aber jetzt brauchen wir
+-noch was total Unverschämtes für unten drunter."
++ausgewählt.\ „Sini, wenn ich in diesen Bus einsteige, kann ich dir die Sachen
++nicht zurückgeben."\ „Es wäre mir eine Freude, wenn du sie behältst! Aber jetzt
++brauchen wir noch was total Unverschämtes für unten drunter."
+@@ -76,6 +76,5 @@
+-Sie drückt mir etwas in die Hand, das kaum größer ist als ein
+-Bikinioberteil.\
+-„Oh Mann, Sini!" heule ich. Aber die Zeit für Widerstand ist längst
+-vorbei. Also drehe ich mich um und ziehe mich direkt vor ihrem
+-Kleiderschrank um. Sie tut so, als würde sie demonstrativ wegschauen.\
+-„Kannst gucken!\", sage ich, halb trotzig, halb neugierig.
++Sie drückt mir etwas in die Hand, das kaum größer ist als ein Bikinioberteil.\
++„Oh Mann, Sini!" heule ich. Aber die Zeit für Widerstand ist längst vorbei. Also
++drehe ich mich um und ziehe mich direkt vor ihrem Kleiderschrank um. Sie tut so,
++als würde sie demonstrativ wegschauen.\ „Kannst gucken!\", sage ich, halb
++trotzig, halb neugierig.
+@@ -83,5 +82,4 @@
+-Und ja, das Outfit funktioniert -- leider nicht auf diese schwesterliche
+-Art, wie ich's mir von Sini wünschen würde. Sie tanzt um mich herum wie
+-ein Kind, das gerade ein besonders gefährliches Haustier bekommen hat.
+-"Sini, ich bin ein gutes Stück größer als Du, findest Du nicht, alles
+-ist etwas... ...kurz?"\
++Und ja, das Outfit funktioniert -- leider nicht auf diese schwesterliche Art,
++wie ich's mir von Sini wünschen würde. Sie tanzt um mich herum wie ein Kind, das
++gerade ein besonders gefährliches Haustier bekommen hat. "Sini, ich bin ein
++gutes Stück größer als Du, findest Du nicht, alles ist etwas... ...kurz?"\
+@@ -90,5 +88,5 @@
+-Ich habe keine Zeit, das richtig zu verdauen, da schleift sie mich ins
+-Bad und legt mir ein bisschen Make-up auf. „Nicht viel", meint sie, aber
+-als ich in den Spiegel sehe, blickt mir fast das Hochzeitsbild meiner
+-Mutter entgegen. Sie war für mich immer das höchste Maß an Schönheit
+-gewesen. Und jetzt -- komisch -- gefällt mir, was ich sehe.
++Ich habe keine Zeit, das richtig zu verdauen, da schleift sie mich ins Bad und
++legt mir ein bisschen Make-up auf. „Nicht viel", meint sie, aber als ich in den
++Spiegel sehe, blickt mir fast das Hochzeitsbild meiner Mutter entgegen. Sie war
++für mich immer das höchste Maß an Schönheit gewesen. Und jetzt -- komisch --
++gefällt mir, was ich sehe.
+@@ -96,3 +94,3 @@
+-„Mann, Eddie, Mann, Eddie, jetzt muss ich mich echt auf meine Hände
+-setzen, um nicht wieder etwas schrecklich Dummes zu tun."\
+-Ich ziehe die Augenbrauen hoch. War das jetzt Warnung genug?
++„Mann, Eddie, Mann, Eddie, jetzt muss ich mich echt auf meine Hände setzen, um
++nicht wieder etwas schrecklich Dummes zu tun."\ Ich ziehe die Augenbrauen hoch.
++War das jetzt Warnung genug?
+@@ -100,4 +98,4 @@
+-„Wenn du heute keinen Erfolg hast, weiß ich auch nicht mehr weiter."
+-Klingt optimistisch. Aber in meinem Kopf klingt auch: *Wenn das nicht
+-klappt, haben wir keinen Plan B und die Zeit läuft uns davon*.\
+-„Deine Haare sehen allerdings schrecklich aus."
++„Wenn du heute keinen Erfolg hast, weiß ich auch nicht mehr weiter." Klingt
++optimistisch. Aber in meinem Kopf klingt auch: *Wenn das nicht klappt, haben wir
++keinen Plan B und die Zeit läuft uns davon*.\ „Deine Haare sehen allerdings
++schrecklich aus."
+@@ -105,3 +103,3 @@
+-Sie drückt mir ein buntes Haarband in die Hand. „Bist du heute Abend
+-noch da, gehen wir zu einer Freundin und schneiden sie raspelkurz, damit
+-die Schuhcreme endlich ganz verschwindet."
++Sie drückt mir ein buntes Haarband in die Hand. „Bist du heute Abend noch da,
++gehen wir zu einer Freundin und schneiden sie raspelkurz, damit die Schuhcreme
++endlich ganz verschwindet."
+@@ -109,4 +107,3 @@
+-So ausstaffiert marschiere ich zur langen Schlange der wartenden
+-Busfahrer. Ich fühle mich nackt. Billig. Als hätte ich eine fremde Hülle
+-übergestreift, die an Sini vermutlich umwerfend aussieht -- und an
+-mir... na ja.
++So ausstaffiert marschiere ich zur langen Schlange der wartenden Busfahrer. Ich
++fühle mich nackt. Billig. Als hätte ich eine fremde Hülle übergestreift, die an
++Sini vermutlich umwerfend aussieht -- und an mir... na ja.
+@@ -114,4 +111,4 @@
+-Die Busfahrer sehen das anders. Die Fenster, die sonst höchstens einen
+-Spalt aufgingen, gehen jetzt ganz runter. Erste Sprüche, erstes Lachen.
+-Die ersten zwei, drei Fahrer bekommen noch meine schüchterne
+-Eddie-Variante. Keiner hat Platz frei.
++Die Busfahrer sehen das anders. Die Fenster, die sonst höchstens einen Spalt
++aufgingen, gehen jetzt ganz runter. Erste Sprüche, erstes Lachen. Die ersten
++zwei, drei Fahrer bekommen noch meine schüchterne Eddie-Variante. Keiner hat
++Platz frei.
+@@ -121,2 +118,2 @@
+-Fange an zu lachen, zu kontern, scherzend von Bus zu Bus
+-zu tingeln. Bislang jedoch kein freies Ticket.
++Fange an zu lachen, zu kontern, scherzend von Bus zu Bus zu tingeln. Bislang
++jedoch kein freies Ticket.
+@@ -124,2 +121,2 @@
+-Als ich am letzten Bus stehe und mir die letzte Abfuhr des Tages abhole,
+-wartet dort schon Sini.
++Als ich am letzten Bus stehe und mir die letzte Abfuhr des Tages abhole, wartet
++dort schon Sini.
+@@ -127,2 +124,2 @@
+-„Es hat nicht geklappt", sage ich, und ich höre mich an, wie in einer
+-Szene aus einem Film, den keiner so enden sehen will.
++„Es hat nicht geklappt", sage ich, und ich höre mich an, wie in einer Szene aus
++einem Film, den keiner so enden sehen will.
+@@ -130,2 +127,2 @@
+-„Du warst großartig", sagt Sini. „An dir hat's nicht gelegen! Morgen
+-klappt's bestimmt."
++„Du warst großartig", sagt Sini. „An dir hat's nicht gelegen! Morgen klappt's
++bestimmt."
+@@ -135,2 +132,2 @@
+-„Was soll ich sagen, heiße kleine Eddie -- ich bin so froh, dass du noch
+-einen Tag da bist."
++„Was soll ich sagen, heiße kleine Eddie -- ich bin so froh, dass du noch einen
++Tag da bist."
+@@ -138,3 +135,3 @@
+-„Ich auch!" Wir nehmen uns in den Arm. Aber zwischen uns hängt dieser
+-graue Schleier aus Misserfolg und dem Wissen, dass jeder Tag unser
+-letzter sein könnte.
++„Ich auch!" Wir nehmen uns in den Arm. Aber zwischen uns hängt dieser graue
++Schleier aus Misserfolg und dem Wissen, dass jeder Tag unser letzter sein
++könnte.
+@@ -142,4 +139,4 @@
+-Sini zieht mich durch die Studentengegend von Vaasa. Jungs drehen sich
+-um, rufen mir etwas nach. Sini ruft zurück, irgendetwas Finnisches, das
+-wohl heißen soll: „Finger weg, die gehört mir!" Ein Scherz -- sie weiß,
+-dass ich nie jemandem gehören würde.
++Sini zieht mich durch die Studentengegend von Vaasa. Jungs drehen sich um, rufen
++mir etwas nach. Sini ruft zurück, irgendetwas Finnisches, das wohl heißen soll:
++„Finger weg, die gehört mir!" Ein Scherz -- sie weiß, dass ich nie jemandem
++gehören würde.
+@@ -148,2 +145,2 @@
+-Küchenstuhl, ein Laken um den Hals, kein Spiegel. Sinis Anweisung ist
+-eindeutig: „Alles, was nicht richtig blond ist, muss ab!"
++Küchenstuhl, ein Laken um den Hals, kein Spiegel. Sinis Anweisung ist eindeutig:
++„Alles, was nicht richtig blond ist, muss ab!"
+@@ -153,2 +150,2 @@
+-„So kurz hatte ich sie noch nie", staune ich.
+-„Sehe ich jetzt nicht erst recht wie ein Junge aus?"
++„So kurz hatte ich sie noch nie", staune ich. „Sehe ich jetzt nicht erst recht
++wie ein Junge aus?"
+@@ -156,2 +153,1 @@
+-„Nicht in den Klamotten, Schätzchen", lacht Sini, und ihre Freundin
+-nickt.
++„Nicht in den Klamotten, Schätzchen", lacht Sini, und ihre Freundin nickt.
+@@ -163,2 +159,2 @@
+-„Das ist süß von dir", lächelt sie. „Komm, wir gehen zur unserer alten
+-Bank am Hafen."
++„Das ist süß von dir", lächelt sie. „Komm, wir gehen zur unserer alten Bank am
++Hafen."

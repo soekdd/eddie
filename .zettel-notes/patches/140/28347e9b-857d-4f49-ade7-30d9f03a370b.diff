@@ -1,0 +1,228 @@
+--- old
++++ new
+@@ -5,21 +5,18 @@
+-    "date": "1985-07-14",
+-    "daytime":"noon",
+-    "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
+-    "persons": ["Eddie", "Sabine", "Conny", "Peter", "Matti"],
+-    "synopsis": "Eddie stößt auf eine lebhafte Gruppe aus Paderborn, wird freundlich aufgenommen und fühlt sich sofort als Teil der Runde.",
+-    "mood": "lively, carefree, welcoming",
+-    "tense": "present, Eddies first-person perspective",
+-    "mode": "mainline", // flashback | mainline
+-    "feedback": {
+-        "anni": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "lucia": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "soek": {
+-            "rating":".....",
+-            "comments":""
+-        }
++  "date": "1985-07-14",
++  "daytime": "noon",
++  "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
++  "persons": [
++    "Eddie",
++    "Sabine",
++    "Conny",
++    "Peter",
++    "Matti"
++  ],
++  "synopsis": "Eddie stößt auf eine lebhafte Gruppe aus Paderborn, wird freundlich aufgenommen und fühlt sich sofort als Teil der Runde.",
++  "mood": "lively, carefree, welcoming",
++  "tense": "present, Eddies first-person perspective",
++  "mode": "mainline",
++  "feedback": {
++    "anni": {
++      "rating": ".....",
++      "comments": ""
+@@ -27,1 +24,10 @@
+-    "todo": "konkrete Etappe bennen, Erfahrungen mit westlicher Damenhygiene (Tampons)"
++    "lucia": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "soek": {
++      "rating": ".....",
++      "comments": ""
++    }
++  },
++  "todo": "konkrete Etappe bennen, Erfahrungen mit westlicher Damenhygiene (Tampons)"
+@@ -31,3 +37,3 @@
+-Nach gut einer Woche, etwa auf einem Drittel meines Weges nach Vaasa,
+-passiert es dann. Ich höre Stimmen im Wald – fremd und doch vertraut.
+-Worte, die ich seit Tagen nicht mehr gehört habe: Deutsch.
++Nach gut einer Woche, etwa auf einem Drittel meines Weges nach Vaasa, passiert
++es dann. Ich höre Stimmen im Wald – fremd und doch vertraut. Worte, die ich seit
++Tagen nicht mehr gehört habe: Deutsch.
+@@ -35,5 +41,4 @@
+-Ich bleibe sofort stehen. Mein Herz schlägt mir bis in den Hals. Vier
+-junge Leute, vielleicht Anfang zwanzig, zwei Jungs, zwei Mädchen. Sie
+-lachen und schleppen zwei Paddelboote vom See auf eine Wiese. Sie wirken
+-wie Studenten und reden über die Route und über das Wetter, das schon
+-wieder Regen bringen soll.
++Ich bleibe sofort stehen. Mein Herz schlägt mir bis in den Hals. Vier junge
++Leute, vielleicht Anfang zwanzig, zwei Jungs, zwei Mädchen. Sie lachen und
++schleppen zwei Paddelboote vom See auf eine Wiese. Sie wirken wie Studenten und
++reden über die Route und über das Wetter, das schon wieder Regen bringen soll.
+@@ -41,5 +46,5 @@
+-Mir wird heiß und kalt zugleich. Was, wenn sie Westdeutsche sind? Dann
+-könnten sie sofort merken, dass meine Legende nicht stimmt. Und was,
+-wenn es… Ostdeutsche sind? Nein, das wäre fast unmöglich, oder? Aber ich
+-traue mich nicht, nähere mich ihnen vorsichtig und halte einigem Abstand,
+-bis ich die Schutzhütte sehe.
++Mir wird heiß und kalt zugleich. Was, wenn sie Westdeutsche sind? Dann könnten
++sie sofort merken, dass meine Legende nicht stimmt. Und was, wenn es…
++Ostdeutsche sind? Nein, das wäre fast unmöglich, oder? Aber ich traue mich
++nicht, nähere mich ihnen vorsichtig und halte einigem Abstand, bis ich die
++Schutzhütte sehe.
+@@ -47,5 +52,5 @@
+-Mein Magen zieht sich zusammen. Elämyskota. Genau diese Hütte hatte ich
+-mir für die Nacht ausgesucht. Ich wusste, eigentlich müsste man sie
+-buchen – aber ich hatte gehofft, niemanden anzutreffen und wenigstens
+-auf der Terrasse unterzukommen. Nun aber breiten sich dort die vier aus,
+-packen ihre Sachen, kochen Tee.
++Mein Magen zieht sich zusammen. Elämyskota. Genau diese Hütte hatte ich mir für
++die Nacht ausgesucht. Ich wusste, eigentlich müsste man sie buchen – aber ich
++hatte gehofft, niemanden anzutreffen und wenigstens auf der Terrasse
++unterzukommen. Nun aber breiten sich dort die vier aus, packen ihre Sachen,
++kochen Tee.
+@@ -53,7 +58,7 @@
+-Die Hütte wirkt wie ein kleines Paradies: ein massives Blockhaus, fest
+-und trocken, mit einer überdachten Terrasse, die weit hinaus auf eine
+-Halbinsel zeigt. Von dort sieht man den See glitzern, das Schilf wogen,
+-als gehörte der ganze Wald nur zu diesem Platz. Drinnen, das sehe ich
+-schon durch die offene Tür, gibt es Bänke, einen kleinen Ofen, sogar ein
+-Fenster mit Blick aufs Wasser. Mein Herz schlägt schneller – so ein Ort
+-ist mehr als nur ein Dach über dem Kopf, es ist fast schon ein Zuhause.
++Die Hütte wirkt wie ein kleines Paradies: ein massives Blockhaus, fest und
++trocken, mit einer überdachten Terrasse, die weit hinaus auf eine Halbinsel
++zeigt. Von dort sieht man den See glitzern, das Schilf wogen, als gehörte der
++ganze Wald nur zu diesem Platz. Drinnen, das sehe ich schon durch die offene
++Tür, gibt es Bänke, einen kleinen Ofen, sogar ein Fenster mit Blick aufs Wasser.
++Mein Herz schlägt schneller – so ein Ort ist mehr als nur ein Dach über dem
++Kopf, es ist fast schon ein Zuhause.
+@@ -63,4 +68,4 @@
+-Ich atme tief durch. Ich könnte einfach weiterlaufen, noch ein paar
+-Kilometer, aber die Sonne sinkt schon, und das Gelände sieht nach Sumpf
+-aus. Da ich kein Zelt habe, brauche ich diese Hütte. Also bleibt mir
+-nichts anderes: Ich muss den Kontakt wagen.
++Ich atme tief durch. Ich könnte einfach weiterlaufen, noch ein paar Kilometer,
++aber die Sonne sinkt schon, und das Gelände sieht nach Sumpf aus. Da ich kein
++Zelt habe, brauche ich diese Hütte. Also bleibt mir nichts anderes: Ich muss den
++Kontakt wagen.
+@@ -68,9 +73,8 @@
+-Langsam trete ich aus dem Schatten der Bäume. Ich spüre, wie mein Herz
+-pocht. Noch sehen sie mich nicht. Ich betrachte ihre Boote. Es sind
+-eindeutig Pouch-Faltboote aus der DDR. Wie können hier mitten in
+-Finnland vier Ostdeutsche Jugendliche sein? Dann sehe ich den Schriftzug
+-„Germania“, wo eigentlich „Pouch“ stehen müsste. Sie haben die Boote
+-nicht in der DDR gekauft. Ich entspanne mich. Aber werden sie meine
+-Legende durchschauen? Ich habe keine Wahl und räuspere mich ganz leise.
+-Vier Köpfe drehen sich gleichzeitig zu mir um. Für einen Moment ist es
+-still – dann ruft einer:
++Langsam trete ich aus dem Schatten der Bäume. Ich spüre, wie mein Herz pocht.
++Noch sehen sie mich nicht. Ich betrachte ihre Boote. Es sind eindeutig
++Pouch-Faltboote aus der DDR. Wie können hier mitten in Finnland vier Ostdeutsche
++Jugendliche sein? Dann sehe ich den Schriftzug „Germania“, wo eigentlich „Pouch“
++stehen müsste. Sie haben die Boote nicht in der DDR gekauft. Ich entspanne mich.
++Aber werden sie meine Legende durchschauen? Ich habe keine Wahl und räuspere
++mich ganz leise. Vier Köpfe drehen sich gleichzeitig zu mir um. Für einen Moment
++ist es still – dann ruft einer:
+@@ -83,3 +87,2 @@
+-Ich bin noch gar nicht richtig im Licht, da winkt mir schon eine von den
+-beiden Mädchen zu. Groß, braunhaarig, lachend – als ob ich längst zur
+-Gruppe gehöre.
++Ich bin noch gar nicht richtig im Licht, da winkt mir schon eine von den beiden
++Mädchen zu. Groß, braunhaarig, lachend – als ob ich längst zur Gruppe gehöre.
+@@ -88,5 +91,5 @@
+-Unsicher stolpere ich näher, und sofort geht das große Vorstellen los.
+-„Ich bin Sabine“, sagt die Größere, zieht mich ohne Umschweife an der
+-Hand in den Kreis und deutet auf die anderen. „Das ist Conny – eigentlich
+-Cornelia, aber sag bloß nicht Cornelia, das mag sie nicht. Und das sind
+-Peter und Matti. Wir sind aus Paderborn. Und du?“
++Unsicher stolpere ich näher, und sofort geht das große Vorstellen los. „Ich bin
++Sabine“, sagt die Größere, zieht mich ohne Umschweife an der Hand in den Kreis
++und deutet auf die anderen. „Das ist Conny – eigentlich Cornelia, aber sag bloß
++nicht Cornelia, das mag sie nicht. Und das sind Peter und Matti. Wir sind aus
++Paderborn. Und du?“
+@@ -94,4 +97,3 @@
+-Bevor ich antworten kann, fällt mir Conny schon lachend ins Wort:
+-„Nicht gleich so streng, Sabi! Lass das Mädchen erstmal Luft holen!“ Sie
+-hat blonde Locken, ein Gesicht voller Sommersprossen und diese Art von
+-Lachen, die sofort ansteckt.
++Bevor ich antworten kann, fällt mir Conny schon lachend ins Wort: „Nicht gleich
++so streng, Sabi! Lass das Mädchen erstmal Luft holen!“ Sie hat blonde Locken,
++ein Gesicht voller Sommersprossen und diese Art von Lachen, die sofort ansteckt.
+@@ -100,6 +102,5 @@
+-schüchtern, aber mit Augen so blau, dass ich zweimal hinsehe – grinst
+-leise, während er seinen Becher in die Hand nimmt. Matti dagegen, groß,
+-muskulös und ein bisschen so, als ob er immer einen Spruch auf den Lippen
+-hätte, klopft mir kumpelhaft auf die Schulter. „Na, willkommen im Club
+-der Verrückten! Wir machen hier unsere eigene Bundeswehr – aber ohne
+-Drill, nur mit Spaß.“
++schüchtern, aber mit Augen so blau, dass ich zweimal hinsehe – grinst leise,
++während er seinen Becher in die Hand nimmt. Matti dagegen, groß, muskulös und
++ein bisschen so, als ob er immer einen Spruch auf den Lippen hätte, klopft mir
++kumpelhaft auf die Schulter. „Na, willkommen im Club der Verrückten! Wir machen
++hier unsere eigene Bundeswehr – aber ohne Drill, nur mit Spaß.“
+@@ -110,4 +111,4 @@
+-ist, diese Elämyskota für die Gruppe organisiert hat. Und weil für die
+-kommenden Tage Regen angesagt ist, laden sie mich ein, in ihrer gebuchten
+-Hütte mit unterzukommen. Mein Herz macht einen Sprung. Nicht nur ein Dach
+-über dem Kopf – eine richtige Hütte, mit Wärme, Platz und Gesellschaft.
++ist, diese Elämyskota für die Gruppe organisiert hat. Und weil für die kommenden
++Tage Regen angesagt ist, laden sie mich ein, in ihrer gebuchten Hütte mit
++unterzukommen. Mein Herz macht einen Sprung. Nicht nur ein Dach über dem Kopf –
++eine richtige Hütte, mit Wärme, Platz und Gesellschaft.
+@@ -115,5 +116,5 @@
+-Die Mädels scheinen die Anführerinnen zu sein. Sie erklären mir gleich,
+-wie sie die Route organisiert haben, die Hütten im Auge behalten und dass
+-irgendwo am Ende der Tour ein alter VW-Passat auf sie wartet. „Wir haben
+-alles durchgerechnet, alles geplant – na ja, fast alles. Aber hey, das
+-Abenteuer lebt von den Überraschungen, oder?“
++Die Mädels scheinen die Anführerinnen zu sein. Sie erklären mir gleich, wie sie
++die Route organisiert haben, die Hütten im Auge behalten und dass irgendwo am
++Ende der Tour ein alter VW-Passat auf sie wartet. „Wir haben alles
++durchgerechnet, alles geplant – na ja, fast alles. Aber hey, das Abenteuer lebt
++von den Überraschungen, oder?“
+@@ -121,2 +122,2 @@
+-„Und von Sabines Rechenkünsten“, wirft Conny ein, „sonst hätten wir nicht
+-mal genug Geld für die Nudeln heute Abend.“
++„Und von Sabines Rechenkünsten“, wirft Conny ein, „sonst hätten wir nicht mal
++genug Geld für die Nudeln heute Abend.“
+@@ -126,5 +127,5 @@
+-Ich sitze zwischen ihnen, plötzlich mittendrin, als wäre ich schon seit
+-Tagen Teil ihrer Gruppe. Die beiden Mädchen sprühen vor Energie, ziehen
+-die Jungs mit und lassen sich von ihnen auch nicht die Butter vom Brot
+-nehmen. Peter und Matti sind mehr schmückendes Beiwerk, aber sie scheinen
+-das zu wissen und nehmen es mit Humor.
++Ich sitze zwischen ihnen, plötzlich mittendrin, als wäre ich schon seit Tagen
++Teil ihrer Gruppe. Die beiden Mädchen sprühen vor Energie, ziehen die Jungs mit
++und lassen sich von ihnen auch nicht die Butter vom Brot nehmen. Peter und Matti
++sind mehr schmückendes Beiwerk, aber sie scheinen das zu wissen und nehmen es
++mit Humor.
+@@ -132,4 +133,4 @@
+-Und niemand fragt, woher ich komme. Noch nicht. Sie stellen sich vor,
+-lachen, erzählen Anekdoten von der Autofahrt, von verirrten Mücken im
+-Zelt und davon, wie Peter am ersten Abend fast den Kocher abgefackelt
+-hätte. Alles wirkt so leicht, so frei.
++Und niemand fragt, woher ich komme. Noch nicht. Sie stellen sich vor, lachen,
++erzählen Anekdoten von der Autofahrt, von verirrten Mücken im Zelt und davon,
++wie Peter am ersten Abend fast den Kocher abgefackelt hätte. Alles wirkt so
++leicht, so frei.
+@@ -137,5 +138,5 @@
+-Ich bin hingerissen. Von der Lautstärke, von der Selbstsicherheit, von
+-dieser Unbekümmertheit, die ich in Dresden nie so gesehen habe. Und von
+-der Elämyskota, die mir auf einmal wie ein Palast vorkommt – mit ihrer
+-Terrasse, dem Ofen und dem Blick auf den See. So lebt man also, wenn
+-man nicht ständig aufpassen muss, was man sagt.
++Ich bin hingerissen. Von der Lautstärke, von der Selbstsicherheit, von dieser
++Unbekümmertheit, die ich in Dresden nie so gesehen habe. Und von der Elämyskota,
++die mir auf einmal wie ein Palast vorkommt – mit ihrer Terrasse, dem Ofen und
++dem Blick auf den See. So lebt man also, wenn man nicht ständig aufpassen muss,
++was man sagt.

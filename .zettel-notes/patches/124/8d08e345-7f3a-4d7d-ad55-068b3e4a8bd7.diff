@@ -1,0 +1,27 @@
+--- old
++++ new
+@@ -6,0 +6,1 @@
++  "day": "Friday",
+@@ -59,6 +60,7 @@
+-Ich erinnere mich an Jyväskylä, die Stadt mit dem unaussprechlichen Namen.
+-Sie liegt etwa eine Stunde nördlich von Joutsa. Eine große Industriestadt für finnische Verhältnisse.
+-Leider liegt sie im Norden und damit gerade in der falschen Richtung, wenn ich
+-nach Helsinki will. Aber will ich überhaupt noch nach Helsinki? Wenn sie mich
+-sogar aus einer finnischen Polizeistation herausholen können, dann bin ich
+-nirgendwo sicher – nur hier bei Raija. Sie lässt mich nicht im Stich.
++Ich erinnere mich an Jyväskylä, die Stadt mit dem unaussprechlichen Namen. Sie
++liegt etwa eine Stunde nördlich von Joutsa. Eine große Industriestadt für
++finnische Verhältnisse. Leider liegt sie im Norden und damit gerade in der
++falschen Richtung, wenn ich nach Helsinki will. Aber will ich überhaupt noch
++nach Helsinki? Wenn sie mich sogar aus einer finnischen Polizeistation
++herausholen können, dann bin ich nirgendwo sicher – nur hier bei Raija. Sie
++lässt mich nicht im Stich.
+@@ -114,1 +116,7 @@
+-Als wir in Jyväskylä einrollen, fällt mir die Stille auf: keine Abgaswolken, kein Knattern von Trabis. Neonlichter spiegeln sich in den Schaufenstern voller bunter Kleidung und glänzender Radios. Junge Leute lachen, stehen in Grüppchen, tragen Jeans und helle Windjacken. Die Straßen sind sauber, der Asphalt glatt, kein graues Lochpflaster wie in Dresden. Über allem liegt der Duft von Kiefern und frischem Abendwind. Für einen Moment glaube ich, in einer anderen Welt zu sein.
++Als wir in Jyväskylä einrollen, fällt mir die Stille auf: keine Abgaswolken,
++kein Knattern von Trabis. Neonlichter spiegeln sich in den Schaufenstern voller
++bunter Kleidung und glänzender Radios. Junge Leute lachen, stehen in Grüppchen,
++tragen Jeans und helle Windjacken. Die Straßen sind sauber, der Asphalt glatt,
++kein graues Lochpflaster wie in Dresden. Über allem liegt der Duft von Kiefern
++und frischem Abendwind. Für einen Moment glaube ich, in einer anderen Welt zu
++sein.

@@ -1,0 +1,38 @@
+--- old
++++ new
+@@ -17,4 +17,5 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
++  "proofreading": {
++    "Kapitel": "040_Edmilla",
++    "Ton": {
++      "Einschaetzung": "Spielerisch, Eddie erfindet sich eine neue Identität mit Fantasie und Mut.",
++      "Kritik": "Ton schwankt zwischen jugendlicher Kreativität und zu reflektiertem Erzählen. Gefahr, dass der Entstehungsprozess zu glatt wirkt."
+@@ -22,3 +23,3 @@
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
++    "Logik": {
++      "Einschaetzung": "Identitätserfindung plausibel, passt zu Eddies Situation.",
++      "Kritik": "Die Leichtigkeit, mit der Eddie Edmilla erschafft, könnte unrealistisch wirken – mehr Zögern oder Zweifel wären glaubwürdig."
+@@ -26,3 +27,12 @@
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
++    "Charaktere": {
++      "Einschaetzung": "Eddie im Mittelpunkt, zeigt Fantasie und Anpassungsfähigkeit.",
++      "Kritik": "Ihre innere Zerrissenheit kommt zu kurz, Edmilla entsteht fast zu mühelos. Nebenfiguren fehlen ganz."
++    },
++    "Sprache": {
++      "Einschaetzung": "Anschaulich, teils witzig.",
++      "Kritik": "Stellenweise zu glatt, wenige jugendliche Einwürfe. Füllwörter und spontane Ausrufe fehlen, wodurch es literarischer klingt als nötig."
++    },
++    "Fazit": {
++      "Staerken": "Originelle Szene, zeigt Eddies Kreativität und Überlebensstrategie.",
++      "Schwaechen": "Zu glatt und problemlos erzählt, innere Konflikte fehlen, Sprache teils zu literarisch.",
++      "Fix": "Mehr Zögern, Zweifel und Unsicherheit zeigen, Sprache jugendlicher und spontaner machen."
+@@ -49,1 +59,1 @@
+-„Ja, kapiert! Ich war echt stolz auf meine Pünktllichkeit!“, protestierte ich.
++„Ja, kapiert! Ich war echt stolz auf meine Pünktllichkeit!“ protestierte ich.

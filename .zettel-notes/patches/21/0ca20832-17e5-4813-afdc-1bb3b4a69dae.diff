@@ -1,0 +1,91 @@
+--- old
++++ new
+@@ -5,22 +5,25 @@
+-    "date": "1985-06-04",
+-    "daytime": "day",
+-    "place": "Berlin",
+-    "persons": ["Kosmol alias Mielke" ],
+-    "synopsis": "Eddie erinnert sich an ihre erste Begegnung mit Kosmol in Berlin – sie nennt ihn sofort „Mielke“ wegen seiner bedrohlichen Ausstrahlung.",
+-    "mood": "ominous, oppressive, unsettling",
+-    "tense": "past, Eddies first-person perspective",
+-    "mode": "flashback",   // flashback | mainline
+-    "illustrations": ["DDR_Berlin_Eddie_trifft_auf_Mielke.png"],
+-    "feedback": {
+-        "anni": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "lucia": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "soek": {
+-            "rating":".....",
+-            "comments":""
+-        }
++  "date": "1985-06-04",
++  "daytime": "day",
++  "place": "Berlin",
++  "persons": [
++    "Kosmol alias Mielke"
++  ],
++  "synopsis": "Eddie erinnert sich an ihre erste Begegnung mit Kosmol in Berlin – sie nennt ihn sofort „Mielke“ wegen seiner bedrohlichen Ausstrahlung.",
++  "mood": "ominous, oppressive, unsettling",
++  "tense": "past, Eddies first-person perspective",
++  "mode": "flashback",
++  "illustrations": [
++    "DDR_Berlin_Eddie_trifft_auf_Mielke.png"
++  ],
++  "feedback": {
++    "anni": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "lucia": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "soek": {
++      "rating": ".....",
++      "comments": ""
+@@ -28,0 +31,1 @@
++  }
+@@ -31,1 +35,2 @@
+-Als ich Kosmol in Berlin zum ersten Mal sah, schoss mir sofort durch den Kopf: Mielke! Ja, genau der. Erich Mielke, der Ober-Stasi-Heini. So kam der Typ rüber.
++Als ich Kosmol in Berlin zum ersten Mal sah, schoss mir sofort durch den Kopf:
++Mielke! Ja, genau der. Erich Mielke, der Ober-Stasi-Heini. So kam der Typ rüber.
+@@ -33,1 +38,3 @@
+-Ich hatte ja null Ahnung, dass der überhaupt mitfährt. Echt jetzt – wie auch? Wer rechnet denn damit, dass plötzlich dein Albtraum in Menschengestalt im Bus sitzt?
++Ich hatte ja null Ahnung, dass der überhaupt mitfährt. Echt jetzt – wie auch?
++Wer rechnet denn damit, dass plötzlich dein Albtraum in Menschengestalt im Bus
++sitzt?
+@@ -35,1 +42,4 @@
+-Es lag nicht mal an seiner Größe. Der echte Mielke war ja eher klein, kaum einssechzig. Kosmol war größer, klar, aber das war’s nicht. Der hatte diese Ausstrahlung… so, als würde er jeden Moment „Du da! Mitkommen!“ brüllen und dich einkassieren.
++Es lag nicht mal an seiner Größe. Der echte Mielke war ja eher klein, kaum
++einssechzig. Kosmol war größer, klar, aber das war’s nicht. Der hatte diese
++Ausstrahlung… so, als würde er jeden Moment „Du da! Mitkommen!“ brüllen und dich
++einkassieren.
+@@ -37,1 +47,3 @@
+-Und dann diese Augen! Mini-Schweinsaugen, tief drin im Schädel. So Augen, die nur lachen, wenn jemand anderes gerade heult. Ich hab mich echt gefragt, ob die überhaupt blinzeln oder ob er das nur macht, um uns zu verarschen.
++Und dann diese Augen! Mini-Schweinsaugen, tief drin im Schädel. So Augen, die
++nur lachen, wenn jemand anderes gerade heult. Ich hab mich echt gefragt, ob die
++überhaupt blinzeln oder ob er das nur macht, um uns zu verarschen.
+@@ -39,1 +51,3 @@
+-Sein Mund war auch so’n Kapitel. Schmal, die Mundwinkel immer nach unten. Selbst wenn er grinst, sieht’s beleidigt aus. Und seine „Witze“… boah, richtig unterirdisch. Ich hab versucht, die zu überhören. Keine Chance.
++Sein Mund war auch so’n Kapitel. Schmal, die Mundwinkel immer nach unten. Selbst
++wenn er grinst, sieht’s beleidigt aus. Und seine „Witze“… boah, richtig
++unterirdisch. Ich hab versucht, die zu überhören. Keine Chance.
+@@ -41,1 +55,5 @@
+-Kosmol ist eindeutig jünger als der echte Mielke. Frisch aus ’ner Kaderschmiede. Unteroffizierslaufbahn, hundertpro. Diese Bonzen-Typen sind doch wie aus’m Kaugummiautomaten: alle gleich, alle fies. Wenigstens musste ich als Mädchen nicht zur NVA. Wäre ich ein Junge gewesen, hätte ich mir spätestens da gesagt: „Alter, renn! Renn, bis die Socken qualmen!“
++Kosmol ist eindeutig jünger als der echte Mielke. Frisch aus ’ner Kaderschmiede.
++Unteroffizierslaufbahn, hundertpro. Diese Bonzen-Typen sind doch wie aus’m
++Kaugummiautomaten: alle gleich, alle fies. Wenigstens musste ich als Mädchen
++nicht zur NVA. Wäre ich ein Junge gewesen, hätte ich mir spätestens da gesagt:
++„Alter, renn! Renn, bis die Socken qualmen!“
+@@ -43,1 +61,5 @@
+-Am meisten leiden die Leute, die ein mehr bisschen Herz und ein bisschen mehr Hirn haben, als der Rest. So welche wie ich. Kein Wunder, dass ich ihn sofort Mielke getauft hab. Und witzigerweise – hier in Finnland hab ich ein paar Schüler gehört, die flüstern den Namen auch schon. Ich hab den nie laut gesagt! Aber die Ähnlichkeit ist einfach zu krass.
++Am meisten leiden die Leute, die ein mehr bisschen Herz und ein bisschen mehr
++Hirn haben, als der Rest. So welche wie ich. Kein Wunder, dass ich ihn sofort
++Mielke getauft hab. Und witzigerweise – hier in Finnland hab ich ein paar
++Schüler gehört, die flüstern den Namen auch schon. Ich hab den nie laut gesagt!
++Aber die Ähnlichkeit ist einfach zu krass.

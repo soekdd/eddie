@@ -1,0 +1,78 @@
+--- old
++++ new
+@@ -18,4 +18,5 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
++  "proofreading": {
++    "Kapitel": "590_Der_Fehlversuch",
++    "Ton": {
++      "Einschaetzung": "Ernst, leicht frustriert, Eddie schildert ihr Scheitern.",
++      "Kritik": "Ton ist streckenweise zu nüchtern und erklärend. Emotionale Wucht des Scheiterns kommt nicht stark genug durch."
+@@ -23,3 +24,3 @@
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
++    "Logik": {
++      "Einschaetzung": "Scheitern als Wendepunkt plausibel und dramaturgisch sinnvoll.",
++      "Kritik": "Der Ablauf wirkt etwas glatt, ohne Überraschungen. Mehr Chaos oder Peinlichkeit würde realistischer wirken."
+@@ -27,3 +28,12 @@
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
++    "Charaktere": {
++      "Einschaetzung": "Eddie im Fokus, zeigt Ernst und Nachdenklichkeit.",
++      "Kritik": "Ihre Emotionen bleiben eher abstrakt, körperliche Reaktionen (Wut, Tränen, Trotz) fehlen. Nebenfiguren bleiben Randerscheinungen."
++    },
++    "Sprache": {
++      "Einschaetzung": "Klar, strukturiert.",
++      "Kritik": "Zu sachlich, zu wenige spontane Einwürfe. Wenig jugendliche Direktheit oder Rotzgören-Farbe."
++    },
++    "Fazit": {
++      "Staerken": "Wichtiger Bruch in der Handlung, zeigt Grenzen von Eddies Können.",
++      "Schwaechen": "Zu nüchtern, Emotionen fehlen, Ablauf zu glatt.",
++      "Fix": "Scheitern emotionaler und chaotischer schildern, körperliche Reaktionen zeigen, Sprache jugendlicher und spontaner machen."
+@@ -46,1 +56,1 @@
+-„Hey", sage ich, mit dieser Stimme, die ich bei Sini abgeguckt habe -- ein
++„Hey“, sage ich, mit dieser Stimme, die ich bei Sini abgeguckt habe -- ein
+@@ -48,2 +58,2 @@
+-zieht die Zigarette aus dem Mund.\ „Wohin willst du?"\ „Rüber. Mit dir."\ Er
+-lacht. „Hab noch ein Ticket."
++zieht die Zigarette aus dem Mund.\ „Wohin willst du?“\ „Rüber. Mit dir.“\ Er
++lacht. „Hab noch ein Ticket.“
+@@ -55,1 +65,1 @@
+-mit hängenden Schultern komme.\ „Du hast es geschafft!" Sie wirft die Arme um
++mit hängenden Schultern komme.\ „Du hast es geschafft!“ Sie wirft die Arme um
+@@ -57,2 +67,2 @@
+-mich nicht aufgegeben hast."\ „Vergiss nicht, mir zu schreiben. Sofort, wenn du
+-drüben bist."
++mich nicht aufgegeben hast.“\ „Vergiss nicht, mir zu schreiben. Sofort, wenn du
++drüben bist.“
+@@ -68,1 +78,1 @@
+-Zwei Beamte steigen ein, freundlich, aber geschäftsmäßig. „Papers, please."\ Ich
++Zwei Beamte steigen ein, freundlich, aber geschäftsmäßig. „Papers, please.“\ Ich
+@@ -70,2 +80,2 @@
+-diesmal anders ist. Der eine blättert, der andere sieht mich an.\ „How old?"\
+-„Seventeen."
++diesmal anders ist. Der eine blättert, der andere sieht mich an.\ „How old?“\
++„Seventeen.“
+@@ -74,1 +84,1 @@
+-minor. And… East German passport… problem."
++minor. And… East German passport… problem.“
+@@ -76,1 +86,1 @@
+-Mir wird heiß. „But--- I have a ticket---"\ „Please, come with us."
++Mir wird heiß. „But--- I have a ticket---“\ „Please, come with us.“
+@@ -89,2 +99,2 @@
+-Blick, der keine Widerrede duldet.\ „She's with me."\ „We can't---"\ „She's with
+-me," wiederholt sie, so fest, dass keiner der Männer noch ein zweites Argument
++Blick, der keine Widerrede duldet.\ „She's with me.“\ „We can't---“\ „She's with
++me,“ wiederholt sie, so fest, dass keiner der Männer noch ein zweites Argument
+@@ -99,1 +109,1 @@
+-Ich heule immer noch. Ein „Tut mir leid", bringe ich schließlich hervor.
++Ich heule immer noch. Ein „Tut mir leid“, bringe ich schließlich hervor.
+@@ -101,2 +111,2 @@
+-„Dir?", fragt sie. „Eddie, wir haben ein Problem, das viel größer ist als diese
+-Überfahrt."
++„Dir?“, fragt sie. „Eddie, wir haben ein Problem, das viel größer ist als diese
++Überfahrt.“

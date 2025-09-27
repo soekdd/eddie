@@ -1,0 +1,114 @@
+--- old
++++ new
+@@ -5,21 +5,28 @@
+-    "date": "1985-07-05",
+-    "daytime": "noon",
+-    "place": "Gymnasium Joutsa",
+-    "persons": ["Eddie", "Mielke", "Herr Fischer", "Mongolen", "Bulgaren", "Schwede", "DDR-Gruppe"],
+-    "synopsis": "Eddie entkommt im Gedränge nach den Prüfungen knapp an Mielke vorbei und flieht ins Freie.",
+-    "mood": "tense, breathless, fleeting relief",
+-    "tense": "present, Eddies first-person perspective",
+-    "mode": "mainline",
+-    "feedback": {
+-        "anni": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "lucia": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "soek": {
+-            "rating":".....",
+-            "comments":""
+-        }
++  "date": "1985-07-05",
++  "daytime": "noon",
++  "place": "Gymnasium Joutsa",
++  "persons": [
++    "Eddie",
++    "Mielke",
++    "Herr Fischer",
++    "Mongolen",
++    "Bulgaren",
++    "Schwede",
++    "DDR-Gruppe"
++  ],
++  "synopsis": "Eddie entkommt im Gedränge nach den Prüfungen knapp an Mielke vorbei und flieht ins Freie.",
++  "mood": "tense, breathless, fleeting relief",
++  "tense": "present, Eddies first-person perspective",
++  "mode": "mainline",
++  "feedback": {
++    "anni": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "lucia": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "soek": {
++      "rating": ".....",
++      "comments": ""
+@@ -27,0 +34,1 @@
++  }
+@@ -30,1 +38,6 @@
+-Ich reiße die Kabinentür auf. Mein Herz hämmert so laut, ich schwöre, jeder in der Toilette muss es hören. Aber die Jungs? Keine Reaktion. Die labern weiter, völlig in ihre Gespräche vertieft. Beim Händewaschen schnappe ich einen Blick in den Spiegel: Ein Fremder glotzt mich an – kantiges Gesicht, verwuschelt, schwarze Haare, die im Neonlicht stumpf glänzen. Lederbergschuhe unten drunter. Sieht aus, als wär das alles schon immer meins gewesen.
++Ich reiße die Kabinentür auf. Mein Herz hämmert so laut, ich schwöre, jeder in
++der Toilette muss es hören. Aber die Jungs? Keine Reaktion. Die labern weiter,
++völlig in ihre Gespräche vertieft. Beim Händewaschen schnappe ich einen Blick in
++den Spiegel: Ein Fremder glotzt mich an – kantiges Gesicht, verwuschelt,
++schwarze Haare, die im Neonlicht stumpf glänzen. Lederbergschuhe unten drunter.
++Sieht aus, als wär das alles schon immer meins gewesen.
+@@ -32,1 +45,5 @@
+-Dann raus auf den Gang – und zack, der Geräuschpegel knallt mir wie ’ne Welle ins Gesicht. Stimmen aus allen Richtungen: Finnisch, Russisch, Englisch, ein paar Brocken Chinesisch. Die Kids sind aufgedreht, Arme fuchteln durch die Luft, sie reden über die Aufgaben. *„Die zweite war unmöglich!“* höre ich auf Englisch. Irgendwo nervöses Lachen.
++Dann raus auf den Gang – und zack, der Geräuschpegel knallt mir wie ’ne Welle
++ins Gesicht. Stimmen aus allen Richtungen: Finnisch, Russisch, Englisch, ein
++paar Brocken Chinesisch. Die Kids sind aufgedreht, Arme fuchteln durch die Luft,
++sie reden über die Aufgaben. *„Die zweite war unmöglich!“* höre ich auf
++Englisch. Irgendwo nervöses Lachen.
+@@ -34,1 +51,2 @@
+-Kopf runter, rein in die Menge. Die schwarzen Haare stinken noch nach Schuhcreme. Mein Tarnanzug – und gleichzeitig meine größte Schwachstelle.
++Kopf runter, rein in die Menge. Die schwarzen Haare stinken noch nach
++Schuhcreme. Mein Tarnanzug – und gleichzeitig meine größte Schwachstelle.
+@@ -36,1 +54,3 @@
+-Und dann seh ich ihn. *Mielke.* Grauer Anzug, schmale Lippen, Augen wie spitze Nadeln. Steht da am Eingang wie ’n Scanner, Arme verschränkt. Er weiß, warum er da ist – und ich auch: Keiner aus der DDR geht hier allein irgendwohin.
++Und dann seh ich ihn. *Mielke.* Grauer Anzug, schmale Lippen, Augen wie spitze
++Nadeln. Steht da am Eingang wie ’n Scanner, Arme verschränkt. Er weiß, warum er
++da ist – und ich auch: Keiner aus der DDR geht hier allein irgendwohin.
+@@ -38,1 +58,3 @@
+-Neben ihm Herr Fischer. Nicht so scharf, eher müde Augen. Er redet mit ’nem finnischen Lehrer, nickt, guckt rum – und dann bleibt sein Blick an mir hängen. Zu lange. Er hat mich erkannt. Trotz Haaren, trotz Jacke. Mist.
++Neben ihm Herr Fischer. Nicht so scharf, eher müde Augen. Er redet mit ’nem
++finnischen Lehrer, nickt, guckt rum – und dann bleibt sein Blick an mir hängen.
++Zu lange. Er hat mich erkannt. Trotz Haaren, trotz Jacke. Mist.
+@@ -42,1 +64,3 @@
+-Die Menge schiebt Richtung Ausgang. Plötzlich tritt Fischer einen Schritt vor, direkt in Mielkes Bahn. „Einen Moment, ich muss Ihnen noch was zeigen …“ höre ich. Mielke dreht sich genervt zu ihm. Mein Schlupfloch!
++Die Menge schiebt Richtung Ausgang. Plötzlich tritt Fischer einen Schritt vor,
++direkt in Mielkes Bahn. „Einen Moment, ich muss Ihnen noch was zeigen …“ höre
++ich. Mielke dreht sich genervt zu ihm. Mein Schlupfloch!
+@@ -44,1 +68,3 @@
+-Ich husche los, vorbei an einer Gruppe Mongolen, dränge mich zwischen zwei Bulgaren. Der Flur ist voll, alles wogt, mein Herz rast. Immer wieder ein schneller Blick über die Schulter – Mielke checkt mich nicht. Noch nicht.
++Ich husche los, vorbei an einer Gruppe Mongolen, dränge mich zwischen zwei
++Bulgaren. Der Flur ist voll, alles wogt, mein Herz rast. Immer wieder ein
++schneller Blick über die Schulter – Mielke checkt mich nicht. Noch nicht.
+@@ -46,1 +72,3 @@
+-An der Tür nach draußen knallt mir einer entgegen, ich stolpere, fange mich an der Wand. Ein Schwede mit Sommersprossen murmelt eine Entschuldigung. Ich nicke nur, weiter, weiter!
++An der Tür nach draußen knallt mir einer entgegen, ich stolpere, fange mich an
++der Wand. Ein Schwede mit Sommersprossen murmelt eine Entschuldigung. Ich nicke
++nur, weiter, weiter!
+@@ -48,1 +76,2 @@
+-Draußen grelles Licht. Da vorne der Bus. Die Jungs aus unserer Gruppe klettern schon rein. Wenn ich geradeaus gehe, bin ich geliefert.
++Draußen grelles Licht. Da vorne der Bus. Die Jungs aus unserer Gruppe klettern
++schon rein. Wenn ich geradeaus gehe, bin ich geliefert.
+@@ -50,1 +79,2 @@
+-Also links abbiegen, so unauffällig wie möglich. Am Heck vorbei. Hinter mir Stimmen – eine davon klingt nach Mielke. Ich lege einen Zahn zu.
++Also links abbiegen, so unauffällig wie möglich. Am Heck vorbei. Hinter mir
++Stimmen – eine davon klingt nach Mielke. Ich lege einen Zahn zu.
+@@ -52,1 +82,2 @@
+-Und dann – da! Kleine Baumgruppe, nur ein paar Meter. Ich tauche rein, Zweige kratzen an meiner Jacke, Blätter rauschen und fressen die Stimmen.
++Und dann – da! Kleine Baumgruppe, nur ein paar Meter. Ich tauche rein, Zweige
++kratzen an meiner Jacke, Blätter rauschen und fressen die Stimmen.
+@@ -54,1 +85,2 @@
+-Ich presse mich an eine Birke. Atem brennt. Ich bin nicht frei – aber ich bin draußen.
++Ich presse mich an eine Birke. Atem brennt. Ich bin nicht frei – aber ich bin
++draußen.

@@ -1,0 +1,133 @@
+--- old
++++ new
+@@ -1,1 +1,1 @@
+-# Kleine Annäherungen
++# Hof hiner dem Haus
+@@ -8,1 +8,5 @@
+-  "persons": [ "Eddie", "Vidar", "Streuner" ],
++  "persons": [
++    "Eddie",
++    "Vidar",
++    "Streuner"
++  ],
+@@ -13,1 +17,3 @@
+-    "illustrations": ["SWE_Stockholm_Eddie_kuesst_Vidar.png"],
++  "illustrations": [
++    "SWE_Stockholm_Eddie_kuesst_Vidar.png"
++  ],
+@@ -28,1 +34,1 @@
+-  "todo":"Redundanz zu 'Die zweite Tasche'"
++  "todo": "Redundanz zu 'Die zweite Tasche'"
+@@ -32,6 +38,5 @@
+-Es ist ein paar Tage nach dem Beinahe-Kuss. Wir sitzen wieder draußen,
+-diesmal im Hof hinter Vidars Elternhaus. Ich habe meine frisch
+-gewaschene Jacke an, sie riecht nach Waschmittel und Wärme, und ich kann
+-nicht glauben, wie sehr mich so ein banaler Geruch glücklich macht.
+-Vidar hat mir Tee gebracht, wir reden kaum. Streuner liegt im Gras und
+-döst.
++Es ist ein paar Tage nach dem Beinahe-Kuss. Wir sitzen wieder draußen, diesmal
++im Hof hinter Vidars Elternhaus. Ich habe meine frisch gewaschene Jacke an, sie
++riecht nach Waschmittel und Wärme, und ich kann nicht glauben, wie sehr mich so
++ein banaler Geruch glücklich macht. Vidar hat mir Tee gebracht, wir reden kaum.
++Streuner liegt im Gras und döst.
+@@ -39,5 +44,5 @@
+-Ich beobachte Vidar im Dämmerlicht. Wie er die Hände um den Becher legt,
+-wie er manchmal nervös an seinem Ärmel zieht. Meine Brust zieht sich
+-zusammen. All die Tage, die Gespräche, die Geschenke, der Brief, das
+-Lächeln, sein Blick, wenn er glaubt, ich merke es nicht -- alles läuft
+-in mir zusammen wie ein Fluss, der endlich ins Meer will.
++Ich beobachte Vidar im Dämmerlicht. Wie er die Hände um den Becher legt, wie er
++manchmal nervös an seinem Ärmel zieht. Meine Brust zieht sich zusammen. All die
++Tage, die Gespräche, die Geschenke, der Brief, das Lächeln, sein Blick, wenn er
++glaubt, ich merke es nicht -- alles läuft in mir zusammen wie ein Fluss, der
++endlich ins Meer will.
+@@ -45,2 +50,2 @@
+-Ich will ihn. Nicht aus Dankbarkeit. Nicht, weil er mich gerettet hat.
+-Sondern weil er er ist.
++Ich will ihn. Nicht aus Dankbarkeit. Nicht, weil er mich gerettet hat. Sondern
++weil er er ist.
+@@ -48,5 +53,5 @@
+-Mein Herz hämmert, als ich die Tasse abstelle. Ich rutsche ein Stück
+-näher, so nah, dass unsere Knie sich berühren. Er schaut überrascht zu
+-mir, seine Augen groß, unsicher. Für einen Moment sehe ich, wie er etwas
+-sagen will, aber ich lasse ihn nicht. Ich lege meine Hand an seine
+-Wange, spüre die Wärme seiner Haut.
++Mein Herz hämmert, als ich die Tasse abstelle. Ich rutsche ein Stück näher, so
++nah, dass unsere Knie sich berühren. Er schaut überrascht zu mir, seine Augen
++groß, unsicher. Für einen Moment sehe ich, wie er etwas sagen will, aber ich
++lasse ihn nicht. Ich lege meine Hand an seine Wange, spüre die Wärme seiner
++Haut.
+@@ -56,4 +61,4 @@
+-Es ist kein Zögern mehr, kein fast, kein Versehen. Es ist echt. Voller
+-Hunger, voller Sehnsucht, voller Liebe, die ich nicht länger leugnen
+-kann. Er erstarrt nur den Bruchteil einer Sekunde, dann erwidert er
+-meinen Kuss. Zögernd erst, dann mutiger, tiefer.
++Es ist kein Zögern mehr, kein fast, kein Versehen. Es ist echt. Voller Hunger,
++voller Sehnsucht, voller Liebe, die ich nicht länger leugnen kann. Er erstarrt
++nur den Bruchteil einer Sekunde, dann erwidert er meinen Kuss. Zögernd erst,
++dann mutiger, tiefer.
+@@ -61,3 +66,3 @@
+-Alles in mir explodiert. Es ist, als würde mein ganzer Körper endlich
+-aufatmen. Kein Vergleich zu früheren Küssen, kein Spiel, kein
+-Experiment. Das hier ist anders. Das hier ist wahr.
++Alles in mir explodiert. Es ist, als würde mein ganzer Körper endlich aufatmen.
++Kein Vergleich zu früheren Küssen, kein Spiel, kein Experiment. Das hier ist
++anders. Das hier ist wahr.
+@@ -65,3 +70,3 @@
+-Als wir uns lösen, sind unsere Stirnen noch aneinandergelehnt. Ich atme
+-schwer, meine Lippen kribbeln, mein Herz will aus meiner Brust springen.
+-Er flüstert kaum hörbar: „Eddie..."
++Als wir uns lösen, sind unsere Stirnen noch aneinandergelehnt. Ich atme schwer,
++meine Lippen kribbeln, mein Herz will aus meiner Brust springen. Er flüstert
++kaum hörbar: „Eddie..."
+@@ -69,2 +74,2 @@
+-Ich lächle, und es ist ein Lächeln, das ich nicht zurückhalten kann.
+-„Das war mein erster Kuss," sage ich. „Mein erster richtiger."
++Ich lächle, und es ist ein Lächeln, das ich nicht zurückhalten kann. „Das war
++mein erster Kuss," sage ich. „Mein erster richtiger."
+@@ -72,3 +77,2 @@
+-Streuner hebt kurz den Kopf, als hätte er den Zauber gespürt, dann legt
+-er sich wieder hin. Und ich weiß: Ab jetzt wird nichts mehr so sein wie
+-vorher.
++Streuner hebt kurz den Kopf, als hätte er den Zauber gespürt, dann legt er sich
++wieder hin. Und ich weiß: Ab jetzt wird nichts mehr so sein wie vorher.
+@@ -76,4 +80,3 @@
+-Ich liege auf meinem Platz, eingewickelt in die Decke, Streuner warm an
+-meiner Seite. Über mir spannt sich der Himmel von Stockholm, voller
+-grauer Wolken, die das Licht der Stadt zurückwerfen. Aber ich sehe
+-nichts davon. Ich sehe nur ihn.
++Ich liege auf meinem Platz, eingewickelt in die Decke, Streuner warm an meiner
++Seite. Über mir spannt sich der Himmel von Stockholm, voller grauer Wolken, die
++das Licht der Stadt zurückwerfen. Aber ich sehe nichts davon. Ich sehe nur ihn.
+@@ -81,4 +84,4 @@
+-Vidar. Seine Augen, wie sie so nah vor meinen waren. Seine Lippen, wie
+-sie zuerst zögerten, dann weich, dann mutig wurden. Mein Herz stolpert
+-schon wieder, wenn ich nur daran denke. Ich halte mir die Finger an den
+-Mund, als müsste ich prüfen, ob er noch da ist, der Kuss.
++Vidar. Seine Augen, wie sie so nah vor meinen waren. Seine Lippen, wie sie
++zuerst zögerten, dann weich, dann mutig wurden. Mein Herz stolpert schon wieder,
++wenn ich nur daran denke. Ich halte mir die Finger an den Mund, als müsste ich
++prüfen, ob er noch da ist, der Kuss.
+@@ -86,5 +89,4 @@
+-„Mein erster richtiger Kuss", flüstere ich in die Dunkelheit. Ich muss
+-lachen und weinen gleichzeitig. So oft habe ich mir eingeredet, ich
+-wüsste, was Liebe sei. Sini, mein erster Freund, all die Verwirrung, die
+-Nähe, die Abenteuer -- ich dachte, das wäre es. Aber das hier... das ist
+-anders.
++„Mein erster richtiger Kuss", flüstere ich in die Dunkelheit. Ich muss lachen
++und weinen gleichzeitig. So oft habe ich mir eingeredet, ich wüsste, was Liebe
++sei. Sini, mein erster Freund, all die Verwirrung, die Nähe, die Abenteuer --
++ich dachte, das wäre es. Aber das hier... das ist anders.
+@@ -93,2 +95,1 @@
+-lebendig. Als wäre in mir etwas aufgegangen, was ich vorher gar nicht
+-kannte.
++lebendig. Als wäre in mir etwas aufgegangen, was ich vorher gar nicht kannte.
+@@ -96,4 +97,4 @@
+-Streuner rührt sich, schiebt seine Nase unter meinen Arm. Ich drücke ihn
+-fest an mich. „Jetzt weiß ich, was Liebe ist", flüstere ich. Und während
+-mir die Augen zufallen, ist da ein Gefühl, das ich seit meiner Flucht
+-kaum mehr gekannt habe: Frieden.
++Streuner rührt sich, schiebt seine Nase unter meinen Arm. Ich drücke ihn fest an
++mich. „Jetzt weiß ich, was Liebe ist", flüstere ich. Und während mir die Augen
++zufallen, ist da ein Gefühl, das ich seit meiner Flucht kaum mehr gekannt habe:
++Frieden.

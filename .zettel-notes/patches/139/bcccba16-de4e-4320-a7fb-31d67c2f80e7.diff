@@ -1,0 +1,93 @@
+--- old
++++ new
+@@ -17,4 +17,5 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
++  "proofreading": {
++    "Kapitel": "230_Anruf_mit_Codewort",
++    "Ton": {
++      "Einschaetzung": "Angespannt, geheimnisvoll, Eddie konzentriert sich auf den riskanten Anruf.",
++      "Kritik": "Ton ist stellenweise zu kühl und sachlich, jugendliche Nervosität kommt zu kurz."
+@@ -22,3 +23,3 @@
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
++    "Logik": {
++      "Einschaetzung": "Anruf mit Codewort plausibel, baut Spannung auf.",
++      "Kritik": "Ablauf wirkt sehr kontrolliert und glatt. Kleine Fehler, Versprecher oder Missverständnisse würden Realismus steigern."
+@@ -26,3 +27,12 @@
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
++    "Charaktere": {
++      "Einschaetzung": "Eddie im Fokus, handelt zielstrebig.",
++      "Kritik": "Ihre Angst und Unsicherheit könnten stärker spürbar sein. Gesprächspartner bleibt blass und funktional."
++    },
++    "Sprache": {
++      "Einschaetzung": "Klar, präzise.",
++      "Kritik": "Dialog wirkt zu sauber und gestellt. Kaum jugendliche Ausrufe oder Füllwörter, Sprache dadurch etwas steif."
++    },
++    "Fazit": {
++      "Staerken": "Spannungsreicher Moment, verdeutlicht Risiko und Eddies Mut.",
++      "Schwaechen": "Zu glatt, Emotionen fehlen, Gesprächspartner schemenhaft.",
++      "Fix": "Mehr jugendliche Nervosität und spontane Gedanken einbauen, Dialog mit kleinen Brüchen versehen, Nebenfigur klarer zeichnen."
+@@ -40,1 +50,1 @@
+-„Ruf schon an", sagt Raija trocken, als wär's das Normalste der Welt. Sie sitzt
++„Ruf schon an“, sagt Raija trocken, als wär's das Normalste der Welt. Sie sitzt
+@@ -44,1 +54,1 @@
+-„Ja, ja", murmele ich, wähle vorsichtig die lange internationale Nummer, Schritt
++„Ja, ja“, murmele ich, wähle vorsichtig die lange internationale Nummer, Schritt
+@@ -49,1 +59,1 @@
+-Radmer, hallo?"
++Radmer, hallo?“
+@@ -54,1 +64,1 @@
+-„Bonjour, hier spricht das Sekretariat des Institut de…" -- ich werfe Raija
++„Bonjour, hier spricht das Sekretariat des Institut de…“ -- ich werfe Raija
+@@ -57,1 +67,1 @@
+-Sie flüstert prompt: „Sciences Avancées."
++Sie flüstert prompt: „Sciences Avancées.“
+@@ -59,2 +69,2 @@
+-„…des *Institut de Sciences Avancées*", wiederhole ich schnell. „Ich rufe an, um
+-Ihnen mitzuteilen, dass Sie für den Prix de sûreté nucléaire nominiert wurden."
++„…des *Institut de Sciences Avancées*“, wiederhole ich schnell. „Ich rufe an, um
++Ihnen mitzuteilen, dass Sie für den Prix de sûreté nucléaire nominiert wurden.“
+@@ -62,1 +72,1 @@
+-Pause. Am anderen Ende ist es still, dann ein leises Räuspern. „Oh!" sagt er,
++Pause. Am anderen Ende ist es still, dann ein leises Räuspern. „Oh!“ sagt er,
+@@ -64,1 +74,1 @@
+-das ist großartig! Aus Frankreich, sagen Sie?"
++das ist großartig! Aus Frankreich, sagen Sie?“
+@@ -68,1 +78,1 @@
+-offiziell."
++offiziell.“
+@@ -72,1 +82,1 @@
+-uns."
++uns.“
+@@ -74,1 +84,1 @@
+-„Ja, natürlich, natürlich!" tönt er. „Das muss ich sofort meiner Frau erzählen
++„Ja, natürlich, natürlich!“ tönt er. „Das muss ich sofort meiner Frau erzählen
+@@ -76,2 +86,2 @@
+-Paris meine Arbeit würdigt." um dann noch auf breitem sächsisch ein
+-„formidable!" hintendran zu hängen.
++Paris meine Arbeit würdigt.“ um dann noch auf breitem sächsisch ein
++„formidable!“ hintendran zu hängen.
+@@ -81,1 +91,1 @@
+-„Vielen Dank, vielen Dank!", ruft er, als hätte er gerade den Nobelpreis
++„Vielen Dank, vielen Dank!“, ruft er, als hätte er gerade den Nobelpreis
+@@ -84,1 +94,1 @@
+-„Bonne journée", murmele ich schnell, und lege auf, bevor mir doch noch die
++„Bonne journée“, murmele ich schnell, und lege auf, bevor mir doch noch die
+@@ -89,1 +99,1 @@
+-wirklich geschafft!"
++wirklich geschafft!“
+@@ -92,1 +102,1 @@
+-Schauspielerin werden, Eddie. Oder Spionin."
++Schauspielerin werden, Eddie. Oder Spionin.“
+@@ -123,1 +133,1 @@
+-geschafft habe. Und keiner kann's verhindern."
++geschafft habe. Und keiner kann's verhindern.“
+@@ -127,1 +137,1 @@
+-würdest du gleich umfallen."
++würdest du gleich umfallen.“

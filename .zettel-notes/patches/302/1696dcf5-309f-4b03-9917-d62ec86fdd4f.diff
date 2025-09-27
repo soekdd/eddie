@@ -1,0 +1,35 @@
+--- old
++++ new
+@@ -8,1 +8,4 @@
+-  "persons": ["Eddie", "Sini"],
++  "persons": [
++    "Eddie",
++    "Sini"
++  ],
+@@ -13,1 +16,25 @@
+-  "notes": "Die ausführliche Rechnung liegt ausgelagert in 'Eddie_rechnet_Tag3_Tausend_Seen_Wahrscheinlichkeit.md'."
++  "notes": "Die ausführliche Rechnung liegt ausgelagert in 'Eddie_rechnet_Tag3_Tausend_Seen_Wahrscheinlichkeit.md'.",
++  "proofreading": {
++    "Kapitel": "450_Immer_ein_See_in_der_Nähe",
++    "Ton": {
++      "Einschaetzung": "Ruhig, fast kontemplativ, Eddie beschreibt die Naturbeobachtung mit Staunen.",
++      "Kritik": "Ton wirkt stellenweise zu erwachsen und literarisch. Wenig jugendliche Spontaneität."
++    },
++    "Logik": {
++      "Einschaetzung": "Beobachtungen über die vielen Seen Finnlands plausibel.",
++      "Kritik": "Wiederholungen machen den Text langatmig. Gefahr, dass die Szene wie Füllmaterial wirkt."
++    },
++    "Charaktere": {
++      "Einschaetzung": "Eddie tritt als nachdenkliche Beobachterin hervor.",
++      "Kritik": "Ihre Persönlichkeit bleibt blass, jugendliche Eigenheiten fehlen. Keine Dynamik mit Nebenfiguren."
++    },
++    "Sprache": {
++      "Einschaetzung": "Flüssig, beschreibend.",
++      "Kritik": "Zu viele Wiederholungen, zu glatt. Füllwörter und lange Sätze nehmen Tempo raus."
++    },
++    "Fazit": {
++      "Staerken": "Stimmungsvolles Naturbild, Ruhepol im Erzählfluss.",
++      "Schwaechen": "Zu literarisch, jugendliche Stimme fehlt, Wiederholungen.",
++      "Fix": "Jugendliche Spontaneität einbauen (z. B. Witz, Vergleiche), Sprache straffen, weniger Wiederholungen."
++    }
++  }

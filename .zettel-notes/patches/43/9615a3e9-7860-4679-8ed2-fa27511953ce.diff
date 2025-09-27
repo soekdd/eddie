@@ -1,0 +1,242 @@
+--- old
++++ new
+@@ -5,22 +5,26 @@
+-    "date": "1985-08-15",
+-    "daytime":"night",
+-    "place": "Sinis Wohnung",
+-    "persons": ["Eddie", "Sini"],
+-    "synopsis": "Eddie und Sini teilen intime Geschichten über ihre ersten sexuellen Erfahrungen, lachen, necken sich und bauen tiefes Vertrauen zueinander auf.",
+-    "mood": "playful, intimate, trusting",
+-    "tense": "present, Eddies first-person perspective",
+-    "mode": "mainline", // flashback | mainline
+-    "illustrations": ["FIN_Vaasa_Kissenschlacht2.png"],
+-    "feedback": {
+-        "anni": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "lucia": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "soek": {
+-            "rating":".....",
+-            "comments":""
+-        }
++  "date": "1985-08-15",
++  "daytime": "night",
++  "place": "Sinis Wohnung",
++  "persons": [
++    "Eddie",
++    "Sini"
++  ],
++  "synopsis": "Eddie und Sini teilen intime Geschichten über ihre ersten sexuellen Erfahrungen, lachen, necken sich und bauen tiefes Vertrauen zueinander auf.",
++  "mood": "playful, intimate, trusting",
++  "tense": "present, Eddies first-person perspective",
++  "mode": "mainline",
++  "illustrations": [
++    "FIN_Vaasa_Kissenschlacht2.png"
++  ],
++  "feedback": {
++    "anni": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "lucia": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "soek": {
++      "rating": ".....",
++      "comments": ""
+@@ -28,0 +32,1 @@
++  }
+@@ -31,1 +36,4 @@
+-Wir sind zurück vom Kino, noch ganz aufgekratzt. Michael J. Fox spukt uns beiden im Kopf herum – klein, süß, witzig. Wir schwärmen, kichern, trinken warmen Tee auf Sinis kleinem Sofa. Die Tassen dampfen, die Uhr tickt irgendwo leise, und alles fühlt sich an, als würde die Welt gerade nur aus uns beiden bestehen.
++Wir sind zurück vom Kino, noch ganz aufgekratzt. Michael J. Fox spukt uns beiden
++im Kopf herum – klein, süß, witzig. Wir schwärmen, kichern, trinken warmen Tee
++auf Sinis kleinem Sofa. Die Tassen dampfen, die Uhr tickt irgendwo leise, und
++alles fühlt sich an, als würde die Welt gerade nur aus uns beiden bestehen.
+@@ -33,2 +41,2 @@
+-Plötzlich schaut Sini mich an, ihre Augen glitzern verschwörerisch.
+-„Sag mal, Eddie… hast du schon mal mit einem Jungen…?“
++Plötzlich schaut Sini mich an, ihre Augen glitzern verschwörerisch. „Sag mal,
++Eddie… hast du schon mal mit einem Jungen…?“
+@@ -38,1 +46,2 @@
+-Sie verschluckt sich fast. „Ja?! Und du willst mir jetzt nicht einfach nur ja hinwerfen. Ich will Details, Mädchen!“
++Sie verschluckt sich fast. „Ja?! Und du willst mir jetzt nicht einfach nur ja
++hinwerfen. Ich will Details, Mädchen!“
+@@ -40,2 +49,5 @@
+-Ich tue so, als wolle ich schweigen, schaue an die Decke, beiße mir auf die Lippe. Doch sie stupst mich immer wieder, bohrt, bis ich schließlich nachgebe.
+-„Na gut. Es war an meinem sechzehnten Geburtstag. Ich hab beschlossen, dass es im nächsten Sommer passieren soll. Ich wollte’s nicht dem Zufall überlassen. Also hab ich mir den großen Bruder meiner besten Freundin ausgesucht.“
++Ich tue so, als wolle ich schweigen, schaue an die Decke, beiße mir auf die
++Lippe. Doch sie stupst mich immer wieder, bohrt, bis ich schließlich nachgebe.
++„Na gut. Es war an meinem sechzehnten Geburtstag. Ich hab beschlossen, dass es
++im nächsten Sommer passieren soll. Ich wollte’s nicht dem Zufall überlassen.
++Also hab ich mir den großen Bruder meiner besten Freundin ausgesucht.“
+@@ -51,1 +63,2 @@
+-Sie starrt mich an, dann läuft sie durchs Zimmer wie ein aufgezogener Flummi. „Fünfundzwanzig?! Das ist ja… krass. Aber auch… irgendwie heiß.“
++Sie starrt mich an, dann läuft sie durchs Zimmer wie ein aufgezogener Flummi.
++„Fünfundzwanzig?! Das ist ja… krass. Aber auch… irgendwie heiß.“
+@@ -57,1 +70,2 @@
+-Ich atme tief ein. „Na ja, das erste Mal tat weh. Aber ab dem zweiten Mal hat’s Spaß gemacht.“
++Ich atme tief ein. „Na ja, das erste Mal tat weh. Aber ab dem zweiten Mal hat’s
++Spaß gemacht.“
+@@ -59,1 +73,2 @@
+-Sini quietscht, springt auf dem Sofa herum. „Du bist unglaublich, Eddie! Einfach entschieden, zack gemacht!“
++Sini quietscht, springt auf dem Sofa herum. „Du bist unglaublich, Eddie! Einfach
++entschieden, zack gemacht!“
+@@ -65,1 +80,2 @@
+-Ich zucke mit den Schultern. „Wir mochten uns. Aber nach den Ferien haben wir uns nicht mehr getroffen.“
++Ich zucke mit den Schultern. „Wir mochten uns. Aber nach den Ferien haben wir
++uns nicht mehr getroffen.“
+@@ -69,1 +85,3 @@
+-Also erzähle ich. Von seinem schelmischen Lächeln, seiner Ruhe, seiner Geduld. Von dem Gefühl, dass er mir Raum ließ, obwohl ich nervös war. Und dass er es war, weil ich ihn gewählt hatte.
++Also erzähle ich. Von seinem schelmischen Lächeln, seiner Ruhe, seiner Geduld.
++Von dem Gefühl, dass er mir Raum ließ, obwohl ich nervös war. Und dass er es
++war, weil ich ihn gewählt hatte.
+@@ -71,1 +89,3 @@
+-Sini hängt an meinen Lippen, ihre Augen funkeln. Immer wieder bricht sie in Gelächter aus, springt hoch, wirft sich wieder hin. Und ich lache mit, bis uns der Bauch wehtut.
++Sini hängt an meinen Lippen, ihre Augen funkeln. Immer wieder bricht sie in
++Gelächter aus, springt hoch, wirft sich wieder hin. Und ich lache mit, bis uns
++der Bauch wehtut.
+@@ -79,1 +99,2 @@
+-Ich werde rot, halte mir die Hände vors Gesicht. „Na ja… groß genug. Ich hab nichts vermisst.“
++Ich werde rot, halte mir die Hände vors Gesicht. „Na ja… groß genug. Ich hab
++nichts vermisst.“
+@@ -81,1 +102,2 @@
+-Sie quietscht, schlägt mit den Händen aufs Sofa. „Und? Schnell, langsam, romantisch?“
++Sie quietscht, schlägt mit den Händen aufs Sofa. „Und? Schnell, langsam,
++romantisch?“
+@@ -85,1 +107,2 @@
+-Sie lacht, läuft durchs Zimmer, ruft: „Ich sterbe! Und hast du’s ihm mit dem Mund gemacht?“
++Sie lacht, läuft durchs Zimmer, ruft: „Ich sterbe! Und hast du’s ihm mit dem
++Mund gemacht?“
+@@ -87,1 +110,2 @@
+-Ich starre sie an, dann brülle ich lachend: „Nicht beim ersten Mal. Später schon.“
++Ich starre sie an, dann brülle ich lachend: „Nicht beim ersten Mal. Später
++schon.“
+@@ -91,1 +115,2 @@
+-Als ich wieder zu Atem komme, seufze ich. „Weißt du eigentlich, wie verrückt das klingt? Sechzehn… und er fünfundzwanzig. Fast ein Jahrzehnt Unterschied.“
++Als ich wieder zu Atem komme, seufze ich. „Weißt du eigentlich, wie verrückt das
++klingt? Sechzehn… und er fünfundzwanzig. Fast ein Jahrzehnt Unterschied.“
+@@ -95,1 +120,3 @@
+-„War’s nicht. Aber wenn ich jetzt drüber nachdenke… die Jungs in meiner Klasse konnten kaum ’ne Schallplatte wechseln. Er wusste, was er tut. Und genau das wollte ich.“
++„War’s nicht. Aber wenn ich jetzt drüber nachdenke… die Jungs in meiner Klasse
++konnten kaum ’ne Schallplatte wechseln. Er wusste, was er tut. Und genau das
++wollte ich.“
+@@ -97,1 +124,2 @@
+-Sini stupst mich in die Seite. „Siehst du! Du hast’s clever gemacht. Ich spring rum, probier querbeet – und du schnappst dir gleich den Profi.“
++Sini stupst mich in die Seite. „Siehst du! Du hast’s clever gemacht. Ich spring
++rum, probier querbeet – und du schnappst dir gleich den Profi.“
+@@ -99,1 +127,2 @@
+-Ich werde rot, kichere. „Du redest, als hätte ich mir ’ne Bedienungsanleitung ausgesucht.“
++Ich werde rot, kichere. „Du redest, als hätte ich mir ’ne Bedienungsanleitung
++ausgesucht.“
+@@ -119,1 +148,4 @@
+-Sie wird ernst, aber lächelt. „Doof. Ich war fünfzehn, total verliebt. Dachte, er wär die große Liebe. Für ihn war’s wohl nicht so ernst. Tat weh – im Herzen mehr als sonst. Danach hab ich beschlossen: Nie wieder so. Ich nehm mir, was ich will.“
++Sie wird ernst, aber lächelt. „Doof. Ich war fünfzehn, total verliebt. Dachte,
++er wär die große Liebe. Für ihn war’s wohl nicht so ernst. Tat weh – im Herzen
++mehr als sonst. Danach hab ich beschlossen: Nie wieder so. Ich nehm mir, was ich
++will.“
+@@ -125,1 +157,2 @@
+-Sie lacht. „Festival! Zelt, Regen, Matsch. Musik die ganze Nacht. Unbequem wie Sau, aber unvergesslich.“
++Sie lacht. „Festival! Zelt, Regen, Matsch. Musik die ganze Nacht. Unbequem wie
++Sau, aber unvergesslich.“
+@@ -129,1 +162,2 @@
+-Sie nickt breit grinsend. „Oder der Typ mit dem Motorrad. Holte mich nachts ab. Nebelsee, Motoröl, Mondschein. Mein Herz raste wie irre.“
++Sie nickt breit grinsend. „Oder der Typ mit dem Motorrad. Holte mich nachts ab.
++Nebelsee, Motoröl, Mondschein. Mein Herz raste wie irre.“
+@@ -135,1 +169,3 @@
+-Dann flüstert sie: „Und einmal… im Treppenhaus vom Fährterminal. Letzte Etage. Neonlicht, Beton, verheirateter Kollege. Wir hätten jederzeit erwischt werden können. Wild, schnell, Herzrasen.“
++Dann flüstert sie: „Und einmal… im Treppenhaus vom Fährterminal. Letzte Etage.
++Neonlicht, Beton, verheirateter Kollege. Wir hätten jederzeit erwischt werden
++können. Wild, schnell, Herzrasen.“
+@@ -141,1 +177,2 @@
+-Ich zögere, dann rutscht es raus: „Hattest du… kein schlechtes Gewissen? Wegen seiner Frau?“
++Ich zögere, dann rutscht es raus: „Hattest du… kein schlechtes Gewissen? Wegen
++seiner Frau?“
+@@ -143,1 +180,3 @@
+-Sini blinzelt, als hätte sie die Frage gar nicht erwartet. „Schlechtes Gewissen? Wieso? Das war sein Ding, nicht meins. Ich war frei. Er war derjenige, der verheiratet war.“
++Sini blinzelt, als hätte sie die Frage gar nicht erwartet. „Schlechtes Gewissen?
++Wieso? Das war sein Ding, nicht meins. Ich war frei. Er war derjenige, der
++verheiratet war.“
+@@ -147,1 +186,2 @@
+-„Klar. Aber ich bin nicht seine Ehefrau, Eddie. Nicht meine Verantwortung. Wenn einer lügt oder betrügt, dann er. Ich hab mir nichts vorzuwerfen.“
++„Klar. Aber ich bin nicht seine Ehefrau, Eddie. Nicht meine Verantwortung. Wenn
++einer lügt oder betrügt, dann er. Ich hab mir nichts vorzuwerfen.“
+@@ -149,1 +189,2 @@
+-Ich starre sie an, überrascht von der Selbstverständlichkeit in ihrer Stimme. „Du meinst echt, du musst da gar nichts bedenken?“
++Ich starre sie an, überrascht von der Selbstverständlichkeit in ihrer Stimme.
++„Du meinst echt, du musst da gar nichts bedenken?“
+@@ -151,1 +192,3 @@
+-Sie zuckt die Schultern, völlig gelassen. „Warum sollte ich? Ich hab Bock, er hat Bock – fertig. Wenn er deswegen Stress daheim kriegt, dann liegt das an ihm. Nicht an mir.“
++Sie zuckt die Schultern, völlig gelassen. „Warum sollte ich? Ich hab Bock, er
++hat Bock – fertig. Wenn er deswegen Stress daheim kriegt, dann liegt das an ihm.
++Nicht an mir.“
+@@ -153,1 +196,2 @@
+-„Hm“, murmele ich. Irgendwie klingt das brutal ehrlich – und trotzdem ein bisschen gefährlich.
++„Hm“, murmele ich. Irgendwie klingt das brutal ehrlich – und trotzdem ein
++bisschen gefährlich.
+@@ -155,1 +199,3 @@
+-Sini kneift die Augen zusammen, mustert mich einen Moment – und dann bricht sie in Gelächter aus. „Du guckst, als hätte ich dir gerade erzählt, ich esse Kinder zum Frühstück.“
++Sini kneift die Augen zusammen, mustert mich einen Moment – und dann bricht sie
++in Gelächter aus. „Du guckst, als hätte ich dir gerade erzählt, ich esse Kinder
++zum Frühstück.“
+@@ -159,1 +205,4 @@
+-„Na gut“, ruft sie, hebt beschwichtigend die Hände. „Themawechsel. Männer können ja auch was fürs Lachen tun.“ Sie beugt sich zu mir. „Zum Beispiel ihre Gesichter, wenn sie kommen! Comedy pur! Grimassen, verdrehte Augen, als hätten sie Zahnschmerzen.“
++„Na gut“, ruft sie, hebt beschwichtigend die Hände. „Themawechsel. Männer können
++ja auch was fürs Lachen tun.“ Sie beugt sich zu mir. „Zum Beispiel ihre
++Gesichter, wenn sie kommen! Comedy pur! Grimassen, verdrehte Augen, als hätten
++sie Zahnschmerzen.“
+@@ -161,1 +210,3 @@
+-„Das will ich jetzt nicht im Detail wissen!“ Ich kugle mich vor Lachen und halte mir demonstrativ die Ohren zu, bin aber viel zu neugierig, um wirklich wegzuhören.
++„Das will ich jetzt nicht im Detail wissen!“ Ich kugle mich vor Lachen und halte
++mir demonstrativ die Ohren zu, bin aber viel zu neugierig, um wirklich
++wegzuhören.
+@@ -165,1 +216,2 @@
+-Ich schreie vor Lachen. Dann gestehe ich: „Ich hab’s auch probiert. War neugierig. Salzig, warm. Ich wusste nicht, ob lachen oder flüchten.“
++Ich schreie vor Lachen. Dann gestehe ich: „Ich hab’s auch probiert. War
++neugierig. Salzig, warm. Ich wusste nicht, ob lachen oder flüchten.“
+@@ -167,1 +219,3 @@
+-Sini quietscht: „Genau so war’s bei mir! Mit meinem ersten Kerl, den ich so geliebt hab. Ich dachte, ich muss. Ergebnis: eklig, rostig, null Romantik. Er grinst, ich würg innerlich.“
++Sini quietscht: „Genau so war’s bei mir! Mit meinem ersten Kerl, den ich so
++geliebt hab. Ich dachte, ich muss. Ergebnis: eklig, rostig, null Romantik. Er
++grinst, ich würg innerlich.“
+@@ -171,1 +225,4 @@
+-Sini wird wieder ernst. „Also, Tipps: Nie was machen, nur weil er’s will. Alles muss Spaß machen. Langsam! Männer flippen aus, wenn du’s langsam machst. Hände – nie vergessen. Und wenn mal was schiefgeht… nicht verkrampfen. Lachen hilft. Humor macht alles besser.“
++Sini wird wieder ernst. „Also, Tipps: Nie was machen, nur weil er’s will. Alles
++muss Spaß machen. Langsam! Männer flippen aus, wenn du’s langsam machst. Hände –
++nie vergessen. Und wenn mal was schiefgeht… nicht verkrampfen. Lachen hilft.
++Humor macht alles besser.“
+@@ -173,2 +230,2 @@
+-Ich grinse. Sie klingt wie ein unanständiger Mathelehrer.
+-„Du bist echt wie ’ne große Schwester, nur unanständiger.“
++Ich grinse. Sie klingt wie ein unanständiger Mathelehrer. „Du bist echt wie ’ne
++große Schwester, nur unanständiger.“
+@@ -178,1 +235,2 @@
+-„Also…“ sage ich zögernd. „Es gibt Dinge, die ich nie probiert hab. Aber neugierig wär ich.“
++„Also…“ sage ich zögernd. „Es gibt Dinge, die ich nie probiert hab. Aber
++neugierig wär ich.“
+@@ -184,1 +242,2 @@
+-Sie quietscht, haut mir ein Kissen ins Gesicht. „Eddie! Wenn er’s kann – gut. Sonst Mist.“
++Sie quietscht, haut mir ein Kissen ins Gesicht. „Eddie! Wenn er’s kann – gut.
++Sonst Mist.“
+@@ -196,1 +255,2 @@
+-Sie grinst. „Oh ja. Frauen wissen, was Frauen wollen. Zarter, sanfter, keine Show. Haut, Küsse, Hände, die wissen, wohin. Es gibt nichts Intimeres.“
++Sie grinst. „Oh ja. Frauen wissen, was Frauen wollen. Zarter, sanfter, keine
++Show. Haut, Küsse, Hände, die wissen, wohin. Es gibt nichts Intimeres.“
+@@ -205,1 +265,2 @@
+-Irgendwann sinken wir erschöpft ins Sofa, halb aufeinander. Die Teetassen sind kalt, die Wohnung still.
++Irgendwann sinken wir erschöpft ins Sofa, halb aufeinander. Die Teetassen sind
++kalt, die Wohnung still.
+@@ -207,1 +268,2 @@
+-Ich sehe sie an. Ihre blauen Haare, ihre blitzenden Augen. Ich hab ihr Dinge erzählt, die niemand sonst erfahren hat. Und sie mir genauso.
++Ich sehe sie an. Ihre blauen Haare, ihre blitzenden Augen. Ich hab ihr Dinge
++erzählt, die niemand sonst erfahren hat. Und sie mir genauso.
+@@ -213,2 +275,3 @@
+-Wir kichern noch einmal, leise, müde. Dann ziehe ich die Decke hoch und denke, kurz bevor ich einschlafe:
+-Wenn es jemanden gibt, dem ich meine Geheimnisse anvertrauen kann, dann ihr.
++Wir kichern noch einmal, leise, müde. Dann ziehe ich die Decke hoch und denke,
++kurz bevor ich einschlafe: Wenn es jemanden gibt, dem ich meine Geheimnisse
++anvertrauen kann, dann ihr.

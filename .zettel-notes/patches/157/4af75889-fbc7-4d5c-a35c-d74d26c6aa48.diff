@@ -1,0 +1,20 @@
+--- old
++++ new
+@@ -17,15 +17,2 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
+-    }
+-  },
+-  "todo": "Im Brief liegen auch Fotos"
++  "todo": "Im Brief liegen auch Fotos",
++  "proofreading": {}

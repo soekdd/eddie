@@ -1,0 +1,32 @@
+--- old
++++ new
+@@ -20,15 +20,2 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
+-    }
+-  },
+-  "todo": "Redundanz zu 'Die zweite Tasche'"
++  "todo": "Redundanz zu 'Die zweite Tasche'",
++  "proofreading": {}
+@@ -72,1 +59,1 @@
+-kaum hörbar: „Eddie…"
++kaum hörbar: „Eddie…“
+@@ -75,1 +62,1 @@
+-mein erster Kuss," sage ich. „Mein erster richtiger."
++mein erster Kuss,“ sage ich. „Mein erster richtiger.“
+@@ -89,1 +76,1 @@
+-„Mein erster richtiger Kuss", flüstere ich in die Dunkelheit. Ich muss lachen
++„Mein erster richtiger Kuss“, flüstere ich in die Dunkelheit. Ich muss lachen
+@@ -98,1 +85,1 @@
+-mich. „Jetzt weiß ich, was Liebe ist", flüstere ich. Und während mir die Augen
++mich. „Jetzt weiß ich, was Liebe ist“, flüstere ich. Und während mir die Augen

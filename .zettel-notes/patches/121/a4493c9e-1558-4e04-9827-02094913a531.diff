@@ -1,0 +1,35 @@
+--- old
++++ new
+@@ -24,4 +24,5 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
++  "proofreading": {
++    "Kapitel": "190_300_Markka",
++    "Ton": {
++      "Einschaetzung": "Sachlich, leicht verbittert, Eddie denkt über Geld und Wert nach.",
++      "Kritik": "Ton wirkt zu abgeklärt, fast erwachsen-analytisch. Jugendlich-emotionale Reaktionen auf das wenige Geld treten zurück."
+@@ -29,3 +30,3 @@
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
++    "Logik": {
++      "Einschaetzung": "Reflexion über Geldsumme nachvollziehbar, historisch stimmig.",
++      "Kritik": "Eddies Haltung wirkt zu nüchtern. Zweifel, Frust oder spontane Freude fehlen. Szene könnte emotionaler sein."
+@@ -33,3 +34,12 @@
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
++    "Charaktere": {
++      "Einschaetzung": "Eddie als Erzählerin im Mittelpunkt, zeigt Pragmatismus.",
++      "Kritik": "Ihre Verunsicherung bleibt zu abstrakt. Geld als Symbol könnte stärker mit ihrer Angst und Hoffnung verbunden werden."
++    },
++    "Sprache": {
++      "Einschaetzung": "Klar, präzise.",
++      "Kritik": "Zu trocken, wenig jugendliche Kommentare oder spontane Einwürfe. Gefahr, dass es wie ein Essay klingt."
++    },
++    "Fazit": {
++      "Staerken": "Zeigt realistische Einschränkungen, verdeutlicht Eddies Lage und Abhängigkeit vom Geld.",
++      "Schwaechen": "Zu nüchtern, Emotionen fehlen, Sprache zu erwachsen.",
++      "Fix": "Mehr jugendliche Reaktionen zeigen (z. B. Panik, Witz, Trotz), Geldsumme stärker emotional einbetten, Sprache lockern."

@@ -1,0 +1,42 @@
+--- old
++++ new
+@@ -20,15 +20,2 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
+-    },
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
+-    }
+-  },
+-  "todo": "Wir haben vergessen zuerwähnen, dass Eddie in den Zug eingesteigen ist und er abfährt, bevor die grauen Gestalten kommen. Es wird Nacht während der Fahrt, Eddie kommt am zeitigen Morgen in Stockholm an. Beim Aussteigen gibt es Redundanzen im Text. Es fehlt der Vergleich mit ostdeutschen Städten. Die Hoffnungslosigkeit der zerfallenden Bausubstanz."
++  "todo": "Wir haben vergessen zuerwähnen, dass Eddie in den Zug eingesteigen ist und er abfährt, bevor die grauen Gestalten kommen. Es wird Nacht während der Fahrt, Eddie kommt am zeitigen Morgen in Stockholm an. Beim Aussteigen gibt es Redundanzen im Text. Es fehlt der Vergleich mit ostdeutschen Städten. Die Hoffnungslosigkeit der zerfallenden Bausubstanz.",
++  "proofreading": {}
+@@ -42,1 +29,1 @@
+-„Ich begleite dich noch bis zum Bahnhof", sagt Raija, während wir die Gangway
++„Ich begleite dich noch bis zum Bahnhof“, sagt Raija, während wir die Gangway
+@@ -56,1 +43,1 @@
+-alles. Für damals, für heute, einfach für alles", sage ich leise, die Worte
++alles. Für damals, für heute, einfach für alles“, sage ich leise, die Worte
+@@ -59,1 +46,1 @@
+-„Du hast es geschafft, Eddie. Du bist unglaublich", antwortet sie, ihre Stimme
++„Du hast es geschafft, Eddie. Du bist unglaublich“, antwortet sie, ihre Stimme
+@@ -61,1 +48,1 @@
+-du stark bist."
++du stark bist.“
+@@ -66,1 +53,1 @@
+-und komm zurück, wenn alles vorbei ist."
++und komm zurück, wenn alles vorbei ist.“
+@@ -68,3 +55,3 @@
+-Ich kann die Tränen kaum zurückhalten. „Ich… danke dir… für alles."\ „Du hast
+-nichts zu danken", sagt sie und lächelt dabei so, dass die Wärme durch den
+-kalten Bahnhof zieht. „Nur geh, jetzt. Ich sehe dich wieder."
++Ich kann die Tränen kaum zurückhalten. „Ich… danke dir… für alles.“\ „Du hast
++nichts zu danken“, sagt sie und lächelt dabei so, dass die Wärme durch den
++kalten Bahnhof zieht. „Nur geh, jetzt. Ich sehe dich wieder.“

@@ -1,0 +1,166 @@
+--- old
++++ new
+@@ -5,21 +5,26 @@
+-    "date": "1985-07-15",
+-    "daytime":"afternoon",
+-    "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
+-    "persons": ["Peter", "Eddie", "Sabine", "Conny", "Mattie"],
+-    "synopsis": "Peter erzählt von der Ausgrenzung und dem Verlust seiner Familie nach einem Ausreiseantrag; die Gruppe versteht dadurch besser Eddies Flucht.",
+-    "mood": "somber but bonding",
+-    "tense": "present, Eddies first-person perspective",
+-    "mode": "mainline", // flashback | mainline
+-    "feedback": {
+-        "anni": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "lucia": {
+-            "rating":".....",
+-            "comments":""
+-        },
+-        "soek": {
+-            "rating":".....",
+-            "comments":""
+-        }
++  "date": "1985-07-15",
++  "daytime": "afternoon",
++  "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
++  "persons": [
++    "Peter",
++    "Eddie",
++    "Sabine",
++    "Conny",
++    "Mattie"
++  ],
++  "synopsis": "Peter erzählt von der Ausgrenzung und dem Verlust seiner Familie nach einem Ausreiseantrag; die Gruppe versteht dadurch besser Eddies Flucht.",
++  "mood": "somber but bonding",
++  "tense": "present, Eddies first-person perspective",
++  "mode": "mainline",
++  "feedback": {
++    "anni": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "lucia": {
++      "rating": ".....",
++      "comments": ""
++    },
++    "soek": {
++      "rating": ".....",
++      "comments": ""
+@@ -27,0 +32,1 @@
++  }
+@@ -30,4 +36,3 @@
+-Der Regen trommelt weiter auf das Dach, die Gitarre liegt daneben
+-verstummt -- jetzt ist Reden dran. Peter rückt näher ans Feuer, zieht
+-die Jacke enger und sagt langsam, als müsste er erst wieder Worte
+-finden.
++Der Regen trommelt weiter auf das Dach, die Gitarre liegt daneben verstummt --
++jetzt ist Reden dran. Peter rückt näher ans Feuer, zieht die Jacke enger und
++sagt langsam, als müsste er erst wieder Worte finden.
+@@ -35,12 +40,10 @@
+-Er spricht in einem Ton, der nichts Dramatisches haben will, aber alles
+-enthält. „Meine Eltern", beginnt er, „haben den Antrag gestellt, weil
+-sie einfach nicht länger mitmachen wollten. Das mit der Arbeit war das
+-Erste: mein Vater war Ingenieur in einer kleinen Fabrik, meine Mutter
+-Lehrerin. Nach dem Antrag kamen sie zur Rede, dann kam der Brief --
+-fristlos. Auf Arbeit waren sie plötzlich unzuverlässig, und die
+-Betriebsleitung hat sie vor die Tür gesetzt. Die Nachbarn haben geguckt,
+-die Freunde sind weggezogen. Wir mussten das Haus verkaufen -- nicht
+-weil wir mussten, sondern weil sich plötzlich niemand mehr traute, mit
+-uns zu tun zu haben. Ich erinnere mich, wie mein Vater die Papiere
+-unterschrieb und dabei so aussah, als würde er ein Stück von sich
+-weglegen."
++Er spricht in einem Ton, der nichts Dramatisches haben will, aber alles enthält.
++„Meine Eltern", beginnt er, „haben den Antrag gestellt, weil sie einfach nicht
++länger mitmachen wollten. Das mit der Arbeit war das Erste: mein Vater war
++Ingenieur in einer kleinen Fabrik, meine Mutter Lehrerin. Nach dem Antrag kamen
++sie zur Rede, dann kam der Brief -- fristlos. Auf Arbeit waren sie plötzlich
++unzuverlässig, und die Betriebsleitung hat sie vor die Tür gesetzt. Die Nachbarn
++haben geguckt, die Freunde sind weggezogen. Wir mussten das Haus verkaufen --
++nicht weil wir mussten, sondern weil sich plötzlich niemand mehr traute, mit uns
++zu tun zu haben. Ich erinnere mich, wie mein Vater die Papiere unterschrieb und
++dabei so aussah, als würde er ein Stück von sich weglegen."
+@@ -48,13 +51,12 @@
+-Er holt tief Luft und macht weiter, leiser: „Es war nicht nur der Job.
+-Die Kinder -- also ich -- durften nicht mehr in den Sportverein, manche
+-Lehrer haben uns ausgegrenzt. Wir bekamen Briefe, in denen stand, dass
+-wir ‚politisch unzuverlässig' seien. Die Stasi kam öfter an die Tür,
+-Fragen, Gespräche, so dass meine Eltern irgendwann beschlossen: Entweder
+-wir gehen, oder wir werden ruiniert. Also stellen sie den Antrag. Der
+-Weg hierher war kein großes Fluchtkino, sondern Papierkram, Warten,
+-Demütigung -- und am Ende die Bombenmeldung: wir dürfen gehen. Aber der
+-Start im Westen war auch kein Traum. Wir hatten kaum Geld, eine winzige
+-Wohnung, meine Mutter hat anfangen müssen zu putzen, mein Vater hat jede
+-Gelegenheitsarbeit angenommen. Keine festen Freunde, keine Unterstützung
+--- als hätten wir ein Leben aufgegeben und bekämen als Ersatz nur
+-Unsicherheit."
++Er holt tief Luft und macht weiter, leiser: „Es war nicht nur der Job. Die
++Kinder -- also ich -- durften nicht mehr in den Sportverein, manche Lehrer haben
++uns ausgegrenzt. Wir bekamen Briefe, in denen stand, dass wir ‚politisch
++unzuverlässig' seien. Die Stasi kam öfter an die Tür, Fragen, Gespräche, so dass
++meine Eltern irgendwann beschlossen: Entweder wir gehen, oder wir werden
++ruiniert. Also stellen sie den Antrag. Der Weg hierher war kein großes
++Fluchtkino, sondern Papierkram, Warten, Demütigung -- und am Ende die
++Bombenmeldung: wir dürfen gehen. Aber der Start im Westen war auch kein Traum.
++Wir hatten kaum Geld, eine winzige Wohnung, meine Mutter hat anfangen müssen zu
++putzen, mein Vater hat jede Gelegenheitsarbeit angenommen. Keine festen Freunde,
++keine Unterstützung -- als hätten wir ein Leben aufgegeben und bekämen als
++Ersatz nur Unsicherheit."
+@@ -62,6 +64,5 @@
+-Er schweigt, schaut in die Flamme. „Ich sag das nicht, um Mitleid zu
+-erregen", fügt er hinzu, „sondern damit ihr versteht, warum Leute alles
+-riskieren. Man verliert dort nicht nur einen Job --- man verliert
+-soziale Netze, Rechte, oft auch Wohnung und Zukunft. Wenn man dann noch
+-als ‚Störenfried' gilt, kriegt man schnell Probleme mit der Schule, mit
+-dem Betrieb, mit dem Amt."
++Er schweigt, schaut in die Flamme. „Ich sag das nicht, um Mitleid zu erregen",
++fügt er hinzu, „sondern damit ihr versteht, warum Leute alles riskieren. Man
++verliert dort nicht nur einen Job --- man verliert soziale Netze, Rechte, oft
++auch Wohnung und Zukunft. Wenn man dann noch als ‚Störenfried' gilt, kriegt man
++schnell Probleme mit der Schule, mit dem Betrieb, mit dem Amt."
+@@ -69,3 +70,3 @@
+-Die anderen hören gebannt zu. Sabine hält die Hand vor den Mund, Conny
+-wischt sich heimlich die Augen. Mattie sagt nichts, aber seine Finger
+-trommeln nervös am Becher.
++Die anderen hören gebannt zu. Sabine hält die Hand vor den Mund, Conny wischt
++sich heimlich die Augen. Mattie sagt nichts, aber seine Finger trommeln nervös
++am Becher.
+@@ -73,6 +74,6 @@
+-Ich denke: Das sind Fakten, die ich kenne, aber noch nie so gehört habe.
+-Peters Stimme macht das alles greifbar -- nicht abstrakt, sondern mit
+-Namen, mit Zorn und einer Art stillem Stolz. Als er fertig ist,
+-verstehen die vier plötzlich, warum ich geflohen bin. Sie begreifen die
+-Angst, die jedem Antragsteller und seinen Angehörigen drohte, und dass
+-das Verlassenwerden durch Kollegen und Behörden nicht selten folgte.
++Ich denke: Das sind Fakten, die ich kenne, aber noch nie so gehört habe. Peters
++Stimme macht das alles greifbar -- nicht abstrakt, sondern mit Namen, mit Zorn
++und einer Art stillem Stolz. Als er fertig ist, verstehen die vier plötzlich,
++warum ich geflohen bin. Sie begreifen die Angst, die jedem Antragsteller und
++seinen Angehörigen drohte, und dass das Verlassenwerden durch Kollegen und
++Behörden nicht selten folgte.
+@@ -80,5 +81,5 @@
+-(Die Praxis war tatsächlich so brutal: Antragsteller verloren oft sofort
+-ihren Arbeitsplatz und waren staatlicher Verfolgung, sozialer
+-Ausgrenzung und zivilrechtlichen Schikanen ausgesetzt; die DDR-Behörden
+-nutzten Entlassungen, Berufsverbote und gesellschaftliche
+-Marginalisierung als Mittel gegen Ausreisewillige.
++(Die Praxis war tatsächlich so brutal: Antragsteller verloren oft sofort ihren
++Arbeitsplatz und waren staatlicher Verfolgung, sozialer Ausgrenzung und
++zivilrechtlichen Schikanen ausgesetzt; die DDR-Behörden nutzten Entlassungen,
++Berufsverbote und gesellschaftliche Marginalisierung als Mittel gegen
++Ausreisewillige.
+@@ -89,7 +90,6 @@
+-Die Stimmung entspannt sich langsam. Wir singen noch ein paar Lieder --
+-leise, fast wie ein Ritual -- dann kuscheln sich die Paare aneinander,
+-und ich liege da, wach, aber nicht mehr allein mit meinen Ängsten. Die
+-vier haben meine Geschichte gehört; sie haben die Härte dahinter
+-verstanden. Ob sie es ganz begreifen? Vielleicht nicht in jedem Detail.
+-Aber sie sehen jetzt, warum ich weglief. Und das reicht mir für diese
+-Nacht.
++Die Stimmung entspannt sich langsam. Wir singen noch ein paar Lieder -- leise,
++fast wie ein Ritual -- dann kuscheln sich die Paare aneinander, und ich liege
++da, wach, aber nicht mehr allein mit meinen Ängsten. Die vier haben meine
++Geschichte gehört; sie haben die Härte dahinter verstanden. Ob sie es ganz
++begreifen? Vielleicht nicht in jedem Detail. Aber sie sehen jetzt, warum ich
++weglief. Und das reicht mir für diese Nacht.

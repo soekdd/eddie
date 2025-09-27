@@ -1,0 +1,43 @@
+--- old
++++ new
+@@ -17,4 +17,6 @@
+-  "feedback": {
+-    "anni": {
+-      "rating": ".....",
+-      "comments": ""
++  "todo": "konkrete Etappe bennen",
++  "proofreading": {
++    "Kapitel": "360_Eddies_Wunder",
++    "Ton": {
++      "Einschaetzung": "Hoffnungsvoll, fast euphorisch. Eddie klingt erleichtert und staunend.",
++      "Kritik": "Ton schwankt zwischen authentischer Freude und zu großer Pathetik. Gefahr, dass es zu märchenhaft wirkt."
+@@ -22,3 +24,3 @@
+-    "lucia": {
+-      "rating": ".....",
+-      "comments": ""
++    "Logik": {
++      "Einschaetzung": "Das Wunderhafte ist nachvollziehbar als subjektive Wahrnehmung.",
++      "Kritik": "Die Plausibilität hängt stark von Eddies Empfindung ab, könnte für Leser rational nicht nachvollziehbar wirken."
+@@ -26,3 +28,12 @@
+-    "soek": {
+-      "rating": ".....",
+-      "comments": ""
++    "Charaktere": {
++      "Einschaetzung": "Eddie im Mittelpunkt, voller Emotion.",
++      "Kritik": "Andere Figuren treten kaum hervor; Eddies Begeisterung wirkt stellenweise übersteigert."
++    },
++    "Sprache": {
++      "Einschaetzung": "Bildhaft, emotional.",
++      "Kritik": "Teilweise überladen, viele Metaphern und Ausrufe. Füllwörter verstärken den pathetischen Eindruck."
++    },
++    "Fazit": {
++      "Staerken": "Transportiert Hoffnung und Erleichterung, wichtiger Wendepunkt für Eddies Gefühlslage.",
++      "Schwaechen": "Übersteigerte Emotionen, Pathos-Gefahr, Nebenfiguren blass.",
++      "Fix": "Freude etwas erden, mehr innere Reflexion statt nur Ausrufungen, Nebenfiguren stärker einbeziehen."
+@@ -30,2 +41,1 @@
+-  },
+-  "todo": "konkrete Etappe bennen"
++  }
+@@ -50,1 +60,1 @@
+-Paderborn wirklich vier Deutsche auf mich warten sollen, die ich noch nie
++Paderborn wirklich vier Deutsche auf mich warten sollen, die ich zuvor noch nie
