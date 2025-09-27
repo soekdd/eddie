@@ -70,8 +70,8 @@ von „Schulbus lieber nicht verpassen“. Innen drin schreie ich.
 Denn wenn ihn keiner benutzt, kennt auch keiner die genauen Zeiten. Kein
 Fahrplan, keine Deckung, nur Zufall. Ich schnappe mir die Faustregel: Der Bus
 kommt ungefähr alle 30 Minuten (also einmal pro Richtung), steht vielleicht fünf
-Minuten. Trefferchance = 1 – (55/60)² ≈ 0,16. Also 16 Prozent Chance, dass ich
-zufällig genau dann auftauche, wenn ein Bus dasteht. Das ist der Bonus auf den
+Minuten. Trefferchance grob genähert 2*(5/60) ≈ 0,17. Bei genauerer Rechnung sogar nur 16 Prozent Chance, dass ich
+zufällig genau dann auftauche, wenn ein Bus dasteht. Und als Bonus auf den
 Reststapel Katastrophen: etwa 80 Prozent Chance, dass der Fahrer meine paar
 D-Mark schluckt. Und noch mal 80 Prozent, dass Mielke nicht am nächsten Halt
 einsteigt, mich packt und „zurück nach Hause“ bellt. Kombiniert bleiben knapp

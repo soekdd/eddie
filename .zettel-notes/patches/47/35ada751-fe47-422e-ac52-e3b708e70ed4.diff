@@ -1,0 +1,7 @@
+--- old
++++ new
+@@ -73,2 +73,2 @@
+-Minuten. Trefferchance = 1 – (55/60)² ≈ 0,16. Also 16 Prozent Chance, dass ich
+-zufällig genau dann auftauche, wenn ein Bus dasteht. Das ist der Bonus auf den
++Minuten. Trefferchance grob genähert 2*(5/60) ≈ 0,17. Bei genauerer Rechnung sogar nur 16 Prozent Chance, dass ich
++zufällig genau dann auftauche, wenn ein Bus dasteht. Und als Bonus auf den
