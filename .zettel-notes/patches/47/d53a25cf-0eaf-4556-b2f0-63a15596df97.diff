@@ -1,5 +1,0 @@
---- old
-+++ new
-@@ -73,1 +73,1 @@
--Minuten. Trefferchance = 1 – (55/60)² ≈ 0,16. Also 16 Prozent Chance, dass ich
-+Minuten. Trefferchance = 2*(5/60) ≈ 0,17. Also 16 Prozent Chance, dass ich
