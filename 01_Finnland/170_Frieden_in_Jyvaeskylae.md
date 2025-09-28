@@ -81,7 +81,7 @@ schwerer als nach einem Marathon. „Eddie … sie sind hier.“
 
 „Das Auto mit dem Diplomatenkennzeichen. Es stand vor dem Laden, als ich ankam.
 Und als ich wieder rausging, war es noch da. Sie haben mich beobachtet. Die
-ganze Zeit.“
+ganze Zeit. Vittu saatana perkele!“
 
 Mir rutscht der Magen weg. Die Stasi. Schon hier, in Jyväskylä. Ich hatte es
 befürchtet, aber hören ist schlimmer als denken.
