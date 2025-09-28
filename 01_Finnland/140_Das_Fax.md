@@ -68,8 +68,8 @@ entwischt ihr.
 „Sehr schlechte Nachrichten.“
 
 Raija ruft ihren Chef, und gemeinsam betrachten sie das noch unfertige Dokument
-im Drucker. „Saatanan paskapäät!, Verdammte Idioten!“, entfährt es ihr, und ihr Chef schlägt mit
-der Faust auf den Tisch neben dem Gerät.
+im Drucker. „Saatanan paskapäät!, Verdammte Idioten!“, entfährt es ihr, und ihr
+Chef schlägt mit der Faust auf den Tisch neben dem Gerät.
 
 „Was steht drin?“, frage ich ängstlich.
 

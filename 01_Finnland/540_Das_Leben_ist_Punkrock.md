@@ -48,9 +48,9 @@
 
 Die Kneipe ist wieder voller Rauch, voller Stimmen, voller Musik. Diesmal stehe
 ich nicht schüchtern am Rand, sondern mitten im Gedränge, schon mit einem
-Grinsen auf den Lippen. Das Flackern des Neonbierglases, die verschwitzt
-riechenden Jacken, die klebrigen Tische – all das fühlt sich inzwischen vertraut
-an, fast wie ein Versprechen.
+Grinsen auf den Lippen. Freunde von Sini grüßen mich. Das Flackern des
+Neonbierglases, die verschwitzt riechenden Jacken, die klebrigen Tische – all
+das fühlt sich inzwischen vertraut an, fast wie ein Versprechen.
 
 Die Band legt los, der Bass hämmert mir direkt in den Bauch, und Sini reißt mich
 auf die Tanzfläche. Ich könnte noch „später vielleicht“ sagen, wie beim ersten

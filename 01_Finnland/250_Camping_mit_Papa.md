@@ -49,38 +49,44 @@ zusammengeklaubt hatte. Feuer machen zum Beispiel. „Edda, Streichhölzer sind
 schön, aber was machst du, wenn du keine mehr hast?“ Er legte mir ein Stück
 Stahl und einen alten Schraubendreher hin, schlug Funken und grinste, als hätte
 er gerade ein Zauberstück vorgeführt. Ich hockte daneben, versuchte es
-nachzumachen und natürlich kam bei mir erstmal gar nichts. Wochenlang. Funken
-ja, aber kein Feuer. Ich fluchte leise, während er gelassen daneben stand und
-nur meinte: „Übung. Alles ist Übung.“ Später, im Schuppen, haben wir mit
-Glaslinsen aus alten Apparaten Papier angekokelt.
+nachzumachen und natürlich kam bei mir erstmal gar nichts. Tagelang. Funken ja,
+aber kein Feuer. Ich fluchte leise, während er gelassen daneben stand und nur
+meinte: „Übung. Alles ist Übung.“ Später, im Schuppen, haben wir mit Glaslinsen
+aus alten Apparaten Papier angekokelt.
 
-Pilze bestimmen war seine zweite große Lektion. Ich wollte immer gleich alle
-sammeln – da gab’s doch so viele schöne bunte. Aber er wurde streng: „Giftpilze
-sind meistens die schönsten. Wir nehmen nur, was wir hundertprozentig kennen.“
-Ich weiß noch, wie er mir die Steinpilze gezeigt hat, wie stolz ich war, die
-ersten allein zu finden, und wie er mich beim Fliegenpilz ganz böse ansah, als
-hätte ich ihm einen geladenen Revolver in die Hand gedrückt. „Das Ding fasst du
-nicht an.“ Heute, hier im finnischen Wald, höre ich seine Stimme immer noch.
+Mein Vater zeigte mir früh, wie man Pilze auseinanderhält. Röhrenpilze könne man
+meist essen, Blätterpilze seien mit Vorsicht zu genießen. Doch dann hielt er mir
+den Hexenröhrling und den Satansröhrling nebeneinander hin – fast gleich, und
+doch ein Unterschied zwischen einem schmackhaften Mahl und einer tödlichen
+Gefahr. Ich war stolz, die Details zu erkennen, und manchmal zu ungeduldig, wenn
+ich mir sicher war. Aber er blieb streng: „Edda, im Zweifel lässt du ihn stehen.
+Der Wald ist voll, für dich allein reicht es immer. Wer gierig oder unvorsichtig
+wird, trägt die Konsequenzen.“
 
 Unterstände bauen – oh Gott. Das war eine Mischung aus Ingenieurkurs und
 Kinderzeltlager. Vater erklärte mir ganz nüchtern, wie man Äste schichtet, wie
 man sie anlehnt, welche Seite man zum Wind dreht, wie man den Boden mit Laub
-isoliert. Ich hatte mehr Spaß am Türmchenbauen, aber er ließ nicht locker. Am
-Ende entstand etwas, das aussah wie eine Mischung aus Biberburg und
-Indianerzelt.
+isoliert. Für mich fühlte es sich an, wie früher als Kinder beim Budebauen, aber
+er ließ nicht locker. Am Ende entstand etwas, das aussah wie eine Mischung aus
+Biberburg und Indianerzelt.
 
 Wasser reinigen war fast schon ein Experiment. Vater schnitt eine alte Flasche
-auf, füllte sie mit Sand, Kohle und Moos und ließ Wasser hindurchlaufen. „So
-ungefähr funktioniert ein Filter. Besser ist es trotzdem, abzukochen.“ Ich
-fand’s toll, so kleine Labore im Wald zu haben.
+auf, füllte sie mit Sand, Kohle und Moos und ließ Wasser hindurchlaufen. „Damit
+filterst du den groben Dreck aus dem Wasser, so dass es klar wird. Besser ist es
+trotzdem, es nachher noch abzukochen.“ Ich fand’s toll, so kleine Labore im Wald
+zu haben.
 
 Einmal gingen wir nachts raus – extra. Vater zeigte mir den Polarstern. „Den
 findest du immer, auch wenn du dich verlaufen hast.“ Ich war damals enttäuscht,
 dass er so unscheinbar aussieht. Ein kleines Licht unter vielen. Aber Vater
 bestand darauf: „Es sind die unscheinbaren Dinge, die dir am Ende den Weg
-weisen.“ Dann legten wir einen Stock auf den Boden, schauten seinen Schatten an
-und rechneten aus, wo Osten ist. Er machte daraus Geometrieaufgaben mit Winkeln
-und Dreiecken, als sei ich seine persönliche Olympiade.
+weisen.“ Tagüber zeigte er mir, wie man mit einer einfachen Armbanduhr und der
+Sonne die Himmelsrichtungen finden kann. Den Stundenzeiger hielt man auf die
+Sonne, und die gedachte Linie zwischen Zeiger und der Zwölf teilte den Winkel.
+Genau in der Mitte lag Süden, und das Gegenteil war Norden. Im Sommer, so mahnte
+er, müsse man die Sommerzeit im Kopf mitrechnen. Plötzlich war Orientierung kein
+Geheimnis mehr, sondern eine kleine Rechenaufgabe, die ich überall lösen konnte
+– als hätte man den Wald in eine Art stilles Geometrieheft verwandelt.
 
 Besonders stolz war er auf den Kompass-Trick. Eine Nähnadel mit einem Magneten
 reiben, dann auf ein Blatt legen und schwimmen lassen. Und siehe da – die Nadel

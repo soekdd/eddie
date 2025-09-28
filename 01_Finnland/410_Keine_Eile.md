@@ -166,10 +166,10 @@ bis meine Füße aussahen, als gehörten sie jemand anderem. Ich erzähle es kna
 ohne Schmuck, als hätte ich eine alte Rechnung vor mir und wollte sie endlich
 schließen.
 
-Sini sagt eine Weile nichts. Der Wind kämmt ihre blauen Haare, im Hafen klappern
-die Boote in einem eigenen Rhythmus. „Verdammt“, sagt sie leise, „du bist
-gegangen.“ Es klingt nicht wie eine Frage und nicht wie ein Urteil. Mehr wie ein
-Staunen, das in den Händen liegen bleibt.
+Sini sagt eine Weile nichts. Sie schaut ins Off als ob sie eine passende Antwort
+sucht. „Verdammt“, sagt sie leise, „du bist gegangen.“ Es klingt nicht wie eine
+Frage und nicht wie ein Urteil. Mehr wie ein Staunen, das in den Händen liegen
+bleibt.
 
 „Ich bin… gestolpert“, korrigiere ich. „Von Fehler zu Fehler. Eine Kette
 schlechter Entscheidungen.“ Ich will es leicht sagen, schief grinsend, doch es

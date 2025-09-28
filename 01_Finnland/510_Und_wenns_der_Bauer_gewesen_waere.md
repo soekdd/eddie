@@ -109,8 +109,8 @@ Rucksack – der ist noch zu schwer.“
 
 Der Rucksack. Er bleibt im Zimmer stehen, dunkel und stumm. Für mich ist er mehr
 als Gepäck. Er ist das Symbol: Wenn ich es wirklich schaffe, wenn ich damit den
-Weg gehe, dann wird unsere Zeit hier an diesem Tisch vorbei sein. Mir wird
-kalt, obwohl der Kaffee heiß ist. Ich nicke, aber nur, weil ich ihre Augen sehe.
+Weg gehe, dann wird unsere Zeit hier an diesem Tisch vorbei sein. Mir wird kalt,
+obwohl der Kaffee heiß ist. Ich nicke, aber nur, weil ich ihre Augen sehe.
 
 Am Nachmittag mache ich mich auf den Weg. Ohne Rucksack. Jeder Schritt zieht
 noch, aber ich halte durch. Eine Stunde über Pflastersteine, vorbei am kleinen
@@ -150,8 +150,8 @@ Ich kichere. „Das klingt nach einer sehr… wissenschaftlichen Theorie.“
 
 „Ist es auch!“ Sini hebt den Finger, als würde sie eine Vorlesung halten.
 „Männer sind leicht zu manipulieren. Und wenn’s der richtigen Sache dient – also
-dir ein Ticket, mir einen freien Abend oder der Welt ein Stück mehr Gleichheit zu verschaffen –
-dann ist das moralisch völlig in Ordnung.“
+dir ein Ticket, mir einen freien Abend oder der Welt ein Stück mehr Gleichheit
+zu verschaffen – dann ist das moralisch völlig in Ordnung.“
 
 Ich verziehe den Mund. „Hm. Ich weiß nicht. Ist das nicht ein bisschen…
 schummeln?“
@@ -170,8 +170,8 @@ und macht dir auch nicht den Magen voll.“
 Ich ziehe die Schultern hoch, weil ich ahne, was sie meint, aber ich sträube
 mich.
 
-„Jetzt mal ehrlich, Eddie,“ fährt sie fort, „du bist drei Wochen durch Regen
-und Schlamm gekrochen. Vorbei an warmen, trockenen Häusern, wo in jedem zweiten
+„Jetzt mal ehrlich, Eddie,“ fährt sie fort, „du bist drei Wochen durch Regen und
+Schlamm gekrochen. Vorbei an warmen, trockenen Häusern, wo in jedem zweiten
 wahrscheinlich ein einsamer Junggeselle saß. Du bist ein hübsches Mädchen —
 also, bist du wirklich! — hast du nie überlegt, einfach mal an die Türen zu
 klopfen?“

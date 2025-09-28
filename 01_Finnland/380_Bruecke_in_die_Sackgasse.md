@@ -5,7 +5,7 @@
   "title": "Brücke in die Sackgasse",
   "chapter_id": "FIN_Vaskiluoto_Bruecke_Sackgasse",
   "date_from": "1985-07-29",
-  "date_to": "1985-08-03",
+  "date_to": "1985-08-04",
   "tense": "present",
   "pov": "Eddie, first-person",
   "mode": "mainline",
@@ -45,11 +45,26 @@
     "Lichter der Stadt als fernes Flimmern"
   ],
   "overnights": [
-    { "type": "Lean-to/Picknickdach", "name": "Pohjoismäki laavu" },
-    { "type": "Lean-to", "name": "Kempinnevan laavu" },
-    { "type": "Lean-to", "name": "Haarinneva laavu" },
-    { "type": "Schutzhütte", "name": "Kaarluoma" },
-    { "type": "unter Aussichtsturm", "name": "Öjberget (Vaasa)" }
+    {
+      "type": "Lean-to/Picknickdach",
+      "name": "Pohjoismäki laavu"
+    },
+    {
+      "type": "Lean-to",
+      "name": "Kempinnevan laavu"
+    },
+    {
+      "type": "Lean-to",
+      "name": "Haarinneva laavu"
+    },
+    {
+      "type": "Schutzhütte",
+      "name": "Kaarluoma"
+    },
+    {
+      "type": "unter Aussichtsturm",
+      "name": "Öjberget (Vaasa)"
+    }
   ],
   "nearest_cities": [
     "Laihia",

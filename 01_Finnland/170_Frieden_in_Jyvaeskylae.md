@@ -83,8 +83,10 @@ schwerer als nach einem Marathon. „Eddie … sie sind hier.“
 Und als ich wieder rausging, war es noch da. Sie haben mich beobachtet. Die
 ganze Zeit. Vittu saatana perkele!“
 
-Ich zucke zusammen. So habe ich Raija noch nie fluchen hören. Das Wort hängt
-in der Luft wie ein Donnerschlag, und mir ist klar: Es ist ernst. Die Stasi. Schon hier, in Jyväskylä. Ich hatte es befürchtet, aber die Gewissheit ist schlimmer als die Vorstellung.
+Ich zucke zusammen. So habe ich Raija noch nie fluchen hören. Das Wort hängt in
+der Luft wie ein Donnerschlag, und mir ist klar: Es ist ernst. Die Stasi. Schon
+hier, in Jyväskylä. Ich hatte es befürchtet, aber die Gewissheit ist schlimmer
+als die Vorstellung.
 
 Raija wird unruhig, greift sofort nach den Vorhängen. Sie geht von Fenster zu
 Fenster, zieht sie zu, ruckartig, entschlossen. Selbst die Jalousien in der
