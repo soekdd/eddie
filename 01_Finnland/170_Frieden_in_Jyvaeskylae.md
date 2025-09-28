@@ -83,8 +83,8 @@ schwerer als nach einem Marathon. „Eddie … sie sind hier.“
 Und als ich wieder rausging, war es noch da. Sie haben mich beobachtet. Die
 ganze Zeit. Vittu saatana perkele!“
 
-Mir rutscht der Magen weg. Die Stasi. Schon hier, in Jyväskylä. Ich hatte es
-befürchtet, aber hören ist schlimmer als denken.
+Ich zucke zusammen. So habe ich Raija noch nie fluchen hören. Das Wort hängt
+in der Luft wie ein Donnerschlag, und mir ist klar: Es ist ernst. Die Stasi. Schon hier, in Jyväskylä. Ich hatte es befürchtet, aber die Gewissheit ist schlimmer als die Vorstellung.
 
 Raija wird unruhig, greift sofort nach den Vorhängen. Sie geht von Fenster zu
 Fenster, zieht sie zu, ruckartig, entschlossen. Selbst die Jalousien in der
@@ -98,7 +98,7 @@ wissen sie längst, wo ich wohne.“
 Ihre Worte hängen in der Luft wie Frost. Ich ziehe die Knie an die Brust,
 versuche, so klein wie möglich zu werden.
 
-„Du gehst nicht mehr raus. Nicht ans Fenster, nicht in den Flur. Gar nicht.
+„Du gehst nicht mehr raus. Nicht ans Fenster, nicht ins Treppenhaus. Gar nicht.
 Verstanden?“
 
 Ich nicke heftig, der Kloß in meiner Kehle wird dicker. „Und wenn sie
