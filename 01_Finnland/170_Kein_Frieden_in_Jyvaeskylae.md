@@ -10,32 +10,32 @@
     "Eddie",
     "Raija"
   ],
-  "synopsis": "Eddie und Raija verbringen einen friedlichen Tag zusammen, gehen einkaufen, kochen, reden offen über Vergangenes und spazieren zum See.",
+  "synopsis": "Ein vermeintlich ruhiger Tag kippt: Nach einer kurzen, unangenehmen Begegnung mit Jorma (fremdelnder Blick) kehrt Raija vom Einkauf zurück und berichtet von einem Diplomatenwagen, der sie beobachtet. Beide verdunkeln die Wohnung; Eddie bleibt drinnen. Der geplante Zug fällt aus – stattdessen beschließen sie, mindestens eine Woche abzuwarten und später ggf. per Auto nach Helsinki zu fahren. In der Küche kochen sie, waschen ab und sprechen offen über Eddies Flucht und die IMO-Auswahl. Heimweh und Angst bleiben spürbar, doch für eine Nacht findet Eddie auf dem Sofa Ruhe.",
   "mood": "calm, intimate, safe",
   "tense": "present, Eddies first-person perspective",
   "mode": "mainline",
   "proofreading": {
-    "Kapitel": "160_Frieden_in_Jyvaeskylae",
+    "Kapitel": "170_Kein_Frieden_in_Jyvaeskylae",
     "Ton": {
-      "Einschaetzung": "Ruhig, erleichtert, Eddie erlebt eine Atempause und schildert friedliche Eindrücke.",
-      "Kritik": "Ton wirkt stellenweise zu idyllisch und erwachsen. Die jugendliche Direktheit tritt zurück."
+      "Einschaetzung": "Angespannt, beobachtet; Wohnung als Schutzraum mit kurzen Ruheinseln (Kochen, Abwasch).",
+      "Kritik": "Balance zwischen Häuslichkeit und Bedrohung punktuell schärfen, damit die Idylle die Gefahr nicht überdeckt; jugendliche Direktheit in Dialogen weiter betonen."
     },
     "Logik": {
-      "Einschaetzung": "Kontrast zwischen Flucht und Ruhe plausibel, dramaturgisch sinnvoll.",
-      "Kritik": "Idylle wirkt fast zu perfekt, ohne kleine Störungen. Realismus könnte durch kleine Spannungen gestützt werden."
+      "Einschaetzung": "Diplomatenwagen/Beobachtung plausibel; Planänderung (abwarten, später Auto nach Helsinki) folgerichtig.",
+      "Kritik": "Kleine Zeitmarker (Nachmittag, Abend) und minimale Außenreize (Autotür, Schritte im Treppenhaus) könnten die Überwachungsszene verankern."
     },
     "Charaktere": {
-      "Einschaetzung": "Eddie zeigt Erleichterung, kann kurz durchatmen.",
-      "Kritik": "Ihre innere Zerrissenheit und Angst sind in dieser Ruhephase kaum spürbar. Nebenfiguren bleiben Staffage."
+      "Einschaetzung": "Eddie: wachsam, verängstigt, dennoch handlungsfähig; Raija: schützend, entschlossen; Jorma: latent grenzüberschreitend ohne offene Tat.",
+      "Kritik": "Jormas Szene ggf. mit 1–2 körperlichen Details (Distanz, Blickhöhe, Wegdrehen) schärfen; Eddies Körperreaktion (Atmung, Puls, kalter Schweiß) in der Vorhang-Szene kurz intensivieren."
     },
     "Sprache": {
-      "Einschaetzung": "Bildhaft, beschreibend.",
-      "Kritik": "Zu glatt und idyllisch, wenig jugendliche Gedanken oder humorvolle Einwürfe. Manche Sätze klingen wie aus einem Reiseprospekt."
+      "Einschaetzung": "Nah an Sinneseindrücken (Vorhänge, Geräusche in der Küche), klare Bilder.",
+      "Kritik": "Expositionssätze (KSZE, ‚alles Lüge‘) minimal straffen oder natürlicher in Dialogfluss legen; Wiederholungen leicht kürzen."
     },
     "Fazit": {
-      "Staerken": "Schafft Ruhepol, betont Kontrast zur Flucht, atmosphärisch dicht.",
-      "Schwaechen": "Zu idyllisch und erwachsen, Figuren blass, Emotionen schwach.",
-      "Fix": "Mehr jugendliche Kommentare und chaotische Gedanken einbauen, kleine Störungen zeigen (Angstschatten, Unsicherheit), Sprache weniger prosaisch."
+      "Staerken": "Dichte Bedrohungsatmosphäre im Kontrast zu häuslicher Wärme; glaubhafte Planänderung; schönes Heimweh-Motiv beim Abwasch.",
+      "Schwaechen": "Gefahr der zu langen Ruhepassagen; Beobachtungsszene könnte mit Außenweltgeräuschen/Details noch nervöser wirken.",
+      "Fix": "2–3 Mikromarker für Zeit/Ort (‚später Nachmittag‘, Autotür unten), Jorma-Moment fein nachziehen, 1–2 jugendlich-lakonische Einwürfe ergänzen."
     }
   }
 }
