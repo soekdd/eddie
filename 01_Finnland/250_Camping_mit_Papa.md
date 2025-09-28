@@ -1,47 +1,38 @@
-# Camping mit Papa
+---
+flashback_date: '1984-05-04'
+date: '1985-07-09'
+day: 'Tuesday'
+daytime: 'day'
+place: 'Wald nahe Dresden'
+persons:
+  - 'Eddie'
+  - 'Eddies Vater'
+  - 'Eddies Mutter (indirekt erwähnt)'
+synopsis: 'Eddie erinnert sich beim Holzsammeln in Finnland an die geheimen Survival-Übungen, die ihr Vater mit ihr im Dresdner Wald geprobt hat. Feuer, Pilze, Unterstand, Wasser reinigen, Kompass, Verstecke, Nahrung, psychologische Stärke – alles war Vorbereitung für den Ernstfall.'
+mood: 'warm, nachdenklich, praktisch'
+tense: 'past, Eddies first-person perspective'
+mode: 'flashback'
+proofreading:
+  Kapitel: '260_Camping_mit_Papa'
+  Ton:
+    Einschaetzung: 'Warm, sachlich, rückblickend. Eddie schildert Übungen mit Papa ernsthaft und detailliert.'
+    Kritik: 'Ton ist stellenweise zu erwachsen-reflektiert, fast wie ein Lehrbuch. Rotzgörenfarbe fehlt. Es klingt mehr wie eine Anleitung als eine Erinnerung.'
+  Logik:
+    Einschaetzung: 'Übungen (Feuer, Unterstand, Pilze) plausibel. Zusammenhang zur Flucht nachvollziehbar.'
+    Kritik: 'Manche Details wirken zu perfekt erinnert. Könnte glaubwürdiger sein, wenn Eddie sich über Fehler oder Missgeschicke lustig macht.'
+  Charaktere:
+    Einschaetzung: 'Papa wirkt klar gezeichnet: streng aber fürsorglich.'
+    Kritik: 'Eddie selbst bleibt etwas blass; sie erzählt, aber zeigt wenig Emotion (Stolz, Frust, Trotz).'
+  Sprache:
+    Einschaetzung: 'Klar, flüssig, wenig Fehler.'
+    Kritik: 'Zu viele Aufzählungen in sachlichem Ton. Füllwörter moderat, könnten gestrichen werden. Kommafehler bei direkter Rede prüfen.'
+  Fazit:
+    Staerken: 'Glaubwürdiger Hintergrund, erklärt Eddies Fähigkeiten. Kapitel verankert die Überlebensthemen.'
+    Schwaechen: 'Zuviel Lehrbuchton, zu glatte Erinnerung, zu wenig jugendliche Energie.'
+    Fix: 'Rotzgören-Sprache einbauen, Missgeschicke/Emotionen erwähnen, sachliche Listen verdichten.'
+---
 
-```json
-{
-  "flashback_date": "1984-05-04",
-  "date": "1985-07-09",
-  "day": "Tuesday",
-  "daytime": "day",
-  "place": "Wald nahe Dresden",
-  "persons": [
-    "Eddie",
-    "Eddies Vater",
-    "Eddies Mutter (indirekt erwähnt)"
-  ],
-  "synopsis": "Eddie erinnert sich beim Holzsammeln in Finnland an die geheimen Survival-Übungen, die ihr Vater mit ihr im Dresdner Wald geprobt hat. Feuer, Pilze, Unterstand, Wasser reinigen, Kompass, Verstecke, Nahrung, psychologische Stärke – alles war Vorbereitung für den Ernstfall.",
-  "mood": "warm, nachdenklich, praktisch",
-  "tense": "past, Eddies first-person perspective",
-  "mode": "flashback",
-  "proofreading": {
-    "Kapitel": "260_Camping_mit_Papa",
-    "Ton": {
-      "Einschaetzung": "Warm, sachlich, rückblickend. Eddie schildert Übungen mit Papa ernsthaft und detailliert.",
-      "Kritik": "Ton ist stellenweise zu erwachsen-reflektiert, fast wie ein Lehrbuch. Rotzgörenfarbe fehlt. Es klingt mehr wie eine Anleitung als eine Erinnerung."
-    },
-    "Logik": {
-      "Einschaetzung": "Übungen (Feuer, Unterstand, Pilze) plausibel. Zusammenhang zur Flucht nachvollziehbar.",
-      "Kritik": "Manche Details wirken zu perfekt erinnert. Könnte glaubwürdiger sein, wenn Eddie sich über Fehler oder Missgeschicke lustig macht."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Papa wirkt klar gezeichnet: streng aber fürsorglich.",
-      "Kritik": "Eddie selbst bleibt etwas blass; sie erzählt, aber zeigt wenig Emotion (Stolz, Frust, Trotz)."
-    },
-    "Sprache": {
-      "Einschaetzung": "Klar, flüssig, wenig Fehler.",
-      "Kritik": "Zu viele Aufzählungen in sachlichem Ton. Füllwörter moderat, könnten gestrichen werden. Kommafehler bei direkter Rede prüfen."
-    },
-    "Fazit": {
-      "Staerken": "Glaubwürdiger Hintergrund, erklärt Eddies Fähigkeiten. Kapitel verankert die Überlebensthemen.",
-      "Schwaechen": "Zuviel Lehrbuchton, zu glatte Erinnerung, zu wenig jugendliche Energie.",
-      "Fix": "Rotzgören-Sprache einbauen, Missgeschicke/Emotionen erwähnen, sachliche Listen verdichten."
-    }
-  }
-}
-```
+# Camping mit Papa
 
 Beim Holzsammeln denke ich an Vater. Wie er mir heimlich die kleinen Tricks
 beigebracht hat, die er selber irgendwo aufgeschnappt oder aus Büchern

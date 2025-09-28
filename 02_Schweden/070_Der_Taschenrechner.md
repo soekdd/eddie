@@ -1,24 +1,21 @@
-# Der Taschenrechner
+---
+date: '1985-10-16'
+day: 'Wednesday'
+daytime: 'afternoon'
+place: 'Stockholm, Bibliothek'
+persons:
+  - 'Eddie'
+  - 'Uebersetzer'
+  - 'Vidar'
+synopsis: 'Eddie trifft in dr Bibliothek den Übersetzer und korrigiert seine Fehler. Er schenkt ihr zum Dank seinen teurem Taschenrechner.'
+mood: 'trotzig, verletzt, entschlossen-klar'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+todo: 'Die Szene ist zu früh eingeordnet, sie muss hinter das Kennenlernen, aber vor die Duschszene'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1985-10-16",
-  "day": "Wednesday",
-  "daytime": "afternoon",
-  "place": "Stockholm, Bibliothek",
-  "persons": [
-    "Eddie",
-    "Uebersetzer",
-    "Vidar"
-  ],
-  "synopsis": "Eddie trifft in dr Bibliothek den Übersetzer und korrigiert seine Fehler. Er schenkt ihr zum Dank seinen teurem Taschenrechner.",
-  "mood": "trotzig, verletzt, entschlossen-klar",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "todo": "Die Szene ist zu früh eingeordnet, sie muss hinter das Kennenlernen, aber vor die Duschszene",
-  "proofreading": {}
-}
-```
+# Der Taschenrechner
 
 Im Lesesaal ist es zu warm und stickig. Die Heizkörper pfeifen, der Staub der
 alten Bücher kratzt im Hals. Ich sitze zwischen den Regalen der Mathematik, so

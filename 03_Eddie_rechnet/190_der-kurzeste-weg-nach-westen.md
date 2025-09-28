@@ -1,18 +1,15 @@
-# Der kürzeste Weg nach Westen
+---
+chapter: 14
+section: 'Eddie rechnet'
+title: 'Der kürzeste Weg nach Westen'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Graphentheorie/Dijkstra: beste Route durch Finnland.'
+---
 
-```json
-{
-  "chapter": 14,
-  "section": "Eddie rechnet",
-  "title": "Der kürzeste Weg nach Westen",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Graphentheorie/Dijkstra: beste Route durch Finnland."
-}
-```
+# Der kürzeste Weg nach Westen
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.  
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.  

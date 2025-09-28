@@ -1,45 +1,36 @@
-# „Schlumpfine“
+---
+date: '1985-09-16'
+day: 'Monday'
+daytime: 'evening'
+place: 'Eddies und Sinis Lieblingsbank am Hafen'
+persons:
+  - 'Eddie'
+  - 'Sini'
+synopsis: 'Eddie und Sini sitzen am See, sprechen über ihre Namen, vergleichen Sini mit Schlumpfine und Eddie erzählt die Geschichte ihres Namens.'
+mood: 'warm, playful, intimate'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+proofreading:
+  Kapitel: '580_Schlumpfine'
+  Ton:
+    Einschaetzung: 'Locker, spöttisch, Eddie benutzt Humor und Popkultur-Referenzen.'
+    Kritik: 'Ton wirkt manchmal zu albern, fast klamaukig. Gefahr: Ernsthaftigkeit der Situation wird überspielt.'
+  Logik:
+    Einschaetzung: 'Bezug zu Schlumpfine plausibel als jugendlicher Vergleich.'
+    Kritik: 'Vergleich wird sehr ausgedehnt, wirkt konstruiert. Gefahr der Überstrapazierung des Witzes.'
+  Charaktere:
+    Einschaetzung: 'Eddie frech und kreativ, Sini als Gegenpart reagiert nachvollziehbar.'
+    Kritik: 'Eddie wirkt zu selbstsicher, Unsicherheit oder Verlegenheit fehlen. Sini bleibt in der Szene blass.'
+  Sprache:
+    Einschaetzung: 'Witzig, jugendlich, mit Tempo.'
+    Kritik: 'Zu viele Pointen nacheinander, Auslassungspunkte und Füllwörter häufen sich. Gefahr von Redundanz.'
+  Fazit:
+    Staerken: 'Humorvolle Szene, zeigt jugendliche Verspieltheit, lockert die Handlung.'
+    Schwaechen: 'Klamaukig, Witz überstrapaziert, Figuren nicht ganz ausgewogen.'
+    Fix: 'Witz kürzer und pointierter halten, Eddie auch Unsicherheit zeigen, Sini aktiver einbinden.'
+---
 
-```json
-{
-  "date": "1985-09-16",
-  "day": "Monday",
-  "daytime": "evening",
-  "place": "Eddies und Sinis Lieblingsbank am Hafen",
-  "persons": [
-    "Eddie",
-    "Sini"
-  ],
-  "synopsis": "Eddie und Sini sitzen am See, sprechen über ihre Namen, vergleichen Sini mit Schlumpfine und Eddie erzählt die Geschichte ihres Namens.",
-  "mood": "warm, playful, intimate",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "proofreading": {
-    "Kapitel": "580_Schlumpfine",
-    "Ton": {
-      "Einschaetzung": "Locker, spöttisch, Eddie benutzt Humor und Popkultur-Referenzen.",
-      "Kritik": "Ton wirkt manchmal zu albern, fast klamaukig. Gefahr: Ernsthaftigkeit der Situation wird überspielt."
-    },
-    "Logik": {
-      "Einschaetzung": "Bezug zu Schlumpfine plausibel als jugendlicher Vergleich.",
-      "Kritik": "Vergleich wird sehr ausgedehnt, wirkt konstruiert. Gefahr der Überstrapazierung des Witzes."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie frech und kreativ, Sini als Gegenpart reagiert nachvollziehbar.",
-      "Kritik": "Eddie wirkt zu selbstsicher, Unsicherheit oder Verlegenheit fehlen. Sini bleibt in der Szene blass."
-    },
-    "Sprache": {
-      "Einschaetzung": "Witzig, jugendlich, mit Tempo.",
-      "Kritik": "Zu viele Pointen nacheinander, Auslassungspunkte und Füllwörter häufen sich. Gefahr von Redundanz."
-    },
-    "Fazit": {
-      "Staerken": "Humorvolle Szene, zeigt jugendliche Verspieltheit, lockert die Handlung.",
-      "Schwaechen": "Klamaukig, Witz überstrapaziert, Figuren nicht ganz ausgewogen.",
-      "Fix": "Witz kürzer und pointierter halten, Eddie auch Unsicherheit zeigen, Sini aktiver einbinden."
-    }
-  }
-}
-```
+# „Schlumpfine“
 
 Die See glitzert im späten Septemberlicht wie eine riesige Aluminiumplatte. Ab
 und zu kräuselt der Wind kleine Falten hinein, so, als wollte er testen, wie

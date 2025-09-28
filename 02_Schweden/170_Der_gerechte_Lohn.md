@@ -1,56 +1,47 @@
-# Der gereche Lohn
+---
+date: '1985-12-22'
+day: 'Sunday'
+daytime: 'afternoon'
+place: 'Stockholm'
+persons:
+  - 'Eddie'
+  - 'Pro-Bono-Anwalt'
+  - 'Verlag (indirekt)'
+  - 'Hilfsorganisation (indirekt)'
+synopsis: 'Nach Vidars Einladung (07.12.) wendet sich Eddie am 08.12. an einen Pro-Bono-Anwalt, der ihr Honorar gegenüber Verlag/Übersetzer durchsetzt. Das Geld wird halblegal über ein Spendenkonto ausgezahlt. Kurz vor Weihnachten erhält Eddie 800 DM (≈ 2 400 SEK) und kauft davon einen erzgebirgischen Räuchermann (Mittelklasse) als Geschenk für Vidars Eltern.'
+mood: 'entschlossen, erleichtert, warm, festlich'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+continuity:
+  invitation_date: '1985-12-07'
+  lawyer_visit: '1985-12-08'
+  payout_date: '1985-12-22'
+  purchase: '1985-12-22'
+  notes: 'Zwischen Anwaltstermin und Auszahlung vergehen ~2 Wochen (Schriftverkehr + Zahlung über Hilfsorganisation).'
+props:
+  - 'Einladungskarte'
+  - 'Anwaltsschreiben/Briefkopf'
+  - 'Umschlag mit Bargeld/Quittung der Hilfsorganisation'
+  - 'Geschenktüte/Schachtel des Räuchermanns'
+sensory:
+  city: 'winterliches Stockholm, Lichter der Schaufenster'
+  shop: 'Holzgeruch, matte Lacke, leises Klingeln an der Tür'
+  home: 'Vorstellung von Räucherkerzenduft unterm Weihnachtsbaum'
+themes:
+  - 'Würde durch Arbeit'
+  - 'Selbstbestimmung'
+  - 'Zugehörigkeit'
+  - 'Weihnachten'
+todos:
+  - 'Namen/Adresse der Hilfsorganisation als fiktives, glaubwürdiges Detail festlegen'
+  - 'Ladenbeschreibung in Stockholm (Name, Straße) optional konkretisieren'
+  - 'Preisetikett und kurze Händler-Dialogzeile einfügen'
+files:
+  suggested_path: '02_Schweden/230_Echtes_Geschenk.md'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1985-12-22",
-  "day": "Sunday",
-  "daytime": "afternoon",
-  "place": "Stockholm",
-  "persons": [
-    "Eddie",
-    "Pro-Bono-Anwalt",
-    "Verlag (indirekt)",
-    "Hilfsorganisation (indirekt)"
-  ],
-  "synopsis": "Nach Vidars Einladung (07.12.) wendet sich Eddie am 08.12. an einen Pro-Bono-Anwalt, der ihr Honorar gegenüber Verlag/Übersetzer durchsetzt. Das Geld wird halblegal über ein Spendenkonto ausgezahlt. Kurz vor Weihnachten erhält Eddie 800 DM (≈ 2 400 SEK) und kauft davon einen erzgebirgischen Räuchermann (Mittelklasse) als Geschenk für Vidars Eltern.",
-  "mood": "entschlossen, erleichtert, warm, festlich",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "continuity": {
-    "invitation_date": "1985-12-07",
-    "lawyer_visit": "1985-12-08",
-    "payout_date": "1985-12-22",
-    "purchase": "1985-12-22",
-    "notes": "Zwischen Anwaltstermin und Auszahlung vergehen ~2 Wochen (Schriftverkehr + Zahlung über Hilfsorganisation)."
-  },
-  "props": [
-    "Einladungskarte",
-    "Anwaltsschreiben/Briefkopf",
-    "Umschlag mit Bargeld/Quittung der Hilfsorganisation",
-    "Geschenktüte/Schachtel des Räuchermanns"
-  ],
-  "sensory": {
-    "city": "winterliches Stockholm, Lichter der Schaufenster",
-    "shop": "Holzgeruch, matte Lacke, leises Klingeln an der Tür",
-    "home": "Vorstellung von Räucherkerzenduft unterm Weihnachtsbaum"
-  },
-  "themes": [
-    "Würde durch Arbeit",
-    "Selbstbestimmung",
-    "Zugehörigkeit",
-    "Weihnachten"
-  ],
-  "todos": [
-    "Namen/Adresse der Hilfsorganisation als fiktives, glaubwürdiges Detail festlegen",
-    "Ladenbeschreibung in Stockholm (Name, Straße) optional konkretisieren",
-    "Preisetikett und kurze Händler-Dialogzeile einfügen"
-  ],
-  "files": {
-    "suggested_path": "02_Schweden/230_Echtes_Geschenk.md"
-  },
-  "proofreading": {}
-}
-```
+# Der gereche Lohn
 
 Ich sitze lange wach, das Herz pocht schneller als ich will. Immer wieder sehe
 ich Vidars Gesicht vor mir, diese Sanftheit – und zugleich der Stich in meiner

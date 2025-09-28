@@ -1,123 +1,96 @@
-# Sinis DNA
+---
+title: 'Eddies Rätsel für Sini'
+date: '1985-08-12'
+day: 'Monday'
+daytime: 'afternoon'
+place: 'Sinis Wohnung, Vöyrinkatu 25, Vaasa'
+persons:
+  - 'Eddie'
+  - 'Sini (indirekt)'
+synopsis: 'Eddie schont ihre Füße und erkundet Sinis Wohnung. An der Pinnwand entdeckt sie Sinis Studentenausweis aus Helsinki und merkt: In drei Tagen hat Sini Geburtstag. Aus Buntstiften, ihrem wassergezeichneten Matheblock und Sinis Genetikbuch entwirft Eddie ein Bio-Rätsel-Geschenk: zwei Doppelhelix-Zeichnungen, deren Codons die Aminosäure-Anfangsbuchstaben zu den Wörtern PUNK und SAMI formen. Namen lässt sie frei als Linien zum Selbstausfüllen.'
+mood: 'zärtlich, verspielt, kreativ, hoffnungsvoll'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+props:
+  - 'Buntstifte'
+  - 'Eddies Matheblock mit Wasserrändern'
+  - 'Pinnwand mit Sinis Studentenausweis (Helsinki)'
+  - 'Genetikbuch: "Perinnöllisyystiede: Molekyylibiologian perusteet"'
+illustrations:
+  -
+    id: 'DNA-PUNK'
+    style: 'feiner Buntstift auf kariertem, welligem Papier'
+    description: 'Doppelhelix mit blauem Irokesenschnitt entlang des Strangs; 4 Codon-Felder ergeben die Anfangsbuchstaben P-U-N-K; neben jedem Feld leere Zeile zum Eintragen der Aminosäure.'
+  -
+    id: 'DNA-SAMI'
+    style: 'feiner Buntstift'
+    description: 'Zweite Doppelhelix mit bunten Sámi-Bändern; 4 Codon-Felder ergeben S-A-M-I; ebenfalls leere Zeilen zum Eintragen.'
+riddle_spec:
+  word_left: 'PUNK'
+  word_right: 'SAMI'
+  codon_choices:
+    P:
+      - 'CCU'
+      - 'CCC'
+      - 'CCA'
+      - 'CCG'
+    U (Selenocystein):
+      - 'UGA (mit SECIS-Signal; Sonderfall)'
+    N:
+      - 'AAU'
+      - 'AAC'
+    K:
+      - 'AAA'
+      - 'AAG'
+    S:
+      - 'UCU'
+      - 'UCC'
+      - 'UCA'
+      - 'UCG'
+      - 'AGU'
+      - 'AGC'
+    A:
+      - 'GCU'
+      - 'GCC'
+      - 'GCA'
+      - 'GCG'
+    M:
+      - 'AUG'
+    I:
+      - 'AUU'
+      - 'AUC'
+      - 'AUA'
+  note: 'Eddie lässt die Aminosäure-Namen frei (Zeilen). U steht hier spielerisch für Selenocystein; kann von Sini als Bonus gelöst werden.'
+continuity:
+  before:
+    - 'Eddie erholt sich nach der Wanderung; Tage in Sinis Wohnung; Mathe-Miniaufgaben'
+  after:
+    - 'Eddie organisiert einen einfachen Rahmen für das Bild; Vorbereitung von Sinis Geburtstagssurprise'
+todos:
+  - 'Genauen Geburtstagstermin von Sini bestätigen und Datum ggf. anpassen.'
+  - 'Ein günstiger Bilderrahmen aus Second-Hand-Laden oder von Sinis Abstellkammer besorgen.'
+  - 'Optional kleine Szene: Eddie versteckt das Bild und hinterlässt ein Mini-Rätselhinweis.'
+proofreading:
+  Kapitel: '460_Sinis_DNA'
+  Ton:
+    Einschaetzung: 'Neugierig, etwas naiv, Eddie stellt Fragen und stolpert in Fettnäpfchen.'
+    Kritik: 'Ton kippt stellenweise ins Erklärende, weniger jugendlich-spontan. Manche Sätze wirken wie ein Lehrbuch-Einschub.'
+  Logik:
+    Einschaetzung: 'Gespräch plausibel, passt zur Situation und zu Eddie/Sinis Dynamik.'
+    Kritik: 'Manche Infos wirken wie zu glatt eingespeist, Exposition schimmert durch. Gefahr: unnatürlicher Dialog.'
+  Charaktere:
+    Einschaetzung: 'Eddie wirkt unsicher, Sini souveräner, mit Humor.'
+    Kritik: 'Eddies Unsicherheit könnte stärker körperlich oder emotional spürbar sein. Sini klingt manchmal zu dozierend.'
+  Sprache:
+    Einschaetzung: 'Dialogorientiert, grundsätzlich lebendig.'
+    Kritik: 'Teilweise überfrachtet mit Erklärungen. Jugendsprache tritt zurück, Füllwörter fehlen fast – dadurch wirkt es zu glatt.'
+  Fazit:
+    Staerken: 'Wichtige Hintergrundinfos zu Sini, kulturelle Ebene gut eingebaut.'
+    Schwaechen: 'Dialog streckenweise unnatürlich, Eddie zu lehrbuchhaft, Sini zu dozierend.'
+    Fix: 'Exposition stärker in lockeren Schlagabtausch kleiden, Eddies Unsicherheit deutlicher zeigen, Dialog straffen.'
+---
 
-```json
-{
-  "title": "Eddies Rätsel für Sini",
-  "date": "1985-08-12",
-  "day": "Monday",
-  "daytime": "afternoon",
-  "place": "Sinis Wohnung, Vöyrinkatu 25, Vaasa",
-  "persons": [
-    "Eddie",
-    "Sini (indirekt)"
-  ],
-  "synopsis": "Eddie schont ihre Füße und erkundet Sinis Wohnung. An der Pinnwand entdeckt sie Sinis Studentenausweis aus Helsinki und merkt: In drei Tagen hat Sini Geburtstag. Aus Buntstiften, ihrem wassergezeichneten Matheblock und Sinis Genetikbuch entwirft Eddie ein Bio-Rätsel-Geschenk: zwei Doppelhelix-Zeichnungen, deren Codons die Aminosäure-Anfangsbuchstaben zu den Wörtern PUNK und SAMI formen. Namen lässt sie frei als Linien zum Selbstausfüllen.",
-  "mood": "zärtlich, verspielt, kreativ, hoffnungsvoll",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "props": [
-    "Buntstifte",
-    "Eddies Matheblock mit Wasserrändern",
-    "Pinnwand mit Sinis Studentenausweis (Helsinki)",
-    "Genetikbuch: \"Perinnöllisyystiede: Molekyylibiologian perusteet\""
-  ],
-  "illustrations": [
-    {
-      "id": "DNA-PUNK",
-      "style": "feiner Buntstift auf kariertem, welligem Papier",
-      "description": "Doppelhelix mit blauem Irokesenschnitt entlang des Strangs; 4 Codon-Felder ergeben die Anfangsbuchstaben P-U-N-K; neben jedem Feld leere Zeile zum Eintragen der Aminosäure."
-    },
-    {
-      "id": "DNA-SAMI",
-      "style": "feiner Buntstift",
-      "description": "Zweite Doppelhelix mit bunten Sámi-Bändern; 4 Codon-Felder ergeben S-A-M-I; ebenfalls leere Zeilen zum Eintragen."
-    }
-  ],
-  "riddle_spec": {
-    "word_left": "PUNK",
-    "word_right": "SAMI",
-    "codon_choices": {
-      "P": [
-        "CCU",
-        "CCC",
-        "CCA",
-        "CCG"
-      ],
-      "U (Selenocystein)": [
-        "UGA (mit SECIS-Signal; Sonderfall)"
-      ],
-      "N": [
-        "AAU",
-        "AAC"
-      ],
-      "K": [
-        "AAA",
-        "AAG"
-      ],
-      "S": [
-        "UCU",
-        "UCC",
-        "UCA",
-        "UCG",
-        "AGU",
-        "AGC"
-      ],
-      "A": [
-        "GCU",
-        "GCC",
-        "GCA",
-        "GCG"
-      ],
-      "M": [
-        "AUG"
-      ],
-      "I": [
-        "AUU",
-        "AUC",
-        "AUA"
-      ]
-    },
-    "note": "Eddie lässt die Aminosäure-Namen frei (Zeilen). U steht hier spielerisch für Selenocystein; kann von Sini als Bonus gelöst werden."
-  },
-  "continuity": {
-    "before": [
-      "Eddie erholt sich nach der Wanderung; Tage in Sinis Wohnung; Mathe-Miniaufgaben"
-    ],
-    "after": [
-      "Eddie organisiert einen einfachen Rahmen für das Bild; Vorbereitung von Sinis Geburtstagssurprise"
-    ]
-  },
-  "todos": [
-    "Genauen Geburtstagstermin von Sini bestätigen und Datum ggf. anpassen.",
-    "Ein günstiger Bilderrahmen aus Second-Hand-Laden oder von Sinis Abstellkammer besorgen.",
-    "Optional kleine Szene: Eddie versteckt das Bild und hinterlässt ein Mini-Rätselhinweis."
-  ],
-  "proofreading": {
-    "Kapitel": "460_Sinis_DNA",
-    "Ton": {
-      "Einschaetzung": "Neugierig, etwas naiv, Eddie stellt Fragen und stolpert in Fettnäpfchen.",
-      "Kritik": "Ton kippt stellenweise ins Erklärende, weniger jugendlich-spontan. Manche Sätze wirken wie ein Lehrbuch-Einschub."
-    },
-    "Logik": {
-      "Einschaetzung": "Gespräch plausibel, passt zur Situation und zu Eddie/Sinis Dynamik.",
-      "Kritik": "Manche Infos wirken wie zu glatt eingespeist, Exposition schimmert durch. Gefahr: unnatürlicher Dialog."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie wirkt unsicher, Sini souveräner, mit Humor.",
-      "Kritik": "Eddies Unsicherheit könnte stärker körperlich oder emotional spürbar sein. Sini klingt manchmal zu dozierend."
-    },
-    "Sprache": {
-      "Einschaetzung": "Dialogorientiert, grundsätzlich lebendig.",
-      "Kritik": "Teilweise überfrachtet mit Erklärungen. Jugendsprache tritt zurück, Füllwörter fehlen fast – dadurch wirkt es zu glatt."
-    },
-    "Fazit": {
-      "Staerken": "Wichtige Hintergrundinfos zu Sini, kulturelle Ebene gut eingebaut.",
-      "Schwaechen": "Dialog streckenweise unnatürlich, Eddie zu lehrbuchhaft, Sini zu dozierend.",
-      "Fix": "Exposition stärker in lockeren Schlagabtausch kleiden, Eddies Unsicherheit deutlicher zeigen, Dialog straffen."
-    }
-  }
-}
-```
+# Sinis DNA
 
 Heute bin ich zuerst wach. Ich schleppe mich in die Küche, koche Kaffee, brate
 Rührei, decke den Tisch. Als Sini hereinkommt, bleibt sie stehen und zieht die

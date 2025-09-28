@@ -1,123 +1,98 @@
-# Gute Gründe
+---
+title: 'Gute Gründe'
+chapter_id: 'FIN_Vaasa_Tag3_Gute_Gruende'
+flashback-date: '1982-04-15'
+date: '1985-08-12'
+day: 'Monday'
+daytime: 'evening'
+tense: 'present (frame), past (flashback)'
+pov: 'Eddie, first-person'
+mode: 'mainline'
+themes:
+  - 'Selbstbehauptung gegen Systeme'
+  - 'Freundschaft als Zeugenschaft'
+  - 'Bildung & Gatekeeping'
+  - 'Mut von Verbündeten'
+persons:
+  - 'Eddie'
+  - 'Sini'
+  - 'Eddies Mutter (flashback)'
+  - 'Eddies Vater (flashback)'
+  - 'POS-Direktor (flashback)'
+  - 'Sekretärin der POS (flashback)'
+  - 'Professor der TU Dresden (flashback)'
+  - 'Dekan der Mathematik (flashback)'
+  - 'Direktor der Manos (flashback)'
+  - 'Bezirksschulrat (flashback)'
+locations:
+  pizzeria:
+    name: 'Pizzeria im Zentrum Vaasa'
+    note: 'Sini und Eddie essen zusammen; Gesprächsrahmen für das Geständnis'
+  flashback_pos:
+    name: 'POS Dresden-Prohlis'
+    note: 'Direktor versucht Eddies Aufnahme zu sabotieren'
+  flashback_manos:
+    name: 'Manos / TU Dresden'
+    note: 'Unterstützer:innen sichern die Zulassung'
+synopsis: 'Während Pizza und Gespräch erklärt Eddie, wie ihre Aufnahme an die Manos 1982 fast an einem ideologischen Direktor scheiterte und nur dank einer mutigen Sekretärin, ihren Eltern und mathematischen Fürsprechern möglich wurde. Sini erkennt, wie viel Widerstand Eddie gewohnt ist – und warum sie sich heute schwertut, Hilfe anzunehmen.'
+flashback_summary: '1982 schmiedet Eddies POS-Direktor einen Brief an den Bezirksschulrat, um ihre Spezialschul-Zulassung zu stoppen. Eine Sekretärin warnt die Familie, der Vater organisiert ein Krisentreffen mit Professoren, Dekan und Manos-Direktor. Der Direktor muss den Einspruch zurückziehen – Eddie darf gehen, lernt aber, dass man Verbündete braucht.'
+mood: 'nostalgic, defiant, intimate'
+parts:
+  -
+    part_id: 'A'
+    title: 'Pizza & Vertrauen'
+    summary: 'Nach dem Hafen-Tag sitzen Eddie und Sini in der Pizzeria; Sini fordert einen echten Grund, Eddie antwortet mit ihrer Manos-Geschichte.'
+    beats:
+      - 'Eddie zögert, Sini bohrt nach'
+      - 'Die Pizza-Szene verankert Wärme und Sicherheit'
+      - 'Eddies Auftakt: warum sie ‚gute Gründe‘ braucht'
+  -
+    part_id: 'B'
+    title: 'Die Manos-Beinahe-Absage'
+    summary: 'Eddie schildert die Intrige des POS-Direktors, die Warnung der Sekretärin und den elterlichen Rettungsplan.'
+    beats:
+      - 'Direktor diktiert den sabotierenden Brief'
+      - 'Sekretärin informiert Eddies Mutter heimlich'
+      - 'Vater trommelt Professoren und Dekan zusammen'
+  -
+    part_id: 'C'
+    title: 'Sieg & Konsequenz'
+    summary: 'Das Krisengespräch erzwingt den Rückzug des Einspruchs; Eddie versteht, dass sie sich auf Verbündete stützen muss – und Sini bekräftigt dieses Prinzip für die Gegenwart.'
+    beats:
+      - 'Direktor knickt ein, Aufnahme bleibt bestehen'
+      - 'Eddies Mischung aus Stolz und Verwundbarkeit'
+      - 'Sini verspricht: In Vaasa gilt dieselbe Solidarität'
+illustration_prompts:
+  -
+    description: 'Sini und Eddie in der Pizzeria; Eddie gestikuliert, Sini hört ernst und liebevoll zu.'
+    style: 'warmer Comicstil, 1980er Retrofarben'
+  -
+    description: 'Flashback: POS-Direktor diktiert einen Brief, während die Sekretärin alarmiert schaut.'
+    style: 'düster, kontrastreich'
+  -
+    description: 'Eddies Eltern und akademische Verbündete sitzen im Besprechungszimmer; Eddie wartet draußen und zählt Bodenfliesen.'
+    style: 'realistisch, angespannte Stimmung'
+proofreading:
+  Kapitel: '470_Gute_Gruende'
+  Ton:
+    Einschaetzung: 'Reflektiert, ernst, Eddie denkt über ihre Entscheidungen nach.'
+    Kritik: 'Ton wirkt stellenweise zu abgeklärt, fast wie nachträgliche Analyse. Für eine 17-Jährige klingt es sehr erwachsen.'
+  Logik:
+    Einschaetzung: 'Gedankengang nachvollziehbar, passt in die Entwicklung.'
+    Kritik: 'Begründungen wirken zu rational und zu glatt, als hätte Eddie alle Antworten parat. Weniger Brüche, Zweifel oder Widersprüche als glaubwürdig wären.'
+  Charaktere:
+    Einschaetzung: 'Eddie steht klar im Fokus, zeigt Nachdenklichkeit.'
+    Kritik: 'Ihre Verletzlichkeit fehlt. Sie wirkt wie eine Erzählerin mit Überblick, nicht wie eine Jugendliche im Moment.'
+  Sprache:
+    Einschaetzung: 'Klar, präzise.'
+    Kritik: 'Zu analytisch, wenig jugendliche Direktheit. Füllwörter fehlen fast komplett, dadurch wirkt es glatt und unspontan.'
+  Fazit:
+    Staerken: 'Zeigt Eddies Reifung, verdeutlicht innere Auseinandersetzung.'
+    Schwaechen: 'Zu rational und erwachsen, Zweifel und Brüche fehlen, Sprache zu glatt.'
+    Fix: 'Mehr Unsicherheiten einbauen, jugendliche Gedankensprünge zulassen, Sprache lebendiger machen.'
+---
 
-```json
-{
-  "title": "Gute Gründe",
-  "chapter_id": "FIN_Vaasa_Tag3_Gute_Gruende",
-  "flashback-date": "1982-04-15",
-  "date": "1985-08-12",
-  "day": "Monday",
-  "daytime": "evening",
-  "tense": "present (frame), past (flashback)",
-  "pov": "Eddie, first-person",
-  "mode": "mainline",
-  "themes": [
-    "Selbstbehauptung gegen Systeme",
-    "Freundschaft als Zeugenschaft",
-    "Bildung & Gatekeeping",
-    "Mut von Verbündeten"
-  ],
-  "persons": [
-    "Eddie",
-    "Sini",
-    "Eddies Mutter (flashback)",
-    "Eddies Vater (flashback)",
-    "POS-Direktor (flashback)",
-    "Sekretärin der POS (flashback)",
-    "Professor der TU Dresden (flashback)",
-    "Dekan der Mathematik (flashback)",
-    "Direktor der Manos (flashback)",
-    "Bezirksschulrat (flashback)"
-  ],
-  "locations": {
-    "pizzeria": {
-      "name": "Pizzeria im Zentrum Vaasa",
-      "note": "Sini und Eddie essen zusammen; Gesprächsrahmen für das Geständnis"
-    },
-    "flashback_pos": {
-      "name": "POS Dresden-Prohlis",
-      "note": "Direktor versucht Eddies Aufnahme zu sabotieren"
-    },
-    "flashback_manos": {
-      "name": "Manos / TU Dresden",
-      "note": "Unterstützer:innen sichern die Zulassung"
-    }
-  },
-  "synopsis": "Während Pizza und Gespräch erklärt Eddie, wie ihre Aufnahme an die Manos 1982 fast an einem ideologischen Direktor scheiterte und nur dank einer mutigen Sekretärin, ihren Eltern und mathematischen Fürsprechern möglich wurde. Sini erkennt, wie viel Widerstand Eddie gewohnt ist – und warum sie sich heute schwertut, Hilfe anzunehmen.",
-  "flashback_summary": "1982 schmiedet Eddies POS-Direktor einen Brief an den Bezirksschulrat, um ihre Spezialschul-Zulassung zu stoppen. Eine Sekretärin warnt die Familie, der Vater organisiert ein Krisentreffen mit Professoren, Dekan und Manos-Direktor. Der Direktor muss den Einspruch zurückziehen – Eddie darf gehen, lernt aber, dass man Verbündete braucht.",
-  "mood": "nostalgic, defiant, intimate",
-  "parts": [
-    {
-      "part_id": "A",
-      "title": "Pizza & Vertrauen",
-      "summary": "Nach dem Hafen-Tag sitzen Eddie und Sini in der Pizzeria; Sini fordert einen echten Grund, Eddie antwortet mit ihrer Manos-Geschichte.",
-      "beats": [
-        "Eddie zögert, Sini bohrt nach",
-        "Die Pizza-Szene verankert Wärme und Sicherheit",
-        "Eddies Auftakt: warum sie ‚gute Gründe‘ braucht"
-      ]
-    },
-    {
-      "part_id": "B",
-      "title": "Die Manos-Beinahe-Absage",
-      "summary": "Eddie schildert die Intrige des POS-Direktors, die Warnung der Sekretärin und den elterlichen Rettungsplan.",
-      "beats": [
-        "Direktor diktiert den sabotierenden Brief",
-        "Sekretärin informiert Eddies Mutter heimlich",
-        "Vater trommelt Professoren und Dekan zusammen"
-      ]
-    },
-    {
-      "part_id": "C",
-      "title": "Sieg & Konsequenz",
-      "summary": "Das Krisengespräch erzwingt den Rückzug des Einspruchs; Eddie versteht, dass sie sich auf Verbündete stützen muss – und Sini bekräftigt dieses Prinzip für die Gegenwart.",
-      "beats": [
-        "Direktor knickt ein, Aufnahme bleibt bestehen",
-        "Eddies Mischung aus Stolz und Verwundbarkeit",
-        "Sini verspricht: In Vaasa gilt dieselbe Solidarität"
-      ]
-    }
-  ],
-  "illustration_prompts": [
-    {
-      "description": "Sini und Eddie in der Pizzeria; Eddie gestikuliert, Sini hört ernst und liebevoll zu.",
-      "style": "warmer Comicstil, 1980er Retrofarben"
-    },
-    {
-      "description": "Flashback: POS-Direktor diktiert einen Brief, während die Sekretärin alarmiert schaut.",
-      "style": "düster, kontrastreich"
-    },
-    {
-      "description": "Eddies Eltern und akademische Verbündete sitzen im Besprechungszimmer; Eddie wartet draußen und zählt Bodenfliesen.",
-      "style": "realistisch, angespannte Stimmung"
-    }
-  ],
-  "proofreading": {
-    "Kapitel": "470_Gute_Gruende",
-    "Ton": {
-      "Einschaetzung": "Reflektiert, ernst, Eddie denkt über ihre Entscheidungen nach.",
-      "Kritik": "Ton wirkt stellenweise zu abgeklärt, fast wie nachträgliche Analyse. Für eine 17-Jährige klingt es sehr erwachsen."
-    },
-    "Logik": {
-      "Einschaetzung": "Gedankengang nachvollziehbar, passt in die Entwicklung.",
-      "Kritik": "Begründungen wirken zu rational und zu glatt, als hätte Eddie alle Antworten parat. Weniger Brüche, Zweifel oder Widersprüche als glaubwürdig wären."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie steht klar im Fokus, zeigt Nachdenklichkeit.",
-      "Kritik": "Ihre Verletzlichkeit fehlt. Sie wirkt wie eine Erzählerin mit Überblick, nicht wie eine Jugendliche im Moment."
-    },
-    "Sprache": {
-      "Einschaetzung": "Klar, präzise.",
-      "Kritik": "Zu analytisch, wenig jugendliche Direktheit. Füllwörter fehlen fast komplett, dadurch wirkt es glatt und unspontan."
-    },
-    "Fazit": {
-      "Staerken": "Zeigt Eddies Reifung, verdeutlicht innere Auseinandersetzung.",
-      "Schwaechen": "Zu rational und erwachsen, Zweifel und Brüche fehlen, Sprache zu glatt.",
-      "Fix": "Mehr Unsicherheiten einbauen, jugendliche Gedankensprünge zulassen, Sprache lebendiger machen."
-    }
-  }
-}
-```
+# Gute Gründe
 
 Sini hört zu wie immer: mit diesem wachen Blick, der mich gleichzeitig sortiert
 und ermutigt. Ich atme tief ein.

@@ -1,49 +1,39 @@
-# Disput mit Jorma
+---
+date: '1985-07-08'
+day: 'Monday'
+daytime: 'morning -> late afternoon'
+place: 'Raijas Wohnung in Jyväskylä'
+persons:
+  - 'Eddie'
+  - 'Jorma'
+  - 'Raija'
+synopsis: 'Eddie streitet mit Jorma über die DDR, Raija kommt heim und spürt die Spannungen; nachts hört Eddie den Streit zwischen beiden.'
+mood: 'tense and uneasy'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'FIN_Jyvaeskylae_Jorma.png'
+proofreading:
+  Kapitel: '220_Disput_mit_Jorma'
+  Ton:
+    Einschaetzung: 'Konfrontativ, angespannt, Eddie schildert den Streit energisch.'
+    Kritik: 'Ton wirkt teils zu reif und kontrolliert. Chaotische, jugendliche Impulsivität fehlt streckenweise.'
+  Logik:
+    Einschaetzung: 'Disput nachvollziehbar, spiegelt Eddies prekäre Situation.'
+    Kritik: 'Ablauf manchmal zu linear, Eskalation wirkt konstruiert. Mehr Zwischentöne oder Missverständnisse würden realistischer wirken.'
+  Charaktere:
+    Einschaetzung: 'Eddie zeigt Rückgrat, Jorma als Gegenspieler deutlich gezeichnet.'
+    Kritik: 'Eddies Verletzlichkeit tritt zurück, sie wirkt zu souverän. Jorma bleibt eher Typ als komplexe Figur.'
+  Sprache:
+    Einschaetzung: 'Direkt, dialogorientiert.'
+    Kritik: 'Manche Dialogzeilen klingen gestellt, zu sauber formuliert. Füllwörter und Unterbrechungen fehlen – dadurch wirkt es geschrieben, nicht gesprochen.'
+  Fazit:
+    Staerken: 'Dynamische Szene, bringt Konflikt und Spannung, Eddie zeigt Stärke.'
+    Schwaechen: 'Zu konstruiert, wenig spontane Emotion, Jorma eindimensional.'
+    Fix: 'Dialog natürlicher machen, mehr Unterbrechungen oder Missverständnisse, Eddies Unsicherheit betonen, Jorma differenzierter darstellen.'
+---
 
-```json
-{
-  "date": "1985-07-08",
-  "day": "Monday",
-  "daytime": "morning -> late afternoon",
-  "place": "Raijas Wohnung in Jyväskylä",
-  "persons": [
-    "Eddie",
-    "Jorma",
-    "Raija"
-  ],
-  "synopsis": "Eddie streitet mit Jorma über die DDR, Raija kommt heim und spürt die Spannungen; nachts hört Eddie den Streit zwischen beiden.",
-  "mood": "tense and uneasy",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "FIN_Jyvaeskylae_Jorma.png"
-  ],
-  "proofreading": {
-    "Kapitel": "220_Disput_mit_Jorma",
-    "Ton": {
-      "Einschaetzung": "Konfrontativ, angespannt, Eddie schildert den Streit energisch.",
-      "Kritik": "Ton wirkt teils zu reif und kontrolliert. Chaotische, jugendliche Impulsivität fehlt streckenweise."
-    },
-    "Logik": {
-      "Einschaetzung": "Disput nachvollziehbar, spiegelt Eddies prekäre Situation.",
-      "Kritik": "Ablauf manchmal zu linear, Eskalation wirkt konstruiert. Mehr Zwischentöne oder Missverständnisse würden realistischer wirken."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie zeigt Rückgrat, Jorma als Gegenspieler deutlich gezeichnet.",
-      "Kritik": "Eddies Verletzlichkeit tritt zurück, sie wirkt zu souverän. Jorma bleibt eher Typ als komplexe Figur."
-    },
-    "Sprache": {
-      "Einschaetzung": "Direkt, dialogorientiert.",
-      "Kritik": "Manche Dialogzeilen klingen gestellt, zu sauber formuliert. Füllwörter und Unterbrechungen fehlen – dadurch wirkt es geschrieben, nicht gesprochen."
-    },
-    "Fazit": {
-      "Staerken": "Dynamische Szene, bringt Konflikt und Spannung, Eddie zeigt Stärke.",
-      "Schwaechen": "Zu konstruiert, wenig spontane Emotion, Jorma eindimensional.",
-      "Fix": "Dialog natürlicher machen, mehr Unterbrechungen oder Missverständnisse, Eddies Unsicherheit betonen, Jorma differenzierter darstellen."
-    }
-  }
-}
-```
+# Disput mit Jorma
 
 Montagmorgen. Ich stolpere verschlafen in die Küche, Raija ist schon längst weg
 zur Arbeit. Stattdessen sitzt da Jorma – und wirkt plötzlich anders. Nicht mehr

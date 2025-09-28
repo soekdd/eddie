@@ -1,18 +1,15 @@
-# Kryptographie light – Geometrie als Geheimcode
+---
+chapter: 12
+section: 'Eddie rechnet'
+title: 'Kryptographie light – Geometrie als Geheimcode'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Karten-Aufgaben als Codes; einfache Prinzipien, clever verpackt.'
+---
 
-```json
-{
-  "chapter": 12,
-  "section": "Eddie rechnet",
-  "title": "Kryptographie light – Geometrie als Geheimcode",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Karten-Aufgaben als Codes; einfache Prinzipien, clever verpackt."
-}
-```
+# Kryptographie light – Geometrie als Geheimcode
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.  
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.  

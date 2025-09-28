@@ -1,18 +1,15 @@
-# IMO 85 – Die erste richtige Kopfnuss
+---
+chapter: 5
+section: 'Eddie rechnet'
+title: 'IMO 85 – Die erste richtige Kopfnuss'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Aufgabe 3: scheitern, neu ansetzen, sauber lösen.'
+---
 
-```json
-{
-  "chapter": 5,
-  "section": "Eddie rechnet",
-  "title": "IMO 85 – Die erste richtige Kopfnuss",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Aufgabe 3: scheitern, neu ansetzen, sauber lösen."
-}
-```
+# IMO 85 – Die erste richtige Kopfnuss
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.  
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.  

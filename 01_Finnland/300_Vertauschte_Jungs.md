@@ -1,48 +1,39 @@
-# Vertauschte Jungs
+---
+date: '1985-07-14'
+day: 'Sunday'
+daytime: 'morning'
+place: 'Haukkajoki, etwa 40 % des Weges nach Vaasa'
+persons:
+  - 'Eddie'
+  - 'Peter'
+  - 'Sabine'
+  - 'Conny'
+  - 'Matti'
+synopsis: 'Regenmorgen in der Hütte; Spaß, Neckereien und vertraute Stimmung geben Eddie erstmals das Gefühl dazuzugehören.'
+mood: 'warm, playful, safe'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+proofreading:
+  Kapitel: '310_Vertauschte_Jungs'
+  Ton:
+    Einschaetzung: 'Humorvoll, Eddie erzählt mit ironischem Unterton, jugendliche Neugier ist spürbar.'
+    Kritik: 'Ton schwankt: mal rotzig und lebendig, mal erklärt Eddie fast zu erwachsen. Der Witz trägt, aber manchmal überreizt.'
+  Logik:
+    Einschaetzung: 'Verwechslungssituation plausibel, erzeugt Komik.'
+    Kritik: 'Manche Reaktionen wirken überinszeniert; Figuren reagieren wie für eine Pointe, weniger wie echte Jugendliche.'
+  Charaktere:
+    Einschaetzung: 'Eddie frech und beobachtend, die Jungs haben unterscheidbare Züge.'
+    Kritik: 'Nebenfiguren bleiben oberflächlich, wirken wie Stichwortgeber für Eddie. Eddie selbst wirkt sehr souverän, Unsicherheit fehlt.'
+  Sprache:
+    Einschaetzung: 'Dialoglastig, locker.'
+    Kritik: 'Gelegentlich zu viele Auslassungspunkte, Füllwörter häufen sich. Satzbau könnte straffer sein.'
+  Fazit:
+    Staerken: 'Witzige, jugendliche Szene, Eddie zeigt Beobachtungsgabe und Humor.'
+    Schwaechen: 'Überinszenierte Reaktionen, Nebenfiguren dünn, Eddie zu abgeklärt.'
+    Fix: 'Dialoge natürlicher machen, Eddie mehr Unsicherheit zeigen, Füllwörter und Ellipsen kürzen.'
+---
 
-```json
-{
-  "date": "1985-07-14",
-  "day": "Sunday",
-  "daytime": "morning",
-  "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
-  "persons": [
-    "Eddie",
-    "Peter",
-    "Sabine",
-    "Conny",
-    "Matti"
-  ],
-  "synopsis": "Regenmorgen in der Hütte; Spaß, Neckereien und vertraute Stimmung geben Eddie erstmals das Gefühl dazuzugehören.",
-  "mood": "warm, playful, safe",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "proofreading": {
-    "Kapitel": "310_Vertauschte_Jungs",
-    "Ton": {
-      "Einschaetzung": "Humorvoll, Eddie erzählt mit ironischem Unterton, jugendliche Neugier ist spürbar.",
-      "Kritik": "Ton schwankt: mal rotzig und lebendig, mal erklärt Eddie fast zu erwachsen. Der Witz trägt, aber manchmal überreizt."
-    },
-    "Logik": {
-      "Einschaetzung": "Verwechslungssituation plausibel, erzeugt Komik.",
-      "Kritik": "Manche Reaktionen wirken überinszeniert; Figuren reagieren wie für eine Pointe, weniger wie echte Jugendliche."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie frech und beobachtend, die Jungs haben unterscheidbare Züge.",
-      "Kritik": "Nebenfiguren bleiben oberflächlich, wirken wie Stichwortgeber für Eddie. Eddie selbst wirkt sehr souverän, Unsicherheit fehlt."
-    },
-    "Sprache": {
-      "Einschaetzung": "Dialoglastig, locker.",
-      "Kritik": "Gelegentlich zu viele Auslassungspunkte, Füllwörter häufen sich. Satzbau könnte straffer sein."
-    },
-    "Fazit": {
-      "Staerken": "Witzige, jugendliche Szene, Eddie zeigt Beobachtungsgabe und Humor.",
-      "Schwaechen": "Überinszenierte Reaktionen, Nebenfiguren dünn, Eddie zu abgeklärt.",
-      "Fix": "Dialoge natürlicher machen, Eddie mehr Unsicherheit zeigen, Füllwörter und Ellipsen kürzen."
-    }
-  }
-}
-```
+# Vertauschte Jungs
 
 Es ist früh am Morgen, der Regen prasselt ununterbrochen auf das Dach der Hütte.
 Ich bleibe noch ein Weilchen eingekuschelt im Schlafsack liegen und sehe zu, wie

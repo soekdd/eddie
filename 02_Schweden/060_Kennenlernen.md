@@ -1,24 +1,21 @@
-# Kennenlernen
+---
+date: '1985-10-15'
+day: 'Tuesday'
+daytime: 'afternoon'
+place: 'Stockholm, Schlafplatz & Waschhaus'
+persons:
+  - 'Eddie'
+  - 'Vidar'
+  - 'Streuner'
+synopsis: 'Erste Tasche mit Nützlichem; Eddie überwindet Scham, bittet Vidar um Hilfe und duscht im Waschhaus.'
+mood: 'zögernd → erleichtert, wiedergewonnene Würde'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+todo: 'dieser und der vorherige Abschnitt passen nicht zusammen'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1985-10-15",
-  "day": "Tuesday",
-  "daytime": "afternoon",
-  "place": "Stockholm, Schlafplatz & Waschhaus",
-  "persons": [
-    "Eddie",
-    "Vidar",
-    "Streuner"
-  ],
-  "synopsis": "Erste Tasche mit Nützlichem; Eddie überwindet Scham, bittet Vidar um Hilfe und duscht im Waschhaus.",
-  "mood": "zögernd → erleichtert, wiedergewonnene Würde",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "todo": "dieser und der vorherige Abschnitt passen nicht zusammen",
-  "proofreading": {}
-}
-```
+# Kennenlernen
 
 Wieder ein Tag später. Ich wache auf, auf meinem Platz unter der Brücke. Neben
 mir -- eine kleine Reisetasche. Mein Herz schlägt schneller. Ich öffne sie,

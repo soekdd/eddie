@@ -1,18 +1,15 @@
-# Spieltheorie – Freiheit oder Mielke?
+---
+chapter: 18
+section: 'Eddie rechnet'
+title: 'Spieltheorie – Freiheit oder Mielke?'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Finale: Entscheidungsbäume, Eintrittswahrscheinlichkeiten, Nutzen.'
+---
 
-```json
-{
-  "chapter": 18,
-  "section": "Eddie rechnet",
-  "title": "Spieltheorie – Freiheit oder Mielke?",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Finale: Entscheidungsbäume, Eintrittswahrscheinlichkeiten, Nutzen."
-}
-```
+# Spieltheorie – Freiheit oder Mielke?
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.  
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.  

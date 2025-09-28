@@ -1,52 +1,42 @@
-# Ankunft in Joutsenlampi
+---
+flashback-date: '1985-07-01'
+date: '1985-07-10'
+day: 'Wednesday'
+daytime: 'evening'
+place: 'Joutsenlampi'
+persons:
+  - 'Eddie'
+  - 'andere Teilnehmer des DDR-Teams'
+synopsis: 'Beim Aufbruch schenken die Freunde Eddie Ausrüstung und sprechen ihr Mut zu, mit einem Ziel im Westen: Paderborn.'
+mood: 'hopeful and heartwarming'
+tense: 'present, Eddies first-person perspective'
+mode: 'flashback'
+illustrations:
+  - 'FIN_Jotsenlampi_Huette.png'
+  - 'FIN_Jotsenlampi_Sauna.png'
+  - 'FIN_Jotsenlampi_Sauna_Wasser.png'
+  - 'FIN_Jotsenlampi_Sauna_zu_dritt.png'
+proofreading:
+  Kapitel: '270_Ankunft_in_Joutsenlampi'
+  Ton:
+    Einschaetzung: 'Beobachtend, neugierig, mit einem Hauch Ehrfurcht. Eddie beschreibt die Ankunft recht nüchtern.'
+    Kritik: 'Ton kippt teilweise ins Reiseführerhafte. Wenig persönliche Färbung, mehr Beschreibung als innere Beteiligung.'
+  Logik:
+    Einschaetzung: 'Ablauf der Ankunft nachvollziehbar, keine groben Logikfehler.'
+    Kritik: 'Die Orientierung Eddies wirkt zu souverän; als Fremde könnte sie stärker stolpern oder zweifeln.'
+  Charaktere:
+    Einschaetzung: 'Nebenfiguren bleiben blass, Fokus liegt klar auf Eddie.'
+    Kritik: 'Eddie zeigt wenig Emotionen; wirkt eher wie eine Beobachterin als wie eine Jugendliche im Ausnahmezustand.'
+  Sprache:
+    Einschaetzung: 'Flüssig, klare Sätze.'
+    Kritik: 'Einige unnötige Füllwörter, stellenweise zu lange Satzketten. Direkte Rede wirkt etwas gestelzt.'
+  Fazit:
+    Staerken: 'Klares Bild der Umgebung, Szenenfolge verständlich.'
+    Schwaechen: 'Zu distanziert erzählt, wenig Emotionen, Eddie wirkt zu reif.'
+    Fix: 'Mehr innere Reaktionen einbauen (Staunen, Unsicherheit, Vergleiche), jugendliche Farbe stärken, Sprache straffen.'
+---
 
-```json
-{
-  "flashback-date": "1985-07-01",
-  "date": "1985-07-10",
-  "day": "Wednesday",
-  "daytime": "evening",
-  "place": "Joutsenlampi",
-  "persons": [
-    "Eddie",
-    "andere Teilnehmer des DDR-Teams"
-  ],
-  "synopsis": "Beim Aufbruch schenken die Freunde Eddie Ausrüstung und sprechen ihr Mut zu, mit einem Ziel im Westen: Paderborn.",
-  "mood": "hopeful and heartwarming",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "flashback",
-  "illustrations": [
-    "FIN_Jotsenlampi_Huette.png",
-    "FIN_Jotsenlampi_Sauna.png",
-    "FIN_Jotsenlampi_Sauna_Wasser.png",
-    "FIN_Jotsenlampi_Sauna_zu_dritt.png"
-  ],
-  "proofreading": {
-    "Kapitel": "270_Ankunft_in_Joutsenlampi",
-    "Ton": {
-      "Einschaetzung": "Beobachtend, neugierig, mit einem Hauch Ehrfurcht. Eddie beschreibt die Ankunft recht nüchtern.",
-      "Kritik": "Ton kippt teilweise ins Reiseführerhafte. Wenig persönliche Färbung, mehr Beschreibung als innere Beteiligung."
-    },
-    "Logik": {
-      "Einschaetzung": "Ablauf der Ankunft nachvollziehbar, keine groben Logikfehler.",
-      "Kritik": "Die Orientierung Eddies wirkt zu souverän; als Fremde könnte sie stärker stolpern oder zweifeln."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Nebenfiguren bleiben blass, Fokus liegt klar auf Eddie.",
-      "Kritik": "Eddie zeigt wenig Emotionen; wirkt eher wie eine Beobachterin als wie eine Jugendliche im Ausnahmezustand."
-    },
-    "Sprache": {
-      "Einschaetzung": "Flüssig, klare Sätze.",
-      "Kritik": "Einige unnötige Füllwörter, stellenweise zu lange Satzketten. Direkte Rede wirkt etwas gestelzt."
-    },
-    "Fazit": {
-      "Staerken": "Klares Bild der Umgebung, Szenenfolge verständlich.",
-      "Schwaechen": "Zu distanziert erzählt, wenig Emotionen, Eddie wirkt zu reif.",
-      "Fix": "Mehr innere Reaktionen einbauen (Staunen, Unsicherheit, Vergleiche), jugendliche Farbe stärken, Sprache straffen."
-    }
-  }
-}
-```
+# Ankunft in Joutsenlampi
 
 Meine nächste Etappe führt mich nur wenige Kilometer durch den Wald. Ich will
 mich erstmal langsam an die großen Etappen heranwagen. Und wieder stehe ich vor

@@ -1,46 +1,37 @@
-# Immer ein See in der Nähe
+---
+date: '1985-08-11'
+day: 'Sunday'
+daytime: 'morning & evening'
+place: 'Vaasa, Sinis Küche'
+persons:
+  - 'Eddie'
+  - 'Sini'
+synopsis: 'Am dritten Morgen ist Eddie rechtzeitig wach, sie frühstückt mit Sini, die ihr den Zettel direkt am Tisch gibt. Tagsüber rechnet sie, versorgt ihre fast verheilten Füße und kocht ein thematisch passendes Abendessen. Am Abend erkennt Eddie, wie sehr Sini ihre Aufgaben mit Humor und Intelligenz auflädt. Ihr Respekt wächst, und zwischen beiden liegt ein unausgesprochenes Band.'
+mood: 'warm, verspielt, leise ehrfürchtig'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+notes: 'Die ausführliche Rechnung liegt ausgelagert in ''Eddie_rechnet_Tag3_Tausend_Seen_Wahrscheinlichkeit.md''.'
+proofreading:
+  Kapitel: '450_Immer_ein_See_in_der_Nähe'
+  Ton:
+    Einschaetzung: 'Ruhig, fast kontemplativ, Eddie beschreibt die Naturbeobachtung mit Staunen.'
+    Kritik: 'Ton wirkt stellenweise zu erwachsen und literarisch. Wenig jugendliche Spontaneität.'
+  Logik:
+    Einschaetzung: 'Beobachtungen über die vielen Seen Finnlands plausibel.'
+    Kritik: 'Wiederholungen machen den Text langatmig. Gefahr, dass die Szene wie Füllmaterial wirkt.'
+  Charaktere:
+    Einschaetzung: 'Eddie tritt als nachdenkliche Beobachterin hervor.'
+    Kritik: 'Ihre Persönlichkeit bleibt blass, jugendliche Eigenheiten fehlen. Keine Dynamik mit Nebenfiguren.'
+  Sprache:
+    Einschaetzung: 'Flüssig, beschreibend.'
+    Kritik: 'Zu viele Wiederholungen, zu glatt. Füllwörter und lange Sätze nehmen Tempo raus.'
+  Fazit:
+    Staerken: 'Stimmungsvolles Naturbild, Ruhepol im Erzählfluss.'
+    Schwaechen: 'Zu literarisch, jugendliche Stimme fehlt, Wiederholungen.'
+    Fix: 'Jugendliche Spontaneität einbauen (z. B. Witz, Vergleiche), Sprache straffen, weniger Wiederholungen.'
+---
 
-```json
-{
-  "date": "1985-08-11",
-  "day": "Sunday",
-  "daytime": "morning & evening",
-  "place": "Vaasa, Sinis Küche",
-  "persons": [
-    "Eddie",
-    "Sini"
-  ],
-  "synopsis": "Am dritten Morgen ist Eddie rechtzeitig wach, sie frühstückt mit Sini, die ihr den Zettel direkt am Tisch gibt. Tagsüber rechnet sie, versorgt ihre fast verheilten Füße und kocht ein thematisch passendes Abendessen. Am Abend erkennt Eddie, wie sehr Sini ihre Aufgaben mit Humor und Intelligenz auflädt. Ihr Respekt wächst, und zwischen beiden liegt ein unausgesprochenes Band.",
-  "mood": "warm, verspielt, leise ehrfürchtig",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "notes": "Die ausführliche Rechnung liegt ausgelagert in 'Eddie_rechnet_Tag3_Tausend_Seen_Wahrscheinlichkeit.md'.",
-  "proofreading": {
-    "Kapitel": "450_Immer_ein_See_in_der_Nähe",
-    "Ton": {
-      "Einschaetzung": "Ruhig, fast kontemplativ, Eddie beschreibt die Naturbeobachtung mit Staunen.",
-      "Kritik": "Ton wirkt stellenweise zu erwachsen und literarisch. Wenig jugendliche Spontaneität."
-    },
-    "Logik": {
-      "Einschaetzung": "Beobachtungen über die vielen Seen Finnlands plausibel.",
-      "Kritik": "Wiederholungen machen den Text langatmig. Gefahr, dass die Szene wie Füllmaterial wirkt."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie tritt als nachdenkliche Beobachterin hervor.",
-      "Kritik": "Ihre Persönlichkeit bleibt blass, jugendliche Eigenheiten fehlen. Keine Dynamik mit Nebenfiguren."
-    },
-    "Sprache": {
-      "Einschaetzung": "Flüssig, beschreibend.",
-      "Kritik": "Zu viele Wiederholungen, zu glatt. Füllwörter und lange Sätze nehmen Tempo raus."
-    },
-    "Fazit": {
-      "Staerken": "Stimmungsvolles Naturbild, Ruhepol im Erzählfluss.",
-      "Schwaechen": "Zu literarisch, jugendliche Stimme fehlt, Wiederholungen.",
-      "Fix": "Jugendliche Spontaneität einbauen (z. B. Witz, Vergleiche), Sprache straffen, weniger Wiederholungen."
-    }
-  }
-}
-```
+# Immer ein See in der Nähe
 
 Heute verschlafe ich nicht. Ich sitze schon in der Küche, als Sini hereinkommt,
 noch feucht im Haar, den Terminalausweis um den Hals. Sie blinzelt überrascht,

@@ -1,50 +1,42 @@
-# Die besten Kanelbullar
+---
+date: '1985-10-25'
+day: 'Friday'
+daytime: 'afternoon'
+place: 'Stockholm, Café am Hafen'
+persons:
+  - 'Eddie'
+  - 'Vidar'
+synopsis: 'Nach einem Tag Arbeit für den Übersetzer lädt Eddie Vidar stolz in ein Café ein. Sie bestellt Kaffee und Zimtschnecken. Beim Bezahlen wird deutlich, dass sie all ihr Geld (40 SEK) ausgegeben hat, das zugleich ihren gesamten Tageslohn ausmacht. Vidar ist schockiert, versucht ihr das Geld zurückzugeben und erklärt, wie schlecht sie bezahlt wird. Eddie ist verletzt, weil er ihr die Freude nimmt, doch sie versöhnen sich. Der Tag endet nachdenklich, aber nicht schwermütig.'
+mood: 'stolz, freudig, dann wütend, nachdenklich, versöhnlich'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+financials:
+  translator_payment_sek: 40
+  cafe_bill_sek: 36
+  tip_sek: 4
+  fair_hourly_rate_sek: 40
+  notes: 'Vidar erklärt Eddie, dass sie eigentlich pro Stunde 40 SEK verdienen müsste.'
+props:
+  - 'Café-Tisch am Fenster'
+  - 'Kaffeekanne'
+  - 'Zimtschnecken (Kanelbullar)'
+  - 'Kassenbon oder Münzen'
+themes:
+  - 'Selbstbestimmung'
+  - 'Ungleichheit'
+  - 'Freude am Geben'
+  - 'Ausbeutung'
+  - 'Freundschaft'
+continuity:
+  translator_exploitation: true
+  vidar_awareness: 'ab diesem Tag kennt Vidar die Details von Eddies Bezahlung'
+  foreshadowing: 'bereitet Eddies späteren Gang zum Anwalt vor'
+files:
+  suggested_path: '02_Schweden/180_Die_beste_Zimtschnecke.md'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1985-10-25",
-  "day": "Friday",
-  "daytime": "afternoon",
-  "place": "Stockholm, Café am Hafen",
-  "persons": [
-    "Eddie",
-    "Vidar"
-  ],
-  "synopsis": "Nach einem Tag Arbeit für den Übersetzer lädt Eddie Vidar stolz in ein Café ein. Sie bestellt Kaffee und Zimtschnecken. Beim Bezahlen wird deutlich, dass sie all ihr Geld (40 SEK) ausgegeben hat, das zugleich ihren gesamten Tageslohn ausmacht. Vidar ist schockiert, versucht ihr das Geld zurückzugeben und erklärt, wie schlecht sie bezahlt wird. Eddie ist verletzt, weil er ihr die Freude nimmt, doch sie versöhnen sich. Der Tag endet nachdenklich, aber nicht schwermütig.",
-  "mood": "stolz, freudig, dann wütend, nachdenklich, versöhnlich",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "financials": {
-    "translator_payment_sek": 40,
-    "cafe_bill_sek": 36,
-    "tip_sek": 4,
-    "fair_hourly_rate_sek": 40,
-    "notes": "Vidar erklärt Eddie, dass sie eigentlich pro Stunde 40 SEK verdienen müsste."
-  },
-  "props": [
-    "Café-Tisch am Fenster",
-    "Kaffeekanne",
-    "Zimtschnecken (Kanelbullar)",
-    "Kassenbon oder Münzen"
-  ],
-  "themes": [
-    "Selbstbestimmung",
-    "Ungleichheit",
-    "Freude am Geben",
-    "Ausbeutung",
-    "Freundschaft"
-  ],
-  "continuity": {
-    "translator_exploitation": true,
-    "vidar_awareness": "ab diesem Tag kennt Vidar die Details von Eddies Bezahlung",
-    "foreshadowing": "bereitet Eddies späteren Gang zum Anwalt vor"
-  },
-  "files": {
-    "suggested_path": "02_Schweden/180_Die_beste_Zimtschnecke.md"
-  },
-  "proofreading": {}
-}
-```
+# Die besten Kanelbullar
 
 Vor der Bibliothek wartet Vidar schon, die Hände tief in den Taschen, das
 Gesicht halb im Kragen versteckt. Als er mich sieht, hebt er kurz den Arm, kein

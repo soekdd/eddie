@@ -1,53 +1,43 @@
-# In der Polizeistation
+---
+date: '1985-07-05'
+day: 'Friday'
+daytime: 'afternoon'
+place: 'Polizeistation von Joutsa'
+persons:
+  - 'Eddie'
+  - 'Maria'
+  - 'Raija'
+  - 'finnischer Polizist (Raijas Chef)'
+  - 'Mielke'
+  - 'Mielkes Männer'
+  - 'Mitarbeiter der BRD-Botschaft'
+synopsis: 'Eddie erzählt ihre Geschichte auf der Wache, Raija kontaktiert die BRD-Botschaft. Wegen Eddies Minderjährigkeit droht Auslieferung an Mielke, doch durch eine Schutzbehauptung kann sie in Polizeigewahrsam bleiben, bis die Botschaft Hilfe schickt.'
+mood: 'emotional ups and downs, tense but hopeful'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'FIN_Joutsa_Haare_waschen.png'
+proofreading:
+  Kapitel: '120_In_der_Polizeistation'
+  Ton:
+    Einschaetzung: 'Beklemmend, angespannt, Eddie schildert die Situation ernst und konzentriert.'
+    Kritik: 'Ton kippt stellenweise ins Protokollarische, zu glatt und reflektiert. Jugendlich-chaotische Gedanken fehlen fast völlig.'
+  Logik:
+    Einschaetzung: 'Darstellung der Polizeistation plausibel, Atmosphäre nachvollziehbar.'
+    Kritik: 'Dialoge wirken zu sachlich und glatt, wie aus einem Bericht. Mehr Brüche, Missverständnisse oder nonverbale Spannung wären realistischer.'
+  Charaktere:
+    Einschaetzung: 'Eddie zeigt Unsicherheit, Beamte wirken bedrohlich.'
+    Kritik: 'Eddies Angst wird zu kontrolliert dargestellt. Ihre körperliche Reaktion (zitternde Hände, Schweiß, unpassende Gedanken) fehlt. Beamte bleiben Stereotype.'
+  Sprache:
+    Einschaetzung: 'Klar, präzise.'
+    Kritik: 'Zu sachlich, zu erwachsen. Wenig jugendliche Sprachelemente oder rotzige Gedanken, die Eddie sonst lebendig machen.'
+  Fazit:
+    Staerken: 'Atmosphäre beklemmend, zeigt Bedrohungssituation, wichtig für Handlung.'
+    Schwaechen: 'Zu glatt, zu protokollarisch, jugendliche Stimme fehlt, Figuren eindimensional.'
+    Fix: 'Mehr innere Gedanken und chaotische Gefühle einbauen, körperliche Reaktionen zeigen, Beamte differenzierter darstellen.'
+---
 
-```json
-{
-  "date": "1985-07-05",
-  "day": "Friday",
-  "daytime": "afternoon",
-  "place": "Polizeistation von Joutsa",
-  "persons": [
-    "Eddie",
-    "Maria",
-    "Raija",
-    "finnischer Polizist (Raijas Chef)",
-    "Mielke",
-    "Mielkes Männer",
-    "Mitarbeiter der BRD-Botschaft"
-  ],
-  "synopsis": "Eddie erzählt ihre Geschichte auf der Wache, Raija kontaktiert die BRD-Botschaft. Wegen Eddies Minderjährigkeit droht Auslieferung an Mielke, doch durch eine Schutzbehauptung kann sie in Polizeigewahrsam bleiben, bis die Botschaft Hilfe schickt.",
-  "mood": "emotional ups and downs, tense but hopeful",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "FIN_Joutsa_Haare_waschen.png"
-  ],
-  "proofreading": {
-    "Kapitel": "120_In_der_Polizeistation",
-    "Ton": {
-      "Einschaetzung": "Beklemmend, angespannt, Eddie schildert die Situation ernst und konzentriert.",
-      "Kritik": "Ton kippt stellenweise ins Protokollarische, zu glatt und reflektiert. Jugendlich-chaotische Gedanken fehlen fast völlig."
-    },
-    "Logik": {
-      "Einschaetzung": "Darstellung der Polizeistation plausibel, Atmosphäre nachvollziehbar.",
-      "Kritik": "Dialoge wirken zu sachlich und glatt, wie aus einem Bericht. Mehr Brüche, Missverständnisse oder nonverbale Spannung wären realistischer."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie zeigt Unsicherheit, Beamte wirken bedrohlich.",
-      "Kritik": "Eddies Angst wird zu kontrolliert dargestellt. Ihre körperliche Reaktion (zitternde Hände, Schweiß, unpassende Gedanken) fehlt. Beamte bleiben Stereotype."
-    },
-    "Sprache": {
-      "Einschaetzung": "Klar, präzise.",
-      "Kritik": "Zu sachlich, zu erwachsen. Wenig jugendliche Sprachelemente oder rotzige Gedanken, die Eddie sonst lebendig machen."
-    },
-    "Fazit": {
-      "Staerken": "Atmosphäre beklemmend, zeigt Bedrohungssituation, wichtig für Handlung.",
-      "Schwaechen": "Zu glatt, zu protokollarisch, jugendliche Stimme fehlt, Figuren eindimensional.",
-      "Fix": "Mehr innere Gedanken und chaotische Gefühle einbauen, körperliche Reaktionen zeigen, Beamte differenzierter darstellen."
-    }
-  }
-}
-```
+# In der Polizeistation
 
 In der Wache angekommen, führt uns Raija in ein kleines Büro. Maria weicht nicht
 von meiner Seite. Raija verschwindet kurz und kommt mit zwei Tassen Kaffee und

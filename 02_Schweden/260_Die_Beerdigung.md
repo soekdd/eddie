@@ -1,25 +1,21 @@
-# Die Beerdigung
+---
+date: '1986-03-15'
+day: 'Saturday'
+daytime: 'Stockholm, Vidars Wohnung'
+place: ''
+persons:
+  - 'Eddie'
+synopsis: 'Am Tag von Palmes Trauerfeier packt Eddie ihre letzten Dinge, verabschiedet sich von Vidar und steigt mit Streuner in die Regierungsmaschine – Abschied von Stockholm, Aufbruch in ein neues Kapitel.'
+mood: ''
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'SWE_Stockholm_Abflug.png'
+  - 'BRD_Flugzeug.png'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1986-03-15",
-  "day": "Saturday",
-  "daytime": "Stockholm, Vidars Wohnung",
-  "place": "",
-  "persons": [
-    "Eddie"
-  ],
-  "synopsis": "Am Tag von Palmes Trauerfeier packt Eddie ihre letzten Dinge, verabschiedet sich von Vidar und steigt mit Streuner in die Regierungsmaschine – Abschied von Stockholm, Aufbruch in ein neues Kapitel.",
-  "mood": "",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "SWE_Stockholm_Abflug.png",
-    "BRD_Flugzeug.png"
-  ],
-  "proofreading": {}
-}
-```
+# Die Beerdigung
 
 Der 15. März kommt wie ein schwarzer Feiertag. Seit Tagen stapeln sich die
 Kerzen, die Blumen, die Gesichter sind ernst und still. Im Fernsehen sehe ich

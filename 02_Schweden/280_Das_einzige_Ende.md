@@ -1,26 +1,22 @@
-# Das einzige Ende
+---
+date: '1986-03-15'
+day: 'Saturday'
+daytime: ''
+place: ''
+persons:
+  - 'Eddie'
+synopsis: 'Parallel in Dresden: Eddies Vater erhält über die Pariser Preisverleihung das geheime Lebenszeichen seiner Tochter; er rennt nach Hause, und die Eltern fallen einander weinend in die Arme – das einzig erträgliche Ende.'
+mood: ''
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'DDR_Dresden_Eddies_Vater_erhaelt_die_geheime_Botschaft.png'
+  - 'DDR_Dresden_Eddies_Vater_rennt_nach_Hause.png'
+  - 'DDR_Dresden_Eltern_feiern.png'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1986-03-15",
-  "day": "Saturday",
-  "daytime": "",
-  "place": "",
-  "persons": [
-    "Eddie"
-  ],
-  "synopsis": "Parallel in Dresden: Eddies Vater erhält über die Pariser Preisverleihung das geheime Lebenszeichen seiner Tochter; er rennt nach Hause, und die Eltern fallen einander weinend in die Arme – das einzig erträgliche Ende.",
-  "mood": "",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "DDR_Dresden_Eddies_Vater_erhaelt_die_geheime_Botschaft.png",
-    "DDR_Dresden_Eddies_Vater_rennt_nach_Hause.png",
-    "DDR_Dresden_Eltern_feiern.png"
-  ],
-  "proofreading": {}
-}
-```
+# Das einzige Ende
 
 Der Andreas-Schubert-Bau am Zelleschen Weg. Ein grauer Kasten, noch nicht alt,
 aber schon mit diesem spröden Betoncharme, der die Flure kälter wirken lässt als

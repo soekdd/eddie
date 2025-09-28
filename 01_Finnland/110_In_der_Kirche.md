@@ -1,52 +1,42 @@
-# In der Kirche
+---
+date: '1985-07-05'
+day: 'Friday'
+daytime: 'afternoon'
+place: 'Kirche von Joutsa'
+persons:
+  - 'Eddie'
+  - 'Maria'
+  - 'Mielke'
+  - 'Mielkes Männer'
+  - 'finnischer Polizist (Raijas Chef)'
+  - 'Raija'
+synopsis: 'Eddie wird in der Kirche entdeckt, doch finnische Polizisten greifen rechtzeitig ein und nehmen alle mit auf die Wache.'
+mood: 'tense, fearful, desperate but slightly relieved'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'FIN_Joutsa_Raija_beschuetzt_Eddie.png'
+proofreading:
+  Kapitel: '110_In_der_Kirche'
+  Ton:
+    Einschaetzung: 'Ernst, ehrfürchtig, Eddie beschreibt die Atmosphäre respektvoll.'
+    Kritik: 'Ton wirkt sehr erwachsen, fast wie eine kunsthistorische Betrachtung. Die jugendliche Stimme geht verloren.'
+  Logik:
+    Einschaetzung: 'Besuch in der Kirche plausibel, passt als Kontrast zur Fluchtgeschichte.'
+    Kritik: 'Eddies Reaktionen sind zu kontrolliert. Zweifel, Langeweile oder kindliche Faszination fehlen.'
+  Charaktere:
+    Einschaetzung: 'Eddie als Beobachterin im Mittelpunkt.'
+    Kritik: 'Ihre Persönlichkeit tritt zurück, sie klingt wie eine Erzählerin von außen. Nebenfiguren bleiben Statisten.'
+  Sprache:
+    Einschaetzung: 'Bildhaft, detailgenau.'
+    Kritik: 'Zu feierlich und glatt, wenig jugendliche Spontaneität. Kaum innere Kommentare oder rotzige Einwürfe.'
+  Fazit:
+    Staerken: 'Stimmungsvolles Setting, Kontrast zu anderen Kapiteln.'
+    Schwaechen: 'Zu erwachsen erzählt, zu feierlich, Emotionen fehlen.'
+    Fix: 'Jugendliche Gedanken und spontane Assoziationen einbauen, kleine Brüche zwischen Ehrfurcht und Ungeduld zeigen.'
+---
 
-```json
-{
-  "date": "1985-07-05",
-  "day": "Friday",
-  "daytime": "afternoon",
-  "place": "Kirche von Joutsa",
-  "persons": [
-    "Eddie",
-    "Maria",
-    "Mielke",
-    "Mielkes Männer",
-    "finnischer Polizist (Raijas Chef)",
-    "Raija"
-  ],
-  "synopsis": "Eddie wird in der Kirche entdeckt, doch finnische Polizisten greifen rechtzeitig ein und nehmen alle mit auf die Wache.",
-  "mood": "tense, fearful, desperate but slightly relieved",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "FIN_Joutsa_Raija_beschuetzt_Eddie.png"
-  ],
-  "proofreading": {
-    "Kapitel": "110_In_der_Kirche",
-    "Ton": {
-      "Einschaetzung": "Ernst, ehrfürchtig, Eddie beschreibt die Atmosphäre respektvoll.",
-      "Kritik": "Ton wirkt sehr erwachsen, fast wie eine kunsthistorische Betrachtung. Die jugendliche Stimme geht verloren."
-    },
-    "Logik": {
-      "Einschaetzung": "Besuch in der Kirche plausibel, passt als Kontrast zur Fluchtgeschichte.",
-      "Kritik": "Eddies Reaktionen sind zu kontrolliert. Zweifel, Langeweile oder kindliche Faszination fehlen."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie als Beobachterin im Mittelpunkt.",
-      "Kritik": "Ihre Persönlichkeit tritt zurück, sie klingt wie eine Erzählerin von außen. Nebenfiguren bleiben Statisten."
-    },
-    "Sprache": {
-      "Einschaetzung": "Bildhaft, detailgenau.",
-      "Kritik": "Zu feierlich und glatt, wenig jugendliche Spontaneität. Kaum innere Kommentare oder rotzige Einwürfe."
-    },
-    "Fazit": {
-      "Staerken": "Stimmungsvolles Setting, Kontrast zu anderen Kapiteln.",
-      "Schwaechen": "Zu erwachsen erzählt, zu feierlich, Emotionen fehlen.",
-      "Fix": "Jugendliche Gedanken und spontane Assoziationen einbauen, kleine Brüche zwischen Ehrfurcht und Ungeduld zeigen."
-    }
-  }
-}
-```
+# In der Kirche
 
 „Sind Sie Russin?“, frage ich erschrocken.
 

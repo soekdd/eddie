@@ -1,48 +1,38 @@
-# Jorma vergisst sich
+---
+date: '1985-07-09'
+day: 'Tuesday'
+daytime: 'morning'
+place: 'Raijas Wohnung in Jyväskylä'
+persons:
+  - 'Eddie'
+  - 'Jorma'
+synopsis: 'Eddie streitet mit Jorma über die DDR, Raija kommt heim und spürt die Spannungen; nachts hört Eddie den Streit zwischen beiden.'
+mood: 'tense and uneasy'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'FIN_Jyvaeskylae_Jorma.png'
+proofreading:
+  Kapitel: '240_Jorma_vergisst_sich'
+  Ton:
+    Einschaetzung: 'Aufgeladen, emotional, Eddie schildert eine Szene, in der Grenzen überschritten werden.'
+    Kritik: 'Ton schwankt zwischen nüchternem Bericht und emotionaler Reaktion. Teilweise wirkt es zu kontrolliert für die Dramatik des Moments.'
+  Logik:
+    Einschaetzung: 'Die Eskalation mit Jorma ist nachvollziehbar und fügt sich in die Handlung.'
+    Kritik: 'Die Dynamik entwickelt sich etwas abrupt, Zwischenschritte oder innere Warnsignale könnten stärker herausgearbeitet werden.'
+  Charaktere:
+    Einschaetzung: 'Eddie als verletzliche Figur klar erkennbar, Jorma als aggressiver Gegenpart.'
+    Kritik: 'Eddies innere Reaktionen (Schock, Wut, Panik) bleiben eher abstrakt. Jorma wirkt klischeehaft eindimensional als Antagonist.'
+  Sprache:
+    Einschaetzung: 'Direkt, spannungsvoll.'
+    Kritik: 'Manche Formulierungen sind zu glatt oder literarisch. Spontane, jugendliche Sprache und körperliche Beschreibungen könnten stärker betont werden.'
+  Fazit:
+    Staerken: 'Intensive Szene, verdeutlicht Bedrohung und Grenzüberschreitung.'
+    Schwaechen: 'Zu kontrolliert erzählt, Emotionen fehlen an Tiefe, Jorma eindimensional.'
+    Fix: 'Eddies körperliche Angstreaktionen und chaotische Gedanken stärker einbauen, Jormas Verhalten nuancierter darstellen, Sprache emotionaler machen.'
+---
 
-```json
-{
-  "date": "1985-07-09",
-  "day": "Tuesday",
-  "daytime": "morning",
-  "place": "Raijas Wohnung in Jyväskylä",
-  "persons": [
-    "Eddie",
-    "Jorma"
-  ],
-  "synopsis": "Eddie streitet mit Jorma über die DDR, Raija kommt heim und spürt die Spannungen; nachts hört Eddie den Streit zwischen beiden.",
-  "mood": "tense and uneasy",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "FIN_Jyvaeskylae_Jorma.png"
-  ],
-  "proofreading": {
-    "Kapitel": "240_Jorma_vergisst_sich",
-    "Ton": {
-      "Einschaetzung": "Aufgeladen, emotional, Eddie schildert eine Szene, in der Grenzen überschritten werden.",
-      "Kritik": "Ton schwankt zwischen nüchternem Bericht und emotionaler Reaktion. Teilweise wirkt es zu kontrolliert für die Dramatik des Moments."
-    },
-    "Logik": {
-      "Einschaetzung": "Die Eskalation mit Jorma ist nachvollziehbar und fügt sich in die Handlung.",
-      "Kritik": "Die Dynamik entwickelt sich etwas abrupt, Zwischenschritte oder innere Warnsignale könnten stärker herausgearbeitet werden."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie als verletzliche Figur klar erkennbar, Jorma als aggressiver Gegenpart.",
-      "Kritik": "Eddies innere Reaktionen (Schock, Wut, Panik) bleiben eher abstrakt. Jorma wirkt klischeehaft eindimensional als Antagonist."
-    },
-    "Sprache": {
-      "Einschaetzung": "Direkt, spannungsvoll.",
-      "Kritik": "Manche Formulierungen sind zu glatt oder literarisch. Spontane, jugendliche Sprache und körperliche Beschreibungen könnten stärker betont werden."
-    },
-    "Fazit": {
-      "Staerken": "Intensive Szene, verdeutlicht Bedrohung und Grenzüberschreitung.",
-      "Schwaechen": "Zu kontrolliert erzählt, Emotionen fehlen an Tiefe, Jorma eindimensional.",
-      "Fix": "Eddies körperliche Angstreaktionen und chaotische Gedanken stärker einbauen, Jormas Verhalten nuancierter darstellen, Sprache emotionaler machen."
-    }
-  }
-}
-```
+# Jorma vergisst sich
 
 Am Morgen wache ich auf, Raija ist schon wieder weg nach Tampere. Die Wohnung
 ist still, bis auf ein Poltern an der Tür. Jorma stolpert herein. Er ist

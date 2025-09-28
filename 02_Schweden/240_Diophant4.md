@@ -1,20 +1,17 @@
-# Diophant#4 Analogie zur DDR
+---
+date: ''
+daytime: ''
+place: ''
+persons:
+  - 'Eddie'
+synopsis: 'Eddie erinnert sich im Dresdner Kartenraum daran, wie sie sich zwischen Atlanten und Lehrplänen als heimliche Diophant-Schülerin fühlte und eine stille Analogie zwischen Alexandria und der DDR zog – Mathematik als Schutzwall gegen die Römer von heute.'
+mood: ''
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+proofreading: {}
+---
 
-```json
-{
-  "date": "",
-  "daytime": "",
-  "place": "",
-  "persons": [
-    "Eddie"
-  ],
-  "synopsis": "Eddie erinnert sich im Dresdner Kartenraum daran, wie sie sich zwischen Atlanten und Lehrplänen als heimliche Diophant-Schülerin fühlte und eine stille Analogie zwischen Alexandria und der DDR zog – Mathematik als Schutzwall gegen die Römer von heute.",
-  "mood": "",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "proofreading": {}
-}
-```
+# Diophant#4 Analogie zur DDR
 
 TODO: Artikel muss noch einsortiert werden.
 

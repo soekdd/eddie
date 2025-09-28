@@ -1,24 +1,21 @@
-# Nach dem Übergriff: Kälte & Klarheit
+---
+date: '1985-10-14'
+day: 'Monday'
+daytime: 'night'
+place: 'Stockholm, Straßen nahe der Kirche'
+persons:
+  - 'Eddie'
+  - 'Streuner'
+  - 'Vidar'
+synopsis: 'Nach dem vereitelten Übergriff beschließt Eddie, ihre Scham abzulegen und aktiv Hilfe zu suchen. Sie beobachtet Vidar.'
+mood: 'taumelnd, verletzt, entschlossen-klar'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+todo: 'hier stimmt die Timeline nicht, unbedingt überarbeiten'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1985-10-14",
-  "day": "Monday",
-  "daytime": "night",
-  "place": "Stockholm, Straßen nahe der Kirche",
-  "persons": [
-    "Eddie",
-    "Streuner",
-    "Vidar"
-  ],
-  "synopsis": "Nach dem vereitelten Übergriff beschließt Eddie, ihre Scham abzulegen und aktiv Hilfe zu suchen. Sie beobachtet Vidar.",
-  "mood": "taumelnd, verletzt, entschlossen-klar",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "todo": "hier stimmt die Timeline nicht, unbedingt überarbeiten",
-  "proofreading": {}
-}
-```
+# Nach dem Übergriff: Kälte & Klarheit
 
 Ich laufe immer noch wie im Traum durch die Straßen. Meine Hände zittern, mein
 Gesicht brennt von der Wunde, mein Herz rast, aber in mir ist eine neue, kalte

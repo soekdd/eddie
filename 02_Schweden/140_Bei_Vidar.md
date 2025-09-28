@@ -1,27 +1,23 @@
-# Bei Vidar
+---
+date: '1985-11-02'
+day: 'Saturday'
+daytime: 'night → morning'
+place: 'Stockholm, Vidars Elternhaus (Zimmer/Küche)'
+persons:
+  - 'Eddie'
+  - 'Vidar'
+  - 'Streuner'
+synopsis: 'Eddies Staunen über Normalität drinnen; Eddie und Vidar schlafen miteinander; zärtliches Morgenritual und erstes gemeinsames Frühstück mit Streuner.'
+mood: 'ehrfürchtig, zärtlich, heimisch werdend'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'SWE_Stockholm_Eddie_kuesst_Vidar.png'
+proofreading: {}
+todo: 'Die haben sicherlich einen Geschirrspüler, geiles Ding, doch kein Abwaschen mehr in Kapitalismus'
+---
 
-```json
-{
-  "date": "1985-11-02",
-  "day": "Saturday",
-  "daytime": "night → morning",
-  "place": "Stockholm, Vidars Elternhaus (Zimmer/Küche)",
-  "persons": [
-    "Eddie",
-    "Vidar",
-    "Streuner"
-  ],
-  "synopsis": "Eddies Staunen über Normalität drinnen; Eddie und Vidar schlafen miteinander; zärtliches Morgenritual und erstes gemeinsames Frühstück mit Streuner.",
-  "mood": "ehrfürchtig, zärtlich, heimisch werdend",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "SWE_Stockholm_Eddie_kuesst_Vidar.png"
-  ],
-  "proofreading": {},
-  "todo": "Die haben sicherlich einen Geschirrspüler, geiles Ding, doch kein Abwaschen mehr in Kapitalismus"
-}
-```
+# Bei Vidar
 
 Es ist spät, die Fenster der Stadt glitzern im Dunkel. Vidar schaut sich immer
 wieder um, so als würde er gleich erwischt. „Meine Eltern sind nicht da,“ sagt

@@ -1,18 +1,15 @@
-# Fibonacci und der Punkfrisur-Effekt
+---
+chapter: 17
+section: 'Eddie rechnet'
+title: 'Fibonacci und der Punkfrisur-Effekt'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Folgen & Muster in Natur/Alltag, locker erzählt.'
+---
 
-```json
-{
-  "chapter": 17,
-  "section": "Eddie rechnet",
-  "title": "Fibonacci und der Punkfrisur-Effekt",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Folgen & Muster in Natur/Alltag, locker erzählt."
-}
-```
+# Fibonacci und der Punkfrisur-Effekt
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.  
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.  

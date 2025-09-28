@@ -1,177 +1,149 @@
-# Raster aus Regen – der Tag, an dem ich mich verliere
+---
+title: 'Raster aus Regen – der Tag, an dem ich mich verliere'
+chapter_id: 'FIN_Seq14-17_Raster_aus_Regen'
+seq_range:
+  - '14'
+  - '17'
+date: '1985-07-24'
+day: 'Wednesday'
+date_from: '1985-07-24'
+date_to: '1985-07-28'
+tense: 'present'
+pov: 'Eddie, first-person'
+mode: 'mainline'
+mood:
+  - 'stur'
+  - 'krank'
+  - 'verloren'
+  - 'zielstrebig'
+  - 'resigniert'
+  - 'trotzig'
+  - 'kindlich verzweifelt'
+themes:
+  - 'Verlaufen und Reorientierung'
+  - 'Mathematik als Rettungsseil'
+  - 'körperlicher Verfall'
+  - 'weinen wie ein Kind'
+  - 'Zähl- und Rasterstrategien'
+  - 'Zwangspause / Erholung'
+persons:
+  - 'Eddie'
+landscapes:
+  - 'Felder'
+  - 'Kieferplantagen'
+  - 'Sumpf/Moor'
+  - 'Wald'
+  - 'See'
+weather_summary: 'hartnäckiger Regen, kurze Aufhellung in Turmhöhe, kühler Wind; nasse Kälte'
+synopsis: 'Eddie verirrt sich im Regenraster der Drainagegräben, navigiert sich mit Pace-Counting und Geometrie zurück auf Kurs und muss in der geschlossenen Särkisen tupa zwei Tage Zwangspause machen, um Fieber und Erschöpfung zu überstehen.'
+health_flags:
+  - 'Fiebergefühl / glühende Stirn'
+  - 'anhaltender Husten'
+  - 'starke Erschöpfung (nächtliche Atempausen)'
+  - 'aufgeweichte, wundgelaufene Füße'
+  - 'Dehydratations-/Unterzuckerungszeichen (Schwäche, Zittern)'
+  - 'Disorientierung / Schlafstörungen'
+  - 'psychische Erschöpfung (weinen, Verzweiflung)'
+sensory_focus:
+  - 'bleigrauer See, tropfender Steg'
+  - 'Rhythmus der Turbinen im Kopf'
+  - 'kariertes Landschafts-Raster (Gräben im rechten Winkel)'
+  - 'nasses Holz, Lkw-Spuren, gequetschter Frosch'
+  - 'Zählgeräusch der Schritte (Pace-Counting)'
+  - 'Geruch von Zuckerwasser/Tee, Asche in der Tasse'
+  - 'das permanente Prasseln des Regens hinter Brettern'
+narrative_signposts:
+  getting_lost: 'Verlaufen zwischen zwei Forstwegen; vermeintlich „richtige“ Wahl führt in Graben'
+  math_as_rescue: 'Pace-Counting, ''aim-off'' Navigation, Schnittmengenberechnung aus Punkten A/B zur Bestimmung von C'
+  psychology: 'Eddie weint kindlich, ist oft ratlos, kann gleichzeitig präzise rechnen — Verstand rettet, Körper bricht ein'
+  forced_rest: 'Särkisen tupa als geschlossene Hütte mit ''Zwangspause'' (2 Nächte)'
+overnights:
+  -
+    seq: '14'
+    date: '1985-07-24'
+    type: 'Picknickdach/Lean-to'
+    name: 'Jyllinkosken laavu'
+    near: 'Ilmajoki (Etelä-Pohjanmaa)'
+  -
+    seq: '15'
+    date: '1985-07-25'
+    type: 'Lean-to'
+    name: 'Santavuoren laavu'
+    near: 'Ilmajoki (Etelä-Pohjanmaa)'
+  -
+    seq: '16'
+    date: '1985-07-26'
+    type: 'Lean-to'
+    name: 'Kurpanvuoren laavu'
+    near: 'Ilmajoki (Etelä-Pohjanmaa)'
+  -
+    seq: '17'
+    date: '1985-07-27'
+    type: 'Wilderness hut (geschlossen)'
+    name: 'Särkisen tupa'
+    near: 'Ilmajoki (Etelä-Pohjanmaa)'
+    stay_nights: 2
+route_segments:
+  -
+    seq: '14'
+    site_name: 'Jyllinkosken laavu'
+    lat: 62.5956640579
+    lon: 22.3942728962
+    province: 'Etelä-Pohjanmaa'
+    landscape: 'Felder'
+  -
+    seq: '15'
+    site_name: 'Santavuoren laavu'
+    lat: 62.65304876209
+    lon: 22.4809398993449
+    province: 'Etelä-Pohjanmaa'
+    landscape: 'Felder'
+  -
+    seq: '16'
+    site_name: 'Kurpanvuoren laavu'
+    lat: 62.7156572031881
+    lon: 22.2258320005611
+    province: 'Etelä-Pohjanmaa'
+    landscape: 'Felder/Wald'
+  -
+    seq: '17'
+    site_name: 'Särkisen tupa'
+    lat: 62.7599425665217
+    lon: 22.1127620170997
+    province: 'Etelä-Pohjanmaa'
+    landscape: 'Felder'
+key_actions:
+  - 'Entscheidung auf Raster-Logik (Gräben als x- und y-Achsen)'
+  - 'Markierungspunkt A via abgestorbenem Kieferstumpf'
+  - 'Peilung auf Straßenrauschen, grobe Winkelbestimmung'
+  - '''aim-off''-Technik zum sicheren Treffen eines Forstwegs'
+  - 'Messung in Paces (geschätzt: 100 Paces ≈ 70 m) und Schnittmengenrechnung'
+nearest_cities:
+  - 'Ilmajoki'
+  - 'Laihia'
+approx_word_count: 560
+updated: '2025-09-20'
+proofreading:
+  Kapitel: '380_Raster_aus_Regen'
+  Ton:
+    Einschaetzung: 'Beobachtend, poetisch, Eddie analysiert Muster im Regen fast mathematisch.'
+    Kritik: 'Ton kippt ins Dozentenhafte, mehr Abhandlung als Erleben. Emotionale Färbung schwach.'
+  Logik:
+    Einschaetzung: 'Beobachtung plausibel, Mathe-Metapher passt zu Eddie.'
+    Kritik: 'Überbetont, wirkt konstruiert. Gefahr: Leser verliert die emotionale Verbindung.'
+  Charaktere:
+    Einschaetzung: 'Eddie klar im Zentrum, als denkende Beobachterin.'
+    Kritik: 'Wirkt zu sehr wie Vortrag; Eddie als Jugendliche tritt zurück hinter der Analytikerin.'
+  Sprache:
+    Einschaetzung: 'Bildhaft, teils technisch.'
+    Kritik: 'Zu viele Fachbegriffe, Satzbau sperrig. Wenig jugendliche Frische.'
+  Fazit:
+    Staerken: 'Originelle Mathe-Metapher, unterstreicht Eddies Genie-Seite.'
+    Schwaechen: 'Zu theoretisch, zu wenig Gefühl, Eddie wirkt zu erwachsen.'
+    Fix: 'Mehr persönliche Reaktion (Staunen, Lachen über eigene Gedanken), weniger Fachvokabular, jugendliche Sprache stärken.'
+---
 
-```json
-{
-  "title": "Raster aus Regen – der Tag, an dem ich mich verliere",
-  "chapter_id": "FIN_Seq14-17_Raster_aus_Regen",
-  "seq_range": [
-    "14",
-    "17"
-  ],
-  "date": "1985-07-24",
-  "day": "Wednesday",
-  "date_from": "1985-07-24",
-  "date_to": "1985-07-28",
-  "tense": "present",
-  "pov": "Eddie, first-person",
-  "mode": "mainline",
-  "mood": [
-    "stur",
-    "krank",
-    "verloren",
-    "zielstrebig",
-    "resigniert",
-    "trotzig",
-    "kindlich verzweifelt"
-  ],
-  "themes": [
-    "Verlaufen und Reorientierung",
-    "Mathematik als Rettungsseil",
-    "körperlicher Verfall",
-    "weinen wie ein Kind",
-    "Zähl- und Rasterstrategien",
-    "Zwangspause / Erholung"
-  ],
-  "persons": [
-    "Eddie"
-  ],
-  "landscapes": [
-    "Felder",
-    "Kieferplantagen",
-    "Sumpf/Moor",
-    "Wald",
-    "See"
-  ],
-  "weather_summary": "hartnäckiger Regen, kurze Aufhellung in Turmhöhe, kühler Wind; nasse Kälte",
-  "synopsis": "Eddie verirrt sich im Regenraster der Drainagegräben, navigiert sich mit Pace-Counting und Geometrie zurück auf Kurs und muss in der geschlossenen Särkisen tupa zwei Tage Zwangspause machen, um Fieber und Erschöpfung zu überstehen.",
-  "health_flags": [
-    "Fiebergefühl / glühende Stirn",
-    "anhaltender Husten",
-    "starke Erschöpfung (nächtliche Atempausen)",
-    "aufgeweichte, wundgelaufene Füße",
-    "Dehydratations-/Unterzuckerungszeichen (Schwäche, Zittern)",
-    "Disorientierung / Schlafstörungen",
-    "psychische Erschöpfung (weinen, Verzweiflung)"
-  ],
-  "sensory_focus": [
-    "bleigrauer See, tropfender Steg",
-    "Rhythmus der Turbinen im Kopf",
-    "kariertes Landschafts-Raster (Gräben im rechten Winkel)",
-    "nasses Holz, Lkw-Spuren, gequetschter Frosch",
-    "Zählgeräusch der Schritte (Pace-Counting)",
-    "Geruch von Zuckerwasser/Tee, Asche in der Tasse",
-    "das permanente Prasseln des Regens hinter Brettern"
-  ],
-  "narrative_signposts": {
-    "getting_lost": "Verlaufen zwischen zwei Forstwegen; vermeintlich „richtige“ Wahl führt in Graben",
-    "math_as_rescue": "Pace-Counting, 'aim-off' Navigation, Schnittmengenberechnung aus Punkten A/B zur Bestimmung von C",
-    "psychology": "Eddie weint kindlich, ist oft ratlos, kann gleichzeitig präzise rechnen — Verstand rettet, Körper bricht ein",
-    "forced_rest": "Särkisen tupa als geschlossene Hütte mit 'Zwangspause' (2 Nächte)"
-  },
-  "overnights": [
-    {
-      "seq": "14",
-      "date": "1985-07-24",
-      "type": "Picknickdach/Lean-to",
-      "name": "Jyllinkosken laavu",
-      "near": "Ilmajoki (Etelä-Pohjanmaa)"
-    },
-    {
-      "seq": "15",
-      "date": "1985-07-25",
-      "type": "Lean-to",
-      "name": "Santavuoren laavu",
-      "near": "Ilmajoki (Etelä-Pohjanmaa)"
-    },
-    {
-      "seq": "16",
-      "date": "1985-07-26",
-      "type": "Lean-to",
-      "name": "Kurpanvuoren laavu",
-      "near": "Ilmajoki (Etelä-Pohjanmaa)"
-    },
-    {
-      "seq": "17",
-      "date": "1985-07-27",
-      "type": "Wilderness hut (geschlossen)",
-      "name": "Särkisen tupa",
-      "near": "Ilmajoki (Etelä-Pohjanmaa)",
-      "stay_nights": 2
-    }
-  ],
-  "route_segments": [
-    {
-      "seq": "14",
-      "site_name": "Jyllinkosken laavu",
-      "lat": 62.5956640579,
-      "lon": 22.3942728962,
-      "province": "Etelä-Pohjanmaa",
-      "landscape": "Felder"
-    },
-    {
-      "seq": "15",
-      "site_name": "Santavuoren laavu",
-      "lat": 62.65304876209,
-      "lon": 22.4809398993449,
-      "province": "Etelä-Pohjanmaa",
-      "landscape": "Felder"
-    },
-    {
-      "seq": "16",
-      "site_name": "Kurpanvuoren laavu",
-      "lat": 62.7156572031881,
-      "lon": 22.2258320005611,
-      "province": "Etelä-Pohjanmaa",
-      "landscape": "Felder/Wald"
-    },
-    {
-      "seq": "17",
-      "site_name": "Särkisen tupa",
-      "lat": 62.7599425665217,
-      "lon": 22.1127620170997,
-      "province": "Etelä-Pohjanmaa",
-      "landscape": "Felder"
-    }
-  ],
-  "key_actions": [
-    "Entscheidung auf Raster-Logik (Gräben als x- und y-Achsen)",
-    "Markierungspunkt A via abgestorbenem Kieferstumpf",
-    "Peilung auf Straßenrauschen, grobe Winkelbestimmung",
-    "'aim-off'-Technik zum sicheren Treffen eines Forstwegs",
-    "Messung in Paces (geschätzt: 100 Paces ≈ 70 m) und Schnittmengenrechnung"
-  ],
-  "nearest_cities": [
-    "Ilmajoki",
-    "Laihia"
-  ],
-  "approx_word_count": 560,
-  "updated": "2025-09-20",
-  "proofreading": {
-    "Kapitel": "380_Raster_aus_Regen",
-    "Ton": {
-      "Einschaetzung": "Beobachtend, poetisch, Eddie analysiert Muster im Regen fast mathematisch.",
-      "Kritik": "Ton kippt ins Dozentenhafte, mehr Abhandlung als Erleben. Emotionale Färbung schwach."
-    },
-    "Logik": {
-      "Einschaetzung": "Beobachtung plausibel, Mathe-Metapher passt zu Eddie.",
-      "Kritik": "Überbetont, wirkt konstruiert. Gefahr: Leser verliert die emotionale Verbindung."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie klar im Zentrum, als denkende Beobachterin.",
-      "Kritik": "Wirkt zu sehr wie Vortrag; Eddie als Jugendliche tritt zurück hinter der Analytikerin."
-    },
-    "Sprache": {
-      "Einschaetzung": "Bildhaft, teils technisch.",
-      "Kritik": "Zu viele Fachbegriffe, Satzbau sperrig. Wenig jugendliche Frische."
-    },
-    "Fazit": {
-      "Staerken": "Originelle Mathe-Metapher, unterstreicht Eddies Genie-Seite.",
-      "Schwaechen": "Zu theoretisch, zu wenig Gefühl, Eddie wirkt zu erwachsen.",
-      "Fix": "Mehr persönliche Reaktion (Staunen, Lachen über eigene Gedanken), weniger Fachvokabular, jugendliche Sprache stärken."
-    }
-  }
-}
-```
+# Raster aus Regen – der Tag, an dem ich mich verliere
 
 Der Regen bei Jyllinkoski ist nicht wild, er ist hartnäckig. Er hört einfach
 nicht auf. Ich stolpere über die alte Holzbrücke, und mitten im Wald steht

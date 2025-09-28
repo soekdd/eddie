@@ -1,24 +1,21 @@
-# Ein Brief für Eddie
+---
+date: '1985-01-20'
+day: 'Sunday'
+daytime: ''
+place: ''
+persons:
+  - 'Eddie'
+  - 'Vidars Mutter'
+  - 'Streuner'
+synopsis: 'Vidars Mutter hat Kontakt mit der westdeutschen Botschaft aufgenommen. Sie haben Briefe für Eddie'
+mood: ''
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+todo: 'Im Brief liegen auch Fotos'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1985-01-20",
-  "day": "Sunday",
-  "daytime": "",
-  "place": "",
-  "persons": [
-    "Eddie",
-    "Vidars Mutter",
-    "Streuner"
-  ],
-  "synopsis": "Vidars Mutter hat Kontakt mit der westdeutschen Botschaft aufgenommen. Sie haben Briefe für Eddie",
-  "mood": "",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "todo": "Im Brief liegen auch Fotos",
-  "proofreading": {}
-}
-```
+# Ein Brief für Eddie
 
 Ich sitze bei Vidar am Küchentisch, die Sonne steht schräg, als hätte sie sich
 verspätet, und die Wachstuchtischdecke klebt ein bisschen am Unterarm. Streuner

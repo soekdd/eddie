@@ -1,47 +1,38 @@
-# Der Fehlversuch
+---
+date: '1985-09-17'
+day: 'Tuesday'
+daytime: 'morning, complete day'
+place: 'Sinis Wohnung, Fährterminal'
+persons:
+  - 'Eddie'
+  - 'Sini'
+  - 'Busfahrer'
+  - 'Zollbeamte'
+synopsis: 'Eddie ergattert ein Busticket zur Fähre, wird jedoch von den Zöllnern wegen ihres Alters aufgehalten. Sini greift ein, rettet sie, doch die Fähre ist bereits weg. Beide stehen ratlos vor neuen Problemen.'
+mood: 'hopeless, tense, bittersweet'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+proofreading:
+  Kapitel: '590_Der_Fehlversuch'
+  Ton:
+    Einschaetzung: 'Ernst, leicht frustriert, Eddie schildert ihr Scheitern.'
+    Kritik: 'Ton ist streckenweise zu nüchtern und erklärend. Emotionale Wucht des Scheiterns kommt nicht stark genug durch.'
+  Logik:
+    Einschaetzung: 'Scheitern als Wendepunkt plausibel und dramaturgisch sinnvoll.'
+    Kritik: 'Der Ablauf wirkt etwas glatt, ohne Überraschungen. Mehr Chaos oder Peinlichkeit würde realistischer wirken.'
+  Charaktere:
+    Einschaetzung: 'Eddie im Fokus, zeigt Ernst und Nachdenklichkeit.'
+    Kritik: 'Ihre Emotionen bleiben eher abstrakt, körperliche Reaktionen (Wut, Tränen, Trotz) fehlen. Nebenfiguren bleiben Randerscheinungen.'
+  Sprache:
+    Einschaetzung: 'Klar, strukturiert.'
+    Kritik: 'Zu sachlich, zu wenige spontane Einwürfe. Wenig jugendliche Direktheit oder Rotzgören-Farbe.'
+  Fazit:
+    Staerken: 'Wichtiger Bruch in der Handlung, zeigt Grenzen von Eddies Können.'
+    Schwaechen: 'Zu nüchtern, Emotionen fehlen, Ablauf zu glatt.'
+    Fix: 'Scheitern emotionaler und chaotischer schildern, körperliche Reaktionen zeigen, Sprache jugendlicher und spontaner machen.'
+---
 
-```json
-{
-  "date": "1985-09-17",
-  "day": "Tuesday",
-  "daytime": "morning, complete day",
-  "place": "Sinis Wohnung, Fährterminal",
-  "persons": [
-    "Eddie",
-    "Sini",
-    "Busfahrer",
-    "Zollbeamte"
-  ],
-  "synopsis": "Eddie ergattert ein Busticket zur Fähre, wird jedoch von den Zöllnern wegen ihres Alters aufgehalten. Sini greift ein, rettet sie, doch die Fähre ist bereits weg. Beide stehen ratlos vor neuen Problemen.",
-  "mood": "hopeless, tense, bittersweet",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "proofreading": {
-    "Kapitel": "590_Der_Fehlversuch",
-    "Ton": {
-      "Einschaetzung": "Ernst, leicht frustriert, Eddie schildert ihr Scheitern.",
-      "Kritik": "Ton ist streckenweise zu nüchtern und erklärend. Emotionale Wucht des Scheiterns kommt nicht stark genug durch."
-    },
-    "Logik": {
-      "Einschaetzung": "Scheitern als Wendepunkt plausibel und dramaturgisch sinnvoll.",
-      "Kritik": "Der Ablauf wirkt etwas glatt, ohne Überraschungen. Mehr Chaos oder Peinlichkeit würde realistischer wirken."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie im Fokus, zeigt Ernst und Nachdenklichkeit.",
-      "Kritik": "Ihre Emotionen bleiben eher abstrakt, körperliche Reaktionen (Wut, Tränen, Trotz) fehlen. Nebenfiguren bleiben Randerscheinungen."
-    },
-    "Sprache": {
-      "Einschaetzung": "Klar, strukturiert.",
-      "Kritik": "Zu sachlich, zu wenige spontane Einwürfe. Wenig jugendliche Direktheit oder Rotzgören-Farbe."
-    },
-    "Fazit": {
-      "Staerken": "Wichtiger Bruch in der Handlung, zeigt Grenzen von Eddies Können.",
-      "Schwaechen": "Zu nüchtern, Emotionen fehlen, Ablauf zu glatt.",
-      "Fix": "Scheitern emotionaler und chaotischer schildern, körperliche Reaktionen zeigen, Sprache jugendlicher und spontaner machen."
-    }
-  }
-}
-```
+# Der Fehlversuch
 
 Der nächste Morgen riecht nach nassem Asphalt und zu viel Kaffee. Ich stehe
 wieder bei den Reisebussen, und diesmal bin ich nicht hier, um zu üben -- heute

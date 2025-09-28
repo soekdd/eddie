@@ -1,54 +1,43 @@
-# Das erste Mal
+---
+date: '1985-08-15'
+day: 'Thursday'
+daytime: 'night'
+place: 'Sinis Wohnung'
+persons:
+  - 'Eddie'
+  - 'Sini'
+synopsis: 'Eddie und Sini teilen intime Geschichten über ihre ersten sexuellen Erfahrungen, lachen, necken sich und bauen tiefes Vertrauen zueinander auf.'
+mood: 'playful, intimate, trusting'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'FIN_Vaasa_Kissenschlacht2.png'
+proofreading:
+  Kapitel: '510_Das_erste_Mal'
+  Ton:
+    Einschaetzung: 'Intim, neugierig, Eddie beschreibt ihre Unsicherheit und Neugier.'
+    Kritik: 'Ton schwankt: teilweise authentisch jugendlich, dann wieder zu reflektiert und erwachsen. Gefahr, dass Szene nicht mehr Eddie klingt.'
+  Logik:
+    Einschaetzung: 'Darstellung grundsätzlich nachvollziehbar.'
+    Kritik: 'Manche Details zu glatt, zu kontrolliert. Für ein ''erstes Mal'' fehlt mehr Unsicherheit, Brüche, peinliche Momente.'
+  Charaktere:
+    Einschaetzung: 'Eddie offenbart sich, Gegenfigur bleibt eher blass.'
+    Kritik: 'Eddie wirkt stellenweise zu souverän. Emotionale Reibung oder Überraschung fehlt, Partner wirkt wie Statist.'
+  Sprache:
+    Einschaetzung: 'Gefühlsbetont, anschaulich.'
+    Kritik: 'Zu glatte Formulierungen, fast literarisch. Wenig jugendliche Direktheit oder Humor. Füllwörter fehlen, dadurch wirkt es stilisiert.'
+  Fazit:
+    Staerken: 'Wichtiger Entwicklungsschritt, Eddie zeigt Verletzlichkeit und Offenheit.'
+    Schwaechen: 'Zu glatt und souverän erzählt, Gegenfigur blass, Unsicherheit fehlt.'
+    Fix: 'Mehr Unsicherheit, Brüche und kleine Peinlichkeiten einbauen, Sprache jugendlicher machen, Partner aktiver zeichnen.'
+  note:
+    context: 'Die Szene ist bewusst so konstruiert, dass Eddie mit 16 ihr erstes Mal nüchtern und selbstbestimmt plant.'
+    intention: 'Nicht Romantisierung eines Machtgefälles, sondern Darstellung ihrer Autonomie und berechnenden Art.'
+    zeitgeist: 'Der offene, lockere Umgang mit Sexualität spiegelt die Jugendkultur Mitte der 1980er wider.'
+    editor_hint: 'Die Altersdifferenz ist bewusst gewählt, um Eddies Unabhängigkeit und bewusste Entscheidung zu unterstreichen.'
+---
 
-```json
-{
-  "date": "1985-08-15",
-  "day": "Thursday",
-  "daytime": "night",
-  "place": "Sinis Wohnung",
-  "persons": [
-    "Eddie",
-    "Sini"
-  ],
-  "synopsis": "Eddie und Sini teilen intime Geschichten über ihre ersten sexuellen Erfahrungen, lachen, necken sich und bauen tiefes Vertrauen zueinander auf.",
-  "mood": "playful, intimate, trusting",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "FIN_Vaasa_Kissenschlacht2.png"
-  ],
-  "proofreading": {
-    "Kapitel": "510_Das_erste_Mal",
-    "Ton": {
-      "Einschaetzung": "Intim, neugierig, Eddie beschreibt ihre Unsicherheit und Neugier.",
-      "Kritik": "Ton schwankt: teilweise authentisch jugendlich, dann wieder zu reflektiert und erwachsen. Gefahr, dass Szene nicht mehr Eddie klingt."
-    },
-    "Logik": {
-      "Einschaetzung": "Darstellung grundsätzlich nachvollziehbar.",
-      "Kritik": "Manche Details zu glatt, zu kontrolliert. Für ein 'erstes Mal' fehlt mehr Unsicherheit, Brüche, peinliche Momente."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie offenbart sich, Gegenfigur bleibt eher blass.",
-      "Kritik": "Eddie wirkt stellenweise zu souverän. Emotionale Reibung oder Überraschung fehlt, Partner wirkt wie Statist."
-    },
-    "Sprache": {
-      "Einschaetzung": "Gefühlsbetont, anschaulich.",
-      "Kritik": "Zu glatte Formulierungen, fast literarisch. Wenig jugendliche Direktheit oder Humor. Füllwörter fehlen, dadurch wirkt es stilisiert."
-    },
-    "Fazit": {
-      "Staerken": "Wichtiger Entwicklungsschritt, Eddie zeigt Verletzlichkeit und Offenheit.",
-      "Schwaechen": "Zu glatt und souverän erzählt, Gegenfigur blass, Unsicherheit fehlt.",
-      "Fix": "Mehr Unsicherheit, Brüche und kleine Peinlichkeiten einbauen, Sprache jugendlicher machen, Partner aktiver zeichnen."
-    },
-    "note": {
-      "context": "Die Szene ist bewusst so konstruiert, dass Eddie mit 16 ihr erstes Mal nüchtern und selbstbestimmt plant.",
-      "intention": "Nicht Romantisierung eines Machtgefälles, sondern Darstellung ihrer Autonomie und berechnenden Art.",
-      "zeitgeist": "Der offene, lockere Umgang mit Sexualität spiegelt die Jugendkultur Mitte der 1980er wider.",
-      "editor_hint": "Die Altersdifferenz ist bewusst gewählt, um Eddies Unabhängigkeit und bewusste Entscheidung zu unterstreichen."
-    }
-  }
-}
-```
+# Das erste Mal
 
 Wir sind zurück vom Kino, noch ganz aufgekratzt. Michael J. Fox spukt uns beiden
 im Kopf herum – klein, süß, witzig. Wir schwärmen, kichern, trinken warmen Tee

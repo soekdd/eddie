@@ -1,20 +1,17 @@
-# Diophant#3 Das Leben als Formel
+---
+date: ''
+daytime: ''
+place: ''
+persons:
+  - 'Eddie'
+synopsis: 'In Stockholms Bibliothek stößt Eddie auf die klassische Diophant-Gleichung, rechnet sie wie einst im DDR-Bus durch und erkennt, wie Mathematik ihr Leben strukturiert – diesmal, um eigene Zukunftsvariablen zu setzen.'
+mood: ''
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+proofreading: {}
+---
 
-```json
-{
-  "date": "",
-  "daytime": "",
-  "place": "",
-  "persons": [
-    "Eddie"
-  ],
-  "synopsis": "In Stockholms Bibliothek stößt Eddie auf die klassische Diophant-Gleichung, rechnet sie wie einst im DDR-Bus durch und erkennt, wie Mathematik ihr Leben strukturiert – diesmal, um eigene Zukunftsvariablen zu setzen.",
-  "mood": "",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "proofreading": {}
-}
-```
+# Diophant#3 Das Leben als Formel
 
 Die Stadtbibliothek roch nach Staub und Heizungsluft. Draußen war Stockholm weiß
 und still, drinnen tat ich so, als wäre ich eine ganz normale Schülerin.

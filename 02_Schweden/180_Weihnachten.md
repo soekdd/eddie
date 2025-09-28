@@ -1,25 +1,21 @@
-# Weihnachten
+---
+date: '1985-12-24'
+day: 'Tuesday'
+daytime: ''
+place: ''
+persons:
+  - 'Eddie'
+synopsis: 'An Heiligabend fühlt sich Eddie arm und draußen, sammelt Fundstücke und bastelt einen Stern sowie eine Zeichnung – kleine Geschenke, mit denen sie Teil von Vidars Familie werden will.'
+mood: ''
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'SWE_Stockholm_Vidar_bittet_Eddie_hinein.png'
+todo: 'Eddie erzwingt vom Übersetzer endlich ihren Lohn für ihre viele Arbeit. Die Tierarztgeschichte kommt sofort, damit Streuner im Waschhaus schlafen darf. Eddie schläft bei ihm, nicht bei Vidar.'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1985-12-24",
-  "day": "Tuesday",
-  "daytime": "",
-  "place": "",
-  "persons": [
-    "Eddie"
-  ],
-  "synopsis": "An Heiligabend fühlt sich Eddie arm und draußen, sammelt Fundstücke und bastelt einen Stern sowie eine Zeichnung – kleine Geschenke, mit denen sie Teil von Vidars Familie werden will.",
-  "mood": "",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "SWE_Stockholm_Vidar_bittet_Eddie_hinein.png"
-  ],
-  "todo": "Eddie erzwingt vom Übersetzer endlich ihren Lohn für ihre viele Arbeit. Die Tierarztgeschichte kommt sofort, damit Streuner im Waschhaus schlafen darf. Eddie schläft bei ihm, nicht bei Vidar.",
-  "proofreading": {}
-}
-```
+# Weihnachten
 
 Ich laufe durch die Straßen von Stockholm, die Hände tief in den Taschen, den
 Umschlag mit der Einladung dicht an meiner Brust. Alles um mich herum funkelt,

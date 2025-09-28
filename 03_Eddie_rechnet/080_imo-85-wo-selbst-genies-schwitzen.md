@@ -1,18 +1,15 @@
-# IMO 85 – Wo selbst Genies schwitzen
+---
+chapter: 7
+section: 'Eddie rechnet'
+title: 'IMO 85 – Wo selbst Genies schwitzen'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Aufgabe 5: schöne Idee, gemeine Details.'
+---
 
-```json
-{
-  "chapter": 7,
-  "section": "Eddie rechnet",
-  "title": "IMO 85 – Wo selbst Genies schwitzen",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Aufgabe 5: schöne Idee, gemeine Details."
-}
-```
+# IMO 85 – Wo selbst Genies schwitzen
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.  
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.  

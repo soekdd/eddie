@@ -1,50 +1,40 @@
-# Der Matheblock
+---
+date: '1985-07-05'
+day: 'Friday'
+daytime: 'morning'
+place: 'Bus von Joutsenlampi nach Joutsa'
+persons:
+  - 'Eddie'
+  - 'Herr Fischer'
+  - 'das DDR Team'
+  - 'viele andere Kinder und Betreuer'
+synopsis: 'Im Bus nach Joutsa schreibt Herr Fischer in Eddies Block, entdeckt dabei ihre versteckten Dokumente, verrät sie aber nicht.'
+mood: 'tense relief'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'FIN_Joutsa_Fluchtblock.png'
+proofreading:
+  Kapitel: '060_Der_Matheblock'
+  Ton:
+    Einschaetzung: 'Sachlich, analytisch, Eddie denkt in mathematischen Strukturen.'
+    Kritik: 'Ton rutscht stark ins Dozierende. Eddie klingt wie eine Lehrerin, nicht wie eine 17-Jährige, die sich Mut macht. Die jugendliche Stimme geht verloren.'
+  Logik:
+    Einschaetzung: 'Gedankengänge nachvollziehbar, Mathe als Halt plausibel.'
+    Kritik: 'Die Ausführungen wirken zu glatt und fehlerfrei. Für Authentizität fehlen kleine Irrtümer, Zweifel oder chaotische Assoziationen.'
+  Charaktere:
+    Einschaetzung: 'Eddie als Mathegenie tritt klar hervor.'
+    Kritik: 'Ihre Persönlichkeit tritt zurück hinter dem Fachtext. Menschliche Regungen (Frust, Stolz, Humor) fehlen weitgehend.'
+  Sprache:
+    Einschaetzung: 'Klar, strukturiert, fachlich präzise.'
+    Kritik: 'Zu trocken und zu schulisch. Kaum jugendliche Einwürfe oder rotzig-freche Kommentare, die Eddie sonst lebendig machen.'
+  Fazit:
+    Staerken: 'Zeigt Eddies besonderes Talent, verdeutlicht ihren Halt in Mathe.'
+    Schwaechen: 'Zu lehrbuchhaft, jugendliche Stimme fehlt, menschliche Seite von Eddie wird unsichtbar.'
+    Fix: 'Innere Kommentare und spontane Gedanken einfügen, kleine Patzer oder Selbstzweifel zulassen, Mathepassagen straffen und mit Eddie-Humor färben.'
+---
 
-```json
-{
-  "date": "1985-07-05",
-  "day": "Friday",
-  "daytime": "morning",
-  "place": "Bus von Joutsenlampi nach Joutsa",
-  "persons": [
-    "Eddie",
-    "Herr Fischer",
-    "das DDR Team",
-    "viele andere Kinder und Betreuer"
-  ],
-  "synopsis": "Im Bus nach Joutsa schreibt Herr Fischer in Eddies Block, entdeckt dabei ihre versteckten Dokumente, verrät sie aber nicht.",
-  "mood": "tense relief",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "FIN_Joutsa_Fluchtblock.png"
-  ],
-  "proofreading": {
-    "Kapitel": "060_Der_Matheblock",
-    "Ton": {
-      "Einschaetzung": "Sachlich, analytisch, Eddie denkt in mathematischen Strukturen.",
-      "Kritik": "Ton rutscht stark ins Dozierende. Eddie klingt wie eine Lehrerin, nicht wie eine 17-Jährige, die sich Mut macht. Die jugendliche Stimme geht verloren."
-    },
-    "Logik": {
-      "Einschaetzung": "Gedankengänge nachvollziehbar, Mathe als Halt plausibel.",
-      "Kritik": "Die Ausführungen wirken zu glatt und fehlerfrei. Für Authentizität fehlen kleine Irrtümer, Zweifel oder chaotische Assoziationen."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie als Mathegenie tritt klar hervor.",
-      "Kritik": "Ihre Persönlichkeit tritt zurück hinter dem Fachtext. Menschliche Regungen (Frust, Stolz, Humor) fehlen weitgehend."
-    },
-    "Sprache": {
-      "Einschaetzung": "Klar, strukturiert, fachlich präzise.",
-      "Kritik": "Zu trocken und zu schulisch. Kaum jugendliche Einwürfe oder rotzig-freche Kommentare, die Eddie sonst lebendig machen."
-    },
-    "Fazit": {
-      "Staerken": "Zeigt Eddies besonderes Talent, verdeutlicht ihren Halt in Mathe.",
-      "Schwaechen": "Zu lehrbuchhaft, jugendliche Stimme fehlt, menschliche Seite von Eddie wird unsichtbar.",
-      "Fix": "Innere Kommentare und spontane Gedanken einfügen, kleine Patzer oder Selbstzweifel zulassen, Mathepassagen straffen und mit Eddie-Humor färben."
-    }
-  }
-}
-```
+# Der Matheblock
 
 Schon steht da dieser schicke Volvo-Bus vorm Tor von Joutsenlampi. Bis Joutsa
 sind's nur fünfzehn Minuten. Und klar, wir – die ostdeutsche Vorzeigetruppe –

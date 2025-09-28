@@ -1,50 +1,41 @@
-# Aus der Schule
+---
+date: '1985-07-05'
+day: 'Friday'
+daytime: 'noon'
+place: 'Gymnasium Joutsa'
+persons:
+  - 'Eddie'
+  - 'Mielke'
+  - 'Herr Fischer'
+  - 'Mongolen'
+  - 'Bulgaren'
+  - 'Schwede'
+  - 'DDR-Gruppe'
+synopsis: 'Eddie entkommt im Gedränge nach den Prüfungen knapp an Mielke vorbei und flieht ins Freie.'
+mood: 'tense, breathless, fleeting relief'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+proofreading:
+  Kapitel: '090_Aus_der_Schule'
+  Ton:
+    Einschaetzung: 'Reflektierend, Eddie blickt auf Schule und Lernen zurück, teils wehmütig, teils sarkastisch.'
+    Kritik: 'Ton schwankt: mal jugendlich-frech, mal essayistisch erwachsen. Gefahr, dass Authentizität verloren geht.'
+  Logik:
+    Einschaetzung: 'Erinnerungen an die DDR-Schule plausibel und stimmig.'
+    Kritik: 'Manche Abschnitte wirken wie Geschichtsreferat. Eddie klingt weniger wie eine 17-Jährige im Rückblick, sondern wie eine erwachsene Erzählerin.'
+  Charaktere:
+    Einschaetzung: 'Eddie im Zentrum, kommentiert Lehrer und Mitschüler.'
+    Kritik: 'Ihre persönliche Betroffenheit bleibt stellenweise blass. Figuren werden als Typen beschrieben, nicht als Menschen, die Eddie geprägt haben.'
+  Sprache:
+    Einschaetzung: 'Anschaulich, detailreich.'
+    Kritik: 'Zu viele Erklärpassagen, wenig jugendliche Spontaneität. Füllwörter und rotzige Kommentare fehlen fast völlig.'
+  Fazit:
+    Staerken: 'Gibt Hintergrundwissen, ordnet Eddies Haltung zur DDR-Schule ein.'
+    Schwaechen: 'Zu referierend, zu erwachsen, persönliche Emotion fehlt.'
+    Fix: 'Mehr persönliche Anekdoten und Gefühle einbauen, rotzige Kommentare ergänzen, Erklärlast reduzieren.'
+---
 
-```json
-{
-  "date": "1985-07-05",
-  "day": "Friday",
-  "daytime": "noon",
-  "place": "Gymnasium Joutsa",
-  "persons": [
-    "Eddie",
-    "Mielke",
-    "Herr Fischer",
-    "Mongolen",
-    "Bulgaren",
-    "Schwede",
-    "DDR-Gruppe"
-  ],
-  "synopsis": "Eddie entkommt im Gedränge nach den Prüfungen knapp an Mielke vorbei und flieht ins Freie.",
-  "mood": "tense, breathless, fleeting relief",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "proofreading": {
-    "Kapitel": "090_Aus_der_Schule",
-    "Ton": {
-      "Einschaetzung": "Reflektierend, Eddie blickt auf Schule und Lernen zurück, teils wehmütig, teils sarkastisch.",
-      "Kritik": "Ton schwankt: mal jugendlich-frech, mal essayistisch erwachsen. Gefahr, dass Authentizität verloren geht."
-    },
-    "Logik": {
-      "Einschaetzung": "Erinnerungen an die DDR-Schule plausibel und stimmig.",
-      "Kritik": "Manche Abschnitte wirken wie Geschichtsreferat. Eddie klingt weniger wie eine 17-Jährige im Rückblick, sondern wie eine erwachsene Erzählerin."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie im Zentrum, kommentiert Lehrer und Mitschüler.",
-      "Kritik": "Ihre persönliche Betroffenheit bleibt stellenweise blass. Figuren werden als Typen beschrieben, nicht als Menschen, die Eddie geprägt haben."
-    },
-    "Sprache": {
-      "Einschaetzung": "Anschaulich, detailreich.",
-      "Kritik": "Zu viele Erklärpassagen, wenig jugendliche Spontaneität. Füllwörter und rotzige Kommentare fehlen fast völlig."
-    },
-    "Fazit": {
-      "Staerken": "Gibt Hintergrundwissen, ordnet Eddies Haltung zur DDR-Schule ein.",
-      "Schwaechen": "Zu referierend, zu erwachsen, persönliche Emotion fehlt.",
-      "Fix": "Mehr persönliche Anekdoten und Gefühle einbauen, rotzige Kommentare ergänzen, Erklärlast reduzieren."
-    }
-  }
-}
-```
+# Aus der Schule
 
 Ich reiße die Kabinentür auf. Mein Herz hämmert so laut, ich schwöre, jeder in
 der Toilette muss es hören. Aber die Jungs? Keine Reaktion. Die labern weiter,

@@ -1,46 +1,37 @@
-# Das Fax
+---
+date: '1985-07-05'
+day: 'Friday'
+daytime: 'evening'
+place: 'Polizeistation von Joutsa'
+persons:
+  - 'Eddie'
+  - 'Raija'
+  - 'Raijas Chef'
+synopsis: 'Ein Fax kündigt diplomatischen Druck der DDR an; Raija widersetzt sich und flieht mit Eddie aus der Polizeistation.'
+mood: 'tense, urgent, defiant'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+proofreading:
+  Kapitel: '140_Das_Fax'
+  Ton:
+    Einschaetzung: 'Technisch interessiert, neugierig, Eddie schildert das Faxgerät als faszinierend und neu.'
+    Kritik: 'Ton wirkt zu erklärend, fast wie ein Technik-Exkurs. Jugendlich-subjektive Reaktionen (Staunen, Albernheit) fehlen teilweise.'
+  Logik:
+    Einschaetzung: 'Erklärung des Faxgeräts plausibel, passt zum 80er-Jahre-Setting.'
+    Kritik: 'Passage wirkt zu glatt eingebaut, wie ein Sachtext. Eddies persönliche Perspektive könnte stärker sein.'
+  Charaktere:
+    Einschaetzung: 'Eddie neugierig und wissbegierig.'
+    Kritik: 'Ihre jugendliche Unsicherheit oder Witze über die Technik fehlen. Sie wirkt zu abgeklärt. Nebenfiguren bleiben stumm.'
+  Sprache:
+    Einschaetzung: 'Klar, erklärend.'
+    Kritik: 'Zu sachlich und lehrbuchhaft. Wenig jugendliche Einwürfe oder bildhafte Vergleiche, die Eddies Ton lebendiger machen könnten.'
+  Fazit:
+    Staerken: 'Zeitkolorit, zeigt technische Faszination, verankert Handlung historisch.'
+    Schwaechen: 'Zu erklärend, jugendliche Stimme fehlt, Szene wirkt wie Einschub.'
+    Fix: 'Technik durch Eddies Augen beschreiben (lustige Vergleiche, ironische Gedanken), Unsicherheiten zeigen, Sprache lockern.'
+---
 
-```json
-{
-  "date": "1985-07-05",
-  "day": "Friday",
-  "daytime": "evening",
-  "place": "Polizeistation von Joutsa",
-  "persons": [
-    "Eddie",
-    "Raija",
-    "Raijas Chef"
-  ],
-  "synopsis": "Ein Fax kündigt diplomatischen Druck der DDR an; Raija widersetzt sich und flieht mit Eddie aus der Polizeistation.",
-  "mood": "tense, urgent, defiant",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "proofreading": {
-    "Kapitel": "140_Das_Fax",
-    "Ton": {
-      "Einschaetzung": "Technisch interessiert, neugierig, Eddie schildert das Faxgerät als faszinierend und neu.",
-      "Kritik": "Ton wirkt zu erklärend, fast wie ein Technik-Exkurs. Jugendlich-subjektive Reaktionen (Staunen, Albernheit) fehlen teilweise."
-    },
-    "Logik": {
-      "Einschaetzung": "Erklärung des Faxgeräts plausibel, passt zum 80er-Jahre-Setting.",
-      "Kritik": "Passage wirkt zu glatt eingebaut, wie ein Sachtext. Eddies persönliche Perspektive könnte stärker sein."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie neugierig und wissbegierig.",
-      "Kritik": "Ihre jugendliche Unsicherheit oder Witze über die Technik fehlen. Sie wirkt zu abgeklärt. Nebenfiguren bleiben stumm."
-    },
-    "Sprache": {
-      "Einschaetzung": "Klar, erklärend.",
-      "Kritik": "Zu sachlich und lehrbuchhaft. Wenig jugendliche Einwürfe oder bildhafte Vergleiche, die Eddies Ton lebendiger machen könnten."
-    },
-    "Fazit": {
-      "Staerken": "Zeitkolorit, zeigt technische Faszination, verankert Handlung historisch.",
-      "Schwaechen": "Zu erklärend, jugendliche Stimme fehlt, Szene wirkt wie Einschub.",
-      "Fix": "Technik durch Eddies Augen beschreiben (lustige Vergleiche, ironische Gedanken), Unsicherheiten zeigen, Sprache lockern."
-    }
-  }
-}
-```
+# Das Fax
 
 Ein Piepen und Pfeifen reißt mich aus meiner Erinnerung. Ich schaue auf und
 sehe, wie sich aus einer großen weißen Kiste langsam ein Blatt Papier

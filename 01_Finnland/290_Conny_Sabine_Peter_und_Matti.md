@@ -1,98 +1,78 @@
-# Conny, Sabine, Peter und Matti
+---
+title: 'Conny, Sabine, Peter und Matti'
+chapter_id: 'FIN_Weg_Tag21_Paddlergruppe'
+date: '1985-07-15'
+day: 'Monday'
+daytime: 'afternoon & evening'
+tense: 'present, Eddies first-person perspective'
+pov: 'Eddie, first-person'
+mode: 'mainline'
+themes:
+  - 'Gefundene Gemeinschaft'
+  - 'Vertrauen vs. Tarnung'
+  - 'Ost/West-Begegnung'
+  - 'Schutzraum in der Wildnis'
+persons:
+  - 'Eddie'
+  - 'Sabine'
+  - 'Conny'
+  - 'Peter'
+  - 'Matti'
+locations:
+  elamyskota:
+    name: 'Elämyskota Haukkajoki'
+    note: 'Gebuchte Blockhütte, etwa 40 % der Strecke nach Vaasa'
+  paddelroute:
+    name: 'Seen & Waldwege zwischen Tampere und Vaasa'
+    note: 'Faltboot-Expedition der Paderborner Gruppe'
+synopsis: 'Eddie erreicht die Elämyskota am Haukkajoki und trifft auf eine westdeutsche Paddelgruppe aus Paderborn. Conny und Sabine nehmen sie herzlich auf, doch ihre Wuppertal-Legende fällt schnell. Eddie erzählt von ihrer Flucht und bittet um Verschwiegenheit – die Gruppe verspricht Loyalität und bietet Schutz.'
+mood: 'lebendig, humorvoll, vertrauensbildend'
+parts:
+  -
+    part_id: 'A'
+    title: 'Ankunft an der Elämyskota'
+    summary: 'Eddie beobachtet die unbekannten Deutschen, wägt Risiko gegen Notwendigkeit ab und tritt schliesslich aus dem Wald.'
+    beats:
+      - 'Eddies Furcht vor Entdeckung'
+      - 'Beschreibung der Hütte als Zuflucht'
+      - 'Erstes freundliches Begrüßen'
+  -
+    part_id: 'B'
+    title: 'Eine Runde aus Paderborn'
+    summary: 'Die Gruppe stellt sich vor, lädt Eddie zum Essen ein und zeigt ihre Reiseplanung.'
+    beats:
+      - 'Conny und Sabine übernehmen die Bühne'
+      - 'Peter und Matti als entspannte Begleiter'
+      - 'Einladung, in der Hütte zu bleiben'
+  -
+    part_id: 'C'
+    title: 'Wahrheit & Bündnis'
+    summary: 'Eddiess Tarnung platzt, sie schildert die Flucht und bittet um Geheimhaltung; die anderen versprechen Verschwiegenheit.'
+    beats:
+      - 'Konfrontation: „Du bist aus dem Osten“'
+      - 'Eddies Offenbarung über ihre Flucht'
+      - 'Schweigegelöbnis und neuer Zusammenhalt'
+proofreading:
+  Kapitel: '300_Conny_Sabine_Peter_und_Matti'
+  Ton:
+    Einschaetzung: 'Jugendlich, gruppendynamisch, Eddie kommentiert frech und beobachtet spöttisch.'
+    Kritik: 'Ton springt zwischen Rotzgöre und zu erwachsener Analyse. Stellenweise klingt es eher wie eine Sozialstudie als eine persönliche Erinnerung.'
+  Logik:
+    Einschaetzung: 'Interaktionen zwischen den Jugendlichen wirken grundsätzlich nachvollziehbar.'
+    Kritik: 'Manche Dialoge wirken zu konstruiert, zu pointiert, als ob jeder Satz auf eine Pointe zielt. Gefahr von Künstlichkeit.'
+  Charaktere:
+    Einschaetzung: 'Eddies Beobachtungen sind witzig, die anderen Jugendlichen haben erkennbares Profil.'
+    Kritik: 'Einige Nebenfiguren sind klischeehaft gezeichnet. Eddie kommentiert viel, zeigt aber weniger eigene Unsicherheit.'
+  Sprache:
+    Einschaetzung: 'Dialogreich, lebendig.'
+    Kritik: 'Zu viele Füllwörter und Ellipsen. Dialoge manchmal überstilisiert. Satzzeichen uneinheitlich.'
+  Fazit:
+    Staerken: 'Lebendige Gruppenszene, Eddie als scharfe Beobachterin.'
+    Schwaechen: 'Dialoge teils künstlich, Eddie zu souverän, übertriebene Pointendichte.'
+    Fix: 'Dialoge natürlicher gestalten, Unsicherheit durchscheinen lassen, Pointen reduzieren.'
+---
 
-```json
-{
-  "title": "Conny, Sabine, Peter und Matti",
-  "chapter_id": "FIN_Weg_Tag21_Paddlergruppe",
-  "date": "1985-07-15",
-  "day": "Monday",
-  "daytime": "afternoon & evening",
-  "tense": "present, Eddies first-person perspective",
-  "pov": "Eddie, first-person",
-  "mode": "mainline",
-  "themes": [
-    "Gefundene Gemeinschaft",
-    "Vertrauen vs. Tarnung",
-    "Ost/West-Begegnung",
-    "Schutzraum in der Wildnis"
-  ],
-  "persons": [
-    "Eddie",
-    "Sabine",
-    "Conny",
-    "Peter",
-    "Matti"
-  ],
-  "locations": {
-    "elamyskota": {
-      "name": "Elämyskota Haukkajoki",
-      "note": "Gebuchte Blockhütte, etwa 40 % der Strecke nach Vaasa"
-    },
-    "paddelroute": {
-      "name": "Seen & Waldwege zwischen Tampere und Vaasa",
-      "note": "Faltboot-Expedition der Paderborner Gruppe"
-    }
-  },
-  "synopsis": "Eddie erreicht die Elämyskota am Haukkajoki und trifft auf eine westdeutsche Paddelgruppe aus Paderborn. Conny und Sabine nehmen sie herzlich auf, doch ihre Wuppertal-Legende fällt schnell. Eddie erzählt von ihrer Flucht und bittet um Verschwiegenheit – die Gruppe verspricht Loyalität und bietet Schutz.",
-  "mood": "lebendig, humorvoll, vertrauensbildend",
-  "parts": [
-    {
-      "part_id": "A",
-      "title": "Ankunft an der Elämyskota",
-      "summary": "Eddie beobachtet die unbekannten Deutschen, wägt Risiko gegen Notwendigkeit ab und tritt schliesslich aus dem Wald.",
-      "beats": [
-        "Eddies Furcht vor Entdeckung",
-        "Beschreibung der Hütte als Zuflucht",
-        "Erstes freundliches Begrüßen"
-      ]
-    },
-    {
-      "part_id": "B",
-      "title": "Eine Runde aus Paderborn",
-      "summary": "Die Gruppe stellt sich vor, lädt Eddie zum Essen ein und zeigt ihre Reiseplanung.",
-      "beats": [
-        "Conny und Sabine übernehmen die Bühne",
-        "Peter und Matti als entspannte Begleiter",
-        "Einladung, in der Hütte zu bleiben"
-      ]
-    },
-    {
-      "part_id": "C",
-      "title": "Wahrheit & Bündnis",
-      "summary": "Eddiess Tarnung platzt, sie schildert die Flucht und bittet um Geheimhaltung; die anderen versprechen Verschwiegenheit.",
-      "beats": [
-        "Konfrontation: „Du bist aus dem Osten“",
-        "Eddies Offenbarung über ihre Flucht",
-        "Schweigegelöbnis und neuer Zusammenhalt"
-      ]
-    }
-  ],
-  "proofreading": {
-    "Kapitel": "300_Conny_Sabine_Peter_und_Matti",
-    "Ton": {
-      "Einschaetzung": "Jugendlich, gruppendynamisch, Eddie kommentiert frech und beobachtet spöttisch.",
-      "Kritik": "Ton springt zwischen Rotzgöre und zu erwachsener Analyse. Stellenweise klingt es eher wie eine Sozialstudie als eine persönliche Erinnerung."
-    },
-    "Logik": {
-      "Einschaetzung": "Interaktionen zwischen den Jugendlichen wirken grundsätzlich nachvollziehbar.",
-      "Kritik": "Manche Dialoge wirken zu konstruiert, zu pointiert, als ob jeder Satz auf eine Pointe zielt. Gefahr von Künstlichkeit."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddies Beobachtungen sind witzig, die anderen Jugendlichen haben erkennbares Profil.",
-      "Kritik": "Einige Nebenfiguren sind klischeehaft gezeichnet. Eddie kommentiert viel, zeigt aber weniger eigene Unsicherheit."
-    },
-    "Sprache": {
-      "Einschaetzung": "Dialogreich, lebendig.",
-      "Kritik": "Zu viele Füllwörter und Ellipsen. Dialoge manchmal überstilisiert. Satzzeichen uneinheitlich."
-    },
-    "Fazit": {
-      "Staerken": "Lebendige Gruppenszene, Eddie als scharfe Beobachterin.",
-      "Schwaechen": "Dialoge teils künstlich, Eddie zu souverän, übertriebene Pointendichte.",
-      "Fix": "Dialoge natürlicher gestalten, Unsicherheit durchscheinen lassen, Pointen reduzieren."
-    }
-  }
-}
-```
+# Conny, Sabine, Peter und Matti
 
 Nach gut einer Woche, etwa auf einem Drittel meines Weges nach Vaasa, passiert
 es dann. Ich höre Stimmen im Wald – fremd und doch vertraut. Worte, die ich seit

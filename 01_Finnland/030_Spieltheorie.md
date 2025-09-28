@@ -1,45 +1,36 @@
-# Spieltheorie
+---
+flashback-date: '1985-07-04'
+date: '1985-07-05'
+day: 'Friday'
+daytime: 'morning'
+place: 'Joutsenlampi'
+persons:
+  - 'Eddie'
+synopsis: 'Eddie verwirft den Plan, mit dem Bus nach Helsinki zu fliehen – zu riskant, die Erfolgschance liegt unter zehn Prozent.'
+mood: 'anxious, calculating, hopeless'
+tense: 'past, Eddies first-person perspective'
+mode: 'flashback'
+proofreading:
+  Kapitel: '030_Spieltheorie'
+  Ton:
+    Einschaetzung: 'Frech, jugendlich, Eddie experimentiert mit Gedanken und wendet Mathe spielerisch an.'
+    Kritik: 'Ton schwankt: teils gelungen jugendlich, teils zu schulbuchhaft erklärt. Gefahr, dass es zu didaktisch klingt.'
+  Logik:
+    Einschaetzung: 'Spieltheorie als Motiv plausibel und originell.'
+    Kritik: 'Manche Herleitungen wirken zu glatt und zu perfekt. Eddie könnte mehr stolpern oder Halbwissen zeigen.'
+  Charaktere:
+    Einschaetzung: 'Eddie als Mathegenie ist klar erkennbar, zeigt Kreativität.'
+    Kritik: 'Ihre jugendliche Verletzlichkeit tritt zurück, sie wirkt sehr souverän. Nebenfiguren fehlen.'
+  Sprache:
+    Einschaetzung: 'Anschaulich, witzige Vergleiche.'
+    Kritik: 'Absätze mit Formeln wirken zu trocken, es gibt zu wenig innere Kommentare. Füllwörter und Spontaneität fehlen – Sprache fast zu glatt.'
+  Fazit:
+    Staerken: 'Originelle Mathe-Einbindung, Eddie zeigt Genialität und Witz.'
+    Schwaechen: 'Didaktisch, zu souverän, jugendliche Direktheit fehlt.'
+    Fix: 'Mehr innere Einwürfe und jugendliche Kommentare, kleine Unsicherheiten, trockene Passagen straffen.'
+---
 
-```json
-{
-  "flashback-date": "1985-07-04",
-  "date": "1985-07-05",
-  "day": "Friday",
-  "daytime": "morning",
-  "place": "Joutsenlampi",
-  "persons": [
-    "Eddie"
-  ],
-  "synopsis": "Eddie verwirft den Plan, mit dem Bus nach Helsinki zu fliehen – zu riskant, die Erfolgschance liegt unter zehn Prozent.",
-  "mood": "anxious, calculating, hopeless",
-  "tense": "past, Eddies first-person perspective",
-  "mode": "flashback",
-  "proofreading": {
-    "Kapitel": "030_Spieltheorie",
-    "Ton": {
-      "Einschaetzung": "Frech, jugendlich, Eddie experimentiert mit Gedanken und wendet Mathe spielerisch an.",
-      "Kritik": "Ton schwankt: teils gelungen jugendlich, teils zu schulbuchhaft erklärt. Gefahr, dass es zu didaktisch klingt."
-    },
-    "Logik": {
-      "Einschaetzung": "Spieltheorie als Motiv plausibel und originell.",
-      "Kritik": "Manche Herleitungen wirken zu glatt und zu perfekt. Eddie könnte mehr stolpern oder Halbwissen zeigen."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie als Mathegenie ist klar erkennbar, zeigt Kreativität.",
-      "Kritik": "Ihre jugendliche Verletzlichkeit tritt zurück, sie wirkt sehr souverän. Nebenfiguren fehlen."
-    },
-    "Sprache": {
-      "Einschaetzung": "Anschaulich, witzige Vergleiche.",
-      "Kritik": "Absätze mit Formeln wirken zu trocken, es gibt zu wenig innere Kommentare. Füllwörter und Spontaneität fehlen – Sprache fast zu glatt."
-    },
-    "Fazit": {
-      "Staerken": "Originelle Mathe-Einbindung, Eddie zeigt Genialität und Witz.",
-      "Schwaechen": "Didaktisch, zu souverän, jugendliche Direktheit fehlt.",
-      "Fix": "Mehr innere Einwürfe und jugendliche Kommentare, kleine Unsicherheiten, trockene Passagen straffen."
-    }
-  }
-}
-```
+# Spieltheorie
 
 Ich sitze auf der Bettkante, starre ins Halbdunkel und sehe mich schon wieder in
 diesen verfluchten Bus nach Helsinki hüpfen. Rein, Sitzplatz am Fenster, fertig.

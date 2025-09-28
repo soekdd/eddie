@@ -1,18 +1,15 @@
-# Mit Zirkel und Schuhcreme durch den Wald
+---
+chapter: 9
+section: 'Eddie rechnet'
+title: 'Mit Zirkel und Schuhcreme durch den Wald'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Navigation: Standortbestimmung mit Geometrie nach dem Verirren.'
+---
 
-```json
-{
-  "chapter": 9,
-  "section": "Eddie rechnet",
-  "title": "Mit Zirkel und Schuhcreme durch den Wald",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Navigation: Standortbestimmung mit Geometrie nach dem Verirren."
-}
-```
+# Mit Zirkel und Schuhcreme durch den Wald
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.  
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.  

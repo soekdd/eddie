@@ -1,24 +1,20 @@
-# Streuner
+---
+date: '1985-10-11'
+day: 'Friday'
+daytime: 'morning'
+place: 'Centralstation Stockholm, northern city parts'
+persons:
+  - 'Eddie'
+synopsis: 'Eddie freundet sich mit einem hungrigen Hund an; aus geteiltem Brot wird stille Verbundenheit – der Streuner wird zu ihrem Anker im Straßenleben.'
+mood: ''
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'SWE_Stockholm_Eddie_trifft_Streuner.png'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1985-10-11",
-  "day": "Friday",
-  "daytime": "morning",
-  "place": "Centralstation Stockholm, northern city parts",
-  "persons": [
-    "Eddie"
-  ],
-  "synopsis": "Eddie freundet sich mit einem hungrigen Hund an; aus geteiltem Brot wird stille Verbundenheit – der Streuner wird zu ihrem Anker im Straßenleben.",
-  "mood": "",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "SWE_Stockholm_Eddie_trifft_Streuner.png"
-  ],
-  "proofreading": {}
-}
-```
+# Streuner
 
 Ich sitze am Rand des Parks, ein Stück trockenes Brot in der Hand. Hart wie
 Stein, eigentlich kaum essbar. Ich kaue mechanisch, will meinem Magen wenigstens

@@ -1,26 +1,21 @@
+---
+date: '1985-09-20'
+day: 'Friday'
+daytime: 'morning'
+place: 'Centralstation Stockholm, northern city parts'
+persons:
+  - 'Eddie'
+synopsis: 'Planlos durch Stockholm zwischen Angst und Staunen; Eddie meidet die Botschaften, irrt durch die Stadt und findet in der Bahnhofsmission Wärme und erste Hilfe – ein vorsichtiger Anker in der Fremde.'
+mood: ''
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'SWE_Stockholm_Stadtmission.png'
+todo: 'Hier ist die Timeline noch total kaputt'
+proofreading: {}
+---
 
 # Orientierungslos in Stockholm
-
-```json
-{
-  "date": "1985-09-20",
-  "day": "Friday",
-  "daytime": "morning",
-  "place": "Centralstation Stockholm, northern city parts",
-  "persons": [
-    "Eddie"
-  ],
-  "synopsis": "Planlos durch Stockholm zwischen Angst und Staunen; Eddie meidet die Botschaften, irrt durch die Stadt und findet in der Bahnhofsmission Wärme und erste Hilfe – ein vorsichtiger Anker in der Fremde.",
-  "mood": "",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "SWE_Stockholm_Stadtmission.png"
-  ],
-  "todo": "Hier ist die Timeline noch total kaputt",
-  "proofreading": {}
-}
-```
 
 Ich drücke die Wagentür leise hinter mir zu. Es riecht nach Öl, Eisen,
 abgestandener Luft. Der Zug steht schon still, irgendwo auf einem Abstellgleis

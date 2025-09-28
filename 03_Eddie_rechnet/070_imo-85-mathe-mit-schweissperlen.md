@@ -1,18 +1,15 @@
-# IMO 85 – Mathe mit Schweißperlen
+---
+chapter: 6
+section: 'Eddie rechnet'
+title: 'IMO 85 – Mathe mit Schweißperlen'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Aufgabe 4: ausführlich und nachvollziehbar (Eddies lange Erklärung).'
+---
 
-```json
-{
-  "chapter": 6,
-  "section": "Eddie rechnet",
-  "title": "IMO 85 – Mathe mit Schweißperlen",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Aufgabe 4: ausführlich und nachvollziehbar (Eddies lange Erklärung)."
-}
-```
+# IMO 85 – Mathe mit Schweißperlen
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.

@@ -1,52 +1,42 @@
-# Abschied „Conny, Sabine, Peter und Matti“
+---
+date: '1985-07-17'
+day: 'Wednesday'
+daytime: 'morning'
+place: 'Haukkajoki, etwa 40 % des Weges nach Vaasa'
+persons:
+  - 'Eddie'
+  - 'Sabine'
+  - 'Conny'
+  - 'Peter'
+  - 'Matti'
+synopsis: 'Beim Aufbruch schenken die Freunde Eddie Ausrüstung und sprechen ihr Mut zu, mit einem Ziel im Westen: Paderborn.'
+mood: 'hopeful and heartwarming'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+source: 'https://ita-ikaalistenvpk.fi/elamyskota/'
+illustrations:
+  - 'FIN_Vaasalopet_Abschied.png'
+proofreading:
+  Kapitel: '350_Abschied_Conny_Sabine_Peter_und_Matti'
+  Ton:
+    Einschaetzung: 'Ernst, traurig, Abschiedsstimmung. Eddie schildert mit Respekt und Nachdenklichkeit.'
+    Kritik: 'Ton kippt teilweise ins Pathetische, mit zu vielen schweren Bildern. Gefahr, dass es melodramatisch wirkt.'
+  Logik:
+    Einschaetzung: 'Abschiedsszene nachvollziehbar, dramaturgisch sinnvoll.'
+    Kritik: 'Die Emotionalität steigert sich sehr schnell; Übergang von locker zu schwer wirkt abrupt.'
+  Charaktere:
+    Einschaetzung: 'Eddies Traurigkeit ist spürbar, die anderen Figuren haben erkennbaren Abschiedscharakter.'
+    Kritik: 'Manche Figuren bleiben klischeehaft (übertrieben wehmütig oder heroisch). Eddie wirkt eher beobachtend als selbst tief betroffen.'
+  Sprache:
+    Einschaetzung: 'Bildhaft, gefühlsbetont.'
+    Kritik: 'Stellenweise überladen mit Metaphern, einige Sätze zu geschraubt. Tempuswechsel zwischen Präsens und Präteritum unsauber.'
+  Fazit:
+    Staerken: 'Abschied wird stark inszeniert, emotionale Schwere transportiert sich.'
+    Schwaechen: 'Melodramatische Züge, unsaubere Tempusführung, Eddie wirkt distanziert.'
+    Fix: 'Emotionen authentischer, direkter zeigen, Pathos reduzieren, Tempus durchgehend klar halten.'
+---
 
-```json
-{
-  "date": "1985-07-17",
-  "day": "Wednesday",
-  "daytime": "morning",
-  "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
-  "persons": [
-    "Eddie",
-    "Sabine",
-    "Conny",
-    "Peter",
-    "Matti"
-  ],
-  "synopsis": "Beim Aufbruch schenken die Freunde Eddie Ausrüstung und sprechen ihr Mut zu, mit einem Ziel im Westen: Paderborn.",
-  "mood": "hopeful and heartwarming",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "source": "https://ita-ikaalistenvpk.fi/elamyskota/",
-  "illustrations": [
-    "FIN_Vaasalopet_Abschied.png"
-  ],
-  "proofreading": {
-    "Kapitel": "350_Abschied_Conny_Sabine_Peter_und_Matti",
-    "Ton": {
-      "Einschaetzung": "Ernst, traurig, Abschiedsstimmung. Eddie schildert mit Respekt und Nachdenklichkeit.",
-      "Kritik": "Ton kippt teilweise ins Pathetische, mit zu vielen schweren Bildern. Gefahr, dass es melodramatisch wirkt."
-    },
-    "Logik": {
-      "Einschaetzung": "Abschiedsszene nachvollziehbar, dramaturgisch sinnvoll.",
-      "Kritik": "Die Emotionalität steigert sich sehr schnell; Übergang von locker zu schwer wirkt abrupt."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddies Traurigkeit ist spürbar, die anderen Figuren haben erkennbaren Abschiedscharakter.",
-      "Kritik": "Manche Figuren bleiben klischeehaft (übertrieben wehmütig oder heroisch). Eddie wirkt eher beobachtend als selbst tief betroffen."
-    },
-    "Sprache": {
-      "Einschaetzung": "Bildhaft, gefühlsbetont.",
-      "Kritik": "Stellenweise überladen mit Metaphern, einige Sätze zu geschraubt. Tempuswechsel zwischen Präsens und Präteritum unsauber."
-    },
-    "Fazit": {
-      "Staerken": "Abschied wird stark inszeniert, emotionale Schwere transportiert sich.",
-      "Schwaechen": "Melodramatische Züge, unsaubere Tempusführung, Eddie wirkt distanziert.",
-      "Fix": "Emotionen authentischer, direkter zeigen, Pathos reduzieren, Tempus durchgehend klar halten."
-    }
-  }
-}
-```
+# Abschied „Conny, Sabine, Peter und Matti“
 
 Wir packen die Schlafsäcke zusammen, die Boote werden klar gemacht, und
 irgendwie merkt man, dass keiner so richtig Eile hat. Jeder Schritt dauert ein

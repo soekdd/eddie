@@ -1,49 +1,39 @@
-# Tampere
+---
+date: '1985-07-09'
+day: 'Tuesday'
+daytime: 'morning'
+place: 'Marktplatz Tampere'
+persons:
+  - 'Eddie'
+  - 'alter finnischer Buchhändler'
+synopsis: 'Eddie entdeckt auf dem Trödelmarkt ein Pflanzenbuch und einen Laavu-Führer, entwickelt einen Plan: zu Fuß nach Vaasa, mit Hütten und Proviant. Sie kauft Ausrüstung und rechnet mit großer Euphorie ihre Route durch.'
+mood: 'euphorisch, selbstermächtigend, lebendig'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'FIN_Tampere_Marktplatz.png'
+  - 'FIN_Tampere_Laavu.png'
+proofreading:
+  Kapitel: '250_Tampere'
+  Ton:
+    Einschaetzung: 'Beobachtend, neugierig, Eddie beschreibt Stadt und Atmosphäre.'
+    Kritik: 'Ton wirkt stellenweise wie Reiseführer, zu beschreibend. Jugendlich-chaotische Kommentare fehlen.'
+  Logik:
+    Einschaetzung: 'Eindrücke von Tampere plausibel, geben Lokalkolorit.'
+    Kritik: 'Passage bleibt zu oberflächlich, ohne Konflikt oder persönliche Reibung. Gefahr, dass Szene wie Kulisse wirkt.'
+  Charaktere:
+    Einschaetzung: 'Eddie als Beobachterin präsent.'
+    Kritik: 'Ihre Gefühle (Überforderung, Staunen, Orientierungslosigkeit) treten kaum hervor. Nebenfiguren werden nur gestreift.'
+  Sprache:
+    Einschaetzung: 'Detailreich, anschaulich.'
+    Kritik: 'Zu glatt und erklärend, wenig jugendliche Direktheit. Kaum spontane Gedanken oder rotzige Vergleiche, die Eddie sonst lebendig machen.'
+  Fazit:
+    Staerken: 'Verortet Handlung in Finnland, zeigt Atmosphäre von Tampere.'
+    Schwaechen: 'Zu deskriptiv, Emotionen blass, jugendliche Stimme fehlt.'
+    Fix: 'Mehr persönliche Reaktionen Eddies einbauen (Witz, Panik, Freude), Sprache jugendlicher und sprunghafter gestalten, kleine Begegnungen oder Stolperer ergänzen.'
+---
 
-```json
-{
-  "date": "1985-07-09",
-  "day": "Tuesday",
-  "daytime": "morning",
-  "place": "Marktplatz Tampere",
-  "persons": [
-    "Eddie",
-    "alter finnischer Buchhändler"
-  ],
-  "synopsis": "Eddie entdeckt auf dem Trödelmarkt ein Pflanzenbuch und einen Laavu-Führer, entwickelt einen Plan: zu Fuß nach Vaasa, mit Hütten und Proviant. Sie kauft Ausrüstung und rechnet mit großer Euphorie ihre Route durch.",
-  "mood": "euphorisch, selbstermächtigend, lebendig",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "FIN_Tampere_Marktplatz.png",
-    "FIN_Tampere_Laavu.png"
-  ],
-  "proofreading": {
-    "Kapitel": "250_Tampere",
-    "Ton": {
-      "Einschaetzung": "Beobachtend, neugierig, Eddie beschreibt Stadt und Atmosphäre.",
-      "Kritik": "Ton wirkt stellenweise wie Reiseführer, zu beschreibend. Jugendlich-chaotische Kommentare fehlen."
-    },
-    "Logik": {
-      "Einschaetzung": "Eindrücke von Tampere plausibel, geben Lokalkolorit.",
-      "Kritik": "Passage bleibt zu oberflächlich, ohne Konflikt oder persönliche Reibung. Gefahr, dass Szene wie Kulisse wirkt."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie als Beobachterin präsent.",
-      "Kritik": "Ihre Gefühle (Überforderung, Staunen, Orientierungslosigkeit) treten kaum hervor. Nebenfiguren werden nur gestreift."
-    },
-    "Sprache": {
-      "Einschaetzung": "Detailreich, anschaulich.",
-      "Kritik": "Zu glatt und erklärend, wenig jugendliche Direktheit. Kaum spontane Gedanken oder rotzige Vergleiche, die Eddie sonst lebendig machen."
-    },
-    "Fazit": {
-      "Staerken": "Verortet Handlung in Finnland, zeigt Atmosphäre von Tampere.",
-      "Schwaechen": "Zu deskriptiv, Emotionen blass, jugendliche Stimme fehlt.",
-      "Fix": "Mehr persönliche Reaktionen Eddies einbauen (Witz, Panik, Freude), Sprache jugendlicher und sprunghafter gestalten, kleine Begegnungen oder Stolperer ergänzen."
-    }
-  }
-}
-```
+# Tampere
 
 Ich sitze im Zug nach Tampere und zähle in Gedanken das Geld, das ich beim
 Pokern gewonnen habe. Ohne das wäre ich jetzt erledigt. Die Landschaft fliegt

@@ -1,45 +1,36 @@
-# Kein Frieden in Jyväskylä
+---
+date: '1985-07-06'
+day: 'Saturday'
+daytime: 'noon, evening'
+place: 'Raijas Wohnung und Jyväskylä'
+persons:
+  - 'Eddie'
+  - 'Raija'
+synopsis: 'Ein vermeintlich ruhiger Tag kippt: Nach einer kurzen, unangenehmen Begegnung mit Jorma (fremdelnder Blick) kehrt Raija vom Einkauf zurück und berichtet von einem Diplomatenwagen, der sie beobachtet. Beide verdunkeln die Wohnung; Eddie bleibt drinnen. Der geplante Zug fällt aus – stattdessen beschließen sie, mindestens eine Woche abzuwarten und später ggf. per Auto nach Helsinki zu fahren. In der Küche kochen sie, waschen ab und sprechen offen über Eddies Flucht und die IMO-Auswahl. Heimweh und Angst bleiben spürbar, doch für eine Nacht findet Eddie auf dem Sofa Ruhe.'
+mood: 'calm, intimate, safe'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+proofreading:
+  Kapitel: '170_Kein_Frieden_in_Jyvaeskylae'
+  Ton:
+    Einschaetzung: 'Angespannt, beobachtet; Wohnung als Schutzraum mit kurzen Ruheinseln (Kochen, Abwasch).'
+    Kritik: 'Balance zwischen Häuslichkeit und Bedrohung punktuell schärfen, damit die Idylle die Gefahr nicht überdeckt; jugendliche Direktheit in Dialogen weiter betonen.'
+  Logik:
+    Einschaetzung: 'Diplomatenwagen/Beobachtung plausibel; Planänderung (abwarten, später Auto nach Helsinki) folgerichtig.'
+    Kritik: 'Kleine Zeitmarker (Nachmittag, Abend) und minimale Außenreize (Autotür, Schritte im Treppenhaus) könnten die Überwachungsszene verankern.'
+  Charaktere:
+    Einschaetzung: 'Eddie: wachsam, verängstigt, dennoch handlungsfähig; Raija: schützend, entschlossen; Jorma: latent grenzüberschreitend ohne offene Tat.'
+    Kritik: 'Jormas Szene ggf. mit 1–2 körperlichen Details (Distanz, Blickhöhe, Wegdrehen) schärfen; Eddies Körperreaktion (Atmung, Puls, kalter Schweiß) in der Vorhang-Szene kurz intensivieren.'
+  Sprache:
+    Einschaetzung: 'Nah an Sinneseindrücken (Vorhänge, Geräusche in der Küche), klare Bilder.'
+    Kritik: 'Expositionssätze (KSZE, ‚alles Lüge‘) minimal straffen oder natürlicher in Dialogfluss legen; Wiederholungen leicht kürzen.'
+  Fazit:
+    Staerken: 'Dichte Bedrohungsatmosphäre im Kontrast zu häuslicher Wärme; glaubhafte Planänderung; schönes Heimweh-Motiv beim Abwasch.'
+    Schwaechen: 'Gefahr der zu langen Ruhepassagen; Beobachtungsszene könnte mit Außenweltgeräuschen/Details noch nervöser wirken.'
+    Fix: '2–3 Mikromarker für Zeit/Ort (‚später Nachmittag‘, Autotür unten), Jorma-Moment fein nachziehen, 1–2 jugendlich-lakonische Einwürfe ergänzen.'
+---
 
-```json
-{
-  "date": "1985-07-06",
-  "day": "Saturday",
-  "daytime": "noon, evening",
-  "place": "Raijas Wohnung und Jyväskylä",
-  "persons": [
-    "Eddie",
-    "Raija"
-  ],
-  "synopsis": "Ein vermeintlich ruhiger Tag kippt: Nach einer kurzen, unangenehmen Begegnung mit Jorma (fremdelnder Blick) kehrt Raija vom Einkauf zurück und berichtet von einem Diplomatenwagen, der sie beobachtet. Beide verdunkeln die Wohnung; Eddie bleibt drinnen. Der geplante Zug fällt aus – stattdessen beschließen sie, mindestens eine Woche abzuwarten und später ggf. per Auto nach Helsinki zu fahren. In der Küche kochen sie, waschen ab und sprechen offen über Eddies Flucht und die IMO-Auswahl. Heimweh und Angst bleiben spürbar, doch für eine Nacht findet Eddie auf dem Sofa Ruhe.",
-  "mood": "calm, intimate, safe",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "proofreading": {
-    "Kapitel": "170_Kein_Frieden_in_Jyvaeskylae",
-    "Ton": {
-      "Einschaetzung": "Angespannt, beobachtet; Wohnung als Schutzraum mit kurzen Ruheinseln (Kochen, Abwasch).",
-      "Kritik": "Balance zwischen Häuslichkeit und Bedrohung punktuell schärfen, damit die Idylle die Gefahr nicht überdeckt; jugendliche Direktheit in Dialogen weiter betonen."
-    },
-    "Logik": {
-      "Einschaetzung": "Diplomatenwagen/Beobachtung plausibel; Planänderung (abwarten, später Auto nach Helsinki) folgerichtig.",
-      "Kritik": "Kleine Zeitmarker (Nachmittag, Abend) und minimale Außenreize (Autotür, Schritte im Treppenhaus) könnten die Überwachungsszene verankern."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie: wachsam, verängstigt, dennoch handlungsfähig; Raija: schützend, entschlossen; Jorma: latent grenzüberschreitend ohne offene Tat.",
-      "Kritik": "Jormas Szene ggf. mit 1–2 körperlichen Details (Distanz, Blickhöhe, Wegdrehen) schärfen; Eddies Körperreaktion (Atmung, Puls, kalter Schweiß) in der Vorhang-Szene kurz intensivieren."
-    },
-    "Sprache": {
-      "Einschaetzung": "Nah an Sinneseindrücken (Vorhänge, Geräusche in der Küche), klare Bilder.",
-      "Kritik": "Expositionssätze (KSZE, ‚alles Lüge‘) minimal straffen oder natürlicher in Dialogfluss legen; Wiederholungen leicht kürzen."
-    },
-    "Fazit": {
-      "Staerken": "Dichte Bedrohungsatmosphäre im Kontrast zu häuslicher Wärme; glaubhafte Planänderung; schönes Heimweh-Motiv beim Abwasch.",
-      "Schwaechen": "Gefahr der zu langen Ruhepassagen; Beobachtungsszene könnte mit Außenweltgeräuschen/Details noch nervöser wirken.",
-      "Fix": "2–3 Mikromarker für Zeit/Ort (‚später Nachmittag‘, Autotür unten), Jorma-Moment fein nachziehen, 1–2 jugendlich-lakonische Einwürfe ergänzen."
-    }
-  }
-}
-```
+# Kein Frieden in Jyväskylä
 
 Als Raija später einkaufen geht, bleibe ich zurück. Sofa, Decke, mein Körper
 sackt einfach weg. Dösen, wegrutschen. Ich merke kaum, wie der Tag weiterzieht.

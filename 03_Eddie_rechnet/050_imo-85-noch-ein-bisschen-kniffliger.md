@@ -1,18 +1,15 @@
-# IMO 85 – Noch ein bisschen kniffliger
+---
+chapter: 4
+section: 'Eddie rechnet'
+title: 'IMO 85 – Noch ein bisschen kniffliger'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Aufgabe 2: typische Fallstricke und wie man sie umgeht.'
+---
 
-```json
-{
-  "chapter": 4,
-  "section": "Eddie rechnet",
-  "title": "IMO 85 – Noch ein bisschen kniffliger",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Aufgabe 2: typische Fallstricke und wie man sie umgeht."
-}
-```
+# IMO 85 – Noch ein bisschen kniffliger
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.  
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.  

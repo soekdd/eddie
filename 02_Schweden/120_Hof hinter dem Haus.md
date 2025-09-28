@@ -1,27 +1,23 @@
-# Hof hiner dem Haus
+---
+date: '1985-10-23'
+day: 'Wednesday'
+daytime: 'evening'
+place: 'Stockholm, Hof bei Vidars Elternhaus'
+persons:
+  - 'Eddie'
+  - 'Vidar'
+  - 'Streuner'
+synopsis: 'Nach Tagen der Spannung initiiert Eddie den ersten echten Kuss.'
+mood: 'mutig, zärtlich, überwältigt'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'SWE_Stockholm_Eddie_kuesst_Vidar.png'
+todo: 'Redundanz zu ''Die zweite Tasche'''
+proofreading: {}
+---
 
-```json
-{
-  "date": "1985-10-23",
-  "day": "Wednesday",
-  "daytime": "evening",
-  "place": "Stockholm, Hof bei Vidars Elternhaus",
-  "persons": [
-    "Eddie",
-    "Vidar",
-    "Streuner"
-  ],
-  "synopsis": "Nach Tagen der Spannung initiiert Eddie den ersten echten Kuss.",
-  "mood": "mutig, zärtlich, überwältigt",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "SWE_Stockholm_Eddie_kuesst_Vidar.png"
-  ],
-  "todo": "Redundanz zu 'Die zweite Tasche'",
-  "proofreading": {}
-}
-```
+# Hof hiner dem Haus
 
 Es ist ein paar Tage nach dem Beinahe-Kuss. Wir sitzen wieder draußen, diesmal
 im Hof hinter Vidars Elternhaus. Ich habe meine frisch gewaschene Jacke an, sie

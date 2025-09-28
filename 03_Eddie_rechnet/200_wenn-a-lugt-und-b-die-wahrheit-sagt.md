@@ -1,18 +1,15 @@
-# Wenn A lügt und B die Wahrheit sagt…
+---
+chapter: 15
+section: 'Eddie rechnet'
+title: 'Wenn A lügt und B die Wahrheit sagt…'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Logikrätsel: Wahrheitswerte, Schlüsse, kleine Fallen.'
+---
 
-```json
-{
-  "chapter": 15,
-  "section": "Eddie rechnet",
-  "title": "Wenn A lügt und B die Wahrheit sagt…",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Logikrätsel: Wahrheitswerte, Schlüsse, kleine Fallen."
-}
-```
+# Wenn A lügt und B die Wahrheit sagt…
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.  
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.  

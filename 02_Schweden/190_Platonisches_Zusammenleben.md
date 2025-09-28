@@ -1,24 +1,20 @@
-# Platonisches Zusammenleben
+---
+date: '1986-01-05'
+day: 'Sunday'
+daytime: ''
+place: ''
+persons:
+  - 'Eddie'
+synopsis: 'Eddie und Vidar leben vertrauend, aber platonisch – zwei Asymptoten, die sich annähern, ohne sich zu schneiden; mit dem nahenden Botschaftstermin wird der Abschied unausweichlich.'
+mood: ''
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'SWE_Stockholm_Vidar_Eddie_Streuner_schlafen.png'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1986-01-05",
-  "day": "Sunday",
-  "daytime": "",
-  "place": "",
-  "persons": [
-    "Eddie"
-  ],
-  "synopsis": "Eddie und Vidar leben vertrauend, aber platonisch – zwei Asymptoten, die sich annähern, ohne sich zu schneiden; mit dem nahenden Botschaftstermin wird der Abschied unausweichlich.",
-  "mood": "",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "SWE_Stockholm_Vidar_Eddie_Streuner_schlafen.png"
-  ],
-  "proofreading": {}
-}
-```
+# Platonisches Zusammenleben
 
 Ich liege wach und höre Stockholm atmen. Irgendwo rattert spät noch eine T-Bana,
 dann wieder Stille, nur Schnee, der auf dem Fenstersims zu Zuckerkristallen

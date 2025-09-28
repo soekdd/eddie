@@ -1,24 +1,20 @@
-# Der Flug in die Freiheit
+---
+date: '1986-03-15'
+day: 'Saturday'
+daytime: ''
+place: ''
+persons:
+  - 'Eddie'
+synopsis: 'Im Regierungsflieger begegnet Eddie Connys Vater von Nixdorf: Er bietet ihr Förderung und Perspektive; zum ersten Mal zeichnet sich eine konkrete Zukunft ab – noch in der Luft.'
+mood: ''
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'BRD_Flugzeug.png'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1986-03-15",
-  "day": "Saturday",
-  "daytime": "",
-  "place": "",
-  "persons": [
-    "Eddie"
-  ],
-  "synopsis": "Im Regierungsflieger begegnet Eddie Connys Vater von Nixdorf: Er bietet ihr Förderung und Perspektive; zum ersten Mal zeichnet sich eine konkrete Zukunft ab – noch in der Luft.",
-  "mood": "",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "BRD_Flugzeug.png"
-  ],
-  "proofreading": {}
-}
-```
+# Der Flug in die Freiheit
 
 Ein netter Steward führt mich am meinen Platz, höflich, aber bestimmt, als
 draußen die schwarzen Limousinen direkt bis an die Treppe rollen. Türen klappen,

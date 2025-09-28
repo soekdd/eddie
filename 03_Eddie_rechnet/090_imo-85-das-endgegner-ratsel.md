@@ -1,18 +1,15 @@
-# IMO 85 – Das Endgegner-Rätsel
+---
+chapter: 8
+section: 'Eddie rechnet'
+title: 'IMO 85 – Das Endgegner-Rätsel'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Aufgabe 6: warum sie so hart ist – und wie man dennoch denkt.'
+---
 
-```json
-{
-  "chapter": 8,
-  "section": "Eddie rechnet",
-  "title": "IMO 85 – Das Endgegner-Rätsel",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Aufgabe 6: warum sie so hart ist – und wie man dennoch denkt."
-}
-```
+# IMO 85 – Das Endgegner-Rätsel
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.  
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.  

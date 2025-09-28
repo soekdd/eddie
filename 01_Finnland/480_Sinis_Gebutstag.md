@@ -1,91 +1,70 @@
-# Sinis Geburtstag
+---
+title: 'Sinis Geburtstag'
+date: '1985-08-15'
+day: 'Thursday'
+daytime: 'morning'
+place: 'Sinis Wohnung, Vöyrinkatu 25, Vaasa'
+persons:
+  - 'Eddie'
+  - 'Sini'
+synopsis: 'Eddie stellt den Wecker, um früh aufzustehen und Sini mit einem Geburtstagsfrühstück zu überraschen. Spiegeleier, Toast und Muffins füllen die kleine Küche mit Duft. Sini entdeckt verblüfft Eddies Geschenk: eine DNA-Zeichnung, in der Codons die Wörter PUNK und SAMI ergeben. Eddie quält sich mit einem finnischen Geburtstagsgruß, der Sini zum Lachen bringt. Gemeinsam entziffern sie die Codons, Sini trägt die Aminosäuren in Schönschrift ein. Gerührt erklärt sie Eddie, dass sie es wirklich begriffen hat. Die beiden lachen, umarmen sich (ungewohnt für Finnen, aber typisch für Eddie).'
+mood: 'warm, heiter, berührt, verspielt'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+props:
+  - 'Küchenwecker'
+  - 'Pfanne mit Spiegelei'
+  - 'Toaster'
+  - 'Backofen mit Muffins'
+  - 'Studentenausweis von Sini'
+  - 'Buntstifte'
+  - 'Eddies alter Matheblock'
+  - 'DNA-Zeichnung mit Codons'
+illustration_prompts:
+  -
+    id: 'Geburtstagsfrühstück'
+    style: 'Retro-Comic mit weichen Farben, feine Buntstifttextur'
+    description: 'Kleine Küche mit Pfanne, Toast und Muffins im Ofen. Eddie nervös am Tisch, Sini mit zerzaustem blauem Haar in der Tür, überrascht und lächelnd.'
+  -
+    id: 'DNA-Geschenk'
+    style: 'feiner Buntstift'
+    description: 'Zwei Doppelhelix auf welligem Papier: eine mit Iro, eine mit Sámi-Mustern. Codons ergeben PUNK und SAMI, daneben leere Linien, in die Sini in Schönschrift die Aminosäuren schreibt.'
+dialogue_highlights:
+  -
+    Eddie: 'Hyvää synttäriä, Sini!'
+    Sini: 'Eddie! Du hast Finnisch gesprochen! Und auch noch das Richtige!'
+  -
+    Sini: 'Das erste erkenne ich sofort – Prolin. Und hier unten Asparagin… du hast wirklich die Codons nachgeschlagen!'
+  -
+    Sini: 'Eddie, du hast es echt begriffen. Das hier ist mehr als ein Geschenk, das ist Verständnis.'
+  -
+    Sini: 'Weißt du, wir Finnen umarmen uns eigentlich nicht ständig. Aber du… du bist die Ausnahme.'
+continuity:
+  before:
+    - 'Eddie entdeckt Sinis Studentenausweis und plant das Geschenk'
+  after:
+    - 'Eddie möchte Sini nach der Arbeit abholen und zeigt stolz ihre fast verheilten Füße'
+proofreading:
+  Kapitel: '490_Sinis_Geburtstag'
+  Ton:
+    Einschaetzung: 'Warm, verspielt, Eddie bemüht sich um eine Überraschung und zeigt Zuneigung.'
+    Kritik: 'Ton kippt stellenweise ins Kitschige. Eddie wirkt sehr souverän im Umgang, Unsicherheit fehlt.'
+  Logik:
+    Einschaetzung: 'Geburtstagsszene nachvollziehbar, schöne Normalität im Kontrast zur Flucht.'
+    Kritik: 'Einige Details wirken zu perfekt vorbereitet. Für Eddies Lage wirkt es fast zu glatt und planvoll.'
+  Charaktere:
+    Einschaetzung: 'Eddie liebevoll, Sini überrascht und gerührt.'
+    Kritik: 'Eddie wirkt sehr erwachsen und kontrolliert, wenig jugendliche Aufregung. Sini bleibt eher Reaktionsfigur.'
+  Sprache:
+    Einschaetzung: 'Gefühlsbetont, anschaulich.'
+    Kritik: 'Stellenweise überladen, leicht kitschig. Füllwörter fehlen fast völlig, Sprache wirkt dadurch zu glatt.'
+  Fazit:
+    Staerken: 'Herzliche Szene, zeigt Bindung zwischen Eddie und Sini, schöner Kontrast zur Bedrohung.'
+    Schwaechen: 'Zu perfekt, leicht kitschig, jugendliche Unsicherheit fehlt.'
+    Fix: 'Mehr jugendliche Aufregung und kleine Fehler einbauen, Sprache straffen, Kitsch reduzieren.'
+---
 
-```json
-{
-  "title": "Sinis Geburtstag",
-  "date": "1985-08-15",
-  "day": "Thursday",
-  "daytime": "morning",
-  "place": "Sinis Wohnung, Vöyrinkatu 25, Vaasa",
-  "persons": [
-    "Eddie",
-    "Sini"
-  ],
-  "synopsis": "Eddie stellt den Wecker, um früh aufzustehen und Sini mit einem Geburtstagsfrühstück zu überraschen. Spiegeleier, Toast und Muffins füllen die kleine Küche mit Duft. Sini entdeckt verblüfft Eddies Geschenk: eine DNA-Zeichnung, in der Codons die Wörter PUNK und SAMI ergeben. Eddie quält sich mit einem finnischen Geburtstagsgruß, der Sini zum Lachen bringt. Gemeinsam entziffern sie die Codons, Sini trägt die Aminosäuren in Schönschrift ein. Gerührt erklärt sie Eddie, dass sie es wirklich begriffen hat. Die beiden lachen, umarmen sich (ungewohnt für Finnen, aber typisch für Eddie).",
-  "mood": "warm, heiter, berührt, verspielt",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "props": [
-    "Küchenwecker",
-    "Pfanne mit Spiegelei",
-    "Toaster",
-    "Backofen mit Muffins",
-    "Studentenausweis von Sini",
-    "Buntstifte",
-    "Eddies alter Matheblock",
-    "DNA-Zeichnung mit Codons"
-  ],
-  "illustration_prompts": [
-    {
-      "id": "Geburtstagsfrühstück",
-      "style": "Retro-Comic mit weichen Farben, feine Buntstifttextur",
-      "description": "Kleine Küche mit Pfanne, Toast und Muffins im Ofen. Eddie nervös am Tisch, Sini mit zerzaustem blauem Haar in der Tür, überrascht und lächelnd."
-    },
-    {
-      "id": "DNA-Geschenk",
-      "style": "feiner Buntstift",
-      "description": "Zwei Doppelhelix auf welligem Papier: eine mit Iro, eine mit Sámi-Mustern. Codons ergeben PUNK und SAMI, daneben leere Linien, in die Sini in Schönschrift die Aminosäuren schreibt."
-    }
-  ],
-  "dialogue_highlights": [
-    {
-      "Eddie": "Hyvää synttäriä, Sini!",
-      "Sini": "Eddie! Du hast Finnisch gesprochen! Und auch noch das Richtige!"
-    },
-    {
-      "Sini": "Das erste erkenne ich sofort – Prolin. Und hier unten Asparagin… du hast wirklich die Codons nachgeschlagen!"
-    },
-    {
-      "Sini": "Eddie, du hast es echt begriffen. Das hier ist mehr als ein Geschenk, das ist Verständnis."
-    },
-    {
-      "Sini": "Weißt du, wir Finnen umarmen uns eigentlich nicht ständig. Aber du… du bist die Ausnahme."
-    }
-  ],
-  "continuity": {
-    "before": [
-      "Eddie entdeckt Sinis Studentenausweis und plant das Geschenk"
-    ],
-    "after": [
-      "Eddie möchte Sini nach der Arbeit abholen und zeigt stolz ihre fast verheilten Füße"
-    ]
-  },
-  "proofreading": {
-    "Kapitel": "490_Sinis_Geburtstag",
-    "Ton": {
-      "Einschaetzung": "Warm, verspielt, Eddie bemüht sich um eine Überraschung und zeigt Zuneigung.",
-      "Kritik": "Ton kippt stellenweise ins Kitschige. Eddie wirkt sehr souverän im Umgang, Unsicherheit fehlt."
-    },
-    "Logik": {
-      "Einschaetzung": "Geburtstagsszene nachvollziehbar, schöne Normalität im Kontrast zur Flucht.",
-      "Kritik": "Einige Details wirken zu perfekt vorbereitet. Für Eddies Lage wirkt es fast zu glatt und planvoll."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie liebevoll, Sini überrascht und gerührt.",
-      "Kritik": "Eddie wirkt sehr erwachsen und kontrolliert, wenig jugendliche Aufregung. Sini bleibt eher Reaktionsfigur."
-    },
-    "Sprache": {
-      "Einschaetzung": "Gefühlsbetont, anschaulich.",
-      "Kritik": "Stellenweise überladen, leicht kitschig. Füllwörter fehlen fast völlig, Sprache wirkt dadurch zu glatt."
-    },
-    "Fazit": {
-      "Staerken": "Herzliche Szene, zeigt Bindung zwischen Eddie und Sini, schöner Kontrast zur Bedrohung.",
-      "Schwaechen": "Zu perfekt, leicht kitschig, jugendliche Unsicherheit fehlt.",
-      "Fix": "Mehr jugendliche Aufregung und kleine Fehler einbauen, Sprache straffen, Kitsch reduzieren."
-    }
-  }
-}
-```
+# Sinis Geburtstag
 
 Der Küchenwecker rappelt im Halbdunkel, und ich springe hoch, bevor er Sini
 wecken kann. Mein Herz klopft bis zum Hals. Ich will heute die Erste sein, die

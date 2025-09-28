@@ -1,18 +1,15 @@
-# Reis, Nudeln und Herr Fischers Gleichungen
+---
+chapter: 1
+section: 'Eddie rechnet'
+title: 'Reis, Nudeln und Herr Fischers Gleichungen'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Diophantische Gleichungen: Busfahrt-Erklärung + Tampere-Beispiel (3 Säcke Reis + 4 Säcke Nudeln für 55 Markka).'
+---
 
-```json
-{
-  "chapter": 1,
-  "section": "Eddie rechnet",
-  "title": "Reis, Nudeln und Herr Fischers Gleichungen",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Diophantische Gleichungen: Busfahrt-Erklärung + Tampere-Beispiel (3 Säcke Reis + 4 Säcke Nudeln für 55 Markka)."
-}
-```
+# Reis, Nudeln und Herr Fischers Gleichungen
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.

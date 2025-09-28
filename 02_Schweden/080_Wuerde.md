@@ -1,27 +1,23 @@
-# Würde
+---
+date: '1985-10-16'
+day: 'Wednesday'
+daytime: 'afternoon'
+place: 'Stockholm, Bibliothek'
+persons:
+  - 'Eddie'
+  - 'Uebersetzer'
+  - 'Vidar'
+synopsis: 'Eddie trifft in dr Bibliothek den Übersetzer und korrigiert seine Fehler. Er schenkt ihr zum Dank seinen teurem Taschenrechner.'
+mood: 'trotzig, verletzt, entschlossen-klar'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'SWE_Stockholm_Eddie_hat_geduscht.png'
+todo: 'dieser und der nächste Abschnitt passen nicht zusammen'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1985-10-16",
-  "day": "Wednesday",
-  "daytime": "afternoon",
-  "place": "Stockholm, Bibliothek",
-  "persons": [
-    "Eddie",
-    "Uebersetzer",
-    "Vidar"
-  ],
-  "synopsis": "Eddie trifft in dr Bibliothek den Übersetzer und korrigiert seine Fehler. Er schenkt ihr zum Dank seinen teurem Taschenrechner.",
-  "mood": "trotzig, verletzt, entschlossen-klar",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "SWE_Stockholm_Eddie_hat_geduscht.png"
-  ],
-  "todo": "dieser und der nächste Abschnitt passen nicht zusammen",
-  "proofreading": {}
-}
-```
+# Würde
 
 Ich treffe Vidar draußen, vor der Bibliothek. Der Atem hängt weiß in der Luft,
 sein Schal riecht nach Waschmittel. Er mustert mich, und ich sehe in seinen

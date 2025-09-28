@@ -1,107 +1,85 @@
-# Und wenn's der Bauer gewesen wäre?
+---
+title: 'Und wenn''s der Bauer gewesen wäre?'
+chapter_id: 'FIN_Vaasa_Tag4_Faehrenprobe'
+date: '1985-08-13'
+day: 'Tuesday'
+daytime: 'morning & evening'
+tense: 'present'
+pov: 'Eddie, first-person'
+mode: 'mainline'
+themes:
+  - 'Loslassen vs. Festhalten'
+  - 'Selbstbestimmung & Vertrauen'
+  - 'Feminismus im Alltag'
+  - 'Flucht als Bewährungsprobe'
+persons:
+  - 'Eddie'
+  - 'Sini'
+  - 'Busfahrer:innen'
+locations:
+  apartment:
+    name: 'Sinis Wohnung'
+    note: 'Frühstück, Rucksack bleibt bewusst stehen'
+  harbor_walk:
+    name: 'Innenstadt → Hafenbrücke'
+    note: 'Weg zur Abendfähre'
+  terminal:
+    name: 'Wasaline Terminal (Vasklot)'
+    note: 'Busfahrer geben ausweichende Antworten'
+  pizzeria:
+    name: 'Vaasa, Innenstadt-Pizzeria'
+    note: 'Diskussion über Strategien und weibliche Macht'
+synopsis: 'Sini erklärt den Übungstag ohne Rucksack: Eddie soll die Abendfähre solo ausprobieren. Der fehlende Rucksack wird zum Symbol dafür, wie nah das Abschiedsszenario rückt. Am Terminal erfährt Eddie, dass Informationen nicht einfach zu bekommen sind, und erkennt, wie verletzlich sie ohne Sinis Unterstützung bleibt. Beim Pizza-Abend drängt Sini sie, auch manipulative Mittel zu erwägen, um sich Türen zu öffnen – eine Forderung, die bei beiden Sehnsucht nach Nähe und Angst vor dem Abschied offenlegt.'
+mood: 'warm, bittersüß, nachdenklich, mit leiser Spannung'
+parts:
+  -
+    part_id: 'A'
+    title: 'Frühstück ohne Sicherheitsnetz'
+    time: 'morning'
+    summary: 'Eddie serviert Frühstück, Sini streicht den Tageszettel und schickt sie ohne Rucksack los – das Gepäck bleibt als sichtbares Zeichen für den drohenden Aufbruch zurück.'
+    beats:
+      - 'Sini verkündet: Übungstag ohne Rucksack'
+      - 'Rucksack bleibt als Symbol für Abschied/im Zimmer'
+      - 'Eddie willigt ein, trotz innerem Widerstand'
+  -
+    part_id: 'B'
+    title: 'Terminal-Test'
+    time: 'late afternoon'
+    summary: 'Eddie geht allein zum Terminal, fragt Busfahrer nach der Abendfähre, erhält nur vage Auskünfte und merkt, wie dünn ihr Auftreten wirkt.'
+    beats:
+      - 'Marsch über Hafenbrücke ohne Rucksack'
+      - 'Busfahrer reagieren ausweichend'
+      - 'Eddie wartet auf Sini und spürt ihre Abhängigkeit'
+  -
+    part_id: 'C'
+    title: 'Pizza & Lektion'
+    time: 'evening'
+    summary: 'Beim Essen erklärt Sini, warum Eddie lernen soll, Menschen für sich einzunehmen – selbst mit Charme. Eddie ringt mit der Idee und begreift, dass beide den Abschied fürchten.'
+    beats:
+      - 'Überforderung durch westliche Preise & Portionen'
+      - 'Sini propagiert strategischen Feminismus'
+      - 'Eddie erkennt gegenseitige Verlustangst'
+proofreading:
+  Kapitel: '520_Und_wenns_der_Bauer_gewesen_waere'
+  Ton:
+    Einschaetzung: 'Humorvoll, ironisch, Eddie spielt mit einer hypothetischen Situation.'
+    Kritik: 'Ton kippt gelegentlich ins Klamaukige. Gefahr, dass Ernsthaftigkeit der Gesamtsituation verwässert wird.'
+  Logik:
+    Einschaetzung: 'Überlegung nachvollziehbar als Gedankenspiel.'
+    Kritik: 'Manche Wendungen wirken zu konstruiert, fast wie Bühnenwitz. Realismus geht verloren.'
+  Charaktere:
+    Einschaetzung: 'Eddie zeigt Humor, Sini reagiert als Gegenpart.'
+    Kritik: 'Dialog wirkt stellenweise zu pointiert, wie geschrieben, nicht gesprochen. Sini bleibt Stichwortgeberin.'
+  Sprache:
+    Einschaetzung: 'Locker, jugendlich, witzig.'
+    Kritik: 'Zu viele Pointen, überhöhte Dialogführung. Auslassungspunkte und Füllwörter häufen sich.'
+  Fazit:
+    Staerken: 'Unterhaltsam, gibt Einblick in Eddies Humor, lockert die Stimmung.'
+    Schwaechen: 'Klamaukig, unnatürlicher Dialog, Nebenfigur blass.'
+    Fix: 'Dialog natürlicher machen, Humor dosieren, Ernst der Situation unterschwellig erhalten.'
+---
 
-```json
-{
-  "title": "Und wenn's der Bauer gewesen wäre?",
-  "chapter_id": "FIN_Vaasa_Tag4_Faehrenprobe",
-  "date": "1985-08-13",
-  "day": "Tuesday",
-  "daytime": "morning & evening",
-  "tense": "present",
-  "pov": "Eddie, first-person",
-  "mode": "mainline",
-  "themes": [
-    "Loslassen vs. Festhalten",
-    "Selbstbestimmung & Vertrauen",
-    "Feminismus im Alltag",
-    "Flucht als Bewährungsprobe"
-  ],
-  "persons": [
-    "Eddie",
-    "Sini",
-    "Busfahrer:innen"
-  ],
-  "locations": {
-    "apartment": {
-      "name": "Sinis Wohnung",
-      "note": "Frühstück, Rucksack bleibt bewusst stehen"
-    },
-    "harbor_walk": {
-      "name": "Innenstadt → Hafenbrücke",
-      "note": "Weg zur Abendfähre"
-    },
-    "terminal": {
-      "name": "Wasaline Terminal (Vasklot)",
-      "note": "Busfahrer geben ausweichende Antworten"
-    },
-    "pizzeria": {
-      "name": "Vaasa, Innenstadt-Pizzeria",
-      "note": "Diskussion über Strategien und weibliche Macht"
-    }
-  },
-  "synopsis": "Sini erklärt den Übungstag ohne Rucksack: Eddie soll die Abendfähre solo ausprobieren. Der fehlende Rucksack wird zum Symbol dafür, wie nah das Abschiedsszenario rückt. Am Terminal erfährt Eddie, dass Informationen nicht einfach zu bekommen sind, und erkennt, wie verletzlich sie ohne Sinis Unterstützung bleibt. Beim Pizza-Abend drängt Sini sie, auch manipulative Mittel zu erwägen, um sich Türen zu öffnen – eine Forderung, die bei beiden Sehnsucht nach Nähe und Angst vor dem Abschied offenlegt.",
-  "mood": "warm, bittersüß, nachdenklich, mit leiser Spannung",
-  "parts": [
-    {
-      "part_id": "A",
-      "title": "Frühstück ohne Sicherheitsnetz",
-      "time": "morning",
-      "summary": "Eddie serviert Frühstück, Sini streicht den Tageszettel und schickt sie ohne Rucksack los – das Gepäck bleibt als sichtbares Zeichen für den drohenden Aufbruch zurück.",
-      "beats": [
-        "Sini verkündet: Übungstag ohne Rucksack",
-        "Rucksack bleibt als Symbol für Abschied/im Zimmer",
-        "Eddie willigt ein, trotz innerem Widerstand"
-      ]
-    },
-    {
-      "part_id": "B",
-      "title": "Terminal-Test",
-      "time": "late afternoon",
-      "summary": "Eddie geht allein zum Terminal, fragt Busfahrer nach der Abendfähre, erhält nur vage Auskünfte und merkt, wie dünn ihr Auftreten wirkt.",
-      "beats": [
-        "Marsch über Hafenbrücke ohne Rucksack",
-        "Busfahrer reagieren ausweichend",
-        "Eddie wartet auf Sini und spürt ihre Abhängigkeit"
-      ]
-    },
-    {
-      "part_id": "C",
-      "title": "Pizza & Lektion",
-      "time": "evening",
-      "summary": "Beim Essen erklärt Sini, warum Eddie lernen soll, Menschen für sich einzunehmen – selbst mit Charme. Eddie ringt mit der Idee und begreift, dass beide den Abschied fürchten.",
-      "beats": [
-        "Überforderung durch westliche Preise & Portionen",
-        "Sini propagiert strategischen Feminismus",
-        "Eddie erkennt gegenseitige Verlustangst"
-      ]
-    }
-  ],
-  "proofreading": {
-    "Kapitel": "520_Und_wenns_der_Bauer_gewesen_waere",
-    "Ton": {
-      "Einschaetzung": "Humorvoll, ironisch, Eddie spielt mit einer hypothetischen Situation.",
-      "Kritik": "Ton kippt gelegentlich ins Klamaukige. Gefahr, dass Ernsthaftigkeit der Gesamtsituation verwässert wird."
-    },
-    "Logik": {
-      "Einschaetzung": "Überlegung nachvollziehbar als Gedankenspiel.",
-      "Kritik": "Manche Wendungen wirken zu konstruiert, fast wie Bühnenwitz. Realismus geht verloren."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie zeigt Humor, Sini reagiert als Gegenpart.",
-      "Kritik": "Dialog wirkt stellenweise zu pointiert, wie geschrieben, nicht gesprochen. Sini bleibt Stichwortgeberin."
-    },
-    "Sprache": {
-      "Einschaetzung": "Locker, jugendlich, witzig.",
-      "Kritik": "Zu viele Pointen, überhöhte Dialogführung. Auslassungspunkte und Füllwörter häufen sich."
-    },
-    "Fazit": {
-      "Staerken": "Unterhaltsam, gibt Einblick in Eddies Humor, lockert die Stimmung.",
-      "Schwaechen": "Klamaukig, unnatürlicher Dialog, Nebenfigur blass.",
-      "Fix": "Dialog natürlicher machen, Humor dosieren, Ernst der Situation unterschwellig erhalten."
-    }
-  }
-}
-```
+# Und wenn's der Bauer gewesen wäre?
 
 Beim Frühstück macht Sini eine wichtige Ankündigung. „Du und Deine Füße sind
 jetzt besser drauf. Heute probieren wir die Abendfähre. Nur als Übung. Ohne

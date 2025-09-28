@@ -1,46 +1,37 @@
-# Der Frühstückszettel · Tag 2 – Das Rentier-Depot
+---
+date: '1985-08-10'
+day: 'Saturday'
+daytime: 'morning & evening'
+place: 'Vaasa, Sinis Küche'
+persons:
+  - 'Eddie'
+  - 'Sini'
+synopsis: 'Eddie erwischt Sini morgens gerade noch, als diese zur Arbeit aufbricht, und bekommt den zweiten Zettel. Tagsüber rechnet sie, versorgt ihre Füße und kocht ein Abendessen zum Thema. Am Abend erkennt sie, dass Sinis Aufgabe mehr als bloßer Scherz ist: Sini hat bewusst Eddies Fluchtmetaphern gewählt und kennt den finnischen Mathematiker, der das Problem geprägt hat. Eddie dämmert, welch heller Kopf in Sini steckt.'
+mood: 'warm, tüftelnd, leise ehrfürchtig'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+notes: 'Die ausführliche Rechnung liegt ausgelagert in ''Eddie_rechnet_Tag2_Depots_und_Rentiere.md''.'
+proofreading:
+  Kapitel: '440_Von_Rentieren_und_anderen_Eseln'
+  Ton:
+    Einschaetzung: 'Humorvoll, verspielt, Eddie macht Vergleiche und zieht Parallelen.'
+    Kritik: 'Ton schwankt: mal rotzig-jugendlich, mal fast kabarettistisch. Gefahr der Überinszenierung.'
+  Logik:
+    Einschaetzung: 'Die Vergleiche sind nachvollziehbar und bringen Leichtigkeit.'
+    Kritik: 'Manche Analogien wirken konstruiert, fast wie vorbereitet. Glaubwürdigkeit könnte leiden.'
+  Charaktere:
+    Einschaetzung: 'Eddie zeigt Humor und Kreativität.'
+    Kritik: 'Sie wirkt stellenweise zu schlagfertig, ohne Unsicherheit. Nebenfiguren reagieren klischeehaft.'
+  Sprache:
+    Einschaetzung: 'Lebendig, witzig, mit klaren Bildern.'
+    Kritik: 'Zu viele Pointen hintereinander, Füllwörter häufen sich. Satzbau manchmal zu glatt für spontane Gedanken.'
+  Fazit:
+    Staerken: 'Unterhaltsam, originelle Vergleiche, Eddie zeigt jugendliche Kreativität.'
+    Schwaechen: 'Überinszeniert, Nebenfiguren schwach, Humor zu gleichmäßig.'
+    Fix: 'Humor dosieren, Eddie mehr Unsicherheit zeigen, Nebenfiguren stärker einbinden.'
+---
 
-```json
-{
-  "date": "1985-08-10",
-  "day": "Saturday",
-  "daytime": "morning & evening",
-  "place": "Vaasa, Sinis Küche",
-  "persons": [
-    "Eddie",
-    "Sini"
-  ],
-  "synopsis": "Eddie erwischt Sini morgens gerade noch, als diese zur Arbeit aufbricht, und bekommt den zweiten Zettel. Tagsüber rechnet sie, versorgt ihre Füße und kocht ein Abendessen zum Thema. Am Abend erkennt sie, dass Sinis Aufgabe mehr als bloßer Scherz ist: Sini hat bewusst Eddies Fluchtmetaphern gewählt und kennt den finnischen Mathematiker, der das Problem geprägt hat. Eddie dämmert, welch heller Kopf in Sini steckt.",
-  "mood": "warm, tüftelnd, leise ehrfürchtig",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "notes": "Die ausführliche Rechnung liegt ausgelagert in 'Eddie_rechnet_Tag2_Depots_und_Rentiere.md'.",
-  "proofreading": {
-    "Kapitel": "440_Von_Rentieren_und_anderen_Eseln",
-    "Ton": {
-      "Einschaetzung": "Humorvoll, verspielt, Eddie macht Vergleiche und zieht Parallelen.",
-      "Kritik": "Ton schwankt: mal rotzig-jugendlich, mal fast kabarettistisch. Gefahr der Überinszenierung."
-    },
-    "Logik": {
-      "Einschaetzung": "Die Vergleiche sind nachvollziehbar und bringen Leichtigkeit.",
-      "Kritik": "Manche Analogien wirken konstruiert, fast wie vorbereitet. Glaubwürdigkeit könnte leiden."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie zeigt Humor und Kreativität.",
-      "Kritik": "Sie wirkt stellenweise zu schlagfertig, ohne Unsicherheit. Nebenfiguren reagieren klischeehaft."
-    },
-    "Sprache": {
-      "Einschaetzung": "Lebendig, witzig, mit klaren Bildern.",
-      "Kritik": "Zu viele Pointen hintereinander, Füllwörter häufen sich. Satzbau manchmal zu glatt für spontane Gedanken."
-    },
-    "Fazit": {
-      "Staerken": "Unterhaltsam, originelle Vergleiche, Eddie zeigt jugendliche Kreativität.",
-      "Schwaechen": "Überinszeniert, Nebenfiguren schwach, Humor zu gleichmäßig.",
-      "Fix": "Humor dosieren, Eddie mehr Unsicherheit zeigen, Nebenfiguren stärker einbinden."
-    }
-  }
-}
-```
+# Der Frühstückszettel · Tag 2 – Das Rentier-Depot
 
 Ich bin heute früher wach. Vielleicht, weil die Füße nicht mehr ganz so brennen.
 Vielleicht, weil ich neugierig bin, ob wieder ein Zettel auftaucht. Ich humpele

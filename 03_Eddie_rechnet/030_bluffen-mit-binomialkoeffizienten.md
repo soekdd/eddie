@@ -1,18 +1,15 @@
-# Bluffen mit Binomialkoeffizienten
+---
+chapter: 2
+section: 'Eddie rechnet'
+title: 'Bluffen mit Binomialkoeffizienten'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Poker-Kombinatorik und Wahrscheinlichkeiten, launisch erklärt.'
+---
 
-```json
-{
-  "chapter": 2,
-  "section": "Eddie rechnet",
-  "title": "Bluffen mit Binomialkoeffizienten",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Poker-Kombinatorik und Wahrscheinlichkeiten, launisch erklärt."
-}
-```
+# Bluffen mit Binomialkoeffizienten
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.  
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.  

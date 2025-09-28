@@ -1,23 +1,20 @@
-# Dankbarkeit ist nicht Liebe
+---
+date: '1985-10-18'
+day: 'Friday'
+daytime: 'late night'
+place: 'Stockholm, Schlafplatz'
+persons:
+  - 'Eddie'
+  - 'Streuner'
+  - 'Sini (in Erinnerung)'
+synopsis: 'Eddie ringt um Begriffe: frühere Nähe vs. echte Liebe; erkennt langsames Wachsen.'
+mood: 'nachdenklich, ehrlich, selbstkritisch'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1985-10-18",
-  "day": "Friday",
-  "daytime": "late night",
-  "place": "Stockholm, Schlafplatz",
-  "persons": [
-    "Eddie",
-    "Streuner",
-    "Sini (in Erinnerung)"
-  ],
-  "synopsis": "Eddie ringt um Begriffe: frühere Nähe vs. echte Liebe; erkennt langsames Wachsen.",
-  "mood": "nachdenklich, ehrlich, selbstkritisch",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "proofreading": {}
-}
-```
+# Dankbarkeit ist nicht Liebe
 
 Ich liege wach, die Decke bis zum Kinn gezogen, Streuner atmet schwer neben mir.
 Der Brief liegt direkt über meinem Herzen, als müsste ich ihn dort festhalten,

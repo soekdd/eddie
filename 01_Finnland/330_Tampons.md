@@ -1,48 +1,39 @@
-# Tampons
+---
+date: '1985-07-17'
+day: 'Wednesday'
+daytime: 'evening, night, morning'
+place: 'Hütte bei den Paderbornern, Finnland'
+persons:
+  - 'Eddie'
+  - 'Sabine'
+  - 'Conny'
+  - 'Matti'
+  - 'Peter'
+synopsis: 'Eddie bekommt von Sabine Tampons angeboten, probiert sie zum ersten Mal aus und entdeckt am sonnigen Morgen nach Regentagen beim gemeinsamen Baden im See eine neue Freiheit. Die Jungs Matti und Peter zeigen auffälliges Interesse, was Eddie verlegen macht, aber insgeheim freut sie sich.'
+mood: 'intimate, cozy, liberating, shy but joyful'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+proofreading:
+  Kapitel: '340_Tampons'
+  Ton:
+    Einschaetzung: 'Direkt, humorvoll, Eddie spricht ein Tabuthema unverblümt an.'
+    Kritik: 'Ton pendelt zwischen Rotzgöre und fast erklärend-informativ. Der Witz sitzt, aber manchmal wirkt es wie eine Aufklärungsschrift.'
+  Logik:
+    Einschaetzung: 'Situation nachvollziehbar, authentisches Jugendthema.'
+    Kritik: 'Manche Reaktionen der Figuren wirken überzeichnet, fast klamaukig. Gefahr, dass die Ernsthaftigkeit dahinter verloren geht.'
+  Charaktere:
+    Einschaetzung: 'Eddie wirkt frech, selbstironisch, zeigt jugendliche Offenheit.'
+    Kritik: 'Nebenfiguren bleiben Staffage, reagieren stereotyp. Eddie wirkt zu souverän, Unsicherheit oder Peinlichkeit fehlen.'
+  Sprache:
+    Einschaetzung: 'Locker, jugendlich, treffende Wortwahl.'
+    Kritik: 'Zu viele Füllwörter, Auslassungspunkte und Einschübe. Rhythmus schwankt zwischen witzig und belehrend.'
+  Fazit:
+    Staerken: 'Tabuthema wird mutig angesprochen, Eddie zeigt Humor und Direktheit.'
+    Schwaechen: 'Überzeichnung, Nebenfiguren blass, teilweise Aufklärungs-Ton.'
+    Fix: 'Mehr Unsicherheit oder Peinlichkeit bei Eddie zeigen, Witz dosieren, Dialoge natürlicher gestalten.'
+---
 
-```json
-{
-  "date": "1985-07-17",
-  "day": "Wednesday",
-  "daytime": "evening, night, morning",
-  "place": "Hütte bei den Paderbornern, Finnland",
-  "persons": [
-    "Eddie",
-    "Sabine",
-    "Conny",
-    "Matti",
-    "Peter"
-  ],
-  "synopsis": "Eddie bekommt von Sabine Tampons angeboten, probiert sie zum ersten Mal aus und entdeckt am sonnigen Morgen nach Regentagen beim gemeinsamen Baden im See eine neue Freiheit. Die Jungs Matti und Peter zeigen auffälliges Interesse, was Eddie verlegen macht, aber insgeheim freut sie sich.",
-  "mood": "intimate, cozy, liberating, shy but joyful",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "proofreading": {
-    "Kapitel": "340_Tampons",
-    "Ton": {
-      "Einschaetzung": "Direkt, humorvoll, Eddie spricht ein Tabuthema unverblümt an.",
-      "Kritik": "Ton pendelt zwischen Rotzgöre und fast erklärend-informativ. Der Witz sitzt, aber manchmal wirkt es wie eine Aufklärungsschrift."
-    },
-    "Logik": {
-      "Einschaetzung": "Situation nachvollziehbar, authentisches Jugendthema.",
-      "Kritik": "Manche Reaktionen der Figuren wirken überzeichnet, fast klamaukig. Gefahr, dass die Ernsthaftigkeit dahinter verloren geht."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie wirkt frech, selbstironisch, zeigt jugendliche Offenheit.",
-      "Kritik": "Nebenfiguren bleiben Staffage, reagieren stereotyp. Eddie wirkt zu souverän, Unsicherheit oder Peinlichkeit fehlen."
-    },
-    "Sprache": {
-      "Einschaetzung": "Locker, jugendlich, treffende Wortwahl.",
-      "Kritik": "Zu viele Füllwörter, Auslassungspunkte und Einschübe. Rhythmus schwankt zwischen witzig und belehrend."
-    },
-    "Fazit": {
-      "Staerken": "Tabuthema wird mutig angesprochen, Eddie zeigt Humor und Direktheit.",
-      "Schwaechen": "Überzeichnung, Nebenfiguren blass, teilweise Aufklärungs-Ton.",
-      "Fix": "Mehr Unsicherheit oder Peinlichkeit bei Eddie zeigen, Witz dosieren, Dialoge natürlicher gestalten."
-    }
-  }
-}
-```
+# Tampons
 
 Am frühen Morgen, als die meisten in der Hütte noch schlafen und die Sonne
 schräg durch die nassen Bäume fällt, dreht sich Sabine zu mir. Sie stützt den

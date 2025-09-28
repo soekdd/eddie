@@ -1,46 +1,37 @@
-# Durch Joutsa
+---
+date: '1985-07-05'
+day: 'Friday'
+daytime: 'afternoon'
+place: 'Weg vom Gymnasium Joutsa zur Kirche'
+persons:
+  - 'Eddie'
+  - 'Maria'
+synopsis: 'Eddie flieht zur Kirche, trifft dort auf Maria und bittet um Kirchenasyl. Maria spricht Russisch und verspricht ihr Hilfe.'
+mood: 'fear turning into fragile relief'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+todo: 'Maria weniger souverän zeichnen, auch ihr Mut muss erst wachsen'
+proofreading:
+  Kapitel: '100_Durch_Joutsa'
+  Ton:
+    Einschaetzung: 'Beobachtend, Eddie schildert Eindrücke von der Umgebung und Menschen.'
+    Kritik: 'Ton wirkt stellenweise wie Reisereportage, zu beschreibend. Jugendlich-subjektive Färbung tritt zurück.'
+  Logik:
+    Einschaetzung: 'Reise durch Joutsa nachvollziehbar, keine groben Brüche.'
+    Kritik: 'Beschreibung wirkt zu glatt, ohne Zwischenfälle oder Unsicherheiten. Gefahr: Szene bleibt blass.'
+  Charaktere:
+    Einschaetzung: 'Eddie als Beobachterin präsent.'
+    Kritik: 'Ihre Emotionen (Langeweile, Neugier, Angst) treten kaum hervor. Nebenfiguren sind Staffage und ohne eigene Kontur.'
+  Sprache:
+    Einschaetzung: 'Flüssig, detailreich.'
+    Kritik: 'Zu viele Aufzählungen, wenig jugendliche Kommentare. Sprache streckenweise zu glatt und erwachsen.'
+  Fazit:
+    Staerken: 'Gibt Lokalkolorit und erweitert das Setting.'
+    Schwaechen: 'Zu deskriptiv, wenig Handlung, jugendliche Stimme fehlt.'
+    Fix: 'Mehr persönliche Reaktionen und Gedanken einbauen, Sprache jugendlicher machen, kleine Konflikte oder Stolperer einfügen.'
+---
 
-```json
-{
-  "date": "1985-07-05",
-  "day": "Friday",
-  "daytime": "afternoon",
-  "place": "Weg vom Gymnasium Joutsa zur Kirche",
-  "persons": [
-    "Eddie",
-    "Maria"
-  ],
-  "synopsis": "Eddie flieht zur Kirche, trifft dort auf Maria und bittet um Kirchenasyl. Maria spricht Russisch und verspricht ihr Hilfe.",
-  "mood": "fear turning into fragile relief",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "todo": "Maria weniger souverän zeichnen, auch ihr Mut muss erst wachsen",
-  "proofreading": {
-    "Kapitel": "100_Durch_Joutsa",
-    "Ton": {
-      "Einschaetzung": "Beobachtend, Eddie schildert Eindrücke von der Umgebung und Menschen.",
-      "Kritik": "Ton wirkt stellenweise wie Reisereportage, zu beschreibend. Jugendlich-subjektive Färbung tritt zurück."
-    },
-    "Logik": {
-      "Einschaetzung": "Reise durch Joutsa nachvollziehbar, keine groben Brüche.",
-      "Kritik": "Beschreibung wirkt zu glatt, ohne Zwischenfälle oder Unsicherheiten. Gefahr: Szene bleibt blass."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie als Beobachterin präsent.",
-      "Kritik": "Ihre Emotionen (Langeweile, Neugier, Angst) treten kaum hervor. Nebenfiguren sind Staffage und ohne eigene Kontur."
-    },
-    "Sprache": {
-      "Einschaetzung": "Flüssig, detailreich.",
-      "Kritik": "Zu viele Aufzählungen, wenig jugendliche Kommentare. Sprache streckenweise zu glatt und erwachsen."
-    },
-    "Fazit": {
-      "Staerken": "Gibt Lokalkolorit und erweitert das Setting.",
-      "Schwaechen": "Zu deskriptiv, wenig Handlung, jugendliche Stimme fehlt.",
-      "Fix": "Mehr persönliche Reaktionen und Gedanken einbauen, Sprache jugendlicher machen, kleine Konflikte oder Stolperer einfügen."
-    }
-  }
-}
-```
+# Durch Joutsa
 
 Ich bleibe einen Moment hinter den Bäumen stehen, horche. Nichts. Nur Blätter,
 die rauschen, und das leise Brummen vom Busmotor irgendwo in der Ferne. Keine

@@ -1,18 +1,15 @@
-# Wie oft erwischt mich die Kontrolle?
+---
+chapter: 16
+section: 'Eddie rechnet'
+title: 'Wie oft erwischt mich die Kontrolle?'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Wahrscheinlichkeit & Risiko: Kontrollen modellieren.'
+---
 
-```json
-{
-  "chapter": 16,
-  "section": "Eddie rechnet",
-  "title": "Wie oft erwischt mich die Kontrolle?",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Wahrscheinlichkeit & Risiko: Kontrollen modellieren."
-}
-```
+# Wie oft erwischt mich die Kontrolle?
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.  
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.  

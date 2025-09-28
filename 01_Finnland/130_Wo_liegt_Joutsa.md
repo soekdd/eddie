@@ -1,50 +1,40 @@
-# Wo liegt Joutsa
+---
+flashback-date: '1984-09-09'
+date: '1985-07-05'
+day: 'Friday'
+daytime: 'day'
+place: 'TU-Dresden, zu Hause'
+persons:
+  - 'Eddie'
+  - 'Eddies Vater'
+synopsis: 'Eddie schmuggelt heimlich Finnland-Karten aus dem Kartensaal und verwandelt sie mit ihrem Vater in geheime Geometrie-Aufgaben für ihre Flucht.'
+mood: 'tense but warm, secretive and hopeful'
+tense: 'past, Eddies first-person perspective'
+mode: 'flashback'
+illustrations:
+  - 'DDR_Dresden_Eddie_versteckt_die_Karten.png'
+todo: 'Eddie erfährt erst am Flughafen Helsinki, wo genau die Reise hingeht.'
+proofreading:
+  Kapitel: '130_Wo_liegt_Joutsa'
+  Ton:
+    Einschaetzung: 'Erklärend, sachlich, Eddie beschreibt geografische und kulturelle Details.'
+    Kritik: 'Ton kippt ins Lexikonhafte, wenig jugendliche Farbe. Eddie klingt zu sehr wie eine Fremdenführerin.'
+  Logik:
+    Einschaetzung: 'Informationen zu Joutsa nachvollziehbar, plausibel eingebaut.'
+    Kritik: 'Infodump-Gefahr: zu viele Fakten auf einmal. Zusammenhang zu Eddies emotionaler Lage bleibt dünn.'
+  Charaktere:
+    Einschaetzung: 'Eddie als Erzählerin klar im Fokus.'
+    Kritik: 'Ihre Persönlichkeit verschwindet hinter der Infoflut. Emotionale Reaktion (Langeweile, Neugier, Ironie) fehlt.'
+  Sprache:
+    Einschaetzung: 'Klar, beschreibend.'
+    Kritik: 'Zu sachlich, wenig jugendliche Kommentare. Kaum spontane Assoziationen oder humorvolle Einwürfe.'
+  Fazit:
+    Staerken: 'Verortet die Handlung, gibt geografischen Rahmen.'
+    Schwaechen: 'Zu faktenlastig, jugendliche Stimme fehlt, Emotionen blass.'
+    Fix: 'Infos stärker mit Eddies Gedanken und Gefühlen verknüpfen, humorvolle Kommentare einbauen, Textfluss lebendiger gestalten.'
+---
 
-```json
-{
-  "flashback-date": "1984-09-09",
-  "date": "1985-07-05",
-  "day": "Friday",
-  "daytime": "day",
-  "place": "TU-Dresden, zu Hause",
-  "persons": [
-    "Eddie",
-    "Eddies Vater"
-  ],
-  "synopsis": "Eddie schmuggelt heimlich Finnland-Karten aus dem Kartensaal und verwandelt sie mit ihrem Vater in geheime Geometrie-Aufgaben für ihre Flucht.",
-  "mood": "tense but warm, secretive and hopeful",
-  "tense": "past, Eddies first-person perspective",
-  "mode": "flashback",
-  "illustrations": [
-    "DDR_Dresden_Eddie_versteckt_die_Karten.png"
-  ],
-  "todo": "Eddie erfährt erst am Flughafen Helsinki, wo genau die Reise hingeht.",
-  "proofreading": {
-    "Kapitel": "130_Wo_liegt_Joutsa",
-    "Ton": {
-      "Einschaetzung": "Erklärend, sachlich, Eddie beschreibt geografische und kulturelle Details.",
-      "Kritik": "Ton kippt ins Lexikonhafte, wenig jugendliche Farbe. Eddie klingt zu sehr wie eine Fremdenführerin."
-    },
-    "Logik": {
-      "Einschaetzung": "Informationen zu Joutsa nachvollziehbar, plausibel eingebaut.",
-      "Kritik": "Infodump-Gefahr: zu viele Fakten auf einmal. Zusammenhang zu Eddies emotionaler Lage bleibt dünn."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie als Erzählerin klar im Fokus.",
-      "Kritik": "Ihre Persönlichkeit verschwindet hinter der Infoflut. Emotionale Reaktion (Langeweile, Neugier, Ironie) fehlt."
-    },
-    "Sprache": {
-      "Einschaetzung": "Klar, beschreibend.",
-      "Kritik": "Zu sachlich, wenig jugendliche Kommentare. Kaum spontane Assoziationen oder humorvolle Einwürfe."
-    },
-    "Fazit": {
-      "Staerken": "Verortet die Handlung, gibt geografischen Rahmen.",
-      "Schwaechen": "Zu faktenlastig, jugendliche Stimme fehlt, Emotionen blass.",
-      "Fix": "Infos stärker mit Eddies Gedanken und Gefühlen verknüpfen, humorvolle Kommentare einbauen, Textfluss lebendiger gestalten."
-    }
-  }
-}
-```
+# Wo liegt Joutsa
 
 Als ich mich daran erinnere, muss ich immer noch grinsen. Es war in der DDR
 wirklich fast unmöglich, an Karten vom Westen ranzukommen. Geschweige denn von

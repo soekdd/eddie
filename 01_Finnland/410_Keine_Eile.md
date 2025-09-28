@@ -1,133 +1,109 @@
-# Keine Eile – Frühstück, Mutprobe & Hafenbank
+---
+title: 'Keine Eile – Frühstück, Mutprobe & Hafenbank'
+chapter_id: 'FIN_Vaasa_Tag1_Fruehstueck_und_Hafenbank'
+date: '1985-08-07'
+day: 'Wednesday'
+tense: 'present'
+pov: 'Eddie, first-person'
+mode: 'mainline'
+themes:
+  - 'Pflege & Erholung'
+  - 'Stolz vs. Dankbarkeit'
+  - 'Freundschaftsbeginn'
+  - 'Sackgasse wird Haltepunkt'
+  - 'Identität & Herkunft'
+persons:
+  - 'Eddie'
+  - 'Sini'
+weather_summary: 'Regen klingt ab, kühl-klar; am Abend freundlich.'
+synopsis: 'Sini pflegt die fiebernde Eddie durch den ersten Vaasa-Tag, lässt sie zur Ruhe kommen und zwingt sie zur Geduld – vom Frühstück in der Wohnung bis zum gemeinsamen Abend an der Hafenbank, wo sie Geschichten und Vertrauen teilen.'
+locations:
+  apartment:
+    name: 'Sinis Wohnung'
+    address: 'Vöyrinkatu 25, Vaasa (Vöyrinkaupunki)'
+    rooms:
+      - 'kleines Wohnzimmer (Sofa)'
+      - 'kleines Schlafzimmer'
+      - 'Bad mit Dusche'
+      - 'kleine Küche'
+  harbor_bench:
+    name: 'Kleine Hafenbank in der Innenstadt'
+    type: 'bench / recurring spot'
+    notes: 'Wird in den kommenden Wochen zum gemeinsamen Ort.'
+  terminal:
+    name: 'Wasaline Terminal (Vaskiluoto/Vasklot)'
+    note: 'Eddie holt Sini am Abend ab.'
+parts:
+  -
+    part_id: 'A'
+    title: 'Frühstück, Wäsche, sturer Dank'
+    time: 'morning–late afternoon'
+    place: 'Sinis Wohnung → später Fußweg zum Terminal'
+    props:
+      - 'frische Brötchen'
+      - 'Kaffee'
+      - 'Butter/Käse/Marmelade'
+      - 'Dusche'
+      - 'Waschleine'
+      - 'Verbände'
+    summary: 'Eddie erlebt ein kleines Paradies aus Brötchen und Kaffee. Sie will mit zur Arbeit und Busfahrer nach überzähligen Tickets fragen; Sini insistiert: keine Eile, Erholung zuerst. Eddie will nicht „auf Kosten“ leben; Sini neckt: „Was kostet schon eine silakka?“ Eddie bleibt, duscht, wäscht ihre und Sinis Kleidung, putzt das Bad, kippt in Mittagsschlaf. Am späten Nachmittag läuft sie trotzig doch zum Terminal, um Sini abzuholen. Sini ist gerührt und schimpft zugleich – erstes gemeinsames Lachen.'
+    beats:
+      - 'Frühstück als Ankunftsgefühl'
+      - 'Konflikt: Eile vs. Heilung'
+      - 'Hausarbeiten als Dank'
+      - 'Schwäche & kurzer Kollaps'
+      - 'Mutprobe: Eddie holt Sini ab'
+      - 'Versöhnendes Lachen – Nähe wächst'
+    mood:
+      - 'gehalten'
+      - 'erschöpft'
+      - 'trotzig'
+      - 'gelöst'
+    approx_word_count: 750
+  -
+    part_id: 'B'
+    title: 'Die Hafenbank – Geschichten & Namen'
+    time: 'early evening'
+    place: 'Innenstadt-Hafen (Bank)'
+    summary: 'Rast auf einer Bank am kleinen Stadthafen – ein Ort, zu dem sie zurückkehren werden. Eddie erzählt vom Weg: Edmilla, Joutsa, Raija, Marsch nach Vaasa. Sini ist beeindruckt und widerspricht Eddies Selbstabwertung („Kette schlechter Entscheidungen“). Gespräch über Herkunft: Sini ist halb Sámi (väterlicherseits); Eddie weiß peinlich wenig, Sini nimmt es mit Humor und bietet ‚Erste Lektionen‘ an. Eddie erkennt Sini als freien Geist, Feministin und die Freundin, die sie sich immer gewünscht hat.'
+    dialogue_notes:
+      - 'Sini: „Erzähl mir deine Geschichte.“'
+      - 'Eddie: nüchterne Version ihres Fluchtbogens'
+      - 'Sini: „Notwendige, nicht schlechte Entscheidungen.“'
+      - 'Herkunft: Sini halb Sámi; Eddie fragt unbeholfen, Sini reagiert geduldig-humorvoll'
+    recurring_spot: 'Hafenbank als fester gemeinsamer Bezugspunkt'
+    mood:
+      - 'intim'
+      - 'bestärkend'
+      - 'humorvoll'
+      - 'hoffnungsvoll'
+    approx_word_count: 780
+continuity:
+  prelude: 'Ankunft in Vaasa & Nacht bei Sini (1985-08-03).'
+  plan_forward: 'Erst genesen; danach Busgruppen auf überzählige Fährtickets prüfen.'
+  medical: 'Fieber sinkt; Füße verbunden; Erschöpfung bleibt.'
+updated: '2025-09-19'
+proofreading:
+  Kapitel: '420_Keine_Eile'
+  Ton:
+    Einschaetzung: 'Ruhig, entschleunigt, Eddie nimmt Tempo raus und wirkt fast gelassen.'
+    Kritik: 'Ton wirkt stellenweise zu abgeklärt. Für eine Jugendliche in ihrer Lage klingt es fast zu weise.'
+  Logik:
+    Einschaetzung: 'Die Szene funktioniert als Atempause und Kontrast zu bedrückenden Kapiteln.'
+    Kritik: 'Eddies Gelassenheit wirkt nicht durchweg glaubwürdig – Gefahr, dass die Spannung der Gesamterzählung absackt.'
+  Charaktere:
+    Einschaetzung: 'Eddie zeigt sich als reflektierend und ruhig.'
+    Kritik: 'Ihre jugendliche Seite tritt zurück, wirkt mehr wie eine Autorin als wie eine 17-Jährige.'
+  Sprache:
+    Einschaetzung: 'Schlicht, flüssig, klar.'
+    Kritik: 'Manche Sätze zu glatt, jugendliche Direktheit fehlt. Füllwörter häufen sich leicht.'
+  Fazit:
+    Staerken: 'Schöne Ruheinsel im Erzählfluss, schafft Kontrast.'
+    Schwaechen: 'Zu weise und abgeklärt für Eddies Alter, jugendliche Stimme fehlt.'
+    Fix: 'Mehr jugendliche Gedanken/Assoziationen einbauen, kleine Unsicherheiten oder Albernheiten zeigen.'
+---
 
-```json
-{
-  "title": "Keine Eile – Frühstück, Mutprobe & Hafenbank",
-  "chapter_id": "FIN_Vaasa_Tag1_Fruehstueck_und_Hafenbank",
-  "date": "1985-08-07",
-  "day": "Wednesday",
-  "tense": "present",
-  "pov": "Eddie, first-person",
-  "mode": "mainline",
-  "themes": [
-    "Pflege & Erholung",
-    "Stolz vs. Dankbarkeit",
-    "Freundschaftsbeginn",
-    "Sackgasse wird Haltepunkt",
-    "Identität & Herkunft"
-  ],
-  "persons": [
-    "Eddie",
-    "Sini"
-  ],
-  "weather_summary": "Regen klingt ab, kühl-klar; am Abend freundlich.",
-  "synopsis": "Sini pflegt die fiebernde Eddie durch den ersten Vaasa-Tag, lässt sie zur Ruhe kommen und zwingt sie zur Geduld – vom Frühstück in der Wohnung bis zum gemeinsamen Abend an der Hafenbank, wo sie Geschichten und Vertrauen teilen.",
-  "locations": {
-    "apartment": {
-      "name": "Sinis Wohnung",
-      "address": "Vöyrinkatu 25, Vaasa (Vöyrinkaupunki)",
-      "rooms": [
-        "kleines Wohnzimmer (Sofa)",
-        "kleines Schlafzimmer",
-        "Bad mit Dusche",
-        "kleine Küche"
-      ]
-    },
-    "harbor_bench": {
-      "name": "Kleine Hafenbank in der Innenstadt",
-      "type": "bench / recurring spot",
-      "notes": "Wird in den kommenden Wochen zum gemeinsamen Ort."
-    },
-    "terminal": {
-      "name": "Wasaline Terminal (Vaskiluoto/Vasklot)",
-      "note": "Eddie holt Sini am Abend ab."
-    }
-  },
-  "parts": [
-    {
-      "part_id": "A",
-      "title": "Frühstück, Wäsche, sturer Dank",
-      "time": "morning–late afternoon",
-      "place": "Sinis Wohnung → später Fußweg zum Terminal",
-      "props": [
-        "frische Brötchen",
-        "Kaffee",
-        "Butter/Käse/Marmelade",
-        "Dusche",
-        "Waschleine",
-        "Verbände"
-      ],
-      "summary": "Eddie erlebt ein kleines Paradies aus Brötchen und Kaffee. Sie will mit zur Arbeit und Busfahrer nach überzähligen Tickets fragen; Sini insistiert: keine Eile, Erholung zuerst. Eddie will nicht „auf Kosten“ leben; Sini neckt: „Was kostet schon eine silakka?“ Eddie bleibt, duscht, wäscht ihre und Sinis Kleidung, putzt das Bad, kippt in Mittagsschlaf. Am späten Nachmittag läuft sie trotzig doch zum Terminal, um Sini abzuholen. Sini ist gerührt und schimpft zugleich – erstes gemeinsames Lachen.",
-      "beats": [
-        "Frühstück als Ankunftsgefühl",
-        "Konflikt: Eile vs. Heilung",
-        "Hausarbeiten als Dank",
-        "Schwäche & kurzer Kollaps",
-        "Mutprobe: Eddie holt Sini ab",
-        "Versöhnendes Lachen – Nähe wächst"
-      ],
-      "mood": [
-        "gehalten",
-        "erschöpft",
-        "trotzig",
-        "gelöst"
-      ],
-      "approx_word_count": 750
-    },
-    {
-      "part_id": "B",
-      "title": "Die Hafenbank – Geschichten & Namen",
-      "time": "early evening",
-      "place": "Innenstadt-Hafen (Bank)",
-      "summary": "Rast auf einer Bank am kleinen Stadthafen – ein Ort, zu dem sie zurückkehren werden. Eddie erzählt vom Weg: Edmilla, Joutsa, Raija, Marsch nach Vaasa. Sini ist beeindruckt und widerspricht Eddies Selbstabwertung („Kette schlechter Entscheidungen“). Gespräch über Herkunft: Sini ist halb Sámi (väterlicherseits); Eddie weiß peinlich wenig, Sini nimmt es mit Humor und bietet ‚Erste Lektionen‘ an. Eddie erkennt Sini als freien Geist, Feministin und die Freundin, die sie sich immer gewünscht hat.",
-      "dialogue_notes": [
-        "Sini: „Erzähl mir deine Geschichte.“",
-        "Eddie: nüchterne Version ihres Fluchtbogens",
-        "Sini: „Notwendige, nicht schlechte Entscheidungen.“",
-        "Herkunft: Sini halb Sámi; Eddie fragt unbeholfen, Sini reagiert geduldig-humorvoll"
-      ],
-      "recurring_spot": "Hafenbank als fester gemeinsamer Bezugspunkt",
-      "mood": [
-        "intim",
-        "bestärkend",
-        "humorvoll",
-        "hoffnungsvoll"
-      ],
-      "approx_word_count": 780
-    }
-  ],
-  "continuity": {
-    "prelude": "Ankunft in Vaasa & Nacht bei Sini (1985-08-03).",
-    "plan_forward": "Erst genesen; danach Busgruppen auf überzählige Fährtickets prüfen.",
-    "medical": "Fieber sinkt; Füße verbunden; Erschöpfung bleibt."
-  },
-  "updated": "2025-09-19",
-  "proofreading": {
-    "Kapitel": "420_Keine_Eile",
-    "Ton": {
-      "Einschaetzung": "Ruhig, entschleunigt, Eddie nimmt Tempo raus und wirkt fast gelassen.",
-      "Kritik": "Ton wirkt stellenweise zu abgeklärt. Für eine Jugendliche in ihrer Lage klingt es fast zu weise."
-    },
-    "Logik": {
-      "Einschaetzung": "Die Szene funktioniert als Atempause und Kontrast zu bedrückenden Kapiteln.",
-      "Kritik": "Eddies Gelassenheit wirkt nicht durchweg glaubwürdig – Gefahr, dass die Spannung der Gesamterzählung absackt."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie zeigt sich als reflektierend und ruhig.",
-      "Kritik": "Ihre jugendliche Seite tritt zurück, wirkt mehr wie eine Autorin als wie eine 17-Jährige."
-    },
-    "Sprache": {
-      "Einschaetzung": "Schlicht, flüssig, klar.",
-      "Kritik": "Manche Sätze zu glatt, jugendliche Direktheit fehlt. Füllwörter häufen sich leicht."
-    },
-    "Fazit": {
-      "Staerken": "Schöne Ruheinsel im Erzählfluss, schafft Kontrast.",
-      "Schwaechen": "Zu weise und abgeklärt für Eddies Alter, jugendliche Stimme fehlt.",
-      "Fix": "Mehr jugendliche Gedanken/Assoziationen einbauen, kleine Unsicherheiten oder Albernheiten zeigen."
-    }
-  }
-}
-```
+# Keine Eile – Frühstück, Mutprobe & Hafenbank
 
 Ich wache wieder auf Die Wohnung ist still, warm – und ich nicht. Ich liege auf
 dem Sofa, der Schlaf ist eine alte Schallplatte, die ständig springt. Fieber

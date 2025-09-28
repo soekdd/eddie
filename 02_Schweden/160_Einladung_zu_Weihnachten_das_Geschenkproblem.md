@@ -1,22 +1,19 @@
-# Einladung zu Weihnachten & das Geschenkproblem
+---
+date: '1985-12-07'
+day: 'Saturday'
+daytime: 'afternoon'
+place: 'Stockholm, Vidars Zimmer / Hausflur'
+persons:
+  - 'Eddie'
+  - 'Vidar'
+synopsis: 'Handschriftliche Einladung der Eltern zum Weihnachtsfest; Eddie ringt mit dem Wunsch, echte Geschenke zu finden.'
+mood: 'ungläubig, glücklich, nervös tatendurstig'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1985-12-07",
-  "day": "Saturday",
-  "daytime": "afternoon",
-  "place": "Stockholm, Vidars Zimmer / Hausflur",
-  "persons": [
-    "Eddie",
-    "Vidar"
-  ],
-  "synopsis": "Handschriftliche Einladung der Eltern zum Weihnachtsfest; Eddie ringt mit dem Wunsch, echte Geschenke zu finden.",
-  "mood": "ungläubig, glücklich, nervös tatendurstig",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "proofreading": {}
-}
-```
+# Einladung zu Weihnachten & das Geschenkproblem
 
 Ein paar Tage vergehen. Nun, da Vidars Eltern sind von ihrer Reise zurück sind,
 wirkt das Haus mehr so still und weit. Für mich bedeutet das: keine Nächte mehr

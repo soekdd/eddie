@@ -1,23 +1,20 @@
-# Kleine Annäherungen
+---
+date: '1985-10-20'
+day: 'Sunday'
+daytime: 'various'
+place: 'Stockholm, Kirche & Straßen'
+persons:
+  - 'Eddie'
+  - 'Vidar'
+  - 'Streuner'
+synopsis: 'Vidars Hilfsbereitschaft, zufällige Berührung beim Tee, Spaziergänge, Lachen – und ein Fast-Kuss auf der Mauer.'
+mood: 'kribbelnd, scheu, verheißungsvoll'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1985-10-20",
-  "day": "Sunday",
-  "daytime": "various",
-  "place": "Stockholm, Kirche & Straßen",
-  "persons": [
-    "Eddie",
-    "Vidar",
-    "Streuner"
-  ],
-  "synopsis": "Vidars Hilfsbereitschaft, zufällige Berührung beim Tee, Spaziergänge, Lachen – und ein Fast-Kuss auf der Mauer.",
-  "mood": "kribbelnd, scheu, verheißungsvoll",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "proofreading": {}
-}
-```
+# Kleine Annäherungen
 
 Wir sitzen auf den Stufen der Kirche, nach der Essensausgabe. Es ist still
 geworden, nur noch ein paar Becher klappern im Innern. Die Sonne hängt schon

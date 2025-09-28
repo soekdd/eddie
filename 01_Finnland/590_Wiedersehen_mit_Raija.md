@@ -1,49 +1,39 @@
-# Wiedersehen mit Raija
+---
+date: '1985-09-18'
+day: 'Wednesday'
+daytime: 'early morning, whole day'
+place: 'Sinis Wohnung, Straßen von Vaasa, Bibliothek, Fähre'
+persons:
+  - 'Eddie'
+  - 'Sini'
+  - 'Raija'
+synopsis: 'Nach einer schlaflosen Nacht treffen Eddie und Sini in Vaasa überraschend Raija. Gemeinsam schmieden sie einen Fluchtplan mit gefälschtem Fax und Polizeiuniform. Am nächsten Morgen gelingt die Überfahrt nach Schweden, begleitet von Abschied, Kuss und Aufbruch.'
+mood: 'tense but hopeful, bittersweet'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'FIN_Vaasa_Eddie_kuesst_Sini.png'
+proofreading:
+  Kapitel: '600_Wiedersehen_mit_Raija'
+  Ton:
+    Einschaetzung: 'Emotional, hoffnungsvoll, Eddie schildert Begegnung mit Freude.'
+    Kritik: 'Ton kippt stellenweise ins Pathetische. Eddie wirkt sehr abgeklärt in der Darstellung, jugendliche Unsicherheit fehlt.'
+  Logik:
+    Einschaetzung: 'Wiedersehen dramaturgisch sinnvoll, passt in den Handlungsbogen.'
+    Kritik: 'Die Szene wirkt zu glatt, ohne Reibung oder Missverständnisse. Realismus könnte durch Stolperer gestärkt werden.'
+  Charaktere:
+    Einschaetzung: 'Eddie voller Emotion, Raija als wichtige Bezugsperson klar erkennbar.'
+    Kritik: 'Beide Figuren wirken stellenweise zu idealisiert. Konflikte oder Ambivalenzen fehlen.'
+  Sprache:
+    Einschaetzung: 'Gefühlsbetont, bildhaft.'
+    Kritik: 'Teilweise überladen mit Metaphern, Sprache fast kitschig. Wenig jugendliche Direktheit oder spontane Reaktionen.'
+  Fazit:
+    Staerken: 'Schönes Wiedersehen, emotionale Intensität, wichtiger Bezug für Eddie.'
+    Schwaechen: 'Zu glatt, zu idealisiert, Sprache kitschig.'
+    Fix: 'Mehr Unsicherheit, Missverständnisse oder Brüche einbauen, Sprache straffen und jugendlicher machen.'
+---
 
-```json
-{
-  "date": "1985-09-18",
-  "day": "Wednesday",
-  "daytime": "early morning, whole day",
-  "place": "Sinis Wohnung, Straßen von Vaasa, Bibliothek, Fähre",
-  "persons": [
-    "Eddie",
-    "Sini",
-    "Raija"
-  ],
-  "synopsis": "Nach einer schlaflosen Nacht treffen Eddie und Sini in Vaasa überraschend Raija. Gemeinsam schmieden sie einen Fluchtplan mit gefälschtem Fax und Polizeiuniform. Am nächsten Morgen gelingt die Überfahrt nach Schweden, begleitet von Abschied, Kuss und Aufbruch.",
-  "mood": "tense but hopeful, bittersweet",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "FIN_Vaasa_Eddie_kuesst_Sini.png"
-  ],
-  "proofreading": {
-    "Kapitel": "600_Wiedersehen_mit_Raija",
-    "Ton": {
-      "Einschaetzung": "Emotional, hoffnungsvoll, Eddie schildert Begegnung mit Freude.",
-      "Kritik": "Ton kippt stellenweise ins Pathetische. Eddie wirkt sehr abgeklärt in der Darstellung, jugendliche Unsicherheit fehlt."
-    },
-    "Logik": {
-      "Einschaetzung": "Wiedersehen dramaturgisch sinnvoll, passt in den Handlungsbogen.",
-      "Kritik": "Die Szene wirkt zu glatt, ohne Reibung oder Missverständnisse. Realismus könnte durch Stolperer gestärkt werden."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie voller Emotion, Raija als wichtige Bezugsperson klar erkennbar.",
-      "Kritik": "Beide Figuren wirken stellenweise zu idealisiert. Konflikte oder Ambivalenzen fehlen."
-    },
-    "Sprache": {
-      "Einschaetzung": "Gefühlsbetont, bildhaft.",
-      "Kritik": "Teilweise überladen mit Metaphern, Sprache fast kitschig. Wenig jugendliche Direktheit oder spontane Reaktionen."
-    },
-    "Fazit": {
-      "Staerken": "Schönes Wiedersehen, emotionale Intensität, wichtiger Bezug für Eddie.",
-      "Schwaechen": "Zu glatt, zu idealisiert, Sprache kitschig.",
-      "Fix": "Mehr Unsicherheit, Missverständnisse oder Brüche einbauen, Sprache straffen und jugendlicher machen."
-    }
-  }
-}
-```
+# Wiedersehen mit Raija
 
 Wir liegen im Dunkeln auf Sinis Sofa. Die Uhr auf dem Küchentisch tickt leise,
 als wolle sie uns verhöhnen. Jedes Ticken sagt: noch eine Minute weniger. Noch

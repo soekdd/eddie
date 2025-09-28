@@ -1,48 +1,38 @@
-# Mielke
+---
+flashback-date: '1985-06-04'
+date: '1985-07-05'
+day: 'Friday'
+daytime: 'day'
+place: 'Berlin'
+persons:
+  - 'Kosmol alias Mielke'
+synopsis: 'Eddie erinnert sich an ihre erste Begegnung mit Kosmol in Berlin – sie nennt ihn sofort „Mielke“ wegen seiner bedrohlichen Ausstrahlung.'
+mood: 'ominous, oppressive, unsettling'
+tense: 'past, Eddies first-person perspective'
+mode: 'flashback'
+illustrations:
+  - 'DDR_Berlin_Eddie_trifft_auf_Mielke.png'
+proofreading:
+  Kapitel: '020_Mielke'
+  Ton:
+    Einschaetzung: 'Düster, bedrohlich, Eddie denkt über Macht und Angst nach.'
+    Kritik: 'Ton wirkt sehr literarisch und erwachsen. Wenig jugendliche Direktheit, Gefahr der Überhöhung.'
+  Logik:
+    Einschaetzung: 'Bezug zu Mielke plausibel, verankert im DDR-Kontext.'
+    Kritik: 'Einige Passagen wirken erklärend und referierend, fast wie Geschichtsstunde. Könnte stärker aus Eddies unmittelbarer Sicht erzählt sein.'
+  Charaktere:
+    Einschaetzung: 'Eddie reflektiert, Mielke erscheint als Symbolfigur.'
+    Kritik: 'Eddie wirkt zu abgeklärt, fast wie Historikerin. Ihre jugendliche Perspektive und Angst treten in den Hintergrund.'
+  Sprache:
+    Einschaetzung: 'Ernst, bildhaft, kraftvoll.'
+    Kritik: 'Zu viele schwere Metaphern, Sätze zu lang. Wenig jugendliche Schnörkellosigkeit.'
+  Fazit:
+    Staerken: 'Verbindet persönliche Geschichte mit politischem Hintergrund, setzt starken Kontrast.'
+    Schwaechen: 'Zu literarisch und erklärend, Eddie wirkt unjugendlich, Sprache überinszeniert.'
+    Fix: 'Mehr persönliche Angst und unmittelbare Reaktionen einbauen, weniger Geschichtsreferat, Sprache straffen.'
+---
 
-```json
-{
-  "flashback-date": "1985-06-04",
-  "date": "1985-07-05",
-  "day": "Friday",
-  "daytime": "day",
-  "place": "Berlin",
-  "persons": [
-    "Kosmol alias Mielke"
-  ],
-  "synopsis": "Eddie erinnert sich an ihre erste Begegnung mit Kosmol in Berlin – sie nennt ihn sofort „Mielke“ wegen seiner bedrohlichen Ausstrahlung.",
-  "mood": "ominous, oppressive, unsettling",
-  "tense": "past, Eddies first-person perspective",
-  "mode": "flashback",
-  "illustrations": [
-    "DDR_Berlin_Eddie_trifft_auf_Mielke.png"
-  ],
-  "proofreading": {
-    "Kapitel": "020_Mielke",
-    "Ton": {
-      "Einschaetzung": "Düster, bedrohlich, Eddie denkt über Macht und Angst nach.",
-      "Kritik": "Ton wirkt sehr literarisch und erwachsen. Wenig jugendliche Direktheit, Gefahr der Überhöhung."
-    },
-    "Logik": {
-      "Einschaetzung": "Bezug zu Mielke plausibel, verankert im DDR-Kontext.",
-      "Kritik": "Einige Passagen wirken erklärend und referierend, fast wie Geschichtsstunde. Könnte stärker aus Eddies unmittelbarer Sicht erzählt sein."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie reflektiert, Mielke erscheint als Symbolfigur.",
-      "Kritik": "Eddie wirkt zu abgeklärt, fast wie Historikerin. Ihre jugendliche Perspektive und Angst treten in den Hintergrund."
-    },
-    "Sprache": {
-      "Einschaetzung": "Ernst, bildhaft, kraftvoll.",
-      "Kritik": "Zu viele schwere Metaphern, Sätze zu lang. Wenig jugendliche Schnörkellosigkeit."
-    },
-    "Fazit": {
-      "Staerken": "Verbindet persönliche Geschichte mit politischem Hintergrund, setzt starken Kontrast.",
-      "Schwaechen": "Zu literarisch und erklärend, Eddie wirkt unjugendlich, Sprache überinszeniert.",
-      "Fix": "Mehr persönliche Angst und unmittelbare Reaktionen einbauen, weniger Geschichtsreferat, Sprache straffen."
-    }
-  }
-}
-```
+# Mielke
 
 Als ich Kosmol in Berlin zum ersten Mal sah, schoss mir sofort durch den Kopf:
 Mielke! Ja, genau der. Erich Mielke, der Ober-Stasi-Heini. So kam der Typ rüber.

@@ -1,47 +1,38 @@
-# Papa
+---
+date: '1985-08-12'
+day: 'Monday'
+place: 'Pizzaria in Vaasa'
+synopsis: 'Eddie erzählt Sini, wie ihr Vater trotz überragender Fähigkeiten im Schatten des Parteikarrieristen Radmer blieb.'
+persons:
+  - 'Eddie'
+  - 'Sini'
+  - 'Eddies Vater'
+  - 'Leonhard Radmer'
+mood: 'bitter yet intimate'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+todo: 'Der Dialog der Mädchen ist noch zu schwach, zu redundant.'
+proofreading:
+  Kapitel: '480_Papa'
+  Ton:
+    Einschaetzung: 'Warm, respektvoll, Eddie erinnert Szenen mit ihrem Vater.'
+    Kritik: 'Ton kippt ins Nostalgische und wirkt stellenweise zu literarisch. Die jugendliche Direktheit tritt zurück.'
+  Logik:
+    Einschaetzung: 'Erinnerungen plausibel und konsistent mit früheren Passagen.'
+    Kritik: 'Manche Erinnerungen wirken zu idealisiert. Konflikte oder Ambivalenzen fehlen.'
+  Charaktere:
+    Einschaetzung: 'Der Vater wirkt klar umrissen, Eddie zeigt Bindung und Respekt.'
+    Kritik: 'Eddies eigene Stimme klingt zu erwachsen, fast wie eine Rückschau aus späterer Perspektive.'
+  Sprache:
+    Einschaetzung: 'Bildhaft, gefühlsbetont.'
+    Kritik: 'Überladen mit Metaphern, Sätze oft lang. Wenig jugendliche Einfachheit oder Spontaneität.'
+  Fazit:
+    Staerken: 'Gute Charakterisierung des Vaters, emotionale Tiefe, konsistente Erinnerungslinie.'
+    Schwaechen: 'Zu nostalgisch und erwachsen erzählt, Ambivalenzen fehlen, Sprache überhöht.'
+    Fix: 'Mehr jugendliche Perspektive einbauen, kleine Reibungen oder Widersprüche im Vaterbild zeigen, Sprache straffen.'
+---
 
-```json
-{
-  "date": "1985-08-12",
-  "day": "Monday",
-  "place": "Pizzaria in Vaasa",
-  "synopsis": "Eddie erzählt Sini, wie ihr Vater trotz überragender Fähigkeiten im Schatten des Parteikarrieristen Radmer blieb.",
-  "persons": [
-    "Eddie",
-    "Sini",
-    "Eddies Vater",
-    "Leonhard Radmer"
-  ],
-  "mood": "bitter yet intimate",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "todo": "Der Dialog der Mädchen ist noch zu schwach, zu redundant.",
-  "proofreading": {
-    "Kapitel": "480_Papa",
-    "Ton": {
-      "Einschaetzung": "Warm, respektvoll, Eddie erinnert Szenen mit ihrem Vater.",
-      "Kritik": "Ton kippt ins Nostalgische und wirkt stellenweise zu literarisch. Die jugendliche Direktheit tritt zurück."
-    },
-    "Logik": {
-      "Einschaetzung": "Erinnerungen plausibel und konsistent mit früheren Passagen.",
-      "Kritik": "Manche Erinnerungen wirken zu idealisiert. Konflikte oder Ambivalenzen fehlen."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Der Vater wirkt klar umrissen, Eddie zeigt Bindung und Respekt.",
-      "Kritik": "Eddies eigene Stimme klingt zu erwachsen, fast wie eine Rückschau aus späterer Perspektive."
-    },
-    "Sprache": {
-      "Einschaetzung": "Bildhaft, gefühlsbetont.",
-      "Kritik": "Überladen mit Metaphern, Sätze oft lang. Wenig jugendliche Einfachheit oder Spontaneität."
-    },
-    "Fazit": {
-      "Staerken": "Gute Charakterisierung des Vaters, emotionale Tiefe, konsistente Erinnerungslinie.",
-      "Schwaechen": "Zu nostalgisch und erwachsen erzählt, Ambivalenzen fehlen, Sprache überhöht.",
-      "Fix": "Mehr jugendliche Perspektive einbauen, kleine Reibungen oder Widersprüche im Vaterbild zeigen, Sprache straffen."
-    }
-  }
-}
-```
+# Papa
 
 „Weißt du, mein Alter war im Studium der Allerbeste. Kernreaktortechnik, TU
 Dresden – der Typ konnte die Formeln aus dem Ärmel schütteln, wo die anderen

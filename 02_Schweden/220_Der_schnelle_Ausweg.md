@@ -1,23 +1,20 @@
-# Der schnelle Ausweg
+---
+date: '1985-01-20'
+day: 'Sunday'
+daytime: ''
+place: ''
+persons:
+  - 'Eddie'
+  - 'Vidars Mutter'
+  - 'Streuner'
+synopsis: 'Vidars Mutter hat Kontakt mit der westdeutschen Botschaft aufgenommen. Sie haben Briefe für Eddie'
+mood: ''
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+proofreading: {}
+---
 
-```json
-{
-  "date": "1985-01-20",
-  "day": "Sunday",
-  "daytime": "",
-  "place": "",
-  "persons": [
-    "Eddie",
-    "Vidars Mutter",
-    "Streuner"
-  ],
-  "synopsis": "Vidars Mutter hat Kontakt mit der westdeutschen Botschaft aufgenommen. Sie haben Briefe für Eddie",
-  "mood": "",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "proofreading": {}
-}
-```
+# Der schnelle Ausweg
 
 „Es gibt noch etwas …“
 

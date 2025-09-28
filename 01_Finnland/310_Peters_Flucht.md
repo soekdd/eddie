@@ -1,48 +1,39 @@
-# Peters Flucht
+---
+date: '1985-07-15'
+day: 'Monday'
+daytime: 'afternoon'
+place: 'Haukkajoki, etwa 40 % des Weges nach Vaasa'
+persons:
+  - 'Peter'
+  - 'Eddie'
+  - 'Sabine'
+  - 'Conny'
+  - 'Mattie'
+synopsis: 'Peter erzählt von der Ausgrenzung und dem Verlust seiner Familie nach einem Ausreiseantrag; die Gruppe versteht dadurch besser Eddies Flucht.'
+mood: 'somber but bonding'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+proofreading:
+  Kapitel: '320_Peters_Flucht'
+  Ton:
+    Einschaetzung: 'Ernst, bedrückt, stärkerer Kontrast zu den vorherigen Kapiteln. Eddie erzählt sachlicher.'
+    Kritik: 'Ton kippt streckenweise ins Berichtshafte, fast protokollarisch. Emotionale Beteiligung von Eddie wirkt reduziert.'
+  Logik:
+    Einschaetzung: 'Die Fluchtgeschichte ist nachvollziehbar und dramatisch genug.'
+    Kritik: 'Ablauf wirkt zu glatt, Spannung baut sich nur mäßig auf. Es fehlen Zwischentöne (Zweifel, Unsicherheit, unklare Infos).'
+  Charaktere:
+    Einschaetzung: 'Peter wird als tragische Figur gezeichnet, Eddie bleibt Beobachterin.'
+    Kritik: 'Eddie ist zu passiv; ihre Reaktion wirkt blass. Sie sollte stärker auf Peters Schicksal reagieren (Empathie, Angst, Abwehr).'
+  Sprache:
+    Einschaetzung: 'Klar, präzise, kaum Fehler.'
+    Kritik: 'Sprache zu kühl, wenig Variation. Füllwörter reduziert, aber die Nüchternheit kann distanzierend wirken.'
+  Fazit:
+    Staerken: 'Ernstes Thema, tragische Note, zeigt die Gefährlichkeit der Lage.'
+    Schwaechen: 'Zu nüchtern erzählt, Eddie wirkt passiv, Spannungsaufbau schwach.'
+    Fix: 'Mehr emotionale Reaktionen Eddies einbauen, Unsicherheit betonen, Berichtston durch Innenperspektive ersetzen.'
+---
 
-```json
-{
-  "date": "1985-07-15",
-  "day": "Monday",
-  "daytime": "afternoon",
-  "place": "Haukkajoki, etwa 40 % des Weges nach Vaasa",
-  "persons": [
-    "Peter",
-    "Eddie",
-    "Sabine",
-    "Conny",
-    "Mattie"
-  ],
-  "synopsis": "Peter erzählt von der Ausgrenzung und dem Verlust seiner Familie nach einem Ausreiseantrag; die Gruppe versteht dadurch besser Eddies Flucht.",
-  "mood": "somber but bonding",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "proofreading": {
-    "Kapitel": "320_Peters_Flucht",
-    "Ton": {
-      "Einschaetzung": "Ernst, bedrückt, stärkerer Kontrast zu den vorherigen Kapiteln. Eddie erzählt sachlicher.",
-      "Kritik": "Ton kippt streckenweise ins Berichtshafte, fast protokollarisch. Emotionale Beteiligung von Eddie wirkt reduziert."
-    },
-    "Logik": {
-      "Einschaetzung": "Die Fluchtgeschichte ist nachvollziehbar und dramatisch genug.",
-      "Kritik": "Ablauf wirkt zu glatt, Spannung baut sich nur mäßig auf. Es fehlen Zwischentöne (Zweifel, Unsicherheit, unklare Infos)."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Peter wird als tragische Figur gezeichnet, Eddie bleibt Beobachterin.",
-      "Kritik": "Eddie ist zu passiv; ihre Reaktion wirkt blass. Sie sollte stärker auf Peters Schicksal reagieren (Empathie, Angst, Abwehr)."
-    },
-    "Sprache": {
-      "Einschaetzung": "Klar, präzise, kaum Fehler.",
-      "Kritik": "Sprache zu kühl, wenig Variation. Füllwörter reduziert, aber die Nüchternheit kann distanzierend wirken."
-    },
-    "Fazit": {
-      "Staerken": "Ernstes Thema, tragische Note, zeigt die Gefährlichkeit der Lage.",
-      "Schwaechen": "Zu nüchtern erzählt, Eddie wirkt passiv, Spannungsaufbau schwach.",
-      "Fix": "Mehr emotionale Reaktionen Eddies einbauen, Unsicherheit betonen, Berichtston durch Innenperspektive ersetzen."
-    }
-  }
-}
-```
+# Peters Flucht
 
 Der nächste Abend bringt neuen Regen. Das Trommeln auf dem Dach klingt wie ein
 Takt, zu dem wir schweigend am Feuer sitzen. Die Luft in der Hütte riecht nach

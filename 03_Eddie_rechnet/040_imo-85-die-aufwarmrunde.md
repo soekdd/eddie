@@ -1,18 +1,15 @@
-# IMO 85 – Die Aufwärmrunde
+---
+chapter: 3
+section: 'Eddie rechnet'
+title: 'IMO 85 – Die Aufwärmrunde'
+mode: 'appendix'
+tags:
+  - 'Mathematik'
+  - 'Eddie rechnet'
+synopsis: 'Aufgabe 1: sanfter Einstieg, Schritt für Schritt mit Humor.'
+---
 
-```json
-{
-  "chapter": 3,
-  "section": "Eddie rechnet",
-  "title": "IMO 85 – Die Aufwärmrunde",
-  "mode": "appendix",
-  "tags": [
-    "Mathematik",
-    "Eddie rechnet"
-  ],
-  "synopsis": "Aufgabe 1: sanfter Einstieg, Schritt für Schritt mit Humor."
-}
-```
+# IMO 85 – Die Aufwärmrunde
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.  
 > Eddie erklärt hier launisch, schrittweise und gut nachvollziehbar.  

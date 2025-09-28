@@ -1,47 +1,37 @@
-# Umstyling
+---
+date: '1985-07-05'
+day: 'Friday'
+daytime: 'noon'
+place: 'Toilette Gymnasium Joutsa'
+persons:
+  - 'Eddie'
+synopsis: 'Eddie färbt heimlich ihre Haare mit Schuhcreme und dreht die Jacke um, um unerkannt die Schule zu verlassen.'
+mood: 'tense, desperate, transformative'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'FIN_Joutsa_Haare_faerben.png'
+proofreading:
+  Kapitel: '080_Umstyling'
+  Ton:
+    Einschaetzung: 'Locker, verspielt, Eddie beschreibt das Verändern ihres Aussehens neugierig und witzig.'
+    Kritik: 'Ton kippt stellenweise ins Klamaukige, fast wie Comedy-Sketch. Eddies Nervosität über die Tarnung kommt zu kurz.'
+  Logik:
+    Einschaetzung: 'Umstyling als Schutzmaßnahme plausibel und nachvollziehbar.'
+    Kritik: 'Die Leichtigkeit, mit der Eddie das Umstyling hinnimmt, wirkt unrealistisch. Zweifel („erkenne ich mich noch?“) fehlen.'
+  Charaktere:
+    Einschaetzung: 'Eddie steht im Fokus, selbstironisch, Nebenfiguren als Helfer klar erkennbar.'
+    Kritik: 'Ihre jugendliche Verletzlichkeit wird kaum sichtbar – sie wirkt zu cool. Helferfiguren bleiben blass und ohne eigene Farbe.'
+  Sprache:
+    Einschaetzung: 'Dialogorientiert, humorvoll, lebendig.'
+    Kritik: 'Zu viele Witze auf engem Raum. Füllwörter und Auslassungspunkte häufen sich. Gefahr von Redundanz.'
+  Fazit:
+    Staerken: 'Originelle Szene, zeigt jugendlichen Humor und Eddie als wandelbar.'
+    Schwaechen: 'Zu klamaukig, wenig echte Verunsicherung, Nebenfiguren farblos.'
+    Fix: 'Mehr Unsicherheit und Selbstzweifel einbauen, Witz dosieren, Nebenfiguren aktiver zeichnen.'
+---
 
-```json
-{
-  "date": "1985-07-05",
-  "day": "Friday",
-  "daytime": "noon",
-  "place": "Toilette Gymnasium Joutsa",
-  "persons": [
-    "Eddie"
-  ],
-  "synopsis": "Eddie färbt heimlich ihre Haare mit Schuhcreme und dreht die Jacke um, um unerkannt die Schule zu verlassen.",
-  "mood": "tense, desperate, transformative",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "FIN_Joutsa_Haare_faerben.png"
-  ],
-  "proofreading": {
-    "Kapitel": "080_Umstyling",
-    "Ton": {
-      "Einschaetzung": "Locker, verspielt, Eddie beschreibt das Verändern ihres Aussehens neugierig und witzig.",
-      "Kritik": "Ton kippt stellenweise ins Klamaukige, fast wie Comedy-Sketch. Eddies Nervosität über die Tarnung kommt zu kurz."
-    },
-    "Logik": {
-      "Einschaetzung": "Umstyling als Schutzmaßnahme plausibel und nachvollziehbar.",
-      "Kritik": "Die Leichtigkeit, mit der Eddie das Umstyling hinnimmt, wirkt unrealistisch. Zweifel („erkenne ich mich noch?“) fehlen."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie steht im Fokus, selbstironisch, Nebenfiguren als Helfer klar erkennbar.",
-      "Kritik": "Ihre jugendliche Verletzlichkeit wird kaum sichtbar – sie wirkt zu cool. Helferfiguren bleiben blass und ohne eigene Farbe."
-    },
-    "Sprache": {
-      "Einschaetzung": "Dialogorientiert, humorvoll, lebendig.",
-      "Kritik": "Zu viele Witze auf engem Raum. Füllwörter und Auslassungspunkte häufen sich. Gefahr von Redundanz."
-    },
-    "Fazit": {
-      "Staerken": "Originelle Szene, zeigt jugendlichen Humor und Eddie als wandelbar.",
-      "Schwaechen": "Zu klamaukig, wenig echte Verunsicherung, Nebenfiguren farblos.",
-      "Fix": "Mehr Unsicherheit und Selbstzweifel einbauen, Witz dosieren, Nebenfiguren aktiver zeichnen."
-    }
-  }
-}
-```
+# Umstyling
 
 Ich hocke mich auf den geschlossenen Klo-Deckel. Neonlicht flimmert wie ein
 schlechtes Signal. Herzklopfen, das mir bis in die Ohren hämmert. Jeder

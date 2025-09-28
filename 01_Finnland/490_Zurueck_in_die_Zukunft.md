@@ -1,49 +1,39 @@
-# Zurück in die Zukunft
+---
+date: '1985-08-15'
+day: 'Thursday'
+daytime: 'evening'
+place: 'Kino Vaasa'
+persons:
+  - 'Eddie'
+  - 'Sini'
+  - 'Kinopublikum'
+synopsis: 'Eddie und Sini gehen ins Kino, sehen ''Zurück in die Zukunft'', lachen, albern herum und feiern ihre neu entdeckte Freiheit.'
+mood: 'Playful, carefree, full of laughter and freedom'
+tense: 'present, Eddies first-person perspective'
+mode: 'mainline'
+illustrations:
+  - 'FIN_Vaasa_Sini_spielt_Luftgitarre.png'
+proofreading:
+  Kapitel: '500_Zurueck_in_die_Zukunft'
+  Ton:
+    Einschaetzung: 'Reflektierend, Eddie denkt über Vergangenheit und Zukunft nach.'
+    Kritik: 'Ton sehr erwachsen und analytisch. Gefahr, dass Eddies jugendliche Stimme verschwindet.'
+  Logik:
+    Einschaetzung: 'Verknüpfung von Rückblick und Ausblick plausibel.'
+    Kritik: 'Manche Übergänge wirken konstruiert, fast wie Essay. Wenig spontaner Fluss.'
+  Charaktere:
+    Einschaetzung: 'Eddie steht im Mittelpunkt, sehr reflektiert.'
+    Kritik: 'Ihre jugendliche Unsicherheit fehlt, sie klingt wie eine erwachsene Erzählerin.'
+  Sprache:
+    Einschaetzung: 'Präzise, geordnet.'
+    Kritik: 'Zu essayistisch, kaum jugendliche Direktheit, lange Sätze. Füllwörter fehlen – dadurch unnatürlich glatt.'
+  Fazit:
+    Staerken: 'Ordnet Ereignisse, schafft Klarheit für den Leser.'
+    Schwaechen: 'Zu erwachsen, zu essayistisch, Spannung fehlt.'
+    Fix: 'Mehr jugendliche Gedankensprünge einbauen, Sprache lebendiger machen, Reflexion mit Emotion mischen.'
+---
 
-```json
-{
-  "date": "1985-08-15",
-  "day": "Thursday",
-  "daytime": "evening",
-  "place": "Kino Vaasa",
-  "persons": [
-    "Eddie",
-    "Sini",
-    "Kinopublikum"
-  ],
-  "synopsis": "Eddie und Sini gehen ins Kino, sehen 'Zurück in die Zukunft', lachen, albern herum und feiern ihre neu entdeckte Freiheit.",
-  "mood": "Playful, carefree, full of laughter and freedom",
-  "tense": "present, Eddies first-person perspective",
-  "mode": "mainline",
-  "illustrations": [
-    "FIN_Vaasa_Sini_spielt_Luftgitarre.png"
-  ],
-  "proofreading": {
-    "Kapitel": "500_Zurueck_in_die_Zukunft",
-    "Ton": {
-      "Einschaetzung": "Reflektierend, Eddie denkt über Vergangenheit und Zukunft nach.",
-      "Kritik": "Ton sehr erwachsen und analytisch. Gefahr, dass Eddies jugendliche Stimme verschwindet."
-    },
-    "Logik": {
-      "Einschaetzung": "Verknüpfung von Rückblick und Ausblick plausibel.",
-      "Kritik": "Manche Übergänge wirken konstruiert, fast wie Essay. Wenig spontaner Fluss."
-    },
-    "Charaktere": {
-      "Einschaetzung": "Eddie steht im Mittelpunkt, sehr reflektiert.",
-      "Kritik": "Ihre jugendliche Unsicherheit fehlt, sie klingt wie eine erwachsene Erzählerin."
-    },
-    "Sprache": {
-      "Einschaetzung": "Präzise, geordnet.",
-      "Kritik": "Zu essayistisch, kaum jugendliche Direktheit, lange Sätze. Füllwörter fehlen – dadurch unnatürlich glatt."
-    },
-    "Fazit": {
-      "Staerken": "Ordnet Ereignisse, schafft Klarheit für den Leser.",
-      "Schwaechen": "Zu erwachsen, zu essayistisch, Spannung fehlt.",
-      "Fix": "Mehr jugendliche Gedankensprünge einbauen, Sprache lebendiger machen, Reflexion mit Emotion mischen."
-    }
-  }
-}
-```
+# Zurück in die Zukunft
 
 Wir kommen von der Brücke, Wind im Gesicht, das Wasser rauscht unter uns, und
 Sini riecht noch nach Hafen und Metall und einem Hauch Diesel. „Komm, heute
