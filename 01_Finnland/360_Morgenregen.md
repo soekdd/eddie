@@ -192,7 +192,8 @@ Himmel die Dusche vergessen zuzudrehen. Ich stolpere weiter, die Schuhe saugen
 sich voll, das Moos zieht mir fast die Sohlen ab. Auf der Karte steht „Laavu“,
 aber da ist nur ein Picknickdach. Der Wind peitscht den Regen darunter. Ich
 ziehe mein Hemd aus, wringe es aus, hänge es an einen rostigen Nagel – es tropft
-schneller, als es trocknet.
+schneller, als es trocknet. Mit Ästen versuche ich das Picknickdach wenigstens
+in eine Richtung gegen Wind und Regen zu schützen.
 
 Die Mücken sind schlimmer als der Regen. Mein Spray ist fast leer, jeder
 Sprühstoß ist schon Panik. Sie stürzen sich trotzdem auf mich, als hätten sie
