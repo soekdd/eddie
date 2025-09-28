@@ -46,7 +46,7 @@ Es ist etwa 19 Uhr. Die Mittsommersonne steht noch nicht sehr tief, aber die
 meisten Autos auf der Straße haben schon Scheinwerfer an. Am Ende der Straße
 biegt ein Lada ein. Die sieht man hier sehr häufig.
 
-„Duck dich, Diplomatenkennzeichen“, ruft Raija.
+„Perkele! Duck dich, Diplomatenkennzeichen“, ruft Raija.
 
 Das werden die Männer von Mielke sein. Ich rutsche tief in den Sitz ihres
 kleinen Autos. Ein paar Minuten später gibt mir Raija zu erkennen, dass ich mich
