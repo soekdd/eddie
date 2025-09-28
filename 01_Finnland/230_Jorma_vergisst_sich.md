@@ -13,23 +13,23 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Jyvaeskylae_Jorma.png'
 proofreading:
-  Kapitel: '240_Jorma_vergisst_sich'
+  Kapitel: '230_Jorma_vergisst_sich'
   Ton:
-    Einschaetzung: 'Aufgeladen, emotional, Eddie schildert eine Szene, in der Grenzen überschritten werden.'
-    Kritik: 'Ton schwankt zwischen nüchternem Bericht und emotionaler Reaktion. Teilweise wirkt es zu kontrolliert für die Dramatik des Moments.'
+    Einschaetzung: 'Bedrohlich, körpernah, unmittelbare Eskalation; Fluchtenergie klar spürbar.'
+    Kritik: 'Eddies Schimpfrede wirkt stellenweise zu geordnet für den Adrenalinschub. Kürzere, abgebrochene Sätze könnten die Überforderung besser transportieren.'
   Logik:
-    Einschaetzung: 'Die Eskalation mit Jorma ist nachvollziehbar und fügt sich in die Handlung.'
-    Kritik: 'Die Dynamik entwickelt sich etwas abrupt, Zwischenschritte oder innere Warnsignale könnten stärker herausgearbeitet werden.'
+    Einschaetzung: 'Jormas Betrunkenheit + Übergriff → Eddie flieht; kurz darauf Stasi-Besuch und kontrollierende Suche: schlüssig im etablierten Setting.'
+    Kritik: 'Timing/Motivation: Warum lässt Jorma die Männer sofort rein? Mini-Andeutung (Angst, Opportunismus, gekränkter Stolz) würde sein Handeln plausibler erden.'
   Charaktere:
-    Einschaetzung: 'Eddie als verletzliche Figur klar erkennbar, Jorma als aggressiver Gegenpart.'
-    Kritik: 'Eddies innere Reaktionen (Schock, Wut, Panik) bleiben eher abstrakt. Jorma wirkt klischeehaft eindimensional als Antagonist.'
+    Einschaetzung: 'Eddie zeigt Widerstand und Überlebensreflexe; Jorma als Täter mit Bruch (Weinen) nachvollziehbar.'
+    Kritik: 'Eddies Körperreaktionen (Tinnitus, zittrige Hände, Tunnelblick, flache Atmung) noch punktuell nachschärfen; Jormas Kollaps mit einem Moment von Scham/Verdrängung nuancieren.'
   Sprache:
-    Einschaetzung: 'Direkt, spannungsvoll.'
-    Kritik: 'Manche Formulierungen sind zu glatt oder literarisch. Spontane, jugendliche Sprache und körperliche Beschreibungen könnten stärker betont werden.'
+    Einschaetzung: 'Direkt, szenisch, klare Sinneseindrücke (Schnapsgeruch, Griff, Straßenbild).'
+    Kritik: 'Monolog-Passage straffen; mehr fragmentierte Gedanken einstreuen; 1–2 akustische Marker (Schlüssel, Motor im Hof) zur Verdichtung.'
   Fazit:
-    Staerken: 'Intensive Szene, verdeutlicht Bedrohung und Grenzüberschreitung.'
-    Schwaechen: 'Zu kontrolliert erzählt, Emotionen fehlen an Tiefe, Jorma eindimensional.'
-    Fix: 'Eddies körperliche Angstreaktionen und chaotische Gedanken stärker einbauen, Jormas Verhalten nuancierter darstellen, Sprache emotionaler machen.'
+    Staerken: 'Hohe Spannung, klare Entscheidung der Figur, konsequente Weiterführung der Vaasa-Fluchtachse.'
+    Schwaechen: 'Outburst etwas zu rhetorisch; Jormas Mitwirken an der Durchsuchung braucht eine Mikro-Motivation.'
+    Fix: 'Rede zerhacken (Atempausen, Satzabbrüche), 2–3 körperliche Reaktionen Eddies ergänzen, eine Halbsatz-Andeutung zu Jormas Motiv einfügen, 1–2 Umgebungsgeräusche setzen.'
 ---
 
 # Jorma vergisst sich
