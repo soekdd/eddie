@@ -68,8 +68,8 @@ entwischt ihr.
 „Sehr schlechte Nachrichten.“
 
 Raija ruft ihren Chef, und gemeinsam betrachten sie das noch unfertige Dokument
-im Drucker. Ein derber Fluch entweicht ihm, und Raijas Chef schlägt mit der
-Faust auf den Tisch neben dem Gerät.
+im Drucker. „Vittu saatana perkele!“, entfährt es ihr, und ihr Chef schlägt mit
+der Faust auf den Tisch neben dem Gerät.
 
 „Was steht drin?“, frage ich ängstlich.
 
