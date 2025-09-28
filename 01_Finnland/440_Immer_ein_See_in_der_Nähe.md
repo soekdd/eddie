@@ -65,6 +65,10 @@ kein Stechen mehr.
 Dann kehre ich zum Zettel zurück. Ich male Finnland auf Küchenrolle, setze
 kleine blaue Tupfer für Seen. Ich rechne Flächen und Uferlängen, schreibe
 „Randaufdickung“ daneben und lache, weil das klingt wie ein finnisches Dessert.
+
+> **➡ Tausend Seen**\
+> (…Im Band „Eddie rechnet“, Kapitel 14 zeige ich die ausführliche Rechnung.)
+
 (Die ernsthafte Rechnung: siehe
 Eddie_rechnet_Tag3_Tausend_Seen_Wahrscheinlichkeit.md.)
 

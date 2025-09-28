@@ -1,3 +1,101 @@
+# Brücke in die Sackgasse
+
+```json
+{
+  "title": "Brücke in die Sackgasse",
+  "chapter_id": "FIN_Vaskiluoto_Bruecke_Sackgasse",
+  "date_from": "1985-07-29",
+  "date_to": "1985-08-03",
+  "tense": "present",
+  "pov": "Eddie, first-person",
+  "mode": "mainline",
+  "mood": [
+    "stur",
+    "krank",
+    "erschöpft",
+    "paranoid",
+    "verzweifelt",
+    "hoffnungssuchend"
+  ],
+  "themes": [
+    "Zähigkeit gegen Zusammenbruch",
+    "Paranoia vs. Hilfe",
+    "Illusion eines Plans",
+    "Fähre als Sehnsuchtsort"
+  ],
+  "persons": [
+    "Eddie",
+    "Sini (am Ende)",
+    "Terminalmitarbeiter:innen"
+  ],
+  "weather_summary": "dauernder Regen, nasse Kälte, Wind; auf der Vaskiluoto-Brücke starker Querwind",
+  "synopsis": "Eddie schleppt sich tagelang Richtung Vaasa, wird kränker, kauft in Laihia das Nötigste und erkennt: Das Geld reicht nicht. Nach Nächten in Laavus (Pohjoismäki, Kempinneva, Haarinneva), einem trockenen Kasten in Kaarluoma und einem zugigen Turm am Öjberget erreicht sie im Sturm die lange Brücke nach Vasklot/Vaskiluoto. Vor dem Terminal bricht sie zusammen. Drinnen bekommt sie Decke und Tee – und trifft erstmals Sini, die sie beruhigt und bleibt.",
+  "health_flags": [
+    "hohes Fieber",
+    "anhaltender Husten",
+    "aufgeweichte, entzündete Füße",
+    "Erschöpfung/Unterzuckerung",
+    "Delir/Paranoia"
+  ],
+  "sensory_focus": [
+    "Regen als ständiges Prasseln",
+    "Windböen auf Metallbrücke",
+    "Geruch von Putzmittel im Terminal",
+    "kalter Schlamm, nasse Kleidung",
+    "Lichter der Stadt als fernes Flimmern"
+  ],
+  "overnights": [
+    { "type": "Lean-to/Picknickdach", "name": "Pohjoismäki laavu" },
+    { "type": "Lean-to", "name": "Kempinnevan laavu" },
+    { "type": "Lean-to", "name": "Haarinneva laavu" },
+    { "type": "Schutzhütte", "name": "Kaarluoma" },
+    { "type": "unter Aussichtsturm", "name": "Öjberget (Vaasa)" }
+  ],
+  "nearest_cities": [
+    "Laihia",
+    "Vaasa"
+  ],
+  "illustrations": [
+    "FIN_Vaskiluoto_Bridge.png",
+    "FIN_Vaasa_Terminal_Collapse.png"
+  ],
+  "continuity": {
+    "before": [
+      "370_Raster_aus_Regen"
+    ],
+    "after": [
+      "390_Das_Maedchen_mit_den_blauen_Haaren"
+    ]
+  },
+  "approx_word_count": 1200,
+  "updated": "2025-09-28",
+  "proofreading": {
+    "Kapitel": "380_Bruecke_in_die_Sackgasse",
+    "Ton": {
+      "Einschaetzung": "Düster, fiebrig, eindringlich; starke körpernahe Wahrnehmung.",
+      "Kritik": "Mehr jugendliche Spontaneität an einigen Stellen wünschenswert; vereinzelt pathetische Bilder glätten."
+    },
+    "Logik": {
+      "Einschaetzung": "Route und Eskalation des Zustands plausibel; Vaasa-Ankunft stimmig.",
+      "Kritik": "Zeitmarken andeuten (z. B. Wochentage), um das Ende (1985-08-03) klarer zu verorten."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Eddie als zäher, aber zerbrechender Pol; Sini tritt am Ende als ruhiger Anker auf.",
+      "Kritik": "Kurze Reaktion auf Hilfe von Fremden (Scham vs. Erleichterung) noch etwas vertiefen."
+    },
+    "Sprache": {
+      "Einschaetzung": "Bildhaft, rhythmisch, mit wiederkehrenden Motiven (Regen, Wind, Brücke).",
+      "Kritik": "Einige Metaphern wiederholen sich; kleine Straffung möglich."
+    },
+    "Fazit": {
+      "Staerken": "Intensive, körpernahe Schilderung, klare Rampe ins Vaasa-Set.",
+      "Schwaechen": "Zeitlinie minimal schärfen; Ton an 1–2 Stellen entpathetisieren.",
+      "Fix": "Mini-Timestamps (‚Samstagabend‘, ‚früher Morgen‘) einfügen; 1–2 Bilder vereinfachen."
+    }
+  }
+}
+```
+
 Die Laavu in Pohjoismäki ist wieder nur ein Picknickdach. Ich lege mich darunter
 wie ein nasser Hund und schaue auf ein Haus in der Nähe, wo hinter dünnen
 Gardinen Licht glimmt. Ich könnte hingehen. Ich könnte klingeln. Aber das Fieber

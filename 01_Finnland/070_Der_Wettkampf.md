@@ -51,6 +51,9 @@ rechne die hier alle an die Wand, und wenn sie dann meinen Namen bei der
 Siegerehrung aufrufen – bin ich weg. Kleiner Triumph. Schock für die Bonzen.
 Aber jetzt? Ich kriege nicht mal den Anfang hin.
 
+> **➡ IMO 1985 1-6**\
+> (An den Aufgaben liegt es wirklich nicht. Im Band „Eddie rechnet“, Kapitel 4-9, rechne ich sie ausführlich vor.)
+
 Die Uhr tickt über der Tür, viel zu laut, viel zu lahm, viel zu schnell. Alles
 gleichzeitig. Ich weiß nicht mal mehr, wovor ich mehr Schiss hab – dass mir die
 Zeit durch die Finger rinnt oder dass sie einfach nie vergeht. Jeder Strich der

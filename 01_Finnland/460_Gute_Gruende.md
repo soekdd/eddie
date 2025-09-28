@@ -135,7 +135,7 @@ Ich rolle mit den Augen und rede weiter.
 Riesa, aber in Dresden hatten wir die Manos, offiziell: Erweiterte Oberschule
 Martin-Andersen-Nexö – alle sagten nur Manos. Kein Matheinternat, aber vom
 Anspruch ähnlich. Für mich klang das nach Himmel: weniger Gequatsche, mehr
-Zahlen. Gleich Anfang der Achten gab’s ein Elterngespräch mit dem Direktor der
+Zahlen. Gleich Anfang der Achten gab’s ein Elterngespräch mit dem Direchs der
 Manos plus die Einladung zu einem Aufnahmetest im Frühjahr.“
 
 „Und du hast ihn mit links bestanden“, sagt Sini.

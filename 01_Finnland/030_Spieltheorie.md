@@ -78,8 +78,8 @@ dass Mielke nicht am nächsten Halt einsteigt, mich packt und „zurück nach Ha
 bellt. Kombiniert bleiben knapp unter zehn Prozent Siegquote übrig. Zehn! Für
 ein Leben.
 
-> Spieltheorie und Entscheidungsbäume…
-> (Die Mini-Rechnung ging jetzt etwas schnell: Im Band „Eddie rechnet“, Kapitel 1, packe ich sie Schritt für Schritt aus.)
+> **➡ Spieltheorie und Entscheidungsbäume**
+> (Die Mini-Rechnung ging jetzt etwas schnell: Im Band „Eddie rechnet“, Kapitel 2, packe ich sie Schritt für Schritt aus.)
 
 Und falls der Bus nur drei Minuten hält? Dann rutscht die Chance auf sechs
 Prozent. Da kann ich gleich Lotto spielen.

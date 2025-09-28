@@ -115,6 +115,9 @@ Sie lacht. Es ist dieses tiefe Lachen, das zuerst in den Schultern anfängt und
 dann auf dem Tisch landet. „Arme Fische“, sagt sie und beißt in eins.
 „Statistisch unvermeidbar.“
 
+> **➡ Fischsee**\
+> (…Unser Hunger ist eindeutig zu groß um drei Jahre lang zu warten. Im Band „Eddie rechnet“, Kapitel 12 rechne ich die ganze Reihe aber ausführlich.)
+
 Wir essen, und das Brutzeln in der Pfanne ist noch als Echo in der Luft. Ich
 beobachte ihre Hände – schnell, sicher, kleine Narbe am Zeigefinger. „Woher hast
 du die Aufgabe eigentlich?“, frage ich und tue so, als würde ich nur beiläufig

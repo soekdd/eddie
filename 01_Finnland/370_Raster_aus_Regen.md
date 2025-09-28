@@ -239,6 +239,9 @@ Nach Stunden endlich: eine Kante, ein Schlag, gezackt wie auf der Karte.
 Treffer. Ich bin wieder drin. Ich lache heiser, es klingt wie ein Tiergeräusch.
 Kein Triumph. Nur nacktes Überleben.
 
+> **➡ Daneben ist genau richtig**\
+> (…Papa lehrte mich eine ganze Reihe von Navigationstricks. Im Band „Eddie rechnet“, Kapitel 11 stelle ich einige davon vor.)
+
 Der Preis: fast vierzig Kilometer an diesem Tag. Keine Heldin, nur ein
 zerfetztes Mädchen. Als ich die Kurpanvuoren laavu erreiche, falle ich einfach
 in den Unterstand. Kein Feuer, kein Essen. Nur Husten, der durch mich schlägt

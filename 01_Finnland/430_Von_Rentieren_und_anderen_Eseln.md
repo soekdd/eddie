@@ -106,6 +106,9 @@ Wir essen. Ich erkläre noch einmal die Strategie, diesmal spielerisch: „Depot
 eins: hier am Tisch. Depot zwei: deine Jackentasche. Enddistanz: bis zum Sofa,
 bevor wir umfallen.“ Sie lacht laut, kippt fast vom Stuhl.
 
+> **➡ Rentier-Depot**\
+> (…Oft schreibt man diese Aufgabe so, als sei es Napoleon, der seinen Feldzug plant. Doch Sinis Rentiere passen viel besser zum finnischen Erfinder der Aufgabe. Kapitel 13, im Band „Eddie rechnet“)
+
 Später schreibe ich „Rentier-Depot – bestanden“ unter die Aufgabe, falte den
 Zettel, stecke ihn zu dem vom Vortag. Sie riechen inzwischen nach Kaffee,
 Kartoffeln und einem Hauch Geheimnis. Ich lege meine Füße hoch. Sie danken es

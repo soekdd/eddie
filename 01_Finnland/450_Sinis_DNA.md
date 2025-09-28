@@ -184,6 +184,9 @@ Papier, Ränder wie Landkarten einer langen Reise. Vielleicht ist es das schöns
 Geschenk, das ich je gemacht habe. Jetzt brauche ich nur noch einen Rahmen.
 Irgendwo in dieser Wohnung muss doch ein alter Bilderrahmen herumliegen…
 
+> **➡ Ich zeig Dir Deine DNA**\
+> (…Mal ausnahmsweise keine Berechnung, sondern ein persönliches Geschenk für Biologie-Nerds und andere schlaue Köpfe. Im Kapitel 15 von Band „Eddie rechnet“, habe ich alle Buchstaben als Codons hinterlegt.)
+
 Am Abend schlüpfe ich dann wieder in meine schwarzen Bergschuhe. Zum ersten Mal
 seit über einer Woche wage ich es – meine Füße protestieren kaum noch, und doch
 hasse und liebe ich dieses einzige Paar Schuhe zugleich. Sie haben mich

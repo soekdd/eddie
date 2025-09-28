@@ -1,3 +1,62 @@
+# Das Mädchen mit den blauen Haaren
+
+```json
+{
+  "title": "Das Mädchen mit den blauen Haaren",
+  "date": "1985-08-05",
+  "day": "Monday",
+  "daytime": "day",
+  "place": "Wasaline Terminal (Vaskiluoto/Vasklot), Vaasa → später Sinis Wohnung",
+  "persons": [
+    "Eddie",
+    "Sini",
+    "Shuttlefahrer (Riese)"
+  ],
+  "synopsis": "Eddie kommt fieberkrank im Vaasa-Terminal zu sich. Das Mädchen mit den blauen Haaren – Sini – versorgt sie mit Suppe und verbindet ihre aufgeweichten Füße. Sini verrät, dass im Juli graue Männer nach Eddie fragten, drängt nun aber auf Ruhe: Erst gesund werden, dann nach günstigen Busgruppen für die Fähre fragen. Am Abend kippt Eddies Zustand, ein großer Fahrer trägt sie in einen Shuttlebus; Sini bringt Eddie in ihre kleine Wohnung. Fade out.",
+  "mood": "fiebrig, verunsichert, fürsorglich, warm, hoffnungsvoll",
+  "tense": "present, Eddies first-person perspective",
+  "mode": "mainline",
+  "illustrations": [
+    "FIN_Vaasa_Das_Maedchen_mit_den_blauen_Haaren.png",
+    "FIN_Vaasa_Shuttlebus_Transfer.png"
+  ],
+  "continuity": {
+    "before": [
+      "380_Bruecke_in_die_Sackgasse (Zusammenbruch am Terminal)"
+    ],
+    "after": [
+      "400_Schuetzengraeben (Arzt, Diagnose Schützengrabensfuß)",
+      "410_Keine_Eile (erster Vaasa-Tag)"
+    ]
+  },
+  "updated": "2025-09-28",
+  "proofreading": {
+    "Kapitel": "390_Das_Maedchen_mit_den_blauen_Haaren",
+    "Ton": {
+      "Einschaetzung": "Zärtlich-fürsorglich mit fiebriger Verunsicherung; Eddies Blick bleibt körpernah und konkret.",
+      "Kritik": "Einzelne Bilder (z. B. \"Winter-Indianer\") können sensibel nachgeschärft werden, um klischeehafte Zuschreibungen zu vermeiden."
+    },
+    "Logik": {
+      "Einschaetzung": "Chronologie schlüssig: Terminal → Pflege → Shuttle → Wohnung; Anschluss zu 400/410 klar.",
+      "Kritik": "Zeitmarker (Tageszeit) könnten minimal präzisiert werden, um den Übergang zum Arztbesuch in 400 noch fließender zu machen."
+    },
+    "Charaktere": {
+      "Einschaetzung": "Sini wirkt kompetent, warm und pragmatisch; Eddie verletzlich, aber entschieden.",
+      "Kritik": "Kurz die Reaktion Eddies auf die Info über die \"grauen Männer\" vertiefen (Körperreaktion/Impuls vs. Erleichterung)."
+    },
+    "Sprache": {
+      "Einschaetzung": "Anschaulich, nah an Sinneseindrücken (Geruch, Tastsinn, Geräusche).",
+      "Kritik": "Vereinzelte lange Sätze straffen; kleine Jugendsprache-Nuancen könnten die Stimme noch jugendlicher machen."
+    },
+    "Fazit": {
+      "Staerken": "Intime Kennenlern-Szene, glaubhafte Fürsorge, klare Rampe für die Vaasa-Sequenz.",
+      "Schwaechen": "Sensitivitätsstelle bei Zuschreibungen, minimale Zeitunschärfe am Abend.",
+      "Fix": "Formulierung an der sensiblen Stelle behutsam modernisieren; 1–2 Mikromarker für Tageszeit setzen (z. B. Uhrzeit, Schichtende)."
+    }
+  }
+}
+```
+
 Regen trommelt gegen die Fenster. Jemand zieht mir die Decke bis an die
 Schultern, und ich blinzle ins milchige Licht des Morgens. Mein Kopf ist nicht
 mehr brennend, nur schwer. Neben mir hockt sie – das Mädchen mit den blauen
