@@ -21,7 +21,7 @@ persons:
 locations:
   elamyskota:
     name: 'Elämyskota Haukkajoki'
-    note: 'Gebuchte Blockhütte, etwa 40 % der Strecke nach Vaasa'
+    note: 'Gebuchte Blockhütte, etwa 30 % der Strecke nach Vaasa'
   paddelroute:
     name: 'Seen & Waldwege zwischen Tampere und Vaasa'
     note: 'Faltboot-Expedition der Paderborner Gruppe'

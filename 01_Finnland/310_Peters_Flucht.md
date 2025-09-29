@@ -64,6 +64,15 @@ viele einfach auf die andere Seite gewechselt. Und das Haus … ja, das mussten
 wir verkaufen. Da gab es keine Wahl. Weit unter Wert, versteht sich. Die Käufer?
 Immer dieselben: Parteifunktionäre, die solche Schnäppchen abgreifen konnten.“
 
+Da halte ich es nicht mehr aus. „Oh ja“, sage ich, und die Worte sind lauter,
+als ich wollte. „Davon habe ich gehört. Familien haben jahrelang an ihren
+Häusern gebaut, mit allen Tricks Material zusammengesucht. Und dann kamen die
+Bonzen und haben sich einfach ins gemachte Nest gesetzt.“
+
+Peter nickt mir dankbar zu. Die anderen sehen uns an – und ich merke, dass sie
+begreifen, es sind nicht nur seine Erinnerungen, sondern etwas, das wir alle
+kannten.
+
 Seine Stimme wird leiser. „Das Schlimmste war das Warten. Es war wie eine Art
 psychologische Kriegsführung. Man wusste nie, ob der Antrag überhaupt durchgeht.
 Jahre vergingen. Bei uns waren es fünf Jahre. In dieser Zeit hat die Stasi
@@ -100,7 +109,7 @@ seinen Angehörigen drohte, und dass die Ausgrenzung durch Kollegen und Behörde
 fast immer folgte.
 
 Die Stimmung entspannt sich langsam. Die Paare kuscheln sich aneinander, und ich
-liege da, wach, aber nicht mehr allein mit meinen Ängsten. Die vier haben meine
-Geschichte gehört; sie haben die Härte dahinter verstanden. Ob sie es ganz
+liege da, wach, aber nicht mehr allein mit meinen Ängsten. Die drei haben unsere
+Geschichten gehört; sie haben die Härte dahinter verstanden. Ob sie es ganz
 begreifen? Vielleicht nicht in jedem Detail. Aber sie sehen jetzt, warum ich
 weglief. Und das reicht mir für diese Nacht.

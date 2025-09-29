@@ -61,7 +61,7 @@ zuzurufen: „Na, Mädchen, willkommen im Osten des Westen!“
 Zwischen den Straßenbahnen, Bussen, Autos und Menschenmassen fühle ich mich wie
 eine Ameise. Überall Werbung, Stimmen, Hektik. Ich finde nach einigem Herumirren
 die Polizeistation – und bleibe auf der anderen Straßenseite stehen. Grau,
-bedrohlich. Klar wird mir: Das ist eine saublöde Idee. Die suchen mich doch
+bedrohlich. Mir wird klar: Das ist eine saublöde Idee. Die suchen mich doch
 immer noch. Da kann ich nicht einfach reinspazieren und nach Raija fragen. Also
 tue ich so, als ob ich zufällig vorbeilaufe, und gehe einfach weiter.
 
@@ -78,15 +78,15 @@ Daneben liegt ein Pflanzenbuch. Bunte Abbildungen von Beeren, Pilzen, Kräutern,
 richtig schön gemalt. Der Text – unverständlich wie Marsianisch. Der Verkäufer,
 ein alter Mann mit schiefem Hut, macht eine Handbewegung zum Mund. Essen? Ich
 starre ihn an. Hä? Ach so! Essbare Pflanzen! Ich schlage irgendeine Seite auf,
-tippe aufs Bild, mache Kaubewegungen. Er nickt eifrig.
+tippe aufs Bild, schaue ihn an und mache Kaubewegungen. Er nickt eifrig.
 
 Ich halte das Buch hoch. „Syötävät Villikasvit Suomessa“, steht vorne drauf.
 Heißt bestimmt irgendwas mit Pflanzen, denke ich. Mein Vater hat mir
 beigebracht, welche Pilze essbar und welche tödlich sind. Ich blättere und prüfe
-stichprobenartig. Ja, das könnte echt ein Essensführer sein. Und jetzt ist Juli,
-die Wälder müssen voll davon sein. Ich spüre, wie in meinem Kopf plötzlich ein
-Schalter umlegt: Untertauchen? Einfach im Wald verschwinden, bis Mielke mich
-vergessen hat?
+stichprobenartig. Ja, das könnte echt ein Führer über essbare Pflanzen sein. Und
+jetzt ist Juli, die Wälder müssen voll davon sein. Ich spüre, wie in meinem Kopf
+plötzlich ein Schalter umlegt: Untertauchen? Einfach im Wald verschwinden, bis
+Mielke mich vergessen hat?
 
 Doch nur in den finnischen Wäldern leben, irgendwo in der Nähe von Tampere oder
 Jyväskylä, wäre das wirklich eine Lösung? Oder ist es besser, den Wald als
@@ -105,24 +105,27 @@ Ich suche einen Straßenatlas auf dem Büchertisch. Mein Blick bleibt an Stockho
 hängen. Ein Wort, das nach Ferne klingt. Nach Westen. Nach der Welt hinter der
 Grenze. Stockholm hat doch auch eine westdeutsche Botschaft. Warum nicht
 dorthin? Es ist weit weg, ja, aber vielleicht gerade deshalb sicherer. Sicher zu
-weit selbst für Mielke. Und der Weg dorthin? Eine Fähre fährt von Vaasa nach
-Schweden. Ich folge mit dem Finger den Straßen: Von hier aus 300 Kilometer
-Autobahn bis Vaasa, vielleicht 350 bis 400 Kilometer zu Fuß. Jeden Tag 20
-Kilometer: drei Wochen. Drei Wochen, in denen ich unsichtbar sein könnte. Kein
-Ticket, keine Papiere, keine Botschaft. Nur ich. Vollkommen unabhängig. Machbar?
-Vielleicht sogar besser als Helsinki.
+weit selbst für Mielke. Und der Weg dorthin? Eine Fähre fährt vom finnischen
+Vaasa nach Schweden. Ich folge mit dem Finger den Straßen: Von hier aus 300
+Kilometer Autobahn bis Vaasa, vielleicht 350 bis 400 Kilometer zu Fuß. Jeden Tag
+20 Kilometer: drei Wochen. Drei Wochen, in denen ich unsichtbar sein könnte.
+Kein Ticket, keine Papiere, keine Botschaft. Nur ich. Vollkommen unabhängig.
+Machbar? Vielleicht sogar besser als Helsinki.
 
 Der Alte drückt mir noch ein zweites Buch in die Hand: Laavujen Opas:
 Pohjois-Länsi-Suomi. „Opas?“ Ich kichere. Was für Opas? Beim Aufschlagen wird’s
-klar: Laavus sind Schutzhütten. Kleine Holzhäuschen im Wald, seitenweise
+klar: Laavus sind Schutzhütten. Kleine Holzhäuschen im Wald, meist nach vorne
+offen, also für jedermann nutzbar. Im Anhang seitenweise Tabellen mit
 Koordinaten. Ich teste sofort und suche eine Hütte bei Tampere, gleiche die
-Koordinaten mit einer Karte ab – und tatsächlich: da ist ein kleiner See mit
-Häuschen eingezeichnet. Finnland ist übersät damit! Manche nur Picknickdächer,
-andere winzig für zwei Schlafsäcke, wieder andere groß genug für fünf Leute.
+Koordinaten mit einer Wanderkarte ab – und tatsächlich: da ist ein kleiner See
+mit Häuschen eingezeichnet. Finnland ist übersät damit! Manche nur
+Picknickdächer, andere winzig für zwei Schlafsäcke, wieder andere groß wie halbe
+Häuser.
 
 Mein Kopf summt. Das ist es! Von Tampere nach Vaasa, durch Wälder, Hütten als
 Stationen. Keine Hotels, keine Tickets. Mein eigenes System. Und am Ende nicht
-Helsinki, sondern Stockholm. Nicht der erwartete Weg, sondern meiner.
+Helsinki, sondern Stockholm. Nicht der erwartete Weg, sondern mein eigener,
+geheimer.
 
 Und in diesem Moment weiß ich: Genau das mache ich. Kein Zögern mehr, kein
 „vielleicht“. Ich entscheide mich. Die große Wanderung wird mein Weg sein, der
@@ -138,14 +141,13 @@ Handeln ist knifflig. Manche reden Brocken Englisch, andere nur mit Händen.
 Einer fängt auf Russisch an – fast ein Schock. Diese Sprache verfolgt mich! Aber
 immerhin: Ich drücke die Preise immer etwas runter.
 
-Am Ende habe ich 230 Markka ausgegeben. Und ich halte meine Beute wie einen
-Pokal.
+Am Ende habe ich 230 Markka ausgegeben.
 
 Beim Lebensmittelhändler geht’s an die Kalorien. 50 Kilo Gewicht, 20 Kilometer
-am Tag – ich brauche etwa 250 Gramm Nudeln oder Reis täglich. Macht 4 Kilo für
-20 Tage. Viel zu schwer! Also nehme ich 2 Kilo: ein Kilo Nudeln, ein Kilo Reis.
-Den Rest finde oder kaufe ich unterwegs. Pflanzen aus dem Buch sind nur Beilage.
-Gesund, lecker – aber kein Benzin.
+am Tag. Die Pflanzen aus dem Buch sind nur Beilage. Gesund, lecker aber kein
+Benzin. Ich brauche etwa 250 Gramm Nudeln oder Reis täglich. Macht 4 Kilo für 20
+Tage. Viel zu schwer! Also nehme ich 2 Kilo: ein Kilo Nudeln, ein Kilo Reis. Den
+Rest finde oder kaufe ich unterwegs.
 
 Ich muss lachen. Diophantos, der alte Grieche mit seinen Bauern und Kühen, würde
 staunen: Meine Gleichung heißt Überleben. Bauer Eddie hat nun zwei Pfund Reis

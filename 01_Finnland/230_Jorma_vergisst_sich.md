@@ -16,7 +16,7 @@ proofreading:
   Kapitel: '230_Jorma_vergisst_sich'
   Ton:
     Einschaetzung: 'Bedrohlich, körpernah, unmittelbare Eskalation; Fluchtenergie klar spürbar.'
-    Kritik: 'Eddies Schimpfrede wirkt stellenweise zu geordnet für den Adrenalinschub. Kürzere, abgebrochene Sätze könnten die Überforderung besser transportieren.'
+    Kritik: 'Erledigt: Eddies Schimpfrede wirkt stellenweise zu geordnet für den Adrenalinschub. Kürzere, abgebrochene Sätze könnten die Überforderung besser transportieren.'
   Logik:
     Einschaetzung: 'Jormas Betrunkenheit + Übergriff → Eddie flieht; kurz darauf Stasi-Besuch und kontrollierende Suche: schlüssig im etablierten Setting.'
     Kritik: 'Timing/Motivation: Warum lässt Jorma die Männer sofort rein? Mini-Andeutung (Angst, Opportunismus, gekränkter Stolz) würde sein Handeln plausibler erden.'
@@ -65,10 +65,11 @@ und beugt sich noch weiter herunter. Der Geruch nach Schnaps schlägt mir ins
 Gesicht, als er versucht, mich zu küssen.
 
 Mir schießt das Blut in den Kopf. Ich stoße ihn ein zweites Mal weg und schreie:
-„Du bist widerlich, Jorma! Du schwärmst von der DDR, während du im freien Westen
-lebst. Du redest von Idealen, aber du bist nur feige. Du lässt dich von Raija
-aushalten, obwohl du sie nicht respektierst. Und dann machst du dich an Mädchen
-ran, die viel zu jung für dich sind. Hast du überhaupt noch einen Funken Würde?“
+„Du bist widerlich, Jorma. Widerlich. Du schwärmst von der DDR … und lebst hier.
+Im freien Westen. Merkst du’s? Du redest von Idealen — und du bist feige. Du
+lässt dich von Raija aushalten. Respektierst sie nicht mal. Und dann machst du
+dich an Mädchen ran. Viel zu jung. Finger weg, Mann! Hast du überhaupt noch
+einen Funken Würde?“
 
 Sein Gesicht verzerrt sich. Plötzlich holt er aus und schlägt mich ins Gesicht.
 Der Schmerz brennt, mein Ohr rauscht. Für einen Moment denke ich, er schlägt
@@ -103,7 +104,8 @@ Tür.
 
 Mein Herz hämmert. Er lässt sie einfach rein. Kein Zögern, kein Widerstand. Als
 hätte er nur auf diesen Moment gewartet. Ich spüre, wie mir der Magen umkippt.
-Raija kämpft um meine Sicherheit – und er spielt Türsteher für die Stasi.
+Raija kämpft um meine Sicherheit – und er spielt Türsteher für die Stasi. Steckt
+er mit ihnen unter eine Decke?
 
 Ich kauere tiefer ins Grün. Minuten später sehe ich die Männer wieder
 herauskommen. Ihre Gesichter sind finster, als hätten sie nicht gefunden, wonach

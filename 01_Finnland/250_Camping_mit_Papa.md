@@ -57,9 +57,9 @@ wird, trägt die Konsequenzen.“
 Unterstände bauen – oh Gott. Das war eine Mischung aus Ingenieurkurs und
 Kinderzeltlager. Vater erklärte mir ganz nüchtern, wie man Äste schichtet, wie
 man sie anlehnt, welche Seite man zum Wind dreht, wie man den Boden mit Laub
-isoliert. Für mich fühlte es sich an, wie früher als Kinder beim Budebauen, aber
-er ließ nicht locker. Am Ende entstand etwas, das aussah wie eine Mischung aus
-Biberburg und Indianerzelt.
+isoliert. Für mich fühlte es sich an, wie früher als Kinder beim Budebauen. Am
+Ende entstand etwas, das aussah wie eine Mischung aus Biberburg und
+Indianerzelt.
 
 Wasser reinigen war fast schon ein Experiment. Vater schnitt eine alte Flasche
 auf, füllte sie mit Sand, Kohle und Moos und ließ Wasser hindurchlaufen. „Damit
