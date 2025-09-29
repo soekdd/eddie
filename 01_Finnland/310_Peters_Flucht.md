@@ -103,13 +103,11 @@ am Becher.
 
 Ich denke: Das sind Fakten, die ich kenne, aber noch nie so gehört habe. Peters
 Stimme macht das alles greifbar – nicht abstrakt, sondern mit Namen, mit Zorn
-und einer Art stillem Stolz. Als er fertig ist, verstehen die vier plötzlich,
+und einer Art stillem Stolz. Als er fertig ist, verstehen die drei plötzlich,
 warum ich geflohen bin. Sie begreifen die Angst, die jedem Antragsteller und
 seinen Angehörigen drohte, und dass die Ausgrenzung durch Kollegen und Behörden
-fast immer folgte.
-
-Die Stimmung entspannt sich langsam. Die Paare kuscheln sich aneinander, und ich
-liege da, wach, aber nicht mehr allein mit meinen Ängsten. Die drei haben unsere
-Geschichten gehört; sie haben die Härte dahinter verstanden. Ob sie es ganz
+fast immer folgte, sie haben die Härte dahinter verstanden. Ob sie es ganz
 begreifen? Vielleicht nicht in jedem Detail. Aber sie sehen jetzt, warum ich
-weglief. Und das reicht mir für diese Nacht.
+weglief. Und das reicht mir für diese Nacht. Die Stimmung entspannt sich
+langsam. Die Paare kuscheln sich aneinander, und ich liege da, wach, aber nicht
+mehr allein mit meinen Ängsten.
