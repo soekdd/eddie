@@ -12,7 +12,7 @@ tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_Tampere_Marktplatz.png'
-  - 'FIN_Tampere_Laavu.png'
+  - 'FIN_Vaasalopet_Laavu.png'
 proofreading:
   Kapitel: '250_Tampere'
   Ton:

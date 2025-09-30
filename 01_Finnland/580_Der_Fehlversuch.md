@@ -12,6 +12,8 @@ synopsis: 'Eddie ergattert ein Busticket zur Fähre, wird jedoch von den Zöllne
 mood: 'hopeless, tense, bittersweet'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
+illustrations:
+  - 'FIN_Vaasa_Zoellner.png'
 proofreading:
   Kapitel: '590_Der_Fehlversuch'
   Ton:

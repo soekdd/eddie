@@ -123,6 +123,8 @@ nearest_cities:
   - 'Laihia'
 approx_word_count: 560
 updated: '2025-09-20'
+illustrations:
+  - 'FIN_Vaasalopet_Scheune.png'
 proofreading:
   Kapitel: '380_Raster_aus_Regen'
   Ton:

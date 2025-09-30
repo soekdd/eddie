@@ -11,6 +11,8 @@ synopsis: 'Eddie liegt mit schwerem Fieber in Sinis Wohnung, die sie liebevoll b
 mood: 'besorgt, fiebrig, intim, zärtlich, beängstigend, auch grotesk'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
+illustrations:
+  - 'FIN_Vaasa_Fuesse_pflegen.png'
 proofreading:
   Kapitel: '410_Schuetzengraeben'
   Ton:

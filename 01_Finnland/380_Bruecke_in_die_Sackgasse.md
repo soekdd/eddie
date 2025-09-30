@@ -56,8 +56,7 @@ nearest_cities:
   - 'Laihia'
   - 'Vaasa'
 illustrations:
-  - 'FIN_Vaskiluoto_Bridge.png'
-  - 'FIN_Vaasa_Terminal_Collapse.png'
+  - 'FIN_Vaasa_Sini_findet_Eddie.png'
 continuity:
   before:
     - '370_Raster_aus_Regen'

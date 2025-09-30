@@ -134,6 +134,8 @@ nearest_cities:
   - 'Jalasjärvi'
 approx_word_count: 740
 updated: '2025-09-20'
+illustrations:
+  - 'FIN_Vaasalopet_Picknickplatz.png'
 proofreading:
   Kapitel: '370_Morgenregen'
   Ton:

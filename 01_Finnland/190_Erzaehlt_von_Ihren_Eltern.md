@@ -13,7 +13,6 @@ mood: 'intimate, heavy but tender'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
-  - 'FIN_Jyvaskyla_Eddie_Raija_Spaziergang.png'
 proofreading:
   Kapitel: '180_Erzaehlt_von_Ihren_Eltern'
   Ton:

@@ -44,6 +44,8 @@ continuity:
     - 'Eddie entdeckt Sinis Studentenausweis und plant das Geschenk'
   after:
     - 'Eddie möchte Sini nach der Arbeit abholen und zeigt stolz ihre fast verheilten Füße'
+illustrations:
+  - 'FIN_Vaasa_Sinis_Geburtstag.png'
 proofreading:
   Kapitel: '490_Sinis_Geburtstag'
   Ton:

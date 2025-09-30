@@ -13,6 +13,8 @@ synopsis: 'Eddie bekommt von Sabine Tampons angeboten, probiert sie zum ersten M
 mood: 'intimate, cozy, liberating, shy but joyful'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
+illustrations:
+  - 'FIN_Vaasalopet_baden3.png'
 proofreading:
   Kapitel: '340_Tampons'
   Ton:

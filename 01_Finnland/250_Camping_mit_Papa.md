@@ -12,6 +12,8 @@ synopsis: 'Eddie erinnert sich beim Holzsammeln in Finnland an die geheimen Surv
 mood: 'warm, nachdenklich, praktisch'
 tense: 'past, Eddies first-person perspective'
 mode: 'flashback'
+illustrations:
+  - 'FIN_Vaasalopet_baden4.png'
 proofreading:
   Kapitel: '260_Camping_mit_Papa'
   Ton:
