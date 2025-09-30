@@ -10,8 +10,6 @@ synopsis: 'Eddie streitet mit Jorma über die DDR, Raija kommt heim und spürt d
 mood: 'tense and uneasy'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
-illustrations:
-  - 'FIN_Jyvaeskylae_Jorma.png'
 proofreading:
   Kapitel: '230_Jorma_vergisst_sich'
   Ton:

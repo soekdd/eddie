@@ -79,3 +79,6 @@ _AKA:_ Sini
 - Perspective: Wenn aus ihrer Sicht: klar, direkt, 'ich weiß, wie der Hase läuft'
 - Style: schlagfertig, charmant, gelegentlich neckend
 - Special: humorvoll provokant, ohne verletzend zu sein; mischt Ernst mit Leichtigkeit
+
+## Image Prompt
+- Sini, 22, half-Sami, with a blue mohawk and sidecut, wearing a T-shirt and light fabric pants as well.
