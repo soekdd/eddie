@@ -53,23 +53,32 @@ parts:
       - 'Eddies Offenbarung über ihre Flucht'
       - 'Schweigegelöbnis und neuer Zusammenhalt'
 proofreading:
-  Kapitel: '300_Conny_Sabine_Peter_und_Matti'
+  Kapitel: '290_Conny_Sabine_Peter_und_Matti'
   Ton:
-    Einschaetzung: 'Jugendlich, gruppendynamisch, Eddie kommentiert frech und beobachtet spöttisch.'
-    Kritik: 'Ton springt zwischen Rotzgöre und zu erwachsener Analyse. Stellenweise klingt es eher wie eine Sozialstudie als eine persönliche Erinnerung.'
+    Einschaetzung: 'Jugendlich, gruppendynamisch; Witz und Wärme in der Begegnung.'
+    Kritik: 'Springt zwischen Rotzgören‑Kommentar und erwachsener Analyse; Pointen‑Dichte hoch.'
+    Fix: 'Pointen dosieren (1–2 streichen), 1 kurzer Atempunkt/Unsicherheitsmoment vor dem Outing; 1–2 jugendliche Asides gezielt setzen.'
+    Note: 3
   Logik:
-    Einschaetzung: 'Interaktionen zwischen den Jugendlichen wirken grundsätzlich nachvollziehbar.'
-    Kritik: 'Manche Dialoge wirken zu konstruiert, zu pointiert, als ob jeder Satz auf eine Pointe zielt. Gefahr von Künstlichkeit.'
+    Einschaetzung: 'Interaktionen und Vertrauensaufbau grundsätzlich plausibel (Hütte/Schutzraum, Regenabend).'
+    Kritik: 'Schneller Vertrauenssprung; Eddies Bitte um Verschwiegenheit könnte 1 Zögern/Abwägen auslösen.'
+    Fix: 'Vor dem Schwur 1 Mikro‑Zögern oder Blickwechsel einfügen; 1 Zeit-/Raumanker (Uhr/Regengeräusch) im Beschlussmoment.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddies Beobachtungen sind witzig, die anderen Jugendlichen haben erkennbares Profil.'
-    Kritik: 'Einige Nebenfiguren sind klischeehaft gezeichnet. Eddie kommentiert viel, zeigt aber weniger eigene Unsicherheit.'
+    Einschaetzung: 'Vierergruppe unterscheidbar (Conny/Sabine treiben, Peter ruhig, Matti forsch); Eddie als Beobachterin mit Witz.'
+    Kritik: 'Einzelne Züge klischeehaft; Eddies Verletzlichkeit tritt zurück.'
+    Fix: 'Je Figur 1 Mikrodetail (Geste/Stimmlage/Macke) setzen; Eddie 2 Körpermarker (trockener Mund, zitternde Hände) beim Outing.'
+    Note: 3
   Sprache:
     Einschaetzung: 'Dialogreich, lebendig.'
-    Kritik: 'Zu viele Füllwörter und Ellipsen. Dialoge manchmal überstilisiert. Satzzeichen uneinheitlich.'
+    Kritik: 'Füllwörter/Ellipsen häufen sich; einige Dialogzeilen wirken gesetzt; Zeichensetzung uneinheitlich.'
+    Fix: 'Füllwörter/… straffen; 1–2 lange Dialogzüge teilen; Satzzeichen vereinheitlichen; 1 rotziger Kurzsatz als Kontrast.'
+    Note: 2
   Fazit:
-    Staerken: 'Lebendige Gruppenszene, Eddie als scharfe Beobachterin.'
-    Schwaechen: 'Dialoge teils künstlich, Eddie zu souverän, übertriebene Pointendichte.'
-    Fix: 'Dialoge natürlicher gestalten, Unsicherheit durchscheinen lassen, Pointen reduzieren.'
+    Staerken: 'Lebendige Gruppendynamik; glaubwürdiger Schutzmoment; klare Profile.'
+    Schwaechen: 'Künstliche Pointenmomente; Verletzlichkeit unterbelichtet.'
+    Fix: 'Dialoge naturalisieren, 1–2 Unsicherheitsmarker bei Eddie, Pointen reduzieren, Mikrodetails pro Figur ergänzen.'
+    Note: 2
 ---
 
 # Conny, Sabine, Peter und Matti

@@ -32,7 +32,7 @@ landscapes:
   - 'Sumpf/Moor'
   - 'Felder/Flusslauf'
 weather_summary: 'Dauerregen, Wind, kurze Aufhellung am Fluss; feucht-kalt.'
-synopsis: 'Tagelang kämpft sich Eddie durchnässt durchs Moor, verliert Kraft und Zuversicht, bis eine wortkarge Bäuerin sie in einer Scheune schlafen lässt und sie gerade genug aufpäppelt, um weiterzugehen.'
+synopsis: 'Im endlosen Regen schleppt sich Eddie durchs Moor (Laavu fehlt), zählt Schritte, bricht fast zusammen und findet bei einer wortkargen Bäuerin in der Scheune trockenen Schutz – gerade genug, um weiterzugehen.'
 health_flags:
   - 'starke Mückenstiche (Hände/Gesicht/Kniekehlen)'
   - 'Husten'
@@ -137,23 +137,32 @@ updated: '2025-09-20'
 illustrations:
   - 'FIN_Vaasalopet_Picknickplatz.png'
 proofreading:
-  Kapitel: '370_Morgenregen'
+  Kapitel: '360_Morgenregen'
   Ton:
-    Einschaetzung: 'Melancholisch, nachdenklich. Eddie beobachtet die Natur und verknüpft sie mit Gefühlen.'
-    Kritik: 'Ton schwankt zwischen poetisch und zu schwermütig. Gefahr, dass es für Jugendliche zu gedrechselt wirkt.'
+    Einschaetzung: 'Hart, nass, auszehrend; Regen/Moor als körperliche Prüfung, am Ende fragile Erleichterung.'
+    Kritik: 'Teils sehr poetisch‑schwermütig; Jugendstimme droht hinter dem Pathos zu verschwinden.'
+    Fix: '2–3 direkte, jugendliche Gedankenfetzen einstreuen (z. B. „ich hasse diesen Regen“); 1–2 Atempunkte (Zählen, Tee festhalten) als nüchterne Kontraste.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Regen als Symbol plausibel eingesetzt.'
-    Kritik: 'Symbolik ist sehr offensichtlich und fast überdeutlich erklärt. Weniger wäre mehr.'
+    Einschaetzung: 'Route/Übernachtungen laavu→kota→laavu→(fehlt)→Scheune→laavu schlüssig; Farm‑Rettung plausibel.'
+    Kritik: 'Einzelne Stationen könnten mit kurzen Ort-/Zeitankern geerdet werden.'
+    Fix: 'Je Abschnitt 1 Mikro‑Anker (Uhrgefühl/Entfernung/Birkenreihe) ergänzen; „Laavu fehlt“ explizit benennen (steht nun in Synopsis).'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie reflektiert und wirkt reifer.'
-    Kritik: 'Ihre jugendliche Perspektive tritt zurück, klingt fast erwachsen-literarisch. Emotionen werden eher behauptet als gezeigt.'
+    Einschaetzung: 'Eddie erschöpft, trotzig; Bäuerin wortkarg, hilfreich ohne Wärme.'
+    Kritik: 'Eddies Jugendperspektive tritt teils zugunsten literarischer Reflexion zurück; Bäuerin bleibt schemenhaft.'
+    Fix: 'Eddie 2 Körpermarker (kalte Finger an Tasse, zitternde Knie) + 1 rotziger Kurzsatz; Bäuerin 1 Mikrodetail (Blick/Handbewegung).'
+    Note: 3
   Sprache:
-    Einschaetzung: 'Bildhaft, atmosphärisch.'
-    Kritik: 'Metaphern teils überlastet, Satzbau langatmig. Wenig jugendliche Direktheit.'
+    Einschaetzung: 'Bildhaft und dicht; starke Sinneseindrücke (Mücken, Nässe, Gerüche).'
+    Kritik: 'Metaphernfülle und lange Perioden; wenig jugendliche Direktheit.'
+    Fix: '2–3 Metaphern/Personifikationen streichen oder variieren; 2 lange Sätze teilen; 1–2 kurze, knappe Sätze als Widerlager.'
+    Note: 2
   Fazit:
-    Staerken: 'Atmosphärisches Kapitel, zeigt Eddies innere Stimmung im Spiegel der Natur.'
-    Schwaechen: 'Zu viel Symbolik, zu literarisch für Eddies Stimme, Distanz zur jugendlichen Perspektive.'
-    Fix: 'Symbolik reduzieren, mehr konkrete Eindrücke und Gefühle zeigen, Sprache kürzen.'
+    Staerken: 'Unmittelbare körperliche Erfahrung, klares Tief → kleine Rettung; glaubwürdiger Prüfungsabschnitt.'
+    Schwaechen: 'Pathos/Symbolik punktuell schwer; Figurenzeichnung minimal.'
+    Fix: 'Jugendliche Gedankenfetzen und Körpermarker ergänzen; 1 Mikrodetail zur Bäuerin; Sprache leicht straffen/erden.'
+    Note: 2
 ---
 
 # Moorregen – mein erster Einbruch

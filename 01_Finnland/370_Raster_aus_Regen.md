@@ -126,23 +126,32 @@ updated: '2025-09-20'
 illustrations:
   - 'FIN_Vaasalopet_Scheune.png'
 proofreading:
-  Kapitel: '380_Raster_aus_Regen'
+  Kapitel: '370_Raster_aus_Regen'
   Ton:
     Einschaetzung: 'Beobachtend, poetisch, Eddie analysiert Muster im Regen fast mathematisch.'
     Kritik: 'Ton kippt ins Dozentenhafte, mehr Abhandlung als Erleben. Emotionale Färbung schwach.'
+    Fix: '2–3 kurze, direkte Gedankenfetzen ("ich hasse diesen Regen", "weiter zählen") einbauen; 1–2 Atempunkte (Zählen/Tee festhalten) als nüchterne Kontraste; Pathosbilder sparsam einsetzen.'
+    Note: 2
   Logik:
     Einschaetzung: 'Beobachtung plausibel, Mathe-Metapher passt zu Eddie.'
     Kritik: 'Überbetont, wirkt konstruiert. Gefahr: Leser verliert die emotionale Verbindung.'
+    Fix: 'Mathe kurz und handlungsnah dosieren (Pace-Counting, aim-off, 1 Satz Schnittmengen); je Abschnitt 1 Mikro-Orts-/Zeitanker (Birkenreihe, Uhrgefühl) ergänzen.'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie klar im Zentrum, als denkende Beobachterin.'
     Kritik: 'Wirkt zu sehr wie Vortrag; Eddie als Jugendliche tritt zurück hinter der Analytikerin.'
+    Fix: 'Eddie 2 Körpermarker (kalte Finger an Tasse, zitternde Knie) einfügen; 1 rotziger Kurzsatz als Trotz; Bäuerin 1 Mikrodetail (Blick/Handbewegung) für Kontur.'
+    Note: 3
   Sprache:
     Einschaetzung: 'Bildhaft, teils technisch.'
     Kritik: 'Zu viele Fachbegriffe, Satzbau sperrig. Wenig jugendliche Frische.'
+    Fix: 'Fachvokabular auf Alltagsworte zurückbauen; 2–3 lange Perioden teilen; 1–2 kurze Sätze als Widerlager setzen.'
+    Note: 2
   Fazit:
     Staerken: 'Originelle Mathe-Metapher, unterstreicht Eddies Genie-Seite.'
     Schwaechen: 'Zu theoretisch, zu wenig Gefühl, Eddie wirkt zu erwachsen.'
     Fix: 'Mehr persönliche Reaktion (Staunen, Lachen über eigene Gedanken), weniger Fachvokabular, jugendliche Sprache stärken.'
+    Note: 2
 ---
 
 # Raster aus Regen – der Tag, an dem ich mich verliere

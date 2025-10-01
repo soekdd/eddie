@@ -16,7 +16,7 @@ persons:
   - 'Eddie'
   - 'Sini'
 weather_summary: 'Regen klingt ab, kühl-klar; am Abend freundlich.'
-synopsis: 'Sini pflegt die fiebernde Eddie durch den ersten Vaasa-Tag, lässt sie zur Ruhe kommen und zwingt sie zur Geduld – vom Frühstück in der Wohnung bis zum gemeinsamen Abend an der Hafenbank, wo sie Geschichten und Vertrauen teilen.'
+synopsis: 'Erster Tag in Vaasa: Sini pflegt die fiebernde Eddie, bremst ihren Aktionismus („keine Eile“) und schenkt ihr Ruhe – vom Brötchenfrühstück bis zur gemeinsamen Hafenbank, wo Geschichten und Vertrauen beginnen.'
 locations:
   apartment:
     name: 'Sinis Wohnung'
@@ -84,23 +84,32 @@ continuity:
   medical: 'Fieber sinkt; Füße verbunden; Erschöpfung bleibt.'
 updated: '2025-09-19'
 proofreading:
-  Kapitel: '420_Keine_Eile'
+  Kapitel: '410_Keine_Eile'
   Ton:
-    Einschaetzung: 'Ruhig, entschleunigt, Eddie nimmt Tempo raus und wirkt fast gelassen.'
-    Kritik: 'Ton wirkt stellenweise zu abgeklärt. Für eine Jugendliche in ihrer Lage klingt es fast zu weise.'
+    Einschaetzung: 'Ruhig, entschleunigt; Wärme und Pflege tragen den Tag.'
+    Kritik: 'Punktuell zu abgeklärt/weise für 17; jugendliche Spontaneität könnte stärker blitzen.'
+    Fix: '2–3 kurze, jugendliche Gedankenfetzen/Asides („bin ich peinlich?“, „okay… tief durchatmen“) einstreuen; 1 Atempunkt, an dem Eddie zögert, bevor sie „brav“ bleibt.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Die Szene funktioniert als Atempause und Kontrast zu bedrückenden Kapiteln.'
-    Kritik: 'Eddies Gelassenheit wirkt nicht durchweg glaubwürdig – Gefahr, dass die Spannung der Gesamterzählung absackt.'
+    Einschaetzung: 'Atempause nach Vaasa‑Ankunft plausibel; Tagesbogen (Früh/Mittag/Abend) trägt.'
+    Kritik: 'Gelassenheit vs. Restschwäche/Drang nach Aktion muss ausbalanciert bleiben.'
+    Fix: 'Mini‑Zeitanker setzen (Vormittag – Mittagsschlaf – später Nachmittag – Abend); vor dem Terminal kurz „Energie‑Dip“/Sitzpause markieren.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie zeigt sich als reflektierend und ruhig.'
-    Kritik: 'Ihre jugendliche Seite tritt zurück, wirkt mehr wie eine Autorin als wie eine 17-Jährige.'
+    Einschaetzung: 'Eddie dankbar, trotzig‑stolz; Sini fürsorglich, bestimmt („keine Eile“ als Leitmotiv).'
+    Kritik: 'Eddies Verletzlichkeit kann 1–2 Mal körperlich aufscheinen; Sini eine prägnante kleine Geste/Floskel geben.'
+    Fix: 'Eddie 2 Körpermarker (weiche Knie, trockener Mund) in Mutprobe‑Szene; Sini Signaturgeste (Augenbraue/Hand an Schulter) und sanfte Grenzsetzung zeigen.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Schlicht, flüssig, klar.'
-    Kritik: 'Manche Sätze zu glatt, jugendliche Direktheit fehlt. Füllwörter häufen sich leicht.'
+    Einschaetzung: 'Schlicht, flüssig; gut für Ruhekapitel.'
+    Kritik: 'Einzelne Sätze sehr glatt; Füllwörter/… streuen; Jugendsound punktuell schwach.'
+    Fix: '1–2 lange Sätze teilen; Füllwörter/… straffen; 1–2 rotzige Kurzsätze als Kontrast (Humor/Necken) ergänzen; Präsens konsequent halten.'
+    Note: 2
   Fazit:
-    Staerken: 'Schöne Ruheinsel im Erzählfluss, schafft Kontrast.'
-    Schwaechen: 'Zu weise und abgeklärt für Eddies Alter, jugendliche Stimme fehlt.'
-    Fix: 'Mehr jugendliche Gedanken/Assoziationen einbauen, kleine Unsicherheiten oder Albernheiten zeigen.'
+    Staerken: 'Kontrastierende Ruheinsel; Beginn einer vertrauensvollen Dynamik; schönes Leitmotiv („keine Eile“).' 
+    Schwaechen: 'Weisheits‑Ton schimmert durch; Spannung könnte lokal absacken.'
+    Fix: 'Jugendliche Asides + Körpermarker; Mini‑Zeitanker; leichte Sprach‑Straffung; Sini‑Signaturgeste.'
+    Note: 2
 ---
 
 # Keine Eile – Frühstück, Mutprobe & Hafenbank

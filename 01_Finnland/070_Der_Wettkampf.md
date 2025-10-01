@@ -6,7 +6,7 @@ place: 'Klassenraum Gymnasium Joutsa'
 persons:
   - 'Eddie'
   - 'viele andere Kinder und Betreuer'
-synopsis: 'Eddie kann sich nicht auf die Aufgaben konzentrieren. Sie ist die erste, den den Raum Richtung Toilette verläßt'
+synopsis: 'Eddie blockiert im Wettbewerb, hält es nicht mehr aus und verlässt als Erste unter dem Vorwand „Toilette“ den Raum.'
 mood: 'tense relief, fear'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -17,19 +17,28 @@ proofreading:
   Ton:
     Einschaetzung: 'Angespannt, ehrgeizig, Eddie schildert den Wettbewerb mit Ernst und Konzentration.'
     Kritik: 'Ton ist stellenweise zu sportreportageartig oder zu nüchtern. Eddies jugendliche Stimme geht in der Strenge teilweise verloren.'
+    Fix: '2–3 jugendliche Asides/kurze Ausrutscher einbauen (z. B. „äh, nein“), 1 Mini‑Kontrastmoment (trotzig vs. panisch), 1 Atempause vor der Entscheidung.'
+    Note: 2
   Logik:
     Einschaetzung: 'Abläufe des Wettkampfs plausibel und klar nachvollziehbar.'
     Kritik: 'Manche Beschreibungen wirken wie aus zweiter Hand – fast protokollarisch. Mehr subjektive Eindrücke (Hitze, Müdigkeit, Frust) wären realistischer.'
+    Fix: '2–3 Sinnesmarker ergänzen (Luft/Hitze/Schweiß, Kratzen der Stifte), Uhr/Zeitempfinden kurz verankern.'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie im Zentrum, ehrgeizig und fokussiert.'
     Kritik: 'Ihre Nervosität und Unsicherheit fehlen an einigen Stellen. Nebenfiguren (Mitstreiter, Aufsicht) bleiben blass und funktional.'
+    Fix: '2 kurze Körpermarker für Eddie (trockener Mund, wippendes Bein); 1 Mini‑Detail zur Aufsicht oder einem Mitschüler (Blick, Geste).'
+    Note: 2
   Sprache:
     Einschaetzung: 'Präzise, klar, teilweise spannend.'
     Kritik: 'Einige Sätze zu lang und zu sachlich. Kaum jugendliche Einwürfe oder Humor, Sprache dadurch zu glatt.'
+    Fix: 'Längere Sätze aufbrechen; 1–2 rotzige, kurze Sätze einsetzen; Protokollhaftes vermeiden.'
+    Note: 2
   Fazit:
     Staerken: 'Verdeutlicht Eddies Ehrgeiz und Können, zeigt den Wettkampf als dramatischen Moment.'
     Schwaechen: 'Zu sachlich, zu protokollarisch, jugendliche Spontaneität fehlt.'
-    Fix: 'Mehr Emotion und Körperreaktionen einbauen, kleine chaotische Gedanken zulassen, Nebenfiguren lebendiger zeichnen.'
+    Fix: 'Mehr Emotion/Körperreaktionen, 2–3 Sinnesmarker, 1 Mini‑Detail zu Nebenfigur; sonst belassen.'
+    Note: 2
 ---
 
 # Der Wettkampf

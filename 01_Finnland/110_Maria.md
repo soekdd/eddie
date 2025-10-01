@@ -10,7 +10,7 @@ persons:
   - 'Mielkes Männer'
   - 'finnischer Polizist (Raijas Chef)'
   - 'Raija'
-synopsis: 'Eddie wird in der Kirche entdeckt, doch finnische Polizisten greifen rechtzeitig ein und nehmen alle mit auf die Wache.'
+synopsis: 'Mielke spürt Eddie in der Kirche auf; Maria schlägt Alarm über das Geläut, finnische Polizisten greifen rechtzeitig ein und nehmen alle mit auf die Wache.'
 mood: 'tense, fearful, desperate but slightly relieved'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -19,21 +19,30 @@ illustrations:
 proofreading:
   Kapitel: '110_Maria'
   Ton:
-    Einschaetzung: 'Ernst, ehrfürchtig, Eddie beschreibt die Atmosphäre respektvoll.'
-    Kritik: 'Ton wirkt sehr erwachsen, fast wie eine kunsthistorische Betrachtung. Die jugendliche Stimme geht verloren.'
+    Einschaetzung: 'Bedrohlich und dicht; starker Kontrast aus sakraler Ruhe und aufziehender Gewalt.'
+    Kritik: 'Stellenweise feierlich/erwachsen; Balance zwischen Pathos und Panik könnte jugendlicher klingen.'
+    Fix: '2–3 kurze, jugendliche Gedankenfetzen einstreuen; 1 körpernaher Panikmarker vor dem Zugriff; 1 feierliche Wendung zugunsten eines Sinneseindrucks kürzen.'
+    Note: 3
   Logik:
-    Einschaetzung: 'Besuch in der Kirche plausibel, passt als Kontrast zur Fluchtgeschichte.'
-    Kritik: 'Eddies Reaktionen sind zu kontrolliert. Zweifel, Langeweile oder kindliche Faszination fehlen.'
+    Einschaetzung: 'Ablauf plausibel (Versteck → Geläut → Durchsuchung → Polizei). Glocke als Auslöser funktioniert.'
+    Kritik: 'Timing/Anker minimal offen (Wer alarmiert die Polizei? Wie schnell? Sichtlinien an Altar/Tür).'
+    Fix: '1 Außen-/Geräuschmarker ergänzen (Rufe draußen/Tür); 1 Halbsatz, dass Nachbarn/Passanten die Polizei rufen; 1 Positionsanker (Türrahmen/Abstand).'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie als Beobachterin im Mittelpunkt.'
-    Kritik: 'Ihre Persönlichkeit tritt zurück, sie klingt wie eine Erzählerin von außen. Nebenfiguren bleiben Statisten.'
+    Einschaetzung: 'Eddie verletzlich unter dem Altar; Maria ruhig und mutig; Mielke und Männer als klare Bedrohung; Polizisten entschlossen.'
+    Kritik: 'Maria wirkt sehr souverän; ein kurzes Zögern/Abwägen würde sie menschlicher machen. Mielke könnte ein prägnantes Detail bekommen.'
+    Fix: 'Bei Maria 1 Mikro-Zögern (Blick zur Tür/Hand stockt) einfügen; Eddie 1 zusätzlicher Körpermarker; Mielke 1 sensorisches Detail (Tonfall/Schritt/ Geruch).'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Bildhaft, detailgenau.'
-    Kritik: 'Zu feierlich und glatt, wenig jugendliche Spontaneität. Kaum innere Kommentare oder rotzige Einwürfe.'
+    Einschaetzung: 'Bildhaft und szenisch; Glocke/Schritte/Geräusche tragen Spannung.'
+    Kritik: 'Punktuell zu feierlich; einzelne Wiederholungen; kleiner Tippfehler (z. B. „Männder“).'
+    Fix: '1–2 Sätze straffen; 1–2 jugendliche Asides ergänzen; offensichtliche Tippfehler korrigieren; lange Sätze teilen.'
+    Note: 2
   Fazit:
-    Staerken: 'Stimmungsvolles Setting, Kontrast zu anderen Kapiteln.'
-    Schwaechen: 'Zu erwachsen erzählt, zu feierlich, Emotionen fehlen.'
-    Fix: 'Jugendliche Gedanken und spontane Assoziationen einbauen, kleine Brüche zwischen Ehrfurcht und Ungeduld zeigen.'
+    Staerken: 'Starkes Setting, klare Bedrohung, wirkungsvolles Geläut-Motiv, glaubwürdige Rettung.'
+    Schwaechen: 'Ton stellenweise zu feierlich; minimale Plausibilitätsanker fehlen; Maria sehr souverän.'
+    Fix: 'Jugendliche Stimme nachschärfen, 1–2 Logik-/Positionsmarker ergänzen, Mini-Zögern bei Maria, kleine Straffungen/Fehlerkorrektur.'
+    Note: 2
 ---
 
 # Maria

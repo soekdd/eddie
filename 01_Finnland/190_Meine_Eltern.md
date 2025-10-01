@@ -18,19 +18,28 @@ proofreading:
   Ton:
     Einschaetzung: 'Intim und ernst; Eddie ringt um Worte, während Raija behutsam zuhört.'
     Kritik: 'Teilweise erklärend; kurze, stockende Halbsätze/Einwürfe (z. B. „äh“, „ich weiß…“) könnten die Unmittelbarkeit erhöhen.'
+    Fix: '1–2 stockende Halbsätze/Einwürfe einbauen; 1 kurze Atempause (Blick senken/Hände an Tasse) setzen, um die Unmittelbarkeit zu erhöhen.'
+    Note: 2
   Logik:
     Einschaetzung: 'Plausible Öffnung gegenüber Raija; DDR-Kontext als kurzer Hintergrund funktioniert.'
     Kritik: 'Manche Sätze bündeln viel Exposition; kleines Erinnerungsbild je Elternteil erdet das Allgemeine. Klarer markieren, was Mutter ahnt vs. weiß.'
+    Fix: 'Je Elternteil 1 konkretes Erinnerungsbild ergänzen; explizit markieren, was Mutter ahnt vs. was sie wissen könnte (Blick/Andeutung).'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eltern erscheinen in Konturen (starker Vater, wache Mutter); Eddie wirkt ambivalent und schuldbewusst.'
     Kritik: 'Noch etwas typisiert; ein, zwei widersprüchliche Mini-Details (Geste, Macke, Satzfetzen) geben mehr Tiefe.'
+    Fix: 'Vater: 1 strenger Satzfetzen/harte Geste neben Wärme; Mutter: 1 kleine Macke (z. B. Reißbrett‑Geste) oder ambivalenter Blick; Eddie: 1 kurzer Körpermarker (trockener Mund/Kloß im Hals).'
+    Note: 3
   Sprache:
     Einschaetzung: 'Klar, stellenweise jugendlich und direkt; Korrekturen für Fluss und Grammatik eingefügt.'
     Kritik: 'Einzelne Formulierungen noch glatt; 1–2 abgebrochene Sätze/knappe Gedankenfetzen im Jugendsound verjüngen die Stimme.'
+    Fix: '1–2 abgebrochene Sätze/knappe Gedankenfetzen setzen; 1 längeren Satz teilen; 1 rotzig‑kurzer Einwurf als Kontrast.'
+    Note: 2
   Fazit:
     Staerken: 'Intime Nähe zu Raija, nachvollziehbare Motivation, spürbare Schuld und Entschlossenheit.'
     Schwaechen: 'Etwas Exposition, punktuell noch zu erwachsen.'
     Fix: '1–2 kurze Gedanken-/Halbsätze einstreuen; je Elternteil ein konkretes, dorniges Detail (Geste, Blick, Satzfetzen) ergänzen.'
+    Note: 2
 ---
 
 # Meine Eltern

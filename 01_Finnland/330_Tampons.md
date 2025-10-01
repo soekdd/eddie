@@ -9,30 +9,39 @@ persons:
   - 'Conny'
   - 'Matti'
   - 'Peter'
-synopsis: 'Eddie bekommt von Sabine Tampons angeboten, probiert sie zum ersten Mal aus und entdeckt am sonnigen Morgen nach Regentagen beim gemeinsamen Baden im See eine neue Freiheit. Die Jungs Matti und Peter zeigen auffälliges Interesse, was Eddie verlegen macht, aber insgeheim freut sie sich.'
+synopsis: 'Sabine bietet Eddie Tampons an; die Premiere gelingt – am sonnigen Morgen baden alle nackt im See, Eddie spürt neue Freiheit und wird sich der Blicke von Matti und Peter verlegen‑freudig bewusst.'
 mood: 'intimate, cozy, liberating, shy but joyful'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_Vaasalopet_baden3.png'
 proofreading:
-  Kapitel: '340_Tampons'
+  Kapitel: '330_Tampons'
   Ton:
-    Einschaetzung: 'Direkt, humorvoll, Eddie spricht ein Tabuthema unverblümt an.'
-    Kritik: 'Ton pendelt zwischen Rotzgöre und fast erklärend-informativ. Der Witz sitzt, aber manchmal wirkt es wie eine Aufklärungsschrift.'
+    Einschaetzung: 'Direkt, humorvoll und zart verlegen; Körper‑Alltag wird natürlich erzählt.'
+    Kritik: 'Punktuell kippt es ins Erklärende/Aufklärende; Witz könnte die Verletzlichkeit überdecken.'
+    Fix: '1–2 unsichere/peinliche Mikro‑Momente bei Eddie (stocken, erröten) deutlicher setzen; erklärende Sätze knapper; Witz dosieren.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Situation nachvollziehbar, authentisches Jugendthema.'
-    Kritik: 'Manche Reaktionen der Figuren wirken überzeichnet, fast klamaukig. Gefahr, dass die Ernsthaftigkeit dahinter verloren geht.'
+    Einschaetzung: 'Tampon‑Premiere → Daumen hoch → spontanes Baden; Reaktionen schlüssig.'
+    Kritik: 'Bade‑Übergang sehr glatt; ein kurzer Blick/Abstimmung zwischen den Mädchen plus ein Hinweis auf Geruch/Entsorgung erhöht Plausibilität.'
+    Fix: '1 Blickwechsel/„okay?“ zwischen Sabine/Conny; 1 Halbsatz zur Packung/Entsorgung/Waschen der Hände.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie wirkt frech, selbstironisch, zeigt jugendliche Offenheit.'
-    Kritik: 'Nebenfiguren bleiben Staffage, reagieren stereotyp. Eddie wirkt zu souverän, Unsicherheit oder Peinlichkeit fehlen.'
+    Einschaetzung: 'Eddie offen und neugierig; Sabine als warmherzige „große Schwester“; Jungs neugierig, aber nicht übergriffig.'
+    Kritik: 'Eddies Unsicherheit könnte einmal stärker durchblitzen; die Jungs profitieren von je 1 Mikrodetail (Blick, Geste, Abwenden).' 
+    Fix: 'Eddie 2 Körpermarker (erröten, Atem stockt) in Badesequenz; Matti/Peter je 1 kurzes, charakteristisches Detail; Sabine 1 leise Schutzgeste.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Locker, jugendlich, treffende Wortwahl.'
-    Kritik: 'Zu viele Füllwörter, Auslassungspunkte und Einschübe. Rhythmus schwankt zwischen witzig und belehrend.'
+    Einschaetzung: 'Locker, jugendlich, bildhaft.'
+    Kritik: 'Einige Füllwörter/Auslassungspunkte; stellenweise erklärender Ton.'
+    Fix: 'Füllwörter und „…“ straffen; 1–2 Sätze verkürzen/teilen; 1 rotzig‑kurzer Satz als Kontrast einfügen.'
+    Note: 2
   Fazit:
-    Staerken: 'Tabuthema wird mutig angesprochen, Eddie zeigt Humor und Direktheit.'
-    Schwaechen: 'Überzeichnung, Nebenfiguren blass, teilweise Aufklärungs-Ton.'
-    Fix: 'Mehr Unsicherheit oder Peinlichkeit bei Eddie zeigen, Witz dosieren, Dialoge natürlicher gestalten.'
+    Staerken: 'Mutige, natürliche Coming‑of‑Age‑Szene; warmes Gruppengefühl; zarte Sinnlichkeit ohne Voyeurismus.'
+    Schwaechen: 'Gelegentlich erklärender Ton; Nebenfiguren minimal schematisch.'
+    Fix: 'Unsicherheitsmarker bei Eddie betonen; Blick-/Schutzgesten ergänzen; Sprache leicht straffen/dosieren.'
+    Note: 2
 ---
 
 # Tampons

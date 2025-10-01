@@ -14,23 +14,32 @@ mood: 'warm, playful, safe'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '310_Vertauschte_Jungs'
+  Kapitel: '300_Vertauschte_Jungs'
   Ton:
-    Einschaetzung: 'Humorvoll, Eddie erzählt mit ironischem Unterton, jugendliche Neugier ist spürbar.'
-    Kritik: 'Ton schwankt: mal rotzig und lebendig, mal erklärt Eddie fast zu erwachsen. Der Witz trägt, aber manchmal überreizt.'
+    Einschaetzung: 'Humorvoll und warm; Regenhütten‑Vibe mit neckischer Gruppendynamik.'
+    Kritik: 'Wechsel zwischen rotzig und erwachsen; Witz punktuell überdreht.'
+    Fix: 'Pointen dosieren (1–2 streichen/abmildern); 1 kurzer Unsicherheits-/Atempunkt bei Eddie vor einem Spruch; 1–2 jugendliche Asides gezielt setzen.'
+    Note: 3
   Logik:
-    Einschaetzung: 'Verwechslungssituation plausibel, erzeugt Komik.'
-    Kritik: 'Manche Reaktionen wirken überinszeniert; Figuren reagieren wie für eine Pointe, weniger wie echte Jugendliche.'
+    Einschaetzung: 'Verwechslungs-/Neckmoment plausibel, erzeugt leichte Komik und Nähe.'
+    Kritik: 'Reaktionen teils wie auf Pointe hin gebaut.'
+    Fix: 'Mini‑Beats einfügen (Blickwechsel, Zögern, Lachen abebben), damit Witze organischer fallen; 1 Geräusch-/Raumanker (Regen/Kocher) als Rhythmusgeber.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie frech und beobachtend, die Jungs haben unterscheidbare Züge.'
-    Kritik: 'Nebenfiguren bleiben oberflächlich, wirken wie Stichwortgeber für Eddie. Eddie selbst wirkt sehr souverän, Unsicherheit fehlt.'
+    Einschaetzung: 'Eddie frech‑beobachtend; Peter ruhig, Matti forsch, Sabine/Conny treiben.'
+    Kritik: 'Nebenfiguren wirken teils wie Stichwortgeber; Eddies Verletzlichkeit fehlt.'
+    Fix: 'Je Figur 1 Mikrodetail (Geste/Stimmlage/Macke) setzen; Eddie 2 Körpermarker (Erröten, trockener Mund) in den Flirts/Neckereien.'
+    Note: 3
   Sprache:
     Einschaetzung: 'Dialoglastig, locker.'
-    Kritik: 'Gelegentlich zu viele Auslassungspunkte, Füllwörter häufen sich. Satzbau könnte straffer sein.'
+    Kritik: 'Ellipsen/Füllwörter häufen sich; einige Sätze lang.'
+    Fix: 'Auslassungspunkte/Füllwörter straffen; 1–2 lange Sätze teilen; 1 rotziger Kurzsatz als Kontrast.'
+    Note: 2
   Fazit:
-    Staerken: 'Witzige, jugendliche Szene, Eddie zeigt Beobachtungsgabe und Humor.'
-    Schwaechen: 'Überinszenierte Reaktionen, Nebenfiguren dünn, Eddie zu abgeklärt.'
-    Fix: 'Dialoge natürlicher machen, Eddie mehr Unsicherheit zeigen, Füllwörter und Ellipsen kürzen.'
+    Staerken: 'Leichte, sympathische Gruppenszene; glaubwürdiges Ankommen im Wir‑Gefühl.'
+    Schwaechen: 'Pointenbau sichtbar; Nebenfiguren und Eddies Verletzlichkeit ausbaubar.'
+    Fix: 'Dialoge naturalisieren, Pointen entlasten, Mikrodetails je Figur, Eddie‑Unsicherheit kurz aufblitzen lassen.'
+    Note: 2
 ---
 
 # Vertauschte Jungs

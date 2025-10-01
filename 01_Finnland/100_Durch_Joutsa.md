@@ -6,7 +6,7 @@ place: 'Weg vom Gymnasium Joutsa zur Kirche'
 persons:
   - 'Eddie'
   - 'Maria'
-synopsis: 'Eddie flieht zur Kirche, trifft dort auf Maria und bittet um Kirchenasyl. Maria spricht Russisch und verspricht ihr Hilfe.'
+synopsis: 'Eddie rennt durch Joutsas Seitenstraßen zur Kirche, trifft dort auf Maria, bittet um Kirchenasyl – und findet in deren ruhiger russischer Ansprache erste Sicherheit.'
 mood: 'fear turning into fragile relief'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -14,21 +14,30 @@ todo: 'Maria weniger souverän zeichnen, auch ihr Mut muss erst wachsen'
 proofreading:
   Kapitel: '100_Durch_Joutsa'
   Ton:
-    Einschaetzung: 'Beobachtend, Eddie schildert Eindrücke von der Umgebung und Menschen.'
-    Kritik: 'Ton wirkt stellenweise wie Reisereportage, zu beschreibend. Jugendlich-subjektive Färbung tritt zurück.'
+    Einschaetzung: 'Atemlos, sinnlich, nah am Körper; Bedrohung kippt in fragile Erleichterung.'
+    Kritik: 'Vereinzelt reportagehafte Passagen; punktuell könnte ein jugendlich-rotziger Gedanke die Subjektivität schärfen.'
+    Fix: '1–2 kurze Asides („na klar…“, „äh, nein“) einstreuen; 1 Mini-Atempause vor dem Kircheneintritt.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Reise durch Joutsa nachvollziehbar, keine groben Brüche.'
-    Kritik: 'Beschreibung wirkt zu glatt, ohne Zwischenfälle oder Unsicherheiten. Gefahr: Szene bleibt blass.'
+    Einschaetzung: 'Fluchtweg (Plan, Straßen, Mauer, Kirchhof) klar und plausibel.'
+    Kritik: 'Ein winziger Zufalls-/Stolpermoment würde den Realismus erhöhen (Jacke, Schuh, Blick zurück).'
+    Fix: '1 Mikro-Stolperer oder Deckungswechsel ergänzen; 1 kurzer Sicht-/Positionsanker zur Tür/Innenraum setzen.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie als Beobachterin präsent.'
-    Kritik: 'Ihre Emotionen (Langeweile, Neugier, Angst) treten kaum hervor. Nebenfiguren sind Staffage und ohne eigene Kontur.'
+    Einschaetzung: 'Eddie nervös, entschlossen; Maria ruhig, entschieden.'
+    Kritik: 'Marias Souveränität sehr stark; 1 kleines Zögern/Abwägen würde sie menschlicher machen (passt zum TODO).'
+    Fix: 'Bei Maria 1 Mikro-Geste des Abwägens (Blick zur Tür/Hand am Arm kurz stockt); bei Eddie 1 Körpermarker (trockener Mund, kalte Hände).'
+    Note: 3
   Sprache:
-    Einschaetzung: 'Flüssig, detailreich.'
-    Kritik: 'Zu viele Aufzählungen, wenig jugendliche Kommentare. Sprache streckenweise zu glatt und erwachsen.'
+    Einschaetzung: 'Flüssig, bildhaft, klare Sinneseindrücke (Geruch, Licht, Geräusche).'
+    Kritik: 'An wenigen Stellen aufzählend; Rotzigkeit/Jugendlichkeit könnte 1–2 Mal aufblitzen.'
+    Fix: '1 Aufzählung splitten/straffen; 1–2 kurze jugendliche Einwürfe; Wiederholung minimieren.'
+    Note: 2
   Fazit:
-    Staerken: 'Gibt Lokalkolorit und erweitert das Setting.'
-    Schwaechen: 'Zu deskriptiv, wenig Handlung, jugendliche Stimme fehlt.'
-    Fix: 'Mehr persönliche Reaktionen und Gedanken einbauen, Sprache jugendlicher machen, kleine Konflikte oder Stolperer einfügen.'
+    Staerken: 'Klare Fluchtlinie, starkes Setting, berührender Erstkontakt zu Maria.'
+    Schwaechen: 'Maria sehr souverän; Sprache stellenweise aufzählend.'
+    Fix: '1 Mikro-Zögern bei Maria, 1 Stolper-/Deckungsmoment, 1–2 jugendliche Einwürfe/Asides.'
+    Note: 2
 ---
 
 # Durch Joutsa

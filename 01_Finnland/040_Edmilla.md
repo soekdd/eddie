@@ -7,28 +7,37 @@ place: 'Wohnung der Eltern Dresden'
 persons:
   - 'Eddie'
   - 'Eddies Vater'
-synopsis: 'Eddies Vater erklärt Eddie, dass sie sich vor der Flucht verstellen muss, Edmilla wird geboren'
+synopsis: 'Mit ihrem Vater entwickelt Eddie eine Tarnidentität für die Flucht – Edmilla entsteht: Kleidchen, Schleifen, Gepäck‑Legende, politisch unauffällig.'
 mood: 'ernst, konspirativ, leicht humorvoll'
 tense: 'past, Eddies first-person perspective'
 mode: 'flashback'
 proofreading:
   Kapitel: '040_Edmilla'
   Ton:
-    Einschaetzung: 'Spielerisch, Eddie erfindet sich eine neue Identität mit Fantasie und Mut.'
-    Kritik: 'Ton schwankt zwischen jugendlicher Kreativität und zu reflektiertem Erzählen. Gefahr, dass der Entstehungsprozess zu glatt wirkt.'
+    Einschaetzung: 'Lebendig, stellenweise witzig; Vater-Tochter-Dialog trägt die Szene.'
+    Kritik: 'Punktuell zu reflektiert/erklärend, wodurch die Leichtigkeit überwiegt.'
+    Fix: '1–2 stockende Momente/Zweifel von Eddie einbauen; an einer Stelle den Witz kurz von Ernst brechen lassen.'
+    Note: 3
   Logik:
-    Einschaetzung: 'Identitätserfindung plausibel, passt zu Eddies Situation.'
-    Kritik: 'Die Leichtigkeit, mit der Eddie Edmilla erschafft, könnte unrealistisch wirken – mehr Zögern oder Zweifel wären glaubwürdig.'
+    Einschaetzung: 'Tarnidentität als Vorbereitung plausibel (Gepäck-Legende, Verkleidung, Notenstrategie).'
+    Kritik: 'Entstehung wirkt sehr friktionslos; Mini-Hürde steigert Glaubwürdigkeit (z. B. Russisch/Schuhe).'
+    Fix: 'Einen Mini-Konflikt markieren (Russisch fällt schwer, Schuhe unbequem) und als offenes Risiko notieren.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie im Mittelpunkt, zeigt Fantasie und Anpassungsfähigkeit.'
-    Kritik: 'Ihre innere Zerrissenheit kommt zu kurz, Edmilla entsteht fast zu mühelos. Nebenfiguren fehlen ganz.'
+    Einschaetzung: 'Vater: klug, spielerisch-streng; Eddie: kreativ, aber konfliktarm gezeigt.'
+    Kritik: 'Eddies Ambivalenz (Stolz vs. Unbehagen) nur angedeutet.'
+    Fix: '2 kurze Körper-/Gefühlsmarker (Augenrollen, inneres Zusammenzucken) ergänzen; 1 Satz zu Dankbarkeit vs. Widerwillen.'
+    Note: 3
   Sprache:
-    Einschaetzung: 'Anschaulich, teils witzig.'
-    Kritik: 'Stellenweise zu glatt, wenige jugendliche Einwürfe. Füllwörter und spontane Ausrufe fehlen, wodurch es literarischer klingt als nötig.'
+    Einschaetzung: 'Anschaulich, dialogstark, gelegentlich humorvoll.'
+    Kritik: 'Teilweise glatt; wenige spontane, jugendliche Einwürfe.'
+    Fix: '1–2 lockere Einwürfe/Interjektionen; 1 Aufzählung leicht straffen/variieren.'
+    Note: 2
   Fazit:
-    Staerken: 'Originelle Szene, zeigt Eddies Kreativität und Überlebensstrategie.'
-    Schwaechen: 'Zu glatt und problemlos erzählt, innere Konflikte fehlen, Sprache teils zu literarisch.'
-    Fix: 'Mehr Zögern, Zweifel und Unsicherheit zeigen, Sprache jugendlicher und spontaner machen.'
+    Staerken: 'Klares Setting; einprägsame Begründung für Edmilla; nützliche Tarn-Details.'
+    Schwaechen: 'Wenig innere Reibung; Ton streckenweise erklärend.'
+    Fix: 'Mini-Zweifel + Körpermarker; kleine Straffung; 1 ernstes Gegengewicht zum Witz.'
+    Note: 2
 ---
 
 # Edmilla

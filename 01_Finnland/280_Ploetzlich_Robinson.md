@@ -22,7 +22,7 @@ locations:
   laavu:
     name: 'Keihäänmaan laavu'
     note: 'Shelter, in dem Eddie den geschenkten Rucksack öffnet'
-synopsis: 'Am 5. Wandertag lebt Eddie souverän wie Robinson: Beeren, Pilze, Tee, Wald. Eine Anglertruppe lädt sie zum Fisch ein, wundert sich über ihre Legende – und schenkt ihr einen Rucksack samt Schokolade. Eddie begreift, dass sie trotz Tarnung Verbündete findet.'
+synopsis: 'Am fünften Wandertag lebt Eddie wie Robinson: Beeren, Pilze, Tee, Wald; drei Angler laden sie zum Fisch ein, zweifeln an ihrer Legende und schenken ihr einen Rucksack mit Schokolade – sie begreift, dass sie trotz Tarnung Verbündete findet.'
 mood: 'ruhig, reflektiert, sanft heiter'
 parts:
   -
@@ -42,23 +42,32 @@ parts:
       - 'Legende Wuppertal als Tarnung'
       - 'Rucksack mit Schokolade stärkt sie für den weiteren Weg'
 proofreading:
-  Kapitel: '290_Ploetzlich_Robinson'
+  Kapitel: '280_Ploetzlich_Robinson'
   Ton:
     Einschaetzung: 'Verspielt, Eddie macht ironische Bezüge zu Robinson Crusoe, beschreibt ihre Lage mit Humor.'
     Kritik: 'Ton rutscht stellenweise zu sehr ins Parodistische. Gefahr, dass die Bedrohung der Lage zu leicht wirkt.'
+    Fix: 'Humor dosieren (1–2 Pointen streichen), 1 kurzer Ernst-/Atempunkt (Stille, in den Wald horchen), Füllwort „irgendwie“ vermeiden.'
+    Note: 3
   Logik:
     Einschaetzung: 'Die Robinson-Parallelen sind nachvollziehbar und passen als jugendliche Strategie, sich Mut zu machen.'
     Kritik: 'Manche Details (Improvisation) wirken zu glatt; es fehlen Stolperer oder Fehler, die es realistischer machen würden.'
+    Fix: '1 Mini-Scheitern ergänzen (nasses Holz, verkohlter Fisch oder kurzer Fehlpfad), um Realismus zu erhöhen.'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie wirkt witzig, kreativ, nutzt Humor als Waffe gegen Angst.'
     Kritik: 'Ihre Verletzlichkeit tritt zu wenig hervor. Nebenfiguren bleiben unsichtbar, Eddie erzählt allein.'
+    Fix: '2 kurze Körpermarker bei Eddie (kalte Hände, Magenknurren); Anglern je 1 Mikrodetail (Stimme, Geste, Rauch-/Fischgeruch).'
+    Note: 3
   Sprache:
     Einschaetzung: 'Lebendig, humorvoll, mit Selbstironie.'
     Kritik: 'Teilweise zu viele Pointen am Stück, Tempo zu gleichmäßig. Füllwörter wie ''irgendwie'' tauchen häufiger auf.'
+    Fix: 'Pointenabstand vergrößern; 1–2 Füllwörter streichen/ersetzen; 1–2 längere Sätze teilen; 1 rotziger Kurzsatz als Kontrast.'
+    Note: 2
   Fazit:
     Staerken: 'Originelle Parallele zu Robinson Crusoe, Eddie zeigt Witz und Fantasie.'
     Schwaechen: 'Gefahr der Verharmlosung, zu glatte Improvisationen, zu viele Pointen.'
     Fix: 'Mehr Momente von Scheitern/Unsicherheit einbauen, Humor dosieren, Füllwörter straffen.'
+    Note: 2
 ---
 
 # Plötzlich Robinson

@@ -6,7 +6,7 @@ daytime: 'early morning'
 place: 'Joutsenlampi'
 persons:
   - 'Eddie'
-synopsis: 'Schlaflos beschließt Eddie, ihre Fluchtvorbereitungen ernsthaft zu beginnen. Im Licht der Mittsommersonne packt sie ihre kleine Reisetasche mit Unterwäsche, Trainingshose, Hygieneartikeln, Seife, Zahnbürste, ihrem Matheblock und Stiften. Sie erkennt, dass sie ihre große Tasche, viele Klamotten, ihr Kuscheltier und symbolisch auch die DDR und ihre Kindheit zurücklassen muss. Ein kurzer Moment des Zweifelns, doch sie wischt ihn beiseite. Bald wird der Bus nach Joutsa zum zweiten Wettkampftag fahren.'
+synopsis: 'Im Mittsommerlicht packt Eddie ihre kleine Reisetasche für die Flucht und lässt die große Tasche, ihr Kuscheltier – und symbolisch ein Stück DDR‑Kindheit – zurück.'
 mood: 'restless, tender, determined'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -15,19 +15,28 @@ proofreading:
   Ton:
     Einschaetzung: 'Praktisch, fokussiert, Eddie listet Dinge auf und denkt taktisch.'
     Kritik: 'Ton wirkt teils zu erwachsen und organisiert. Wenig jugendliche Unsicherheit oder Spontaneität.'
+    Fix: '2–3 kurze, jugendliche Gedankenfetzen/Asides einbauen; ein Mini‑Zweifel zulassen und sofort wegwischen; 1 trockener Witz lockert die Liste.'
+    Note: 3
   Logik:
     Einschaetzung: 'Das Packen ist nachvollziehbar und logisch strukturiert.'
     Kritik: 'Liste wirkt zu perfekt, ohne Ablenkung oder Fehler. Realismus würde mehr Chaos oder Fehlentscheidungen vertragen.'
+    Fix: 'Kleines „fast vergessen“-Detail einbauen (z. B. Zahnbürste/Seife); 1 unpraktische Entscheidung bewusst riskieren und benennen.'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie zeigt sich pragmatisch, selbständig.'
     Kritik: 'Ihre jugendliche Seite tritt zurück – kaum Emotion oder Trotz. Sie klingt fast wie eine Erwachsene auf Mission.'
+    Fix: 'Kurze Körpermarker ergänzen (Herzklopfen, kalte Hände, Lippenbeißen); 1 trotzig‑frecher Satz für Farbe.'
+    Note: 3
   Sprache:
     Einschaetzung: 'Klar, strukturiert, teilweise sachlich.'
     Kritik: 'Abschnitt klingt streckenweise wie eine Inventarliste. Wenig jugendliche Kommentare oder humorvolle Einwürfe.'
+    Fix: 'Aufzählungen in 1–2 kurze Sätze aufbrechen; Verben variieren statt nur „packen/stopfen“; 1 humorige Mini‑Beobachtung.'
+    Note: 2
   Fazit:
-    Staerken: 'Klarer Einblick in Eddies Vorbereitung, verdeutlicht ihre Sachlichkeit.'
-    Schwaechen: 'Zu perfekt, zu sachlich, wenig jugendliche Farbe.'
-    Fix: 'Ein paar chaotische Gedanken einbauen, Unsicherheit zeigen (was nehme ich, was vergesse ich?), jugendliche Kommentare ergänzen.'
+    Staerken: 'Klarer, nachvollziehbarer Ablauf; starker symbolischer Moment (Kuscheltierszene); gute Spannungsvorbereitung.'
+    Schwaechen: 'Listenhaft, punktuell zu erwachsen; wenig spontane Jugendsprache.'
+    Fix: '2–3 jugendliche Einwürfe, 1 „fast vergessen“-Moment, Mini‑Körpermarker; sonst belassen.'
+    Note: 2
 ---
 
 # Tasche packen

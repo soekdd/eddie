@@ -11,7 +11,7 @@ persons:
   - 'Mielke'
   - 'Mielkes Männer'
   - 'Mitarbeiter der BRD-Botschaft'
-synopsis: 'Eddie erzählt ihre Geschichte auf der Wache, Raija kontaktiert die BRD-Botschaft. Wegen Eddies Minderjährigkeit droht Auslieferung an Mielke, doch durch eine Schutzbehauptung kann sie in Polizeigewahrsam bleiben, bis die Botschaft Hilfe schickt.'
+synopsis: 'Auf der Wache erzählt Eddie ihre Geschichte, Raija erreicht die BRD‑Botschaft; wegen Minderjährigkeit droht Auslieferung, doch mit der Schutzbehauptung bleibt Eddie in Polizeigewahrsam, bis Hilfe kommt.'
 mood: 'emotional ups and downs, tense but hopeful'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -20,21 +20,30 @@ illustrations:
 proofreading:
   Kapitel: '120_In_der_Polizeistation'
   Ton:
-    Einschaetzung: 'Beklemmend, angespannt, Eddie schildert die Situation ernst und konzentriert.'
-    Kritik: 'Ton kippt stellenweise ins Protokollarische, zu glatt und reflektiert. Jugendlich-chaotische Gedanken fehlen fast völlig.'
+    Einschaetzung: 'Beklemmend, angespannt; Brüche zwischen Hoffnung (Telefonat) und Angst (Auslieferung) tragen die Szene.'
+    Kritik: 'Vereinzelt protokollarisch/erwachsen; jugendliche Impulsivität könnte stärker funkeln.'
+    Fix: '2–3 kurze Gedankenfetzen/Asides einbauen; 1 Atempause vor der „Schutzbehauptung“; Mini‑Kontrast zwischen Erleichterung und neuer Angst markieren.'
+    Note: 3
   Logik:
-    Einschaetzung: 'Darstellung der Polizeistation plausibel, Atmosphäre nachvollziehbar.'
-    Kritik: 'Dialoge wirken zu sachlich und glatt, wie aus einem Bericht. Mehr Brüche, Missverständnisse oder nonverbale Spannung wären realistischer.'
+    Einschaetzung: 'Abläufe plausibel (Anruf, Dokumente, Minderjährigkeit, Schutzbehauptung, Gewahrsam); Eskalation mit Mielke gut verortet.'
+    Kritik: 'Kleine Anker (Wer ruft wann? Tür/Position) könnten vereinzelt präzisiert werden.'
+    Fix: '1–2 Positions-/Zeitmarker ergänzen (Türrahmen, Flur, „nach zehn Minuten“); den Rechtskniff kurz als Vorschlag der Polizei labeln.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie zeigt Unsicherheit, Beamte wirken bedrohlich.'
-    Kritik: 'Eddies Angst wird zu kontrolliert dargestellt. Ihre körperliche Reaktion (zitternde Hände, Schweiß, unpassende Gedanken) fehlt. Beamte bleiben Stereotype.'
+    Einschaetzung: 'Eddie verletzlich, aber handlungsfähig; Raija tatkräftig und beschützend; Chef/Polizist mit klarer Linie.'
+    Kritik: 'Eddies Körpermarker sind punktuell da, könnten kurz vor dem Tumult noch einmal aufscheinen; Mielke/Übersetzer bleiben schematisch.'
+    Fix: '1 zusätzlicher Stressmarker bei Eddie (trockener Mund, kalte Hände) im Tumult; 1 prägnantes Detail beim Übersetzer/Mielke (Geste/Tonfall).'
+    Note: 3
   Sprache:
-    Einschaetzung: 'Klar, präzise.'
-    Kritik: 'Zu sachlich, zu erwachsen. Wenig jugendliche Sprachelemente oder rotzige Gedanken, die Eddie sonst lebendig machen.'
+    Einschaetzung: 'Klar, gut strukturiert; Dialoge transportieren Information.'
+    Kritik: 'Mancher Dialog wirkt berichtend; mehr gesprochensprachliche Brüche würden Natürlichkeit erhöhen.'
+    Fix: 'Ein, zwei Dialogzeilen kürzen/teilen; 1–2 Füllwörter/Unterbrechungen („äh“, „warte…“) dezent einsetzen; ein langes Satzgefüge straffen.'
+    Note: 3
   Fazit:
-    Staerken: 'Atmosphäre beklemmend, zeigt Bedrohungssituation, wichtig für Handlung.'
-    Schwaechen: 'Zu glatt, zu protokollarisch, jugendliche Stimme fehlt, Figuren eindimensional.'
-    Fix: 'Mehr innere Gedanken und chaotische Gefühle einbauen, körperliche Reaktionen zeigen, Beamte differenzierter darstellen.'
+    Staerken: 'Starker Druck‑und‑Entlastungsbogen; glaubwürdige Behördenlogik; klare Rollen (Eddie/Raija/Polizei).'
+    Schwaechen: 'Teils protokollarischer Ton; Nebenfiguren minimal schablonenhaft.'
+    Fix: 'Jugendliche Stimme mit kurzen Asides; 1–2 Positions-/Zeitmarker; kleine Dialog‑Straffungen und 1 Detail für Übersetzer/Mielke.'
+    Note: 2
 ---
 
 # In der Polizeistation

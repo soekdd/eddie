@@ -7,7 +7,7 @@ persons:
   - 'Maria'
   - 'Klara'
   - 'Jens'
-synopsis: 'Eddie wandert allein weiter, denkt über die Wunder der letzten Tage nach, erinnert sich an Maria und an das Künstlerpaar Klara & Jens, reflektiert den Widerspruch zwischen Glauben und Mathematik und ehrt die Aufrichtigen mit einem kleinen Denkmal.'
+synopsis: 'Allein auf dem Weg ordnet Eddie die „Wunder“ der letzten Tage, denkt an Maria sowie Klara & Jens, versöhnt Glauben und Mathematik in sich und setzt den Aufrichtigen ein kleines Stein‑Denkmal.'
 mood: 'reflektierend, dankbar, nach innen gewandt'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -15,21 +15,30 @@ todo: 'konkrete Etappe bennen'
 proofreading:
   Kapitel: '350_Wunder'
   Ton:
-    Einschaetzung: 'Hoffnungsvoll, fast euphorisch. Eddie klingt erleichtert und staunend.'
-    Kritik: 'Ton schwankt zwischen authentischer Freude und zu großer Pathetik. Gefahr, dass es zu märchenhaft wirkt.'
+    Einschaetzung: 'Hoffnungsvoll, dankbar; ruhiges Gehen trägt eine sanfte, echte Erleichterung.'
+    Kritik: 'Pathetik lauert in Bildern/Metaphern; einzelne Stellen klingen märchenhaft.'
+    Fix: '1–2 schwere Bilder erden; 1 kurzer, nüchterner Gedankenfetzen („weiter, atmen, zählen“) als Kontrast; Ausrufe minimieren.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Das Wunderhafte ist nachvollziehbar als subjektive Wahrnehmung.'
-    Kritik: 'Die Plausibilität hängt stark von Eddies Empfindung ab, könnte für Leser rational nicht nachvollziehbar wirken.'
+    Einschaetzung: 'Wunder als subjektive Rahmung; Erinnerungen zu Maria/Klara/Jens fügen sich in den Weg.'
+    Kritik: 'Rationaler Leser könnte straucheln; Etappen-/Ortsanker minimal.'
+    Fix: '1 Mikro‑Etappenanker (Kilometer, Uhrzeitgefühl) ergänzen; 1 Halbsatz „ich nenne es Wunder“ als Selbstmarkierung.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie im Mittelpunkt, voller Emotion.'
-    Kritik: 'Andere Figuren treten kaum hervor; Eddies Begeisterung wirkt stellenweise übersteigert.'
+    Einschaetzung: 'Eddie nah; Maria/Klara/Jens als Werte‑Anker fühlbar.'
+    Kritik: 'Nebenfiguren bleiben Erinnerungsbilder; Eddies Begeisterung überhöht Stellen.'
+    Fix: 'Je Figur 1 konkretes, sinnliches Mini‑Detail (Hand, Geruch, Satzfetzen) einstreuen; Begeisterungsstellen mit kurzer Selbstironie kontern.'
+    Note: 3
   Sprache:
-    Einschaetzung: 'Bildhaft, emotional.'
-    Kritik: 'Teilweise überladen, viele Metaphern und Ausrufe. Füllwörter verstärken den pathetischen Eindruck.'
+    Einschaetzung: 'Bildhaft, fließend; Natur- und Geh‑Rhythmus tragen.'
+    Kritik: 'Metaphernfülle/„Glitzern“ häuft sich; Füllwörter/Ausrufe verstärken Pathos.'
+    Fix: '2–3 Metaphern reduzieren/variieren; 1–2 lange Perioden teilen; 1 rotzig‑kurzer Satz als Widerlager.'
+    Note: 2
   Fazit:
-    Staerken: 'Transportiert Hoffnung und Erleichterung, wichtiger Wendepunkt für Eddies Gefühlslage.'
-    Schwaechen: 'Übersteigerte Emotionen, Pathos-Gefahr, Nebenfiguren blass.'
-    Fix: 'Freude etwas erden, mehr innere Reflexion statt nur Ausrufungen, Nebenfiguren stärker einbeziehen.'
+    Staerken: 'Intime, versöhnende Innenbewegung; schönes Dank‑Motiv (Steinmännchen).'
+    Schwaechen: 'Pathetikgefahr; Nebenfiguren nur als Idee.'
+    Fix: 'Leicht erden (Etappenanker, knappe Kontrastsätze), 1–2 sinnliche Mini‑Details zu Maria/Klara/Jens; Sprachbilder dosieren.'
+    Note: 2
 ---
 
 # Wunder

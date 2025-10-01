@@ -17,19 +17,28 @@ proofreading:
   Ton:
     Einschaetzung: 'Intim, verletzlich; nächtliche Schuldspirale mit tröstender Nähe durch Raija.'
     Kritik: 'Stellenweise sehr literarisch; ein paar jugendliche, direkte Gedankenfetzen würden Pathos brechen und Unmittelbarkeit erhöhen.'
+    Fix: '2–3 kurze, direkte Gedankenfetzen einstreuen (z. B. „nicht fair“, „ich hasse diese Mauern“); 1 winziger Trotz-/Wut‑Moment vor der Beruhigung setzen.'
+    Note: 2
   Logik:
     Einschaetzung: 'Vorstellung von Verhören plausibel; zweite Nacht nach der Flucht sauber verortet.'
     Kritik: 'Gefühle überwiegend homogen (Schuld/Trauer); ein kurzer Widerhaken (Wut/Trotz/klare Entscheidung) könnte die Kurve abwechslungsreicher machen.'
+    Fix: '1 Widerhaken setzen (kurzer Entschluss/ Trotzsatz: „morgen halte ich durch“); 1 Mikro‑Zeitanker (tiefe Nacht, Uhr) ergänzen.'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie offen und roh; Raija fürsorglich, anfassbar durch körperliche Nähe.'
     Kritik: 'Familie idealisiert; ein kleines, ambivalentes Detail (z. B. Vaters Strenge vs. Liebe) würde Tiefe geben.'
+    Fix: 'Je Elternteil 1 ambivalentes Mini‑Detail andeuten (Vaters Strenge vs. Wärme; Mutters Blick vs. Schweigen).'
+    Note: 3
   Sprache:
     Einschaetzung: 'Bildhaft und flüssig; starke Sinneseindrücke (Wärme, Atem, Nachtgeräusche).'
     Kritik: 'Einige Metaphern und längere Sätze straffen; 1–2 kurze Sätze/Einwürfe im Jugendsound einstreuen.'
+    Fix: '2 längere Sätze teilen; 1–2 Metaphern reduzieren; 1 kurzer, rotziger Satz als Kontrast.'
+    Note: 2
   Fazit:
     Staerken: 'Konzentrierte Innenwelt, glaubhafte Schuld, tröstende Beziehung zu Raija.'
     Schwaechen: 'Pathetik-Gefahr, wenig Ambivalenz in Elternbild.'
     Fix: '2–3 knappe Gedankenfetzen („nicht fair“, „ich hasse diese Mauern“), ein ambivalentes Eltern-Detail, Metaphern minimal reduzieren.'
+    Note: 2
 ---
 
 # Schuldgefühle

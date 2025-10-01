@@ -9,7 +9,7 @@ persons:
   - 'Conny'
   - 'Peter'
   - 'Matti'
-synopsis: 'Beim Aufbruch schenken die Freunde Eddie Ausrüstung und sprechen ihr Mut zu, mit einem Ziel im Westen: Paderborn.'
+synopsis: 'Beim Aufbruch schenken Conny, Sabine, Peter und Matti Eddie Ausrüstung und Mut; sie verabreden als fernes Ziel „Paderborn“, bevor sie im Regen davonpaddeln.'
 mood: 'hopeful and heartwarming'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -17,26 +17,35 @@ source: 'https://ita-ikaalistenvpk.fi/elamyskota/'
 illustrations:
   - 'FIN_Vaasalopet_Abschied.png'
 proofreading:
-  Kapitel: '350_Abschied_Conny_Sabine_Peter_und_Matti'
+  Kapitel: '340_Abschied_Conny_Sabine_Peter_und_Matti'
   Ton:
-    Einschaetzung: 'Ernst, traurig, Abschiedsstimmung. Eddie schildert mit Respekt und Nachdenklichkeit.'
-    Kritik: 'Ton kippt teilweise ins Pathetische, mit zu vielen schweren Bildern. Gefahr, dass es melodramatisch wirkt.'
+    Einschaetzung: 'Warm und hoffnungsvoll; zarter Abschied mit leiser Entschlossenheit.'
+    Kritik: 'Punktuell pathosanfällig; einzelne Sätze tragen viel Gewicht.'
+    Fix: '1–2 schwere Bilder straffen/erden; 1 kurzer Atempunkt (Stille/Regenhorchen) vor dem Aufbruch; 1 jugendlicher Gedankenfetzen („nicht heulen…“) setzen.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Abschiedsszene nachvollziehbar, dramaturgisch sinnvoll.'
-    Kritik: 'Die Emotionalität steigert sich sehr schnell; Übergang von locker zu schwer wirkt abrupt.'
+    Einschaetzung: 'Abschied plausibel (Packen → Geschenk → Verabredung → Abfahrt); Paderborn‑Ziel gibt Richtung.'
+    Kritik: 'Wechsel von Scherz zu Ernst sehr schnell; Raum-/Zeitanker gering.'
+    Fix: '1 Mikro‑Beat zwischen Witz und Ernst (Blicke/Schweigen); 1 Zeit-/Raumanker (Regen, Uhr, Steg) ergänzen.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddies Traurigkeit ist spürbar, die anderen Figuren haben erkennbaren Abschiedscharakter.'
-    Kritik: 'Manche Figuren bleiben klischeehaft (übertrieben wehmütig oder heroisch). Eddie wirkt eher beobachtend als selbst tief betroffen.'
+    Einschaetzung: 'Vierergruppe mit klaren Rollen; Eddie dankbar und bewegt.'
+    Kritik: 'Eddies Verletzlichkeit/Unsicherheit könnte körperlich kurz aufscheinen; Nebenfiguren profitieren von je 1 Mikrodetail.'
+    Fix: 'Eddie 2 Körpermarker (Kloß im Hals, feuchte Hände); je Figur 1 kleine Geste/Stimmlage; Conny’s Angebot 1 sachlicher Satz als Kontrast.'
+    Note: 3
   Sprache:
-    Einschaetzung: 'Bildhaft, gefühlsbetont.'
-    Kritik: 'Stellenweise überladen mit Metaphern, einige Sätze zu geschraubt. Tempuswechsel zwischen Präsens und Präteritum unsauber.'
+    Einschaetzung: 'Bildhaft und klar; gute Schlussbilder (Boote, Stille am See).'
+    Kritik: 'Einzelne Metaphern/Perioden schwer; Tempus im Präsens halten.'
+    Fix: '2 längere Sätze teilen; 1–2 Metaphern reduzieren; Tempus konsistent im Präsens; 1 rotziger Kurzsatz als Kontrast.'
+    Note: 2
   Fazit:
-    Staerken: 'Abschied wird stark inszeniert, emotionale Schwere transportiert sich.'
-    Schwaechen: 'Melodramatische Züge, unsaubere Tempusführung, Eddie wirkt distanziert.'
-    Fix: 'Emotionen authentischer, direkter zeigen, Pathos reduzieren, Tempus durchgehend klar halten.'
+    Staerken: 'Herzliches Abschiedsritual; konkreter Rückenwind (Ausrüstung, Ziel), Hoffnungsschub.'
+    Schwaechen: 'Leichter Pathos‑Schimmer; Figurenmikrodetails ausbaubar.'
+    Fix: 'Kurzer Still‑Beat + Körpermarker, Mikrogesten je Figur, Sprache minimal straffen/erde n.'
+    Note: 2
 ---
 
-# Abschied „Conny, Sabine, Peter und Matti“
+# Abschied
 
 Wir packen die Schlafsäcke zusammen, die Boote werden klar gemacht, und
 irgendwie merkt man, dass keiner so richtig Eile hat. Jeder Schritt dauert ein

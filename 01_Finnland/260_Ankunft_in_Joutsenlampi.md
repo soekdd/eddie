@@ -7,7 +7,7 @@ place: 'Joutsenlampi'
 persons:
   - 'Eddie'
   - 'andere Teilnehmer des DDR-Teams'
-synopsis: 'Beim Aufbruch schenken die Freunde Eddie Ausrüstung und sprechen ihr Mut zu, mit einem Ziel im Westen: Paderborn.'
+synopsis: 'Frühe Ankunft der DDR‑Delegation in Joutsenlampi: Eddie erlebt Flug, Busfahrt und die überraschend großzügige Anlage – staunend allein in der ersten Nacht.'
 mood: 'hopeful and heartwarming'
 tense: 'present, Eddies first-person perspective'
 mode: 'flashback'
@@ -17,23 +17,32 @@ illustrations:
   - 'FIN_Jotsenlampi_Sauna_Wasser.png'
   - 'FIN_Jotsenlampi_Sauna_zu_dritt.png'
 proofreading:
-  Kapitel: '270_Ankunft_in_Joutsenlampi'
+  Kapitel: '260_Ankunft_in_Joutsenlampi'
   Ton:
-    Einschaetzung: 'Beobachtend, neugierig, mit einem Hauch Ehrfurcht. Eddie beschreibt die Ankunft recht nüchtern.'
-    Kritik: 'Ton kippt teilweise ins Reiseführerhafte. Wenig persönliche Färbung, mehr Beschreibung als innere Beteiligung.'
+    Einschaetzung: 'Warm, staunend, dankbar; Ankunfts‑Wunder vs. DDR‑Vergleich.'
+    Kritik: 'Punktuell essayistisch (Kapitalismus‑Kontrast); Risiko, dass Reflexion die jugendliche Unmittelbarkeit überdeckt.'
+    Fix: '1–2 jugendliche Asides/kurze Witze einstreuen; 1 Atempause als reines Staunen (ohne Kommentar); ideologische Sätze leicht straffen.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Ablauf der Ankunft nachvollziehbar, keine groben Logikfehler.'
-    Kritik: 'Die Orientierung Eddies wirkt zu souverän; als Fremde könnte sie stärker stolpern oder zweifeln.'
+    Einschaetzung: 'Frühanreise (Finnair‑Takt) → Bus → Camp; erste Nacht allein: schlüssig.'
+    Kritik: 'Zeit-/Ablaufmarker teils implizit; Bus/Empfang kurz verankern.'
+    Fix: '1 Mikro‑Zeitanker (einen Tag früher) und 1 Positionshinweis (Bus/Empfang) ergänzen.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Nebenfiguren bleiben blass, Fokus liegt klar auf Eddie.'
-    Kritik: 'Eddie zeigt wenig Emotionen; wirkt eher wie eine Beobachterin als wie eine Jugendliche im Ausnahmezustand.'
+    Einschaetzung: 'Eddie als staunende Ich‑Stimme; Organisatoren und spätere Mitbewohner als Silhouetten.'
+    Kritik: 'Nebenfiguren schemenhaft; 1–2 Mikro‑Details würden Lebendigkeit geben (Stewardess, Betreuer, Zimmergenossinnen).'
+    Fix: 'Je 1 Sinnesdetail (Geruch/Handgeste/Tonfall) für eine Nebenfigur; 1 kurzer Körpermarker bei Eddie (kalte Hände/kribbeln vor Aufregung).'
+    Note: 3
   Sprache:
-    Einschaetzung: 'Flüssig, klare Sätze.'
-    Kritik: 'Einige unnötige Füllwörter, stellenweise zu lange Satzketten. Direkte Rede wirkt etwas gestelzt.'
+    Einschaetzung: 'Bildhaft, flüssig, klare Szenenwechsel.'
+    Kritik: 'Einige lange Perioden und generalisierende Aussagen; Jugendton kann punktuell aufblitzen.'
+    Fix: '1–2 lange Sätze teilen; 1 generalisierende Passage kürzen; 1 rotzig‑kurzer Satz als Kontrast einfügen.'
+    Note: 2
   Fazit:
-    Staerken: 'Klares Bild der Umgebung, Szenenfolge verständlich.'
-    Schwaechen: 'Zu distanziert erzählt, wenig Emotionen, Eddie wirkt zu reif.'
-    Fix: 'Mehr innere Reaktionen einbauen (Staunen, Unsicherheit, Vergleiche), jugendliche Farbe stärken, Sprache straffen.'
+    Staerken: 'Starkes Worldbuilding, glaubwürdige Ankunft, schöne Wärme/Staunen.'
+    Schwaechen: 'Essayistische Passagen; Nebenfiguren blass.'
+    Fix: 'Leicht straffen, 2–3 Jugend‑Asides, 1–2 Mikrodetails (Nebenfigur), 1 Körpermarker.'
+    Note: 2
 ---
 
 # Ankunft in Joutsenlampi

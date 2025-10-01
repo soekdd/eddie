@@ -5,7 +5,7 @@ daytime: 'noon'
 place: 'Toilette Gymnasium Joutsa'
 persons:
   - 'Eddie'
-synopsis: 'Eddie färbt heimlich ihre Haare mit Schuhcreme und dreht die Jacke um, um unerkannt die Schule zu verlassen.'
+synopsis: 'In der Schultoilette dreht Eddie die Jacke auf schwarz und färbt hastig mit Schuhcreme die Haare, um unerkannt mit den anderen das Gebäude zu verlassen.'
 mood: 'tense, desperate, transformative'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -14,21 +14,30 @@ illustrations:
 proofreading:
   Kapitel: '080_Umstyling'
   Ton:
-    Einschaetzung: 'Locker, verspielt, Eddie beschreibt das Verändern ihres Aussehens neugierig und witzig.'
-    Kritik: 'Ton kippt stellenweise ins Klamaukige, fast wie Comedy-Sketch. Eddies Nervosität über die Tarnung kommt zu kurz.'
+    Einschaetzung: 'Atemlos, körpernah; panisch‑humorige Stimme im engen Toilettenraum.'
+    Kritik: 'Humor droht punktuell den Ernst zu überblenden; 1 Ruhe-/Atempause vor dem Aufbruch würde die Spannung steigern.'
+    Fix: 'Witz dosieren (1–2 Gags streichen), 1 kurze Atempause/Stillmoment setzen, 1 Satz echte Verunsicherung („erkenne ich mich noch?“).'
+    Note: 2
   Logik:
-    Einschaetzung: 'Umstyling als Schutzmaßnahme plausibel und nachvollziehbar.'
-    Kritik: 'Die Leichtigkeit, mit der Eddie das Umstyling hinnimmt, wirkt unrealistisch. Zweifel („erkenne ich mich noch?“) fehlen.'
+    Einschaetzung: 'Tarnmaßnahme und Reihenfolge (Jacke, Haare, Abgang mit Gruppe) sind plausibel.'
+    Kritik: 'Kleine Plausibilitätsfragen bleiben offen (Geruch/Schmierflecken, Entsorgung/Verstauen des Bürstchens).'
+    Fix: '1 Mikrodetail ergänzen (Geruch/Säubern Hände; Bürstchen/Dose verstauen), Abgang im Pulk kurz markieren.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie steht im Fokus, selbstironisch, Nebenfiguren als Helfer klar erkennbar.'
-    Kritik: 'Ihre jugendliche Verletzlichkeit wird kaum sichtbar – sie wirkt zu cool. Helferfiguren bleiben blass und ohne eigene Farbe.'
+    Einschaetzung: 'Eddie entschlossen, aber verletzlich; Vaters Einfluss spürbar.'
+    Kritik: 'Nebenfiguren bleiben Kulisse; Reaktion auf die Jungs-Gruppe könnte Eddies Nervosität noch stärker spiegeln.'
+    Fix: '1 kurzer Blick-/Körpermarker auf die Jungs (zusammenzucken, Luft anhalten), 1 Dank/Fluch an Papa als Gedankensplitter.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Dialogorientiert, humorvoll, lebendig.'
-    Kritik: 'Zu viele Witze auf engem Raum. Füllwörter und Auslassungspunkte häufen sich. Gefahr von Redundanz.'
+    Einschaetzung: 'Direkt, rhythmisch, starke Verben; gute Sinneseindrücke (Licht, Geräusche, Haptik).'
+    Kritik: 'Einige Ausrufe/Redundanzen; Auslassungspunkte/Interjektionen minimal straffen.'
+    Fix: '1–2 Ausrufezeichen/… streichen, 1 langen Satz teilen, Wortwiederholung reduzieren.'
+    Note: 2
   Fazit:
-    Staerken: 'Originelle Szene, zeigt jugendlichen Humor und Eddie als wandelbar.'
-    Schwaechen: 'Zu klamaukig, wenig echte Verunsicherung, Nebenfiguren farblos.'
-    Fix: 'Mehr Unsicherheit und Selbstzweifel einbauen, Witz dosieren, Nebenfiguren aktiver zeichnen.'
+    Staerken: 'Hohe Unmittelbarkeit; konkreter Plan in Aktion; prägnantes Impro‑Detail (Schuhcreme).'
+    Schwaechen: 'Humor-Dichte leicht hoch; kleine Plausibilitätsfragen (Geruch/Schmiere).'
+    Fix: 'Witz kalibrieren, 1 Plausibilitätsdetail ergänzen, 1 Atempause setzen.'
+    Note: 2
 ---
 
 # Umstyling

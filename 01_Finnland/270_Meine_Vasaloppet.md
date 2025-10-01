@@ -10,28 +10,37 @@ persons:
   - 'Gustav Vasa'
   - 'Eddie'
   - 'vier deutsche Jugendliche'
-synopsis: 'Eddie erinnert sich an die Vasaloppet-Geschichte ihres Vaters und sieht ihre eigene Flucht als persönlichen Vasaloppet, bis sie im finnischen Wald auf vier junge Deutsche trifft.'
+synopsis: 'Eddie spannt die Vasaloppet‑Legende ihres Vaters auf ihre Flucht: Sie macht den Marsch nach Vaasa zu ihrer eigenen „Vasaloppet“ – bis sie im finnischen Wald auf vier junge Deutsche trifft.'
 mood: 'tense but hopeful'
 tense: 'past, Eddies first-person perspective'
 mode: 'flashback'
 proofreading:
-  Kapitel: '280_Meine_Vasaloppet'
+  Kapitel: '270_Meine_Vasaloppet'
   Ton:
-    Einschaetzung: 'Leicht spöttisch, sportlich-übermütig, Eddie zieht Vergleiche zum Skirennen.'
-    Kritik: 'Ton schwankt zwischen humorvoller Rotzgöre und zu technischer Beschreibung. Streckenweise wirkt es wie Sportreportage.'
+    Einschaetzung: 'Motivierend und bildhaft; sportliche Metapher trägt den inneren Antrieb.'
+    Kritik: 'Teils essayistisch/reportagehaft; die Legende nimmt viel Raum und überstrahlt die unmittelbare, jugendliche Stimme.'
+    Fix: '1–2 jugendliche Asides/kurze Rotz‑Sätze einstreuen; Vasaloppet‑Exkurs leicht kürzen; 1 Atempause reines Körpergefühl (ohne Kommentar).'
+    Note: 3
   Logik:
-    Einschaetzung: 'Vergleiche mit Vasaloppet plausibel, vermittelt Anstrengung und Leistung.'
-    Kritik: 'Teilweise zu viel Detail, könnte den Leser ermüden. Eddie wirkt fast überinformiert über sportliche Abläufe.'
+    Einschaetzung: 'Übertragung der Legende auf den Marsch nach Vaasa ist schlüssig; Distanzen/Belastung nachvollziehbar.'
+    Kritik: 'Historischer Exkurs lang; Tagesablauf/Etappen könnten mit einem Mikro‑Zeitanker geerdet werden.'
+    Fix: '1 Mikro‑Zeitanker (Tageslicht, Kilometerstand) ergänzen; Legendenpassage um 1–2 Sätze straffen.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie steht klar im Mittelpunkt, selbstironisch, kämpferisch.'
-    Kritik: 'Ihre Verletzlichkeit tritt zu wenig hervor; sie wirkt eher cool als erschöpft oder unsicher.'
+    Einschaetzung: 'Eddie kämpferisch und selbstironisch; Vater als Ursprung der Metapher präsent.'
+    Kritik: 'Verletzlichkeit/Erschöpfung blitzt wenig; kommende Nebenfiguren (vier Deutsche) noch Silhouetten.'
+    Fix: '2 kurze Körpermarker (brennende Füße, trockener Mund) setzen; beim ersten Aufeinandertreffen 1 Mikro‑Detail pro Nebenfigur andeuten.'
+    Note: 3
   Sprache:
-    Einschaetzung: 'Rhythmisch, teilweise witzig formuliert.'
-    Kritik: 'Manche Sätze zu lang, Redundanzen in den Beschreibungen. Füllwörter könnten reduziert werden.'
+    Einschaetzung: 'Rhythmisch und anschaulich; starke Bilder im Natur‑ und Rennmotiv.'
+    Kritik: 'Lange Perioden und Redundanzen; gelegentlich lehrbuchhafter Ton.'
+    Fix: '2–3 lange Sätze teilen; Dopplungen streichen; 1 rotziger Kurzsatz als Kontrast einfügen.'
+    Note: 2
   Fazit:
-    Staerken: 'Sportliche Metapher macht Szene bildhaft, Eddie zeigt Energie und Durchhaltewillen.'
-    Schwaechen: 'Zu sehr Reportage-Ton, wenig Emotionstiefe, technische Detailfülle.'
-    Fix: 'Mehr innere Gedanken/Erschöpfung einbauen, Reportage-Stil reduzieren, Sprache straffen.'
+    Staerken: 'Tragfähige Leitmetapher, klare Motivation, spürbarer Vorwärtsdrang.'
+    Schwaechen: 'Exkurs dominiert stellenweise; körperliche Verletzlichkeit und Nebenfiguren noch blass.'
+    Fix: 'Legende leicht straffen, 2 Körpermarker, 1–2 Jugend‑Asides, Mikro‑Details bei Begegnung; Sprache moderat straffen.'
+    Note: 2
 ---
 
 # Meine Vasaloppet

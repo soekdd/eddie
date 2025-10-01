@@ -5,7 +5,7 @@ daytime: 'night'
 place: 'Joutsenlampi'
 persons:
   - 'Eddie'
-synopsis: 'Eddie liegt schlaflos in der Mittsommernacht, denkt an Mielkes bedrohliche Worte nach dem Pokerspiel und fühlt sich zerrissen zwischen Angst und Trotz.'
+synopsis: 'In der hellen Mittsommernacht wälzt sich Eddie schlaflos, die Hitze und Mielkes Blick im Nacken, zwischen Trotz und Angst vor dem morgigen Wettkampf und dem endgültigen Abschied von Edmilla.'
 mood: 'restless, tense, oppressive twilight'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -16,19 +16,40 @@ proofreading:
   Ton:
     Einschaetzung: 'Introspektiv, nervös, Eddie wirkt aufgewühlt und gedanklich sprunghaft.'
     Kritik: 'Ton schwankt zwischen jugendlicher Direktheit und sehr literarischen Formulierungen. Gefahr, dass Authentizität leidet.'
+    Fix:
+      - 'Jugendliche Direktheit konsequent priorisieren, überhöhte Bilder sparsam dosieren.'
+      - 'Kurze, abgehackte Sätze an Peak-Stellen setzen, um Unruhe zu tragen.'
+      - 'Gezielt wenige Füllwörter/Stocker zulassen, damit die Stimme weniger glatt wirkt.'
+    Note: 3
   Logik:
     Einschaetzung: 'Schlaflosigkeit als Einstieg plausibel, baut Spannung auf.'
     Kritik: 'Gedankenfluss manchmal zu komplex und reflektiert für eine 17-Jährige in dieser Situation. Könnte spontaner und ungeordneter wirken.'
+    Fix:
+      - 'Mielke-Flashback mit einem klaren Einsatz markieren (1 kurzer Übergang).'
+      - 'Zeitgefühl punktuell erden (»jetzt«, »gleich«, »morgen«), um den Drift zu strukturieren.'
+      - 'Ein, zwei Gedankensprünge roh stehen lassen statt zu erklären.'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie klar im Fokus, verletzlich und wach.'
     Kritik: 'Ihre Unsicherheit ist spürbar, aber auch hier klingt sie stellenweise zu erwachsen. Nebenfiguren treten nicht auf.'
+    Fix:
+      - 'Zwei spontane Selbstkorrekturen/Abbrüche einbauen, um Unsicherheit zu zeigen.'
+      - 'Mielke im Rückblick mit einem zusätzlichen sensorischen Detail verankern (Stimme, Geruch) statt Bewertung.'
+      - 'Optional: leises Detail der Zimmergenossinnen als Kontrast (Drehen, Seufzer).'
+    Note: 3
   Sprache:
     Einschaetzung: 'Bildhaft, rhythmisch.'
     Kritik: 'Teilweise überinszeniert, zu viele Metaphern. Füllwörter fehlen fast komplett – dadurch wirkt es zu glatt und wenig jugendlich.'
+    Fix:
+      - '3–5 überinszenierte Metaphern streichen oder durch konkrete Sinneseindrücke ersetzen.'
+      - 'Satzrhythmus variieren: kurze Hämmer zwischen längere Bilder stellen.'
+      - 'Sparsam natürliche Pausenwörter einstreuen (z. B. »halt«, »irgendwie«).'
+    Note: 3
   Fazit:
     Staerken: 'Starker Einstieg, vermittelt Unruhe und Erwartung, Leser ist sofort bei Eddie.'
     Schwaechen: 'Zu literarisch und reflektiert, jugendliche Direktheit fehlt an einigen Stellen.'
     Fix: 'Gedankenstrom sprunghafter machen, mehr jugendliche Spracheelemente einbauen, Metaphern reduzieren.'
+
 ---
 
 # Schlaflos

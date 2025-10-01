@@ -6,7 +6,7 @@ daytime: 'morning'
 place: 'Joutsenlampi'
 persons:
   - 'Eddie'
-synopsis: 'Eddie verwirft den Plan, mit dem Bus nach Helsinki zu fliehen – zu riskant, die Erfolgschance liegt unter zehn Prozent.'
+synopsis: 'Eddie rechnet den Bus‑nach‑Helsinki‑Plan durch und verwirft ihn: Zu wenig Deckung, zu viel Zufall – die Erfolgschance sinkt auf unter zehn Prozent.'
 mood: 'anxious, calculating, hopeless'
 tense: 'past, Eddies first-person perspective'
 mode: 'flashback'
@@ -15,19 +15,28 @@ proofreading:
   Ton:
     Einschaetzung: 'Frech, jugendlich, Eddie experimentiert mit Gedanken und wendet Mathe spielerisch an.'
     Kritik: 'Ton schwankt: teils gelungen jugendlich, teils zu schulbuchhaft erklärt. Gefahr, dass es zu didaktisch klingt.'
+    Fix: '2–3 kurze, freche Gedankenfetzen/Asides einstreuen; einen nüchternen Erklärblock in Bild/Szene auflösen; 1 Mini‑Kontrastmoment (Angst vs. Rechnen).'
+    Note: 3
   Logik:
     Einschaetzung: 'Spieltheorie als Motiv plausibel und originell.'
     Kritik: 'Manche Herleitungen wirken zu glatt und zu perfekt. Eddie könnte mehr stolpern oder Halbwissen zeigen.'
+    Fix: 'Ein Rechenschritt als „unsauber, reicht mir“ markieren; 1 Unsicherheitsannahme benennen (Busstandzeit, Frequenz) statt behaupten.'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie als Mathegenie ist klar erkennbar, zeigt Kreativität.'
     Kritik: 'Ihre jugendliche Verletzlichkeit tritt zurück, sie wirkt sehr souverän. Nebenfiguren fehlen.'
+    Fix: '1 kurzer Körpermarker (wippendes Bein, trockener Mund); 1 Satz zu Papa‑Stimme als Trigger verstärken; Nebenfigur nur andeuten (Herr Fischer/Schüler) für Resonanz.'
+    Note: 3
   Sprache:
     Einschaetzung: 'Anschaulich, witzige Vergleiche.'
     Kritik: 'Absätze mit Formeln wirken zu trocken, es gibt zu wenig innere Kommentare. Füllwörter und Spontaneität fehlen – Sprache fast zu glatt.'
+    Fix: 'Formelabsatz in 2 Sätze splitten und mit Bild verknüpfen; 1–2 überlange Sätze kürzen; Interjektion sparsam, aber zielgenau nutzen.'
+    Note: 3
   Fazit:
     Staerken: 'Originelle Mathe-Einbindung, Eddie zeigt Genialität und Witz.'
     Schwaechen: 'Didaktisch, zu souverän, jugendliche Direktheit fehlt.'
-    Fix: 'Mehr innere Einwürfe und jugendliche Kommentare, kleine Unsicherheiten, trockene Passagen straffen.'
+    Fix: 'Innere Einwürfe/Unsicherheiten ergänzen, 1–2 Sätze straffen/aufbrechen, einen Rechenschritt als Näherung kennzeichnen.'
+    Note: 3
 ---
 
 # Spieltheorie

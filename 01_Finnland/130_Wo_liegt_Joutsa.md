@@ -7,7 +7,7 @@ place: 'TU-Dresden, zu Hause'
 persons:
   - 'Eddie'
   - 'Eddies Vater'
-synopsis: 'Eddie schmuggelt heimlich Finnland-Karten aus dem Kartensaal und verwandelt sie mit ihrem Vater in geheime Geometrie-Aufgaben für ihre Flucht.'
+synopsis: 'Eddie schmuggelt Karten aus dem TU‑Kartensaal und verwandelt sie mit ihrem Vater in geheime Geometrie‑Aufgaben – ihr Fluchtatlas.'
 mood: 'tense but warm, secretive and hopeful'
 tense: 'past, Eddies first-person perspective'
 mode: 'flashback'
@@ -17,21 +17,30 @@ todo: 'Eddie erfährt erst am Flughafen Helsinki, wo genau die Reise hingeht.'
 proofreading:
   Kapitel: '130_Wo_liegt_Joutsa'
   Ton:
-    Einschaetzung: 'Erklärend, sachlich, Eddie beschreibt geografische und kulturelle Details.'
-    Kritik: 'Ton kippt ins Lexikonhafte, wenig jugendliche Farbe. Eddie klingt zu sehr wie eine Fremdenführerin.'
+    Einschaetzung: 'Geheimniskrämerei und Tüftel‑Energie; Vater‑Tochter‑Wärme schwingt mit.'
+    Kritik: 'Anfangs stellenweise lexikonhaft; jugendliche Farbe könnte an 1–2 Stellen kräftiger sein.'
+    Fix: '1–2 kurze, rotzige Asides einstreuen (z. B. „na klar…“); 1 Atempause, die das Risiko fühlbar macht.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Informationen zu Joutsa nachvollziehbar, plausibel eingebaut.'
-    Kritik: 'Infodump-Gefahr: zu viele Fakten auf einmal. Zusammenhang zu Eddies emotionaler Lage bleibt dünn.'
+    Einschaetzung: 'Plan (Karten → Versteck → Geometrie‑Verschlüsselung) schlüssig; heimliches Arbeiten nachvollziehbar.'
+    Kritik: 'Ein kleiner Plausibilitätsanker (Kartensaal‑Zugang/Aufsicht) könnte nachgeschoben werden.'
+    Fix: '1 Halbsatz zum „Fenster der Gelegenheit“/Aufsicht; 1 Mini‑Detail zum Versteckwechsel.
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie als Erzählerin klar im Fokus.'
-    Kritik: 'Ihre Persönlichkeit verschwindet hinter der Infoflut. Emotionale Reaktion (Langeweile, Neugier, Ironie) fehlt.'
+    Einschaetzung: 'Eddie als listige Planerin; Vater als ruhiger Komplize mit stiller Zuneigung.'
+    Kritik: 'Eddies Emotion (Stolz/Angst) könnte 1–2 Mal körperlich aufblitzen; Vater bekommt vor allem Funktion.'
+    Fix: 'Körpermarker für Eddie (trockener Mund, kribbelnde Finger); 1 kleine Vater‑Geste (Hand auf Schulter/Blick).'
+    Note: 3
   Sprache:
-    Einschaetzung: 'Klar, beschreibend.'
-    Kritik: 'Zu sachlich, wenig jugendliche Kommentare. Kaum spontane Assoziationen oder humorvolle Einwürfe.'
+    Einschaetzung: 'Klar, bildhaft, gute Tempo‑Wechsel zwischen Sachlichem und Erinnerung.'
+    Kritik: 'Punktuell aufzählend; ein wenig mehr Jugendlichkeit/Spontanität täte gut.'
+    Fix: '1 Aufzählung straffen/variieren; 1–2 jugendliche Einwürfe, 1 kurzer Witz auf Kosten der „mongolischen Karten“. '
+    Note: 2
   Fazit:
-    Staerken: 'Verortet die Handlung, gibt geografischen Rahmen.'
-    Schwaechen: 'Zu faktenlastig, jugendliche Stimme fehlt, Emotionen blass.'
-    Fix: 'Infos stärker mit Eddies Gedanken und Gefühlen verknüpfen, humorvolle Kommentare einbauen, Textfluss lebendiger gestalten.'
+    Staerken: 'Anschauliche Fluchtvorbereitung; cleveres Mathe‑Verschlüsseln; zarte Vater‑Tochter‑Nähe.'
+    Schwaechen: 'Anfangs sachlich/lexikonhaft; Figurenwärme könnte noch 1 Nuance bekommen.'
+    Fix: 'Kleinen Plausibilitätsanker, 2–3 jugendliche Einwürfe, 1 Körpermarker + 1 Vater‑Geste.'
+    Note: 2
 ---
 
 # Wo liegt Joutsa

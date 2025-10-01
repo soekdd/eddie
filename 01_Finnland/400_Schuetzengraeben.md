@@ -7,30 +7,39 @@ persons:
   - 'Eddie'
   - 'Sini'
   - 'Alter Arzt'
-synopsis: 'Eddie liegt mit schwerem Fieber in Sinis Wohnung, die sie liebevoll beschreibt. Sini hat ihre Schichten getauscht und weicht nicht von Eddies Seite. Eddie halluziniert, missversteht Sinis Telefonat als Gespräch mit einer unsichtbaren Person. Ein alter Arzt kommt, diagnostiziert Schützengrabensfuß, reinigt und verbindet die Wunden neu. Eddie erhält Tabletten, schläft lange und träumt grotesk von Mielke. Am Abend fühlt sie sich besser, Sini wechselt die Verbände erneut und bringt sie unter die Dusche. Eddie deliriert noch einmal und schläft schließlich in Sinis Armen ein.'
+synopsis: 'Fiebernd in Sinis Wohnung: Ein alter Arzt diagnostiziert Schützengrabensfuß, versorgt Eddies Wunden und verordnet Antibiotika; Sini pflegt, duscht und hält sie – zwischen Halluzinationen, Scham und zarter Nähe schläft Eddie schließlich in Sinis Armen ein.'
 mood: 'besorgt, fiebrig, intim, zärtlich, beängstigend, auch grotesk'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Fuesse_pflegen.png'
 proofreading:
-  Kapitel: '410_Schuetzengraeben'
+  Kapitel: '400_Schuetzengraeben'
   Ton:
-    Einschaetzung: 'Ernst, nachdenklich, mit deutlicher Metaphorik. Eddie beschreibt ihre Lage in Kriegsbildern.'
-    Kritik: 'Ton wirkt sehr erwachsen, die Metaphern sind schwer und literarisch. Gefahr: Verlust der jugendlichen Stimme.'
+    Einschaetzung: 'Fiebrig‑intim, körpernah; Pflege und Angst wechseln sich ab.'
+    Kritik: 'Kriegsmetaphern teils schwer/erwachsen; Jugendstimme droht zu verschwinden.'
+    Fix: '2–3 kurze, direkte Gedankenfetzen einstreuen (z. B. „nicht heulen“, „nicht Polizei“); 1–2 Metaphern vereinfachen/streichen; 1 Atempunkt vor/ nach der Arztbehandlung.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Die Kriegsvergleiche verdeutlichen Bedrohung und Angst.'
-    Kritik: 'Manche Vergleiche wirken überzogen, fast zu pathetisch für eine Jugendliche. Realitätsnähe leidet.'
+    Einschaetzung: 'Arztbesuch/Diagnose/Versorgung plausibel; Pflegeablauf stimmig.'
+    Kritik: 'Zeit-/Ablaufanker minimal; Telefonat/Herkunft des Arztes nur implizit.'
+    Fix: '1 Mikro‑Zeitanker („später Nachmittag“/„gegen Abend“); 1 Halbsatz: „Freund der Familie/ Kollege meines Kollegen“ o. ä.; Antibiotika‑Schema kurz verorten.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie tritt als reflektierende Figur hervor, ihre Angst wird sichtbar.'
-    Kritik: 'Die körperliche Dimension der Angst fehlt (Zittern, Atem, Herz). Stattdessen bleibt es bei Bildern und Gedanken.'
+    Einschaetzung: 'Eddie verletzlich und schamvoll; Sini fürsorglich, bestimmend; Arzt ruhig, erfahren.'
+    Kritik: 'Eddies Körperreaktionen könnten 1–2 Mal stärker blitzen; Sini/Arzt je 1 prägnantes Mini‑Detail (Stimme/Geste) hilft.'
+    Fix: 'Eddie: zittrige Hände/ trockener Mund vor der Dusche; Sini: Signaturgeste (Augenbraue/Hand an Stirn); Arzt: ruhige Hände/geruch nach Desinfektion.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Bildreich, stark metaphorisch.'
-    Kritik: 'Zu viele schwere Bilder hintereinander, kaum jugendliche Direktheit. Sprache wirkt eher literarisch als authentisch.'
+    Einschaetzung: 'Bildhaft und klar geführt; gute Sinneseindrücke (Geruch, Wärme, Nässe).'
+    Kritik: 'Metaphernlast stellenweise hoch; vereinzelt lange Perioden.'
+    Fix: '2–3 Metaphern reduzieren/variieren; 1–2 lange Sätze teilen; 1 rotziger Kurzsatz als Jugend‑Kontrast.'
+    Note: 2
   Fazit:
-    Staerken: 'Kraftvolle Metaphorik, verdeutlicht Bedrohung, atmosphärisch dicht.'
-    Schwaechen: 'Zu erwachsen und pathetisch, Körperreaktionen fehlen, Gefahr von Distanzierung.'
-    Fix: 'Metaphorik reduzieren, jugendlichere Sprache einbauen, mehr unmittelbare körperliche Reaktionen zeigen.'
+    Staerken: 'Intime Pflege‑Szene mit glaubwürdiger medizinischer Note; Beziehung zu Sini vertieft sich.'
+    Schwaechen: 'Metaphern/Erwachsenenton punktuell schwer; Ablaufanker knapp.'
+    Fix: 'Jugendliche Gedankenfetzen/Körpermarker ergänzen; 1–2 Zeit‑/Beziehungsanker; Sprache leicht straffen.'
+    Note: 2
 ---
 
 # Schützengräben

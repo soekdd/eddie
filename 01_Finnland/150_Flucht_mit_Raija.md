@@ -16,19 +16,28 @@ proofreading:
   Ton:
     Einschaetzung: 'Angespannte Autofahrt kippt in kurze Geborgenheit; Eddie vergleicht DDR und Finnland aus unmittelbarer, persönlicher Perspektive.'
     Kritik: 'Einzelne Passagen klingen berichtend/essayistisch (Trabi-Exkurs); mehr kurze, atemlose Sätze und Gedankenfetzen würden die Unmittelbarkeit erhöhen.'
+    Fix: 'Trabi-Passage kürzen/verdichten; 1–2 atemlose Gedankenfetzen während der Fahrt; 1 kurzer Atempause-Moment vor Ankunft.'
+    Note: 3
   Logik:
     Einschaetzung: 'Flucht plausibel (Diplomatenkennzeichen, Ausfahrt), Ziel Jyväskylä nachvollziehbar.'
     Kritik: 'Spannung fällt nach Ankunft sehr schnell ab; eine kleine Restparanoia im Treppenhaus oder am Fenster könnte die Glaubwürdigkeit stärken.'
+    Fix: '1–2 Restparanoia-Marker (Treppenhaus, Fenster, horchen) ergänzen; kurzer Zeit-/Positionsanker bei der Einfahrt ins Wohngebiet.'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Raija entschieden und fürsorglich; Eddie wach, dankbar; Jorma als erste, distanzierte Kontur.'
     Kritik: 'Raijas individuelle Farbe (kleine Eigenheit, Geste oder Spruch) fehlt; Jormas Ambivalenz ließe sich über ein prägnantes Detail vertiefen (zögernder Händedruck, abgewandter Blick).'
+    Fix: 'Raija 1 typische Geste/Floskel geben; Jorma 1 ambivalentes Mikrodetail (Blick/Berührung) setzen; Eddie 1 kurzer Körpermarker (Kloß im Hals).'
+    Note: 3
   Sprache:
     Einschaetzung: 'Klar und bildhaft, starke Kontraste zwischen DDR-Alltag und finnischer Stadt.'
     Kritik: 'Der lange Trabant-Abschnitt bremst; Zahlen/Preise straffen oder in eine knappe Erinnerung fassen; punktuell jugendliche Asides dosiert einstreuen.'
+    Fix: 'Zahlen/Preise zu 1–2 Sätzen komprimieren; 1–2 rotzige Kurzsätze einstreuen; längere Perioden aufbrechen.'
+    Note: 2
   Fazit:
     Staerken: 'Tempo-Wechsel (Flucht → Ruhe), glaubwürdige Fürsorge, atmosphärische Stadteindrücke.'
     Schwaechen: 'Exposition lastet, Restangst könnte länger nachhallen.'
     Fix: 'Trabi-Exkurs kürzen/verdichten; 1–2 kurze Gedankenfetzen während der Fahrt; kleines widersprüchliches Detail zu Raija/Jorma ergänzen.'
+    Note: 2
 ---
 
 # Flucht mit Raija

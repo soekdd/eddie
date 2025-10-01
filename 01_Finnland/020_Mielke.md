@@ -6,7 +6,7 @@ daytime: 'day'
 place: 'Berlin'
 persons:
   - 'Kosmol alias Mielke'
-synopsis: 'Eddie erinnert sich an ihre erste Begegnung mit Kosmol in Berlin – sie nennt ihn sofort „Mielke“ wegen seiner bedrohlichen Ausstrahlung.'
+synopsis: 'Eddies erste Begegnung mit Kosmol in Berlin; seine bedrohliche Ausstrahlung lässt sie ihn sofort „Mielke“ nennen.'
 mood: 'ominous, oppressive, unsettling'
 tense: 'past, Eddies first-person perspective'
 mode: 'flashback'
@@ -15,21 +15,30 @@ illustrations:
 proofreading:
   Kapitel: '020_Mielke'
   Ton:
-    Einschaetzung: 'Düster, bedrohlich, Eddie denkt über Macht und Angst nach.'
-    Kritik: 'Ton wirkt sehr literarisch und erwachsen. Wenig jugendliche Direktheit, Gefahr der Überhöhung.'
+    Einschaetzung: 'Düster, bedrohlich; klare, jugendliche Stimme mit frechen Spitzen.'
+    Kritik: 'Manche Spitzen wiederholen sich; 1–2 ruhigere Kontrastmomente könnten die Bedrohung verstärken.'
+    Fix: 'Eine kurze, stille Beobachtung einfügen (Handgeste/Blick), eine Doppelung streichen.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Bezug zu Mielke plausibel, verankert im DDR-Kontext.'
-    Kritik: 'Einige Passagen wirken erklärend und referierend, fast wie Geschichtsstunde. Könnte stärker aus Eddies unmittelbarer Sicht erzählt sein.'
+    Einschaetzung: 'Kurzes Erinnerungsbild, klar verortet (Berlin, Flug); Spitzname aus der Wirkung abgeleitet.'
+    Kritik: 'Zeit-/Ort-Marker minimal; ein Halbsatz zum Kontext (wo genau) könnte erden.'
+    Fix: 'Einen winzigen Ortsanker ergänzen (z. B. Flughafenhalle, Gang zum Gate).'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie reflektiert, Mielke erscheint als Symbolfigur.'
-    Kritik: 'Eddie wirkt zu abgeklärt, fast wie Historikerin. Ihre jugendliche Perspektive und Angst treten in den Hintergrund.'
+    Einschaetzung: 'Eddie als Erzählerin kantig und präsent; Kosmol als bedrohlicher Gegenpol.'
+    Kritik: 'Kosmol bleibt karikaturaft; ein einziges konkretes Detail (Geruch/Bewegung/Tonfall) würde ihn leibhaftiger machen.'
+    Fix: 'Ein sensorisches Mikrodetail zu Kosmol ergänzen (z. B. Tabak-/Ledergeruch, harte Schritte, abgehackter Tonfall).'
+    Note: 3
   Sprache:
-    Einschaetzung: 'Ernst, bildhaft, kraftvoll.'
-    Kritik: 'Zu viele schwere Metaphern, Sätze zu lang. Wenig jugendliche Schnörkellosigkeit.'
+    Einschaetzung: 'Direkt, bildhaft, jugendliche Umgangssprache trägt.'
+    Kritik: 'Einige Ellipsen/Interjektionen häufen sich; 1–2 Sätze straffen/Komma prüfen.'
+    Fix: 'Wiederholte Füllwörter/„…“ einmal kürzen; 1–2 Satzlängen variieren.'
+    Note: 2
   Fazit:
-    Staerken: 'Verbindet persönliche Geschichte mit politischem Hintergrund, setzt starken Kontrast.'
-    Schwaechen: 'Zu literarisch und erklärend, Eddie wirkt unjugendlich, Sprache überinszeniert.'
-    Fix: 'Mehr persönliche Angst und unmittelbare Reaktionen einbauen, weniger Geschichtsreferat, Sprache straffen.'
+    Staerken: 'Starke Stimme; klare Gegnerfigur; kompaktes, eindrückliches Erinnerungsbild.'
+    Schwaechen: 'Leichte Wiederholungen; Antagonist sehr schwarz-weiß.'
+    Fix: 'Eine ruhige Beobachtung und ein sensorisches Detail, 1–2 Kürzungen.'
+    Note: 2
 ---
 
 # Mielke

@@ -11,28 +11,37 @@ persons:
   - 'Bulgaren'
   - 'Schwede'
   - 'DDR-Gruppe'
-synopsis: 'Eddie entkommt im Gedränge nach den Prüfungen knapp an Mielke vorbei und flieht ins Freie.'
+synopsis: 'Im Gedränge nach den Prüfungen nutzt Eddie Fischers Ablenkung, schlüpft an Mielke vorbei ins Freie und taucht hinter Bäumen ab.'
 mood: 'tense, breathless, fleeting relief'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
   Kapitel: '090_Aus_der_Schule'
   Ton:
-    Einschaetzung: 'Reflektierend, Eddie blickt auf Schule und Lernen zurück, teils wehmütig, teils sarkastisch.'
-    Kritik: 'Ton schwankt: mal jugendlich-frech, mal essayistisch erwachsen. Gefahr, dass Authentizität verloren geht.'
+    Einschaetzung: 'Atemlos, dicht, nah am Körper; Fluchtmoment trägt die Szene.'
+    Kritik: 'Vereinzelt schleicht sich ein reflektierender Ton ein; zu viel davon würde das Tempo bremsen.'
+    Fix: '1–2 jugendliche Asides/kurze Gedankenfetzen einstreuen; eine Atempause direkt vor dem Schubser nach draußen setzen.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Erinnerungen an die DDR-Schule plausibel und stimmig.'
-    Kritik: 'Manche Abschnitte wirken wie Geschichtsreferat. Eddie klingt weniger wie eine 17-Jährige im Rückblick, sondern wie eine erwachsene Erzählerin.'
+    Einschaetzung: 'Ablenkung durch Fischer, Menge am Ausgang, Abbiegen und Deckung – plausibler Fluchtpfad.'
+    Kritik: 'Ein Mikro-Marker zur Sichtlinie/Position der Aufsicht könnte die Plausibilität weiter erden (Tür, Winkel, Abstand).'
+    Fix: '1 kurzer Raum-/Positionsmarker ergänzen (z. B. „Mielke halb verdeckt, Türrahmen“); 1 Geräuschmarker (Tür, Rufe) im Außenbereich.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie im Zentrum, kommentiert Lehrer und Mitschüler.'
-    Kritik: 'Ihre persönliche Betroffenheit bleibt stellenweise blass. Figuren werden als Typen beschrieben, nicht als Menschen, die Eddie geprägt haben.'
+    Einschaetzung: 'Eddie nervös und entschlossen; Mielke als klare Bedrohung; Fischer hilft leise und effektiv.'
+    Kritik: 'Fischers Motiv bleibt unausgesprochen; ein winziges Gesten-Detail (Blick, Handbewegung) würde ihn menschlicher fassen.'
+    Fix: '1 Mikro-Geste bei Fischer ergänzen; 1 zusätzlicher Körpermarker bei Eddie (trockener Mund, kalte Hände).'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Anschaulich, detailreich.'
-    Kritik: 'Zu viele Erklärpassagen, wenig jugendliche Spontaneität. Füllwörter und rotzige Kommentare fehlen fast völlig.'
+    Einschaetzung: 'Direkt, visuell, gute Geräusch- und Bewegungsbilder.'
+    Kritik: 'Gelegentlich protokollarische Satzrhythmen; Rotzigkeit kann dosiert erhöht werden.'
+    Fix: '2–3 längere Sätze brechen; 1–2 kurze, rotzige Sätze einschieben; Wiederholung minimieren.'
+    Note: 2
   Fazit:
-    Staerken: 'Gibt Hintergrundwissen, ordnet Eddies Haltung zur DDR-Schule ein.'
-    Schwaechen: 'Zu referierend, zu erwachsen, persönliche Emotion fehlt.'
-    Fix: 'Mehr persönliche Anekdoten und Gefühle einbauen, rotzige Kommentare ergänzen, Erklärlast reduzieren.'
+    Staerken: 'Hoher Drive, klares Timing, starke Bedrohungsfigur; kompakter, spannender Ausbruch.'
+    Schwaechen: 'Kleine Plausibilitäts-/Positionsdetails fehlen; Fischers Motiv bleibt andeutungsweise.'
+    Fix: '1 Raum-/Sichtmarker, 1 Fischer-Geste, 1–2 sprachliche Kürzungen/rotzige Einwürfe.'
+    Note: 2
 ---
 
 # Aus der Schule

@@ -23,7 +23,7 @@ persons:
   - 'Sini (am Ende)'
   - 'Terminalmitarbeiter:innen'
 weather_summary: 'dauernder Regen, nasse Kälte, Wind; auf der Vaskiluoto-Brücke starker Querwind'
-synopsis: 'Eddie schleppt sich tagelang Richtung Vaasa, wird kränker, kauft in Laihia das Nötigste und erkennt: Das Geld reicht nicht. Nach Nächten in Laavus (Pohjoismäki, Kempinneva, Haarinneva), einem trockenen Kasten in Kaarluoma und einem zugigen Turm am Öjberget erreicht sie im Sturm die lange Brücke nach Vasklot/Vaskiluoto. Vor dem Terminal bricht sie zusammen. Drinnen bekommt sie Decke und Tee – und trifft erstmals Sini, die sie beruhigt und bleibt.'
+synopsis: 'Fiebernd und ohne Geld schleppt sich Eddie über Nächte in Laavus und Unterstände bis zur sturmgepeitschten Vaskiluoto‑Brücke; vor dem Terminal bricht sie zusammen, bekommt Decke und Tee – und trifft zum ersten Mal Sini, die bleibt.'
 health_flags:
   - 'hohes Fieber'
   - 'anhaltender Husten'
@@ -69,19 +69,28 @@ proofreading:
   Ton:
     Einschaetzung: 'Düster, fiebrig, eindringlich; starke körpernahe Wahrnehmung.'
     Kritik: 'Mehr jugendliche Spontaneität an einigen Stellen wünschenswert; vereinzelt pathetische Bilder glätten.'
+    Fix: '2–3 kurze, direkte Gedankenfetzen (z. B. „weiter“, „nicht hinfallen“, „ich hasse diese Brücke“) einstreuen; 1–2 pathetische Bilder vereinfachen; 1 Atempunkt am Brückenpfosten setzen.'
+    Note: 2
   Logik:
     Einschaetzung: 'Route und Eskalation des Zustands plausibel; Vaasa-Ankunft stimmig.'
     Kritik: 'Zeitmarken andeuten (z. B. Wochentage), um das Ende (1985-08-03) klarer zu verorten.'
+    Fix: 'Mini‑Timestamps („Samstagabend“, „früher Morgen“) an 2 Stellen; 1 kurzer Geldstand‑Halbsatz in Laihia; Brückenrichtung (südliche neue Brücke) knapp markieren.'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie als zäher, aber zerbrechender Pol; Sini tritt am Ende als ruhiger Anker auf.'
     Kritik: 'Kurze Reaktion auf Hilfe von Fremden (Scham vs. Erleichterung) noch etwas vertiefen.'
+    Fix: '1 Mikro‑Beat Eddie (will „nein“ sagen und nickt trotzdem); Sini 1 charakteristisches Detail (Stimme/Bewegung/„blaues Haar“ Reaktionsgestus) betonen.'
+    Note: 2
   Sprache:
     Einschaetzung: 'Bildhaft, rhythmisch, mit wiederkehrenden Motiven (Regen, Wind, Brücke).'
     Kritik: 'Einige Metaphern wiederholen sich; kleine Straffung möglich.'
+    Fix: '2 wiederholte Motive variieren/streichen (Regen/Metall); 1–2 lange Perioden teilen; 1 rotziger Kurzsatz als Widerlager.'
+    Note: 2
   Fazit:
     Staerken: 'Intensive, körpernahe Schilderung, klare Rampe ins Vaasa-Set.'
     Schwaechen: 'Zeitlinie minimal schärfen; Ton an 1–2 Stellen entpathetisieren.'
-    Fix: 'Mini-Timestamps (‚Samstagabend‘, ‚früher Morgen‘) einfügen; 1–2 Bilder vereinfachen.'
+    Fix: 'Mini‑Timestamps ergänzen; 1–2 Bilder vereinfachen; Mikro‑Beat zu Scham/Erleichterung bei Hilfe; kleine Sprach‑Straffung.'
+    Note: 2
 ---
 
 # Brücke in die Sackgasse

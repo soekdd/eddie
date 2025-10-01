@@ -8,7 +8,7 @@ persons:
   - 'Herr Fischer'
   - 'das DDR Team'
   - 'viele andere Kinder und Betreuer'
-synopsis: 'Im Bus nach Joutsa schreibt Herr Fischer in Eddies Block, entdeckt dabei ihre versteckten Dokumente, verrät sie aber nicht.'
+synopsis: 'Im Bus nach Joutsa kritzelt Herr Fischer in Eddies Block, bemerkt ihre versteckten Dokumente – und schützt sie still, ohne sie zu verraten.'
 mood: 'tense relief'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -19,19 +19,28 @@ proofreading:
   Ton:
     Einschaetzung: 'Sachlich, analytisch, Eddie denkt in mathematischen Strukturen.'
     Kritik: 'Ton rutscht stark ins Dozierende. Eddie klingt wie eine Lehrerin, nicht wie eine 17-Jährige, die sich Mut macht. Die jugendliche Stimme geht verloren.'
+    Fix: '2–3 jugendliche Einwürfe/Asides einstreuen; an einer Stelle den Erklärfluss mit einem körperlichen Stressmarker brechen (Herzschlag/Schweiß); 1 Satz nach „Diophantisch“ als peinlicher Ausrutscher markieren.'
+    Note: 3
   Logik:
     Einschaetzung: 'Gedankengänge nachvollziehbar, Mathe als Halt plausibel.'
     Kritik: 'Die Ausführungen wirken zu glatt und fehlerfrei. Für Authentizität fehlen kleine Irrtümer, Zweifel oder chaotische Assoziationen.'
+    Fix: 'Einen Rechenschritt als Näherung kennzeichnen („reicht mir“); 1 kurzer Zweifel („hab ich das richtig?“); Bus‑Kontext als Störgröße notieren (Geruckel/Laute).'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie als Mathegenie tritt klar hervor.'
     Kritik: 'Ihre Persönlichkeit tritt zurück hinter dem Fachtext. Menschliche Regungen (Frust, Stolz, Humor) fehlen weitgehend.'
+    Fix: 'Kurz Stolz/Scham nach dem „Klugscheißer“-Moment zeigen; 1 menschliche Geste von Fischer ergänzen (z. B. Blick abwenden, Atem).'
+    Note: 3
   Sprache:
     Einschaetzung: 'Klar, strukturiert, fachlich präzise.'
     Kritik: 'Zu trocken und zu schulisch. Kaum jugendliche Einwürfe oder rotzig-freche Kommentare, die Eddie sonst lebendig machen.'
+    Fix: '1–2 Sätze straffen/aufbrechen; 1 rotziger Kommentar dosiert einsetzen; Fachwortblock mit einem Bild kontern.'
+    Note: 3
   Fazit:
     Staerken: 'Zeigt Eddies besonderes Talent, verdeutlicht ihren Halt in Mathe.'
     Schwaechen: 'Zu lehrbuchhaft, jugendliche Stimme fehlt, menschliche Seite von Eddie wird unsichtbar.'
     Fix: 'Innere Kommentare und spontane Gedanken einfügen, kleine Patzer oder Selbstzweifel zulassen, Mathepassagen straffen und mit Eddie-Humor färben.'
+    Note: 3
 ---
 
 # Der Matheblock

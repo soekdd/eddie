@@ -7,28 +7,37 @@ persons:
   - 'Eddie'
   - 'Raija'
   - 'Raijas Chef'
-synopsis: 'Ein Fax kündigt diplomatischen Druck der DDR an; Raija widersetzt sich und flieht mit Eddie aus der Polizeistation.'
+synopsis: 'Ein Fax mit diplomatischem Druck aus der DDR verlangt Auslieferung; Raija widersetzt sich und flieht mit Eddie aus der Polizeistation.'
 mood: 'tense, urgent, defiant'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
   Kapitel: '140_Das_Fax'
   Ton:
-    Einschaetzung: 'Technisch interessiert, neugierig, Eddie schildert das Faxgerät als faszinierend und neu.'
-    Kritik: 'Ton wirkt zu erklärend, fast wie ein Technik-Exkurs. Jugendlich-subjektive Reaktionen (Staunen, Albernheit) fehlen teilweise.'
+    Einschaetzung: 'Steigende Anspannung; neugieriger Technikblick kippt in Defiance/Fluchtimpuls.'
+    Kritik: 'Stellenweise zu erklärend/technikfixiert; jugendliche Reaktionen (Staunen, „hä?“, Galgenhumor) kommen zu kurz.'
+    Fix: '2–3 jugendliche Asides und ein Mini‑Galgenwitz einstreuen; 1 kurze Atempause direkt vor der Entscheidung zur Flucht.'
+    Note: 3
   Logik:
-    Einschaetzung: 'Erklärung des Faxgeräts plausibel, passt zum 80er-Jahre-Setting.'
-    Kritik: 'Passage wirkt zu glatt eingebaut, wie ein Sachtext. Eddies persönliche Perspektive könnte stärker sein.'
+    Einschaetzung: 'Fax als Auslöser (Innenministerium/Druck), Chef zögert, Raija entscheidet → Flucht: schlüssig.'
+    Kritik: 'Wer genau den Fluchtbefehl duldet/erlaubt bleibt implizit; Zeit-/Positionsmarker minimal.'
+    Fix: '1 Halbsatz „Chef lenkt ein“/„OK, haut ab“ als bewusste Duldung kennzeichnen; 1 kurzer Marker (Fenster, Parkplatz, Uhrzeitgefühl).'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie neugierig und wissbegierig.'
-    Kritik: 'Ihre jugendliche Unsicherheit oder Witze über die Technik fehlen. Sie wirkt zu abgeklärt. Nebenfiguren bleiben stumm.'
+    Einschaetzung: 'Eddie neugierig und ängstlich; Raija entschlossen; Chef hin‑ und hergerissen.'
+    Kritik: 'Eddies Unsicherheit/Body‑Marker könnten kurz vor der Flucht stärker aufscheinen; Chef bleibt schematisch.'
+    Fix: '1 Körpermarker (kalte Hände/Herzstolpern) bei Eddie setzen; Chef 1 Geste/Seufzer/Blick schenken; Raijas „Löwin“ 1 knapper, markanter Satz.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Klar, erklärend.'
-    Kritik: 'Zu sachlich und lehrbuchhaft. Wenig jugendliche Einwürfe oder bildhafte Vergleiche, die Eddies Ton lebendiger machen könnten.'
+    Einschaetzung: 'Klar, gut verständlich; technische Passage verortet die Zeit.'
+    Kritik: 'Abschnitt wirkt stellenweise wie Sachtext; wenige Bilder/Metaphern aus Eddies Welt.'
+    Fix: 'Technik in 1–2 Bildern („weiße Kiste hustet Papier“) zeigen; 1–2 Sätze straffen; 1 Interjektion/Einwurf einbauen.'
+    Note: 2
   Fazit:
-    Staerken: 'Zeitkolorit, zeigt technische Faszination, verankert Handlung historisch.'
-    Schwaechen: 'Zu erklärend, jugendliche Stimme fehlt, Szene wirkt wie Einschub.'
-    Fix: 'Technik durch Eddies Augen beschreiben (lustige Vergleiche, ironische Gedanken), Unsicherheiten zeigen, Sprache lockern.'
+    Staerken: 'Zeitkolorit + klares Plot‑Signal; sauberer Übergang zur Flucht; starke Raija‑Entscheidung.'
+    Schwaechen: 'Ton partiell erklärlastig; Chef konturarm.'
+    Fix: 'Jugendliche Asides + 1–2 Bilder, 1 Chef‑Geste, kurzer Zeit-/Positionsanker; danach stehenlassen.'
+    Note: 2
 ---
 
 # Das Fax

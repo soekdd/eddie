@@ -7,28 +7,37 @@ persons:
   - 'Eddie'
   - 'Raija'
   - 'Professor Dr. Leonhard Radmer'
-synopsis: 'Eddie ruft mit Raijas Hilfe den Professor an und täuscht eine französische Preisnominierung vor, um ein Lebenszeichen an ihre Eltern zu senden.'
+synopsis: 'Mit Raijas Hilfe ruft Eddie Professor Radmer an, gibt sich als Pariser Institut aus und meldet eine fingierte Preisnominierung – ein codiertes Lebenszeichen für ihre Eltern.'
 mood: 'tense but triumphant'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '230_Anruf_mit_Codewort'
+  Kapitel: '220_Anruf_mit_Codewort'
   Ton:
-    Einschaetzung: 'Angespannt, geheimnisvoll, Eddie konzentriert sich auf den riskanten Anruf.'
-    Kritik: 'Ton ist stellenweise zu kühl und sachlich, jugendliche Nervosität kommt zu kurz.'
+    Einschaetzung: 'Angespannt und konzentriert; nervöse Vorbereitung kippt in triumphales Auflegen.'
+    Kritik: 'Punktuell kühl/sachlich; jugendliche Nervosität und kleine Aussetzer könnten noch hörbarer sein.'
+    Fix: '2–3 kurze, nervöse Gedankenfetzen/Asides („jetzt…“, „falsch gewählt?“); 1 Atempause vor der Ansage; ein mini Versprecher/Neuansetzen im Französisch.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Anruf mit Codewort plausibel, baut Spannung auf.'
-    Kritik: 'Ablauf wirkt sehr kontrolliert und glatt. Kleine Fehler, Versprecher oder Missverständnisse würden Realismus steigern.'
+    Einschaetzung: 'Code‑Anruf plausibel (Zeitverschiebung, Deckgeschichte); Risiko klar erkennbar.'
+    Kritik: 'Ablauf wirkt sehr kontrolliert; 1–2 Stolperstellen/Unschärfen erhöhen Realismus.'
+    Fix: 'Einen winzigen Misshörer/Missverständnis einbauen; 1 Mikro‑Zeit-/Positionsanker (Küchenuhr, Leitung knackt).'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie im Fokus, handelt zielstrebig.'
-    Kritik: 'Ihre Angst und Unsicherheit könnten stärker spürbar sein. Gesprächspartner bleibt blass und funktional.'
+    Einschaetzung: 'Eddie nervös und listig; Raija stützend; Radmer eitel‑begeistert (Dialekt‑Farbe).'
+    Kritik: 'Raijas Support könnte 1 markante Mikro‑Geste bekommen; Radmer 1 weiteres konkretes Detail (Atem, Papierrascheln).'
+    Fix: 'Raija: kurzer Blick/Hand auf Schulter; Radmer: kleines Geräusch/Tempo‑Wechsel; Eddie: 1 Körpermarker (trockener Mund/kalte Finger).'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Klar, präzise.'
-    Kritik: 'Dialog wirkt zu sauber und gestellt. Kaum jugendliche Ausrufe oder Füllwörter, Sprache dadurch etwas steif.'
+    Einschaetzung: 'Klar, dialoggetragen; gute Pointe im Abgang.'
+    Kritik: 'Dialogstellen sehr sauber; wenige gesprochensprachliche Brüche/Füllwörter.'
+    Fix: '1–2 dialogische Überlappungen/Unterbrechungen („äh“, „verzeih…“); 1 langen Satz teilen; 1 rotziger Kurzsatz als Nachglühen.'
+    Note: 2
   Fazit:
-    Staerken: 'Spannungsreicher Moment, verdeutlicht Risiko und Eddies Mut.'
-    Schwaechen: 'Zu glatt, Emotionen fehlen, Gesprächspartner schemenhaft.'
-    Fix: 'Mehr jugendliche Nervosität und spontane Gedanken einbauen, Dialog mit kleinen Brüchen versehen, Nebenfigur klarer zeichnen.'
+    Staerken: 'Knackige, spannende Szene; cleverer Code; starker Rollenwechsel von Angst zu Triumph.'
+    Schwaechen: 'Glätte in Teilen; Nebenfigur minimal konturlos.'
+    Fix: 'Kleine Nervositätsmarker + 1–2 Dialogbrüche; Mikro‑Detail bei Radmer/Raija; mini Zeit-/Positionsanker.'
+    Note: 2
 ---
 
 # Anruf mit Codewort

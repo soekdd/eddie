@@ -15,19 +15,28 @@ proofreading:
   Ton:
     Einschaetzung: 'Wachsam, latent bedroht; Wohnung als Schutzraum mit kurzen Ruheinseln (Kochen, Abwasch).'
     Kritik: 'Balance Häuslichkeit/Gefahr punktuell schärfen; mehr jugendliche Direktheit und kurze Gedankenfetzen in heiklen Momenten.'
+    Fix: '1–2 jugendliche Gedankenfetzen in heiklen Momenten einfügen; eine kurze Atempause setzen (Fenster/Vorhang) um Spannung zu akzentuieren.'
+    Note: 2
   Logik:
     Einschaetzung: 'Diplomatenwagen plausibel; Planänderung (abwarten, später Auto) folgerichtig.'
     Kritik: '2–3 Zeit-/Außenmarker (später Nachmittag, Autotür, Schritte im Treppenhaus) zur Verankerung der Überwachungsszene ergänzen.'
+    Fix: 'Zeit-/Außenmarker ergänzen (später Nachmittag, Autotür unten, Schritte im Treppenhaus); kurzer Positionsanker am Fenster/Vorhang.'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie wach und verunsichert; Raija entschlossen; Jorma ambivalent (fremdelnder Blick).'
     Kritik: 'Jorma mit 1–2 körperlichen Details schärfen (Distanz, Blickhöhe, Abwenden); Eddies Körperreaktion in der Vorhangszene kurz intensivieren.'
+    Fix: 'Jorma 1 ambivalente Mikro-Geste geben (Blick abwenden, Distanz wahren); Eddie 1–2 Körpermarker (kalte Hände, trockener Mund) im Vorhang-Moment.'
+    Note: 3
   Sprache:
     Einschaetzung: 'Klare Bilder, gute Sinneseindrücke (Vorhänge, Küchengeräusche).'
     Kritik: 'Expositionslinien (KSZE, „alles Lüge“) etwas straffen oder organischer in den Dialog legen; Wiederholungen leicht kürzen.'
+    Fix: 'Exposition in 1–2 kürzere Dialogstöße aufteilen; 1–2 Wiederholungen streichen; einen rotzig-kurzen Satz als Kontrast einfügen.'
+    Note: 2
   Fazit:
     Staerken: 'Kontrast Wärme/Bedrohung, glaubhafte Planänderung, Heimweh-Motiv.'
     Schwaechen: 'Ruhepassagen drohen Länge; Überwachung könnte akustisch-nervöser wirken.'
     Fix: 'Kurze Zeit-/Geräuschmarker einbauen; 1–2 jugendliche Einwürfe; Jorma-Detail und Eddies körperliche Reaktion präzisieren.'
+    Note: 2
 ---
 
 # Kein Frieden in Jyväskylä

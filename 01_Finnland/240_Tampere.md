@@ -6,7 +6,7 @@ place: 'Marktplatz Tampere'
 persons:
   - 'Eddie'
   - 'alter finnischer Buchhändler'
-synopsis: 'Eddie entdeckt auf dem Trödelmarkt ein Pflanzenbuch und einen Laavu-Führer, entwickelt einen Plan: zu Fuß nach Vaasa, mit Hütten und Proviant. Sie kauft Ausrüstung und rechnet mit großer Euphorie ihre Route durch.'
+synopsis: 'Auf dem Trödelmarkt findet Eddie ein Pflanzenbuch und einen Laavu‑Führer, plant euphorisch den Fußmarsch nach Vaasa mit Hütten und Proviant – per Fähre weiter nach Stockholm – und kauft die nötige Ausrüstung.'
 mood: 'euphorisch, selbstermächtigend, lebendig'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -14,23 +14,32 @@ illustrations:
   - 'FIN_Tampere_Marktplatz.png'
   - 'FIN_Vaasalopet_Laavu.png'
 proofreading:
-  Kapitel: '250_Tampere'
+  Kapitel: '240_Tampere'
   Ton:
-    Einschaetzung: 'Beobachtend, neugierig, Eddie beschreibt Stadt und Atmosphäre.'
-    Kritik: 'Ton wirkt stellenweise wie Reiseführer, zu beschreibend. Jugendlich-chaotische Kommentare fehlen.'
+    Einschaetzung: 'Euphorisch, selbstermächtigend; von Großstadtüberwältigung zur klaren Entscheidung.'
+    Kritik: 'Punktuell reiseführerhaft und aufzählend; Einkaufs‑Euphorie droht den Ernst zu überdecken.'
+    Fix: '2–3 jugendliche Asides/kurze Witze einstreuen; 1 Atempause direkt vor der „Ich entscheide mich“-Stelle; Einkaufsliste minimal dosieren.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Eindrücke von Tampere plausibel, geben Lokalkolorit.'
-    Kritik: 'Passage bleibt zu oberflächlich, ohne Konflikt oder persönliche Reibung. Gefahr, dass Szene wie Kulisse wirkt.'
+    Einschaetzung: 'Plan (Markt → Bücher → Laavu‑Netz → Vaasa → Fähre) schlüssig; Budget/Distanz grob plausibel.'
+    Kritik: 'Zahlen/Wege sehr glatt; Gewicht/Etappen könnten knapp geerdet werden.'
+    Fix: '1 Mikro‑Anker (Etappenzahl/Tageslicht) ergänzen; 1 Halbsatz zu Traglast/Beuteln vs. Rucksack; Distanzgefühl (300–400 km) kurz relativieren.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie als Beobachterin präsent.'
-    Kritik: 'Ihre Gefühle (Überforderung, Staunen, Orientierungslosigkeit) treten kaum hervor. Nebenfiguren werden nur gestreift.'
+    Einschaetzung: 'Eddie entschlossen, klug planend, mit Funken Humor; Buchhändler als hilfreiche Skizze.'
+    Kritik: 'Eddies Verletzlichkeit/Stress (Kopfschmerz von Jorma, kalte Hände) könnte einmal kurz aufblitzen; Händler bleibt schemenhaft.'
+    Fix: '1 Körpermarker (Schlag‑Nachwirkung, kalte Finger) einbauen; Händler 1 Mikro‑Detail geben (Geruch/Handgeste/Stimme).'
+    Note: 3
   Sprache:
-    Einschaetzung: 'Detailreich, anschaulich.'
-    Kritik: 'Zu glatt und erklärend, wenig jugendliche Direktheit. Kaum spontane Gedanken oder rotzige Vergleiche, die Eddie sonst lebendig machen.'
+    Einschaetzung: 'Lebendig, bilderreich; gute Dynamik zwischen Stadttrubel und Planen.'
+    Kritik: 'Listen/Preise häufen sich; einzelne Sätze lang.'
+    Fix: 'Einkaufslisten zu 1–2 Sätzen komprimieren; 1–2 lange Perioden teilen; 1 rotziger Kurzsatz als Kontrast.'
+    Note: 2
   Fazit:
-    Staerken: 'Verortet Handlung in Finnland, zeigt Atmosphäre von Tampere.'
-    Schwaechen: 'Zu deskriptiv, Emotionen blass, jugendliche Stimme fehlt.'
-    Fix: 'Mehr persönliche Reaktionen Eddies einbauen (Witz, Panik, Freude), Sprache jugendlicher und sprunghafter gestalten, kleine Begegnungen oder Stolperer ergänzen.'
+    Staerken: 'Klarer Richtungswechsel (Vaasa/Stockholm); starke Selbstermächtigung; konkretes Laavu‑Detail.'
+    Schwaechen: 'Aufzählungen/Glätte; Nebenfigur konturarm; Verletzlichkeit blitzt selten.'
+    Fix: 'Leicht straffen, 2–3 Jugend‑Asides, 1 Körpermarker, 1 Händler‑Mikrodetail; Zahlen/Listen bündeln.'
+    Note: 2
 ---
 
 # Tampere

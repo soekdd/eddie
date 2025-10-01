@@ -14,23 +14,32 @@ mood: 'ecstatic, liberating, joyful'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '330_Gesang'
+  Kapitel: '320_Gesang'
   Ton:
-    Einschaetzung: 'Locker, verspielt, fast schon ausgelassen. Eddie beschreibt Musik und Singen mit jugendlicher Freude.'
-    Kritik: 'Ton ist sehr leicht, teilweise zu unbeschwert im Kontrast zur Gesamtlage. Gefahr, dass die Bedrohung verblasst.'
+    Einschaetzung: 'Locker, verspielt, fast ausgelassen; Musik als Ventil und Freiheitsmoment.'
+    Kritik: 'Sehr leicht im Kontrast zur Lage; Gefahr, dass die Bedrohung verblasst.'
+    Fix: 'Vor/ nach einem Lied 1 kurzer Ernst-/Atempunkt (horchen, Regen/Schritte draußen); 1 jugendlicher Gedankenfetzen („nicht weinen, weiter singen“).'
+    Note: 2
   Logik:
-    Einschaetzung: 'Die Szene passt als Moment der Entlastung.'
-    Kritik: 'Wirkung wirkt etwas abrupt, Übergang zur Leichtigkeit könnte besser vorbereitet sein.'
+    Einschaetzung: 'Passt als Entlastungsmoment nach Sturm/Regen; Gruppendynamik trägt in die Leichtigkeit.'
+    Kritik: 'Übergang in die Ausgelassenheit wirkt etwas abrupt.'
+    Fix: 'Kleinen Übergangsmarker setzen (Ofenwärme → Summen → gemeinsamer Einsatz); 1 Geräusch-/Raumanker beim Wechsel. '
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie zeigt sich lebendig und jugendlich, Nebenfiguren treten freundschaftlich hervor.'
-    Kritik: 'Charaktertiefe bleibt gering, Interaktionen etwas oberflächlich. Eddie wirkt nur positiv, keine Reibung oder innere Spannung.'
+    Einschaetzung: 'Eddie lebendig; Conny/Musik treibend; Sabine/Matti/Peter als Chor mit eigener Farbe.'
+    Kritik: 'Eddies innere Spannung (Restangst/Heimweh) blitzt selten; Nebenfiguren eher Kulisse.'
+    Fix: 'Eddie 2 Körpermarker (Hals kratzt, Gänsehaut) + 1 kurzer Zweifel vor dem Loslassen; je Nebenfigur 1 Mikrodetail (Geste/Stimmlage).'
+    Note: 3
   Sprache:
-    Einschaetzung: 'Lebendig, rhythmisch, passend zu Musikthema.'
-    Kritik: 'Zu viele Auslassungspunkte, Füllwörter häufen sich. Manche Sätze klingen zu glatt und nicht jugendlich genug.'
+    Einschaetzung: 'Rhythmisch, lebendig; Musikalität der Sätze trägt.'
+    Kritik: 'Auslassungspunkte/Füllwörter häufen sich; einzelne Sätze zu glatt/ lang.'
+    Fix: 'Ellipsen/… straffen; 1–2 lange Sätze teilen; 1 rotziger Kurzsatz als Kontrast einfügen.'
+    Note: 2
   Fazit:
-    Staerken: 'Schöner Stimmungswechsel, jugendlicher Leichtsinn kommt durch.'
-    Schwaechen: 'Zu unbeschwert für die Lage, Charaktere oberflächlich, Sprache uneinheitlich.'
-    Fix: 'Übergang zur Leichtigkeit stärker andeuten, Eddie auch Zweifel oder Brüche spüren lassen, Sprache straffen.'
+    Staerken: 'Stimmungswechsel mit Sog; Musik als Freiheitsbehauptung; Gemeinschaft spürbar.'
+    Schwaechen: 'Leichtigkeit ohne Gegenhalt; Figurenwirkung oberflächlich.'
+    Fix: 'Kleinen Ernst‑Beat/horchen setzen, Eddie‑Zweifel kurz zeigen, Mikrodetails pro Figur; Sprachrhythmus leicht straffen.'
+    Note: 2
 ---
 
 # Gesang

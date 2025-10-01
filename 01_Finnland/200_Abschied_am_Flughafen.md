@@ -21,19 +21,28 @@ proofreading:
   Ton:
     Einschaetzung: 'Emotional, ernst, Eddie schildert den Abschied mit Wehmut und Unsicherheit.'
     Kritik: 'Ton ist stellenweise zu pathetisch und erwachsen. Die jugendliche Direktheit tritt zurück.'
+    Fix: '2–3 kurze, direkte Gedankenfetzen einstreuen (z. B. „jetzt nicht heulen“, „weitergehen“); 1 Atempause vor dem Boarding; Pathos‑Sätze leicht straffen.'
+    Note: 3
   Logik:
     Einschaetzung: 'Abschiedsszene plausibel, starke emotionale Wirkung.'
     Kritik: 'Abläufe wirken zu glatt. Überraschende Details (falsche Worte, unpassende Gedanken) könnten den Realismus verstärken.'
+    Fix: '1–2 Reibungspunkte ergänzen (z. B. Stempel, falsches Wort beim Beamten, kleiner Rempler); 1 Mikro‑Zeit-/Positionsanker (Schlange, Gate‑Anzeige).'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie im Fokus, verletzlich. Bezugspersonen als emotionale Gegenspieler sichtbar.'
     Kritik: 'Eddie klingt zu reflektiert. Ihre chaotische Gefühlslage (z. B. Zorn, Trotz, Verdrängung) könnte stärker herauskommen. Nebenfiguren bleiben eher schematisch.'
+    Fix: 'Eddie 1 widersprüchlichen Impuls zeigen (umdrehen vs. gehen); Mutter/Vater je 1 „dorniges“ Detail (z. B. zu fester Griff, strenger Satzfetzen); Mielke 1 prägnantes sensorisches Detail (Tonfall/Blick).'
+    Note: 3
   Sprache:
     Einschaetzung: 'Gefühlsbetont, atmosphärisch.'
     Kritik: 'Zu viele Metaphern, Sprache wirkt überinszeniert. Wenig jugendliche Einwürfe oder spontane Kommentare.'
+    Fix: 'Metaphern dosieren; 2–3 lange Perioden teilen; 1–2 rotzige, knappe Sätze als Kontrast einsetzen.'
+    Note: 3
   Fazit:
     Staerken: 'Starke emotionale Szene, zentral für Eddies Geschichte, verdeutlicht Bruch mit Vergangenheit.'
     Schwaechen: 'Zu glatt, zu literarisch, jugendliche Stimme fehlt teilweise.'
-    Fix: 'Mehr chaotische Gedanken und jugendliche Kommentare einbauen, Sprache straffen, Nebenfiguren lebendiger zeichnen.'
+    Fix: 'Jugendliche Direktheit erhöhen (Gedankenfetzen), leichte Straffung, 1–2 realistische Reibungen und Figuren‑Mikrodetails ergänzen.'
+    Note: 2
 ---
 
 # Abschied von den Eltern

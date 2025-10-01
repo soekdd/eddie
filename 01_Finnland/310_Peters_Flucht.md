@@ -9,28 +9,37 @@ persons:
   - 'Sabine'
   - 'Conny'
   - 'Mattie'
-synopsis: 'Peter erzählt von der Ausgrenzung und dem Verlust seiner Familie nach einem Ausreiseantrag; die Gruppe versteht dadurch besser Eddies Flucht.'
+synopsis: 'Peter berichtet von Ausgrenzung und Verlust nach dem Ausreiseantrag seiner Eltern; dadurch begreift die Gruppe Eddies Flucht tiefer.'
 mood: 'somber but bonding'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '320_Peters_Flucht'
+  Kapitel: '310_Peters_Flucht'
   Ton:
-    Einschaetzung: 'Ernst, bedrückt, stärkerer Kontrast zu den vorherigen Kapiteln. Eddie erzählt sachlicher.'
-    Kritik: 'Ton kippt streckenweise ins Berichtshafte, fast protokollarisch. Emotionale Beteiligung von Eddie wirkt reduziert.'
+    Einschaetzung: 'Ernst und bedrückend; starker Kontrast zum Regenhütten‑Alltag.'
+    Kritik: 'Stellenweise protokollarisch; Eddies innere Beteiligung klingt zu sachlich.'
+    Fix: '2–3 kurze Gedankenfetzen/Asides von Eddie („das kenne ich“, „nicht wieder heulen“) einstreuen; 1 Atempause vor/ nach einem Schlüsselsatz von Peter.
+    Note: 3
   Logik:
-    Einschaetzung: 'Die Fluchtgeschichte ist nachvollziehbar und dramatisch genug.'
-    Kritik: 'Ablauf wirkt zu glatt, Spannung baut sich nur mäßig auf. Es fehlen Zwischentöne (Zweifel, Unsicherheit, unklare Infos).'
+    Einschaetzung: 'Peters Erzählung ist schlüssig und wirkungsvoll (Antrag → Ausgrenzung → Warten → Bescheid → Westen).'
+    Kritik: 'Ablauf sehr glatt; wenige Unsicherheits‑Zwischentöne/Unklarheiten.'
+    Fix: '1–2 Mini‑Zwischenfragen/Unklarheiten (Zeitrahmen, wer klopfte?) einbauen; 1 Zeit-/Raumanker (Regen/Feuer/Uhr) zur Spannungsführung.
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Peter wird als tragische Figur gezeichnet, Eddie bleibt Beobachterin.'
-    Kritik: 'Eddie ist zu passiv; ihre Reaktion wirkt blass. Sie sollte stärker auf Peters Schicksal reagieren (Empathie, Angst, Abwehr).'
+    Einschaetzung: 'Peter tragisch, ruhig; Eddie hörend; Gruppe empathisch.'
+    Kritik: 'Eddies Reaktion bleibt blass; Namensschreibung inkonsistent („Matti“ vs. „Mattie“).' 
+    Fix: 'Eddie 2 Körpermarker (trockener Mund, zittrige Hände) + 1 spontaner Einspruch; Gruppendynamik mit 1–2 Mikro‑Gesten (Blicke/Hand an Becher). Namensschreibung vereinheitlichen.'
+    Note: 3
   Sprache:
-    Einschaetzung: 'Klar, präzise, kaum Fehler.'
-    Kritik: 'Sprache zu kühl, wenig Variation. Füllwörter reduziert, aber die Nüchternheit kann distanzierend wirken.'
+    Einschaetzung: 'Klar und gut lesbar.'
+    Kritik: 'Ton kühl; Dialoge teils berichtend; kleine Inkonsistenzen (Namen).' 
+    Fix: '1–2 Sätze in direkte Rede/gesprochene Brüche überführen; 1–2 lange Perioden teilen; Namensform („Matti“) konsistent.
+    Note: 2
   Fazit:
-    Staerken: 'Ernstes Thema, tragische Note, zeigt die Gefährlichkeit der Lage.'
-    Schwaechen: 'Zu nüchtern erzählt, Eddie wirkt passiv, Spannungsaufbau schwach.'
-    Fix: 'Mehr emotionale Reaktionen Eddies einbauen, Unsicherheit betonen, Berichtston durch Innenperspektive ersetzen.'
+    Staerken: 'Gewichtige Hintergrundschicht; zeigt Risiko und Preis der Ausreise.'
+    Schwaechen: 'Distanz durch Berichtston; Eddie zu passiv.'
+    Fix: 'Eddies Innenperspektive (Asides/Körpermarker) verstärken; 1–2 organische Zwischenfragen/Beats; kleine Sprach‑Straffung + Namenskonsistenz.'
+    Note: 2
 ---
 
 # Peters Flucht
