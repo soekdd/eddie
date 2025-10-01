@@ -18,19 +18,28 @@ proofreading:
   Ton:
     Einschaetzung: 'Konfrontativ und beklemmend; ein langer, zäher Streittag mit kurzer Entlastung am Abend.'
     Kritik: 'Stellenweise zu kontrolliert; mehr jugendliche Impulsivität (Hader, Ausrutscher, sarkastische Einwürfe) würde die Unmittelbarkeit erhöhen.'
+    Fix: '2–3 spontane Einwürfe/Fehlgriffe in der Rede einbauen; 1 kurzer „Atem“-Moment vor der abendlichen Entlastung; einzelne Sätze verkürzen.'
+    Note: 3
   Logik:
     Einschaetzung: 'Jorma als ideologischer Gegenpol plausibel; Heimkehr Raijas löst zweiten Konflikt aus.'
     Kritik: 'Tagesverlauf wirkt linear; 2–3 Zeit-/Raum-Marker (kalt gewordener Kaffee, Uhrtickern, Straßenlärm) könnten Dauer und Eskalationskurve fühlbarer machen.'
+    Fix: 'Zeit-/Raum-Marker setzen (Uhr, Lichtwechsel, kalter Kaffee); kleine Unterbrechung durch Außengeräusch als Eskalationssprung.'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie zeigt Rückgrat, aber Müdigkeit; Raija klar und handlungsorientiert; Jorma als streitlustiger Aktivist.'
     Kritik: 'Eddies Verletzlichkeit könnte punktuell durch körperliche Reaktionen durchscheinen (trockener Mund, zittrige Hände); Jorma 1 Nuance geben (kurzes Eingeständnis, nervöses Detail), um ihn weniger schablonenhaft wirken zu lassen.'
+    Fix: '2 kurze Körpermarker für Eddie (Hände, Stimme); Jorma 1 Mini-Geste (z. B. nestelt an Tasse, weicht Blick aus) als Ambivalenz.'
+    Note: 3
   Sprache:
     Einschaetzung: 'Dialogorientiert mit klaren Standpunkten.'
     Kritik: 'Mehr gesprochensprachliche Brüche, Füllwörter und Überlappungen („äh“, „warte, nein…“) einbauen; längere Thesen in kürzere Stöße teilen.'
+    Fix: 'Dialogzeilen kürzen/teilen; 2–3 Füllwörter/Unterbrechungen einstreuen; 1–2 überlange Sätze streichen.'
+    Note: 3
   Fazit:
     Staerken: 'Klarer Konfliktkern, steigende Spannung über den Tag, sinnvolle Brücke zur Bitte um Hilfe.'
     Schwaechen: 'Debatte wirkt teils gestellt; Figurenkontur von Jorma begrenzt.'
     Fix: 'Dialog verlebendigen (Unterbrechungen/Missverständnisse), 2–3 Zeit-/Sinnesmarker, kleine Verletzlichkeitsmomente für Eddie, eine Nuance für Jorma.'
+    Note: 3
 ---
 
 # Disput mit Jorma

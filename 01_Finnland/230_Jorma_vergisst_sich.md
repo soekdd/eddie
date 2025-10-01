@@ -13,21 +13,26 @@ mode: 'mainline'
 proofreading:
   Kapitel: '230_Jorma_vergisst_sich'
   Ton:
-    Einschaetzung: 'Unmittelbar, bedrohlich; Übergriff, Flucht, Verstecken – hohes Stressniveau.'
-    Kritik: 'Eddies Ausbruch wirkt stellenweise zu geordnet; 2–3 abgebrochene, hektische Halbsätze würden den Adrenalinschub besser tragen.'
+    Einschaetzung: 'Unmittelbar, bedrohlich; Adrenalin spürbar, fragmentierte Rede und Stressmarker greifen.'
+    Kritik: 'Rhythmus weitgehend stimmig; optional 1 kurzer Still-Moment vor der Flucht (Atempause) für Kontrast.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Betrunkenheit → Übergriff → Flucht; Stasi-Sichtung und Wohnungskontrolle plausibel im Rahmen der etablierten Gefahr.'
-    Kritik: 'Kurz andeuten, warum Jorma sofort öffnet (gekränkter Stolz, Angst vor Ärger, ideologischer Eifer), um sein Verhalten zu erden.'
+    Einschaetzung: 'Betrunkenheit → Übergriff → Flucht; Türöffnen mit Motiv-Andeutung; akustische Marker verankern die Szene.'
+    Kritik: 'Optionaler Außenreiz (Nachbarblick, vorbeifahrendes Auto) könnte den Realismus weiter erden.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie zeigt Überlebensreflexe und klare Grenze; Jorma kippt vom Täter in den Kollaps (Weinen).'
-    Kritik: 'Eddies Körperreaktionen punktuell verstärken (Ohrensausen, Tunnelblick, trockener Mund); Jormas Kollaps mit einem Moment Scham/Verdrängung nuancieren.'
+    Einschaetzung: 'Eddie klar in ihren Grenzen und verletzlich; Jorma mit Bruch (Weinen), Scham-Geste und Motiv-Andeutung.'
+    Kritik: 'Optional noch 1 Nachwirkungsdetail bei Jorma nach dem Heulen (z. B. meidet Blickkontakt).'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Szenisch, dicht, gute Geruchs-/Klangdetails.'
-    Kritik: 'Schimpfrede straffen; 1–2 akustische Marker (Schlüsselbund, Motor im Hof) ergänzen; mehr fragmentierte Gedankenfetzen.'
+    Einschaetzung: 'Szenisch, dicht, fragmentiert; starke Sinneseindrücke (Geruch, Geräusche).'
+    Kritik: 'Einzelne Wiederholungen/Adjektive leicht kürzen; Dialogzeichen vereinheitlichen, wo nötig.'
+    Note: 2
   Fazit:
-    Staerken: 'Hohe Spannung, klare Figurentscheidung, starke Fluchtenergie.'
-    Schwaechen: 'Ausbruch zu rhetorisch; Jormas Türöffnen braucht Mikro-Motiv.'
-    Fix: 'Rede zerhacken, 2–3 körperliche Stressmarker, Halbsatz-Andeutung zu Jormas Motiv, akustische Marker setzen.'
+    Staerken: 'Hohe Spannung, klare Entscheidung, starke Fluchtenergie; trägt gut in die Folgekapitel.'
+    Schwaechen: 'Nur noch Feinschliff (optional Still-Moment, minimaler Nachhall bei Jorma).'
+    Fix: 'Optional 1 Atempause vor Flucht; 1 kleines Nachwirkungsdetail bei Jorma, falls gewünscht.'
+    Note: 2
 ---
 
 # Jorma vergisst sich
@@ -48,8 +53,9 @@ Etwas, das Raija nie hatte.“ Seine Stimme kippt, tief und lallend, zwischen
 Vorwurf und Begehren.
 
 Ich will zurückweichen, doch er beugt sich vor, stützt sich neben mir auf und
-sein Gesicht kommt meinem viel zu nah. „Du brauchst jemanden … der dich führt.“
-Seine Hand greift nach meinem Arm, streift meine Haut, als gehöre sie ihm.
+sein Gesicht kommt meinem viel zu nah. Mein Mund wird schlagartig trocken, meine
+Finger werden kalt. „Du brauchst jemanden … der dich führt.“ Seine Hand greift
+nach meinem Arm, streift meine Haut, als gehöre sie ihm.
 
 Dann packt er fester zu, zieht mich zu sich heran, so dass ich sein
 verschwitztes Hemd rieche. Ich zappele, trete ihm mit dem Fuß gegen das
@@ -60,25 +66,29 @@ Brust.
 
 „Lass mich in Ruhe!“ schreie ich, doch er kommt wieder auf mich zu, taumelnd,
 und beugt sich noch weiter herunter. Der Geruch nach Schnaps schlägt mir ins
-Gesicht, als er versucht, mich zu küssen.
+Gesicht. Verdammt, er versucht, mich zu küssen.
 
-Mir schießt das Blut in den Kopf. Ich stoße ihn ein zweites Mal weg und schreie:
-„Du bist widerlich, Jorma. Widerlich. Du schwärmst von der DDR … und lebst hier.
-Im freien Westen. Merkst du’s? Du redest von Idealen — und du bist feige. Du
-lässt dich von Raija aushalten. Respektierst sie nicht mal. Und dann machst du
-dich an Mädchen ran. Viel zu jung. Finger weg, Mann! Hast du überhaupt noch
-einen Funken Würde?“
+Mir schießt das Blut in den Kopf. Mein Blick verengt sich zu einem Tunnel, meine
+Hände vibrieren. Ich stoße ihn ein zweites Mal weg und die Worte reißen sich
+einfach los:
+
+„Du bist widerlich, Jorma. Widerlich. Du schwärmst von der DDR… und lebst hier.
+Im Westen. Merkst du’s? Ideale, ja? — feige bist du. Raija hält dich aus - und
+Du? Respekt? Null. Und dann ran an Mädchen. Viel zu jung. Finger weg. Mann… hast
+du überhaupt noch… Würde?“
 
 Sein Gesicht verzerrt sich. Plötzlich holt er aus und schlägt mich ins Gesicht.
-Der Schmerz brennt, mein Ohr rauscht. Für einen Moment denke ich, er schlägt
-noch einmal. Doch stattdessen sackt er in die Ecke des Zimmers zusammen, zieht
-die Knie an den Körper und beginnt hemmungslos zu heulen.
+Der Schmerz brennt; ein hoher Ton schneidet in mein Ohr, alles rauscht. Für
+einen Moment denke ich, er schlägt noch einmal. Doch stattdessen sackt er in die
+Ecke des Zimmers zusammen, zieht die Knie an den Körper und beginnt hemmungslos
+zu heulen. Er presst die Stirn in die Armbeuge, dreht den Kopf weg und wischt
+sich hastig mit dem Ärmel über die Augen – als wolle er nicht gesehen werden.
 
-Ich taste über meine Wange, die heiß pulsiert. Dann gehe ich wortlos ins
-Wohnzimmer, packe meine Sachen. Mein Vater hat mir eingebläut: Lass dein Gepäck
-nie zurück, selbst wenn du denkst, du holst es später. Immer mitnehmen. Also
-packe ich alles in meine, viel zu vollgestopfte Tasche. Die Aufregung nimmt mir
-fast den Atem.
+Ich taste über meine Wange, die heiß pulsiert. Mein Mund ist staubtrocken. Dann
+gehe ich wortlos ins Wohnzimmer, packe meine Sachen. Mein Vater hat mir
+eingebläut: Lass dein Gepäck nie zurück, selbst wenn du denkst, du holst es
+später. Immer mitnehmen. Also packe ich alles in meine, viel zu vollgestopfte
+Tasche. Die Aufregung nimmt mir fast den Atem.
 
 Am Fenster halte ich inne, ziehe den Vorhang nur einen Spalt auf. Früher Morgen,
 graues Licht, die Straße wirkt leer. Kein Lada, keine Männer im Anzug. Für einen
@@ -87,27 +97,34 @@ weg oder noch nicht da.
 
 Ich atme tief ein, hänge mir die Tasche über die Schulter und öffne vorsichtig
 die Wohnungstür. Das Treppenhaus ist still, nur meine Schritte hallen leise.
-Jede Stufe fühlt sich an wie ein Befreiungsschlag. Unten drücke ich die Haustür
-auf, trete hinaus in den kühlen Morgen.
+Jede Stufe fühlt sich an wie ein Befreiungsschlag. Unten öffne ich die Haustür
+nur einen Spalt. Kalte Luft – sonst nichts. Ich spähe hinaus, links, rechts,
+trete einen Schritt zurück und lausche: Schritte? Stimmen? Nichts. Ich halte die
+Klinke, damit sie nicht ins Schloss fällt. Dann schiebe ich sie einen Hauch
+weiter auf, drücke mich durch den Spalt und bleibe dicht an der Hauswand.
+Schnell, halb geduckt, die Mauer entlang bis zur Ecke.
 
 Doch kaum biege ich um die Straßenecke, bleibt mir die Luft weg. Da ist er. Der
-graublaue Lada, Diplomatenkennzeichen glänzen im fahlen Licht. Er rollt langsam
-heran, fast lautlos, wie ein Tier auf der Jagd.
+graublaue Lada, Diplomatenkennzeichen glänzen im fahlen Licht. Der Motor brummt
+dumpf, gleichmäßig — wie ein Tier auf der Jagd.
 
 Ich ducke mich hastig hinter eine Hecke, die viel zu spärlich ist, um mich
 wirklich zu verstecken. Aber es reicht: Zwei Männer steigen aus, der Dritte
 bleibt am Steuer. Zielstrebig gehen sie auf Raijas Wohnblock zu – und dann
 passiert das, womit ich nicht gerechnet habe. Jorma öffnet ihnen tatsächlich die
-Tür.
+Tür; das kurze Summen des Türöffners ist bis hier zu hören. Aus gekränktem
+Stolz? Angst vor Ärger? Oder einfach Eifer, sich nützlich zu machen?
 
 Mein Herz hämmert. Er lässt sie einfach rein. Kein Zögern, kein Widerstand. Als
-hätte er nur auf diesen Moment gewartet. Ich spüre, wie mir der Magen umkippt.
-Raija kämpft um meine Sicherheit – und er spielt Türsteher für die Stasi. Steckt
-er mit ihnen unter eine Decke?
+hätte er nur auf diesen Moment gewartet. Ein Schlüssel klirrt, dumpfe Schritte
+hallt durchs Treppenhaus. Ich spüre, wie mir der Magen umkippt. Raija kämpft um
+meine Sicherheit – und er spielt Türsteher für die Stasi. Steckt er mit ihnen
+unter eine Decke? Geht seine Ideologie so weit, mich zu verraten? Selbst Raija
+zu verraten?
 
 Ich kauere tiefer ins Grün. Minuten später sehe ich die Männer wieder
 herauskommen. Ihre Gesichter sind finster, als hätten sie nicht gefunden, wonach
-sie suchten. Natürlich nicht – ich bin schon weg. „Nehmt das ihr Luschen!“ Sie
+sie suchten. Natürlich nicht – ich bin schon weg. „Nehmt das, ihr Luschen!“ Sie
 steigen zurück in den Wagen, der Motor heult auf, und der Lada rollt langsam
 davon.
 
@@ -126,4 +143,4 @@ verharre ich lange, mustere jeden, der auftaucht. Doch Mielke kommt nicht.
 Schließlich trete ich ein, kaufe ein Ticket nach Tampere und setze mich so, dass
 ich den Eingang im Blick behalte.
 
-Kein graublauer Lada. Kein Mielke. Endlich ruft der Schaffner, ich steige ein.
+Kein graublauer Lada. Kein Mielke. Endlich kommt der Zug, ich steige ein.

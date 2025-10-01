@@ -106,11 +106,11 @@ hängen. Ein Wort, das nach Ferne klingt. Nach Westen. Nach der Welt hinter der
 Grenze. Stockholm hat doch auch eine westdeutsche Botschaft. Warum nicht
 dorthin? Es ist weit weg, ja, aber vielleicht gerade deshalb sicherer. Sicher zu
 weit selbst für Mielke. Und der Weg dorthin? Eine Fähre fährt vom finnischen
-Vaasa nach Schweden. Ich folge mit dem Finger den Straßen: Von hier aus sind es 300
-Kilometer Autobahn bis Vaasa, vielleicht 350 bis 400 Kilometer zu Fuß. Jeden Tag
-20 Kilometer heißt drei Wochen. Drei Wochen, in denen ich unsichtbar sein könnte.
-Kein Ticket, keine Papiere, keine Botschaft. Nur ich. Vollkommen unabhängig.
-Machbar? Vielleicht sogar besser als Helsinki.
+Vaasa nach Schweden. Ich folge mit dem Finger den Straßen: Von hier aus sind es
+300 Kilometer Autobahn bis Vaasa, vielleicht 350 bis 400 Kilometer zu Fuß. Jeden
+Tag 20 Kilometer heißt drei Wochen. Drei Wochen, in denen ich unsichtbar sein
+könnte. Kein Ticket, keine Papiere, keine Botschaft. Nur ich. Vollkommen
+unabhängig. Machbar? Vielleicht sogar besser als Helsinki.
 
 Der Alte drückt mir noch ein zweites Buch in die Hand: Laavujen Opas:
 Pohjois-Länsi-Suomi. „Opas?“ Ich kichere. Was für Opas? Beim Aufschlagen wird’s

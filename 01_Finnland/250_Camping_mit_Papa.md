@@ -8,30 +8,39 @@ persons:
   - 'Eddie'
   - 'Eddies Vater'
   - 'Eddies Mutter (indirekt erwähnt)'
-synopsis: 'Eddie erinnert sich beim Holzsammeln in Finnland an die geheimen Survival-Übungen, die ihr Vater mit ihr im Dresdner Wald geprobt hat. Feuer, Pilze, Unterstand, Wasser reinigen, Kompass, Verstecke, Nahrung, psychologische Stärke – alles war Vorbereitung für den Ernstfall.'
+synopsis: 'Beim Holzsammeln in Finnland erinnert sich Eddie an geheime Survival-Übungen mit ihrem Vater im Dresdner Wald – Feuer, Unterstand, Orientierung, Tarnung – und begreift, dass er sie für den Ernstfall vorbereitet hat.'
 mood: 'warm, nachdenklich, praktisch'
 tense: 'past, Eddies first-person perspective'
 mode: 'flashback'
 illustrations:
   - 'FIN_Vaasalopet_baden4.png'
 proofreading:
-  Kapitel: '260_Camping_mit_Papa'
+  Kapitel: '250_Camping_mit_Papa'
   Ton:
-    Einschaetzung: 'Warm, sachlich, rückblickend. Eddie schildert Übungen mit Papa ernsthaft und detailliert.'
-    Kritik: 'Ton ist stellenweise zu erwachsen-reflektiert, fast wie ein Lehrbuch. Rotzgörenfarbe fehlt. Es klingt mehr wie eine Anleitung als eine Erinnerung.'
+    Einschaetzung: 'Warm, praktisch, rückblickend; Vater-Tochter-Dynamik trägt das Kapitel.'
+    Kritik: 'Teilweise erwachsen-reflektiert, streckenweise anleitend statt erinnernd; jugendliche Spontaneität fehlt punktuell.'
+    Fix: '1–2 kurze, rotzige Gedankenfetzen einbauen; an 1–2 Stellen Staunen/Frust direkt zeigen (nicht nur beschreiben).'
+    Note: 2
   Logik:
-    Einschaetzung: 'Übungen (Feuer, Unterstand, Pilze) plausibel. Zusammenhang zur Flucht nachvollziehbar.'
-    Kritik: 'Manche Details wirken zu perfekt erinnert. Könnte glaubwürdiger sein, wenn Eddie sich über Fehler oder Missgeschicke lustig macht.'
+    Einschaetzung: 'Übungen (Feuer, Unterstand, Orientierung, Wasser, Tarnung) plausibel; Verknüpfung zur Flucht klar.'
+    Kritik: 'Einzelne Erinnerungen wirken „perfekt“; kleine Unschärfe/Missgeschick steigert Glaubwürdigkeit.'
+    Fix: 'Eine Mini-Panne einfügen (falscher Pilz fast gepflückt, Feuer erlischt); Zeitanker dezent markieren (Frühjahr, Dämmerung).'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Papa wirkt klar gezeichnet: streng aber fürsorglich.'
-    Kritik: 'Eddie selbst bleibt etwas blass; sie erzählt, aber zeigt wenig Emotion (Stolz, Frust, Trotz).'
+    Einschaetzung: 'Vater: streng, klug, fürsorglich; Eddie: lernwillig, stolz, gelegentlich ungeduldig.'
+    Kritik: 'Eddies Emotionen (Stolz/Trotz/Peinlichkeit) noch 1–2 Mal körperlich zeigen.'
+    Fix: 'Kurze Körpermarker ergänzen (Augenrollen, kichern unterdrücken, kalte Finger am Feuer).'
+    Note: 3
   Sprache:
-    Einschaetzung: 'Klar, flüssig, wenig Fehler.'
-    Kritik: 'Zu viele Aufzählungen in sachlichem Ton. Füllwörter moderat, könnten gestrichen werden. Kommafehler bei direkter Rede prüfen.'
+    Einschaetzung: 'Klar und bildhaft; viele anschauliche Details.'
+    Kritik: 'Listenhaft an wenigen Stellen; kann minimal gestrafft und variiert werden.'
+    Fix: 'Lange Aufzählungen in 1–2 kürzere Sätze auflösen; 1–2 Verben ersetzen Aufzählungen.'
+    Note: 2
   Fazit:
-    Staerken: 'Glaubwürdiger Hintergrund, erklärt Eddies Fähigkeiten. Kapitel verankert die Überlebensthemen.'
-    Schwaechen: 'Zuviel Lehrbuchton, zu glatte Erinnerung, zu wenig jugendliche Energie.'
-    Fix: 'Rotzgören-Sprache einbauen, Missgeschicke/Emotionen erwähnen, sachliche Listen verdichten.'
+    Staerken: 'Glaubwürdige Vorbereitungsgeschichte; starker Vater-Figur; konkrete Survival-Details.'
+    Schwaechen: 'Lehrbuch-Ton blitzt gelegentlich durch; Eddie könnte emotional präsenter sein.'
+    Fix: 'Leichte Straffung, 2–3 jugendliche Einwürfe, 1 Mini-Panne; sonst belassen.'
+    Note: 2
 ---
 
 # Camping mit Papa
