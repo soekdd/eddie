@@ -8,7 +8,7 @@ persons:
   - 'Raija'
   - 'Eddies Eltern'
   - 'Mielke'
-synopsis: 'Eddie öffnet sich Raija: Sie erzählt von ihren Eltern in der DDR, von Kontrolle, Fluchtplan und Abschied in Schönefeld; Raija hört zu und tröstet sie.'
+synopsis: 'Eddie öffnet sich Raija: Sie erzählt von ihren Eltern, DDR-Kontrolle, Schuld und dem Abschied in Schönefeld; Raija tröstet.'
 mood: 'intimate, heavy but tender'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -17,20 +17,20 @@ proofreading:
   Kapitel: '190_Meine_Eltern'
   Ton:
     Einschaetzung: 'Intim und ernst; Eddie ringt um Worte, während Raija behutsam zuhört.'
-    Kritik: 'Teilweise noch erklärend; an einzelnen Stellen könnten spontanere, jugendlichere Einwürfe die Unmittelbarkeit erhöhen.'
+    Kritik: 'Teilweise erklärend; kurze, stockende Halbsätze/Einwürfe (z. B. „äh“, „ich weiß…“) könnten die Unmittelbarkeit erhöhen.'
   Logik:
     Einschaetzung: 'Plausible Öffnung gegenüber Raija; DDR-Kontext als kurzer Hintergrund funktioniert.'
-    Kritik: 'Manche Sätze bündeln viel Exposition; kleine konkrete Erinnerungsbilder könnten das Allgemeine erden.'
+    Kritik: 'Manche Sätze bündeln viel Exposition; kleines Erinnerungsbild je Elternteil erdet das Allgemeine. Klarer markieren, was Mutter ahnt vs. weiß.'
   Charaktere:
     Einschaetzung: 'Eltern erscheinen in Konturen (starker Vater, wache Mutter); Eddie wirkt ambivalent und schuldbewusst.'
-    Kritik: 'Noch etwas typisiert; wenige kleine, widersprüchliche Details (Macken, Gesten) könnten mehr Tiefe geben.'
+    Kritik: 'Noch etwas typisiert; ein, zwei widersprüchliche Mini-Details (Geste, Macke, Satzfetzen) geben mehr Tiefe.'
   Sprache:
     Einschaetzung: 'Klar, stellenweise jugendlich und direkt; Korrekturen für Fluss und Grammatik eingefügt.'
-    Kritik: 'Einzelne Formulierungen noch glatt; gelegentliche knappe Gedankenfetzen würden die Stimme weiter verjüngen.'
+    Kritik: 'Einzelne Formulierungen noch glatt; 1–2 abgebrochene Sätze/knappe Gedankenfetzen im Jugendsound verjüngen die Stimme.'
   Fazit:
     Staerken: 'Intime Nähe zu Raija, nachvollziehbare Motivation, spürbare Schuld und Entschlossenheit.'
     Schwaechen: 'Etwas Exposition, punktuell noch zu erwachsen.'
-    Fix: 'Mehr kurze, unfertige Gedanken und kleine Reibungen einstreuen; ein, zwei konkrete Eltern-Details ergänzen (Geste, Blick, Satzfetzen).'
+    Fix: '1–2 kurze Gedanken-/Halbsätze einstreuen; je Elternteil ein konkretes, dorniges Detail (Geste, Blick, Satzfetzen) ergänzen.'
 ---
 
 # Meine Eltern

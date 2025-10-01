@@ -6,28 +6,28 @@ place: 'Raijas Wohnung in Jyväskylä'
 persons:
   - 'Eddie'
   - 'Jorma'
-synopsis: 'Eddie streitet mit Jorma über die DDR, Raija kommt heim und spürt die Spannungen; nachts hört Eddie den Streit zwischen beiden.'
+synopsis: 'Jorma kehrt betrunken zurück und wird übergriffig; Eddie wehrt sich und flieht. Kurz darauf lässt Jorma Stasi-Männer in die Wohnung; Eddie versteckt sich und entkommt zum Bahnhof nach Tampere.'
 mood: 'tense and uneasy'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
   Kapitel: '230_Jorma_vergisst_sich'
   Ton:
-    Einschaetzung: 'Bedrohlich, körpernah, unmittelbare Eskalation; Fluchtenergie klar spürbar.'
-    Kritik: 'Erledigt: Eddies Schimpfrede wirkt stellenweise zu geordnet für den Adrenalinschub. Kürzere, abgebrochene Sätze könnten die Überforderung besser transportieren.'
+    Einschaetzung: 'Unmittelbar, bedrohlich; Übergriff, Flucht, Verstecken – hohes Stressniveau.'
+    Kritik: 'Eddies Ausbruch wirkt stellenweise zu geordnet; 2–3 abgebrochene, hektische Halbsätze würden den Adrenalinschub besser tragen.'
   Logik:
-    Einschaetzung: 'Jormas Betrunkenheit + Übergriff → Eddie flieht; kurz darauf Stasi-Besuch und kontrollierende Suche: schlüssig im etablierten Setting.'
-    Kritik: 'Timing/Motivation: Warum lässt Jorma die Männer sofort rein? Mini-Andeutung (Angst, Opportunismus, gekränkter Stolz) würde sein Handeln plausibler erden.'
+    Einschaetzung: 'Betrunkenheit → Übergriff → Flucht; Stasi-Sichtung und Wohnungskontrolle plausibel im Rahmen der etablierten Gefahr.'
+    Kritik: 'Kurz andeuten, warum Jorma sofort öffnet (gekränkter Stolz, Angst vor Ärger, ideologischer Eifer), um sein Verhalten zu erden.'
   Charaktere:
-    Einschaetzung: 'Eddie zeigt Widerstand und Überlebensreflexe; Jorma als Täter mit Bruch (Weinen) nachvollziehbar.'
-    Kritik: 'Eddies Körperreaktionen (Tinnitus, zittrige Hände, Tunnelblick, flache Atmung) noch punktuell nachschärfen; Jormas Kollaps mit einem Moment von Scham/Verdrängung nuancieren.'
+    Einschaetzung: 'Eddie zeigt Überlebensreflexe und klare Grenze; Jorma kippt vom Täter in den Kollaps (Weinen).'
+    Kritik: 'Eddies Körperreaktionen punktuell verstärken (Ohrensausen, Tunnelblick, trockener Mund); Jormas Kollaps mit einem Moment Scham/Verdrängung nuancieren.'
   Sprache:
-    Einschaetzung: 'Direkt, szenisch, klare Sinneseindrücke (Schnapsgeruch, Griff, Straßenbild).'
-    Kritik: 'Monolog-Passage straffen; mehr fragmentierte Gedanken einstreuen; 1–2 akustische Marker (Schlüssel, Motor im Hof) zur Verdichtung.'
+    Einschaetzung: 'Szenisch, dicht, gute Geruchs-/Klangdetails.'
+    Kritik: 'Schimpfrede straffen; 1–2 akustische Marker (Schlüsselbund, Motor im Hof) ergänzen; mehr fragmentierte Gedankenfetzen.'
   Fazit:
-    Staerken: 'Hohe Spannung, klare Entscheidung der Figur, konsequente Weiterführung der Vaasa-Fluchtachse.'
-    Schwaechen: 'Outburst etwas zu rhetorisch; Jormas Mitwirken an der Durchsuchung braucht eine Mikro-Motivation.'
-    Fix: 'Rede zerhacken (Atempausen, Satzabbrüche), 2–3 körperliche Reaktionen Eddies ergänzen, eine Halbsatz-Andeutung zu Jormas Motiv einfügen, 1–2 Umgebungsgeräusche setzen.'
+    Staerken: 'Hohe Spannung, klare Figurentscheidung, starke Fluchtenergie.'
+    Schwaechen: 'Ausbruch zu rhetorisch; Jormas Türöffnen braucht Mikro-Motiv.'
+    Fix: 'Rede zerhacken, 2–3 körperliche Stressmarker, Halbsatz-Andeutung zu Jormas Motiv, akustische Marker setzen.'
 ---
 
 # Jorma vergisst sich

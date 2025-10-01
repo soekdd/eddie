@@ -6,28 +6,28 @@ place: 'Raijas Wohnung und Jyväskylä'
 persons:
   - 'Eddie'
   - 'Raija'
-synopsis: 'Ein vermeintlich ruhiger Tag kippt: Nach einer kurzen, unangenehmen Begegnung mit Jorma (fremdelnder Blick) kehrt Raija vom Einkauf zurück und berichtet von einem Diplomatenwagen, der sie beobachtet. Beide verdunkeln die Wohnung; Eddie bleibt drinnen. Der geplante Zug fällt aus – stattdessen beschließen sie, mindestens eine Woche abzuwarten und später ggf. per Auto nach Helsinki zu fahren. In der Küche kochen sie, waschen ab und sprechen offen über Eddies Flucht und die IMO-Auswahl. Heimweh und Angst bleiben spürbar, doch für eine Nacht findet Eddie auf dem Sofa Ruhe.'
+synopsis: 'Ruhiger Tag kippt: Jormas Blick verunsichert, Raija wird von einem Diplomatenwagen beobachtet. Sie verdunkeln die Wohnung, verwerfen den Zugplan und warten mindestens eine Woche; später ggf. mit dem Auto nach Helsinki. Beim Kochen reden sie offen über Eddies IMO-Fluchtweg; Heimweh und Angst bleiben, doch Eddie findet kurz Ruhe.'
 mood: 'calm, intimate, safe'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
   Kapitel: '170_Kein_Frieden_in_Jyvaeskylae'
   Ton:
-    Einschaetzung: 'Angespannt, beobachtet; Wohnung als Schutzraum mit kurzen Ruheinseln (Kochen, Abwasch).'
-    Kritik: 'Balance zwischen Häuslichkeit und Bedrohung punktuell schärfen, damit die Idylle die Gefahr nicht überdeckt; jugendliche Direktheit in Dialogen weiter betonen.'
+    Einschaetzung: 'Wachsam, latent bedroht; Wohnung als Schutzraum mit kurzen Ruheinseln (Kochen, Abwasch).'
+    Kritik: 'Balance Häuslichkeit/Gefahr punktuell schärfen; mehr jugendliche Direktheit und kurze Gedankenfetzen in heiklen Momenten.'
   Logik:
-    Einschaetzung: 'Diplomatenwagen/Beobachtung plausibel; Planänderung (abwarten, später Auto nach Helsinki) folgerichtig.'
-    Kritik: 'Kleine Zeitmarker (Nachmittag, Abend) und minimale Außenreize (Autotür, Schritte im Treppenhaus) könnten die Überwachungsszene verankern.'
+    Einschaetzung: 'Diplomatenwagen plausibel; Planänderung (abwarten, später Auto) folgerichtig.'
+    Kritik: '2–3 Zeit-/Außenmarker (später Nachmittag, Autotür, Schritte im Treppenhaus) zur Verankerung der Überwachungsszene ergänzen.'
   Charaktere:
-    Einschaetzung: 'Eddie: wachsam, verängstigt, dennoch handlungsfähig; Raija: schützend, entschlossen; Jorma: latent grenzüberschreitend ohne offene Tat.'
-    Kritik: 'Jormas Szene ggf. mit 1–2 körperlichen Details (Distanz, Blickhöhe, Wegdrehen) schärfen; Eddies Körperreaktion (Atmung, Puls, kalter Schweiß) in der Vorhang-Szene kurz intensivieren.'
+    Einschaetzung: 'Eddie wach und verunsichert; Raija entschlossen; Jorma ambivalent (fremdelnder Blick).'
+    Kritik: 'Jorma mit 1–2 körperlichen Details schärfen (Distanz, Blickhöhe, Abwenden); Eddies Körperreaktion in der Vorhangszene kurz intensivieren.'
   Sprache:
-    Einschaetzung: 'Nah an Sinneseindrücken (Vorhänge, Geräusche in der Küche), klare Bilder.'
-    Kritik: 'Expositionssätze (KSZE, ‚alles Lüge‘) minimal straffen oder natürlicher in Dialogfluss legen; Wiederholungen leicht kürzen.'
+    Einschaetzung: 'Klare Bilder, gute Sinneseindrücke (Vorhänge, Küchengeräusche).'
+    Kritik: 'Expositionslinien (KSZE, „alles Lüge“) etwas straffen oder organischer in den Dialog legen; Wiederholungen leicht kürzen.'
   Fazit:
-    Staerken: 'Dichte Bedrohungsatmosphäre im Kontrast zu häuslicher Wärme; glaubhafte Planänderung; schönes Heimweh-Motiv beim Abwasch.'
-    Schwaechen: 'Gefahr der zu langen Ruhepassagen; Beobachtungsszene könnte mit Außenweltgeräuschen/Details noch nervöser wirken.'
-    Fix: '2–3 Mikromarker für Zeit/Ort (‚später Nachmittag‘, Autotür unten), Jorma-Moment fein nachziehen, 1–2 jugendlich-lakonische Einwürfe ergänzen.'
+    Staerken: 'Kontrast Wärme/Bedrohung, glaubhafte Planänderung, Heimweh-Motiv.'
+    Schwaechen: 'Ruhepassagen drohen Länge; Überwachung könnte akustisch-nervöser wirken.'
+    Fix: 'Kurze Zeit-/Geräuschmarker einbauen; 1–2 jugendliche Einwürfe; Jorma-Detail und Eddies körperliche Reaktion präzisieren.'
 ---
 
 # Kein Frieden in Jyväskylä

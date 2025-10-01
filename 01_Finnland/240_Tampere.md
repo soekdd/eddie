@@ -106,9 +106,9 @@ hängen. Ein Wort, das nach Ferne klingt. Nach Westen. Nach der Welt hinter der
 Grenze. Stockholm hat doch auch eine westdeutsche Botschaft. Warum nicht
 dorthin? Es ist weit weg, ja, aber vielleicht gerade deshalb sicherer. Sicher zu
 weit selbst für Mielke. Und der Weg dorthin? Eine Fähre fährt vom finnischen
-Vaasa nach Schweden. Ich folge mit dem Finger den Straßen: Von hier aus 300
+Vaasa nach Schweden. Ich folge mit dem Finger den Straßen: Von hier aus sind es 300
 Kilometer Autobahn bis Vaasa, vielleicht 350 bis 400 Kilometer zu Fuß. Jeden Tag
-20 Kilometer: drei Wochen. Drei Wochen, in denen ich unsichtbar sein könnte.
+20 Kilometer heißt drei Wochen. Drei Wochen, in denen ich unsichtbar sein könnte.
 Kein Ticket, keine Papiere, keine Botschaft. Nur ich. Vollkommen unabhängig.
 Machbar? Vielleicht sogar besser als Helsinki.
 
@@ -167,23 +167,12 @@ Finnisch–Englisch-Wörterbuch. Nicht übel für 255 Markka.
 
 Die Sonne brennt, ich ziehe Linien mit dem Finger über die Karte. Erste Etappe,
 zweite Woche, dritte Woche. Ich male mir alles aus. 400 Kilometer nach Vaasa.
-Verrückt. Aber ich bin Wäng, ich bin stark. Und vor allem: ich habe keine andere
+Verrückt. Aber ich bin jung, ich bin stark. Und vor allem: ich habe keine andere
 Wahl.
 
-Und dann kommt sie, die Euphorie. Kein Warten mehr, kein Bitten.Von niemadem
+Und dann kommt sie, die Euphorie. Kein Warten mehr, kein Bitten. Von niemadem
 mehr abhängig sein. Ich laufe. Ich laufe nach Vaasa. Es ist mein Plan. Meiner!
 
 Ich schultere die Beutel, binde die Regenjacke um und gehe los. Erste Etappe:
 eine Schutzhütte westlich von Tampere. Jeder Schritt fühlt sich nach Freiheit
 an.
-
-Der Wald nimmt mich auf wie eine alte Freundin. Der Weg zur ersten Hütte ist
-hart, die Beutel schneiden in die Schultern, aber ich beiße die Zähne zusammen.
-Endlich stehe ich davor: ein winziges Blockhaus, nicht größer als ein
-Doppelbett. Ich atme auf. Ein Dach über dem Kopf, und das gratis. Verrückt, dass
-es so etwas hier für alle gibt. Pikku-Ahvenisto heißt die Hütte und steht mitten
-im Wald an einem kleinen See.
-
-Ich richte mich ein, packe meinen Schlafsack aus. Ein kurzer Gedanke: Wer wohl
-da drin schon alles geschlafen hat? Soldaten, Obdachlose, Wanderer? Ich
-schnuppere am Stoff – frisch, nach Wind, nach Wald. Alles gut.

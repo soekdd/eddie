@@ -7,28 +7,28 @@ persons:
   - 'Eddie'
   - 'Raija'
   - 'Jorma'
-synopsis: 'Raija bringt Eddie nach Jyväskylä in ihre Wohnung; dort kommt es nachts zum heftigen Streit zwischen Raija und Jorma über das Risiko, das sie für Eddie eingeht.'
+synopsis: 'Raija schmuggelt Eddie aus Joutsa und bringt sie nach Jyväskylä in ihre Wohnung; unterwegs die Angst vor Verfolgern, in der Stadt der Kontrast zur DDR. Eddie trifft Jorma kurz und schläft erschöpft ein.'
 mood: 'tense, conflicted, heavy'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
   Kapitel: '150_Flucht_mit_Raija'
   Ton:
-    Einschaetzung: 'Dramatisch, angespannt, Eddie schildert die Flucht ernst und konzentriert.'
-    Kritik: 'Ton wirkt stellenweise wie ein Bericht, zu sachlich. Emotionale Unmittelbarkeit schwankt, jugendliche Gedanken fehlen streckenweise.'
+    Einschaetzung: 'Angespannte Autofahrt kippt in kurze Geborgenheit; Eddie vergleicht DDR und Finnland aus unmittelbarer, persönlicher Perspektive.'
+    Kritik: 'Einzelne Passagen klingen berichtend/essayistisch (Trabi-Exkurs); mehr kurze, atemlose Sätze und Gedankenfetzen würden die Unmittelbarkeit erhöhen.'
   Logik:
-    Einschaetzung: 'Fluchtszene plausibel und nachvollziehbar.'
-    Kritik: 'Manche Abläufe wirken zu glatt und kontrolliert. Mehr Chaos, Unsicherheiten oder zufällige Störungen wären realistischer.'
+    Einschaetzung: 'Flucht plausibel (Diplomatenkennzeichen, Ausfahrt), Ziel Jyväskylä nachvollziehbar.'
+    Kritik: 'Spannung fällt nach Ankunft sehr schnell ab; eine kleine Restparanoia im Treppenhaus oder am Fenster könnte die Glaubwürdigkeit stärken.'
   Charaktere:
-    Einschaetzung: 'Eddie und Raija im Fokus, Zusammenarbeit deutlich.'
-    Kritik: 'Eddies Angst und Nervosität könnten stärker gezeigt werden. Raija wirkt funktional, ihre Persönlichkeit bleibt im Hintergrund.'
+    Einschaetzung: 'Raija entschieden und fürsorglich; Eddie wach, dankbar; Jorma als erste, distanzierte Kontur.'
+    Kritik: 'Raijas individuelle Farbe (kleine Eigenheit, Geste oder Spruch) fehlt; Jormas Ambivalenz ließe sich über ein prägnantes Detail vertiefen (zögernder Händedruck, abgewandter Blick).'
   Sprache:
-    Einschaetzung: 'Klar, detailreich, spannungsvoll.'
-    Kritik: 'Teilweise zu beschreibend und nüchtern. Wenig jugendliche Ausrufe, spontane Gedanken oder unpassende Assoziationen.'
+    Einschaetzung: 'Klar und bildhaft, starke Kontraste zwischen DDR-Alltag und finnischer Stadt.'
+    Kritik: 'Der lange Trabant-Abschnitt bremst; Zahlen/Preise straffen oder in eine knappe Erinnerung fassen; punktuell jugendliche Asides dosiert einstreuen.'
   Fazit:
-    Staerken: 'Spannender Handlungspunkt, zeigt Eddies Mut und die Verbindung zu Raija.'
-    Schwaechen: 'Zu kontrolliert, wenig Chaos, Figuren wirken zu glatt.'
-    Fix: 'Mehr körperliche Reaktionen und chaotische Gedanken zeigen, Raijas Persönlichkeit stärker einbinden, Sprache jugendlicher machen.'
+    Staerken: 'Tempo-Wechsel (Flucht → Ruhe), glaubwürdige Fürsorge, atmosphärische Stadteindrücke.'
+    Schwaechen: 'Exposition lastet, Restangst könnte länger nachhallen.'
+    Fix: 'Trabi-Exkurs kürzen/verdichten; 1–2 kurze Gedankenfetzen während der Fahrt; kleines widersprüchliches Detail zu Raija/Jorma ergänzen.'
 ---
 
 # Flucht mit Raija

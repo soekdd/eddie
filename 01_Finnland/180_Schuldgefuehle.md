@@ -8,28 +8,28 @@ persons:
   - 'Raija'
   - 'Jorma'
   - 'Eddies Familie (in Gedanken)'
-synopsis: 'Eddie liegt nach ihrer Flucht schlaflos im Bett, quält sich mit Schuldgefühlen um ihre Familie; Raija tröstet sie in der Nacht, doch am Morgen fühlt sie sich von Jorma unbehaglich beobachtet.'
+synopsis: 'Eddie liegt schlaflos, Schuldgefühle um ihre Eltern lassen sie Bilder von Stasi-Verhören sehen; Raija legt sich zu ihr und tröstet sie, bis sie erschöpft einschläft.'
 mood: 'fearful, vulnerable, briefly comforted'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
   Kapitel: '180_Schuldgefuehle'
   Ton:
-    Einschaetzung: 'Melancholisch, sehnsüchtig, Eddie denkt an Zuhause.'
-    Kritik: 'Ton wirkt sehr erwachsen und literarisch, wenig jugendliche Direktheit. Gefahr, dass es zu pathetisch klingt.'
+    Einschaetzung: 'Intim, verletzlich; nächtliche Schuldspirale mit tröstender Nähe durch Raija.'
+    Kritik: 'Stellenweise sehr literarisch; ein paar jugendliche, direkte Gedankenfetzen würden Pathos brechen und Unmittelbarkeit erhöhen.'
   Logik:
-    Einschaetzung: 'Rückblick auf Zuhause plausibel, zeigt Eddies innere Zerrissenheit.'
-    Kritik: 'Erinnerungen erscheinen zu glatt und harmonisch. Konflikte oder Brüche in den Gefühlen fehlen.'
+    Einschaetzung: 'Vorstellung von Verhören plausibel; zweite Nacht nach der Flucht sauber verortet.'
+    Kritik: 'Gefühle überwiegend homogen (Schuld/Trauer); ein kurzer Widerhaken (Wut/Trotz/klare Entscheidung) könnte die Kurve abwechslungsreicher machen.'
   Charaktere:
-    Einschaetzung: 'Eddie steht im Mittelpunkt, verletzlich, sehnsüchtig.'
-    Kritik: 'Ihre Emotionen bleiben stark in Bildern verpackt. Direkte körperliche Reaktionen (Tränen, Lachen, Wut) fehlen. Familie wird idealisiert.'
+    Einschaetzung: 'Eddie offen und roh; Raija fürsorglich, anfassbar durch körperliche Nähe.'
+    Kritik: 'Familie idealisiert; ein kleines, ambivalentes Detail (z. B. Vaters Strenge vs. Liebe) würde Tiefe geben.'
   Sprache:
-    Einschaetzung: 'Poetisch, bildhaft.'
-    Kritik: 'Zu viele Metaphern, lange Sätze. Kaum jugendliche Einwürfe oder chaotische Gedanken, die Authentizität schaffen würden.'
+    Einschaetzung: 'Bildhaft und flüssig; starke Sinneseindrücke (Wärme, Atem, Nachtgeräusche).'
+    Kritik: 'Einige Metaphern und längere Sätze straffen; 1–2 kurze Sätze/Einwürfe im Jugendsound einstreuen.'
   Fazit:
-    Staerken: 'Zeigt Eddies Sehnsucht, verdeutlicht emotionale Zerrissenheit, schafft Tiefgang.'
-    Schwaechen: 'Zu literarisch und erwachsen, Erinnerungen idealisiert, Emotionen nicht körperlich genug.'
-    Fix: 'Mehr jugendliche Gedanken und chaotische Gefühle einbauen, Erinnerungen realistischer und widersprüchlicher machen, Sprache straffen.'
+    Staerken: 'Konzentrierte Innenwelt, glaubhafte Schuld, tröstende Beziehung zu Raija.'
+    Schwaechen: 'Pathetik-Gefahr, wenig Ambivalenz in Elternbild.'
+    Fix: '2–3 knappe Gedankenfetzen („nicht fair“, „ich hasse diese Mauern“), ein ambivalentes Eltern-Detail, Metaphern minimal reduzieren.'
 ---
 
 # Schuldgefühle

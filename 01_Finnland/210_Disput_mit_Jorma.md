@@ -7,30 +7,30 @@ persons:
   - 'Eddie'
   - 'Jorma'
   - 'Raija'
-synopsis: 'Eddie streitet mit Jorma über die DDR, Raija kommt heim und spürt die Spannungen; nachts hört Eddie den Streit zwischen beiden.'
+synopsis: 'Ein zermürbender Tag: Jorma bleibt da und diskutiert den Sozialismus gegen Eddies DDR-Erfahrung; abends streiten Raija und Jorma – danach bittet Eddie Raija um Hilfe.'
 mood: 'tense and uneasy'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_Jyvaeskylae_Jorma.png'
 proofreading:
-  Kapitel: '220_Disput_mit_Jorma'
+  Kapitel: '210_Disput_mit_Jorma'
   Ton:
-    Einschaetzung: 'Konfrontativ, angespannt, Eddie schildert den Streit energisch.'
-    Kritik: 'Ton wirkt teils zu reif und kontrolliert. Chaotische, jugendliche Impulsivität fehlt streckenweise.'
+    Einschaetzung: 'Konfrontativ und beklemmend; ein langer, zäher Streittag mit kurzer Entlastung am Abend.'
+    Kritik: 'Stellenweise zu kontrolliert; mehr jugendliche Impulsivität (Hader, Ausrutscher, sarkastische Einwürfe) würde die Unmittelbarkeit erhöhen.'
   Logik:
-    Einschaetzung: 'Disput nachvollziehbar, spiegelt Eddies prekäre Situation.'
-    Kritik: 'Ablauf manchmal zu linear, Eskalation wirkt konstruiert. Mehr Zwischentöne oder Missverständnisse würden realistischer wirken.'
+    Einschaetzung: 'Jorma als ideologischer Gegenpol plausibel; Heimkehr Raijas löst zweiten Konflikt aus.'
+    Kritik: 'Tagesverlauf wirkt linear; 2–3 Zeit-/Raum-Marker (kalt gewordener Kaffee, Uhrtickern, Straßenlärm) könnten Dauer und Eskalationskurve fühlbarer machen.'
   Charaktere:
-    Einschaetzung: 'Eddie zeigt Rückgrat, Jorma als Gegenspieler deutlich gezeichnet.'
-    Kritik: 'Eddies Verletzlichkeit tritt zurück, sie wirkt zu souverän. Jorma bleibt eher Typ als komplexe Figur.'
+    Einschaetzung: 'Eddie zeigt Rückgrat, aber Müdigkeit; Raija klar und handlungsorientiert; Jorma als streitlustiger Aktivist.'
+    Kritik: 'Eddies Verletzlichkeit könnte punktuell durch körperliche Reaktionen durchscheinen (trockener Mund, zittrige Hände); Jorma 1 Nuance geben (kurzes Eingeständnis, nervöses Detail), um ihn weniger schablonenhaft wirken zu lassen.'
   Sprache:
-    Einschaetzung: 'Direkt, dialogorientiert.'
-    Kritik: 'Manche Dialogzeilen klingen gestellt, zu sauber formuliert. Füllwörter und Unterbrechungen fehlen – dadurch wirkt es geschrieben, nicht gesprochen.'
+    Einschaetzung: 'Dialogorientiert mit klaren Standpunkten.'
+    Kritik: 'Mehr gesprochensprachliche Brüche, Füllwörter und Überlappungen („äh“, „warte, nein…“) einbauen; längere Thesen in kürzere Stöße teilen.'
   Fazit:
-    Staerken: 'Dynamische Szene, bringt Konflikt und Spannung, Eddie zeigt Stärke.'
-    Schwaechen: 'Zu konstruiert, wenig spontane Emotion, Jorma eindimensional.'
-    Fix: 'Dialog natürlicher machen, mehr Unterbrechungen oder Missverständnisse, Eddies Unsicherheit betonen, Jorma differenzierter darstellen.'
+    Staerken: 'Klarer Konfliktkern, steigende Spannung über den Tag, sinnvolle Brücke zur Bitte um Hilfe.'
+    Schwaechen: 'Debatte wirkt teils gestellt; Figurenkontur von Jorma begrenzt.'
+    Fix: 'Dialog verlebendigen (Unterbrechungen/Missverständnisse), 2–3 Zeit-/Sinnesmarker, kleine Verletzlichkeitsmomente für Eddie, eine Nuance für Jorma.'
 ---
 
 # Disput mit Jorma
