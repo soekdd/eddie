@@ -15,7 +15,7 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Zoellner.png'
 proofreading:
-  Kapitel: '590_Der_Fehlversuch'
+  Kapitel: '580_Das_Busticket'
   Ton:
     Einschaetzung: 'Ernst, leicht frustriert, Eddie schildert ihr Scheitern.'
     Kritik: 'Ton ist streckenweise zu nüchtern und erklärend. Emotionale Wucht des Scheiterns kommt nicht stark genug durch.'
@@ -34,7 +34,7 @@ proofreading:
     Fix: 'Scheitern emotionaler und chaotischer schildern, körperliche Reaktionen zeigen, Sprache jugendlicher und spontaner machen.'
 ---
 
-# Der Fehlversuch
+# Das Busticket
 
 Der nächste Morgen riecht nach nassem Asphalt und zu viel Kaffee. Ich stehe
 wieder bei den Reisebussen, und diesmal bin ich nicht hier, um zu üben -- heute

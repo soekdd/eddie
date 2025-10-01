@@ -17,7 +17,7 @@ todo: 'Redundanz zu ''Hof hinter dem Haus'
 proofreading: {}
 ---
 
-# Die zweite Tasche & der Liebesbrief
+# Die zweite Tasche
 
 Am nächsten Tag finde ich sie. Die Tasche. Einfach so, mitten auf meinem Bett in
 der Mission, als hätte sie nur auf mich gewartet. Ich starre sie an, fast

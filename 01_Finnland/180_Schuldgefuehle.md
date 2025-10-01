@@ -13,7 +13,7 @@ mood: 'fearful, vulnerable, briefly comforted'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '170_Eddie_traeumt_von_daheim'
+  Kapitel: '180_Schuldgefuehle'
   Ton:
     Einschaetzung: 'Melancholisch, sehnsüchtig, Eddie denkt an Zuhause.'
     Kritik: 'Ton wirkt sehr erwachsen und literarisch, wenig jugendliche Direktheit. Gefahr, dass es zu pathetisch klingt.'
@@ -32,7 +32,7 @@ proofreading:
     Fix: 'Mehr jugendliche Gedanken und chaotische Gefühle einbauen, Erinnerungen realistischer und widersprüchlicher machen, Sprache straffen.'
 ---
 
-# Eddie träumt von daheim
+# Schuldgefühle
 
 Ich erwache mit einem Schreck in den Gliedern. Wo bin ich? Ich erkenne Raijas
 Sofa, ihre warme Decke. Alles ist still, nur draußen ruft ein Nachtvogel. Mein

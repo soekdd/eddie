@@ -13,7 +13,7 @@ tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 todo: 'konkrete Etappe bennen'
 proofreading:
-  Kapitel: '360_Eddies_Wunder'
+  Kapitel: '350_Wunder'
   Ton:
     Einschaetzung: 'Hoffnungsvoll, fast euphorisch. Eddie klingt erleichtert und staunend.'
     Kritik: 'Ton schwankt zwischen authentischer Freude und zu großer Pathetik. Gefahr, dass es zu märchenhaft wirkt.'
@@ -32,7 +32,7 @@ proofreading:
     Fix: 'Freude etwas erden, mehr innere Reflexion statt nur Ausrufungen, Nebenfiguren stärker einbeziehen.'
 ---
 
-# Eddies Wunder
+# Wunder
 
 Langsam drehe ich mich um, setze einen Fuß vor den anderen. Unter meinen Schuhen
 knirscht der sandige Weg, die Sonne fällt warm durch die Birken. Zwischen den

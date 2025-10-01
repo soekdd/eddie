@@ -17,7 +17,7 @@ source: 'https://ita-ikaalistenvpk.fi/elamyskota/'
 illustrations:
   - 'FIN_Vaasalopet_Abschied.png'
 proofreading:
-  Kapitel: '350_Abschied'
+  Kapitel: '350_Abschied_Conny_Sabine_Peter_und_Matti'
   Ton:
     Einschaetzung: 'Ernst, traurig, Abschiedsstimmung. Eddie schildert mit Respekt und Nachdenklichkeit.'
     Kritik: 'Ton kippt teilweise ins Pathetische, mit zu vielen schweren Bildern. Gefahr, dass es melodramatisch wirkt.'
@@ -36,7 +36,7 @@ proofreading:
     Fix: 'Emotionen authentischer, direkter zeigen, Pathos reduzieren, Tempus durchgehend klar halten.'
 ---
 
-# Abschied
+# Abschied „Conny, Sabine, Peter und Matti“
 
 Wir packen die Schlafsäcke zusammen, die Boote werden klar gemacht, und
 irgendwie merkt man, dass keiner so richtig Eile hat. Jeder Schritt dauert ein

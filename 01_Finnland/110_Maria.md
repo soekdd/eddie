@@ -17,7 +17,7 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Joutsa_Raija_beschuetzt_Eddie.png'
 proofreading:
-  Kapitel: '110_In_der_Kirche'
+  Kapitel: '110_Maria'
   Ton:
     Einschaetzung: 'Ernst, ehrfürchtig, Eddie beschreibt die Atmosphäre respektvoll.'
     Kritik: 'Ton wirkt sehr erwachsen, fast wie eine kunsthistorische Betrachtung. Die jugendliche Stimme geht verloren.'
@@ -36,7 +36,7 @@ proofreading:
     Fix: 'Jugendliche Gedanken und spontane Assoziationen einbauen, kleine Brüche zwischen Ehrfurcht und Ungeduld zeigen.'
 ---
 
-# In der Kirche
+# Maria
 
 „Sind Sie Russin?“, frage ich erschrocken.
 

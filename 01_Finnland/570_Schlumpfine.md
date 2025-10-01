@@ -108,6 +108,7 @@ jetzt reden wir mal über dich. Dein Name, Eddie – ist das nicht eigentlich ei
 Jungenname?“
 
 „Eigentlich wollte mein Vater mich Ada nennen, nach Ada Lovelace“, erzähle ich.
+
 Sini guckt mich sofort an, die Augen glänzen. „Ada Lovelace? Klar kenne ich die!
 Ich weiß zwar nicht viel von Mathe oder Informatik, aber dass sie eine Pionierin
 war, finde ich richtig stark.“
@@ -116,37 +117,61 @@ war, finde ich richtig stark.“
 Jahrhundert komplexe Rechenmaschinen programmiert hat, lange bevor es Computer
 gab. Er wollte, dass ich eine Art Vorreiterin werde, so wie sie“, sage ich. „Nur
 leider kam er nie zum Einsatz. Denn als er im Standesamt den Namen ‚Ada‘ zu
-Protokoll gab, fragte die Standesbeamtin: ‚Ada? Das machen wir nicht, den Namen
-haben wir hier noch nie vergeben. Wie kommen Sie denn auf so was?‘“ Ich versuche
-für Sini den breiten sächsischen Dialekt irgendwie ins Englische zu übertragen.
-„‚Ist eine britische Mathematikerin‘, soll mein Vater erwidert haben. ‚Ah, nee,
-die kenn ich nicht. Wollen Sie nicht ’ne sowjetische Mathematikerin nehmen,
-wenn’s unbedingt eine sein soll?‘ ‚Kennen Sie eine?‘ ‚Nee, ehrlich gesagt
-nicht‘, gestand die Beamtin. ‚Außerdem spricht man den Namen nicht „Ada“,
-sondern „Eda“ aus‘, wandte mein Vater ein. ‚So wie Edda Göring?‘ ‚Ja, na ja,
-eigentlich eher lang.‘ ‚Dann schreiben Sie doch gleich Edda, wenn Sie Edda
-meinen. Ada machen wir nicht.‘ Das war ihr letztes Wort.
+Protokoll gab, fragte die Standesbeamtin:
 
-Und so bekam ich den Namen Edda. Wie Edda Göring. Hässlich, oder? Aber immerhin
+‚Ada? Das machen wir nicht, den Namen haben wir hier noch nie vergeben. Wie
+kommen Sie denn auf so was?‘
+
+*Ich versuche für Sini den breiten sächsischen Dialekt irgendwie ins Englische
+zu übertragen.*
+
+‚Ist eine britische Mathematikerin‘, soll mein Vater erwidert haben.
+
+‚Ah, nee, die kenn ich nicht. Wollen Sie nicht ’ne sowjetische Mathematikerin
+nehmen, wenn’s unbedingt eine sein soll?‘
+
+‚Kennen Sie eine?‘
+
+‚Nee, ehrlich gesagt nicht‘, gestand die Beamtin.
+
+‚Außerdem spricht man den Namen nicht „Ada“, sondern „Eda“ aus‘, wandte mein
+Vater ein.
+
+‚So wie Edda Göring?‘
+
+‚Ja, na ja, eigentlich eher lang.‘
+
+‚Dann schreiben Sie doch gleich Edda, wenn Sie Edda meinen. Ada machen wir
+nicht.‘
+
+Das war ihr letztes Wort.‘“
+
+„Und so bekam ich den Namen Edda. Wie Edda Göring. Hässlich, oder? Aber immerhin
 gab es in der DDR auch eine Schauspielerin, die Edda hieß. Edda Dentges – auf
-die konnte ich mich wenigstens berufen. Ada hingegen kannte wirklich niemand.
+die konnte ich mich wenigstens berufen. Ada hingegen kannte wirklich niemand.“
 
 Sini schiebt die Augenbrauen hoch. „Edda Göring? Echt jetzt? Das ist ja…
-irgendwie schräg.“\ „Ja, oder? Aber hätte auch schlimmer kommen können, weißt
-du? Von heute aus betrachtet kann ich froh sein, dass mein Vater weder
-Pe-la-ge-ya Po-lu-ba-ri-nova-Ko-chi-na“ – ich spreche den Namen extra langsam
-aus und betone jede Silbe, „eine russische Göttin der Hydrodynamik, noch
-Lyud-mila Kel-dysh, Mathematikprofessorin an der Moskauer
-Lomonossow-Universität, kannte.“ Sini lacht auf: „Ja, das wäre endlos
-schlimmer.“ „Absolut“, erwidere ich und lehne mich zurück, „am Ende haben mich
-sowieso alle nur Eddie genannt, sogar die Lehrer.“\ „Eddie?“ Sini lacht. „Das
-klingt ja viel cooler. Wie ein belgischer Fußballspieler oder ein britischer
-Reggae-Sänger.“ Sini springt von der Bank auf und tut so, als ob sie
-Fußballspielerin und Sängerin zugleich wäre. Ich falle vor Lachen beinahe von
-der Bank. Es ist so schön, mit Sini Zeit zu verlieren. Der Wind weht mir den
-Geruch von Seealgen und Rauch in die Nase. Ich streiche über den Stoff meiner
-verwaschenen roten Trainingshose – ein Stück Dresden, das sich hier manchmal
-fremd anfühlt.
+irgendwie schräg.“
+
+„Ja, oder? Aber hätte auch schlimmer kommen können, weißt du? Von heute aus
+betrachtet kann ich froh sein, dass mein Vater weder Pe-la-ge-ya
+Po-lu-ba-ri-nova-Ko-chi-na“ – *ich spreche den Namen extra langsam aus und
+betone jede Silbe* – „eine russische Göttin der Hydrodynamik, noch Lyud-mila
+Kel-dysh, Mathematikprofessorin an der Moskauer Lomonossow-Universität, kannte.“
+
+Sini lacht auf: „Ja, das wäre endlos schlimmer.“
+
+„Absolut“, erwidere ich und lehne mich zurück, „am Ende haben mich sowieso alle
+nur Eddie genannt, sogar die Lehrer.“
+
+„Eddie?“ Sini lacht. „Das klingt ja viel cooler. Wie ein belgischer
+Fußballspieler oder ein britischer Reggae-Sänger.“
+
+Sini springt von der Bank auf und tut so, als ob sie Fußballspielerin und
+Sängerin zugleich wäre. Ich falle vor Lachen beinahe von der Bank. Es ist so
+schön, mit Sini Zeit zu verlieren. Der Wind weht mir den Geruch von Seealgen und
+Rauch in die Nase. Ich streiche über den Stoff meiner verwaschenen roten
+Trainingshose – ein Stück Dresden, das sich hier manchmal fremd anfühlt.
 
 Aber während ich neben Sini sitze, merke ich: Zuhause ist vielleicht gar kein
 Ort, kein Name, kein System. Zuhause sind Menschen. Menschen wie sie, die mich

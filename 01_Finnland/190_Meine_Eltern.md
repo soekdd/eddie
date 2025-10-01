@@ -8,32 +8,32 @@ persons:
   - 'Raija'
   - 'Eddies Eltern'
   - 'Mielke'
-synopsis: 'Eddie erzählt Raija von ihrer Familie, von der DDR, dem Abschied am Flughafen Schönefeld und ihren Schuldgefühlen. Raija reagiert bewegt und tröstet sie.'
+synopsis: 'Eddie öffnet sich Raija: Sie erzählt von ihren Eltern in der DDR, von Kontrolle, Fluchtplan und Abschied in Schönefeld; Raija hört zu und tröstet sie.'
 mood: 'intimate, heavy but tender'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
 proofreading:
-  Kapitel: '180_Erzaehlt_von_Ihren_Eltern'
+  Kapitel: '190_Meine_Eltern'
   Ton:
-    Einschaetzung: 'Reflektierend, ernst, Eddie berichtet über ihre Eltern.'
-    Kritik: 'Ton klingt sehr erwachsen, fast wie ein Bericht. Jugendlich-ungefilterte Emotionen fehlen streckenweise.'
+    Einschaetzung: 'Intim und ernst; Eddie ringt um Worte, während Raija behutsam zuhört.'
+    Kritik: 'Teilweise noch erklärend; an einzelnen Stellen könnten spontanere, jugendlichere Einwürfe die Unmittelbarkeit erhöhen.'
   Logik:
-    Einschaetzung: 'Erzählung über die Eltern plausibel, fügt Hintergrundwissen hinzu.'
-    Kritik: 'Darstellung teilweise zu einseitig und glatt. Konflikte oder widersprüchliche Gefühle kommen zu kurz.'
+    Einschaetzung: 'Plausible Öffnung gegenüber Raija; DDR-Kontext als kurzer Hintergrund funktioniert.'
+    Kritik: 'Manche Sätze bündeln viel Exposition; kleine konkrete Erinnerungsbilder könnten das Allgemeine erden.'
   Charaktere:
-    Einschaetzung: 'Eddies Eltern werden eingeführt, Eddie wirkt als Vermittlerin.'
-    Kritik: 'Eltern bleiben stark typisiert (positiv/negativ). Eddies persönliche Reibung mit ihnen könnte stärker gezeigt werden.'
+    Einschaetzung: 'Eltern erscheinen in Konturen (starker Vater, wache Mutter); Eddie wirkt ambivalent und schuldbewusst.'
+    Kritik: 'Noch etwas typisiert; wenige kleine, widersprüchliche Details (Macken, Gesten) könnten mehr Tiefe geben.'
   Sprache:
-    Einschaetzung: 'Klar, bildhaft.'
-    Kritik: 'Zu literarisch und erklärend. Wenig jugendliche Kommentare oder spontane Gedanken, Sprache wirkt zu erwachsen.'
+    Einschaetzung: 'Klar, stellenweise jugendlich und direkt; Korrekturen für Fluss und Grammatik eingefügt.'
+    Kritik: 'Einzelne Formulierungen noch glatt; gelegentliche knappe Gedankenfetzen würden die Stimme weiter verjüngen.'
   Fazit:
-    Staerken: 'Liefert Hintergrund zu Eddie, verankert sie familiär, gibt Tiefe.'
-    Schwaechen: 'Zu erklärend, zu glatt, jugendliche Stimme fehlt, Eltern bleiben Typen.'
-    Fix: 'Mehr persönliche Gefühle (Wut, Scham, Liebe) zeigen, Eltern widersprüchlicher darstellen, Sprache lockern und jugendlicher machen.'
+    Staerken: 'Intime Nähe zu Raija, nachvollziehbare Motivation, spürbare Schuld und Entschlossenheit.'
+    Schwaechen: 'Etwas Exposition, punktuell noch zu erwachsen.'
+    Fix: 'Mehr kurze, unfertige Gedanken und kleine Reibungen einstreuen; ein, zwei konkrete Eltern-Details ergänzen (Geste, Blick, Satzfetzen).'
 ---
 
-# Eddie erzählt von ihren Eltern
+# Meine Eltern
 
 Ich weiß nicht, wie lange ich geschlafen hab. Irgendwann weckt mich das Licht,
 das durch die Vorhänge fällt. Mein Kopf fühlt sich schwer an, aber Raijas Arm
@@ -43,7 +43,7 @@ Sie sagt nichts. Fragt nicht, warum ich geweint hab. Nur ihr ruhiger Blick
 bleibt bei mir, als wir später wieder gemeinsam frühstücken.
 
 Aber dann merk ich, wie sie mich mustert. Vorsichtig, behutsam, so, als wollte
-sie nicht wühlen und doch verstehen. „Eddie … deine Familie?“ fragt sie leise.
+sie nicht wühlen und doch verstehen. „Eddie … deine Familie?“, fragt sie leise.
 
 Mir schnürt es die Kehle zu. Die Worte steigen langsam auf, schwer,
 unausweichlich.
@@ -54,7 +54,7 @@ Uni. Eigentlich könnte er promovieren, aber er will nicht in die SED eintreten.
 Also darf er nicht. Er ist der Einzige, der weiß, was ich vorhabe – meinen
 Fluchtplan. Ihm vertraue ich total.“
 
-Ich starre auf den Boden, als müssten ich die Wörter liegen. „Meine Mutter ist
+Ich starre auf den Boden, als müsste ich die Wörter ablegen. „Meine Mutter ist
 freischaffende Projektantin. Sie hat so ein riesiges Reißbrett in unserer
 Wohnung. Ich … ich find sie wunderschön.“ Kurz huscht mir ein Lächeln übers
 Gesicht, aber es verfliegt gleich wieder. „Sie ist nicht eingeweiht. Mein Vater

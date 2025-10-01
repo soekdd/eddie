@@ -7,28 +7,28 @@ persons:
   - 'Eddie'
   - 'Sini'
   - 'Sinis Vater'
-synopsis: 'Sinis Vater erscheint unerwartet, stellt sie wegen der Uni und der Wohnung zur Rede und macht Eddie klar, dass sie nicht bleiben kann.'
+synopsis: 'Sinis Vater erscheint unerwartet: erst herzlich und stolz zu seiner Tochter, dann streng und fordernd wegen Uni und Wohnung. Gegenüber Eddie zeigt er nur Kälte und macht klar, dass sie nicht bleiben kann.'
 mood: 'tense, humiliating, bittersweet'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
   Kapitel: '560_Du_oeffnest_meine_Post'
   Ton:
-    Einschaetzung: 'Konfrontativ, angespannt. Eddie reagiert empfindlich und spitz.'
-    Kritik: 'Ton wirkt teils überzogen, fast theatralisch. Gefahr: melodramatisch statt jugendlich-authentisch.'
+    Einschaetzung: 'Konfrontativ, angespannt. Liebevoller Beginn, dann eskalierende Strenge. Eddie reagiert empfindlich und spitz.'
+    Kritik: 'Eddies innere Erkenntnis ist bitter, aber glaubwürdig. Gefahr: zu starke Selbstanklage.'
   Logik:
-    Einschaetzung: 'Konflikt nachvollziehbar – Privatsphäre-Verletzung als Trigger plausibel.'
-    Kritik: 'Reaktion eskaliert sehr schnell. Zwischentöne oder innerer Zwiespalt fehlen, wodurch Szene holzschnittartig wirkt.'
+    Einschaetzung: 'Konflikt plausibel – Vater sieht Verantwortung, liebt Tochter, stößt Eddie ab.'
+    Kritik: 'Kontrast Vaterliebe / Eddie-Ablehnung ist hart, könnte fast überzogen wirken, muss fein ausbalanciert werden.'
   Charaktere:
-    Einschaetzung: 'Eddie klar im Fokus, verletzlich und aggressiv zugleich.'
-    Kritik: 'Ihre Emotion kippt abrupt, wirkt konstruiert. Die Gegenfigur bleibt blass, agiert nur als Auslöser.'
+    Einschaetzung: 'Sini zwischen den Fronten, Vater ambivalent (streng, aber liebevoll), Eddie verletzlich und selbstkritisch.'
+    Kritik: 'Eddies Selbstverurteilung könnte durch einen Zwischenton von Trotz aufgelockert werden.'
   Sprache:
-    Einschaetzung: 'Direkt, scharf, kurze Sätze.'
-    Kritik: 'Manchmal zu viele Ausrufezeichen, überbetonte Empörung. Wenig Variation, Sprache wirkt gleichförmig.'
+    Einschaetzung: 'Direkt, scharf, kurze Sätze. Gute Variation im Anfang und Ende.'
+    Kritik: 'Gefahr melodramatischer Zuspitzung. Stellenweise harte Gegensätze.'
   Fazit:
-    Staerken: 'Starker Konfliktstoff, Eddie zeigt klare Grenzen und Verletzlichkeit.'
-    Schwaechen: 'Überinszeniert, abrupte Eskalation, Nebenfigur konturlos.'
-    Fix: 'Reaktion realistischer staffeln, Zwischentöne einbauen, Nebenfigur stärker zeichnen, Sprache variieren.'
+    Staerken: 'Vaterfigur nuanciert, Eddie gewinnt Tiefe durch bittere Selbsterkenntnis. Szene hat große emotionale Wucht.'
+    Schwaechen: 'Hoher Kontrast könnte Leser überfordern, Balance von Härte und Wärme wichtig.'
+    Fix: 'Optional Eddie am Ende kurz trotzig hoffen lassen, ohne den Schmerz abzuschwächen.'
 ---
 
 # Du öffnest meine Post
@@ -37,25 +37,26 @@ Wieder einer dieser gemütlichen Abende. Wie so oft habe ich Sini vom Terminal
 abgeholt, quatschend und lachend sind wir über die lange Brücke in die
 Innenstadt und zu Sinis Wohnung geschlendert. Nun sitze ich auf dem kleinen
 Sofa, die Knie an die Brust gezogen, genieße die Ruhe und Vertrautheit.
-Plötzlich wird die Tür aufgerissen. Die Stimme, die den Raum füllt, ist
-schneidend wie kalter Wind. Ich verstehe kein Wort, aber ich sehe den Mann:
-groß, breitschultrig, die Mappe fest unter dem Arm. Keine Frage, so kündigt sich
-kein freundlicher Besuch an.
 
-Sini stolpert, wirkt ertappt, versucht zu lächeln. Doch es ist ein hilfloses
-Lächeln. Die beiden sprechen miteinander, Worte, die an mir vorbeirauschen, aber
-die Spannung liegt so dicht in der Luft, dass ich sie körperlich spüren kann.
-Ist es Sinis Vater? Im Gegensatz zu ihrer Mutter trägt er kein Sámi-Erbe in
-sich, doch an Strenge fehlt es ihm nicht. Seine Stirn ist hart gefurcht, seine
-Augen blitzen, während Sini kleiner wirkt, fast wie ein Kind.
+Zu meiner Überraschung dreht sich plötzlich der Schlüssel in der Tür. Ohne zu
+klingeln tritt ein Mann ein, groß, breitschultrig, mit einer Mappe unter dem
+Arm. Kaum sieht er Sini, breitet er die Arme aus. „Sinikka!“ Seine Stimme klingt
+weich, fast froh. Sini springt auf, wirft sich an seine Brust, drückt das
+Gesicht in seinen Mantel. Er legt ihr die Hand in den Nacken, streicht ihr über
+den Rücken, murmelt ein paar Worte, die ich nicht verstehe. Aber die Geste ist
+eindeutig: hier begegnen sich Vater und Tochter, vertraut, nah, voller Wärme.
+Für einen Augenblick wirken sie wie zwei Menschen, die sich innig vermisst
+haben.
 
-Dann dreht sich Sini zu mir, legt ihr zittriges Lächeln auf und sagt rasch:
-„Papa, das ist Eddie. Bitte… wir reden jetzt auf Englisch.“
+Dann folgt sein Blick zu mir. Die Wärme verlischt sofort. Er mustert mich kühl,
+ohne auch nur ein Wort zu sagen. Als wäre ich bloß ein störender Gegenstand im
+Zimmer. Ich rutsche unwillkürlich ein Stück tiefer ins Sofa.
 
-Ab da ist das Gespräch für mich wieder verständlich.
+„Papa, das ist Eddie“, sagt Sini hastig und fügt hinzu: „Bitte… wir reden jetzt
+auf Englisch.“
 
-„Deine Post!“, sagt ihr Vater scharf und schwingt die Mappe. „Die Uni droht,
-deine Immatrikulation nicht weiter zu pausieren, Sinikka!“
+Sein Tonfall kippt. „Deine Post!“, sagt er streng und schwingt die Mappe. „Die
+Uni droht, deine Immatrikulation nicht weiter zu pausieren, Sinikka!“
 
 „Avasit minun postini?!“ – „Du öffnest meine Post?!“ Sini klingt fassungslos,
 doch ihr Vater geht hart darüber hinweg. „Zwei Jahre Auszeit – und jetzt
@@ -65,10 +66,10 @@ finanziere. Wie lange glaubst du, geht das noch so weiter?“
 Sini schluckt. „Papa… minä en…“ – „…ich wollte nur…“
 
 „Nur was? Den Kopf in den Sand stecken? Deine Verantwortung auf andere
-abwälzen?“ Seine Stimme bohrt, jedes Wort ein Schlag. Dann schaut er zu mir.
-„Und wer bist du? Wieder eine von Sinis Rumtreiberinnen, die sie aufliest wie
-Straßenhunde?“ Sinis Vater wirft mir einen Blick zu, der mich sofort klein
-fühlen lässt. Rumtreiberin. Tja, stimmt ja irgendwie.
+abwälzen?“ Seine Stimme bohrt, jedes Wort ein Schlag. Dann schaut er wieder zu
+mir. „Und wer bist du? Wieder eine von Sinis Rumtreiberinnen, die sie aufliest
+wie Straßenhunde?“ Seine Zuneigung zu Sini ist klar, aber für mich bleibt nur
+dieser kalte Blick. Rumtreiberin. Tja, stimmt ja irgendwie.
 
 „Eddie…“, flüstert Sini zu mir und faltet flehend die Hände. „Isä, lopeta!“ –
 „…hör auf!“ Sini klingt verzweifelt.
@@ -89,13 +90,23 @@ Sini hängt den Kopf. „Joo… minä teen sen…“ – „Ja, Papa… ich werd
 kündigen. Ich verspreche es.“
 
 „Gut.“ Er nickt streng. „Ich nehme ein Hotel in der Nähe. Morgen früh fahre ich
-zurück nach Turku. Ich erwarte, dass du dich an unsere Absprache hältst,
-Sinikka. Und Eddie…“ Sein Blick trifft mich, scharf wie ein Messer. „Sini kann
-sich nicht um jedes Problemkind kümmern, verstanden?“
+zurück nach Turku.“ Dann schaut er sich einmal im Zimmer um, zieht die Brauen
+hoch und brummt: „Hier ist ja gar kein Platz zum Atmen. Dein Sofa ist ohnehin
+belegt – und ich bin zu alt, um in einer Studentenwohnung zu pennen.“
 
-Ich schlucke, ein bitterer Kloß im Hals. Sini kann mich nicht wirklich
-hierhaben, nicht dauerhaft. Nicht, wenn ihre eigene Zukunft auf dem Spiel steht.
-Mir steigen Tränen in die Augen.
+Er zieht Sini an sich, drückt sie fest an die Brust, küsst sie auf die Stirn.
+„Sinikka… du bist eine kluge junge Frau. Ich bin stolz auf dich, auch wenn ich
+streng klinge. Vergiss das nicht.“
+
+Dann dreht er sich zu mir. Jede Wärme ist verschwunden, sein Blick kalt, sein
+Ton schneidend: „Und Eddie…“ – er lässt meinen Namen einen Augenblick in der
+Luft hängen – „Sini kann sich nicht um jedes Problemkind kümmern, verstanden?“
+
+Mir zieht es den Boden unter den Füßen weg. Ich war doch auch mal das Kind, auf
+das meine Eltern stolz waren. Die Tochter mit den Preisen, die sie voller
+Erwartung ins Leben geschickt haben. Und jetzt? Sitze ich hier, ohne Plan, ohne
+Halt – und in den Augen dieses Mannes bin ich nur Ballast. Und das Schlimmste:
+er hat recht. Ich bin gerade ein Problemkind.
 
 Sini drückt meine Hand flüchtig, fast entschuldigend, während ihr Vater sich
 umdreht und die Tür hinter sich zuschlägt. Ich sitze da, zwischen Sini und der

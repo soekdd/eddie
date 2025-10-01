@@ -14,7 +14,7 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Sini_schaemt_sich.png'
 proofreading:
-  Kapitel: '520_Nicht_nur_ein_Ding'
+  Kapitel: '530_Der_Konflikt'
   Ton:
     Einschaetzung: 'Emotional, aufgeladen, Eddie und Sini geraten aneinander.'
     Kritik: 'Ton teils überdramatisiert, mit pathetischen Spitzen. Gefahr, dass es melodramatisch wirkt statt authentisch jugendlich.'
@@ -33,7 +33,7 @@ proofreading:
     Fix: 'Konflikt schrittweiser aufbauen, mehr stille Verletzungen einbauen, Sprache zurücknehmen.'
 ---
 
-# Nicht nur ein Ding
+# Der Konflikt
 
 Die Kneipe ist klein, kaum größer als ein Wohnzimmer, und trotzdem drängt sich
 halb Vaasa hinein. Die Wände sind mit dunklem Holz vertäfelt, das in den Ecken

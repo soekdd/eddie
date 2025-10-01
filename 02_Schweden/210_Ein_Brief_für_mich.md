@@ -15,7 +15,7 @@ todo: 'Im Brief liegen auch Fotos'
 proofreading: {}
 ---
 
-# Ein Brief für Eddie
+# Ein Brief für mich
 
 Ich sitze bei Vidar am Küchentisch, die Sonne steht schräg, als hätte sie sich
 verspätet, und die Wachstuchtischdecke klebt ein bisschen am Unterarm. Streuner

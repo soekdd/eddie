@@ -63,8 +63,6 @@ können, dass es so leicht gewesen wäre, legt sich wie Blei auf meine Schultern
 Ohne Streuner, ohne Hilfe, bin ich nur ein Körper in einer Stadt voller
 Schatten.
 
-# Der Angriff
-
 Es ist eine Nacht später, vielleicht auch zwei. Zeit verschwimmt. Ich streife
 durch eine Seitenstraße, weit weg von den hellen Plätzen, auf der Suche nach
 etwas Essbarem. Als der Typ mich anspricht, denke ich zuerst, er wolle nur
@@ -80,6 +78,7 @@ beginnt mein Kampf. Ich strample, schlage, kratze, spüre nur den Drang: Du muss
 weg hier, egal wie. Er lacht nicht, er redet nicht – er ist nur rohes Drängen,
 rohes Ziehen. Ich denke noch: Ich habe das hier so lange überstanden. Ich habe
 gelernt, zu überleben. Ich lasse mich nicht brechen. Dann kommt der Schlag.
+
 Hart, direkt, vernichtend. Alles reißt mir weg. Noch bevor ich schreien kann,
 kracht mein Kopf gegen die Bordsteinkante. Ein höllisches Licht, dann völlige
 Dunkelheit. Für Sekunden falle ich in eine andere Welt. Da ist Wärme. Sini
@@ -89,55 +88,65 @@ anschauen. Dann ist da Mama, die vor ihrem Reißbrett steht, ein Haar fällt ihr
 ins Gesicht, das sie immer wieder wegstreicht. Papa lehnt sich zu mir, legt mir
 eine Hand auf die Schulter. Alles fühlt sich geborgen an, sicher, als wäre
 nichts auf der Welt böse. Ich will nicht zurück. Doch ich werde gezwungen.
+
 Kälte, Nässe, der ekelhafte Geruch von Abfall, Schweiß, Rauch. Ich blinzele
 benommen. Meine Wange brennt, mein Kopf dröhnt. Ich spüre plötzlich – da ist
 Haut, wo Stoff sein sollte. Meine Beine sind bloß, die Jeans weg. Meine Jacke
 ist offen, mein Shirt halb heruntergerissen. Ich will schreien, doch kein Ton
 kommt. Panik rast wie ein Blitz durch meinen Körper. Nein, bitte nicht. Das darf
 nicht passieren. Ich will leben. Ich will nach Hause. Ich will Sini wiedersehen.
+
 Er liegt über mir, schwer wie ein Stein, sein Atem stinkt, brennt in meinen
 Augen. Ich kann kaum atmen. Ich versuche ihn wegzudrücken, meine Arme zittern,
 aber sie sind so schwach. Warum bin ich nicht stärker? Warum lässt du mich nicht
 los? Tränen brennen in meinen Augen. Alles schreit in mir: Gleich ist es zu
-spät. Gleich bin ich verloren. Dann ein Knurren. Tief, bedrohlich, so nah, dass
-ich nicht weiß, ob ich träume. Plötzlich reißt ein Schatten an ihm, ein
-gellender Schrei zerfetzt die Nacht. Der Druck verschwindet. Er rollt zur Seite,
-windet sich, schreit, Flüche spucken aus seinem Mund. Er hält sich beide Hände
-in den Schritt. Ich erkenne ihn – meinen Streuner, meinen Hund. Der, den ich
-immer gefüttert habe, der mir jeden Abend hinterherlief, ohne dass ich ihn je
-wirklich zu mir genommen habe. Jetzt hat er sich in ihn verbissen, dort, wo es
-am grausamsten schmerzt. Ich nutze den Moment, krieche, stolpere, greife nach
-der Hose, reiße sie mir über, meine Finger zittern so sehr, dass ich den Knopf
-kaum zu bekomme. Ich renne. Einfach nur rennen. Jeder Schritt fühlt sich an, als
-würde er mich aus einem Abgrund ziehen. Der Hund bellt, löst sich von ihm und
-stürzt neben mir her, als sei er mein Retter, mein einziger Freund in dieser
-gottverlassenen Gegend. Ich lebe noch, hämmert es in meinem Kopf, während die
-Nacht um mich vorbeizieht. Nur knapp. Aber ich lebe. Ich renne immer weiter,
-ohne Ziel, stolpernd, halb blind vor Tränen, spüre ich den Hund dicht an meiner
-Seite. Er bellt noch einmal, kurz und rau, als wollte er mir sagen: Ich bin da.
-Ich bleibe. Ich sehe sein Fell im Licht einer flackernden Laterne aufblitzen,
-struppig, schmutzig, aber für mich in diesem Moment schöner als alles, was ich
-je gesehen habe. Mein Herz hämmert, doch ich weiß: Ohne ihn wäre ich jetzt
-verloren. Ein Schauer läuft mir über den Rücken, nicht nur vor Angst, sondern
-vor diesem klaren Gedanken: Ich schwöre, ich lasse dich nie im Stich. Du hast
-mein Leben gerettet, also ist es jetzt auch an mir, deins zu schützen. Ich fasse
-in sein Fell, drücke mich an ihn. Mein Körper ist ein einziger Schrei, aber er
-ist da. Ohne ihn… ich wage den Gedanken nicht zu Ende. „Mein Streuner“, flüstere
-ich. „Mein Streuner.“ Er ist kein Streuner mehr, mein Gefährte.“ Doch
-gleichzeitig schneidet eine andere Wahrheit tief in mich hinein. Ich merke, wie
-zerbrechlich ich hier bin, trotz allem, was ich mir eingeredet habe. Ich dachte,
-ich könnte mich durchschlagen, ein halbes Jahr, vielleicht mehr. Bis ich endlich
-achtzehn bin, offiziell erwachsen, frei von dieser ständigen Angst, dass
-irgendein grauer Mann aus der DDR plötzlich aus dem Schatten tritt. Aber dieser
-Moment hat mir gezeigt: Ich schaffe das nicht. Diese Straßen sind stärker als
-ich. Noch ein paar Monate, und sie verschlingen mich ganz. Der Gedanke tut weh,
-aber er ist da, unausweichlich: Ich kann hier nicht bleiben. Dieses Leben aus
-Schlafplätzen in U-Bahn-Schächten, aus Almosen und ständigen Blicken über die
-Schulter – es würde mich töten. Nicht sofort, aber sicher. Ich streiche dem Hund
-über den Nacken, während ich weitertappe, meine Beine weich wie Pudding. „Wir
-zwei“, flüstere ich heiser, „wir müssen hier weg. Bald.“ Er sieht zu mir hoch,
-als hätte er verstanden. Und in dieser Nacht, in diesem Rausch aus Angst und
-Dankbarkeit, weiß ich: Mein Plan muss sich ändern. Jetzt.
+spät. Gleich bin ich verloren.
+
+Dann ein Knurren. Tief, bedrohlich, so nah, dass ich nicht weiß, ob ich träume.
+Plötzlich reißt ein Schatten an ihm, ein gellender Schrei zerfetzt die Nacht.
+Der Druck verschwindet. Er rollt zur Seite, windet sich, schreit, Flüche spucken
+aus seinem Mund. Er hält sich beide Hände in den Schritt.
+
+Ich erkenne ihn – meinen Streuner, meinen Hund. Der, den ich immer gefüttert
+habe, der mir jeden Abend hinterherlief, ohne dass ich ihn je wirklich zu mir
+genommen habe. Jetzt hat er sich in ihn verbissen, dort, wo es am grausamsten
+schmerzt. Ich nutze den Moment, krieche, stolpere, greife nach der Hose, reiße
+sie mir über, meine Finger zittern so sehr, dass ich den Knopf kaum zu bekomme.
+Ich renne. Einfach nur rennen. Jeder Schritt fühlt sich an, als würde er mich
+aus einem Abgrund ziehen. Der Hund bellt, löst sich von ihm und stürzt neben mir
+her, mein Retter, mein einziger Freund in dieser gottverlassenen Gegend. Ich
+lebe noch, hämmert es in meinem Kopf, während die Nacht um mich vorbeizieht. Nur
+knapp. Aber ich lebe.
+
+Ich renne immer weiter, ohne Ziel, stolpernd, halb blind vor Tränen, spüre ich
+den Hund dicht an meiner Seite. Er bellt noch einmal, kurz und rau, als wollte
+er mir sagen: Ich bin da. Ich bleibe. Ich sehe sein Fell im Licht einer
+flackernden Laterne aufblitzen, struppig, schmutzig, aber für mich in diesem
+Moment schöner als alles, was ich je gesehen habe. Mein Herz hämmert, doch ich
+weiß: Ohne ihn wäre ich jetzt verloren. Ein Schauer läuft mir über den Rücken,
+nicht nur vor Angst, sondern vor diesem klaren Gedanken: Ich schwöre, ich lasse
+dich nie im Stich. Du hast mein Leben gerettet, also ist es jetzt auch an mir,
+deins zu schützen.
+
+Ich fasse in sein Fell, drücke mich an ihn. Mein Körper ist ein einziger Schrei,
+aber er ist da. Ohne ihn… ich wage den Gedanken nicht zu Ende. „Mein Streuner“,
+flüstere ich. „Mein Streuner.“ Er ist kein Streuner mehr, mein Gefährte. Doch
+gleichzeitig schneidet eine andere Wahrheit tief in mich hinein.
+
+Ich merke, wie zerbrechlich ich hier bin, trotz allem, was ich mir eingeredet
+habe. Ich dachte, ich könnte mich durchschlagen, ein halbes Jahr, vielleicht
+mehr. Bis ich endlich achtzehn bin, offiziell erwachsen, frei von dieser
+ständigen Angst, dass irgendein grauer Mann aus der DDR plötzlich aus dem
+Schatten tritt. Aber dieser Moment hat mir gezeigt: Ich schaffe das nicht. Diese
+Straßen sind stärker als ich. Noch ein paar Monate, und sie verschlingen mich
+ganz. Der Gedanke tut weh, aber er ist da, unausweichlich: Ich kann hier nicht
+bleiben. Dieses Leben aus Schlafplätzen in U-Bahn-Schächten, aus Almosen und
+ständigen Blicken über die Schulter – es würde mich töten. Nicht sofort, aber
+sicher. Ich streiche dem Hund über den Nacken, während ich weitertappe, meine
+Beine weich wie Pudding. „Wir zwei“, flüstere ich heiser, „wir müssen hier weg.
+Bald.“ Er sieht zu mir hoch, als hätte er verstanden. Und in dieser Nacht, in
+diesem Rausch aus Angst und Dankbarkeit, weiß ich: Mein Plan muss sich ändern.
+Jetzt.
 
 Ich wache auf im Park, halb aufrecht gegen einen Baum gelehnt. Mein Körper
 schmerzt an jeder Stelle, die Haut brennt, mein Knie pocht. Die Kleider sind

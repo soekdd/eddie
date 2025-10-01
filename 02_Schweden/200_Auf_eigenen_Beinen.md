@@ -13,4 +13,4 @@ todo: 'Ein Zimmer und ein Telefon auf dem Flur: Stundenlange telefonate mit Raij
 proofreading: {}
 ---
 
-# Eddies erstes eignes Zimmer
+# Auf eigenen Beinen

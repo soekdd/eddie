@@ -92,7 +92,7 @@ gefällt mir, was ich sehe.
 
 „Mann, Eddie, Mann, Eddie, jetzt muss ich mich echt auf meine Hände setzen, um
 nicht wieder etwas schrecklich Dummes zu tun.“ Ich ziehe die Augenbrauen hoch.
-War das jetzt Warnung genug?
+War das schon Warnung genug?
 
 „Wenn du heute keinen Erfolg hast, weiß ich auch nicht mehr weiter.“ Klingt
 optimistisch. Aber in meinem Kopf klingt auch: *Wenn das nicht klappt, haben wir
