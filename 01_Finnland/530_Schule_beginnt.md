@@ -7,27 +7,37 @@ place: 'Vaasa, Finnland'
 persons:
   - 'Eddie'
   - 'Sini'
-synopsis: 'Am 1. September wird Eddie bewusst, dass in der DDR die Schule wieder beginnt. Beim Frühstück erzählt sie Sini davon, die den FDJ-Gruß auf komische Weise nachmacht. Eddie lacht, wird aber auch schwermütig, weil sie das Lernen vermisst. Statt Sini zum Terminal zu begleiten, geht sie in die Uni-Bibliothek von Vaasa, liest besessen ein englisches Buch über Technische Mechanik und macht am Abend einen Witz, um die Schwere zu vertreiben. Sini erwähnt beiläufig, dass sie einmal Biologie studiert hat, spricht darüber aber nicht weiter.'
+synopsis: 'Am 1. September prallt mir der Schulbeginn in der DDR ins Herz: Sini parodiert den FDJ‑Gruß, wir lachen, und ich merke, wie mir das Lernen fehlt. Statt zum Terminal gehe ich in die Uni‑Bibliothek, verbeiße mich in "Technical Mechanics"; abends witzle ich die Schwere weg, Sini streift ihr Biostudium – und schweigt.'
 mood: 'light, humorous, tinged with hidden melancholy'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
+  Kapitel: '530_Schule_beginnt'
   Ton:
-    Einschaetzung: 'Melancholisch, reflektierend. Eddie denkt über Schule und Lernen nach.'
-    Kritik: 'Ton wirkt zu erwachsen und nachdenklich. Jugendliterarische Direktheit fehlt stellenweise.'
+    Einschaetzung: 'Leicht und humorvoll am Frühstück, darunter leise Melancholie; Lernsehnsucht klar fühlbar.'
+    Kritik: 'Reflexionen kippen punktuell ins Essayhafte; jugendliche Direktheit und kleine Unsicherheiten fehlen stellenweise.'
+    Fix: '1–2 jugendliche Impulse/Spontanreaktionen ergänzen (Versprecher, Schulterzucken, kleiner Trotz); Witz am Schluss als bewusste Entlastung kurz erden.'
+    Note: 3
   Logik:
-    Einschaetzung: 'Bezug zu Schulbeginn in der DDR plausibel, zeigt Kontrast zu Eddies Lage.'
-    Kritik: 'Eddies Gedanken erscheinen sehr abgeklärt, fast wie Essay. Weniger naive oder jugendliche Perspektive als erwartet.'
+    Einschaetzung: 'Klarer Tagesbogen: Frühstück → Bibliothek → Abend; DDR‑Schulstart als auslösendes Moment.'
+    Kritik: 'Sprung von Frühstück zur Bibliothek wirkt sehr zielstrebig; Sini erwähnt Biostudium nur beiläufig.'
+    Fix: 'Einen knappen Zeitanker setzen (Mittag/Nachmittag); beim Biostudium ein zögerndes Detail einfügen (Blick weg, abgebrochener Satz), um die Andeutung zu stützen.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie im Mittelpunkt, reflektierend.'
-    Kritik: 'Ihre Emotionen bleiben blass, es wirkt mehr wie Bericht als innere Anteilnahme. Sini bleibt Randfigur.'
+    Einschaetzung: 'Eddie ehrgeizig und verletzlich; Sini warm, witzig, stützt mit Leichtigkeit.'
+    Kritik: 'Sini bleibt Randfigur; Eddies innere Kippbewegung (Lachen → Schwere → Antrieb) könnte schärfer markiert sein.'
+    Fix: 'Sini 1–2 aktive Miniaktionen geben (falscher Gruß, schelmischer Blick, Wegbeschreibung mit Zettel); Eddies Kippmoment mit einem körperlichen Signal zeigen (Kloß im Hals, kalte Hände).'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Klar, strukturiert.'
-    Kritik: 'Zu glatt und essayistisch. Wenig jugendliche Einwürfe oder spontane Assoziationen.'
+    Einschaetzung: 'Klar, anschaulich, humorfähig.'
+    Kritik: 'Vereinzelt glatt/essayistisch; einige längere Sätze nehmen Tempo raus.'
+    Fix: '2–3 Sätze teilen und straffen; mehr unmittelbare Innenwahrnehmung (Körper, Geräusche); einzelne fachliche Begriffe sparsam rahmen, damit sie organisch wirken.'
+    Note: 2
   Fazit:
-    Staerken: 'Interessanter Kontrast DDR vs. Finnland, unterstreicht Eddies Verlust.'
-    Schwaechen: 'Zu essayistisch, jugendliche Stimme fehlt, Emotionen schwach.'
-    Fix: 'Mehr jugendliche Assoziationen einbauen, Emotionen stärker zeigen, Sprache weniger glatt machen.'
+    Staerken: 'Starker Alltagsauslöser (Schulbeginn), lebendige Frühstücksszene, überzeugende Lernsehnsucht, feiner Humor.'
+    Schwaechen: 'Essayhafter Ton an Stellen, Sini passiv angedeutet, Biostudium nur gestreift, teils lange Sätze.'
+    Fix: 'Jugendliche Direktheit erhöhen, 2–3 Sätze kürzen, Sini minimal aktiver zeichnen, Biostudium‑Andeutung durch Mikrogesten stützen.'
+    Note: 2
 ---
 
 # Schule beginnt

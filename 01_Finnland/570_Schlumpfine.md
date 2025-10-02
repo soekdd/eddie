@@ -6,27 +6,37 @@ place: 'Eddies und Sinis Lieblingsbank am Hafen'
 persons:
   - 'Eddie'
   - 'Sini'
-synopsis: 'Eddie und Sini sitzen am See, sprechen über ihre Namen, vergleichen Sini mit Schlumpfine und Eddie erzählt die Geschichte ihres Namens.'
+synopsis: 'Auf unserer Bank am Hafen biegen wir die Schlumpfine für uns gerade, und ich erzähle, wie aus Ada Edda – Eddie – wurde; wir lachen, und für einen Moment fühlt es sich hier wie Zuhause an, obwohl der Abschied näher rückt.'
 mood: 'warm, playful, intimate'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
+  Kapitel: '570_Schlumpfine'
   Ton:
-    Einschaetzung: 'Locker, spöttisch, Eddie benutzt Humor und Popkultur-Referenzen.'
-    Kritik: 'Ton wirkt manchmal zu albern, fast klamaukig. Gefahr: Ernsthaftigkeit der Situation wird überspielt.'
+    Einschaetzung: 'Warm, verspielt, intim; Humor trägt die Szene, darunter leise Sehnsucht nach Zugehörigkeit.'
+    Kritik: 'Der Schlumpfine‑Witz droht punktuell zu lange zu laufen; Ernstmomente (Zuhause/Abschied) könnten etwas früher mitschwingen.'
+    Fix: 'Witz straffen (früher auflösen), nach jeder Pointe ein leises Echo (Blick/Atem/Hand an Stoff) setzen; letzte Zeilen noch ruhiger ausklingen lassen.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Bezug zu Schlumpfine plausibel als jugendlicher Vergleich.'
-    Kritik: 'Vergleich wird sehr ausgedehnt, wirkt konstruiert. Gefahr der Überstrapazierung des Witzes.'
+    Einschaetzung: 'Klarer Bogen: Bank am Hafen → Smurfette‑Umschreibung → Eddies Namensgeschichte → Heimatsatz/Abschied.'
+    Kritik: 'Popkultur‑Vergleich wirkt kurz konstruiert; der Anlass für die Namensgeschichte braucht einen kleinen Haken.'
+    Fix: 'Anstoß für den Namen mit einem kleinen Auslöser verankern (Sini sagt „Sinikka“/fragt nach „Eddie“); eine Zeile, die den Vergleich als Spiel deklariert.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie frech und kreativ, Sini als Gegenpart reagiert nachvollziehbar.'
-    Kritik: 'Eddie wirkt zu selbstsicher, Unsicherheit oder Verlegenheit fehlen. Sini bleibt in der Szene blass.'
+    Einschaetzung: 'Eddie frech und zärtlich, zeigt Verletzlichkeit im Schluss; Sini witzig, wach, aber liebevoll korrigierend.'
+    Kritik: 'Sini bleibt in der Mitte reaktiv; Eddies Unsicherheit könnte vor der Umdeutung einmal kurz aufblitzen.'
+    Fix: 'Sini 1–2 aktive Einwürfe geben (Necken, smarter Einwand); Eddies kurzer Verlegenheitspuls zeigen (Kichern, wegsehen), bevor sie die Geschichte „biegt“.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Witzig, jugendlich, mit Tempo.'
-    Kritik: 'Zu viele Pointen nacheinander, Auslassungspunkte und Füllwörter häufen sich. Gefahr von Redundanz.'
+    Einschaetzung: 'Witzig, jugendlich, mit gutem Dialogtempo.'
+    Kritik: 'Punktuell zu viele Pointen/Auslassungspunkte; ein paar lange Sätze nehmen die Leichtigkeit.'
+    Fix: '2–3 Sätze teilen; Auslassungspunkte reduzieren; eine Metapher streichen; konkrete Sinneseindrücke (Wind, Holz, Geruch) beibehalten.'
+    Note: 2
   Fazit:
-    Staerken: 'Humorvolle Szene, zeigt jugendliche Verspieltheit, lockert die Handlung.'
-    Schwaechen: 'Klamaukig, Witz überstrapaziert, Figuren nicht ganz ausgewogen.'
-    Fix: 'Witz kürzer und pointierter halten, Eddie auch Unsicherheit zeigen, Sini aktiver einbinden.'
+    Staerken: 'Lebendige Bank‑Szene, spielerische Popkultur‑Umschreibung, sympathische Namensgeschichte, zarter Heimatsplitter.'
+    Schwaechen: 'Witz leicht überdehnt, Sini teils reaktiv, vereinzelte lange Sätze und Ellipsen.'
+    Fix: 'Humor dosieren und früh erden, Sini aktiver machen, 2–3 Sätze straffen, Ernstton minimal früher mitschwingen lassen.'
+    Note: 2
 ---
 
 # „Schlumpfine“

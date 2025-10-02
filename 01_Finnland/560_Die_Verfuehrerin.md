@@ -8,29 +8,39 @@ persons:
   - 'Sini'
   - 'Busfahrer'
   - 'Sinis Freundin'
-synopsis: 'Eddie versucht mit Sinis Hilfe, eine Busfahrkarte zu ergattern, scheitert jedoch. Sini stylt sie um, und Eddie bekommt ihre Haare raspelkurz geschnitten.'
+synopsis: 'Am Terminal flirte ich mich mit Sinis Coaching durch die Busse – ohne Ticket. Abends macht sie Ernst mit dem Makeover: Bei ihrer Freundin fallen meine Haare raspelkurz; morgen versuche ich es wieder.'
 mood: 'playful, tender, bittersweet'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Busse.png'
 proofreading:
+  Kapitel: '560_Die_Verfuehrerin'
   Ton:
-    Einschaetzung: 'Intensiv, sinnlich, Eddie schildert Begegnung mit Faszination und Unsicherheit.'
-    Kritik: 'Ton schwankt zwischen jugendlicher Neugier und erwachsener Sinnlichkeit. Gefahr: wirkt zu literarisch und abgeklärt für Eddies Alter.'
+    Einschaetzung: 'Leicht, verspielt, zärtlich – unterlegt von Druck und Abschiedsnähe; Trainingsmodus statt Romanze.'
+    Kritik: 'Makeover-/Flirtpassagen drohen kurz ins Glatte/Kitschige zu kippen; Eddies Unsicherheit könnte in der Heiterkeit untergehen.'
+    Fix: 'Nach Humor sofort kleine Ernst‑Echos setzen (Bauchknoten, Blick weg); 1–2 Ausrufe/Fanfarenwörter streichen; jugendliche Direktheit durch kurze Sätze stützen.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Verführung als Thema plausibel in der Situation.'
-    Kritik: 'Manche Handlungen wirken zu geplant oder glatt. Für eine jugendliche Perspektive fehlen mehr Brüche und Unsicherheiten.'
+    Einschaetzung: 'Klarer Tagesbogen: Versuche am Terminal → Misserfolg → Entschluss „morgen wieder“ → abends Haarschnitt als Neustart.'
+    Kritik: '„Prinzip der großen Zahl“ klingt theoretisch; warum heute kein Ticket frei war, bleibt generisch.'
+    Fix: 'Theorie mit einem Alltagsbild erden (Münzwurf/Angelversuche); einen knappen Grund nennen (Busse ausgebucht/Reservelisten).'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie verletzlich und neugierig, Gegenfigur geheimnisvoll und stärker.'
-    Kritik: 'Eddie wirkt stellenweise zu reflektiert. Die Verführerin bleibt klischeehaft, wenig eigene Tiefe.'
+    Einschaetzung: 'Eddie mutig‑verletzlich, lernt sichtbar; Sini pragmatisch, liebevoll, mit Schalk; Freundin als klare, kurze Helferin.'
+    Kritik: 'Sini wirkt beim „heiße kleine Eddie“-Tonfall leicht objektifizierend; Eddies Kippmoment (Fremdheit → Selbstannahme) könnte markanter sein.'
+    Fix: 'Sini eine kleine Schutzgeste geben (abschirmender Kommentar an Pöbler); Eddies Spiegelmoment mit einem konkreten Körperdetail erden (kühle Ohren, zittrige Hände).'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Bildhaft, emotional, teilweise poetisch.'
-    Kritik: 'Überladen mit Metaphern, Sätze oft lang und literarisch. Wenig jugendliche Direktheit oder spontane Sprache.'
+    Einschaetzung: 'Anschaulich, dialogisch, mit Humor; gute Sinnesflächen (Wind, Stoff, Blickkontakte).'
+    Kritik: 'Vereinzelt lange/poetische Sätze; 2–3 Metaphern wirken erwachsener als Eddies Stimme.'
+    Fix: 'Satzketten teilen; Metaphern durch konkrete Wahrnehmungen ersetzen; leicht umgangssprachliche Einsprengsel dosiert setzen.'
+    Note: 2
   Fazit:
-    Staerken: 'Spannungsgeladen, wichtig für Eddies Entwicklung, emotionale Intensität.'
-    Schwaechen: 'Zu literarisch und erwachsen, Verführerin klischeehaft, Eddies Unsicherheit zu wenig spürbar.'
-    Fix: 'Mehr jugendliche Gedanken (peinlich, verwirrt), Verführerin individueller zeichnen, Sprache straffen und weniger Metaphern.'
+    Staerken: 'Klares Ziel und Training, zärtlich‑humorvolle Eddie/Sini‑Dynamik, starker Haarschnitt‑Schluss als Neustart.'
+    Schwaechen: 'Kurz glatte Makeover-/Flirtpose, Theoriepassage etwas abstrakt.'
+    Fix: '2–3 Sätze straffen/erden, Unsicherheitsmarker ergänzen, Theorie bildhaft machen, kleine Schutzgeste für Sini setzen.'
+    Note: 2
 ---
 
 # Die Verführerin

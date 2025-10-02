@@ -7,7 +7,7 @@ place: 'Sinis Wohnung, Vöyrinkatu 25, Vaasa'
 persons:
   - 'Eddie'
   - 'Sini'
-synopsis: 'Eddie stellt den Wecker, um früh aufzustehen und Sini mit einem Geburtstagsfrühstück zu überraschen. Spiegeleier, Toast und Muffins füllen die kleine Küche mit Duft. Sini entdeckt verblüfft Eddies Geschenk: eine DNA-Zeichnung, in der Codons die Wörter PUNK und SAMI ergeben. Eddie quält sich mit einem finnischen Geburtstagsgruß, der Sini zum Lachen bringt. Gemeinsam entziffern sie die Codons, Sini trägt die Aminosäuren in Schönschrift ein. Gerührt erklärt sie Eddie, dass sie es wirklich begriffen hat. Die beiden lachen, umarmen sich (ungewohnt für Finnen, aber typisch für Eddie).'
+synopsis: 'Am Morgen überrasche ich Sini mit Frühstück und einer DNA‑Zeichnung, deren Codons PUNK und SAMI ergeben; sie lacht, versteht – wir umarmen uns, und ich verspreche, sie nach der Arbeit abzuholen. Sini kündigt eine Überraschung an.'
 mood: 'warm, heiter, berührt, verspielt'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -47,22 +47,32 @@ continuity:
 illustrations:
   - 'FIN_Vaasa_Sinis_Geburtstag.png'
 proofreading:
+  Kapitel: '480_Sinis_Gebutstag'
   Ton:
     Einschaetzung: 'Warm, verspielt, Eddie bemüht sich um eine Überraschung und zeigt Zuneigung.'
     Kritik: 'Ton kippt stellenweise ins Kitschige. Eddie wirkt sehr souverän im Umgang, Unsicherheit fehlt.'
+    Fix: '1–2 kleine Pannen einbauen (Beinahe-Verbrennen, schiefer Toast); Eddies Unsicherheit in Mikrogesten zeigen (Stocken, Griff zu heißer Pfanne); Humor trocken halten, Kitsch-Formulierungen erden.'
+    Note: 2
   Logik:
     Einschaetzung: 'Geburtstagsszene nachvollziehbar, schöne Normalität im Kontrast zur Flucht.'
     Kritik: 'Einige Details wirken zu perfekt vorbereitet. Für Eddies Lage wirkt es fast zu glatt und planvoll.'
+    Fix: 'Materialien/ Zutaten plausibilisieren (aus Sinis Vorräten/Resten); ein Zeitanker am Morgen und der Abhol-Plan am Abend knapp markieren; DNA-Know-how durch einen Mini-Verweis aufs Nachschlagen erden.'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie liebevoll, Sini überrascht und gerührt.'
     Kritik: 'Eddie wirkt sehr erwachsen und kontrolliert, wenig jugendliche Aufregung. Sini bleibt eher Reaktionsfigur.'
+    Fix: 'Eddies jugendliche Aufregung und Impulse zeigen (Hast, Versprecher); Sini 2–3 aktive Reaktionen geben (Necken, Tatendrang, kleine Gegenüberraschung andeuten); eine Schattennuance/Erdung bei Eddie (Angst vor Misslingen).'
+    Note: 2
   Sprache:
     Einschaetzung: 'Gefühlsbetont, anschaulich.'
     Kritik: 'Stellenweise überladen, leicht kitschig. Füllwörter fehlen fast völlig, Sprache wirkt dadurch zu glatt.'
+    Fix: '2–3 lange Sätze kürzen; Adjektivdichte reduzieren; konkrete Sinneseindrücke (Geruch, Geräusch, Hitze) bevorzugen; Jugendsprache-Impuls sparsam setzen.'
+    Note: 2
   Fazit:
     Staerken: 'Herzliche Szene, zeigt Bindung zwischen Eddie und Sini, schöner Kontrast zur Bedrohung.'
     Schwaechen: 'Zu perfekt, leicht kitschig, jugendliche Unsicherheit fehlt.'
-    Fix: 'Mehr jugendliche Aufregung und kleine Fehler einbauen, Sprache straffen, Kitsch reduzieren.'
+    Fix: 'Jugendliche Aufregung sichtbarer machen, 1–2 kleine Missgeschicke einbauen, Sprache straffen und erden, Plausibilisierung der Vorbereitung andeuten, Sini aktiver reagieren lassen.'
+    Note: 2
 ---
 
 # Sinis Geburtstag

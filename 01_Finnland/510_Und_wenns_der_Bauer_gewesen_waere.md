@@ -29,7 +29,7 @@ locations:
   pizzeria:
     name: 'Vaasa, Innenstadt-Pizzeria'
     note: 'Diskussion über Strategien und weibliche Macht'
-synopsis: 'Sini erklärt den Übungstag ohne Rucksack: Eddie soll die Abendfähre solo ausprobieren. Der fehlende Rucksack wird zum Symbol dafür, wie nah das Abschiedsszenario rückt. Am Terminal erfährt Eddie, dass Informationen nicht einfach zu bekommen sind, und erkennt, wie verletzlich sie ohne Sinis Unterstützung bleibt. Beim Pizza-Abend drängt Sini sie, auch manipulative Mittel zu erwägen, um sich Türen zu öffnen – eine Forderung, die bei beiden Sehnsucht nach Nähe und Angst vor dem Abschied offenlegt.'
+synopsis: 'Ich lasse den Rucksack da und teste allein die Abendfähre; am Terminal lerne ich, wie dünn ich ohne Sini wirke und wie schwer Informationen sind. Beim Pizza‑Abend treibt sie mich, notfalls mit Charme zu kämpfen – wir lachen über den „Bauer“, und plötzlich liegen Abschied und Selbstbehauptung dicht beieinander.'
 mood: 'warm, bittersüß, nachdenklich, mit leiser Spannung'
 parts:
   -
@@ -60,22 +60,32 @@ parts:
       - 'Sini propagiert strategischen Feminismus'
       - 'Eddie erkennt gegenseitige Verlustangst'
 proofreading:
+  Kapitel: '510_Und_wenns_der_Bauer_gewesen_waere'
   Ton:
-    Einschaetzung: 'Humorvoll, ironisch, Eddie spielt mit einer hypothetischen Situation.'
-    Kritik: 'Ton kippt gelegentlich ins Klamaukige. Gefahr, dass Ernsthaftigkeit der Gesamtsituation verwässert wird.'
+    Einschaetzung: 'Warm, bittersüß; Trainingstag mit leichtem Humor, unterlegt von Abschiedsspannung.'
+    Kritik: 'Der „Bauer“-Gag droht kurz den Ernst zu übertönen; einzelne Sätze klingen wie Thesen statt gefühlte Momente.'
+    Fix: 'Humorpunkt knapper setzen und sofort mit einem leisen Ernst‑Echo balancieren; programmatische Sätze in situative Wahrnehmungen auflösen (Blick, Atem, Griff am Jackensaum).'
+    Note: 2
   Logik:
-    Einschaetzung: 'Überlegung nachvollziehbar als Gedankenspiel.'
-    Kritik: 'Manche Wendungen wirken zu konstruiert, fast wie Bühnenwitz. Realismus geht verloren.'
+    Einschaetzung: 'Klarer Ablauf: Frühstück → Terminal‑Test → Rückweg/Pizza; Übungscharakter und Abhängigkeit werden sichtbar.'
+    Kritik: 'Zeit-/Ortsanker könnten minimal geschärft werden; am Terminal kurz verdeutlichen, dass es um Infos, nicht um sofortiges Fahren geht.'
+    Fix: 'Einen knappen Zeitanker setzen (später Nachmittag, Abend); ein Halbsatz im Terminal‑Abschnitt: „nur Infos holen“; Rückweg ins „Adams/Nähe Hafen“ ggf. benennen.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie zeigt Humor, Sini reagiert als Gegenpart.'
-    Kritik: 'Dialog wirkt stellenweise zu pointiert, wie geschrieben, nicht gesprochen. Sini bleibt Stichwortgeberin.'
+    Einschaetzung: 'Eddie verletzlich und lernbereit; Sini als pragmatische Mentorin mit Zärtlichkeit unter der Didaktik.'
+    Kritik: 'Sini wirkt in der Debatte leicht dozierend; Eddies innerer Kippmoment (Stolz → Einsicht) könnte markanter sein.'
+    Fix: 'Sini vor dem „Theorie“-Teil eine kleine Geste geben (Hand an Knie, weicher Blick); Eddies Kippmoment mit einem körperlichen Signal verankern (Kälte/Erleichterung).'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Locker, jugendlich, witzig.'
-    Kritik: 'Zu viele Pointen, überhöhte Dialogführung. Auslassungspunkte und Füllwörter häufen sich.'
+    Einschaetzung: 'Anschaulich und dialogisch, gute Sinneseindrücke (Wind, Diesel, Holzbrücke).'
+    Kritik: 'Vereinzelte Thesen klingen sloganhaft; 1–2 Sätze sind sehr lang.'
+    Fix: '2–3 Satzketten teilen; Thesen in Bilder oder Handlungen überführen; Adjektivdichte leicht reduzieren.'
+    Note: 2
   Fazit:
-    Staerken: 'Unterhaltsam, gibt Einblick in Eddies Humor, lockert die Stimmung.'
-    Schwaechen: 'Klamaukig, unnatürlicher Dialog, Nebenfigur blass.'
-    Fix: 'Dialog natürlicher machen, Humor dosieren, Ernst der Situation unterschwellig erhalten.'
+    Staerken: 'Starke Symbolik (Rucksack), glaubwürdiger Terminal‑Test, zärtlich‑kluge Dynamik Eddie/Sini, Humor als Ventil.'
+    Schwaechen: 'Humorstellen können Ernst kurz überblenden; stellenweise dozierender Ton.'
+    Fix: 'Humor dosieren und erden, 2–3 lange Sätze kürzen, Kippmoment markieren, Zeit-/Ortsanker setzen.'
+    Note: 2
 ---
 
 # Und wenn's der Bauer gewesen wäre?
@@ -154,7 +164,8 @@ also, bist du wirklich! — hast du nie überlegt, einfach mal an die Türen zu
 klopfen?“
 
 Ich rolle mit den Augen. „Einmal hab’ ich’s gemacht. Kam aber kein Junggeselle
-raus, sondern ’ne dicke Bäuerin mit Schürze und Gummistiefeln.“
+raus, sondern ’ne dicke Bäuerin mit Schürze und Gummistiefeln. Sie ließ mich
+in die Scheune.“
 
 Sini krümmt sich fast vor Lachen. „Und wär’s der Bauer gewesen? Dann hättest du
 wahrscheinlich auf dem Sofa statt in der Scheune geschlafen. Oder… naja, wenn’s

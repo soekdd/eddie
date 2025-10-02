@@ -7,29 +7,39 @@ persons:
   - 'Eddie'
   - 'Sini'
   - 'Raija'
-synopsis: 'Nach einer schlaflosen Nacht treffen Eddie und Sini in Vaasa überraschend Raija. Gemeinsam schmieden sie einen Fluchtplan mit gefälschtem Fax und Polizeiuniform. Am nächsten Morgen gelingt die Überfahrt nach Schweden, begleitet von Abschied, Kuss und Aufbruch.'
+synopsis: 'Nach schlafloser Nacht treffen wir in Vaasa Raija; mit gefälschtem Fax und geliehener Uniform lotst sie mich auf die Fähre – Abschied, Kuss, Aufbruch nach Schweden.'
 mood: 'tense but hopeful, bittersweet'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Eddie_kuesst_Sini.png'
 proofreading:
+  Kapitel: '590_Wiedersehen_mit_Raija'
   Ton:
-    Einschaetzung: 'Emotional, hoffnungsvoll, Eddie schildert Begegnung mit Freude.'
-    Kritik: 'Ton kippt stellenweise ins Pathetische. Eddie wirkt sehr abgeklärt in der Darstellung, jugendliche Unsicherheit fehlt.'
+    Einschaetzung: 'Gedrängt, hoffnungsvoll, bittersüß; Wiedersehen, Plan, Abschied tragen ein leises Pathos.'
+    Kritik: 'Punktuell pathetisch und sehr abgeklärt; jugendliche Unsicherheit tritt zurück, einzelne Sätze klingen wie Resümee.'
+    Fix: '2–3 Patosspitzen drosseln; nach großen Sätzen kurze, körpernahe Reaktionen setzen (Atem, Zittern, Blick weg); Humor- oder Alltagskörnchen als Gegengewicht einstreuen.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Wiedersehen dramaturgisch sinnvoll, passt in den Handlungsbogen.'
-    Kritik: 'Die Szene wirkt zu glatt, ohne Reibung oder Missverständnisse. Realismus könnte durch Stolperer gestärkt werden.'
+    Einschaetzung: 'Ablauf plausibel: Nacht der Optionen → Zufallstreffen → Plan (Fax/Uniform) → Boarding/Überfahrt.'
+    Kritik: 'Plan wirkt sehr glatt; ein Zeit-/Ortsanker und kleine Reibungen (Kontrollfragen, Risiko) fehlen; Fax/Uniform-Funktion bleibt angedeutet.'
+    Fix: 'Kurz klären, was das Fax bewirkt (Berechtigung/Abholung); 1–2 Mikro‑Hürden zeigen (Nachfrage, Blick des Wachmanns); Abfahrtszeit/Engpass markieren.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie voller Emotion, Raija als wichtige Bezugsperson klar erkennbar.'
-    Kritik: 'Beide Figuren wirken stellenweise zu idealisiert. Konflikte oder Ambivalenzen fehlen.'
+    Einschaetzung: 'Eddie verletzlich und entschlossen; Sini liebevoll und loslassend; Raija ruhig, schützend, handlungsstark.'
+    Kritik: 'Raija und Sini wirken idealisiert; Eddies innerer Riss zwischen beiden könnte stärker spürbar sein.'
+    Fix: 'Einen kurzen Stich bei Sini zeigen (Lächeln, das nicht ganz bis in die Augen reicht); Raija ein Schattenmoment geben (Sorge/Risiko); Eddies Kippmoment (Freude/Schmerz) körperlich markieren.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Gefühlsbetont, bildhaft.'
-    Kritik: 'Teilweise überladen mit Metaphern, Sprache fast kitschig. Wenig jugendliche Direktheit oder spontane Reaktionen.'
+    Einschaetzung: 'Bildhaft und flüssig, kinoreif beim Boarding, zart im Abschied.'
+    Kritik: 'Einige Metaphern und Schlusssätze sind nah am Kitsch; teils lange Perioden nehmen Tempo.'
+    Fix: '2–3 Sätze teilen/straffen; Metaphern gezielt reduzieren; mehr unmittelbare Sinneseindrücke (Geruch/Metall/Kälte) statt Abstrakta.'
+    Note: 2
   Fazit:
-    Staerken: 'Schönes Wiedersehen, emotionale Intensität, wichtiger Bezug für Eddie.'
-    Schwaechen: 'Zu glatt, zu idealisiert, Sprache kitschig.'
-    Fix: 'Mehr Unsicherheit, Missverständnisse oder Brüche einbauen, Sprache straffen und jugendlicher machen.'
+    Staerken: 'Emotional starkes Wiedersehen, klarer Befreiungsplan, wirkungsvoller Abschiedskuss, überzeugender Aufbruchston.'
+    Schwaechen: 'Glätte im Plan, leichte Idealisation, punktuell pathetischer Sprachzug.'
+    Fix: 'Kleine Reibungen und Marker ergänzen, jugendliche Unsicherheit und Körperzeichen einstreuen, 2–3 sprachliche Kitschstellen entschärfen.'
+    Note: 2
 ---
 
 # Wiedersehen mit Raija

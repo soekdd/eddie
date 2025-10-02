@@ -7,29 +7,39 @@ persons:
   - 'Eddie'
   - 'Sini'
   - 'Kneipengäste'
-synopsis: 'Bar in Vaasa: Sini tanzt, später übergriffig; Eddie stoppt. Am Morgen Entschuldigung, klare Grenzen, vorsichtige Annäherung (Pfannkuchen, Hafen).'
+synopsis: 'In einer Vaasa‑Kneipe wird Sini übergriffig; ich stoppe hart und schlafe im Bett allein. Am Morgen entschuldigt sie sich, wir ziehen klare Grenzen und tasten uns mit Pfannkuchen und einem Hafen‑Spaziergang wieder aneinander heran.'
 mood: 'Tense → hurt → honest repair; cautious hope.'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Sini_schaemt_sich.png'
 proofreading:
+  Kapitel: '520_Nicht_nur_ein_Ding'
   Ton:
     Einschaetzung: 'Emotional, aufgeladen, Eddie und Sini geraten aneinander.'
     Kritik: 'Ton teils überdramatisiert, mit pathetischen Spitzen. Gefahr, dass es melodramatisch wirkt statt authentisch jugendlich.'
+    Fix: 'Pathos drosseln (Ausrufe, große Worte), 2–3 stille Momente/Schweigen einsetzen; körpernahe Unsicherheitsmarker zeigen (Hände, Atem, Blick weg) statt Leitsätzen.'
+    Note: 3
   Logik:
     Einschaetzung: 'Konflikt nachvollziehbar, baut auf vorherigen Spannungen auf.'
     Kritik: 'Eskalation wirkt zu schnell; Zwischenschritte oder leisere Töne fehlen. Konfliktauflösung wirkt etwas zu sauber.'
+    Fix: 'Vorzeichen im Lokal früher setzen (Blicke, Alkoholpegel, Nähe/Distanz); Heimweg als Zwischentakt nutzen; am Morgen eine kleine Restspannung stehen lassen (nicht alles aussprechen).'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie und Sini deutlich im Fokus, Emotionen sichtbar.'
     Kritik: 'Beide Figuren reagieren stellenweise zu scharf oder theatralisch. Feinere Nuancen (Verletzlichkeit, Schweigen) fehlen.'
+    Fix: 'Sini eine konkrete, schuldbewusste Geste geben (z. B. Tasse abstellen, Blick senken, Hände zittern); Eddies Ambivalenz zeigen (Wut vs. Bedürfnis nach Nähe); Dialogzeilen kürzen, mehr Subtext.'
+    Note: 2
   Sprache:
     Einschaetzung: 'Dramatisch, bildhaft.'
     Kritik: 'Überladen mit Metaphern und Ausrufungen. Lange Sätze verstärken das Pathos. Füllwörter fehlen – Sprache wirkt unnatürlich glatt.'
+    Fix: 'Sätze kürzen/splitten; Metaphernzahl halbieren; Ausrufe minimieren; natürliche Stockungen und kleine Umgangsspracheinsprengsel zulassen.'
+    Note: 3
   Fazit:
     Staerken: 'Intensives Kapitel, zentrale Figuren im Schlagabtausch, Emotionen klar.'
     Schwaechen: 'Melodramatisch, Konflikt zu abrupt, wenig Zwischentöne.'
-    Fix: 'Konflikt schrittweiser aufbauen, mehr stille Verletzungen einbauen, Sprache zurücknehmen.'
+    Fix: 'Konflikt schrittweise staffeln, stille Verletzungen zeigen, Sprache zurücknehmen, kleine Restspannung in der Versöhnung stehen lassen.'
+    Note: 3
 ---
 
 # Der Konflikt

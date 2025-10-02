@@ -8,29 +8,39 @@ persons:
   - 'Sini'
   - 'Jussi'
   - 'viele Gäste'
-synopsis: 'Eddie tanzt wild, bekommt von Sini den Schlüssel überreicht, entscheidet sich aber gegen den One-Night-Stand und geht mit Sini nach Hause.'
+synopsis: 'Im Kneipenlärm tanze ich wild, fange den Blick des Gitarristen und küsse ihn; als Sini mir ihren Schlüssel hinhält, entscheide ich mich – Heimweg mit ihr statt One‑Night‑Stand. Später reden und lachen wir über Eifersucht und Freundschaft, und ich weiß: Das war die richtige Wahl.'
 mood: 'bittersüß, Freundschaft, zärtliche Nähe, ausgelassenes Gelächter'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Jussi.png'
 proofreading:
+  Kapitel: '540_Das_Leben_ist_Punkrock'
   Ton:
     Einschaetzung: 'Wild, rotzig, jugendlich. Eddie klingt frech und trotzig.'
     Kritik: 'Ton schwankt: manchmal authentisch jugendlich, dann wieder zu reflektiert. Gefahr, dass die wilde Energie nicht durchgehend trägt.'
+    Fix: 'Wilde Energie durch kurze Sätze und Atempausen stützen; reflektierende Sätze auf unmittelbare Körperwahrnehmung umschreiben; am Ende die Zärtlichkeit leise, nicht pathetisch markieren.'
+    Note: 2
   Logik:
     Einschaetzung: 'Bezug zu Punkkultur passt, spiegelt jugendliches Lebensgefühl.'
     Kritik: 'Manche Bezüge wirken zu erklärend, fast lexikonhaft. Für Eddie sollte es unmittelbarer klingen.'
+    Fix: 'Erklärstellen zu situativen Details machen (Bühnenblick, Hände, Bass im Bauch); Schlüsselübergabe klar als Angebot markieren; Entscheidungsmoment mit einem kleinen Auslöser zeigen (Sinis Blick, kurzer Stich).'
+    Note: 1
   Charaktere:
     Einschaetzung: 'Eddie rebellisch, voller Energie.'
     Kritik: 'Ihre Verletzlichkeit bleibt außen vor, sie wirkt fast zu cool. Andere Figuren treten kaum in Erscheinung.'
+    Fix: 'Eddies Kippmoment (Begehren → Loyalität) körperlich markieren; Sini ein subtiles Eifersuchtszeichen vor der Schlüsselübergabe geben; Jussi/Gitarrist nur skizzieren, nicht aufladen.'
+    Note: 2
   Sprache:
     Einschaetzung: 'Direkt, bissig, mit Witz.'
     Kritik: 'Einige Sätze überinszeniert, fast wie Songtexte. Füllwörter und Jugendsprache könnten natürlicher wirken.'
+    Fix: '2–3 Satzketten teilen; Metaphern/Songzeilen dosieren; ein paar natürliche Fülllaute und spontane Einwürfe zulassen; Pointe in der Kissenschlacht knapper setzen.'
+    Note: 2
   Fazit:
     Staerken: 'Lebendig, energiegeladen, zeigt Eddies Rebellion.'
     Schwaechen: 'Zu reflektiert und erklärend, Verletzlichkeit fehlt, Sprache teils überinszeniert.'
-    Fix: 'Mehr spontane Gedanken, weniger Erklärung, mehr Brüche/Unsicherheit zulassen, Sprache natürlicher machen.'
+    Fix: 'Spontanität vor Erklärung stellen, 2–3 Sätze straffen, Verletzlichkeit punktuell zeigen, Erklärstellen in Szenenauflösung überführen.'
+    Note: 2
 ---
 
 # Das Leben ist Punkrock
@@ -153,7 +163,7 @@ laufen.
 Irgendwann beruhigen wir uns, atmen keuchend. Sini schaut mich an, ihre Augen
 noch glänzend: „Trotzdem … der Kuss war heiß. Wirklich. So vor allen Leuten.“
 
-Ich blinzle, rot werdend. „Das war irgendwie gar nicht ich.“
+Ich blinzle verlegen. „Das war irgendwie gar nicht ich.“
 
 „Dann will ich bitte öfter das ‚nicht du‘ sehen“, murmelt Sini, grinst und
 schiebt sich näher.

@@ -6,29 +6,39 @@ place: 'Sinis Wohnung'
 persons:
   - 'Eddie'
   - 'Sini'
-synopsis: 'Eddie und Sini teilen intime Geschichten über ihre ersten sexuellen Erfahrungen, lachen, necken sich und bauen tiefes Vertrauen zueinander auf.'
+synopsis: 'Nach dem Kino sitzen wir nachts in Sinis Wohnung; ich erzähle, wie ich mein erstes Mal mit sechzehn geplant und mir den Älteren ausgesucht habe – Sini kontert mit wilden Geschichten, wir lachen, werden rot und legen Vertrauen frei.'
 mood: 'playful, intimate, trusting'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Kissenschlacht2.png'
 proofreading:
+  Kapitel: '500_Das_erste_Mal'
   Ton:
     Einschaetzung: 'Intim, neugierig, Eddie beschreibt ihre Unsicherheit und Neugier.'
     Kritik: 'Ton schwankt: teilweise authentisch jugendlich, dann wieder zu reflektiert und erwachsen. Gefahr, dass Szene nicht mehr Eddie klingt.'
+    Fix: 'Unsicherheit durch kleine Pannen/Mikropausen zeigen (Stocken, Erröten, Lacher an der falschen Stelle); moralische Sätze weniger programmatisch, mehr situativ; 1–2 humorvolle Entlastungen statt Lehrsatz.'
+    Note: 3
   Logik:
     Einschaetzung: 'Darstellung grundsätzlich nachvollziehbar.'
     Kritik: 'Manche Details zu glatt, zu kontrolliert. Für ein ''erstes Mal'' fehlt mehr Unsicherheit, Brüche, peinliche Momente.'
+    Fix: 'Zeit-/Ortsanker (nach dem Kino, spätnachts) einmal nennen; Altersdifferenz über Eddies bewusste Entscheidung plausibilisieren (ohne zu rechtfertigen); Sini-Kollegen-Episode mit kurzem Motiv/Risiko erden.'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Eddie offenbart sich, Gegenfigur bleibt eher blass.'
     Kritik: 'Eddie wirkt stellenweise zu souverän. Emotionale Reibung oder Überraschung fehlt, Partner wirkt wie Statist.'
+    Fix: 'Eddies Körperreaktionen und kleine Verlegenheiten zeigen; Sini 2–3 aktive Impulse geben (Necken, Bekenntnis, kurzer Selbstzweifel beim Treppenhaus-Geständnis); Partner der Erinnerung mit 1–2 ambivalenten Details versehen.'
+    Note: 3
   Sprache:
     Einschaetzung: 'Gefühlsbetont, anschaulich.'
     Kritik: 'Zu glatte Formulierungen, fast literarisch. Wenig jugendliche Direktheit oder Humor. Füllwörter fehlen, dadurch wirkt es stilisiert.'
+    Fix: 'Längere Sätze brechen; Füll- und Umgangssprache sparsam einstreuen; Metaphern reduzieren, konkrete Sinneseindrücke (Hitze, Stoff, Geräusch) vorziehen; Pointen knapper setzen.'
+    Note: 2
   Fazit:
     Staerken: 'Wichtiger Entwicklungsschritt, Eddie zeigt Verletzlichkeit und Offenheit.'
     Schwaechen: 'Zu glatt und souverän erzählt, Gegenfigur blass, Unsicherheit fehlt.'
-    Fix: 'Mehr Unsicherheit, Brüche und kleine Peinlichkeiten einbauen, Sprache jugendlicher machen, Partner aktiver zeichnen.'
+    Fix: 'Mehr Unsicherheit und kleine Peinlichkeiten zeigen, Sprache jugendlicher und knapper machen, Sini aktiver und ambivalenter zeichnen, Altersdifferenz behutsam erden.'
+    Note: 3
   note:
     context: 'Die Szene ist bewusst so konstruiert, dass Eddie mit 16 ihr erstes Mal nüchtern und selbstbestimmt plant.'
     intention: 'Nicht Romantisierung eines Machtgefälles, sondern Darstellung ihrer Autonomie und berechnenden Art.'

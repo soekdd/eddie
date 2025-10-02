@@ -7,29 +7,39 @@ persons:
   - 'Eddie'
   - 'Sini'
   - 'Kinopublikum'
-synopsis: 'Eddie und Sini gehen ins Kino, sehen ''Zurück in die Zukunft'', lachen, albern herum und feiern ihre neu entdeckte Freiheit.'
+synopsis: 'Mit Sini im Adams-Kino stürze ich mich in "Back to the Future"; zwischen Popcorn, Englischangst, Pointen und Sinis Luftgitarre lacht sich die Freiheit in uns fest, und wir tragen Zitate in die Vaasa‑Nacht.'
 mood: 'Playful, carefree, full of laughter and freedom'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Sini_spielt_Luftgitarre.png'
 proofreading:
+  Kapitel: '490_Zurueck_in_die_Zukunft'
   Ton:
-    Einschaetzung: 'Reflektierend, Eddie denkt über Vergangenheit und Zukunft nach.'
-    Kritik: 'Ton sehr erwachsen und analytisch. Gefahr, dass Eddies jugendliche Stimme verschwindet.'
+    Einschaetzung: 'Leicht, ausgelassen, jugendlich; Humor und Zärtlichkeit greifen ineinander; spürbares Freiheitsgefühl.'
+    Kritik: 'Die Zitatfreude droht den Moment punktuell zu überladen; einzelne Reflexionssätze klingen erwachsener als Eddies sonstige Stimme.'
+    Fix: 'Zitate selektiver dosieren oder variieren (Beschreibung statt Vollzitat); 1–2 reife Reflexionen in unmittelbare Reaktionen umformen; kurze Verschnaufmomente für Rhythmus setzen.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Verknüpfung von Rückblick und Ausblick plausibel.'
-    Kritik: 'Manche Übergänge wirken konstruiert, fast wie Essay. Wenig spontaner Fluss.'
+    Einschaetzung: 'Klarer Ablauf: Foyer → Saal → Film → Luftgitarre → nächtiges Nachglühen; Englischangst und Verständniskurve sind stimmig.'
+    Kritik: 'Ortsbezug "Adams" könnte einmal als Kinoname explizit markiert werden; Popcorn-Übelkeit sehr stark, aber humoristisch getragen.'
+    Fix: 'Einen knappen Zeit-/Ortsanker setzen (Startzeit, „Adams“-Kino benennen); Popcorn-Gag mit einem Halbsatz erden (zu schneller Start/zu wenig Abendessen).'
+    Note: 1
   Charaktere:
-    Einschaetzung: 'Eddie steht im Mittelpunkt, sehr reflektiert.'
-    Kritik: 'Ihre jugendliche Unsicherheit fehlt, sie klingt wie eine erwachsene Erzählerin.'
+    Einschaetzung: 'Eddie unsicher-mutig und impulsiv; Sini witzig, unerschrocken und zärtlich – starke, liebevolle Dynamik.'
+    Kritik: 'Sini könnte vor der Luftgitarre einen aktiven Impuls bekommen; Eddies innerer Kippmoment (peinlich → mitreißen lassen) ließe sich noch schärfen.'
+    Fix: 'Mini-Motiv für Sini setzen (Spieltrieb/„ich trau mich“); Eddies Umschaltsekunde mit einem physischen Detail zeigen (Atem, Hand am Stuhllehnenrand).'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Präzise, geordnet.'
-    Kritik: 'Zu essayistisch, kaum jugendliche Direktheit, lange Sätze. Füllwörter fehlen – dadurch unnatürlich glatt.'
+    Einschaetzung: 'Lebendig, bildreich, mit gutem Ohr für Rhythmus und Dialog.'
+    Kritik: 'Einige Satzketten sind sehr lang; die Zitatsequenz draußen wirkt ausufernd.'
+    Fix: '2–3 Sätze splitten; Zitatliste um 1–2 Einträge kürzen und teils paraphrasieren; Adjektivdichte minimal reduzieren.'
+    Note: 2
   Fazit:
-    Staerken: 'Ordnet Ereignisse, schafft Klarheit für den Leser.'
-    Schwaechen: 'Zu erwachsen, zu essayistisch, Spannung fehlt.'
-    Fix: 'Mehr jugendliche Gedankensprünge einbauen, Sprache lebendiger machen, Reflexion mit Emotion mischen.'
+    Staerken: 'Kino-Atmosphäre, leichtfüßige Freude, starkes Freiheitsmotiv, ikonischer Luftgitarren-Moment.'
+    Schwaechen: 'Zitate am Stück häufen sich, vereinzelt zu erwachsene Reflexionen, teils lange Satzketten.'
+    Fix: 'Zitate straffen/variieren, 2–3 Sätze kürzen, 1–2 Mikro‑Marker für Zeit/Ort setzen, Eddies Kippmoment pointieren.'
+    Note: 2
 ---
 
 # Zurück in die Zukunft
@@ -73,7 +83,7 @@ antworte „please“, als wären wir im englischen Unterricht. Nach vielleicht 
 Minuten starre ich auf den **leeren** Eimer. Mein Bauch gluckert. Mein Kopf wird
 leicht.
 
-„Na, Genossin, Westluxus bekommen?“, flüstert Sini und stupst mich mit der
+„Na, Genossin Edmilla, Westluxus bekommen?“, flüstert Sini und stupst mich mit der
 Schulter. Ich presse die Lippen zusammen, damit ich nicht aufstöhne, lache aber,
 weil sie so liebevoll frech ist. „Mir ist… ein bisschen schlecht“, flüstere ich
 zurück. Sie zieht eine Grimasse, die sagt: Hätte ich dir auch vorher sagen

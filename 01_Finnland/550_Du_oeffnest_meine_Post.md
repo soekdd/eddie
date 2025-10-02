@@ -7,27 +7,37 @@ persons:
   - 'Eddie'
   - 'Sini'
   - 'Sinis Vater'
-synopsis: 'Sinis Vater erscheint unerwartet: erst herzlich und stolz zu seiner Tochter, dann streng und fordernd wegen Uni und Wohnung. Gegenüber Eddie zeigt er nur Kälte und macht klar, dass sie nicht bleiben kann.'
+synopsis: 'Sinis Vater platzt herein: erst weich zu ihr, dann hart – Uni, Wohnung, Ende der Auszeit; zu mir kalt, und ich verstehe: Ich kann hier nicht bleiben.'
 mood: 'tense, humiliating, bittersweet'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
+  Kapitel: '550_Du_oeffnest_meine_Post'
   Ton:
-    Einschaetzung: 'Konfrontativ, angespannt. Liebevoller Beginn, dann eskalierende Strenge. Eddie reagiert empfindlich und spitz.'
-    Kritik: 'Eddies innere Erkenntnis ist bitter, aber glaubwürdig. Gefahr: zu starke Selbstanklage.'
+    Einschaetzung: 'Konfrontativ, angespannt: warmer Einstieg, dann strenge Ansage; Eddies Verletzlichkeit ist spürbar.'
+    Kritik: 'Selbstanklage droht den Ton punktuell zu dominieren; die Härte des Vaters überblendet kurz die leisen Töne.'
+    Fix: 'Nach der härtesten Linie 1–2 stille Momente setzen (Atmen, Blick weg, Handdruck); Eddies Trotz-Mikrogesten einbauen; am Schluss die Hoffnung leise, nicht pathetisch rahmen.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Konflikt plausibel – Vater sieht Verantwortung, liebt Tochter, stößt Eddie ab.'
-    Kritik: 'Kontrast Vaterliebe / Eddie-Ablehnung ist hart, könnte fast überzogen wirken, muss fein ausbalanciert werden.'
+    Einschaetzung: 'Plausibler Ablauf: überraschtes Eintreffen → Post/Uni → Deadline/Hotel → Konsequenzen; finanzielle Abhängigkeit erklärt die Härte.'
+    Kritik: 'Der Schritt von Wärme zu Strenge erfolgt sehr abrupt; Semester-/Zeitfenster könnte einmal verankert werden.'
+    Fix: 'Einen knappen Zeitanker nennen (Mitte September, Semesterstart Anfang Oktober); Vaters Umschwenken mit einem Mini-Auslöser markieren (Blick auf Mappe/Chaos im Zimmer).'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Sini zwischen den Fronten, Vater ambivalent (streng, aber liebevoll), Eddie verletzlich und selbstkritisch.'
-    Kritik: 'Eddies Selbstverurteilung könnte durch einen Zwischenton von Trotz aufgelockert werden.'
+    Einschaetzung: 'Sini zwischen Loyalität und Druck; Vater streng, aber mit echter Zuneigung; Eddie verletzlich, sucht Haltung.'
+    Kritik: 'Vater zeigt Eddie gegenüber keinerlei Nuance; Sini bleibt im Streit teils Stichwortgeberin.'
+    Fix: 'Vater eine kurze, kontrollierte Höflichkeit gegenüber Eddie gönnen (ein Wort/Blick); Sini eine aktive Schutzgeste geben (zwischenstellen, Hand auf Eddie); Eddie einen Hauch Trotz oder Humor blitzen lassen.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Direkt, scharf, kurze Sätze. Gute Variation im Anfang und Ende.'
-    Kritik: 'Gefahr melodramatischer Zuspitzung. Stellenweise harte Gegensätze.'
+    Einschaetzung: 'Direkt, scharf, kurze Sätze mit guter Dynamik.'
+    Kritik: 'Zuspitzungen und Gegensätze häufen sich; einzelne Zeilen wirken wie Thesen.'
+    Fix: '2–3 harte Kontrastsätze entschärfen/teilen; Thesen in Wahrnehmung übersetzen (Geräusch, Griff, Haltung); Adjektivdichte minimal senken.'
+    Note: 2
   Fazit:
-    Staerken: 'Vaterfigur nuanciert, Eddie gewinnt Tiefe durch bittere Selbsterkenntnis. Szene hat große emotionale Wucht.'
-    Schwaechen: 'Hoher Kontrast könnte Leser überfordern, Balance von Härte und Wärme wichtig.'
-    Fix: 'Optional Eddie am Ende kurz trotzig hoffen lassen, ohne den Schmerz abzuschwächen.'
+    Staerken: 'Hohe emotionale Wucht, klare Konfliktführung, ambivalenter Vater, Eddies Selbsterkenntnis.'
+    Schwaechen: 'Abrupter Härtewechsel, Selbstanklage überwiegt kurz, Sini reaktiv.'
+    Fix: 'Leise Gegenmomente setzen, Charakternuancen erweitern, 2–3 Sätze straffen/erden, Zeitanker nennen.'
+    Note: 2
 ---
 
 # Du öffnest meine Post

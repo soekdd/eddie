@@ -8,29 +8,39 @@ persons:
   - 'Sini'
   - 'Busfahrer'
   - 'Zollbeamte'
-synopsis: 'Eddie ergattert ein Busticket zur Fähre, wird jedoch von den Zöllnern wegen ihres Alters aufgehalten. Sini greift ein, rettet sie, doch die Fähre ist bereits weg. Beide stehen ratlos vor neuen Problemen.'
+synopsis: 'Endlich ergattere ich ein Busticket; die Zollbeamten ziehen mich als Minderjährige mit DDR‑Pass heraus, Sini reißt mich frei – doch die Fähre ist weg und die Zeit läuft uns davon.'
 mood: 'hopeless, tense, bittersweet'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Zoellner.png'
 proofreading:
+  Kapitel: '580_Das_Busticket'
   Ton:
-    Einschaetzung: 'Ernst, leicht frustriert, Eddie schildert ihr Scheitern.'
-    Kritik: 'Ton ist streckenweise zu nüchtern und erklärend. Emotionale Wucht des Scheiterns kommt nicht stark genug durch.'
+    Einschaetzung: 'Druckvoll und ernüchternd: Hoffnung kippt in Ohnmacht, getragen von der Bindung zu Sini.'
+    Kritik: 'Stellenweise nüchtern; Emotionen bleiben im Kopf statt im Körper, der Schmerz des verpassten Moments hallt zu kurz nach.'
+    Fix: 'Körperreaktionen und kleine Kontrollverluste zeigen (Atem, zittrige Hände, verkrampfter Bauch); nach der Befreiung 1–2 stille Schläge stehen lassen (Geräusch, Blick, Leere); weniger Erklären, mehr unmittelbare Wahrnehmung.'
+    Note: 3
   Logik:
-    Einschaetzung: 'Scheitern als Wendepunkt plausibel und dramaturgisch sinnvoll.'
-    Kritik: 'Der Ablauf wirkt etwas glatt, ohne Überraschungen. Mehr Chaos oder Peinlichkeit würde realistischer wirken.'
+    Einschaetzung: 'Plausible Hürde (Minderjährigkeit/DDR‑Pass) und klare Sequenz bis zum Verpassen der Fähre.'
+    Kritik: 'Zöllnerentscheidung wirkt sehr glatt; Ticketverkauf/Boarding läuft reibungslos ohne Reibungspunkte.'
+    Fix: 'Vorschrift/Haftung der Zöllner knapp benennen; eine Mini‑Komplikation beim Ticket/Boarding einstreuen; Abfahrtsminute/ Zeitdruck markieren.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie im Fokus, zeigt Ernst und Nachdenklichkeit.'
-    Kritik: 'Ihre Emotionen bleiben eher abstrakt, körperliche Reaktionen (Wut, Tränen, Trotz) fehlen. Nebenfiguren bleiben Randerscheinungen.'
+    Einschaetzung: 'Eddie entschlossen und verletzlich; Sini handlungsstark und beschützend.'
+    Kritik: 'Nebenfiguren bleiben gesichtslos; Eddies Scham/Trotz im Zollraum könnte schärfer sein.'
+    Fix: 'Einem Zöllner ein knappes Merkmal geben (Geste/Akzent); Eddies Gegenimpuls kurz andeuten (Widerspruch, Tränen wegblinzeln); Sini einen Hauch von Risiko/Angst zeigen.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Klar, strukturiert.'
-    Kritik: 'Zu sachlich, zu wenige spontane Einwürfe. Wenig jugendliche Direktheit oder Rotzgören-Farbe.'
+    Einschaetzung: 'Klar und fokussiert; gute Szenenökonomie.'
+    Kritik: 'Teils reportagehaft; wenig jugendliche Einwürfe; Rhythmus gleichförmig.'
+    Fix: '2–3 Sätze splitten; spontane Einwürfe/Verstolperer sparsam ergänzen; Geräusche/Gerüche stärker einweben (Fährhorn, Öl, nasser Filz).'
+    Note: 2
   Fazit:
-    Staerken: 'Wichtiger Bruch in der Handlung, zeigt Grenzen von Eddies Können.'
-    Schwaechen: 'Zu nüchtern, Emotionen fehlen, Ablauf zu glatt.'
-    Fix: 'Scheitern emotionaler und chaotischer schildern, körperliche Reaktionen zeigen, Sprache jugendlicher und spontaner machen.'
+    Staerken: 'Spürbarer Wendepunkt, glaubhafte Hürde, starke Sini‑Rettung, ernüchternder Nachklang.'
+    Schwaechen: 'Emotionen zu nüchtern, Nebenfiguren blass, Ablauf sehr glatt.'
+    Fix: 'Körpermarker und kleine Reibungen ergänzen, Zeitanker setzen, Sprachrhythmus variieren; Zöllner minimal profilieren.'
+    Note: 2
 ---
 
 # Das Busticket
