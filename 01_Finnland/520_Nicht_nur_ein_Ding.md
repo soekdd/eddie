@@ -7,7 +7,7 @@ persons:
   - 'Eddie'
   - 'Sini'
   - 'Kneipengäste'
-synopsis: 'In einer Vaasa‑Kneipe wird Sini übergriffig; ich stoppe hart und schlafe im Bett allein. Am Morgen entschuldigt sie sich, wir ziehen klare Grenzen und tasten uns mit Pfannkuchen und einem Hafen‑Spaziergang wieder aneinander heran.'
+synopsis: 'In Vaasa wird Sini übergriffig; ich setze ein klares Nein und schlafe allein im Bett. Am Morgen übernimmt sie Verantwortung ("Ich habe dein Nein überfahren"), wir ziehen Grenzen und nähern uns mit Pfannkuchen und einem Hafen‑Spaziergang wieder an.'
 mood: 'Tense → hurt → honest repair; cautious hope.'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -16,37 +16,37 @@ illustrations:
 proofreading:
   Kapitel: '520_Nicht_nur_ein_Ding'
   Ton:
-    Einschaetzung: 'Emotional, aufgeladen, Eddie und Sini geraten aneinander.'
-    Kritik: 'Ton teils überdramatisiert, mit pathetischen Spitzen. Gefahr, dass es melodramatisch wirkt statt authentisch jugendlich.'
-    Fix: 'Pathos drosseln (Ausrufe, große Worte), 2–3 stille Momente/Schweigen einsetzen; körpernahe Unsicherheitsmarker zeigen (Hände, Atem, Blick weg) statt Leitsätzen.'
-    Note: 3
+    Einschaetzung: 'Klarer, jugendlicher Konflikt; „Nein“-Setzung und stille Momente tragen.'
+    Kritik: 'Vereinzelt noch betonte Formulierungen; zwei Sätze könnten leiser enden.'
+    Fix: 'Ein, zwei Enden entdramatisieren (Punkt statt Nachsatz); eine kurze Schweigepause vor der Versöhnung stehen lassen.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Konflikt nachvollziehbar, baut auf vorherigen Spannungen auf.'
-    Kritik: 'Eskalation wirkt zu schnell; Zwischenschritte oder leisere Töne fehlen. Konfliktauflösung wirkt etwas zu sauber.'
-    Fix: 'Vorzeichen im Lokal früher setzen (Blicke, Alkoholpegel, Nähe/Distanz); Heimweg als Zwischentakt nutzen; am Morgen eine kleine Restspannung stehen lassen (nicht alles aussprechen).'
+    Einschaetzung: 'Eskalation plausibel: Kneipe → Heimweg → Grenzverletzung → Nacht → Entschuldigung/Verantwortung.'
+    Kritik: 'Im Kneipenteil fehlen noch kleine Vorzeichen (Blicke/Gläserzahl).'
+    Fix: 'Einen kurzen Marker im Kneipenteil setzen (Blicke/Alkoholpegel); beim Heimweg einen Müdigkeits‑Hinweis belassen.'
     Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie und Sini deutlich im Fokus, Emotionen sichtbar.'
-    Kritik: 'Beide Figuren reagieren stellenweise zu scharf oder theatralisch. Feinere Nuancen (Verletzlichkeit, Schweigen) fehlen.'
-    Fix: 'Sini eine konkrete, schuldbewusste Geste geben (z. B. Tasse abstellen, Blick senken, Hände zittern); Eddies Ambivalenz zeigen (Wut vs. Bedürfnis nach Nähe); Dialogzeilen kürzen, mehr Subtext.'
+    Einschaetzung: 'Eddie verletzlich und bestimmt; Sini macht Fehler und übernimmt Verantwortung; Dynamik glaubwürdig.'
+    Kritik: 'Eddies Abhängigkeit wird sehr direkt benannt; eine Mini‑Gegenstärke ließe sich markieren.'
+    Fix: 'Eddie einen kleinen Selbstschutzmarker geben (Tür im Blick/Tasche neben sich); Sinis Schuldbekenntnis mit einer Geste unterstreichen (Tasse abstellen, Blick senken).'
     Note: 2
   Sprache:
-    Einschaetzung: 'Dramatisch, bildhaft.'
-    Kritik: 'Überladen mit Metaphern und Ausrufungen. Lange Sätze verstärken das Pathos. Füllwörter fehlen – Sprache wirkt unnatürlich glatt.'
-    Fix: 'Sätze kürzen/splitten; Metaphernzahl halbieren; Ausrufe minimieren; natürliche Stockungen und kleine Umgangsspracheinsprengsel zulassen.'
-    Note: 3
+    Einschaetzung: 'Gestrafft, mit natürlichen Stockungen; weniger Pathos, klare Körpermarker.'
+    Kritik: 'Ein, zwei Bilder/Adjektive können weiter reduziert werden.'
+    Fix: 'Metaphern sparsam halten; 1–2 Adjektive streichen; kurze Sätze beibehalten.'
+    Note: 2
   Fazit:
-    Staerken: 'Intensives Kapitel, zentrale Figuren im Schlagabtausch, Emotionen klar.'
-    Schwaechen: 'Melodramatisch, Konflikt zu abrupt, wenig Zwischentöne.'
-    Fix: 'Konflikt schrittweise staffeln, stille Verletzungen zeigen, Sprache zurücknehmen, kleine Restspannung in der Versöhnung stehen lassen.'
-    Note: 3
+    Staerken: 'Klare Grenze („Nein“), Verantwortung am Morgen, dichte Nähe/Distanz, glaubwürdiger Reparaturbeginn.'
+    Schwaechen: 'Kneipen‑Vorzeichen knapp, zwei Stellen noch leicht betont.'
+    Fix: 'Kneipen‑Marker ergänzen, Enden entdramatisieren, Metaphern weiter dosieren.'
+    Note: 2
 ---
 
 # Nicht nur ein Ding
 
-Die Kneipe ist klein, kaum größer als ein Wohnzimmer, und trotzdem drängt sich
-halb Vaasa hinein. Die Wände sind mit dunklem Holz vertäfelt, das in den Ecken
-schon stumpf vom Rauch ist. Über dem Tresen hängt ein Neonlicht in Form eines
+Die Kneipe ist klein, kaum größer als ein Wohnzimmer, und trotzdem ist sie
+proppenvoll. Die Wände sind mit dunklem Holz vertäfelt. In den Ecken ist es
+schon stumpf vom Rauch. Über dem Tresen hängt ein Neonlicht in Form eines
 Bierglases, das in regelmäßigen Abständen flackert. Der Geruch ist eine Mischung
 aus süßem Likör, abgestandenem Bier und nassen Wolljacken.
 
@@ -66,17 +66,16 @@ kleben an ihrer Stirn, die Augen glänzen. „Komm, tanzen!“
 Tanzfläche. Ich lache, reiße mich dann doch los. „Später vielleicht!“
 
 Sie verdreht die Augen, lässt mich stehen und wirbelt wieder in die Menge. Ich
-sehe, wie sie den Kopf in den Nacken wirft, den Rhythmus aufnimmt, als hätte sie
-nie etwas anderes gemacht.
+sehe, wie sie den Kopf in den Nacken wirft und den Rhythmus sofort aufnimmt.
 
 Ich lehne mich an den Tresen. Der Barkeeper, ein junger Typ mit blondem
 Schnurrbart, stellt wortlos eine Schale mit gesalzenen Erdnüssen hin. „On the
 house“, sagt er und grinst.
 
 Ich greife zu, beobachte Sini weiter. Irgendwann tanzt sie mit einem Typen, der
-viel zu breite Schultern und ein kariertes Hemd hat. Sie stößt ihn lachend an,
-er beugt sich zu ihr herunter, sagt ihr irgendwas ins Ohr. Sie lacht wieder –
-lauter, wärmer als bei allen anderen.
+breite Schultern und ein kariertes Hemd hat. Sie stößt ihn lachend an, er beugt
+sich zu ihr herunter, sagt ihr irgendwas ins Ohr. Sie lacht wieder – lauter,
+wärmer als bei allen anderen.
 
 Irgendwann merke ich, dass meine Füße schon fast eingeschlafen sind und der
 Boden klebt, so dass ich kaum von der Stelle komme. Ich bestelle noch ein
@@ -126,15 +125,18 @@ Sie verschwindet in der Küche, kommt mit zwei Weingläsern zurück.
 „Ein Schluck.“ Sie drückt mir das Glas in die Hand, setzt sich dicht neben mich
 auf das Sofa. So dicht, dass unsere Oberschenkel sich berühren.
 
-Ich nehme das Glas, stelle es zu hart auf den Tisch, Wein schwappt über den Rand. „Sini, ich bin müde.“
+Ich nehme das Glas, stelle es zu hart auf den Tisch; ein Schluck schwappt über
+den Rand. „Sini, ich bin müde.“
 
 Ich lehne mich leicht weg, aber sie legt den Arm um mich, drückt mich mit einer
-plötzlichen, ungeschickten aber kraftvollen Bewegung fester in die Lehne. Ihre Hand rutscht tiefer, zu
-tief, in meine Hose, in meinen Slip. „Nein“, sage ich. Sie beugt sich noch näher, ihr Knie
-blockiert mein Bein; ich komme nicht vorbei.
+plötzlichen, ungeschickten, aber kraftvollen Bewegung fester in die Lehne. Ihre
+Hand rutscht tiefer, zu tief, in meine Hose, in meinen Slip. „Nein“, sage ich.
+Sie beugt sich noch näher - ich spüre ihre Wange an meiner - ihr Knie blockiert
+mein Bein; ich komme nicht vorbei.
 
 „Nein. Hör auf. Sofort.“ Ich reiße mich los und springe auf. Meine Hände sind
-kalt, meine Kehle trocken.
+kalt, meine Kehle trocken. Es schießt in mir hoch: Wut, Enttäuschung. Nicht du,
+Sini. Du tust doch sowas nicht.
 
 Sie hebt beide Hände, macht einen halben Schritt zurück, schaut mich an – erst
 verwirrt, dann wie ertappt. „War nicht so gemeint.“
@@ -171,9 +173,9 @@ an den Tisch und starre ins Leere.
 
 Die Küche riecht nach kaltem Kaffee und einem Hauch von Zigarettenrauch vom
 Vorabend. Die Morgensonne fällt schräg durch die Gardine, zieht ein Muster aus
-hellen Vierecken auf den abgewetzten Holztisch. Ich sitze schon eine Ewigkeit
-hier, die Hände um meine Tasse gelegt, in der der Tee längst kalt geworden ist.
-Die Stille in der Wohnung drückt wie eine schwere Decke auf mich.
+hellen Vierecken auf den abgewetzten Holztisch. Ich sitze schon eine Weile hier,
+die Hände um meine Tasse gelegt, in der der Tee längst kalt geworden ist. Die
+Stille liegt schwer in der Wohnung.
 
 Die Tür geht auf. Sini steht da, in einem zerknitterten T-Shirt und einer
 Trainingshose, barfuß. Ihre blauen Haare sind ein einziges Chaos. Sie blinzelt
@@ -184,7 +186,7 @@ Ich sehe nicht hoch. „Morgen.“
 
 Sie geht zum Wasserhahn, lässt es laufen, trinkt direkt aus einem Glas. Das
 Geräusch des Schluckens und das Klirren des Glases auf der Spüle hallen viel zu
-laut. „Ich… also…“ Sie atmet hörbar aus. „Wegen gestern Abend…“
+laut. Wir sagen erst nichts. Dann atmet sie hörbar aus. „Wegen gestern Abend…“
 
 Ich lege die Tasse ab, meine Finger sind kalt. „Wegen gestern Abend…“ äffe ich
 sie wütend nach. Meine Stimme zittert, aber nicht vor Angst. Eher vor Wut und
@@ -196,20 +198,20 @@ ich habe mich wie eine Idiotin benommen. Ich habe dich—“ Sie bricht ab,
 schluckt. „Ich habe dein Nein überfahren. Und ich habe dich wie… wie ein Ding
 behandelt. Das war falsch. Es tut mir leid.“
 
-Ich hebe den Blick, treffe ihre Augen. „Genau. Ein Ding. Und weißt du, was das
-Schlimmste ist? Ich bin hier komplett auf dich angewiesen. Ich kann nirgendwo
-hin. Ich habe niemanden. Und dann machst du das.“
+Ich hebe den Blick, treffe ihre Augen. „Genau. Ein Ding.“ Es dauert, bis ich
+weiterrede. „Das Schlimmste? Ich bin hier komplett auf dich angewiesen. Ich kann
+nirgendwo hin. Ich habe niemanden. Und dann machst du das.“
 
-Sini zuckt zusammen, als hätte ich sie geohrfeigt. „Ich weiß. Ich hab's kaputt
-gemacht. Ich wollte nie… dich so fühlen lassen. Vor allem nicht dich.“
+Sini zuckt zusammen. Sie presst die Lippen aufeinander. „Ich weiß. Ich hab's
+kaputt gemacht. Ich wollte nie… dich so fühlen lassen. Vor allem nicht dich.“
 
 „Du redest immer von Feminismus, davon, dass Frauen stark und frei sein sollen.“
-Meine Stimme wird lauter, ich kann nicht anders. „Aber gestern Nacht… da war ich
-für dich nicht stark oder frei. Da war ich nur… ein Körper.“
+Meine Stimme wird fester; ich ringe um Ruhe. „Aber gestern Nacht… da war ich für
+dich nicht stark oder frei. Da war ich nur… ein Körper.“
 
 Sie starrt auf den Tisch, die Finger krallen sich ins Holz. „Ich schäme mich.
-Ich habe das alles verraten, woran ich eigentlich glaube. Du bist mir wichtig,
-Eddie. Nicht nur… so.“
+Ich habe das alles verraten, was mir wichtig ist. Du bist mir wichtig, Eddie.
+Nicht nur… so.“
 
 Ich lehne mich zurück, atme tief. „Weißt du, ich hab gedacht, du bist die eine
 Person, die mich nicht auf irgendwas reduziert. Nicht auf meine Herkunft, nicht
