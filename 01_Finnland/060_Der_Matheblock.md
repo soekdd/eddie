@@ -15,7 +15,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Joutsa_Fluchtblock.png'
 proofreading:
-  Kapitel: '060_Der_Matheblock'
   Ton:
     Einschaetzung: 'Sachlich, analytisch, Eddie denkt in mathematischen Strukturen.'
     Kritik: 'Ton rutscht stark ins Dozierende. Eddie klingt wie eine Lehrerin, nicht wie eine 17-Jährige, die sich Mut macht. Die jugendliche Stimme geht verloren.'

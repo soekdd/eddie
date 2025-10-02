@@ -11,7 +11,6 @@ mood: 'anxious, calculating, hopeless'
 tense: 'past, Eddies first-person perspective'
 mode: 'flashback'
 proofreading:
-  Kapitel: '030_Spieltheorie'
   Ton:
     Einschaetzung: 'Frech, jugendlich, Eddie experimentiert mit Gedanken und wendet Mathe spielerisch an.'
     Kritik: 'Ton schwankt: teils gelungen jugendlich, teils zu schulbuchhaft erklärt. Gefahr, dass es zu didaktisch klingt.'

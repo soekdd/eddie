@@ -42,7 +42,6 @@ parts:
       - 'Legende Wuppertal als Tarnung'
       - 'Rucksack mit Schokolade stärkt sie für den weiteren Weg'
 proofreading:
-  Kapitel: '280_Ploetzlich_Robinson'
   Ton:
     Einschaetzung: 'Verspielt, Eddie macht ironische Bezüge zu Robinson Crusoe, beschreibt ihre Lage mit Humor.'
     Kritik: 'Ton rutscht stellenweise zu sehr ins Parodistische. Gefahr, dass die Bedrohung der Lage zu leicht wirkt.'

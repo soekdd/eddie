@@ -15,7 +15,6 @@ mode: 'flashback'
 illustrations:
   - 'FIN_Vaasalopet_baden4.png'
 proofreading:
-  Kapitel: '250_Camping_mit_Papa'
   Ton:
     Einschaetzung: 'Warm, praktisch, rückblickend; Vater-Tochter-Dynamik trägt das Kapitel.'
     Kritik: 'Teilweise erwachsen-reflektiert, streckenweise anleitend statt erinnernd; jugendliche Spontaneität fehlt punktuell.'

@@ -17,7 +17,6 @@ illustrations:
   - 'FIN_Jotsenlampi_Sauna_Wasser.png'
   - 'FIN_Jotsenlampi_Sauna_zu_dritt.png'
 proofreading:
-  Kapitel: '260_Ankunft_in_Joutsenlampi'
   Ton:
     Einschaetzung: 'Warm, staunend, dankbar; Ankunfts‑Wunder vs. DDR‑Vergleich.'
     Kritik: 'Punktuell essayistisch (Kapitalismus‑Kontrast); Risiko, dass Reflexion die jugendliche Unmittelbarkeit überdeckt.'

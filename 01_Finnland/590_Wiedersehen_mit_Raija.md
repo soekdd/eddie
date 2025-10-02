@@ -14,7 +14,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Eddie_kuesst_Sini.png'
 proofreading:
-  Kapitel: '600_Wiedersehen_mit_Raija'
   Ton:
     Einschaetzung: 'Emotional, hoffnungsvoll, Eddie schildert Begegnung mit Freude.'
     Kritik: 'Ton kippt stellenweise ins Pathetische. Eddie wirkt sehr abgeklärt in der Darstellung, jugendliche Unsicherheit fehlt.'

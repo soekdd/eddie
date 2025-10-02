@@ -12,7 +12,6 @@ mood: 'tense, humiliating, bittersweet'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '560_Du_oeffnest_meine_Post'
   Ton:
     Einschaetzung: 'Konfrontativ, angespannt. Liebevoller Beginn, dann eskalierende Strenge. Eddie reagiert empfindlich und spitz.'
     Kritik: 'Eddies innere Erkenntnis ist bitter, aber glaubwürdig. Gefahr: zu starke Selbstanklage.'

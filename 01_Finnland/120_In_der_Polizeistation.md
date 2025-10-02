@@ -18,7 +18,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Joutsa_Haare_waschen.png'
 proofreading:
-  Kapitel: '120_In_der_Polizeistation'
   Ton:
     Einschaetzung: 'Beklemmend, angespannt; Brüche zwischen Hoffnung (Telefonat) und Angst (Auslieferung) tragen die Szene.'
     Kritik: 'Vereinzelt protokollarisch/erwachsen; jugendliche Impulsivität könnte stärker funkeln.'

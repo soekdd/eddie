@@ -17,7 +17,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Joutsa_Raija_beschuetzt_Eddie.png'
 proofreading:
-  Kapitel: '110_Maria'
   Ton:
     Einschaetzung: 'Bedrohlich und dicht; starker Kontrast aus sakraler Ruhe und aufziehender Gewalt.'
     Kritik: 'Stellenweise feierlich/erwachsen; Balance zwischen Pathos und Panik könnte jugendlicher klingen.'

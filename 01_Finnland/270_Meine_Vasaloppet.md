@@ -15,7 +15,6 @@ mood: 'tense but hopeful'
 tense: 'past, Eddies first-person perspective'
 mode: 'flashback'
 proofreading:
-  Kapitel: '270_Meine_Vasaloppet'
   Ton:
     Einschaetzung: 'Motivierend und bildhaft; sportliche Metapher trägt den inneren Antrieb.'
     Kritik: 'Teils essayistisch/reportagehaft; die Legende nimmt viel Raum und überstrahlt die unmittelbare, jugendliche Stimme.'

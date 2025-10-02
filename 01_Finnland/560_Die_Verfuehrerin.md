@@ -15,7 +15,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Busse.png'
 proofreading:
-  Kapitel: '570_Die_Verfuehrerin'
   Ton:
     Einschaetzung: 'Intensiv, sinnlich, Eddie schildert Begegnung mit Faszination und Unsicherheit.'
     Kritik: 'Ton schwankt zwischen jugendlicher Neugier und erwachsener Sinnlichkeit. Gefahr: wirkt zu literarisch und abgeklärt für Eddies Alter.'

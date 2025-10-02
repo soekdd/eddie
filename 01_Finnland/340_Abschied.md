@@ -17,7 +17,6 @@ source: 'https://ita-ikaalistenvpk.fi/elamyskota/'
 illustrations:
   - 'FIN_Vaasalopet_Abschied.png'
 proofreading:
-  Kapitel: '340_Abschied_Conny_Sabine_Peter_und_Matti'
   Ton:
     Einschaetzung: 'Warm und hoffnungsvoll; zarter Abschied mit leiser Entschlossenheit.'
     Kritik: 'Punktuell pathosanfällig; einzelne Sätze tragen viel Gewicht.'

@@ -16,7 +16,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasalopet_baden3.png'
 proofreading:
-  Kapitel: '330_Tampons'
   Ton:
     Einschaetzung: 'Direkt, humorvoll und zart verlegen; Körper‑Alltag wird natürlich erzählt.'
     Kritik: 'Punktuell kippt es ins Erklärende/Aufklärende; Witz könnte die Verletzlichkeit überdecken.'
@@ -29,7 +28,7 @@ proofreading:
     Note: 2
   Charaktere:
     Einschaetzung: 'Eddie offen und neugierig; Sabine als warmherzige „große Schwester“; Jungs neugierig, aber nicht übergriffig.'
-    Kritik: 'Eddies Unsicherheit könnte einmal stärker durchblitzen; die Jungs profitieren von je 1 Mikrodetail (Blick, Geste, Abwenden).' 
+    Kritik: 'Eddies Unsicherheit könnte einmal stärker durchblitzen; die Jungs profitieren von je 1 Mikrodetail (Blick, Geste, Abwenden).'
     Fix: 'Eddie 2 Körpermarker (erröten, Atem stockt) in Badesequenz; Matti/Peter je 1 kurzes, charakteristisches Detail; Sabine 1 leise Schutzgeste.'
     Note: 2
   Sprache:

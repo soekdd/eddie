@@ -12,7 +12,6 @@ mood: 'tense but triumphant'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '220_Anruf_mit_Codewort'
   Ton:
     Einschaetzung: 'Angespannt und konzentriert; nervöse Vorbereitung kippt in triumphales Auflegen.'
     Kritik: 'Punktuell kühl/sachlich; jugendliche Nervosität und kleine Aussetzer könnten noch hörbarer sein.'

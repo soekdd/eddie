@@ -12,7 +12,6 @@ mood: 'ernst, konspirativ, leicht humorvoll'
 tense: 'past, Eddies first-person perspective'
 mode: 'flashback'
 proofreading:
-  Kapitel: '040_Edmilla'
   Ton:
     Einschaetzung: 'Lebendig, stellenweise witzig; Vater-Tochter-Dialog trägt die Szene.'
     Kritik: 'Punktuell zu reflektiert/erklärend, wodurch die Leichtigkeit überwiegt.'

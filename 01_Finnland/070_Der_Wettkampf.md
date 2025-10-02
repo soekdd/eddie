@@ -13,7 +13,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Jotsenlampi_Wettkampf.png'
 proofreading:
-  Kapitel: '070_Der_Wettkampf'
   Ton:
     Einschaetzung: 'Angespannt, ehrgeizig, Eddie schildert den Wettbewerb mit Ernst und Konzentration.'
     Kritik: 'Ton ist stellenweise zu sportreportageartig oder zu nüchtern. Eddies jugendliche Stimme geht in der Strenge teilweise verloren.'

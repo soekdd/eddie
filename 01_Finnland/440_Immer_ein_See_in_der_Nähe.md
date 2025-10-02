@@ -6,29 +6,37 @@ place: 'Vaasa, Sinis Küche'
 persons:
   - 'Eddie'
   - 'Sini'
-synopsis: 'Am dritten Morgen ist Eddie rechtzeitig wach, sie frühstückt mit Sini, die ihr den Zettel direkt am Tisch gibt. Tagsüber rechnet sie, versorgt ihre fast verheilten Füße und kocht ein thematisch passendes Abendessen. Am Abend erkennt Eddie, wie sehr Sini ihre Aufgaben mit Humor und Intelligenz auflädt. Ihr Respekt wächst, und zwischen beiden liegt ein unausgesprochenes Band.'
+synopsis: 'Dritter Morgen: Frühstück mit Sini und neuer Zettel (Tausend‑Seen‑Abschätzung); Eddie rechnet, pflegt die fast verheilten Füße, kocht thematisch – abends wächst beim Essen Respekt und das unausgesprochene Band zwischen beiden.'
 mood: 'warm, verspielt, leise ehrfürchtig'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 notes: 'Die ausführliche Rechnung liegt ausgelagert in ''Eddie_rechnet_Tag3_Tausend_Seen_Wahrscheinlichkeit.md''.'
 proofreading:
-  Kapitel: '450_Immer_ein_See_in_der_Nähe'
   Ton:
-    Einschaetzung: 'Ruhig, fast kontemplativ, Eddie beschreibt die Naturbeobachtung mit Staunen.'
-    Kritik: 'Ton wirkt stellenweise zu erwachsen und literarisch. Wenig jugendliche Spontaneität.'
+    Einschaetzung: 'Warm, verspielt; Mathe trifft Küchen‑Alltag und kleine Rituale.'
+    Kritik: 'Stellenweise erwachsen/literarisch; Jugendspontaneität könnte stärker blitzen.'
+    Fix: '2–3 jugendliche Asides (Witz/rotzige Kurzsätze) einstreuen; 1 kurzer Atempunkt (Zögern/Grinsen) im Frühstücksdialog.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Beobachtungen über die vielen Seen Finnlands plausibel.'
-    Kritik: 'Wiederholungen machen den Text langatmig. Gefahr, dass die Szene wie Füllmaterial wirkt.'
+    Einschaetzung: 'Zettel → Rechnen → Pflege → thematisches Kochen → Abendgespräch: schlüssiger Tagesbogen.'
+    Kritik: 'Wiederholungen/Naturbezüge können Füllgefühl erzeugen.'
+    Fix: 'Mathe im Haupttext auf Ergebnis/Skizze beschränken (Beweis ausgelagert); 1 Mikro‑Zeitanker (Vormittag/Abend) setzen; Naturbilder sparsam dosieren.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie tritt als nachdenkliche Beobachterin hervor.'
-    Kritik: 'Ihre Persönlichkeit bleibt blass, jugendliche Eigenheiten fehlen. Keine Dynamik mit Nebenfiguren.'
+    Einschaetzung: 'Eddie neugierig, zärtlich zu sich (Füße); Sini als leise Impulsgeberin.'
+    Kritik: 'Eddies Eigenheiten/Jugendfunken punktuell blass; Sini wenig Kontur in dieser Szene.'
+    Fix: 'Eddie 2 Körper-/Gefühlsmarker (verlegenes Lachen, peinlich bei „Professorin“); Sini 1 Mikrodetail (Floskel/Signaturblick) im Abend.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Flüssig, beschreibend.'
-    Kritik: 'Zu viele Wiederholungen, zu glatt. Füllwörter und lange Sätze nehmen Tempo raus.'
+    Einschaetzung: 'Flüssig, anschaulich; Küchen‑ und Geruchsdetails tragen.'
+    Kritik: 'Wiederholungen/ lange Sätze; wenig knackige Jugendrhythmik.'
+    Fix: 'Wiederholungen streichen; 1–2 lange Sätze teilen; 1–2 rotzige Kurzsätze als Kontrast.'
+    Note: 2
   Fazit:
-    Staerken: 'Stimmungsvolles Naturbild, Ruhepol im Erzählfluss.'
-    Schwaechen: 'Zu literarisch, jugendliche Stimme fehlt, Wiederholungen.'
-    Fix: 'Jugendliche Spontaneität einbauen (z. B. Witz, Vergleiche), Sprache straffen, weniger Wiederholungen.'
+    Staerken: 'Charmante Zettel‑Dramaturgie; Ruhe und Nähe wachsen; Mathe im Alltag natürlich verankert.'
+    Schwaechen: 'Leicht literarischer Anstrich; Sini‑Kontur minimal.'
+    Fix: 'Jugend‑Asides/Körpermarker ergänzen; Sini‑Mikrodetail setzen; Sprache leicht straffen.'
+    Note: 2
 ---
 
 # Immer ein See in der Nähe

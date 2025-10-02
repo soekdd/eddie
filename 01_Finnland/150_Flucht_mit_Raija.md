@@ -12,7 +12,6 @@ mood: 'tense, conflicted, heavy'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '150_Flucht_mit_Raija'
   Ton:
     Einschaetzung: 'Angespannte Autofahrt kippt in kurze Geborgenheit; Eddie vergleicht DDR und Finnland aus unmittelbarer, persönlicher Perspektive.'
     Kritik: 'Einzelne Passagen klingen berichtend/essayistisch (Trabi-Exkurs); mehr kurze, atemlose Sätze und Gedankenfetzen würden die Unmittelbarkeit erhöhen.'

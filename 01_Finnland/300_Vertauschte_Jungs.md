@@ -14,7 +14,6 @@ mood: 'warm, playful, safe'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '300_Vertauschte_Jungs'
   Ton:
     Einschaetzung: 'Humorvoll und warm; Regenhütten‑Vibe mit neckischer Gruppendynamik.'
     Kritik: 'Wechsel zwischen rotzig und erwachsen; Witz punktuell überdreht.'

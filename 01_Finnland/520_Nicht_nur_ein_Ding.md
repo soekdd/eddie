@@ -14,7 +14,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Sini_schaemt_sich.png'
 proofreading:
-  Kapitel: '530_Der_Konflikt'
   Ton:
     Einschaetzung: 'Emotional, aufgeladen, Eddie und Sini geraten aneinander.'
     Kritik: 'Ton teils überdramatisiert, mit pathetischen Spitzen. Gefahr, dass es melodramatisch wirkt statt authentisch jugendlich.'

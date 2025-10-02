@@ -12,7 +12,6 @@ mood: 'light, humorous, tinged with hidden melancholy'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '540_Schule_beginnt'
   Ton:
     Einschaetzung: 'Melancholisch, reflektierend. Eddie denkt über Schule und Lernen nach.'
     Kritik: 'Ton wirkt zu erwachsen und nachdenklich. Jugendliterarische Direktheit fehlt stellenweise.'

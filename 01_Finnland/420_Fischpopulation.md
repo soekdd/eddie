@@ -6,29 +6,37 @@ place: 'Vaasa, Sinis Küche'
 persons:
   - 'Eddie'
   - 'Sini'
-synopsis: 'Eddie verschläft das Frühstück, findet Sinis herzförmigen Zettel mit einer Biologie-Matheaufgabe, rechnet und kocht passend zum Thema. Abends erfährt sie – eher nebenbei – dass Sini in Helsinki ein paar Semester Biologie studiert hat, worüber sie aber nicht weiter sprechen will.'
+synopsis: 'Eddie verschläft das Frühstück, findet Sinis herzförmigen Zettel mit einer Biologie‑Matheaufgabe, rechnet und kocht „passend zum Thema“; abends fällt nebenbei, dass Sini in Helsinki Biologie studiert hat – ein Faden, an dem sie (noch) nicht zieht.'
 mood: 'warm, verspielt, häuslich; leise Verletzlichkeit'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 notes: 'Die ausführliche Rechnung liegt ausgelagert in ''Eddie_rechnet_Tag1_Fischsee.md''.'
 proofreading:
-  Kapitel: '430_Fischpopulation'
   Ton:
-    Einschaetzung: 'Sachlich, fast wissenschaftlich. Eddie erklärt mit einem gewissen Stolz.'
-    Kritik: 'Ton ist zu dozentisch, wenig jugendliche Farbe. Gefahr: klingt wie Biologiestunde, nicht wie Eddies Gedanken.'
+    Einschaetzung: 'Warm‑alltäglich mit Mathe‑Spieltrieb; kleine Haus‑Rituale (Zettel, Kochen) tragen den Tag.'
+    Kritik: 'Passagen zur Aufgabe klingen dozentisch; Jugendstimme tritt zurück.'
+    Fix: '2–3 jugendliche Asides/Humor (Selbstironie über „Lehrerin Eddie“); 1 kurzer Atempunkt, an dem sie Halbwissen bekennt („äh… egal, reicht so“).'
+    Note: 2
   Logik:
-    Einschaetzung: 'Erklärungen plausibel, zeigen Eddies analytische Seite.'
-    Kritik: 'Details sind zu glatt und zu vollständig. Ein 17-jähriges Mädchen würde eher Halbwissen haben oder Unsicherheiten zeigen.'
+    Einschaetzung: 'Aufgabe → Rechnen → thematisches Kochen → beiläufige Bio‑Info zu Sini ist stimmig.'
+    Kritik: 'Rechnung wirkt zu glatt/komplett; Sini‑Detail bleibt isoliert.'
+    Fix: 'Mathe auf Ergebnis/Skizze beschränken (voller Beweis ausgelagert) und 1 Unsicherheitsmoment markieren; Sini‑Faden mit 1 Blick/Abwenden verankern.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie tritt als Wissensvermittlerin auf.'
-    Kritik: 'Ihre Persönlichkeit tritt zurück, wirkt wie eine Lehrerin. Humor oder jugendliche Unsicherheit fehlen.'
+    Einschaetzung: 'Eddie spielerisch, fürsorglich zu sich (Füße), Sini als leise Initiatorin (Zettel) mit Tiefe.'
+    Kritik: 'Eddies Unsicherheit/Humor könnten stärker blitzen; Sini bekommt nur Andeutung.'
+    Fix: 'Eddie 2 Körper-/Gefühlsmarker (verlegenes Grinsen, peinlich berührt beim Nachfragen); Sini 1 Mikrodetail (Stimme/Floskel) beim Themenwechsel.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Klar, technisch präzise.'
-    Kritik: 'Zu viele Fachbegriffe, wenig Variation. Kaum emotionale Sprache oder jugendlicher Ton.'
+    Einschaetzung: 'Klar und anschaulich; schöne Küchen‑ und Geruchsdetails.'
+    Kritik: 'Fachsprache trocken; wenig rotzige Kurzsätze.'
+    Fix: 'Fachbegriffe vereinfachen/umschreiben; 1–2 rotzige Kurzsätze als Kontrast; 1 langen Satz teilen.'
+    Note: 2
   Fazit:
-    Staerken: 'Unterstreicht Eddies Genie und Wissensdurst, originelles Thema.'
-    Schwaechen: 'Zu lehrbuchhaft, Eddie wirkt unjugendlich, Sprache trocken.'
-    Fix: 'Unsicherheiten oder Halbwissen zeigen, Humor oder Selbstironie einbauen, Fachsprache vereinfachen.'
+    Staerken: 'Charmante Zettel‑Dynamik; Mathe im Alltag; feine Sini‑Andeutung.'
+    Schwaechen: 'Dozentischer Ton; Sini‑Faden sehr kurz.'
+    Fix: 'Jugendliche Asides + Halbwissen einbauen; Sini‑Blick/Abwenden markieren; Sprache leicht lockern.'
+    Note: 2
 ---
 
 # Der Frühstückszettel · Tag 1 – Der Fischsee

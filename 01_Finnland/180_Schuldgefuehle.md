@@ -13,7 +13,6 @@ mood: 'fearful, vulnerable, briefly comforted'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '180_Schuldgefuehle'
   Ton:
     Einschaetzung: 'Intim, verletzlich; nächtliche Schuldspirale mit tröstender Nähe durch Raija.'
     Kritik: 'Stellenweise sehr literarisch; ein paar jugendliche, direkte Gedankenfetzen würden Pathos brechen und Unmittelbarkeit erhöhen.'

@@ -14,7 +14,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Jyvaeskylae_Jorma.png'
 proofreading:
-  Kapitel: '210_Disput_mit_Jorma'
   Ton:
     Einschaetzung: 'Konfrontativ und beklemmend; ein langer, zäher Streittag mit kurzer Entlastung am Abend.'
     Kritik: 'Stellenweise zu kontrolliert; mehr jugendliche Impulsivität (Hader, Ausrutscher, sarkastische Einwürfe) würde die Unmittelbarkeit erhöhen.'

@@ -53,7 +53,6 @@ parts:
       - 'Eddies Offenbarung über ihre Flucht'
       - 'Schweigegelöbnis und neuer Zusammenhalt'
 proofreading:
-  Kapitel: '290_Conny_Sabine_Peter_und_Matti'
   Ton:
     Einschaetzung: 'Jugendlich, gruppendynamisch; Witz und Wärme in der Begegnung.'
     Kritik: 'Springt zwischen Rotzgören‑Kommentar und erwachsener Analyse; Pointen‑Dichte hoch.'

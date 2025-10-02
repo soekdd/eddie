@@ -47,7 +47,6 @@ continuity:
 illustrations:
   - 'FIN_Vaasa_Sinis_Geburtstag.png'
 proofreading:
-  Kapitel: '490_Sinis_Geburtstag'
   Ton:
     Einschaetzung: 'Warm, verspielt, Eddie bemüht sich um eine Überraschung und zeigt Zuneigung.'
     Kritik: 'Ton kippt stellenweise ins Kitschige. Eddie wirkt sehr souverän im Umgang, Unsicherheit fehlt.'

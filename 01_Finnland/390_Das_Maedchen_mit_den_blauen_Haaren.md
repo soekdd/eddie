@@ -8,7 +8,7 @@ persons:
   - 'Eddie'
   - 'Sini'
   - 'Shuttlefahrer (Riese)'
-synopsis: 'Eddie kommt fieberkrank im Vaasa-Terminal zu sich. Das Mädchen mit den blauen Haaren – Sini – versorgt sie mit Suppe und verbindet ihre aufgeweichten Füße. Sini verrät, dass im Juli graue Männer nach Eddie fragten, drängt nun aber auf Ruhe: Erst gesund werden, dann nach günstigen Busgruppen für die Fähre fragen. Am Abend kippt Eddies Zustand, ein großer Fahrer trägt sie in einen Shuttlebus; Sini bringt Eddie in ihre kleine Wohnung. Fade out.'
+synopsis: 'Ich wache fiebrig im Vaasa‑Terminal auf; Sini, das Mädchen mit den blauen Haaren, gibt mir Suppe, verbindet meine Füße und bringt mich am Abend, als alles wieder kippt, mit einem Shuttle in ihre kleine Wohnung. Sie erwähnt graue Männer, die nach mir fragten – aber zuerst gesund werden.'
 mood: 'fiebrig, verunsichert, fürsorglich, warm, hoffnungsvoll'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -23,23 +23,31 @@ continuity:
     - '410_Keine_Eile (erster Vaasa-Tag)'
 updated: '2025-09-28'
 proofreading:
-  Kapitel: '390_Das_Maedchen_mit_den_blauen_Haaren'
   Ton:
     Einschaetzung: 'Zärtlich-fürsorglich mit fiebriger Verunsicherung; Eddies Blick bleibt körpernah und konkret.'
     Kritik: 'Einzelne Bilder (z. B. "Winter-Indianer") können sensibel nachgeschärft werden, um klischeehafte Zuschreibungen zu vermeiden.'
+    Fix: 'Sensiblen Vergleich ersetzen (konkret, wertfrei); 1–2 warme, aber klare Grenzmarken in Sinis Handeln setzen; die fiebrige Verunsicherung mit einem kurzen, ruhigen Gegenmoment balancieren.'
+    Note: 2
   Logik:
     Einschaetzung: 'Chronologie schlüssig: Terminal → Pflege → Shuttle → Wohnung; Anschluss zu 400/410 klar.'
     Kritik: 'Zeitmarker (Tageszeit) könnten minimal präzisiert werden, um den Übergang zum Arztbesuch in 400 noch fließender zu machen.'
+    Fix: 'Einen knappen Zeitanker am Abend setzen (z. B. Uhrzeit/Schichtende); klarstellen, dass der Shuttle zu Sinis Wohnung fährt (kein Fährtransfer); leiser Vorausverweis auf den Arztbesuch in 400.'
+    Note: 2
   Charaktere:
     Einschaetzung: 'Sini wirkt kompetent, warm und pragmatisch; Eddie verletzlich, aber entschieden.'
     Kritik: 'Kurz die Reaktion Eddies auf die Info über die "grauen Männer" vertiefen (Körperreaktion/Impuls vs. Erleichterung).'
+    Fix: 'Eddies Körperreaktion auf die Nachricht über die "grauen Männer" konkretisieren (z. B. Puls/Atmung/Greifen); Sinis Rollenwechsel (Schalter → Pflegerin) mit einem kleinen Handgriff markieren; in der Wohnung ein Detail setzen, das sie erdet.'
+    Note: 2
   Sprache:
     Einschaetzung: 'Anschaulich, nah an Sinneseindrücken (Geruch, Tastsinn, Geräusche).'
     Kritik: 'Vereinzelte lange Sätze straffen; kleine Jugendsprache-Nuancen könnten die Stimme noch jugendlicher machen.'
+    Fix: '2–3 lange Sätze kürzen; 1–2 jugendliche Registermarker dosiert ergänzen (ohne Modewörter); metaphorische Zuspitzungen erden und konkrete Sinneseindrücke vorziehen.'
+    Note: 2
   Fazit:
     Staerken: 'Intime Kennenlern-Szene, glaubhafte Fürsorge, klare Rampe für die Vaasa-Sequenz.'
     Schwaechen: 'Sensitivitätsstelle bei Zuschreibungen, minimale Zeitunschärfe am Abend.'
-    Fix: 'Formulierung an der sensiblen Stelle behutsam modernisieren; 1–2 Mikromarker für Tageszeit setzen (z. B. Uhrzeit, Schichtende).'
+    Fix: 'Sensitiven Vergleich modernisieren, 2–3 Sätze straffen, klare Zeit- und Ortsmarker setzen; kleine Embodiment-Reaktion auf die "grauen Männer"; Mini-Hinweis zum Arztbesuch als Rampe.'
+    Note: 2
 ---
 
 # Das Mädchen mit den blauen Haaren

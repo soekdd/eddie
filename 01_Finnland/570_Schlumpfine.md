@@ -11,7 +11,6 @@ mood: 'warm, playful, intimate'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '580_Schlumpfine'
   Ton:
     Einschaetzung: 'Locker, spöttisch, Eddie benutzt Humor und Popkultur-Referenzen.'
     Kritik: 'Ton wirkt manchmal zu albern, fast klamaukig. Gefahr: Ernsthaftigkeit der Situation wird überspielt.'

@@ -12,7 +12,6 @@ tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 todo: 'Maria weniger souverän zeichnen, auch ihr Mut muss erst wachsen'
 proofreading:
-  Kapitel: '100_Durch_Joutsa'
   Ton:
     Einschaetzung: 'Atemlos, sinnlich, nah am Körper; Bedrohung kippt in fragile Erleichterung.'
     Kritik: 'Vereinzelt reportagehafte Passagen; punktuell könnte ein jugendlich-rotziger Gedanke die Subjektivität schärfen.'

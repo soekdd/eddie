@@ -12,7 +12,6 @@ mood: 'tense, urgent, defiant'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '140_Das_Fax'
   Ton:
     Einschaetzung: 'Steigende Anspannung; neugieriger Technikblick kippt in Defiance/Fluchtimpuls.'
     Kritik: 'Stellenweise zu erklärend/technikfixiert; jugendliche Reaktionen (Staunen, „hä?“, Galgenhumor) kommen zu kurz.'

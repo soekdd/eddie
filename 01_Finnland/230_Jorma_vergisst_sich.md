@@ -11,7 +11,6 @@ mood: 'tense and uneasy'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '230_Jorma_vergisst_sich'
   Ton:
     Einschaetzung: 'Unmittelbar, bedrohlich; Adrenalin spürbar, fragmentierte Rede und Stressmarker greifen.'
     Kritik: 'Rhythmus weitgehend stimmig; optional 1 kurzer Still-Moment vor der Flucht (Atempause) für Kontrast.'

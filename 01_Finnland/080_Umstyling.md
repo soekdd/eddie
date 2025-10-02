@@ -12,7 +12,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Joutsa_Haare_faerben.png'
 proofreading:
-  Kapitel: '080_Umstyling'
   Ton:
     Einschaetzung: 'Atemlos, körpernah; panisch‑humorige Stimme im engen Toilettenraum.'
     Kritik: 'Humor droht punktuell den Ernst zu überblenden; 1 Ruhe-/Atempause vor dem Aufbruch würde die Spannung steigern.'

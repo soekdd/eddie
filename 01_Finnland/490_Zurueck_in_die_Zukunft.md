@@ -14,7 +14,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Sini_spielt_Luftgitarre.png'
 proofreading:
-  Kapitel: '500_Zurueck_in_die_Zukunft'
   Ton:
     Einschaetzung: 'Reflektierend, Eddie denkt über Vergangenheit und Zukunft nach.'
     Kritik: 'Ton sehr erwachsen und analytisch. Gefahr, dass Eddies jugendliche Stimme verschwindet.'

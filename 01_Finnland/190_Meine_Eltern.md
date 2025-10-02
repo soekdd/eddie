@@ -14,7 +14,6 @@ tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
 proofreading:
-  Kapitel: '190_Meine_Eltern'
   Ton:
     Einschaetzung: 'Intim und ernst; Eddie ringt um Worte, während Raija behutsam zuhört.'
     Kritik: 'Teilweise erklärend; kurze, stockende Halbsätze/Einwürfe (z. B. „äh“, „ich weiß…“) könnten die Unmittelbarkeit erhöhen.'

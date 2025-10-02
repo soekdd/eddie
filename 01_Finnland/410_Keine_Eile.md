@@ -84,7 +84,6 @@ continuity:
   medical: 'Fieber sinkt; Füße verbunden; Erschöpfung bleibt.'
 updated: '2025-09-19'
 proofreading:
-  Kapitel: '410_Keine_Eile'
   Ton:
     Einschaetzung: 'Ruhig, entschleunigt; Wärme und Pflege tragen den Tag.'
     Kritik: 'Punktuell zu abgeklärt/weise für 17; jugendliche Spontaneität könnte stärker blitzen.'
@@ -106,7 +105,7 @@ proofreading:
     Fix: '1–2 lange Sätze teilen; Füllwörter/… straffen; 1–2 rotzige Kurzsätze als Kontrast (Humor/Necken) ergänzen; Präsens konsequent halten.'
     Note: 2
   Fazit:
-    Staerken: 'Kontrastierende Ruheinsel; Beginn einer vertrauensvollen Dynamik; schönes Leitmotiv („keine Eile“).' 
+    Staerken: 'Kontrastierende Ruheinsel; Beginn einer vertrauensvollen Dynamik; schönes Leitmotiv („keine Eile“).'
     Schwaechen: 'Weisheits‑Ton schimmert durch; Spannung könnte lokal absacken.'
     Fix: 'Jugendliche Asides + Körpermarker; Mini‑Zeitanker; leichte Sprach‑Straffung; Sini‑Signaturgeste.'
     Note: 2

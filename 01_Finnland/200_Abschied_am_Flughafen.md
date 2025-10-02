@@ -17,7 +17,6 @@ mode: 'flashback'
 illustrations:
   - 'DDR_Berlin_Flughafen.png'
 proofreading:
-  Kapitel: '200_Abschied_am_Flughafen'
   Ton:
     Einschaetzung: 'Emotional, ernst, Eddie schildert den Abschied mit Wehmut und Unsicherheit.'
     Kritik: 'Ton ist stellenweise zu pathetisch und erwachsen. Die jugendliche Direktheit tritt zurück.'

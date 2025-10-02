@@ -14,7 +14,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Fuesse_pflegen.png'
 proofreading:
-  Kapitel: '400_Schuetzengraeben'
   Ton:
     Einschaetzung: 'Fiebrig‑intim, körpernah; Pflege und Angst wechseln sich ab.'
     Kritik: 'Kriegsmetaphern teils schwer/erwachsen; Jugendstimme droht zu verschwinden.'

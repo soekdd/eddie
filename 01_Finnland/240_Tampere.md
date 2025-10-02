@@ -14,7 +14,6 @@ illustrations:
   - 'FIN_Tampere_Marktplatz.png'
   - 'FIN_Vaasalopet_Laavu.png'
 proofreading:
-  Kapitel: '240_Tampere'
   Ton:
     Einschaetzung: 'Euphorisch, selbstermächtigend; von Großstadtüberwältigung zur klaren Entscheidung.'
     Kritik: 'Punktuell reiseführerhaft und aufzählend; Einkaufs‑Euphorie droht den Ernst zu überdecken.'

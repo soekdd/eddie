@@ -14,26 +14,25 @@ mood: 'somber but bonding'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '310_Peters_Flucht'
   Ton:
     Einschaetzung: 'Ernst und bedrückend; starker Kontrast zum Regenhütten‑Alltag.'
     Kritik: 'Stellenweise protokollarisch; Eddies innere Beteiligung klingt zu sachlich.'
-    Fix: '2–3 kurze Gedankenfetzen/Asides von Eddie („das kenne ich“, „nicht wieder heulen“) einstreuen; 1 Atempause vor/ nach einem Schlüsselsatz von Peter.
+    Fix: '2–3 kurze Gedankenfetzen/Asides von Eddie („das kenne ich“, „nicht wieder heulen“) einstreuen; 1 Atempause vor/ nach einem Schlüsselsatz von Peter.'
     Note: 3
   Logik:
     Einschaetzung: 'Peters Erzählung ist schlüssig und wirkungsvoll (Antrag → Ausgrenzung → Warten → Bescheid → Westen).'
     Kritik: 'Ablauf sehr glatt; wenige Unsicherheits‑Zwischentöne/Unklarheiten.'
-    Fix: '1–2 Mini‑Zwischenfragen/Unklarheiten (Zeitrahmen, wer klopfte?) einbauen; 1 Zeit-/Raumanker (Regen/Feuer/Uhr) zur Spannungsführung.
+    Fix: '1–2 Mini‑Zwischenfragen/Unklarheiten (Zeitrahmen, wer klopfte?) einbauen; 1 Zeit-/Raumanker (Regen/Feuer/Uhr) zur Spannungsführung.'
     Note: 2
   Charaktere:
     Einschaetzung: 'Peter tragisch, ruhig; Eddie hörend; Gruppe empathisch.'
-    Kritik: 'Eddies Reaktion bleibt blass; Namensschreibung inkonsistent („Matti“ vs. „Mattie“).' 
+    Kritik: 'Eddies Reaktion bleibt blass; Namensschreibung inkonsistent („Matti“ vs. „Mattie“).'
     Fix: 'Eddie 2 Körpermarker (trockener Mund, zittrige Hände) + 1 spontaner Einspruch; Gruppendynamik mit 1–2 Mikro‑Gesten (Blicke/Hand an Becher). Namensschreibung vereinheitlichen.'
     Note: 3
   Sprache:
     Einschaetzung: 'Klar und gut lesbar.'
-    Kritik: 'Ton kühl; Dialoge teils berichtend; kleine Inkonsistenzen (Namen).' 
-    Fix: '1–2 Sätze in direkte Rede/gesprochene Brüche überführen; 1–2 lange Perioden teilen; Namensform („Matti“) konsistent.
+    Kritik: 'Ton kühl; Dialoge teils berichtend; kleine Inkonsistenzen (Namen).'
+    Fix: '1–2 Sätze in direkte Rede/gesprochene Brüche überführen; 1–2 lange Perioden teilen; Namensform („Matti“) konsistent.'
     Note: 2
   Fazit:
     Staerken: 'Gewichtige Hintergrundschicht; zeigt Risiko und Preis der Ausreise.'

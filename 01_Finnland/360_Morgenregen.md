@@ -137,7 +137,6 @@ updated: '2025-09-20'
 illustrations:
   - 'FIN_Vaasalopet_Picknickplatz.png'
 proofreading:
-  Kapitel: '360_Morgenregen'
   Ton:
     Einschaetzung: 'Hart, nass, auszehrend; Regen/Moor als körperliche Prüfung, am Ende fragile Erleichterung.'
     Kritik: 'Teils sehr poetisch‑schwermütig; Jugendstimme droht hinter dem Pathos zu verschwinden.'

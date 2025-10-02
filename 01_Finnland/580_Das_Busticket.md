@@ -15,7 +15,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Zoellner.png'
 proofreading:
-  Kapitel: '580_Das_Busticket'
   Ton:
     Einschaetzung: 'Ernst, leicht frustriert, Eddie schildert ihr Scheitern.'
     Kritik: 'Ton ist streckenweise zu nüchtern und erklärend. Emotionale Wucht des Scheiterns kommt nicht stark genug durch.'

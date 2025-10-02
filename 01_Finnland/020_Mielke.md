@@ -13,7 +13,6 @@ mode: 'flashback'
 illustrations:
   - 'DDR_Berlin_Eddie_trifft_auf_Mielke.png'
 proofreading:
-  Kapitel: '020_Mielke'
   Ton:
     Einschaetzung: 'Düster, bedrohlich; klare, jugendliche Stimme mit frechen Spitzen.'
     Kritik: 'Manche Spitzen wiederholen sich; 1–2 ruhigere Kontrastmomente könnten die Bedrohung verstärken.'

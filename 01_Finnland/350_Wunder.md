@@ -13,7 +13,6 @@ tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 todo: 'konkrete Etappe bennen'
 proofreading:
-  Kapitel: '350_Wunder'
   Ton:
     Einschaetzung: 'Hoffnungsvoll, dankbar; ruhiges Gehen trägt eine sanfte, echte Erleichterung.'
     Kritik: 'Pathetik lauert in Bildern/Metaphern; einzelne Stellen klingen märchenhaft.'

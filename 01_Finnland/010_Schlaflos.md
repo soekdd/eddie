@@ -12,7 +12,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Joutsa_Bungalow.png'
 proofreading:
-  Kapitel: '010_Schlaflos'
   Ton:
     Einschaetzung: 'Introspektiv, nervös, Eddie wirkt aufgewühlt und gedanklich sprunghaft.'
     Kritik: 'Ton schwankt zwischen jugendlicher Direktheit und sehr literarischen Formulierungen. Gefahr, dass Authentizität leidet.'

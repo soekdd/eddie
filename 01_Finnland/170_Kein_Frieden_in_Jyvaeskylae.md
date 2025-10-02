@@ -11,7 +11,6 @@ mood: 'calm, intimate, safe'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '170_Kein_Frieden_in_Jyvaeskylae'
   Ton:
     Einschaetzung: 'Wachsam, latent bedroht; Wohnung als Schutzraum mit kurzen Ruheinseln (Kochen, Abwasch).'
     Kritik: 'Balance Häuslichkeit/Gefahr punktuell schärfen; mehr jugendliche Direktheit und kurze Gedankenfetzen in heiklen Momenten.'

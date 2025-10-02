@@ -13,7 +13,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Kissenschlacht2.png'
 proofreading:
-  Kapitel: '510_Das_erste_Mal'
   Ton:
     Einschaetzung: 'Intim, neugierig, Eddie beschreibt ihre Unsicherheit und Neugier.'
     Kritik: 'Ton schwankt: teilweise authentisch jugendlich, dann wieder zu reflektiert und erwachsen. Gefahr, dass Szene nicht mehr Eddie klingt.'

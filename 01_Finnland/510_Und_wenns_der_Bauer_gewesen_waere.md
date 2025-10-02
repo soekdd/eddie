@@ -60,7 +60,6 @@ parts:
       - 'Sini propagiert strategischen Feminismus'
       - 'Eddie erkennt gegenseitige Verlustangst'
 proofreading:
-  Kapitel: '520_Und_wenns_der_Bauer_gewesen_waere'
   Ton:
     Einschaetzung: 'Humorvoll, ironisch, Eddie spielt mit einer hypothetischen Situation.'
     Kritik: 'Ton kippt gelegentlich ins Klamaukige. Gefahr, dass Ernsthaftigkeit der Gesamtsituation verwässert wird.'

@@ -65,7 +65,6 @@ continuity:
 approx_word_count: 1200
 updated: '2025-09-28'
 proofreading:
-  Kapitel: '380_Bruecke_in_die_Sackgasse'
   Ton:
     Einschaetzung: 'Düster, fiebrig, eindringlich; starke körpernahe Wahrnehmung.'
     Kritik: 'Mehr jugendliche Spontaneität an einigen Stellen wünschenswert; vereinzelt pathetische Bilder glätten.'

@@ -16,7 +16,6 @@ mood: 'tense, breathless, fleeting relief'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '090_Aus_der_Schule'
   Ton:
     Einschaetzung: 'Atemlos, dicht, nah am Körper; Fluchtmoment trägt die Szene.'
     Kritik: 'Vereinzelt schleicht sich ein reflektierender Ton ein; zu viel davon würde das Tempo bremsen.'

@@ -11,7 +11,6 @@ mood: 'restless, tender, determined'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '050_Tasche_packen'
   Ton:
     Einschaetzung: 'Praktisch, fokussiert, Eddie listet Dinge auf und denkt taktisch.'
     Kritik: 'Ton wirkt teils zu erwachsen und organisiert. Wenig jugendliche Unsicherheit oder Spontaneität.'

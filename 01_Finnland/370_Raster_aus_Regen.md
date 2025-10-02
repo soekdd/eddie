@@ -126,7 +126,6 @@ updated: '2025-09-20'
 illustrations:
   - 'FIN_Vaasalopet_Scheune.png'
 proofreading:
-  Kapitel: '370_Raster_aus_Regen'
   Ton:
     Einschaetzung: 'Beobachtend, poetisch, Eddie analysiert Muster im Regen fast mathematisch.'
     Kritik: 'Ton kippt ins Dozentenhafte, mehr Abhandlung als Erleben. Emotionale Färbung schwach.'

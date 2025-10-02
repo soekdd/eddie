@@ -6,29 +6,37 @@ place: 'Vaasa, Sinis Küche'
 persons:
   - 'Eddie'
   - 'Sini'
-synopsis: 'Eddie erwischt Sini morgens gerade noch, als diese zur Arbeit aufbricht, und bekommt den zweiten Zettel. Tagsüber rechnet sie, versorgt ihre Füße und kocht ein Abendessen zum Thema. Am Abend erkennt sie, dass Sinis Aufgabe mehr als bloßer Scherz ist: Sini hat bewusst Eddies Fluchtmetaphern gewählt und kennt den finnischen Mathematiker, der das Problem geprägt hat. Eddie dämmert, welch heller Kopf in Sini steckt.'
+synopsis: 'Morgens drückt Sini Eddie den zweiten Zettel (Rentier‑Depot) in die Hand; tagsüber rechnet Eddie, pflegt die Füße und kocht thematisch – abends merkt sie: Sini hat ihre Fluchtmetapher bewusst gewählt und kennt den finnischen Erfinder der Aufgabe.'
 mood: 'warm, tüftelnd, leise ehrfürchtig'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 notes: 'Die ausführliche Rechnung liegt ausgelagert in ''Eddie_rechnet_Tag2_Depots_und_Rentiere.md''.'
 proofreading:
-  Kapitel: '440_Von_Rentieren_und_anderen_Eseln'
   Ton:
-    Einschaetzung: 'Humorvoll, verspielt, Eddie macht Vergleiche und zieht Parallelen.'
-    Kritik: 'Ton schwankt: mal rotzig-jugendlich, mal fast kabarettistisch. Gefahr der Überinszenierung.'
+    Einschaetzung: 'Warm, verspielt; Mathe‑Spieltrieb trifft Küchen‑Alltag.'
+    Kritik: 'Punktuell kabarettistisch/überinszeniert; Jugendstimme kann einen Hauch leiser, echter klingen.'
+    Fix: 'Pointenabstand vergrößern (1–2 streichen); 2 kurze, direkte Gedankenfetzen (verlegen/unsicher) setzen; 1 Atempunkt vor Sinis Erkenntnis.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Die Vergleiche sind nachvollziehbar und bringen Leichtigkeit.'
-    Kritik: 'Manche Analogien wirken konstruiert, fast wie vorbereitet. Glaubwürdigkeit könnte leiden.'
+    Einschaetzung: 'Zettel → Rechnen → thematisches Kochen → Erkenntnis über Sinis Quelle: schlüssig.'
+    Kritik: 'Analogien können konstruiert wirken; Sinis Wissen kommt plötzlich.'
+    Fix: '1 Mikro‑Hinweis früher (Blick, Floskel) als Vorwegnahme; Mathe auf Skizze/Ergebnis verknappen (voller Beweis ausgelagert).'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie zeigt Humor und Kreativität.'
-    Kritik: 'Sie wirkt stellenweise zu schlagfertig, ohne Unsicherheit. Nebenfiguren reagieren klischeehaft.'
+    Einschaetzung: 'Eddie neugierig und spielerisch; Sini als leiser Sparrings‑ und Denkanstoß.'
+    Kritik: 'Eddies Unsicherheit blitzt selten; Nebenfigur Sini könnte 1 prägnantes Mini‑Detail bekommen (Stimme/Schulterstoß/Floskel).'
+    Fix: 'Eddie 2 Körper-/Gefühlsmarker (verlegenes Stocken, heißer Nacken) beim Erwischt‑Werden; Sini 1 Signaturgeste/Floskel (z. B. „Professore“).'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Lebendig, witzig, mit klaren Bildern.'
-    Kritik: 'Zu viele Pointen hintereinander, Füllwörter häufen sich. Satzbau manchmal zu glatt für spontane Gedanken.'
+    Einschaetzung: 'Lebendig, witzig, klare Bilder; schöne Küchendetails.'
+    Kritik: 'Füllwörter/Pointen häufen sich; Satzbau teils zu glatt.'
+    Fix: 'Füllwörter und Ellipsen straffen; 1–2 lange Sätze teilen; 1 rotziger Kurzsatz als Kontrast.'
+    Note: 2
   Fazit:
-    Staerken: 'Unterhaltsam, originelle Vergleiche, Eddie zeigt jugendliche Kreativität.'
-    Schwaechen: 'Überinszeniert, Nebenfiguren schwach, Humor zu gleichmäßig.'
-    Fix: 'Humor dosieren, Eddie mehr Unsicherheit zeigen, Nebenfiguren stärker einbinden.'
+    Staerken: 'Charmante Zettel‑Dramaturgie; Mathe im Alltag; feiner Sini‑Reveal.'
+    Schwaechen: 'Kleine Überinszenierung; Analogien teils konstruiert.'
+    Fix: 'Humor kalibrieren, Mikro‑Hinweis auf Sinis Wissen, Jugend‑Unsicherheit kurz zeigen; Sprache leicht straffen.'
+    Note: 2
 ---
 
 # Der Frühstückszettel · Tag 2 – Das Rentier-Depot

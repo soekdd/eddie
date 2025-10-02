@@ -14,7 +14,6 @@ mood: 'ecstatic, liberating, joyful'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '320_Gesang'
   Ton:
     Einschaetzung: 'Locker, verspielt, fast ausgelassen; Musik als Ventil und Freiheitsmoment.'
     Kritik: 'Sehr leicht im Kontrast zur Lage; Gefahr, dass die Bedrohung verblasst.'

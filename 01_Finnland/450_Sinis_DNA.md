@@ -7,7 +7,7 @@ place: 'Sinis Wohnung, Vöyrinkatu 25, Vaasa'
 persons:
   - 'Eddie'
   - 'Sini (indirekt)'
-synopsis: 'Eddie schont ihre Füße und erkundet Sinis Wohnung. An der Pinnwand entdeckt sie Sinis Studentenausweis aus Helsinki und merkt: In drei Tagen hat Sini Geburtstag. Aus Buntstiften, ihrem wassergezeichneten Matheblock und Sinis Genetikbuch entwirft Eddie ein Bio-Rätsel-Geschenk: zwei Doppelhelix-Zeichnungen, deren Codons die Aminosäure-Anfangsbuchstaben zu den Wörtern PUNK und SAMI formen. Namen lässt sie frei als Linien zum Selbstausfüllen.'
+synopsis: 'Allein in Sinis Wohnung entdeckt Eddie Geburtstag und Bio‑Spuren: Aus Buntstiften, ihrem welligen Matheblock und Sinis Genetikbuch entwirft sie ein Rätsel‑Geschenk – zwei Doppelhelixen, deren Codons PUNK und SAMI buchstabieren.'
 mood: 'zärtlich, verspielt, kreativ, hoffnungsvoll'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -71,23 +71,31 @@ todos:
   - 'Ein günstiger Bilderrahmen aus Second-Hand-Laden oder von Sinis Abstellkammer besorgen.'
   - 'Optional kleine Szene: Eddie versteckt das Bild und hinterlässt ein Mini-Rätselhinweis.'
 proofreading:
-  Kapitel: '460_Sinis_DNA'
   Ton:
-    Einschaetzung: 'Neugierig, etwas naiv, Eddie stellt Fragen und stolpert in Fettnäpfchen.'
-    Kritik: 'Ton kippt stellenweise ins Erklärende, weniger jugendlich-spontan. Manche Sätze wirken wie ein Lehrbuch-Einschub.'
+    Einschaetzung: 'Zärtlich‑verspielt; Entdeckerinnen‑Blick in Sinis Welt, kreatives Basteln als Liebesgeste.'
+    Kritik: 'Punktuell erklärend/aufgezählt; Jugendspontaneität könnte 1–2 Mal stärker blitzen.'
+    Fix: '2 kurze, direkte Gedankenfetzen (verlegen/kichernd); 1 Mikro‑Atempunkt, bevor die Geschenkidee „einschnappt“; Aufzählungen leicht verdichten.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Gespräch plausibel, passt zur Situation und zu Eddie/Sinis Dynamik.'
-    Kritik: 'Manche Infos wirken wie zu glatt eingespeist, Exposition schimmert durch. Gefahr: unnatürlicher Dialog.'
+    Einschaetzung: 'Wohnung → Hinweise (Ausweis/Genetik) → Geschenkidee → Ausführung → Plan fürs Verstecken: schlüssig.'
+    Kritik: 'Geburtstag/Datum und Rätselaufbau teils sehr glatt; U/„Selenocystein“ als Insider kann holpern.'
+    Fix: '1 Datumshinweis subtil setzen (Kalendereintrag/Kassenzettel); U als Bonus klar markieren (im Text: „kannst du knacken“).'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie wirkt unsicher, Sini souveräner, mit Humor.'
-    Kritik: 'Eddies Unsicherheit könnte stärker körperlich oder emotional spürbar sein. Sini klingt manchmal zu dozierend.'
+    Einschaetzung: 'Eddie neugierig, liebevoll tüftelnd; Sini indirekt über Dinge konturiert.'
+    Kritik: 'Eddies Scham/Unsicherheit beim Wühlen oder Zeichnen könnte körperlich kurz aufscheinen; Sini nur indirekt sichtbar.'
+    Fix: 'Eddie 2 Körpermarker (rote Ohren beim „Wühlen“, zitteriger Stift bei Idee); 1 Sini‑Mikrodetail über Objekt (Geruch des Pullis, Randnotiz im Buch).'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Dialogorientiert, grundsätzlich lebendig.'
-    Kritik: 'Teilweise überfrachtet mit Erklärungen. Jugendsprache tritt zurück, Füllwörter fehlen fast – dadurch wirkt es zu glatt.'
+    Einschaetzung: 'Anschaulich, detailreich (Papier, Buntstifte, Bücher).'
+    Kritik: 'Teilweise lehrbuchhaft bei Genetik; wenige rotzige Kurzsätze.'
+    Fix: 'Fachbegriffe vereinfachen/umschreiben; 1–2 rotzige Kurzsätze als Kontrast; 1–2 lange Sätze teilen.'
+    Note: 2
   Fazit:
-    Staerken: 'Wichtige Hintergrundinfos zu Sini, kulturelle Ebene gut eingebaut.'
-    Schwaechen: 'Dialog streckenweise unnatürlich, Eddie zu lehrbuchhaft, Sini zu dozierend.'
-    Fix: 'Exposition stärker in lockeren Schlagabtausch kleiden, Eddies Unsicherheit deutlicher zeigen, Dialog straffen.'
+    Staerken: 'Originelle, intime Geschenkidee; schlaue Andockpunkte an Sinis Identität (PUNK/SÁMI).'
+    Schwaechen: 'Exposition/Genetik erklären droht zu glatt; Sini nur indirekt.'
+    Fix: 'Jugend‑Asides + Körpermarker, Datum subtil verankern, Genetik knapper/spielerisch, 1 Objekt‑Detail zu Sini.'
+    Note: 2
 ---
 
 # Sinis DNA

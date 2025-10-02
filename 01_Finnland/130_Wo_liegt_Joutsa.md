@@ -15,7 +15,6 @@ illustrations:
   - 'DDR_Dresden_Eddie_versteckt_die_Karten.png'
 todo: 'Eddie erfährt erst am Flughafen Helsinki, wo genau die Reise hingeht.'
 proofreading:
-  Kapitel: '130_Wo_liegt_Joutsa'
   Ton:
     Einschaetzung: 'Geheimniskrämerei und Tüftel‑Energie; Vater‑Tochter‑Wärme schwingt mit.'
     Kritik: 'Anfangs stellenweise lexikonhaft; jugendliche Farbe könnte an 1–2 Stellen kräftiger sein.'
@@ -24,7 +23,7 @@ proofreading:
   Logik:
     Einschaetzung: 'Plan (Karten → Versteck → Geometrie‑Verschlüsselung) schlüssig; heimliches Arbeiten nachvollziehbar.'
     Kritik: 'Ein kleiner Plausibilitätsanker (Kartensaal‑Zugang/Aufsicht) könnte nachgeschoben werden.'
-    Fix: '1 Halbsatz zum „Fenster der Gelegenheit“/Aufsicht; 1 Mini‑Detail zum Versteckwechsel.
+    Fix: '1 Halbsatz zum Fenster der Gelegenheit/Aufsicht; 1 Mini‑Detail zum Versteckwechsel.'
     Note: 2
   Charaktere:
     Einschaetzung: 'Eddie als listige Planerin; Vater als ruhiger Komplize mit stiller Zuneigung.'
@@ -34,7 +33,7 @@ proofreading:
   Sprache:
     Einschaetzung: 'Klar, bildhaft, gute Tempo‑Wechsel zwischen Sachlichem und Erinnerung.'
     Kritik: 'Punktuell aufzählend; ein wenig mehr Jugendlichkeit/Spontanität täte gut.'
-    Fix: '1 Aufzählung straffen/variieren; 1–2 jugendliche Einwürfe, 1 kurzer Witz auf Kosten der „mongolischen Karten“. '
+    Fix: '1 Aufzählung straffen/variieren; 1–2 jugendliche Einwürfe, 1 kurzer Witz auf Kosten der mongolischen Karten.'
     Note: 2
   Fazit:
     Staerken: 'Anschauliche Fluchtvorbereitung; cleveres Mathe‑Verschlüsseln; zarte Vater‑Tochter‑Nähe.'

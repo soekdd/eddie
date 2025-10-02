@@ -34,7 +34,7 @@ locations:
   flashback_manos:
     name: 'Manos / TU Dresden'
     note: 'Unterstützer:innen sichern die Zulassung'
-synopsis: 'Während Pizza und Gespräch erklärt Eddie, wie ihre Aufnahme an die Manos 1982 fast an einem ideologischen Direktor scheiterte und nur dank einer mutigen Sekretärin, ihren Eltern und mathematischen Fürsprechern möglich wurde. Sini erkennt, wie viel Widerstand Eddie gewohnt ist – und warum sie sich heute schwertut, Hilfe anzunehmen.'
+synopsis: 'Bei Pizza erzählt Eddie, wie 1982 ihre Aufnahme an die Manos fast an einem ideologischen Direktor scheiterte und nur dank Sekretärin, Eltern und akademischen Verbündeten gelang; Sini versteht, warum Eddie sich heute schwer tut, Hilfe anzunehmen.'
 flashback_summary: '1982 schmiedet Eddies POS-Direktor einen Brief an den Bezirksschulrat, um ihre Spezialschul-Zulassung zu stoppen. Eine Sekretärin warnt die Familie, der Vater organisiert ein Krisentreffen mit Professoren, Dekan und Manos-Direktor. Der Direktor muss den Einspruch zurückziehen – Eddie darf gehen, lernt aber, dass man Verbündete braucht.'
 mood: 'nostalgic, defiant, intimate'
 parts:
@@ -73,23 +73,31 @@ illustration_prompts:
     description: 'Eddies Eltern und akademische Verbündete sitzen im Besprechungszimmer; Eddie wartet draußen und zählt Bodenfliesen.'
     style: 'realistisch, angespannte Stimmung'
 proofreading:
-  Kapitel: '470_Gute_Gruende'
   Ton:
-    Einschaetzung: 'Reflektiert, ernst, Eddie denkt über ihre Entscheidungen nach.'
-    Kritik: 'Ton wirkt stellenweise zu abgeklärt, fast wie nachträgliche Analyse. Für eine 17-Jährige klingt es sehr erwachsen.'
+    Einschaetzung: 'Intim und dialogisch; Pizzeria‑Rahmen gibt Wärme und Sicherheit.'
+    Kritik: 'Stellenweise sehr abgeklärt/analytisch für 17; rückblickender Ton überlagert die Unmittelbarkeit.'
+    Fix: '2–3 kurze, jugendliche Gedankenfetzen/Asides (z. B. „oh Mann“, „nicht heulen jetzt“) einstreuen; 1 kurzer Atempunkt/Zögern, bevor Eddie ansetzt.'
+    Note: 3
   Logik:
-    Einschaetzung: 'Gedankengang nachvollziehbar, passt in die Entwicklung.'
-    Kritik: 'Begründungen wirken zu rational und zu glatt, als hätte Eddie alle Antworten parat. Weniger Brüche, Zweifel oder Widersprüche als glaubwürdig wären.'
+    Einschaetzung: 'Flashback‑Ablauf (POS → Warnung → Krisentreffen → Rückzug) schlüssig; Motiv „Verbündete“ klar.'
+    Kritik: 'Zeit-/Ablaufanker könnten den 1982‑Strang präzisieren; Szene „Eddie vor der Tür“ profitiert von einem Ort-/Sinnesanker.'
+    Fix: 'Mini‑Timestamps („Frühjahr 1982“, „zwei Tage später“) setzen; 1 Mikro‑Detail vor der Tür (Kälte/Fliesenzählen/Schulgeruch) einfügen.'
+    Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie steht klar im Fokus, zeigt Nachdenklichkeit.'
-    Kritik: 'Ihre Verletzlichkeit fehlt. Sie wirkt wie eine Erzählerin mit Überblick, nicht wie eine Jugendliche im Moment.'
+    Einschaetzung: 'Eddie verletzlich, Sini als verlässliche Zuhörerin; Eltern/Verbündete als tragende Kräfte.'
+    Kritik: 'Eddies Körperreaktionen (Zählen, schwitzige Hände) könnten stärker blitzen; Antagonist droht zur Karikatur zu werden.'
+    Fix: 'Eddie 2 Körpermarker an Schlüsselmomenten (Flur: kalte Finger; Pizzeria: trockener Mund); Direktor 1 prägnantes, nüchternes Detail statt Sammelabwertung.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Klar, präzise.'
-    Kritik: 'Zu analytisch, wenig jugendliche Direktheit. Füllwörter fehlen fast komplett, dadurch wirkt es glatt und unspontan.'
+    Einschaetzung: 'Klar geführt; Zitat‑Dokumente setzen Kontrast.'
+    Kritik: 'Abschnitte analytisch/lang; Jugendrhythmik fehlt punktuell.'
+    Fix: '2–3 lange Perioden teilen; 1–2 rotzige Kurzsätze als Kontrast; Zitatpassagen kurz rahmen statt nachkommentieren.'
+    Note: 2
   Fazit:
-    Staerken: 'Zeigt Eddies Reifung, verdeutlicht innere Auseinandersetzung.'
-    Schwaechen: 'Zu rational und erwachsen, Zweifel und Brüche fehlen, Sprache zu glatt.'
-    Fix: 'Mehr Unsicherheiten einbauen, jugendliche Gedankensprünge zulassen, Sprache lebendiger machen.'
+    Staerken: 'Starkes Motiv „Verbündete“; nachvollziehbarer Grundbogen; Vertrauen zu Sini wächst.'
+    Schwaechen: 'Weisheitston überlagert stellenweise; Körpernähe/jugendliche Direktheit unterrepräsentiert.'
+    Fix: 'Jugend‑Asides/Körpermarker ergänzen; wenige Zeit-/Sinnesanker für den Flashback; Sprache leicht straffen.'
+    Note: 2
 ---
 
 # Gute Gründe
@@ -180,7 +188,7 @@ Aufnahme von Edda R. zurückzunehmen. Mit sozialistischem Gruß.‘“
 
 Sini zieht die Brauen hoch. „Liebenswert.“
 
-„Er hat noch zwei Absätze angehängt über meine ‚negativen Erscheinungen‘ – so
+„Er hat noch zwei Absätze angehängt über meine ‚negativen Erscheinung‘ – so
 nannten sie es – und dass ich mit meinem ‚lockeren Mundwerk‘ Autoritäten
 untergrabe. Mein Vater hat mich dafür angemeckert: ‚Siehste, so was kommt von so
 was.‘ Aber das war mehr Zähnezeigen als Wut. Gleichzeitig leuchteten ihm die
