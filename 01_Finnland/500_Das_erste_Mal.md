@@ -6,7 +6,7 @@ place: 'Sinis Wohnung'
 persons:
   - 'Eddie'
   - 'Sini'
-synopsis: 'Nach dem Kino sitzen wir nachts in Sinis Wohnung; ich erzähle, wie ich mein erstes Mal mit sechzehn geplant und mir den Älteren ausgesucht habe – Sini kontert mit wilden Geschichten, wir lachen, werden rot und legen Vertrauen frei.'
+synopsis: 'Nach dem Kino sitzen wir nachts in Sinis Wohnung; ich gestehe mein geplantes erstes Mal mit sechzehn, Sini kontert mit wilden Geschichten und kleinen Zweifeln – wir lachen, werden rot und legen Vertrauen frei.'
 mood: 'playful, intimate, trusting'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -15,30 +15,30 @@ illustrations:
 proofreading:
   Kapitel: '500_Das_erste_Mal'
   Ton:
-    Einschaetzung: 'Intim, neugierig, Eddie beschreibt ihre Unsicherheit und Neugier.'
-    Kritik: 'Ton schwankt: teilweise authentisch jugendlich, dann wieder zu reflektiert und erwachsen. Gefahr, dass Szene nicht mehr Eddie klingt.'
-    Fix: 'Unsicherheit durch kleine Pannen/Mikropausen zeigen (Stocken, Erröten, Lacher an der falschen Stelle); moralische Sätze weniger programmatisch, mehr situativ; 1–2 humorvolle Entlastungen statt Lehrsatz.'
-    Note: 3
+    Einschaetzung: 'Intim und verspielt; Unsicherheiten (Stocken, Lacher) und kleine Entlastungswitze machen die Szene spürbar jugendlich.'
+    Kritik: 'Vereinzelte Formulierungen klingen noch wie spätere Rückschau.'
+    Fix: '1–2 erwachsene Wendungen glätten; Übergänge mit kurzer Geste/Atem schließen.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Darstellung grundsätzlich nachvollziehbar.'
-    Kritik: 'Manche Details zu glatt, zu kontrolliert. Für ein ''erstes Mal'' fehlt mehr Unsicherheit, Brüche, peinliche Momente.'
-    Fix: 'Zeit-/Ortsanker (nach dem Kino, spätnachts) einmal nennen; Altersdifferenz über Eddies bewusste Entscheidung plausibilisieren (ohne zu rechtfertigen); Sini-Kollegen-Episode mit kurzem Motiv/Risiko erden.'
+    Einschaetzung: 'Klarer Bogen: Kino‑Nachklang → Geständnis → Sinis Geschichten → Tipps; Altersdifferenz situativ geerdet.'
+    Kritik: 'Der Zeitpunkt einzelner Erinnerungen ist sehr glatt gesetzt.'
+    Fix: 'Einen Nebenzeitanker (spätnachts/Tee wird kalt) setzen; Eddies Motiv einmal knapp verankern (Eigenständigkeit/Neugier).'
     Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie offenbart sich, Gegenfigur bleibt eher blass.'
-    Kritik: 'Eddie wirkt stellenweise zu souverän. Emotionale Reibung oder Überraschung fehlt, Partner wirkt wie Statist.'
-    Fix: 'Eddies Körperreaktionen und kleine Verlegenheiten zeigen; Sini 2–3 aktive Impulse geben (Necken, Bekenntnis, kurzer Selbstzweifel beim Treppenhaus-Geständnis); Partner der Erinnerung mit 1–2 ambivalenten Details versehen.'
-    Note: 3
+    Einschaetzung: 'Eddie verletzlich mit Körperreaktionen; Sini aktiv (Necken, Bekenntnis, kurzer Selbstzweifel); der Partner ambivalent skizziert.'
+    Kritik: 'Eddies Souveränität blitzt stellenweise noch; Sinis Selbstzweifel könnte einen Atemzug länger stehen.'
+    Fix: 'Eine Mini‑Pause nach Sinis „Nicht meine Glanzstunde“ lassen; eine weitere Verlegenheitsgeste bei Eddie ergänzen.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Gefühlsbetont, anschaulich.'
-    Kritik: 'Zu glatte Formulierungen, fast literarisch. Wenig jugendliche Direktheit oder Humor. Füllwörter fehlen, dadurch wirkt es stilisiert.'
-    Fix: 'Längere Sätze brechen; Füll- und Umgangssprache sparsam einstreuen; Metaphern reduzieren, konkrete Sinneseindrücke (Hitze, Stoff, Geräusch) vorziehen; Pointen knapper setzen.'
+    Einschaetzung: 'Direkt, sinnlich, mit kleinen Pannen/Lachern; humorvoll statt lehrhaft.'
+    Kritik: 'Ein, zwei Pointen können noch knapper.'
+    Fix: 'Pointen straffen; programmatische Sätze weiter situativ erden.'
     Note: 2
   Fazit:
-    Staerken: 'Wichtiger Entwicklungsschritt, Eddie zeigt Verletzlichkeit und Offenheit.'
-    Schwaechen: 'Zu glatt und souverän erzählt, Gegenfigur blass, Unsicherheit fehlt.'
-    Fix: 'Mehr Unsicherheit und kleine Peinlichkeiten zeigen, Sprache jugendlicher und knapper machen, Sini aktiver und ambivalenter zeichnen, Altersdifferenz behutsam erden.'
-    Note: 3
+    Staerken: 'Glaubhafte Nähe und Reibung, wechselseitige Offenheit, situativer Humor, Ambivalenz beim Partner.'
+    Schwaechen: 'Vereinzelte erwachsene Wendungen; zwei Übergänge noch glatt.'
+    Fix: 'Kleine Glättungen in Ton und Übergängen; Mikropause und Geste ergänzen; Pointen knapper.'
+    Note: 2
   note:
     context: 'Die Szene ist bewusst so konstruiert, dass Eddie mit 16 ihr erstes Mal nüchtern und selbstbestimmt plant.'
     intention: 'Nicht Romantisierung eines Machtgefälles, sondern Darstellung ihrer Autonomie und berechnenden Art.'
@@ -56,16 +56,18 @@ alles fühlt sich an, als würde die Welt gerade nur aus uns beiden bestehen.
 Plötzlich schaut Sini mich an, ihre Augen glitzern verschwörerisch. „Sag mal,
 Eddie… hast du schon mal mit einem Jungen…?“
 
-Ich nicke, bestimmt, fast trotzig. „Ja.“
+Ich nicke, bestimmt, fast trotzig. „Ja.“ Meine Wangen werden heiß; ich lache an
+der falschen Stelle und beiße mir auf die Lippe.
 
 Sie verschluckt sich fast. „Ja?! Und du willst mir jetzt nicht einfach nur ja
 hinwerfen. Ich will Details, Mädchen!“
 
 Ich tue so, als wolle ich schweigen, schaue an die Decke, beiße mir auf die
-Lippe. Doch sie stupst mich immer wieder, bohrt, bis ich schließlich nachgebe.
-„Na gut. Es war an meinem sechzehnten Geburtstag. Ich hab beschlossen, dass es
-im nächsten Sommer passieren soll. Ich wollte’s nicht dem Zufall überlassen.
-Also hab ich mir den großen Bruder meiner besten Freundin ausgesucht.“
+Lippe. Meine Finger klammern sich an den Tassenhenkel. Doch sie stupst mich
+immer wieder, bohrt, bis ich schließlich nachgebe. „Na gut. Es war an meinem
+sechzehnten Geburtstag. Ich hab… beschlossen, dass es im nächsten Sommer
+passieren soll. Ich wollte’s nicht dem Zufall überlassen. Also hab ich mir den
+großen Bruder meiner besten Freundin ausgesucht.“
 
 Sini springt halb vom Sofa. „Ausgesucht?! Wie ausgesucht?“
 
@@ -73,35 +75,40 @@ Sini springt halb vom Sofa. „Ausgesucht?! Wie ausgesucht?“
 
 „Oh mein Gott, Eddie! Wie alt war der?“
 
-„Fünfundzwanzig“, sage ich ruhig.
+„Fünfundzwanzig“, sage ich ruhig und schlucke.
 
 Sie starrt mich an, dann läuft sie durchs Zimmer wie ein aufgezogener Flummi.
 „Fünfundzwanzig?! Das ist ja… krass. Aber auch… irgendwie heiß.“
 
 „Er wusste jedenfalls, was er tut.“
 
-„Und? Wie war’s?“
+Sini tippt mir gegen die Stirn. „Streberin. Planerin. Ich mag das an dir. Und?
+Wie war’s?“
 
-Ich atme tief ein. „Na ja, das erste Mal tat weh. Aber ab dem zweiten Mal hat’s
-Spaß gemacht.“
+Ich atme tief ein. „Na ja… das erste Mal tat weh.“ Ich lache zu kurz, zu laut.
+„Aber ab dem zweiten Mal hat’s Spaß gemacht.“
 
 Sini quietscht, springt auf dem Sofa herum. „Du bist unglaublich, Eddie! Einfach
 entschieden, zack gemacht!“
 
-„Tja.“ Ich grinse.
+„Tja.“ Ich grinse. Sini kneift ein Auge zu. „Ein bisschen eifersüchtig macht
+mich das trotzdem“, murmelt sie und stößt mich mit der Schulter an. „Nur ein
+bisschen. - Und war Liebe im Spiel?“
 
-„Und war Liebe im Spiel?“
-
-Ich zucke mit den Schultern. „Wir mochten uns. Aber nach den Ferien haben wir
-uns nicht mehr getroffen.“
+Ich zucke mit den Schultern. „Wir mochten uns. Aber nach den Ferien…“ Ich stocke
+kurz. „…haben wir uns nicht mehr getroffen.“
 
 Sini kneift die Augen zusammen. „Und wie war er so?“
 
 Also erzähle ich. Von seinem schelmischen Lächeln, seiner Ruhe, seiner Geduld.
-Von dem Gefühl, dass er mir Raum ließ, obwohl ich nervös war. Und doch, wenn ich
-heute daran denke, wundere ich mich: Er war neun Jahre älter als ich. Aber nie
-hatte ich das Gefühl, er hätte mehr Macht. Im Gegenteil – ich hatte entschieden,
-ich hatte gefragt, ich hatte ihn ausgewählt. Es war mein Plan, nicht seiner.
+Wie er sich ständig die Haare aus der Stirn strich, wenn er nervös war. Von dem
+Gefühl, dass er mir Raum ließ, obwohl ich nervös war. Und doch, wenn ich heute
+daran denke, wundere ich mich: Er war neun Jahre älter als ich. Aber nie hatte
+ich das Gefühl, er hätte mehr Macht. Im Gegenteil – ich hatte entschieden, ich
+hatte gefragt, ich hatte ihn ausgewählt. Es war mein Plan, nicht seiner.
+Ambivalent blieb nur eins: Er bat mich danach, dass es „unter uns“ bleibt –
+nicht aus Scham um mich, sagte er, sondern „wegen der anderen“. Ich weiß bis
+heute nicht, ob ich ihm das glaube.
 
 Sini hängt an meinen Lippen, ihre Augen funkeln. Immer wieder bricht sie in
 Gelächter aus, springt hoch, wirft sich wieder hin. Und ich lache mit, bis uns
@@ -157,7 +164,7 @@ Sie lacht, zuckt mit den Schultern. „Ich hab ausprobiert. Viel.“
 
 „Und dein erstes Mal?“, frage ich vorsichtig.
 
-Sie wird ernst, aber lächelt. „Doof. Ich war siebzehn, total verliebt. Dachte,
+Sie wird ernst, aber lächelt. „Doof. Ich war siebzehn, total verknallt. Dachte,
 er wär die große Liebe. Für ihn war’s wohl nicht so ernst. Tat weh – im Herzen
 mehr als sonst. Danach hab ich beschlossen: Nie wieder so. Ich nehm mir, was ich
 will.“
@@ -184,19 +191,21 @@ können. Wild, schnell, Herzrasen.“
 
 „Boah“, entwischt es mir. „Wie kommt man überhaupt auf so ’ne Idee?“
 
-Sie grinst. „Der Moment war einfach da.“
+Sie grinst. „Der Moment war einfach da“, sagt sie und zuckt fast entschuldigend
+die Schultern.
 
 Ich zögere, dann rutscht es raus: „Hattest du… kein schlechtes Gewissen? Wegen
 seiner Frau?“
 
-Sini blinzelt, als hätte sie die Frage gar nicht erwartet. „Schlechtes Gewissen?
-Wieso? Das war sein Ding, nicht meins. Ich war frei. Er war derjenige, der
-verheiratet war.“
+Sini blinzelt, als hätte sie die Frage gar nicht erwartet. „Schlechtes
+Gewissen?“ Sie sucht kurz nach Worten. „Wieso… ich hab mir gesagt: Das ist seine
+Ehe, nicht meine. Ich war frei. Er war derjenige, der verheiratet war.“
 
 „Aber… du wusstest es doch?“, hake ich nach.
 
-„Klar. Aber ich bin nicht seine Ehefrau, Eddie. Nicht meine Verantwortung. Wenn
-einer lügt oder betrügt, dann er. Ich hab mir nichts vorzuwerfen.“
+„Klar. Aber ich bin nicht seine Ehefrau, Eddie. Es war damals nicht meine
+Baustelle. Wenn einer lügt oder betrügt, dann er.“ Sie macht eine kleine
+Wegwerfbewegung. „Ich hab mir damals nichts vorgeworfen.“
 
 Ich starre sie an, überrascht von der Selbstverständlichkeit in ihrer Stimme.
 „Du meinst echt, du musst da gar nichts bedenken?“
@@ -225,10 +234,11 @@ wegzuhören.
 
 Wir werfen uns Kissen ins Gesicht, lachen Tränen.
 
-Sini wird wieder ernst. „Also, Tipps: Nie was machen, nur weil er’s will. Alles
-muss Spaß machen. Langsam! Männer flippen aus, wenn du’s langsam machst. Hände –
-nie vergessen. Und wenn mal was schiefgeht… nicht verkrampfen. Lachen hilft.
-Humor macht alles besser.“
+Sini wird wieder ernst und stemmt die Hände in die Hüften. „Also, Tipps: Nie was
+machen, nur weil er’s will. Alles muss Spaß machen. Langsam! Männer flippen aus,
+wenn du’s langsam machst – als hätten sie einen Timer im Kopf.“ Sie kichert.
+„Hände – nie vergessen. Und wenn mal was schiefgeht… nicht verkrampfen. Decke
+drüber, durchatmen, lachen. Humor macht alles besser.“
 
 Ich grinse. Sie klingt wie ein unanständiger Mathelehrer. „Du bist echt wie ’ne
 große Schwester, nur unanständiger.“

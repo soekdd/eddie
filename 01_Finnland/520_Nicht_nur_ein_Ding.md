@@ -42,7 +42,7 @@ proofreading:
     Note: 3
 ---
 
-# Der Konflikt
+# Nicht nur ein Ding
 
 Die Kneipe ist klein, kaum größer als ein Wohnzimmer, und trotzdem drängt sich
 halb Vaasa hinein. Die Wände sind mit dunklem Holz vertäfelt, das in den Ecken
@@ -126,16 +126,18 @@ Sie verschwindet in der Küche, kommt mit zwei Weingläsern zurück.
 „Ein Schluck.“ Sie drückt mir das Glas in die Hand, setzt sich dicht neben mich
 auf das Sofa. So dicht, dass unsere Oberschenkel sich berühren.
 
-Ich nehme das Glas, stelle es auf den Tisch. „Sini, ich bin müde.“
+Ich nehme das Glas, stelle es zu hart auf den Tisch, Wein schwappt über den Rand. „Sini, ich bin müde.“
 
-Ich lehne mich leicht weg, aber sie legt den Arm um mich, zieht mich mit einer
-plötzlichen, fast ungeschickten Bewegung näher. Ihre Hand rutscht tiefer, zu
-tief, in meine Hose, in meinen Slip.
+Ich lehne mich leicht weg, aber sie legt den Arm um mich, drückt mich mit einer
+plötzlichen, ungeschickten aber kraftvollen Bewegung fester in die Lehne. Ihre Hand rutscht tiefer, zu
+tief, in meine Hose, in meinen Slip. „Nein“, sage ich. Sie beugt sich noch näher, ihr Knie
+blockiert mein Bein; ich komme nicht vorbei.
 
-„Sini!“ Ich springe auf. Meine Stimme ist hart. „Sag mal, spinnst du?“
+„Nein. Hör auf. Sofort.“ Ich reiße mich los und springe auf. Meine Hände sind
+kalt, meine Kehle trocken.
 
-Sie zieht die Hand zurück, schaut mich an, erst verwirrt, dann wie ertappt. „War
-nicht so gemeint.“
+Sie hebt beide Hände, macht einen halben Schritt zurück, schaut mich an – erst
+verwirrt, dann wie ertappt. „War nicht so gemeint.“
 
 „War trotzdem so.“ Mein Blick sucht instinktiv einen Ort, an den ich gehen
 könnte. Aber da ist nichts. Kein Zimmer, keine Tür, hinter die ich mich
@@ -191,7 +193,8 @@ dieser Hilflosigkeit, die sich wie ein Knoten in mir festgesetzt hat.
 Sie setzt sich mir gegenüber, stützt die Ellenbogen auf den Tisch, den Kopf in
 den Händen. „Ich weiß. Ich war betrunken. Das ist keine Entschuldigung, aber…
 ich habe mich wie eine Idiotin benommen. Ich habe dich—“ Sie bricht ab,
-schluckt. „Ich habe dich wie… wie ein Ding behandelt.“
+schluckt. „Ich habe dein Nein überfahren. Und ich habe dich wie… wie ein Ding
+behandelt. Das war falsch. Es tut mir leid.“
 
 Ich hebe den Blick, treffe ihre Augen. „Genau. Ein Ding. Und weißt du, was das
 Schlimmste ist? Ich bin hier komplett auf dich angewiesen. Ich kann nirgendwo

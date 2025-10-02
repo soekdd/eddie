@@ -12,44 +12,45 @@ tense: 'past, Eddies first-person perspective'
 mode: 'flashback'
 proofreading:
   Ton:
-    Einschaetzung: 'Frech, jugendlich, Eddie experimentiert mit Gedanken und wendet Mathe spielerisch an.'
-    Kritik: 'Ton schwankt: teils gelungen jugendlich, teils zu schulbuchhaft erklärt. Gefahr, dass es zu didaktisch klingt.'
-    Fix: '2–3 kurze, freche Gedankenfetzen/Asides einstreuen; einen nüchternen Erklärblock in Bild/Szene auflösen; 1 Mini‑Kontrastmoment (Angst vs. Rechnen).'
-    Note: 3
-  Logik:
-    Einschaetzung: 'Spieltheorie als Motiv plausibel und originell.'
-    Kritik: 'Manche Herleitungen wirken zu glatt und zu perfekt. Eddie könnte mehr stolpern oder Halbwissen zeigen.'
-    Fix: 'Ein Rechenschritt als „unsauber, reicht mir“ markieren; 1 Unsicherheitsannahme benennen (Busstandzeit, Frequenz) statt behaupten.'
+    Einschaetzung: 'Frech, jugendlich, mit klaren Asides; Angst und Rechnen halten sich die Waage.'
+    Kritik: 'Vereinzelt noch erklärender Ton bei Umgebungsskizze (Haltestelle).'
+    Fix: 'Eine erklärende Formulierung szenischer fassen (z. B. Haltestelle), übrige Hämmer beibehalten.'
     Note: 2
+  Logik:
+    Einschaetzung: 'Näherungen transparent; Alternativroute (Norden/Jyväskylä) erwogen und begründet verworfen.'
+    Kritik: '3‑Minuten‑Annahme bleibt als Hypothese unmarkiert, könnte kurz verortet werden.'
+    Fix: 'Halbsatz ergänzen, ob die 3‑Minuten‑Standzeit Beobachtung oder Annahme ist.'
+    Note: 1
   Charaktere:
-    Einschaetzung: 'Eddie als Mathegenie ist klar erkennbar, zeigt Kreativität.'
-    Kritik: 'Ihre jugendliche Verletzlichkeit tritt zurück, sie wirkt sehr souverän. Nebenfiguren fehlen.'
-    Fix: '1 kurzer Körpermarker (wippendes Bein, trockener Mund); 1 Satz zu Papa‑Stimme als Trigger verstärken; Nebenfigur nur andeuten (Herr Fischer/Schüler) für Resonanz.'
-    Note: 3
+    Einschaetzung: 'Eddie verletzlich‑trotzig mit Körpermarkern; Papa‑Stimme als klarer Trigger, Klassenraum mit Mini‑Resonanz.'
+    Kritik: 'Nebenfiguren bleiben Staffage; ein leises Mitbewohnerinnen‑Detail wäre möglich.'
+    Fix: 'Optional Atem-/Drehdetail der Mitbewohnerinnen ergänzen; Mielke bleibt hier bewusst offstage.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Anschaulich, witzige Vergleiche.'
-    Kritik: 'Absätze mit Formeln wirken zu trocken, es gibt zu wenig innere Kommentare. Füllwörter und Spontaneität fehlen – Sprache fast zu glatt.'
-    Fix: 'Formelabsatz in 2 Sätze splitten und mit Bild verknüpfen; 1–2 überlange Sätze kürzen; Interjektion sparsam, aber zielgenau nutzen.'
-    Note: 3
+    Einschaetzung: 'Rhythmisch und bildhaft; Interjektionen stützen die Innensicht; das Formelbild („Tortenstücke“) erdet die Rechnung.'
+    Kritik: 'Anglizismus ("easy") und minimale Umgangsschriftsignale ("wie’n"); sonst stimmig.'
+    Fix: 'Optional Anglizismen deutsch fassen (z. B. „Joker‑Trick“, „locker“); Apostroph/Umgangsform einheitlich prüfen; kurze Hämmer beibehalten.'
+    Note: 2
   Fazit:
-    Staerken: 'Originelle Mathe-Einbindung, Eddie zeigt Genialität und Witz.'
-    Schwaechen: 'Didaktisch, zu souverän, jugendliche Direktheit fehlt.'
-    Fix: 'Innere Einwürfe/Unsicherheiten ergänzen, 1–2 Sätze straffen/aufbrechen, einen Rechenschritt als Näherung kennzeichnen.'
-    Note: 3
+    Staerken: 'Transparente Herleitung, stimmige Innensicht, jugendliche Direktheit, szenische Bilder für die Mathematik.'
+    Schwaechen: 'Leichte Erklärungsspur an einer Stelle, minimale Stilfrage bei Anglizismen, Nebenfiguren statisch.'
+    Fix: 'Eine erklärende Zeile szenisch fassen, optional Anglizismus glätten, optional Mitbewohnerinnen‑Marker ergänzen.'
+    Note: 2
 ---
 
 # Spieltheorie
 
 Ich sitze auf der Bettkante, starre ins Halbdunkel und sehe mich schon wieder in
 diesen verfluchten Bus nach Helsinki hüpfen. Rein, Sitzplatz am Fenster, fertig.
-In sechzehn Stunden wäre ich frei. Klingt wie ein Cheatcode. Und dann höre ich
-Papas Stimme: „Hüte dich vor den einfachen Lösungen.“ Ja, ja. Nervig. Und
-richtig.
+Schon in sechzehn Stunden wäre ich frei. Als wäre nichts leichter als das. Und
+dann höre ich Papas Stimme: „Hüte dich vor den einfachen Lösungen.“ Ja, ja.
+Nervig. Und richtig.
 
 Also rechne ich. Kein Zettel, kein Stift. Alles im Kopf. Ursprünglich war die
-Rechnung bequem: 60 Prozent, das wird schon. Doch jetzt schrumpft die Zahl. Noch
-mal Zahlen drehen, noch mal Worst Case denken – plötzlich bleiben kümmerliche
-zehn Prozent übrig. Uff. Mathe rettet mich und zerstört mich gleichzeitig.
+Erfolgsquote bequem: 60 Prozent, das wird schon. Doch jetzt schrumpft die Zahl.
+Noch mal Zahlen drehen, noch mal Worst Case denken – plötzlich bleiben
+kümmerliche zehn Prozent übrig. Uff. Mathe rettet mich und zerstört mich
+gleichzeitig.
 
 Mein Kopf zeigt mir Busbahnhöfe mit Gewusel wie in Berlin oder Dresden: Leute
 überall, man kann easy irgendwo verschwinden. Aber hier in Finnland? Alles flach
@@ -71,15 +72,15 @@ Fahrplan, keine Deckung, nur Zufall. Also Näherung: Der Bus kommt also
 stündlich, steht – sagen wir – fünf Minuten. Unsauber? Ja. Reicht mir.
 Trefferchance grob genähert 5/60 ≈ 0,08.
 
-8%, da brauche ich gar nicht weiterrechnen. Oder ich nehme, wenn überhaupt mal
-einer kommt, einfach den Bus in die andere Richtung. Hauptsache weg. Nach
-Norden, Richtung Jyväskylä. Immerhin zwei winzige Zeitfenster im Stundenkreis.
-Also bleiben rund 16 Prozent: dass ich zufällig genau dann auftauche, wenn ein
-Bus dasteht. Und als Bonus auf den Reststapel Katastrophen: Pi mal Daumen 80
-Prozent Chance, dass der Fahrer meine paar D‑Mark schluckt. Und noch mal 80
-Prozent, dass Mielke nicht am nächsten Halt einsteigt, mich packt und „zurück
-nach Hause“ bellt. Multipliziert bleiben knapp unter zehn Prozent Siegquote
-übrig. Zehn! Für ein Leben.
+8 Prozenz, da brauche ich gar nicht weiterrechnen. Oder ich nehme, wenn
+überhaupt mal einer kommt, einfach den Bus in die andere Richtung. Hauptsache
+weg. Nach Norden, Richtung Jyväskylä. Immerhin sind es jetzt zwei winzige
+Zeitfenster im Stundenkreis. Also bleiben rund 16 Prozent, dass ich zufällig
+genau dann auftauche, wenn ein Bus dasteht. Und als Bonus auf den Reststapel der
+Katastrophen: 80 Prozent Chance, dass der Fahrer meine paar D‑Mark schluckt. Und
+noch mal 80 Prozent, dass Mielke nicht am nächsten Halt einsteigt, mich packt
+und „zurück nach Hause“ bellt. Multipliziert bleiben Pi mal Daumen etwa zehn
+Prozent Siegquote übrig. Zehn! Für ein Leben.
 
 Außerdem würde ein Bus nach Norden bedeuten, ich müsste nochmal umsteigen – neue
 Zeiten, neue Risiken. Die Quote klettert dadurch nicht, sie fällt.
@@ -90,8 +91,9 @@ Zeiten, neue Risiken. Die Quote klettert dadurch nicht, sie fällt.
 Ich schreibe die Brüche in Gedanken an die Decke, schiebe Pfeile im Kopf hin und
 her, streiche sie wieder. Es wird nicht besser.
 
-Und falls der Bus nur drei Minuten hält? Dann rutscht die Chance auf rund zehn
-Prozent. Da kann ich gleich Lotto spielen.
+Und falls der Bus nur drei Minuten hält? Kann sein, wenn nur wenige Menschen
+umsteigen. Dann rutscht die Chance auf rund zehn Prozent. Da kann ich gleich
+Lotto spielen.
 
 Ach ja, ich habe inzwischen finnische Markka. Währungsproblem gestrichen. Aber
 ehrlich: Die Variante bleibt trotzdem ein Totalausfall.

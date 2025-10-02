@@ -8,44 +8,45 @@ persons:
   - 'Herr Fischer'
   - 'das DDR Team'
   - 'viele andere Kinder und Betreuer'
-synopsis: 'Im Bus nach Joutsa kritzelt Herr Fischer in Eddies Block, bemerkt ihre versteckten Dokumente – und schützt sie still, ohne sie zu verraten.'
+synopsis: 'Im Bus nach Joutsa kritzelt Herr Fischer in meinen Block, stolpert über die versteckten Papiere – und deckt mich wortlos. Vor der Schule weicht er meinem Blick aus; Mielke lauert schon.'
 mood: 'tense relief'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_Joutsa_Fluchtblock.png'
 proofreading:
+  Kapitel: '060_Der_Matheblock'
   Ton:
-    Einschaetzung: 'Sachlich, analytisch, Eddie denkt in mathematischen Strukturen.'
-    Kritik: 'Ton rutscht stark ins Dozierende. Eddie klingt wie eine Lehrerin, nicht wie eine 17-Jährige, die sich Mut macht. Die jugendliche Stimme geht verloren.'
-    Fix: '2–3 jugendliche Einwürfe/Asides einstreuen; an einer Stelle den Erklärfluss mit einem körperlichen Stressmarker brechen (Herzschlag/Schweiß); 1 Satz nach „Diophantisch“ als peinlicher Ausrutscher markieren.'
-    Note: 3
+    Einschaetzung: 'Spannend-nah; jugendliche Asides und Stressmarker tragen die Szene.'
+    Kritik: 'Die Aufgaben-Einführung klingt noch minimal erklärend.'
+    Fix: 'Eine erklärende Zeile szenischer fassen; Asides sparsam beibehalten.'
+    Note: 2
   Logik:
-    Einschaetzung: 'Gedankengänge nachvollziehbar, Mathe als Halt plausibel.'
-    Kritik: 'Die Ausführungen wirken zu glatt und fehlerfrei. Für Authentizität fehlen kleine Irrtümer, Zweifel oder chaotische Assoziationen.'
-    Fix: 'Einen Rechenschritt als Näherung kennzeichnen („reicht mir“); 1 kurzer Zweifel („hab ich das richtig?“); Bus‑Kontext als Störgröße notieren (Geruckel/Laute).'
+    Einschaetzung: 'Schlüssige Folge: Bus → Kritzeln → Entdeckung → Schutzgeste → Ankunft.'
+    Kritik: 'Fischers Motiv bleibt unausgesprochen; der Poker-Verweis am Schluss steht kurz alleine.'
+    Fix: 'Einen leisen Andeutungsanker zu Fischers Haltung setzen; Schluss mit einem Halbsatz an Eddies Plan koppeln.'
     Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie als Mathegenie tritt klar hervor.'
-    Kritik: 'Ihre Persönlichkeit tritt zurück hinter dem Fachtext. Menschliche Regungen (Frust, Stolz, Humor) fehlen weitgehend.'
-    Fix: 'Kurz Stolz/Scham nach dem „Klugscheißer“-Moment zeigen; 1 menschliche Geste von Fischer ergänzen (z. B. Blick abwenden, Atem).'
-    Note: 3
+    Einschaetzung: 'Eddie nervös‑trotzig, Fischer kontrolliert und human; Mielke bedrohlich im Hintergrund.'
+    Kritik: 'Eddies Scham-/Stolzmoment nach dem Ausrutscher könnte einen Atemzug länger nachklingen.'
+    Fix: 'Nach „Diophantisch“ eine Mikro‑Reaktion der Gruppe/Eddie stehen lassen.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Klar, strukturiert, fachlich präzise.'
-    Kritik: 'Zu trocken und zu schulisch. Kaum jugendliche Einwürfe oder rotzig-freche Kommentare, die Eddie sonst lebendig machen.'
-    Fix: '1–2 Sätze straffen/aufbrechen; 1 rotziger Kommentar dosiert einsetzen; Fachwortblock mit einem Bild kontern.'
-    Note: 3
+    Einschaetzung: 'Rhythmisch, mit rotzigem Kommentar und konkreten Sinneseindrücken (Ruckeln, Kratzen, Herz).'
+    Kritik: 'Einzelne Redundanzen/Füllwörter lassen sich minimal straffen.'
+    Fix: '1–2 Formulierungen kürzen; Bild „Zauberspruch“ einmalig belassen.'
+    Note: 2
   Fazit:
-    Staerken: 'Zeigt Eddies besonderes Talent, verdeutlicht ihren Halt in Mathe.'
-    Schwaechen: 'Zu lehrbuchhaft, jugendliche Stimme fehlt, menschliche Seite von Eddie wird unsichtbar.'
-    Fix: 'Innere Kommentare und spontane Gedanken einfügen, kleine Patzer oder Selbstzweifel zulassen, Mathepassagen straffen und mit Eddie-Humor färben.'
-    Note: 3
+    Staerken: 'Dichte Spannung im Bus, glaubwürdige Schutzgeste, klare Innenperspektive.'
+    Schwaechen: 'Leichte Erklärspur, kurzer Schlussbogen zu Mielke.'
+    Fix: 'Kleine Straffung und ein Anker zu Fischers Motiv/Edies Plan; Ton beibehalten.'
+    Note: 2
 ---
 
 # Der Matheblock
 
 Schon steht da dieser schicke Volvo-Bus vorm Tor von Joutsenlampi. Bis Joutsa
-sind's nur fünfzehn Minuten. Und klar, wir – die ostdeutsche Vorzeigetruppe –
+sind's nur fünfzehn Minuten. Und na klar: wir – die ostdeutsche Vorzeigetruppe –
 sind natürlich wieder viel zu früh da. Der Fahrer klappt freundlich die Türen
 auf, als wär er unser Chauffeur.
 
@@ -53,26 +54,29 @@ auf, als wär er unser Chauffeur.
 Fischer wieder dabei. Unser Mathebetreuer. Der hat uns schon in Berlin gequält.
 Die letzten Tage hing er mit den anderen Betreuern rum und hat an den Aufgaben
 für den Wettkampf rumgeschraubt. Total korrekt, der Mann, Politik juckt ihn
-null. In seinem Kopf existiert nur Mathe.
+null. In seinem Kopf existiert nur Mathe. Muss schön sein, so.
 
 Natürlich darf er uns nicht verraten, was drankommt. Aber einer aus unserer
 Gruppe tuschelt: Er hätte gehört, heute gäb's 'ne Aufgabe zu unterbestimmten
 Gleichungssystemen. Diese Bauern-mit-Kühen-und-Schweinen-Dinger. Also noch mal
 langsam: Ein Bauer hat X Mark, eine Kuh kostet A Mark, ein Schwein kostet B
 Mark. Nenne alle Kombinationen aus Kühen und Schweinen, die der Bauer kaufen
-kann, sodass sein Geld genau aufgeht. Typische Aufgabe in der Mathe-Oly.
+kann, sodass sein Geld genau aufgeht. Typische Aufgabe in der Mathe-Oly. Joa,
+kennen wir. Gähn.
 
 Ich rolle innerlich die Augen. Glaub ich nie. Viel zu easy. Das ist Stoff für
-die Kleinen. Lösungsmethode heißt „lineare diophantische Gleichung“. Klar. Aber
-eigentlich ist mir das alles gerade völlig Banane – ich kann eh nicht klar
-denken. Bin nervös bis in die Zehenspitzen.
+die Kleinen. Lösungsmethode heißt „lineare diophantische Gleichung“. Klingt wie
+ein Zauberspruch; ist nur Ganzzahlen puzzeln, bis der Geldbeutel auf Null ist.
+Klar. Aber eigentlich ist mir das alles gerade völlig Banane – ich kann eh nicht
+klar denken. Bin nervös bis in die Zehenspitzen.
 
 „Ihr wisst, ich darf euch ohnehin nicht sagen, was wirklich drankommt“, erklärt
-Fischer. „Aber jeder weiß, wie man so was löst?“
+Fischer, während der Bus über eine Bodenwelle hoppst und die Sitze kurz
+vibrieren. „Aber jeder weiß, wie man so was löst?“
 
 „Ist doch billig“, platzt es aus mir raus. „Diophantische Gleichung!“ Uff. Kam
-richtig eingebildet rüber. Ich höre mich selber wie von draußen reden und denk:
-Mädchen, halt die Klappe! Die anderen gucken irritiert.
+richtig eingebildet rüber. Peinlich. Ich höre mich selber wie von draußen reden
+und denk: Mädchen, halt die Klappe! Die anderen gucken irritiert.
 
 „Richtig, Eddie. Aber wissen es auch die anderen?“ Ein paar stöhnen. Und dann –
 Horror – greift er einfach in meine Tasche. Zieht meinen Block raus. Meinen
@@ -80,7 +84,8 @@ Block! Den, in dem ich alles versteckt habe. Urkunden, Zeugnisse, mein ganzes
 Leben! Mir bleibt das Herz stehen.
 
 Er checkt nix, klappt den Block einfach auf und fängt an, eifrig drauflos zu
-kritzeln.
+kritzeln; die Spitze kratzt, der Bus ruckelt, mir hämmert das Herz bis in die
+Ohren.
 
 > **➡ Die diophantische Gleichung #1**\
 > (Fischers Gekritzel packe ich ins Kapitel 3 vom Band „Eddie rechnet“.)
@@ -100,10 +105,11 @@ der Rückseite auf. Seine Augen werden groß. Er wird blass. Niemand außer mir
 sieht das.
 
 Dann, ganz ruhig, deckt er die Ecke ab, klappt den Block zu. Reicht ihn mir
-zurück, so beiläufig, als wär nix. Schaut demonstrativ zum Fenster raus. Und
-sagt nach einer Weile, immer noch nach draußen: „Die diophantische Gleichung,
-Eddie, ist oft viel schwerer umzusetzen, als man denkt. Überschätz dich nicht.“
-Dann steht er auf, schwankt nach vorne zu den anderen Betreuern.
+zurück, so beiläufig, als wär nix. Schaut demonstrativ zum Fenster raus und
+atmet langsam aus. Nach einer Weile, sein Blick immer noch nach draußen: „Die
+diophantische Gleichung, Eddie, ist oft viel schwerer umzusetzen, als man denkt.
+Überschätz dich nicht.“ Dann steht er auf, schwankt nach vorne zu den anderen
+Betreuern.
 
 Ich sitze da, Herz bis zum Hals. Verrät er mich? Wenn ja, bin ich geliefert.
 Mielke glaubt mir nie, dass ich so wichtige Unterlagen im Block aus Spaß
