@@ -5,49 +5,46 @@ daytime: 'night'
 place: 'Joutsenlampi'
 persons:
   - 'Eddie'
-synopsis: 'In der hellen Mittsommernacht wälzt sich Eddie schlaflos, die Hitze und Mielkes Blick im Nacken, zwischen Trotz und Angst vor dem morgigen Wettkampf und dem endgültigen Abschied von Edmilla.'
+synopsis: 'In der hellen Mittsommernacht liege ich schlaflos; Hitze und Mielkes Blick sitzen mir im Nacken. Zwischen Trotz vor dem morgigen Wettkampf und der Angst vor dem endgültigen Abschied von Edmilla ringe ich um Schlaf.'
 mood: 'restless, tense, oppressive twilight'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_Joutsa_Bungalow.png'
 proofreading:
+  Kapitel: '010_Schlaflos'
   Ton:
-    Einschaetzung: 'Introspektiv, nervös, Eddie wirkt aufgewühlt und gedanklich sprunghaft.'
-    Kritik: 'Ton schwankt zwischen jugendlicher Direktheit und sehr literarischen Formulierungen. Gefahr, dass Authentizität leidet.'
+    Einschaetzung: 'Intensiv, nah dran; jugendliche Direktheit trägt die Unruhe.'
+    Kritik: 'Vereinzelt wirken pointierte Sätze etwas gesetzt.'
     Fix:
-      - 'Jugendliche Direktheit konsequent priorisieren, überhöhte Bilder sparsam dosieren.'
-      - 'Kurze, abgehackte Sätze an Peak-Stellen setzen, um Unruhe zu tragen.'
-      - 'Gezielt wenige Füllwörter/Stocker zulassen, damit die Stimme weniger glatt wirkt.'
-    Note: 3
-  Logik:
-    Einschaetzung: 'Schlaflosigkeit als Einstieg plausibel, baut Spannung auf.'
-    Kritik: 'Gedankenfluss manchmal zu komplex und reflektiert für eine 17-Jährige in dieser Situation. Könnte spontaner und ungeordneter wirken.'
-    Fix:
-      - 'Mielke-Flashback mit einem klaren Einsatz markieren (1 kurzer Übergang).'
-      - 'Zeitgefühl punktuell erden (»jetzt«, »gleich«, »morgen«), um den Drift zu strukturieren.'
-      - 'Ein, zwei Gedankensprünge roh stehen lassen statt zu erklären.'
+      - 'Ein, zwei hochliterarische Wendungen glätten oder streichen.'
+      - 'Pausen-/Hämmer konsistent halten, Dopplungen vermeiden.'
     Note: 2
+  Logik:
+    Einschaetzung: 'Schlüssiger Strom: Wachliegen → Mittsommerlicht → Mielke-Flashback → Zurück ins Jetzt.'
+    Kritik: 'Kaum Auffälligkeiten; Zeitgefühl ist klar.'
+    Fix:
+      - 'Einen Mini-Anker zum "morgen" beim Wettkampf beibehalten.'
+    Note: 1
   Charaktere:
-    Einschaetzung: 'Eddie klar im Fokus, verletzlich und wach.'
-    Kritik: 'Ihre Unsicherheit ist spürbar, aber auch hier klingt sie stellenweise zu erwachsen. Nebenfiguren treten nicht auf.'
+    Einschaetzung: 'Eddie verletzlich-trotzig; Mielke bedrohlich mit klaren Sinnesmarkern.'
+    Kritik: 'Nebenfiguren bleiben Kulisse; Mielkes Machtgestus könnte einmal knapper sein.'
     Fix:
-      - 'Zwei spontane Selbstkorrekturen/Abbrüche einbauen, um Unsicherheit zu zeigen.'
-      - 'Mielke im Rückblick mit einem zusätzlichen sensorischen Detail verankern (Stimme, Geruch) statt Bewertung.'
-      - 'Optional: leises Detail der Zimmergenossinnen als Kontrast (Drehen, Seufzer).'
-    Note: 3
+      - 'Eine Nebenreaktion der Zimmergenossinnen als leiser Kontrast optional belassen.'
+      - 'Ein überflüssiges Körperdetail bei Mielke prüfen und ggf. straffen.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Bildhaft, rhythmisch.'
-    Kritik: 'Teilweise überinszeniert, zu viele Metaphern. Füllwörter fehlen fast komplett – dadurch wirkt es zu glatt und wenig jugendlich.'
+    Einschaetzung: 'Rhythmisch, konkret, sensorisch; kurze Hämmer wirken.'
+    Kritik: 'Vereinzelte Wertwörter und kleine Wiederholungen (Schlaf/Dämmerlicht).'
     Fix:
-      - '3–5 überinszenierte Metaphern streichen oder durch konkrete Sinneseindrücke ersetzen.'
-      - 'Satzrhythmus variieren: kurze Hämmer zwischen längere Bilder stellen.'
-      - 'Sparsam natürliche Pausenwörter einstreuen (z. B. »halt«, »irgendwie«).'
-    Note: 3
+      - '1–2 Wertwörter durch Wahrnehmung ersetzen.'
+      - 'Kleine Wiederholungen prüfen und variieren.'
+    Note: 2
   Fazit:
-    Staerken: 'Starker Einstieg, vermittelt Unruhe und Erwartung, Leser ist sofort bei Eddie.'
-    Schwaechen: 'Zu literarisch und reflektiert, jugendliche Direktheit fehlt an einigen Stellen.'
-    Fix: 'Gedankenstrom sprunghafter machen, mehr jugendliche Spracheelemente einbauen, Metaphern reduzieren.'
+    Staerken: 'Unmittelbare Stimme, starke Atmosphäre, klare Sinneseindrücke, glaubwürdiger Flashback.'
+    Schwaechen: 'Einzelne gesetzte Formulierungen, minimale Wortwiederholungen.'
+    Fix: 'Mikro-Glättung bei Wortwahl; Wiederholungen variieren; Rhythmus beibehalten.'
+    Note: 2
 
 ---
 
@@ -56,63 +53,81 @@ proofreading:
 Edmilla wird sterben.
 
 Morgen, nach dem Wettkampf. Punkt. Kein Drumrum. Ich hab's so geplant. Entweder
-sie wird geschnappt oder sie schafft es in die Freiheit. So oder so, ich werde
-sie endlich abstreifen wie 'ne alte Haut. Und das ist meine einzige Gewissheit,
-die ich heute habe: Edmilla wird morgen Mittag für immer verschwunden sein.
+sie wird geschnappt oder sie schafft es in die Freiheit. So oder so, ich streife
+sie ab wie 'ne alte Haut. Das ist die einzige Gewissheit heute: Edmilla ist
+morgen Mittag weg. Für immer.
 
-Die Luft steht wie Beton. Warm, schwer, klebt an mir, als hätte die Hitze des
-Tages ihre Zähne in die Holzwände vom Bungalow geschlagen und weigert sich
-loszulassen. Ich liege auf'm Bett, die Decke längst weggestrampelt, T-Shirt
-nassgeschwitzt. Neben mir atmen die Mädels gleichmäßig, ein Seufzer hier, ein
-Rascheln da. Als wäre Schlafen das Einfachste der Welt.
+Die Luft steht. Warm. Schwer. Sie klebt an mir. Die Hitze hängt im Holz, der
+Bungalow riecht nach Harz und feuchten Brettern. Ich liege auf'm Bett, die Decke
+längst weggestrampelt, T-Shirt nass. Neben mir atmen die Mädels gleichmäßig, ein
+Seufzer hier, ein Rascheln da. Als wäre Einpennen halt das Einfachste der Welt.
+Glück für sie.
 
 Bei mir? Fehlanzeige. Ich dreh' mich von links nach rechts, wieder zurück.
-Kissen zu heiß, Laken nervt, Kopf noch schlimmer. Immer wieder die Augen auf,
-ins Halbdunkel starren, das kein richtiges Dunkel ist. Durch die ollen Gardinen
-sickert dieses irre Licht der Mittsommernacht. Keine Nacht, kein Tag – nur so'n
-fieses Zwielicht, das mich auslacht: Haha, Eddie, kein Schlaf für dich! Dabei
-wäre es gerade heute Nacht so wichtig.
+Kissen zu heiß, Laken nervt, Kopf noch schlimmer. Immer wieder Augen auf.
+Halbdunkel. Kein richtiges Dunkel. Durch die ollen Gardinen fällt dieses blasse
+Mittsommerlicht. Keine Nacht, kein Tag – nur so'n fieses graue Schimmern. Es
+hält mich wach. Und gerade heute bräuchte ich Erholung. Wirklich.
 
 Das Holz knackt. Wind? Hitze? Keine Ahnung. Ein Insekt tackert gegen die
 Scheibe. Dann wieder nur das gleichmäßige Atmen ringsum. Ich beneide sie alle.
-Einfach wegdriften, ohne Herzrasen, ohne Kopfkino. Mein Herz dagegen hämmert,
-als ob es mir sagt: Stillliegen? Träum weiter!
+Einfach wegdriften, ohne Herzrasen, ohne Kopfkino. Mein Puls hämmert weiter.
+Stillliegen? Träum weiter!
 
-Ich starre an die Decke, Arme hinterm Kopf verschränkt. Draußen ruft ein Vogel –
-mitten in der Nacht! Weiß wohl selber nicht, ob's schon morgen ist. Genau mein
-Feeling: festgeklemmt zwischen gestern und morgen, in diesem endlosen
-Dämmerlicht, das keinen Schlaf kennt.
+Ich starre an die Decke, Arme hinterm Kopf. Draußen ruft ein Vogel – mitten in
+der Nacht! Weiß selber nicht, ob's schon morgen ist. Genau mein Feeling:
+festgeklemmt zwischen gestern und morgen, in diesem endlosen Dämmerlicht, das
+keinen Schlaf kennt. Jetzt. Gleich. Morgen. Irgendwie dazwischen.
 
 Und dann ballert immer wieder das Pokerspiel in meinen Kopf. Erst das Kribbeln
 vom Gewinn, dann dieser Schock draußen im Halbdunkel zwischen den Hütten. Er.
-Mielke. Mein Herz stolperte, mir wurde heiß und kalt in einem. Allein von seinem
+Mielke: „Edda?“
+
+Meine Brust wird eng, wenn ich an seinen Anblick denke. Seine Stimme so
+einschüchternd. Sein Atem nach abgestandenem Rauch und Bier. Allein von seinem
 Blick zieht sich jetzt noch mein Magen zusammen.
 
 „Herr Kosmol!“
 
 Sein Grinsen war schief. „Na, Edda, hängst du jeden Abend mit dem Klassenfeind
-ab? Poker ist bei uns nicht gern gesehen. Und – wie viel hast du gewonnen?“
+ab?“ Er blies mir seinen Zigarettenrauch direkt ins Gesicht und tippte Asche
+knapp neben meine Schuhe. Mein Hals wurde trocken; ich wich einen halben Schritt
+zurück, bis ich die Hüttenwand im Rücken spürte.
+
+„Poker ist bei uns nicht gern gesehen“, sagte er und beugte sich näher. Die Glut
+seiner Zigarette flackerte. Meine Finger krallten sich in den Stoff des meiner
+Hose.
+
+Er fuhr sich mit der Zunge über die Zähne, als koste er das Wort aus. „Und – wie
+viel hast du gewonnen?“
 
 Woher wusste er das so fix?! Mein Bauch krampfte, aber ich grinste blöd und wich
 aus: „Hab sie ein bisschen abgezogen, wissen Sie?“
 
 Er brummte nur, starrte mich weiter an. „Wie viel?“
 
-„Dreißig Markka.“ Ich tat so, als wär's nix. Er konnte unmöglich den genauen
-Betrag kennen.
+„Dreißig Markka.“ log ich und tat so, als ob's nix wär. Er konnte unmöglich den
+genauen Betrag kennen.
 
 „Und was willst du mit dreißig Markka?“
 
+Die nächste Lüge hatte ich kurz zuvor schon geübt:
+
 „Ein Kleid kaufen. So'n finnisches, wie die Mädchen hier tragen. Und vielleicht
-Eis oder Cola für die anderen.“ Ich hör' mich fast flehen: „Kann ich morgen in
-die Stadt? Bitte!“
+Eis oder Cola für die anderen.“ Sein Blick blieb an mir kleben – hart, prüfend,
+viel zu lang; Mein Gott, in seinem Kopfkino trage ich das Kleid schon. Mir wurde
+kalt. Dennoch hör' ich mich fast flehen: „Kann ich morgen in die Stadt? Bitte!“
 
 Er schnaubte. „Nach dem Wettkampf? Ins Einkaufszentrum?“
 
 „Ja.“
 
 „Hm.“ Sein Gesicht blieb wie Beton. „Das überlege ich mir noch – versprochen ist
-erst mal nichts. Mir wäre lieber, du hättest die Mathematik im Kopf, um uns
-morgen einen ersten Platz zu erkämpfen. Statt Kerlen und Kleidchen.“
+erst mal nichts. Mir wäre lieber, du hättest die Mathematik im Kopf, um der DDR
+hier einen ersten Platz zu erkämpfen. Statt Kerlen und Kleidchen.“ Er ließ eine
+Pause. „Und morgen trittst du ordentlich auf. Wettkampf, nicht Laufsteg.“
 
-Dann drehte er sich weg und scheuchte mich mit 'ner Handbewegung ins Bett.
+Dann scheuchte mich mit 'ner Handbewegung ins Bett.
+
+„Laufsteg, pah!“, dachte ich. „Deine Edmilla im Kleidchen wirst Du bald schon
+vergeblich suchen.“

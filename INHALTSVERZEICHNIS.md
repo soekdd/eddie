@@ -2,7 +2,7 @@
 
 | Datum Titel Link | Synopsis |
 |-------|-----------------------|
-| 1985-07-04<br><b>Schlaflos</b><br><span style="color:#f70">2.8</span><br>[01_Finnland/010_Schlaflos.md](01_Finnland/010_Schlaflos.md) | In der hellen Mittsommernacht wälzt sich Eddie schlaflos, die Hitze und Mielkes Blick im Nacken, zwischen Trotz und Angst vor dem morgigen Wettkampf und dem endgültigen Abschied von Edmilla. |
+| 1985-07-04<br><b>Schlaflos</b><br><span style="color:#0f0">1.8</span><br>[01_Finnland/010_Schlaflos.md](01_Finnland/010_Schlaflos.md) | In der hellen Mittsommernacht liege ich schlaflos; Hitze und Mielkes Blick sitzen mir im Nacken. Zwischen Trotz vor dem morgigen Wettkampf und der Angst vor dem endgültigen Abschied von Edmilla ringe ich um Schlaf. |
 | 1985-07-05<br><b>Mielke</b><br><span style="color:#0f0">2.2</span><br>[01_Finnland/020_Mielke.md](01_Finnland/020_Mielke.md) | Eddies erste Begegnung mit Kosmol in Berlin; seine bedrohliche Ausstrahlung lässt sie ihn sofort „Mielke“ nennen. |
 | 1985-07-05<br><b>Spieltheorie</b><br><span style="color:#f70">2.8</span><br>[01_Finnland/030_Spieltheorie.md](01_Finnland/030_Spieltheorie.md) | Eddie rechnet den Bus‑nach‑Helsinki‑Plan durch und verwirft ihn: Zu wenig Deckung, zu viel Zufall – die Erfolgschance sinkt auf unter zehn Prozent. |
 | 1985-07-05<br><b>Edmilla</b><br><span style="color:#ff0">2.4</span><br>[01_Finnland/040_Edmilla.md](01_Finnland/040_Edmilla.md) | Mit ihrem Vater entwickelt Eddie eine Tarnidentität für die Flucht – Edmilla entsteht: Kleidchen, Schleifen, Gepäck‑Legende, politisch unauffällig. |
