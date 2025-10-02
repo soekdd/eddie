@@ -83,12 +83,12 @@ antworte „please“, als wären wir im englischen Unterricht. Nach vielleicht 
 Minuten starre ich auf den **leeren** Eimer. Mein Bauch gluckert. Mein Kopf wird
 leicht.
 
-„Na, Genossin Edmilla, Westluxus bekommen?“, flüstert Sini und stupst mich mit der
-Schulter. Ich presse die Lippen zusammen, damit ich nicht aufstöhne, lache aber,
-weil sie so liebevoll frech ist. „Mir ist… ein bisschen schlecht“, flüstere ich
-zurück. Sie zieht eine Grimasse, die sagt: Hätte ich dir auch vorher sagen
-können, Kleine. Dann legt sie mir kurz die Hand aufs Knie, als wäre das die
-beste Medizin.
+„Na, Genossin Edmilla, Westluxus bekommen?“, flüstert Sini und stupst mich mit
+der Schulter. Ich presse die Lippen zusammen, damit ich nicht aufstöhne, lache
+aber, weil sie so liebevoll frech ist. „Mir ist… ein bisschen schlecht“,
+flüstere ich zurück. Sie zieht eine Grimasse, die sagt: Hätte ich dir auch
+vorher sagen können, Kleine. Dann legt sie mir kurz die Hand aufs Knie, als wäre
+das die beste Medizin.
 
 Das Saallicht wird noch dunkler, hinter uns setzt ein leises Summen ein, und die
 Leinwand füllt sich. Englische Wörter fliegen über den Bildschirm. Mein Herz

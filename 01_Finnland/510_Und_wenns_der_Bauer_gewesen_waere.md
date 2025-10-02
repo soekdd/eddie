@@ -164,8 +164,8 @@ also, bist du wirklich! — hast du nie überlegt, einfach mal an die Türen zu
 klopfen?“
 
 Ich rolle mit den Augen. „Einmal hab’ ich’s gemacht. Kam aber kein Junggeselle
-raus, sondern ’ne dicke Bäuerin mit Schürze und Gummistiefeln. Sie ließ mich
-in die Scheune.“
+raus, sondern ’ne dicke Bäuerin mit Schürze und Gummistiefeln. Sie ließ mich in
+die Scheune.“
 
 Sini krümmt sich fast vor Lachen. „Und wär’s der Bauer gewesen? Dann hättest du
 wahrscheinlich auf dem Sofa statt in der Scheune geschlafen. Oder… naja, wenn’s
