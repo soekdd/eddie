@@ -59,43 +59,13 @@ trotz mehrerer schwerer Stürze und Materialversagens seiner Ausrüstung. Danach
 war er eine Woche krank, so sehr hatte er sich verausgabt, und seine Füße sahen
 aus wie eine einzige dicke Blase. Als sein Freund kurz danach wieder mal bei uns
 zu Besuch war, feierten sie ihre Tour feucht-fröhlich. Ich kann mich noch an
-einen Satz seines Freundes erinnern: „Das war unsere Vasaloppet!“ „Was ist die
-Vasaloppet?“ habe ich als kleines Kind gefragt. Und dann erzählte er mir die
-Legende von König Vasa in blumigen, spannenden Worten: Es war ein bitterkalter
-Winter, irgendwann Anfang des 16. Jahrhunderts. Der junge Prinz Gustav Vasa, ein
-Mann mit mutigem Herzen und festem Willen, war auf der Flucht. Hinter ihm jagten
-die Truppen des grausamen dänischen Königs her – ein König, der das Land mit
-eiserner Hand beherrschte und seine Gegner gnadenlos verfolgte.
+einen Satz seines Freundes erinnern: „Das war unsere Vasaloppet!“
 
-Gustav hatte sich erhoben, um Schweden von der fremden Herrschaft zu befreien,
-doch es sah nicht gut aus. Seine Hoffnung schwand, denn die Bauern in seinem
-Heimatland hatten sich nicht für seinen Aufstand erwärmen können. Enttäuscht und
-erschöpft schnallte er die Skier unter seine Füße und machte sich auf den Weg.
-Sein Ziel war die Grenze nach Norwegen – dort hoffte er auf Schutz, weit weg von
-den dänischen Soldaten. Der Wind biss in sein Gesicht und die endlosen Wälder
-schienen ihn verschlingen zu wollen. Doch Gustav war schneller als die
-Dunkelheit, die sich um ihn legte. Unbemerkt von ihm hatten zwei seiner
-treuesten Gefolgsleute von seinem Plan gehört. Sie wussten, dass Schweden ohne
-Gustav keine Chance hatte. So schnappten sie ihre Skier und setzten alles daran,
-ihn einzuholen. Mit eisernem Willen und flinken Bewegungen durchpflügten sie den
-tiefen Schnee, sprangen über umgestürzte Baumstämme und rasten enge Abfahrten
-hinab. Endlich, nach unzähligen Stunden, holten sie den Prinzen ein. „Gustav!“,
-riefen sie, „die Bauern haben sich entschieden! Sie folgen deinem Ruf. Komm
-zurück, das Land braucht dich!“ Der Mut in Gustav entbrannte neu. Gemeinsam
-kehrten sie zurück nach Schweden, wo die Menschen sich sammelten, um für ihre
-Freiheit zu kämpfen. Bald darauf begann ein Aufstand, der Schweden befreien und
-Gustav auf den Thron bringen sollte.
+Also, habe ich ihn als Kind: „Ey, was ist eigentlich die Vasaloppet?“ Und dann kam diese epische Märchenstunde. König Vasa hier, dänische Schergen da, Winter des Jahrhunderts, Drama pur. Klingt erstmal wie Herr-der-Ringe auf Skiern. Nur blöderweise: je älter ich werde, desto mehr denke ich mir – na toll, der Typ haut einfach ab. Sein Land in Schutt und Asche, die Leute verzweifelt, und Gustav so: Tschüssikowski, ich bin dann mal in Norwegen. Ganz große Heldennummer, wirklich.
 
-Noch heute wird jedes Jahr im Winter dieser unglaublichen Flucht gedacht:
-Tausende Skiläufer machen sich auf die 90 Kilometer lange Reise genau auf der
-Route, die Gustav damals nahm. Sie nennen es den Vasaloppet – den Lauf des
-Königs Gustav Vasa, der mit Mut, Ausdauer und Hoffnung sein Land rettete.
+Und das mit den Gefolgsleuten – ja, die beiden haben sich die Hacken wundgelaufen, um ihn einzuholen. Und nur denen ist zu verdanken, dass der Kerl nicht irgendwo hinterm Elch verschwunden ist. Also ehrlich: wenn schon eine Statue, dann bitte von denen! Aber klar, die Geschichte heißt halt „Vasaloppet“ und nicht „Anonymous Sidekicks retten mal wieder den Typen mit dem Adelsbonus“. Ist wie bei Herr der Ringe: alle feiern Frodo, dabei hat Sam den ganzen Dreck geschleppt, ihn aus Mordor gezogen und gefühlt auch noch das Mittagessen gekocht.
 
-Okay, der Freund meines Vaters konnte echt gut Geschichten erzählen. Ein
-sportliches Ereignis, das zu einer Revolution im eigenen Land führte. War es
-das, was die beiden Männer mit der Hohen Tour verband? Fühlten sie sich so wie
-Vasas Gefolgsleute? Erst heute wird mir die mögliche Symbolik dieser Tour
-bewusst.
+Und trotzdem: die Vasaloppet ist mehr als nur ein kitschiges Königsdrama. Diese Tour, diese 90 Kilometer durch Schnee und Schmerz – sie steht halt dafür, dass aus einer Flucht ein Aufbruch werden kann. Aus nackter Verzweiflung eine Bewegung, die ein Land verändert. Genau wie bei der „Hohen Tour“ meines Vaters. Für ihn war das nicht nur ein Ausdauertest. Es war die Ahnung, dass in so einem Weg, so einer Qual, etwas Größeres steckt. Dass eine einzelne Tour manchmal der Anfang einer Revolution sein kann – oder wenigstens der Anfang davon, sich selbst zu beweisen, dass man mehr aushält, als man dachte.
 
 Als ich später beim Studium der Finnlandkarten die Stadt Vaasa entdeckte, fragte
 ich mich, ob sie irgendetwas mit Gustav Vasa zu tun hatte. Und tatsächlich gibt
@@ -113,13 +83,6 @@ auch nicht 90 Kilometer, sondern 400 Kilometer Wanderweg. Mein Pilgerpfad in die
 Freiheit. Mir gefällt der Gedanke sehr und ich stelle mir meinen Vater und
 seinen Kumpel vor, wenn sie wüssten, dass ich meine eigene Vasaloppet – na, was
 wohl? – natürlich zu Ende bringe.
-
-Dieser Tag verging wie in einer neuen Zeitrechnung. Kein Schulhof, kein graues
-Dresden, kein Mielke im Rücken. Nur Wälder, Sümpfe, Seen und ich – mit meinem
-alten Armeeschlafsack und meinen schwarzen DDR-Wanderstiefeln. Ich laufe, bis
-mir die Füße brennen, und koche abends Reis mit dem, was der Wald hergibt.
-Manchmal Blaubeeren, manchmal Pilze, einmal sogar Preiselbeeren. Jedes Mal fühlt
-es sich wie ein Festmahl an.
 
 Ich genieße diese Freiheit mit jeder Faser meines Körpers. Niemand schreibt mir
 vor, wann ich aufstehen soll, niemand schaut mir streng über die Schulter. Ich

@@ -107,9 +107,8 @@ oder falsch, und ich kann es Schritt für Schritt beweisen. Ein Lemma, ein
 Beweis, ein Ergebnis. Keine Grauzone, kein „vielleicht“. Ich denke an die
 Aufgaben in Dresden, an die langen Nächte über Gleichungen. Da war alles so
 sicher. Ich konnte sehen, warum etwas gilt, und wenn ich es einmal verstanden
-hatte, war es für immer gültig. Es gibt keine Natur, die den Beweis plötzlich
-***
-anders rauschen lässt. Und trotzdem: Die letzten Tage passen in keinen Beweis.
+hatte, war es für immer gültig. Es gibt passiert nicht, das Ergebnisse einer Formel plötzlich
+einen anderen Weg nehmen. Und trotzdem: Die letzten Tage passen in keinen Beweis.
 Wäre es Mathematik, müsste ich Wahrscheinlichkeiten berechnen – Fluchtchancen
 unter zehn Prozent, sagte ich mir damals. Aber ich habe überlebt. Oder besser:
 Ich bin durchgerutscht, als hätte die Gleichung irgendwo einen geheimen Restterm
