@@ -159,9 +159,9 @@ Am Ende habe ich 230 Markka ausgegeben.
 
 Beim Lebensmittelhändler geht’s an die Kalorien. 50 Kilo Gewicht, 20 Kilometer
 am Tag. Die Pflanzen aus dem Buch sind nur Beilage. Gesund, lecker aber kein
-Treibstoff. Ich brauche etwa 250 Gramm Nudeln oder Reis täglich. Macht 4 Kilo für 20
-Tage. Viel zu schwer! Also nehme ich 2 Kilo: ein Kilo Nudeln, ein Kilo Reis. Den
-Rest finde oder kaufe ich unterwegs.
+Treibstoff. Ich brauche etwa 250 Gramm Nudeln oder Reis täglich. Macht 4 Kilo
+für 20 Tage. Viel zu schwer! Also nehme ich 2 Kilo: ein Kilo Nudeln, ein Kilo
+Reis. Den Rest finde oder kaufe ich unterwegs.
 
 Ich muss lachen. Diophantos, der alte Grieche mit seinen Bauern und Kühen, würde
 staunen: Meine Gleichung heißt Überleben. Bauer Eddie hat nun zwei Pfund Reis

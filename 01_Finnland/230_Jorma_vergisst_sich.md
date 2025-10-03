@@ -116,8 +116,8 @@ Stolz? Angst vor Ärger? Oder einfach Eifer, sich nützlich zu machen?
 
 Mein Herz hämmert. Er lässt sie einfach rein. Kein Zögern, kein Widerstand. Als
 hätte er nur auf diesen Moment gewartet. Ein Schlüssel klirrt, dumpfe Schritte
-hallten durchs Treppenhaus. Ich spüre, wie mir der Magen umkippt. Raija kämpft um
-meine Sicherheit – und er spielt Türsteher für die Stasi. Steckt er mit ihnen
+hallten durchs Treppenhaus. Ich spüre, wie mir der Magen umkippt. Raija kämpft
+um meine Sicherheit – und er spielt Türsteher für die Stasi. Steckt er mit ihnen
 unter eine Decke? Geht seine Ideologie so weit, mich zu verraten? Selbst Raija
 zu verraten?
 

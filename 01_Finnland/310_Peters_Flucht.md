@@ -105,7 +105,7 @@ Er hebt den Blick. „Ich sag das nicht, um Mitleid zu erregen“, fügt er hinz
 einen Job – man verliert sein Umfeld, seine Rechte, sein Zuhause. Das Warten,
 das Schweigen, die Isolation – das frisst dich auf.“
 
-Die anderen hören gebannt zu. Sabine hält die Hand vor den Mund, Conny wischt
+Die anderen hören gebannt zu. Conny hält die Hand vor den Mund, Sabine wischt
 sich heimlich die Augen. Mattie sagt nichts, aber seine Finger trommeln nervös
 am Becher.
 

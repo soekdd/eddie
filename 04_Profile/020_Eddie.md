@@ -4,9 +4,7 @@ synopsis: 'Kurzprofil von Hauptfigur Eddie (Edda Riedel): 17‑jährige Dresdner
 
 # Edda Riedel
 
-Kurzprofil von Hauptfigur Eddie (Edda Riedel): 17‑jährige Dresdnerin,
-mathematisch begabt, eigenwillig und neugierig; Aussehen, Beziehungen, Antriebe
-und Konflikte im Überblick.
+Kurzprofil von Hauptfigur Eddie (Edda Riedel): 17‑jährige Dresdnerin, mathematisch begabt, eigenwillig und neugierig; Aussehen, Beziehungen, Antriebe und Konflikte im Überblick.
 
 _AKA:_ Eddie
 

@@ -62,12 +62,12 @@ hätten wir einen Insiderwitz.
 „Oder nach Paderborn!“, ruft Conny dazwischen, und sofort sind die anderen
 dabei.
 
-Ich runzle die Stirn, frage: „Paderborn? Warum denn ausgerechnet Paderborn?“
+Ich runzle die Stirn, frage: „Paderborn? Zu euch nach Paderborn?“
 
 Conny wird ernst, so ernst, dass ich fast ein bisschen erschrecke. „Mein Vater
 ist ein hohes Tier bei Nixdorf. Der Chef, Heinz Nixdorf, ist in Torgau
-aufgewachsen. Der nimmt gern Leute von drüben, besonders Ingenieure. Für dich --
-mit deinem Mathehirn -- könnte da locker ein Stipendium rausspringen.“
+aufgewachsen. Der nimmt gern Leute von drüben, besonders Ingenieure. Für so ein
+Mathehirn wie dich -- könnte da locker ein Stipendium rausspringen.“
 
 Ich lache erst, will es wie einen Scherz abtun, aber da ändert sich ihre
 Stimmung. Vier Gesichter schauen mich mit einer fast strengen Empörung an.

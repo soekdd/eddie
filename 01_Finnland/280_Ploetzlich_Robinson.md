@@ -75,8 +75,8 @@ Heute zähle ich nach – 5 Tage bin ich schon unterwegs. Ich hätte nie gedacht
 dass es mir so leicht fällt, und noch weniger, dass ich es sogar lieben könnte.
 
 Es ist inzwischen Routine: Morgens Tee mit Blaubeeren, die Finger schon beim
-Pflücken blau, dann den Taschen umhängen, wandern, wandern, wandern. Irgendwo
-am Nachmittag Holz sammeln, Pilze oder Beeren für den Abend. Abends Reis kochen,
+Pflücken blau, dann den Taschen umhängen, wandern, wandern, wandern. Irgendwo am
+Nachmittag Holz sammeln, Pilze oder Beeren für den Abend. Abends Reis kochen,
 wieder Tee. Wenn's keine Hütte gibt, strecke ich manchmal den Schlafsack einfach
 auf den Tisch eines Picknickplatzes aus. Manchmal lande ich in einer richtigen
 Hütte am See, groß wie ein kleines Schloss, mit Aussicht, die einem den Atem

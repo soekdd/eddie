@@ -88,9 +88,9 @@ Ich bekam eine Hütte zugeteilt, offiziell sollte ich sie mit zwei anderen
 Mädchen aus fernen Ländern teilen, doch da wir so früh angekommen waren,
 verbrachte ich die erste Nacht allein. Ich erinnere mich an die Stille, an den
 Geruch des Holzes, an die glänzende saubere Oberfläche, an das riesige
-bodentiefe Fenster mit Blick auf den See, das mir vorkam wie ein Portal in
-eine andere Welt. Ich stand lange am Glas, bis es draußen dunkel wurde – soweit
-es in einer finnischen Sommernacht dunkel wird.
+bodentiefe Fenster mit Blick auf den See, das mir vorkam wie ein Portal in eine
+andere Welt. Ich stand lange am Glas, bis es draußen dunkel wurde – soweit es in
+einer finnischen Sommernacht dunkel wird.
 
 Alles in Joutsenlampi war kostenlos für uns. Kein Geld, keine Rechnungen, keine
 Einschränkungen. Anders wäre es allerdings auch blöd gewesen, denn keiner von

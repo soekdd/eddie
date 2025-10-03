@@ -208,17 +208,18 @@ mein Ende.“
 
 Stille. Nur das Tropfen des Regens.
 
-Peter schaut mich an, seine blauen Augen ganz ernst, und nickt langsam.
-„Versprochen.“
+Peter schaut mich an, seine schönen Augen ganz ernst, und nickt langsam.
+„Vielleicht erzähle ich dir morgen meine Geschichte, dann wirst du dir sicher
+sein, dass ich dich nicht verrate.“
 
-Matti haut mit der Faust auf den Tisch. „Wenn dich jemand verrät, kriegt er’s
-mit mir zu tun!“
+Conny legt kurz die Hand auf seinen Arm, nickt stumm, als wolle sie sagen: Genau
+so.
 
-Conny legt ihre Hand auf meine Schulter, sanft und warm. „Keine Sorge, Eddie.
-Wir halten dicht. Du bist jetzt bei uns.“
+Matti knallt die Faust auf den Tisch. „Und wenn dich einer verpfeift, kriegt
+er’s mit mir zu tun!“
 
-Und Sabine, die sonst lacht und Witze reißt, wischt sich tatsächlich eine Träne
-aus dem Auge. „Mensch, Eddie … du bist echt irre mutig.“
+Sabine wischt sich tatsächlich eine Träne aus dem Auge, lacht gleichzeitig über
+sich selbst. „Mensch, Eddie … du bist echt irre mutig.“
 
 Ich sitze da, zwischen ihnen, und spüre zum ersten Mal seit Wochen so etwas wie
 Rückhalt.

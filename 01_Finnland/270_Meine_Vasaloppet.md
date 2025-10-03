@@ -61,11 +61,31 @@ aus wie eine einzige dicke Blase. Als sein Freund kurz danach wieder mal bei uns
 zu Besuch war, feierten sie ihre Tour feucht-fröhlich. Ich kann mich noch an
 einen Satz seines Freundes erinnern: „Das war unsere Vasaloppet!“
 
-Also, habe ich ihn als Kind: „Ey, was ist eigentlich die Vasaloppet?“ Und dann kam diese epische Märchenstunde. König Vasa hier, dänische Schergen da, Winter des Jahrhunderts, Drama pur. Klingt erstmal wie Herr-der-Ringe auf Skiern. Nur blöderweise: je älter ich werde, desto mehr denke ich mir – na toll, der Typ haut einfach ab. Sein Land in Schutt und Asche, die Leute verzweifelt, und Gustav so: Tschüssikowski, ich bin dann mal in Norwegen. Ganz große Heldennummer, wirklich.
+Also, habe ich ihn als Kind: „Ey, was ist eigentlich die Vasaloppet?“ Und dann
+kam diese epische Märchenstunde. König Vasa hier, dänische Schergen da, Winter
+des Jahrhunderts, Drama pur. Klingt erstmal wie Herr-der-Ringe auf Skiern. Nur
+blöderweise: je älter ich werde, desto mehr denke ich mir – na toll, der Typ
+haut einfach ab. Sein Land in Schutt und Asche, die Leute verzweifelt, und
+Gustav so: Tschüssikowski, ich bin dann mal in Norwegen. Ganz große
+Heldennummer, wirklich.
 
-Und das mit den Gefolgsleuten – ja, die beiden haben sich die Hacken wundgelaufen, um ihn einzuholen. Und nur denen ist zu verdanken, dass der Kerl nicht irgendwo hinterm Elch verschwunden ist. Also ehrlich: wenn schon eine Statue, dann bitte von denen! Aber klar, die Geschichte heißt halt „Vasaloppet“ und nicht „Anonymous Sidekicks retten mal wieder den Typen mit dem Adelsbonus“. Ist wie bei Herr der Ringe: alle feiern Frodo, dabei hat Sam den ganzen Dreck geschleppt, ihn aus Mordor gezogen und gefühlt auch noch das Mittagessen gekocht.
+Und das mit den Gefolgsleuten – ja, die beiden haben sich die Hacken
+wundgelaufen, um ihn einzuholen. Und nur denen ist zu verdanken, dass der Kerl
+nicht irgendwo hinterm Elch verschwunden ist. Also ehrlich: wenn schon eine
+Statue, dann bitte von denen! Aber klar, die Geschichte heißt halt „Vasaloppet“
+und nicht „Anonymous Sidekicks retten mal wieder den Typen mit dem Adelsbonus“.
+Ist wie bei Herr der Ringe: alle feiern Frodo, dabei hat Sam den ganzen Dreck
+geschleppt, ihn aus Mordor gezogen und gefühlt auch noch das Mittagessen
+gekocht.
 
-Und trotzdem: die Vasaloppet ist mehr als nur ein kitschiges Königsdrama. Diese Tour, diese 90 Kilometer durch Schnee und Schmerz – sie steht halt dafür, dass aus einer Flucht ein Aufbruch werden kann. Aus nackter Verzweiflung eine Bewegung, die ein Land verändert. Genau wie bei der „Hohen Tour“ meines Vaters. Für ihn war das nicht nur ein Ausdauertest. Es war die Ahnung, dass in so einem Weg, so einer Qual, etwas Größeres steckt. Dass eine einzelne Tour manchmal der Anfang einer Revolution sein kann – oder wenigstens der Anfang davon, sich selbst zu beweisen, dass man mehr aushält, als man dachte.
+Und trotzdem: die Vasaloppet ist mehr als nur ein kitschiges Königsdrama. Diese
+Tour, diese 90 Kilometer durch Schnee und Schmerz – sie steht halt dafür, dass
+aus einer Flucht ein Aufbruch werden kann. Aus nackter Verzweiflung eine
+Bewegung, die ein Land verändert. Genau wie bei der „Hohen Tour“ meines Vaters.
+Für ihn war das nicht nur ein Ausdauertest. Es war die Ahnung, dass in so einem
+Weg, so einer Qual, etwas Größeres steckt. Dass eine einzelne Tour manchmal der
+Anfang einer Revolution sein kann – oder wenigstens der Anfang davon, sich
+selbst zu beweisen, dass man mehr aushält, als man dachte.
 
 Als ich später beim Studium der Finnlandkarten die Stadt Vaasa entdeckte, fragte
 ich mich, ob sie irgendetwas mit Gustav Vasa zu tun hatte. Und tatsächlich gibt

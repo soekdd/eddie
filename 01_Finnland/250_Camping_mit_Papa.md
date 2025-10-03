@@ -156,7 +156,8 @@ weit weg von allem. Aber Müdigkeit siegt. Ich schließe die Augen – und sinke
 tiefen Schlaf.
 
 Als ich erwache, ist es, als wäre die Welt neu geboren. Der Sonnenaufgang brennt
-golden durch die Baumwipfel, Nebel steigt vom See. Die Luft ist frisch. Ich sitze auf der Hüttenschwelle, eingewickelt in die
-Regenjacke, schaue ins Licht, wie es die Landschaft vergoldet. Und ich weiß: Ich
-kann das schaffen. Ich bin frei. Jeder Schritt nach Vaasa bringt mich weiter weg
-von Mielke – und näher zu mir selbst.
+golden durch die Baumwipfel, Nebel steigt vom See. Die Luft ist frisch. Ich
+sitze auf der Hüttenschwelle, eingewickelt in die Regenjacke, schaue ins Licht,
+wie es die Landschaft vergoldet. Und ich weiß: Ich kann das schaffen. Ich bin
+frei. Jeder Schritt nach Vaasa bringt mich weiter weg von Mielke – und näher zu
+mir selbst.

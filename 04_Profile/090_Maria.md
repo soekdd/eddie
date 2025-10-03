@@ -4,8 +4,7 @@ synopsis: 'Maria: karelische Vertriebenen‑Generation in Joutsa – ruhige, gl�
 
 # Maria
 
-Maria: karelische Vertriebenen‑Generation in Joutsa – ruhige, gläubige
-Haushälterin, die beherzt schützt und Eddie unauffällig durch Gefahr führt.
+Maria: karelische Vertriebenen‑Generation in Joutsa – ruhige, gläubige Haushälterin, die beherzt schützt und Eddie unauffällig durch Gefahr führt.
 
 ## Basic
 - Age: 70
