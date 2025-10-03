@@ -4,7 +4,8 @@ synopsis: 'Streuner: zugelaufener, wachsamer Mischlingshund – misstrauisch geg
 
 # Streuner
 
-Streuner: zugelaufener, wachsamer Mischlingshund – misstrauisch gegenüber Fremden, loyal zu Eddie und ihr nonverbaler Stimmungsbarometer.
+Streuner: zugelaufener, wachsamer Mischlingshund – misstrauisch gegenüber
+Fremden, loyal zu Eddie und ihr nonverbaler Stimmungsbarometer.
 
 _AKA:_ Streuni
 
