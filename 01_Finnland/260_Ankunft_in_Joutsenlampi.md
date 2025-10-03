@@ -48,80 +48,57 @@ Todo: 'Zu viele Dopplung: Fenster, Sportstätten etc.'
 # Ankunft in Joutsenlampi
 
 Meine nächste Etappe führt mich nur wenige Kilometer durch den Wald. Ich will
-mich erstmal langsam an die großen Etappen heranwagen. Und wieder stehe ich vor
-einer dieser wunderbaren Hütten und kann kaum glauben, dass sie mir für eine
-Nacht allein gehört. Der Boden riecht noch nach frischem Holz, alles ist neu,
-alles sauber, alles großzügig. Ich muss unwillkürlich lachen – wenn das
-Kapitalismus sein soll, dann hat meine Schule mir eine verdammt schlechte
-Vorstellung davon verkauft. Kostenlos eine Hütte, kostenlos ein Bett, kostenlose
-Wärme und Sicherheit.
+mich langsam an die großen Strecken heranwagen. Wieder stehe ich vor einer
+dieser Hütten und kann kaum glauben, dass sie mir für eine Nacht allein gehört.
+Der Boden riecht nach frischem Holz, alles ist sauber und großzügig. Ich muss
+lachen – wenn das Kapitalismus sein soll, hat meine Schule mir eine miserable
+Vorstellung davon vermittelt: kostenlose Hütte, Bett, Wärme und Sicherheit.
 
-Und während ich mich umsehe, während mein Blick von der kleinen Veranda über das
-Wasser schweift, überfällt mich eine Erinnerung. Dieselbe Überraschung, dieselbe
-ungläubige Freude erlebte ich bei der Ankunft im Joutsenlampi, dem Camp der IMO.
+Während ich von der Veranda über den See blicke, überfällt mich eine Erinnerung:
+dieselbe ungläubige Freude erlebte ich bei der Ankunft im Joutsenlampi, dem Camp
+der IMO.
 
-Ich hatte bis dahin nie ein Flugzeug von innen gesehen. Wenn am Himmel eine
-Maschine vorbeizog, stand ich als Kind immer still und schaute nach oben, als
-sähe ich etwas von einem anderen Planeten. Und dann, an jenem Julitag 1985,
-stand ich plötzlich selbst auf dem Flughafen in Helsinki – hell, freundlich,
-alles wirkte aufgeräumter als bei uns. Keine grauen Hallen, keine mürrischen
-Grenzer. Stattdessen Glas, Licht, skandinavische Klarheit. Wir wurden in Empfang
-genommen, wie Gäste, nicht wie Verdächtige.
+Bis dahin hatte ich nie ein Flugzeug von innen gesehen. Als Kind starrte ich
+Maschinen nach, als kämen sie von einem anderen Planeten. Und plötzlich stand
+ich in Helsinki – hell, freundlich, Glas und Licht statt graue Hallen und
+mürrische Grenzer. Wir wurden empfangen wie Gäste, nicht wie Verdächtige.
 
-Draußen wartete ein Bus. Kein alter Ikarus mit flatternden Vorhängen, sondern
-ein moderner Reisebus, blau-weiß lackiert, mit bequemen Sitzen, die sich
+Draußen wartete ein moderner Bus, blau-weiß lackiert, mit Sitzen, die sich
 zurücklehnen ließen. Ich sank hinein und dachte, ich träume. Wir fuhren
-stundenlang durch Wälder, an Seen vorbei, auf Straßen, die so glatt waren, dass
-man fast vergessen konnte, dass wir uns bewegten.
+stundenlang durch Wälder und an Seen vorbei, auf Straßen so glatt, dass man das
+Fahren kaum spürte.
 
-Finnair flog damals nur jeden zweiten Tag von Ostberlin nach Helsinki, und so
-war es gekommen, dass unsere DDR-Delegation einen ganzen Tag früher in Finnland
-ankam als alle anderen Teams. Schon da begann unser Sonderstatus, den ich mit
-einem flauen Gefühl, aber auch mit einer heimlichen Freude wahrnahm.
+Weil Finnair nur alle zwei Tage von Ostberlin nach Helsinki flog, kam unsere
+DDR-Delegation einen Tag früher als alle anderen. Schon da begann unser
+Sonderstatus – mulmig, aber auch heimlich aufregend.
 
-Und dann: Joutsenlampi. Eine Ferienanlage wie aus einer anderen Welt. Reihen von
-Hütten, alle frisch gebaut, wie kleine Reihenhäuser mit großen Glasfronten zum
-See. Stege, die ins Wasser führten. Boote, die man einfach nehmen durfte.
-Sportplätze, Wiesen und natürlich die Sauna, für uns alle ein Erlebnis.
+Und dann: Joutsenlampi. Eine Ferienanlage wie aus einer anderen Welt. Reihen
+neuer Hütten mit Glasfronten zum See, Stege, Boote, Sportplätze, Wiesen, Sauna.
+Ich bekam eine Hütte zugeteilt und verbrachte die erste Nacht allein – die
+Stille, der Geruch des Holzes, das riesige Fenster zum See wirkten wie ein
+Portal in eine andere Welt.
 
-Ich bekam eine Hütte zugeteilt, offiziell sollte ich sie mit zwei anderen
-Mädchen aus fernen Ländern teilen, doch da wir so früh angekommen waren,
-verbrachte ich die erste Nacht allein. Ich erinnere mich an die Stille, an den
-Geruch des Holzes, an die glänzende saubere Oberfläche, an das riesige
-bodentiefe Fenster mit Blick auf den See, das mir vorkam wie ein Portal in eine
-andere Welt. Ich stand lange am Glas, bis es draußen dunkel wurde – soweit es in
-einer finnischen Sommernacht dunkel wird.
+Alles war kostenlos. Kein Geld, keine Rechnungen. Wir durften baden, rudern,
+spielen. Überall Menschen, die halfen, ohne Gegenleistung. Ich starrte nicht nur
+auf die Gebäude, sondern auch auf dieses Prinzip: Gastfreundschaft ohne
+Misstrauen.
 
-Alles in Joutsenlampi war kostenlos für uns. Kein Geld, keine Rechnungen, keine
-Einschränkungen. Anders wäre es allerdings auch blöd gewesen, denn keiner von
-uns besaß auch nur eine Markka. Wir durften baden, rudern, laufen, spielen.
-Überall lächelten Menschen, die uns halfen, ohne eine Gegenleistung zu
-verlangen. Ich starrte mit großen Augen, nicht nur auf die Gebäude, sondern auch
-auf dieses Prinzip: Gastfreundschaft, ganz ohne Misstrauen.
+In Dresden hatte man uns eingetrichtert: Kapitalismus sei Ausbeutung, kalt und
+unmenschlich. Aber hier, im „kapitalistischen“ Finnland, stand ich in einer
+nagelneuen Hütte am See – und das einfach so.
 
-Und ich dachte an den Unterricht in Dresden. Kapitalismus sei Ausbeutung, hieß
-es dort. Kapitalismus sei kalt und unmenschlich. Aber hier, in diesem
-"kapitalistischen" Finnland, stand ich in einer nagelneuen Hütte mit riesigen
-Fenstern zum See – und das ganz umsonst. Es passte nicht zusammen.
+Vordergründig ging es bei der IMO um Gleichungen. Doch in Wahrheit ging es auch
+um Begegnungen. Die Organisatoren gaben uns nicht nur Prüfungsräume, sondern
+eine ganze Welt, in der wir jung, frei und willkommen sein durften.
 
-Vordergründig ging es bei der Internationalen Mathe-Olympiade um Zahlen,
-Gleichungen, Beweise. Doch in Wahrheit ging es auch um Begegnungen. Die
-Organisatoren hatten uns nicht nur einen Prüfungsraum gegeben, sondern eine
-ganze Welt, in der wir uns jung, frei und willkommen fühlen konnten.
+Und jetzt stehe ich wieder in so einer Hütte, allein, wieder mit Blick auf den
+See. Ich lächle, weil sich die Geschichte wiederholt. Damals wie heute schenken
+mir Menschen, die mich nicht kennen, einen Ort der Sicherheit, ohne zu fragen,
+was ich dafür geben kann.
 
-Sie hatten Boote für uns bereitgestellt, Sportstätten, in denen wir Nationen
-durcheinander mischten, Stege, auf denen wir am Abend saßen und die Sterne
-ansahen. Sie organisierten Ausflüge mit dem schicken Bus. Es war eine
-Investition in uns, in unsere Köpfe und Herzen.
-
-Und jetzt stehe ich wieder in so einer Hütte, allein, wieder mit dem Blick auf
-den See. Ich lächle, weil sich die Geschichte wiederholt. Damals wie heute
-schenken mir Menschen, die mich nicht kennen, einen Ort der Sicherheit, ohne zu
-fragen, was ich dafür geben kann.
-
-Ich denke an die Organisatoren, die uns Jugendlichen diesen Sommer voller Wunder
-ermöglicht haben. Und ich denke daran, wie wichtig es ist, diese Aufrichtigkeit
-zu sehen und zu ehren.
+Ich denke an die Organisatoren, die uns diesen Sommer voller Wunder ermöglicht
+haben – und daran, wie wichtig es ist, solche Aufrichtigkeit zu sehen und zu
+ehren.
 
 Bevor ich selig einschlafe, muss ich doch mal heftig kichern. Die anderen beiden
 Mädchen kamen aus der Mongolei und aus Zypern. Beide sehr klug und nett, aber
