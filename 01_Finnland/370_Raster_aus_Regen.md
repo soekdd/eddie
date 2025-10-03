@@ -124,7 +124,7 @@ nearest_cities:
 approx_word_count: 560
 updated: '2025-09-20'
 illustrations:
-  - 'FIN_Vaasalopet_Scheune.png'
+  - 'FIN_Vasalopet_Scheune.png'
 proofreading:
   Ton:
     Einschaetzung: 'Beobachtend, poetisch, Eddie analysiert Muster im Regen fast mathematisch.'

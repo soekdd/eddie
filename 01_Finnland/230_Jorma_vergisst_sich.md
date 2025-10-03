@@ -104,7 +104,7 @@ weiter auf, drücke mich durch den Spalt und bleibe dicht an der Hauswand.
 Schnell, halb geduckt, die Mauer entlang bis zur Ecke.
 
 Doch kaum biege ich um die Straßenecke, bleibt mir die Luft weg. Da ist er. Der
-graublaue Lada, Diplomatenkennzeichen glänzen im fahlen Licht. Der Motor brummt
+graublaue Lada, glänzt im fahlen Licht, Diplomatenkennzeichen. Der Motor brummt
 dumpf, gleichmäßig — wie ein Tier auf der Jagd.
 
 Ich ducke mich hastig hinter eine Hecke, die viel zu spärlich ist, um mich
@@ -133,11 +133,11 @@ gute Menschen“, höre ich Vaters Stimme. Tampere liegt südwestlich. Keine
 Strategie, aber immerhin eine Richtung.
 
 Ich warte, bis der Lada endgültig außer Sicht ist, schleiche mich zum Bahnhof.
-Das Bahnhofsgebäude wirkt wie ein Spielzeughaus, aus hellem rotem Holz
-gezimmert, mit weißen Verzierungen am Dach. Irgendwie aus der Zeit gefallen in
-dieser modernen Stadt. Vorne hängt eine große Uhr, die allen anzeigt, dass hier
-die Zeit anders läuft – langsamer, fast gemütlich. Die Bahnsteige sind kurz,
-kaum Platz für die langen Züge, die aus Helsinki heranrollen. Auf dem Vorplatz
+Das Bahnhofsgebäude wirkt wie ein Spielzeughaus, aus rotem Holz gezimmert, mit
+weißen Verzierungen am Dach. Irgendwie aus der Zeit gefallen in dieser modernen
+Stadt. Vorne hängt eine große Uhr, die allen anzeigt, dass hier am Bahnhof die
+Zeit anders läuft – langsamer, fast gemütlich. Die Bahnsteige sind kurz, kaum
+Platz für die langen Züge, die aus Helsinki heranrollen. Auf dem Vorplatz
 verharre ich lange, mustere jeden, der auftaucht. Doch Mielke kommt nicht.
 Schließlich trete ich ein, kaufe ein Ticket nach Tampere und setze mich so, dass
 ich den Eingang im Blick behalte.

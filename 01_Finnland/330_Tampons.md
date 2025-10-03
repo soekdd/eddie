@@ -14,7 +14,7 @@ mood: 'intimate, cozy, liberating, shy but joyful'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
-  - 'FIN_Vaasalopet_baden3.png'
+  - 'FIN_Vasalopet_baden3.png'
 proofreading:
   Ton:
     Einschaetzung: 'Direkt, humorvoll und zart verlegen; Körper‑Alltag wird natürlich erzählt.'

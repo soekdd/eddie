@@ -15,7 +15,7 @@ tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 source: 'https://ita-ikaalistenvpk.fi/elamyskota/'
 illustrations:
-  - 'FIN_Vaasalopet_Abschied.png'
+  - 'FIN_Vasalopet_Abschied.png'
 proofreading:
   Ton:
     Einschaetzung: 'Warm und hoffnungsvoll; zarter Abschied mit leiser Entschlossenheit.'

@@ -13,7 +13,7 @@ mood: 'warm, nachdenklich, praktisch'
 tense: 'past, Eddies first-person perspective'
 mode: 'flashback'
 illustrations:
-  - 'FIN_Vaasalopet_baden4.png'
+  - 'FIN_Vasalopet_baden4.png'
 proofreading:
   Ton:
     Einschaetzung: 'Warm, praktisch, rückblickend; Vater-Tochter-Dynamik trägt das Kapitel.'

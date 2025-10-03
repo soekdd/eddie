@@ -135,7 +135,7 @@ nearest_cities:
 approx_word_count: 740
 updated: '2025-09-20'
 illustrations:
-  - 'FIN_Vaasalopet_Picknickplatz.png'
+  - 'FIN_Vasalopet_Picknickplatz.png'
 proofreading:
   Ton:
     Einschaetzung: 'Hart, nass, auszehrend; Regen/Moor als körperliche Prüfung, am Ende fragile Erleichterung.'

@@ -12,7 +12,7 @@ tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_Tampere_Marktplatz.png'
-  - 'FIN_Vaasalopet_Laavu.png'
+  - 'FIN_Vasalopet_Laavu.png'
 proofreading:
   Ton:
     Einschaetzung: 'Euphorisch, selbstermächtigend; von Großstadtüberwältigung zur klaren Entscheidung.'
@@ -60,23 +60,23 @@ Entschluss, die Stadt zu verlassen, war richtig.
 
 Tampere ist ein Riese. Kaum stolpere ich aus dem Backsteinklotz vom Bahnhof,
 knallt mir Tampere ins Gesicht: fette Bürgerhäuser, alle großmäulig und bunt,
-nix graues Plattenzeug wie daheim. Autos hupen, Leute rennen mit Koffern, und
-ich steh da mit meiner lächerlichen Tasche, seh aus wie vom Dorf. In Dresden
-sind die Straßen leerer, das Grau zieht sich bis in die Knochen – hier dagegen
-wirkt alles lebendig, laut, fast frech. Als hätte die Stadt selber Bock, mir
-zuzurufen: „Na, Mädchen, willkommen im Osten des Westen!“
+nix graues Plattenzeug wie daheim oder in Jyväskylä. Autos hupen, Leute rennen
+mit Koffern, und ich steh da mit meiner lächerlichen Tasche, seh aus wie vom
+Dorf. In Dresden sind die Straßen leerer, das Grau zieht sich bis in die Knochen
+– hier dagegen wirkt alles lebendig, laut, fast frech. Als hätte die Stadt
+selber Bock, mir zuzurufen: „Na, Mädchen, willkommen im Osten des Westen!“
 
 Zwischen den Straßenbahnen, Bussen, Autos und Menschenmassen fühle ich mich wie
 eine Ameise. Überall Werbung, Stimmen, Hektik. Ich finde nach einigem Herumirren
-die Polizeistation – und bleibe auf der anderen Straßenseite stehen. Grau,
+die Polizeistation – und bleibe auf der anderen Straßenseite stehen. Betonbau,
 bedrohlich. Mir wird klar: Das ist eine saublöde Idee. Die suchen mich doch
 immer noch. Da kann ich nicht einfach reinspazieren und nach Raija fragen. Also
 tue ich so, als ob ich zufällig vorbeilaufe, und gehe einfach weiter.
 
-Ich lasse mich durch die Stadt treiben, lande auf dem Marktplatz. Stimmengewirr,
-Bratwurstduft, Klappern von Kisten – alles wuselt. Am Trödelmarkt bleibe ich
-hängen. Da ist ein Bücherstand, der nach Vertrautem und nach Abenteuer zugleich
-riecht.
+Ich lasse mich planlos durch die Stadt treiben, lande auf dem Marktplatz.
+Stimmengewirr, Bratwurstduft, Klappern von Kisten – alles wuselt. Am Trödelmarkt
+bleibe ich hängen. Da ist ein Bücherstand, der nach Vertrautem und nach
+Abenteuer zugleich riecht.
 
 Wie automatisch greife ich nach einem Mathebuch. Formeln erkenne ich sofort –
 meine zweite Sprache. Aber die Wörter? Keine Chance. Finnisch ist reiner
@@ -88,13 +88,14 @@ ein alter Mann mit schiefem Hut, macht eine Handbewegung zum Mund. Essen? Ich
 starre ihn an. Hä? Ach so! Essbare Pflanzen! Ich schlage irgendeine Seite auf,
 tippe aufs Bild, schaue ihn an und mache Kaubewegungen. Er nickt eifrig.
 
-Ich halte das Buch hoch. „Syötävät Villikasvit Suomessa“, steht vorne drauf.
-Heißt bestimmt irgendwas mit Pflanzen, denke ich. Mein Vater hat mir
-beigebracht, welche Pilze essbar und welche tödlich sind. Ich blättere und prüfe
-stichprobenartig. Ja, das könnte echt ein Führer über essbare Pflanzen sein. Und
-jetzt ist Juli, die Wälder müssen voll davon sein. Ich spüre, wie in meinem Kopf
-plötzlich ein Schalter umlegt: Untertauchen? Einfach im Wald verschwinden, bis
-Mielke mich vergessen hat?
+Ich halte das Buch hoch. „Syötävät Villikasvit Suomessa“, steht vorne drauf. Was
+„Suom …“ anfängt, bedeutet „Finnisch“, klar. Der Rest heißt bestimmt irgendwas
+mit Pflanzen, denke ich. Mein Vater hat mir beigebracht, welche Pilze essbar und
+welche tödlich sind. Ich blättere und prüfe stichprobenartig. Ja, das könnte
+echt ein Führer über essbare Pflanzen sein. Und jetzt ist Juli, die Wälder
+müssen voll davon sein. Ich spüre, wie in meinem Kopf plötzlich ein Schalter
+umlegt: Untertauchen? Einfach im Wald verschwinden, bis Mielke mich vergessen
+hat?
 
 Doch nur in den finnischen Wäldern leben, irgendwo in der Nähe von Tampere oder
 Jyväskylä, wäre das wirklich eine Lösung? Oder ist es besser, den Wald als
@@ -106,27 +107,32 @@ Freiheit. Raija hatte sogar schon grob geplant, wie sie mich dorthin bringen
 könnte. Aber hier auf dem Marktplatz von Tampere, mitten im Gewimmel, spüre ich
 plötzlich, wie schwer das alles auf ihr lastet. Sie riskiert ihren Job,
 vielleicht mehr. Ich will sie da nicht noch tiefer mit hineinziehen. Und
-außerdem: Helsinki bedeutet offizielle Wege, viele Augen, viele Möglichkeiten,
-entdeckt zu werden.
+außerdem: Helsinki ist ein riesiger Ballungsraum, da gibt es keine Wälder. Und
+wie finnische Städte sind, habe ich ja schon gesehen. Das bedeutet, offene
+Räume, viele Augen, viele Möglichkeiten, entdeckt zu werden.
 
 Ich suche einen Straßenatlas auf dem Büchertisch. Mein Blick bleibt an Stockholm
 hängen. Ein Wort, das nach Ferne klingt. Nach Westen. Nach der Welt hinter der
 Grenze. Stockholm hat doch auch eine westdeutsche Botschaft. Warum nicht
 dorthin? Es ist weit weg, ja, aber vielleicht gerade deshalb sicherer. Sicher zu
-weit selbst für Mielke. Und der Weg dorthin? Eine Fähre fährt vom finnischen
-Vaasa nach Schweden. Ich folge mit dem Finger den Straßen: Von hier aus sind es
-300 Kilometer Autobahn bis Vaasa, vielleicht 350 bis 400 Kilometer zu Fuß. Jeden
-Tag 20 Kilometer heißt drei Wochen. Drei Wochen, in denen ich unsichtbar sein
-könnte. Kein Ticket, keine Papiere, keine Botschaft. Nur ich. Vollkommen
-unabhängig. Machbar? Vielleicht sogar besser als Helsinki.
+weit selbst für Mielke. Und der Weg dorthin? Der Landweg ist Quatsch. Das große
+Fährschiff ab Turku direkt nach Stockholm wäre wohl der erste Ort wo Mielkes
+Männer mich abfangen würden.
+
+Aber es gibt auch eine Fähre weiter im Norden vom finnischen Vaasa nach
+Schweden. Ich folge mit dem Finger den Straßen: Von hier aus sind es 300
+Kilometer Autobahn bis Vaasa, vielleicht 350 bis 400 Kilometer zu Fuß. Jeden Tag
+schaff ich 20 Kilometer. Das heißt drei Wochen. Drei Wochen, in denen ich
+unsichtbar sein könnte. Kein Ticket, keine Papiere, keine Botschaft. Nur ich.
+Vollkommen unabhängig. Machbar? Vielleicht sogar besser als Helsinki.
 
 Der Alte drückt mir noch ein zweites Buch in die Hand: Laavujen Opas:
 Pohjois-Länsi-Suomi. „Opas?“ Ich kichere. Was für Opas? Beim Aufschlagen wird’s
 klar: Laavus sind Schutzhütten. Kleine Holzhäuschen im Wald, meist nach vorne
 offen, also für jedermann nutzbar. Im Anhang seitenweise Tabellen mit
 Koordinaten. Ich teste sofort und suche eine Hütte bei Tampere, gleiche die
-Koordinaten mit einer Wanderkarte ab – und tatsächlich: da ist ein kleiner See
-mit Häuschen eingezeichnet. Finnland ist übersät damit! Manche nur
+Koordinaten mit einer Wanderkarte ab – und tatsächlich: da ist ein kleines
+Häuschen an einem See eingezeichnet. Finnland ist übersät damit! Manche nur
 Picknickdächer, andere winzig für zwei Schlafsäcke, wieder andere groß wie halbe
 Häuser.
 
@@ -174,9 +180,9 @@ Maßstab 1:25.000 und ein Geschenk vom Buchhändler: ein winziges
 Finnisch–Englisch-Wörterbuch. Nicht übel für 255 Markka.
 
 Die Sonne brennt, ich ziehe Linien mit dem Finger über die Karte. Erste Etappe,
-zweite Woche, dritte Woche. Ich male mir alles aus. 400 Kilometer nach Vaasa.
-Verrückt. Aber ich bin jung, ich bin stark. Und vor allem: ich habe keine andere
-Wahl.
+zweite Woche, dritte Woche. Ich male mir alles aus. Knapp 400 Kilometer nach
+Vaasa. Verrückt. Aber ich bin jung, ich bin stark. Und vor allem: ich habe keine
+andere Wahl.
 
 Und dann kommt sie, die Euphorie. Kein Warten mehr, kein Bitten. Von niemadem
 mehr abhängig sein. Ich laufe. Ich laufe nach Vaasa. Es ist mein Plan. Meiner!
