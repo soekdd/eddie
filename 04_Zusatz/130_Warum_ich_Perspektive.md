@@ -1,6 +1,7 @@
 ---
 synopsis: 'Diese Erzählform ist keine stilistische Marotte, sondern Teil der Dramaturgie. Sie ist die ehrlichste Möglichkeit, den Ausnahmezustand einer Flucht erfahrbar zu machen – ohne Schutz durch Wissen, ohne spätere Abgeklärtheit, sondern roh, nah und unberechenbar.'
 ---
+
 # Warum Eddies Geschichte in der Ich-Form und im Präsens erzählt wird
 
 Eddies Fluchtgeschichte lebt von ihrer Unmittelbarkeit. Sie ist eine

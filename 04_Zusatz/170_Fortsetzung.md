@@ -1,6 +1,7 @@
 ---
 synopsis: 'Potential für Band 2: Eddie gerät 1987 in Havanna ins Spannungsfeld von BND, CIA und MfS. Historische Bezüge (IMO ’87, Juraguá, Fidel, Tschernobyl, Sturm Floyd) verleihen Dichte. Bekannte Figuren kehren zurück,Eddie rechnet weiter – reifer, erwachsener, spannender.'
 ---
+
 # Perspektiven für Band 2 – Eddies Geschichte geht weiter
 
 Bereits im ersten Band sind die Fäden für eine Fortsetzung gelegt: Neben Eddies

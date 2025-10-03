@@ -9,7 +9,6 @@ Streuner: zugelaufener, wachsamer Mischlingshund – misstrauisch gegenüber Fre
 _AKA:_ Streuni
 
 ## Basic
-
 - Species: Hund
 - Breed: Mischling (unbekannt)
 - Sex: männlich (vermutet)
@@ -17,11 +16,9 @@ _AKA:_ Streuni
 - Origin: zugelaufen; lebt zeitweise bei/um Eddie
 
 ## Family
-
 - Background: keine bekannte Vorbesitzer-Familie; soziale Bindung primär zu Eddie
 
 ## Appearance Static
-
 - Size: mittelgroß
 - Build: drahtig, wendig, ausdauernd
 - Coat: kurz bis mittellang, dunkel mit hellen Partien
@@ -30,7 +27,6 @@ _AKA:_ Streuni
 - Special: kleine alte Narben; schneller, leiser Lauf; ausdrucksstarker Blick
 
 ## Personality
-
 - Traits:
   - loyal
   - vorsichtig bei Fremden
@@ -47,7 +43,6 @@ _AKA:_ Streuni
 - Social Role: Gefährte und stiller Beschützer; spürt Stimmungen und warnt durch Verhalten
 
 ## Inner World
-
 - Conditioning: Straßenhund-Erfahrung: reagiert sensibel auf Druck und Stimmenlage
 - Attachments: starke Bindung an Eddie; akzeptiert Menschen nach Beobachtungsphase
 - Comfort Signals:
@@ -55,7 +50,6 @@ _AKA:_ Streuni
   - legt sich zwischen Eddie und mögliche Gefahr
 
 ## Profession
-
 - Occupation: Begleiter
 - Skills:
   - Fährten folgen (kurze Distanzen)
@@ -64,14 +58,12 @@ _AKA:_ Streuni
 - Special: findet Schlafplätze/Windschatten; liest Körpersprache gut
 
 ## Relationships
-
 - Eddie: primäre Bezugsperson; folgt ihr, bringt Ruhe; reagiert auf ihre Stimme sofort
 - Vidar: akzeptiert ihn schnell; erkennt seine stille Art und fühlt sich sicher in seiner Nähe
 - Vidars Mother: fühlt sich bei ihr willkommen, da sie ihn füttert und duldet
 - Others: vorsichtig, bellt selten, weicht aus wenn bedrängt
 
 ## Preferences
-
 - Likes:
   - warme, trockene Schlafplätze
   - kurze, häufige Mahlzeiten
@@ -88,7 +80,6 @@ _AKA:_ Streuni
   - Eddies Spur halten
 
 ## Motivation Conflict
-
 - Goals: bei Eddie bleiben; Sicherheit und Futter sichern
 - Conflict: Neugier vs. Vorsicht; Nähe zu Eddie vs. Angst vor Fremden/Uniformen
 - Fears:
@@ -97,7 +88,6 @@ _AKA:_ Streuni
   - Knallgeräusche
 
 ## Health
-
 - Status: robust, aber leichte alte Blessuren
 - Care Notes:
   - regelmäßig Wasser
@@ -105,7 +95,6 @@ _AKA:_ Streuni
   - Zecken-/Flohcheck nach Waldwegen
 
 ## Narrative Voice
-
 - Perspective: wenn aus Tierperspektive angedeutet: sinnlich, geruchs- und geräuschzentriert
 - Style: wortloses Erzählen über Verhalten, Blicke, Körperhaltung
 - Special: spiegelt Eddies Gefühlslage nonverbal

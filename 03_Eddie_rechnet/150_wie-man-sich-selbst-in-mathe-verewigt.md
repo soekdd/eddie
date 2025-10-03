@@ -1,6 +1,7 @@
 ---
 synopsis: 'Diophants Grabsteinrätsel für Jedermann'
 ---
+
 # Wie man sich selbst in Mathe verewigt
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.

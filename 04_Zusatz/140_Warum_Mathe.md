@@ -1,6 +1,7 @@
 ---
 synopsis: 'Die Wahl fiel bewusst auf Mathematik: Sie hat autobiografische Wurzeln – der Autor selbst sah die Internationale Mathematik-Olympiade einst als möglichen Ausweg aus der DDR. Zugleich wird Mathe hier zum Symbol: eine universelle Sprache jenseits von Ideologien und ein Werkzeug, mit dem Eddie ihr Überleben kalkuliert, Chancen erkennt und Wege in die Freiheit findet.'
 ---
+
 # Warum Mathe?
 
 Die Fluchtgeschichte hätte sich auch in einem sportlichen Umfeld erzählen

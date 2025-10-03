@@ -1,6 +1,7 @@
 ---
 synopsis: 'Aufgabe aus der Technischen Mechanik, die Eddie in der Bibliothek in Stockholm löst'
 ---
+
 # Der Übersetzer, der ins Schleudern kam
 
 > **Hinweis:** Dieses Kapitel gehört zu *„Eddie rechnet“*.

@@ -1,6 +1,7 @@
 ---
 synopsis: 'Das Kapitel „Eddie rechnet“ bündelt alle mathematischen Elemente im Anhang: von einfachen Alltagsaufgaben bis zu den Originalproblemen der IMO 1985. So bleibt der Lesefluss ungestört, während interessierte Leserinnen und Leser Eddies Denkweise vertiefen und spielerisch erleben können, wie Mathematik vom Überlebenswerkzeug bis zur universellen Sprache wirkt.'
 ---
+
 # Warum „Eddie rechnet“?
 
 Das Kapitel „Eddie rechnet“ ist bewusst als Anhang gestaltet. Es erfüllt mehrere

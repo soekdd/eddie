@@ -1,6 +1,7 @@
 ---
 synopsis: 'Eddies Geschichte erinnert daran, dass Flucht in der DDR allgegenwärtig war – Hunderttausende suchten einen Ausweg, oft schickten Eltern ihre Kinder aus Liebe allein in den Westen. Heute, wo einerseits Geflüchtete abgelehnt und andererseits die DDR verklärt wird, macht der Roman sichtbar: Flucht war und ist ein zutiefst menschliches Streben nach Freiheit und Zukunft.'
 ---
+
 # Politische Botschaft
 
 Heute erleben wir in Ostdeutschland ein paradoxes Klima: Auf der einen Seite
