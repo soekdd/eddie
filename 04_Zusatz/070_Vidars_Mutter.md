@@ -1,4 +1,10 @@
+---
+synopsis: 'Vidars Mutter: dominante, fürsorgliche Stockholmer Mittelschicht – kontrollierend, aber lernfähig; pendelt zwischen Schutzinstinkt und Offenheit gegenüber Eddie.'
+---
+
 # unbenannt (Vidars Mutter)
+
+Vidars Mutter: dominante, fürsorgliche Stockholmer Mittelschicht – kontrollierend, aber lernfähig; pendelt zwischen Schutzinstinkt und Offenheit gegenüber Eddie.
 
 ## Basic
 - Age: Mitte 40 bis Anfang 50

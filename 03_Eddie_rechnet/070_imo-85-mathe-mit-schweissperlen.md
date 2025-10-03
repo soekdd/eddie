@@ -1,11 +1,4 @@
 ---
-chapter: 6
-section: 'Eddie rechnet'
-title: 'IMO 85 – Mathe mit Schweißperlen'
-mode: 'appendix'
-tags:
-  - 'Mathematik'
-  - 'Eddie rechnet'
 synopsis: 'Aufgabe 4: ausführlich und nachvollziehbar (Eddies lange Erklärung).'
 ---
 

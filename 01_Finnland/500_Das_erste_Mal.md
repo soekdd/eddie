@@ -120,8 +120,8 @@ Ich verschlucke mich am Tee. „Sini! Du bist unmöglich!“
 
 „Los, sag’s!“
 
-Ich werde rot, halte mir die Hände vors Gesicht. „Na ja… groß genug. Ich hab
-nichts vermisst.“
+Ich werde rot, halte mir die Hände vors Gesicht. „Keine Ahnung Sisi, mir fehlt
+der Vergleich. Ich hab nichts vermisst.“
 
 Sie quietscht, schlägt mit den Händen aufs Sofa. „Und? Schnell, langsam,
 romantisch?“

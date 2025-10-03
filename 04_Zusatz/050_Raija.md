@@ -1,4 +1,10 @@
+---
+synopsis: 'Raija: ruhige, zuverlässige Polizistin aus Jyväskylä – vermittelt zwischen Vorschrift und Menschlichkeit und wird für Eddie zur schützenden Bezugsperson.'
+---
+
 # Raija Rehtaaler
+
+Raija: ruhige, zuverlässige Polizistin aus Jyväskylä – vermittelt zwischen Vorschrift und Menschlichkeit und wird für Eddie zur schützenden Bezugsperson.
 
 ## Basic
 - Age: 26

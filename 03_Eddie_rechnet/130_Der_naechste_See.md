@@ -1,3 +1,7 @@
+---
+synopsis: 'Schätzung „Wasser‑Nähe“ in Finnland: mit Wasserflächenanteil w und Randaufdickung der Ufer (Minkowski‑Summe) ergibt sich für 1‑km‑Ufernähe plausibel etwa 10–15 %.'
+---
+
 # Eddie rechnet – Tag 3: Land der tausend Seen (Wie nah ist man am Wasser?)
 
 **Aufgabe (Sinis Zettel).** „Finnland hat sehr viele Seen. Wie groß ist grob die

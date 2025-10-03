@@ -1,4 +1,10 @@
+---
+synopsis: 'Kosmol alias Mielke: berechnender Stasi‑Funktionär; Hüter des Systems, der Kontrolle und Einschüchterung als Tugend rationalisiert.'
+---
+
 # Kosmol
+
+Kosmol alias Mielke: berechnender Stasi‑Funktionär; Hüter des Systems, der Kontrolle und Einschüchterung als Tugend rationalisiert.
 
 ## Basic
 - Age: Mitte 50 bis Anfang 60

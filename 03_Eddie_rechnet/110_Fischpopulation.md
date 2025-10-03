@@ -1,3 +1,7 @@
+---
+synopsis: 'Eddie modelliert eine Fischpopulation mit zwei Altersklassen und linearer Rekurrenz (Faktor 1,6) und ermittelt nach 3 Jahren insgesamt 819 Fische.'
+---
+
 # Eddie rechnet – Tag 1: Fischsee (kleines Öko‑Modell)
 
 **Aufgabe (Sinis Zettel).** „In einem kleinen, isolierten See leben zu Beginn

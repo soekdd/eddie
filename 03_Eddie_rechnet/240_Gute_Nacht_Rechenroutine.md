@@ -1,3 +1,7 @@
+---
+synopsis: 'Zwölf kleine Mathe‑Rituale zum Runterkommen in der Wanderhütte: von Dreieckszahlen, Gauss‑Paaren und Fibonacci über Stille‑Wahrscheinlichkeit, Modulo‑Zählen, Prim‑Picknick, Rechtecke und Gray Code bis zu Quadratsummen, Kombinatorik‑Kreis, Euler‑Spaziergang und Mini‑Arithmetik‑Kette.'
+---
+
 # Eddie’s Gute-Nacht-Rechenroutine (Wanderhütte-Edition)
 
 ## 1. Dreieckszahlen-Atemzug

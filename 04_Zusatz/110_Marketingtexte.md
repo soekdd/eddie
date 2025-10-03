@@ -1,3 +1,7 @@
+---
+synopsis: 'Marketingtexte und Exposé: Positionierung, Zielgruppen, USP, literarische Besonderheiten sowie 30‑Sekunden‑Pitch und Elevator‑Pitch zum Roman.'
+---
+
 # Marketingtexte
 
 ## Exposé

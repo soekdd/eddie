@@ -1,3 +1,6 @@
+---
+synopsis: 'Die Wahl fiel bewusst auf Mathematik: Sie hat autobiografische Wurzeln – der Autor selbst sah die Internationale Mathematik-Olympiade einst als möglichen Ausweg aus der DDR. Zugleich wird Mathe hier zum Symbol: eine universelle Sprache jenseits von Ideologien und ein Werkzeug, mit dem Eddie ihr Überleben kalkuliert, Chancen erkennt und Wege in die Freiheit findet.'
+---
 # Warum Mathe?
 
 Die Fluchtgeschichte hätte sich auch in einem sportlichen Umfeld erzählen
@@ -18,11 +21,3 @@ nicht als trockene Theorie, sondern als Werkzeug, mit dem Eddie Entscheidungen
 trifft – ob beim Pokerspiel, beim Rechnen mit Wahrscheinlichkeiten oder beim
 Lösen praktischer Probleme. Mathematik wird zum Überlebensinstrument, zum
 inneren Kompass und zur Brücke in die Freiheit.
-
----
-
-**Kurz:** Die Wahl fiel bewusst auf Mathematik: Sie hat autobiografische Wurzeln
-– der Autor selbst sah die Internationale Mathematik-Olympiade einst als
-möglichen Ausweg aus der DDR. Zugleich wird Mathe hier zum Symbol: eine
-universelle Sprache jenseits von Ideologien und ein Werkzeug, mit dem Eddie ihr
-Überleben kalkuliert, Chancen erkennt und Wege in die Freiheit findet.

@@ -1,3 +1,7 @@
+---
+synopsis: 'Konzept „Eddie spricht“: Nach der Lektüre per QR‑Code mit Eddie chatten – interaktive Fortsetzung des Romans, die Figur antwortet in Stimme und Zeit (DDR 1985); Nutzen für Leserbindung, PR und Verlagspositionierung.'
+---
+
 # Eddie spricht (mit Dir) – Interaktive Literatur erleben
 
 **Ein Roman, der über die letzte Seite hinausgeht.** Leser:innen können nach der

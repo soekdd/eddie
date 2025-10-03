@@ -1,3 +1,7 @@
+---
+synopsis: 'Depot‑Strategie in Lappland: mit Traglast 3 und einem Depot bei 20 km sowie 2–3 Shuttles steigert Eddie die maximale Hin‑Distanz von 15 km auf etwa 60–70 km und kehrt sicher zurück.'
+---
+
 # Eddie rechnet – Tag 2: Depots & Rentiere (Das leichte Depot‑Problem)
 
 **Aufgabe (Sinis Zettel).** „Eine Wanderin in Lappland kann pro Tag **1 Ration**

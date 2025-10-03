@@ -1,3 +1,7 @@
+---
+synopsis: 'Ada‑Kartenlogik zum Anfassen: Eddie erklärt Analytical Engine (Store, Mill, Lochkarten), programmiert Bernoulli‑Zahlen B0..B2 und zeigt das Brüche‑Kürzen via gcd auf der „Maschine“.'
+---
+
 # Kartenspiel mit Ada
 
 Heute rechne ich **wie Ada**. Keine Panik: Ich nehme dich an die Hand, Schritt

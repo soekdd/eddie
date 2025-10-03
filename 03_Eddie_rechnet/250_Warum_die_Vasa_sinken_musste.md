@@ -1,3 +1,7 @@
+---
+synopsis: 'Mit einem Minimalmodell (Archimedes, Schwerpunkt/Metazentrum, Freibord) zeigt Eddie, dass die Vasa zugleich zu wenig stabil (GM<0) und zu wenig Freibord hatte: Der nötige Zusatzballast hätte die unteren Stückpforten nass gemacht – also kippen oder absaufen.'
+---
+
 # Eddie rechnet: Warum die Vasa sinken musste
 
 *Ich stehe gedanklich vor dem Rumpf, male mir ein Seitenschema hin und schreibe
