@@ -45,7 +45,7 @@ proofreading:
 Der Stift hängt in meiner Hand, das Blatt liegt vor mir – und die Zahlen darauf
 tanzen wie kleine Spione, die mich auslachen. Ich blinzle, lese die drei
 Aufgaben noch mal, noch mal… nix. Gar nix. Gestern noch dachte ich: Ha, ich
-rechne die hier alle an die Wand, und wenn sie dann meinen Namen bei der
+rechne hier alle an die Wand, und wenn sie dann meinen Namen bei der
 Siegerehrung aufrufen – bin ich weg. Kleiner Triumph. Schock für die Bonzen.
 Aber jetzt? Ich kriege nicht mal den Anfang hin.
 
