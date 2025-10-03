@@ -159,7 +159,7 @@ Am Ende habe ich 230 Markka ausgegeben.
 
 Beim Lebensmittelhändler geht’s an die Kalorien. 50 Kilo Gewicht, 20 Kilometer
 am Tag. Die Pflanzen aus dem Buch sind nur Beilage. Gesund, lecker aber kein
-Benzin. Ich brauche etwa 250 Gramm Nudeln oder Reis täglich. Macht 4 Kilo für 20
+Treibstoff. Ich brauche etwa 250 Gramm Nudeln oder Reis täglich. Macht 4 Kilo für 20
 Tage. Viel zu schwer! Also nehme ich 2 Kilo: ein Kilo Nudeln, ein Kilo Reis. Den
 Rest finde oder kaufe ich unterwegs.
 
@@ -169,7 +169,7 @@ und zwei Pfund Nudeln statt Kühen und Schweinen. Aber Bauer Eddie hat auch nich
 sein ganzes Geld ausgegeben.
 
 > **➡ Die diophantische Gleichung #2…**\
-> (Hätte ich all mein Geld exakt für Reis und Nudeln auszugeben, sähe die Rechnung wie im Kapitel 4 von „Eddie rechnet“ aus.)
+> (Hätte ich all mein Geld exakt für Reis und Nudeln ausgegeben, sähe die Rechnung wie im Kapitel 4 von „Eddie rechnet“ aus.)
 
 Mit meinen Beuteln – einen Rucksack konnte ich mir nicht leisten – setze ich
 mich in den Schatten und sortiere meinen Schatz: Schlafsack, verbeultes

@@ -78,7 +78,7 @@ du überhaupt noch… Würde?“
 
 Sein Gesicht verzerrt sich. Plötzlich holt er aus und schlägt mich ins Gesicht.
 Der Schmerz brennt; ein hoher Ton schneidet in mein Ohr, alles rauscht. Für
-einen Moment denke ich, er schlägt noch einmal. Doch stattdessen sackt er in die
+einen Moment denke ich, er schlägt noch einmal. Doch stattdessen sackt er in der
 Ecke des Zimmers zusammen, zieht die Knie an den Körper und beginnt hemmungslos
 zu heulen. Er presst die Stirn in die Armbeuge, dreht den Kopf weg und wischt
 sich hastig mit dem Ärmel über die Augen – als wolle er nicht gesehen werden.
@@ -116,7 +116,7 @@ Stolz? Angst vor Ärger? Oder einfach Eifer, sich nützlich zu machen?
 
 Mein Herz hämmert. Er lässt sie einfach rein. Kein Zögern, kein Widerstand. Als
 hätte er nur auf diesen Moment gewartet. Ein Schlüssel klirrt, dumpfe Schritte
-hallt durchs Treppenhaus. Ich spüre, wie mir der Magen umkippt. Raija kämpft um
+hallten durchs Treppenhaus. Ich spüre, wie mir der Magen umkippt. Raija kämpft um
 meine Sicherheit – und er spielt Türsteher für die Stasi. Steckt er mit ihnen
 unter eine Decke? Geht seine Ideologie so weit, mich zu verraten? Selbst Raija
 zu verraten?

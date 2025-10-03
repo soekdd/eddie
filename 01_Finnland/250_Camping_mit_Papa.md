@@ -92,7 +92,7 @@ Einmal gingen wir nachts raus – extra. Vater zeigte mir den Polarstern. „Den
 findest du immer, auch wenn du dich verlaufen hast.“ Ich war damals enttäuscht,
 dass er so unscheinbar aussieht. Ein kleines Licht unter vielen. Aber Vater
 bestand darauf: „Es sind die unscheinbaren Dinge, die dir am Ende den Weg
-weisen.“ Tagüber zeigte er mir, wie man mit einer einfachen Armbanduhr und der
+weisen.“ Tagsüber zeigte er mir, wie man mit einer einfachen Armbanduhr und der
 Sonne die Himmelsrichtungen finden kann. Den Stundenzeiger hielt man auf die
 Sonne, und die gedachte Linie zwischen Zeiger und der Zwölf teilte den Winkel.
 Genau in der Mitte lag Süden, und das Gegenteil war Norden. Im Sommer, so mahnte
@@ -156,8 +156,7 @@ weit weg von allem. Aber Müdigkeit siegt. Ich schließe die Augen – und sinke
 tiefen Schlaf.
 
 Als ich erwache, ist es, als wäre die Welt neu geboren. Der Sonnenaufgang brennt
-golden durch die Baumwipfel, Nebel steigt vom See. Die Luft ist frisch und
-schneidend wie Wasser. Ich sitze auf der Hüttenschwelle, eingewickelt in die
+golden durch die Baumwipfel, Nebel steigt vom See. Die Luft ist frisch. Ich sitze auf der Hüttenschwelle, eingewickelt in die
 Regenjacke, schaue ins Licht, wie es die Landschaft vergoldet. Und ich weiß: Ich
 kann das schaffen. Ich bin frei. Jeder Schritt nach Vaasa bringt mich weiter weg
 von Mielke – und näher zu mir selbst.

@@ -42,6 +42,7 @@ proofreading:
     Schwaechen: 'Essayistische Passagen; Nebenfiguren blass.'
     Fix: 'Leicht straffen, 2–3 Jugend‑Asides, 1–2 Mikrodetails (Nebenfigur), 1 Körpermarker.'
     Note: 2
+Todo: 'Zu viele Dopplung: Fenster, Sportstätten etc.'
 ---
 
 # Ankunft in Joutsenlampi
@@ -87,7 +88,7 @@ Ich bekam eine Hütte zugeteilt, offiziell sollte ich sie mit zwei anderen
 Mädchen aus fernen Ländern teilen, doch da wir so früh angekommen waren,
 verbrachte ich die erste Nacht allein. Ich erinnere mich an die Stille, an den
 Geruch des Holzes, an die glänzende saubere Oberfläche, an das riesige
-bodentiefen Fenster mit Blick auf den See, das mir vorkamen wie ein Portal in
+bodentiefe Fenster mit Blick auf den See, das mir vorkam wie ein Portal in
 eine andere Welt. Ich stand lange am Glas, bis es draußen dunkel wurde – soweit
 es in einer finnischen Sommernacht dunkel wird.
 

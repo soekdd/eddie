@@ -57,7 +57,7 @@ Alle schauen mich an, und ich merke, dass ich keine richtige Antwort parat habe.
 Ich zucke mit den Schultern. „Keine Ahnung. Hauptsache nicht mehr zurück.“
 
 Peter grinst breit: „Na, dann eben nach Wuppertal!“ -- und alle lachen, als
-hätten wir einen Geheimwitz.
+hätten wir einen Insiderwitz.
 
 „Oder nach Paderborn!“, ruft Conny dazwischen, und sofort sind die anderen
 dabei.
@@ -91,7 +91,7 @@ Planeten.
 „Damit kommst du durch“, sagt Sabine, und ihre Stimme klingt, als würde sie
 gleich losheulen.
 
-Ich schaffe nur ein Lächeln, dann steigen sie schon in ihre Boote. Rudern
+Ich schaffe nur ein Lächeln, dann steigen sie schon in ihre Boote. Paddeln
 langsam hinaus, winken mir zu. „Wir sehen uns in Paderborn!“ rufen sie, alle
 vier gleichzeitig, als hätten sie es geprobt.
 

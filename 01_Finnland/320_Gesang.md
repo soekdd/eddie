@@ -123,14 +123,7 @@ Ich stolpere kurz hinaus in die Nacht. Die Luft ist kühl, die Sterne funkeln.
 Ich atme tief ein, flüstere ein stummes „Danke“ an wen auch immer und gehe
 zurück in die Hütte.
 
-Drinnen greift Conny schon wieder in die Saiten. Let it be. Alle brüllen mit,
-durcheinander, jeder in seiner Tonlage, aber es klingt nach Gemeinschaft. Ich
-reiße meine Stimme hoch, spüre, wie eine verschlossene Tür in mir aufspringt.
-Für die anderen bin ich einfach nur Eddie, die laut und frei mitsingt – und
-vielleicht stimmt das auch.
-
-Als der Refrain verklingt, lachen wir, Sabine wirft mir die Arme um die
-Schultern, und mein Herz hämmert nicht vor Angst, sondern vor Leben. Draußen
+Draußen
 kündigt ein erster Vogel den Morgen an. Wir sinken erschöpft in unsere
 Schlafsäcke, noch kichernd, noch summend und schlafen ein wie eine Band nach dem
 letzten Konzert.

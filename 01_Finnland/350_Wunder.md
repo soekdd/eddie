@@ -45,10 +45,9 @@ proofreading:
 Langsam drehe ich mich um, setze einen Fuß vor den anderen. Unter meinen Schuhen
 knirscht der sandige Weg, die Sonne fällt warm durch die Birken. Zwischen den
 Blättern blitzt immer wieder der See hervor. Er glitzert, als hätte jemand
-Silberstaub über das Wasser gestreut. Unter meinen Schuhen knacken trockene
-Kiefernnadeln. Ein Vogel ruft, kurz und hell, dann wieder Stille. Nur mein Atem,
-gleichmäßig. Schritt, Atem, Schritt. Am Ufer riecht es nach Holz. Ein alter Steg
-liegt halb im Wasser, die Bretter dunkel vom See. Mücken tanzen in der Luft,
+Silberstaub über das Wasser gestreut. Ein Vogel ruft, kurz und hell, dann wieder
+Stille. Nur mein Atem, gleichmäßig. Schritt, Atem, Schritt. Am Ufer riecht es
+nach Holz. Ein alter Steg liegt halb im Wasser, die Bretter dunkel vom See. Mücken tanzen in der Luft,
 ziehen kleine Spiralen, die sich gleich wieder auflösen. Ich gehe einfach
 weiter, immer geradeaus, und merke: Mein Kopf wird frei.
 
@@ -109,6 +108,7 @@ Beweis, ein Ergebnis. Keine Grauzone, kein „vielleicht“. Ich denke an die
 Aufgaben in Dresden, an die langen Nächte über Gleichungen. Da war alles so
 sicher. Ich konnte sehen, warum etwas gilt, und wenn ich es einmal verstanden
 hatte, war es für immer gültig. Es gibt keine Natur, die den Beweis plötzlich
+***
 anders rauschen lässt. Und trotzdem: Die letzten Tage passen in keinen Beweis.
 Wäre es Mathematik, müsste ich Wahrscheinlichkeiten berechnen – Fluchtchancen
 unter zehn Prozent, sagte ich mir damals. Aber ich habe überlebt. Oder besser:
