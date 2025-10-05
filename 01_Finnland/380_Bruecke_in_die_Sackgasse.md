@@ -56,6 +56,7 @@ nearest_cities:
   - 'Laihia'
   - 'Vaasa'
 illustrations:
+  - 'FIN_Vaasa_Ankunft.png'
   - 'FIN_Vaasa_Sini_findet_Eddie.png'
 continuity:
   before:

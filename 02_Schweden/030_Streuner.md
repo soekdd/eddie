@@ -1,5 +1,5 @@
 ---
-date: '1985-10-11'
+date: '1985-10-06'
 day: 'Friday'
 daytime: 'morning'
 place: 'Centralstation Stockholm, northern city parts'

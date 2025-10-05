@@ -11,19 +11,18 @@ tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'SWE_Stockholm_Stadtmission.png'
-todo: 'Hier ist die Timeline noch total kaputt'
 proofreading: {}
 ---
 
 # Orientierungslos in Stockholm
 
 Ich drücke die Wagentür leise hinter mir zu. Es riecht nach Öl, Eisen,
-abgestandener Luft. Der Zug steht schon still, irgendwo auf einem Abstellgleis
+abgestandener Luft. Der Zug steht still, irgendwo auf einem Abstellgleis
 nördlich vom Bahnhof. Kein Mensch hier. Ich stolpere über Schotter, krieche
-durch eine Lücke im Zaun und bin plötzlich mitten in dieser fremden Stadt, von
+durch eine Lücke im Zaun – und bin plötzlich mitten in dieser fremden Stadt, von
 der ich nur weiß: Hier müsste Freiheit sein.
 
-Doch alles ist zu groß. Zu hell. Zu still.
+Doch alles ist zu groß. Zu hell. Zu laut.
 
 Ich halte mich an einer Mauer fest, taste mich Richtung Süden. Schon nach ein
 paar Schritten spüre ich, wie die Straßen vibrierender werden – Menschen,
@@ -142,7 +141,7 @@ halbem Weg stocke ich.
 
 Zwei Uniformierte stehen am Rand des Platzes, reden miteinander, ihre Jacken
 glänzen im Schein der Laternen. Schwedische Polizisten, wahrscheinlich. Sie
-lachen, einer zieht sich eine Zigarette an. Für mich aber sind sie nur eines:
+lachen, einer zieht an einer Zigarette. Für mich aber sind sie nur eines:
 Gefahr. Ich spüre, wie mein Herz rast. Sie müssen mich suchen. Es ist eine
 Falle. Die Kirche, der Tipp, alles – eine Falle.
 
@@ -159,58 +158,3 @@ Ich weiß nicht, warum ich ihr folge. Vielleicht, weil ihre Stimme nicht nach
 Befehl klingt, sondern nach Mitleid. Vielleicht, weil ich keine andere Wahl
 habe. Sie schleppt ihre Tüten hoch, winkt mir, und wir gehen durch enge Straßen,
 hinein in einen Park.
-
-Vita Bergen. Ein Hügel, überwachsen mit Bäumen, zwischen denen Laternen blass
-leuchten. Die Frau zeigt auf einen Unterstand, halb versteckt hinter Sträuchern,
-mit ein paar alten Decken und Pappkartons. „Sleep here,“ sagt sie. Dann setzt
-sie sich neben mich, zieht eine Flasche hervor und trinkt.
-
-Ich ziehe die Knie an die Brust, presse das Gesicht dagegen. Die Stadt rauscht
-irgendwo hinter den Bäumen, groß und glänzend. Und ich liege hier, in einem
-Park, zwischen Pappkartons. Für den Moment ist es sicher. Für den Moment reicht
-das.
-
-Die Tage verschwimmen. Ich weiß nie genau, ob Dienstag oder Samstag ist. Der
-Park riecht nach nassem Laub, nach Urin, nach billigem Wein. Ich wache auf, wenn
-es hell wird, und schlafe wieder ein, wenn die Kälte mich überrollt.
-
-Mein Körper klebt. Seit Wochen habe ich mich nicht gewaschen, außer mit ein paar
-Tropfen Wasser aus einem Brunnen. Die Kleider stinken, meine Haare sind fettig
-und struppig. Ich versuche, mich klein zu machen, nicht aufzufallen. Aber die
-Leute sehen mich, wenn ich in der Stadt auftauche: Sie riechen mich.
-
-Der Hunger nagt wie ein Tier. Manchmal sammle ich Pfandflaschen, manchmal bettle
-ich vor den Geschäften. Einmal wirft mir jemand ein Stück Brot hin, als wäre ich
-ein Hund. Ich hebe es trotzdem auf. Essen ist Essen.
-
-Die Alten im Park reden kaum mit mir. Jeder hat seine eigene Flasche, sein
-eigenes Elend. Doch einer, ein schmaler Mann mit einem abgerissenen Mantel,
-zeigt mir einen Trick. „Library,“ sagt er auf Englisch, und macht ein
-Buchzeichen in die Luft. „Different place, every day. Warm. Sit down. Nobody
-cares.“
-
-Also gehe ich. Erst zögere ich, doch dann wage ich mich hinein. Kungliga
-biblioteket am Humlegården. Drinnen warm, hell, voller Bücher. Der Geruch nach
-Papier und Staub ist wie ein Schlag ins Gesicht – Erinnerung an Schule, an
-Dresden, an alles, was einmal war. Ich setze mich an einen Tisch, tue so, als
-würde ich lesen. Stundenlang wärme ich mich.
-
-Doch irgendwann zieht eine Frau die Nase kraus, schaut mich an, als sei ich ein
-Tier, das sich verlaufen hat. Ich sehe es in ihren Augen: Ich gehöre hier nicht
-hin. Ich stinke. Ich schleiche hinaus, den Kopf gesenkt. Am nächsten Tag
-versuche ich es in einer anderen Bibliothek, wieder dasselbe Spiel.
-
-So vergehen die Wochen. Ich zähle sie nicht mehr. Nur wenn ich nachts auf dem
-harten Boden liege, die Knie an die Brust gepresst, rechne ich. Es ist Oktober.
-Bis Mai sind es noch sieben Monate. Siebzehn Jahre alt – und mit achtzehn wäre
-ich frei, niemand könnte mich mehr zurückschicken. Ich male mir aus, wie ich an
-meinem Geburtstag aufstehe, einfach aufstehe, und plötzlich sicher bin.
-
-Doch wenn ich die Tage dazwischen sehe, jeden einzelnen, jede Stunde, die wie
-Blei tropft – dann erscheint mir Mai wie ein zweites Leben, unerreichbar. Ich
-sage mir: Nur durchhalten. Irgendwie durchhalten.
-
-Und so hocke ich wieder unter den Bäumen von Vita Bergen, der Geruch von
-Weinflaschen und Schweiß hängt schwer in der Luft. Meine Haut ist wund, mein
-Bauch leer. Der Himmel über Stockholm färbt sich früh dunkel, und die Stadt
-rauscht weit weg wie ein anderes Universum.

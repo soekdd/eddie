@@ -1,8 +1,10 @@
 ---
-synopsis: 'Potential für Band 2: Eddie gerät 1987 in Havanna ins Spannungsfeld von BND, CIA und MfS. Historische Bezüge (IMO ’87, Juraguá, Fidel, Tschernobyl, Sturm Floyd) verleihen Dichte. Bekannte Figuren kehren zurück,Eddie rechnet weiter – reifer, erwachsener, spannender.'
+synopsis: 'Potential für Band 2+3: Eddie gerät 1987 in Havanna ins Spannungsfeld von BND, CIA und MfS. Historische Bezüge (IMO ’87, Juraguá, Fidel, Tschernobyl, Sturm Floyd) verleihen Dichte. Bekannte Figuren kehren zurück,Eddie rechnet weiter – reifer, erwachsener, spannender.'
 ---
 
-# Perspektiven für Band 2 – Eddies Geschichte geht weiter
+# Perspektiven für Band 2 und 3
+
+## Band 2 Eddies Geschichte geht weiter
 
 Bereits im ersten Band sind die Fäden für eine Fortsetzung gelegt: Neben Eddies
 Flucht und ihren ersten Erfahrungen in Freiheit treten Figuren auf, deren
@@ -46,3 +48,28 @@ mit der bekannten Energie der Hauptfigur. Er schlägt die Brücke zwischen
 Coming-of-Age und Spionage-Thriller, bleibt in seiner Erzählweise temporeich,
 aber wird spürbar erwachsener und komplexer – ein nahtloser Übergang, der
 Leser*innen nicht loslässt und den Stoff weit in eine Serie hinein öffnet.
+
+## Band 3 - Eddie im Zentrum eines Wirtschaftskrimis
+
+Band 3 führt Eddie in die Wirren der frühen 1990er Jahre – zwischen Aufbruch,
+Verrat und wirtschaftlicher Gier. Als frisch graduierte Mathematikerin oder
+Doktorandin wird ihr analytisches Genie von einer westdeutschen
+Wirtschaftsprüfungsgesellschaft engagiert, um Unregelmäßigkeiten bei
+Treuhand-Privatisierungen zu prüfen. Was zunächst wie ein rationales
+Zahlenpuzzle wirkt, entwickelt sich zu einem moralischen Minenfeld: alte
+Seilschaften der SED, westliche Berater, politische Interessen und Korruption
+stehen verzweifelten Idealisten gegenüber, die an den Geist der Erneuerung
+glauben.
+
+Eddies Rückkehr in den Osten konfrontiert sie mit den Menschen, die sie
+zurückließ – manche resigniert, andere verbittert, wenige hoffnungsvoll. Der
+Ausverkauf der DDR wird zur Bühne eines Wirtschaftskrimis, der reale
+Umbruchstimmung und fiktive Spannung verbindet. Zugleich bleibt Eddie sich treu:
+Sie löst nicht nur Gleichungen, sondern enträtselt Strukturen – Muster von
+Täuschung, Profit und Macht.
+
+Auch hier wird die Kombination aus historischer Genauigkeit, gesellschaftlicher
+Relevanz und Eddies unverwechselbarer Perspektive Band 3 das Potenzial
+verleihen, ein packender Geschichtsroman über die Nachwendezeit zu werden – eine
+mathematische, menschliche und politische Spurensuche nach Wahrheit und Freiheit
+im Chaos der Transformation.

@@ -18,15 +18,15 @@ proofreading: {}
 
 „Es gibt noch etwas …“
 
-Der Satz hängt in der Luft wie ein Mobile über einem Kinderbett—er dreht sich
+Der Satz hängt in der Luft wie ein Mobile über einem Kinderbett — er dreht sich
 langsam und wirft kleine Schatten auf die Tischplatte. Ich halte den Brief immer
 noch in der Hand, mein Daumen liegt auf „Wir sind stolz auf dich“, als wäre das
 ein Knopf zum Atmen. Vidars Mutter setzt sich mir gegenüber, die Kanne zwischen
 uns, und lächelt so, dass ich mich nicht bedroht fühle von dem, was kommt.
 
-„Die Botschaft kann dich jederzeit ausfliegen“, sagt sie dann. „Aber …“—dieses
-kleine Wort ist ein Messerchen, das Butter schneidet und doch scharf
-ist—„natürlich ohne Hund.“
+„Die Botschaft kann dich jederzeit ausfliegen“, sagt sie dann. „Aber …“ — dieses
+kleine Wort ist ein Messerchen, das Butter schneidet und doch scharf ist —
+„natürlich ohne Hund.“
 
 Für einen Moment sehe ich mich selbst von oben: ein Mädchen, das am Küchentisch
 sitzt, mit einem Brief in der Hand und einem Hund an den Füßen. In mir klackt
