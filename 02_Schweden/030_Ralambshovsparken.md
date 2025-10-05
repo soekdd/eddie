@@ -14,7 +14,7 @@ illustrations:
 proofreading: {}
 ---
 
-# Vita Bergen
+# Rålambshovsparken
 
 Ein Hügel, überwachsen mit Bäumen, zwischen denen Laternen blass leuchten. Die
 Frau zeigt auf einen Unterstand, halb versteckt hinter Sträuchern, mit ein paar

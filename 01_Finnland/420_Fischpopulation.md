@@ -58,30 +58,23 @@ Ich grinse. Klarer Fall: Füße hoch. Gehirn an. Terminal aus. Clever. Gemein.
 Lieb. Ich setze mich, ziehe den rechten Fuß auf den Stuhl neben mir. Die
 Verbände ziepen, aber weniger als gestern. Fortschritt. Ich löse die Mullbinden,
 prüfe: die Ränder sind nicht mehr knallrot, eher rosa. Ich wasche vorsichtig mit
-abgekochtem Wasser, tupfe trocken, lege einen dünnen Film Salbe an, frische Gaze
+abgekochtem Wasser, tupfe trocken, lege einen dünnen Film Salbe auf, frische Gaze
 darüber. Links das Gleiche. Ich rede leise mit meinen Füßen, als wären sie zwei
-eigenwillige Hunde. „Artig bleiben. Heute kein Hafen.“
+eigenwillige Hunde. „Artig bleiben. Heute kein Terminal.“
 
 Ich ziehe mein Heft heran, lege den Zettel oben hin, damit er mich anschaut, und
 kritzle los. Ich male kleine Fische an den Rand, jeder mit einer peinlich
 genauen Rückenflosse. Für die Mathematik verweise ich mich selbst in die andere
 Datei – Ordnung muss sein, auch im Chaos: Rechnung siehe
-Eddie_rechnet_Tag1_Fischsee.md. Hier, am Küchentisch, ist erstmal das Leben
-dran.
+**Eddie_rechnet_Tag1_Fischsee.md**. Sättigung
 
 Nach einer Weile knurrt mein Bauch und die Vernunft schreit: Beweg dich nicht zu
 weit! Also bewege ich mich… bis zum Vorratsschrank. Ich mache
 „Speisekammer-Archäologie“: eine kurze Expedition zwischen Gewürzgläsern, einer
-einsamen Zwiebel, einer Dose Ananas (warum?), Nudeln, Tiefkühlerbsen und – tadaa
+einsamen Zwiebel, einer Dose Ananas, Nudeln, Tiefkühlerbsen und – tadaa
 – Fischstäbchen. Ich halte die Packung hoch wie einen Pokal. Thema trifft Küche.
-Mathe motiviert den Magen. Ich stelle die Pfanne auf den Herd, aber hebe mir das
+Mathe motiviert den Magen. Ich stelle die Pfanne auf den Herd, löffle aus der Ananasdose ein paar Stückchen, aber hebe mir das
 Brutzeln für den Abend auf, als Belohnung.
-
-Zwischendurch putze ich die Arbeitsplatte, als könnte man mit Putzstreifen auch
-Gedanken sortieren. Ein paar Krümel vom gestrigen Brot, Kaffeeränder in
-Halbmondform – ich reibe, bis die Halbmonde verschwinden. Dann wieder hinsetzen,
-Füße hoch, am Bleistift kauen. Neben mir steht ein Glas Wasser, in dem der
-Radiergummi schwimmt wie ein sehr unglücklicher Karpfen.
 
 Am Nachmittag wird es in der Wohnung leiser als leise; das Licht kippt ins
 nordische Grau, das alles wie mit Backpapier überzieht. Ich lege mich fünf
@@ -91,7 +84,7 @@ den Luxus dünnerer Mullbinden. Sieht beinahe nach „bald wieder Schuhe“ aus.
 nicke mir selbst zu. „Braves Mädchen“, sagt die Stimme in meinem Kopf, die ein
 bisschen nach Sini klingt.
 
-Als der Regen ansetzt, beginne ich mit der Abendküche. Die Fischstäbchen zischen
+Als der Regen ansetzt, beginne ich mit dem Abendessen. Die Fischstäbchen zischen
 und spritzen, die Erbsen ploppen in der Pfanne wie kleine grüne Morsezeichen.
 Ich decke den Tisch. Den Zettel lege ich zwischen die Teller, damit er den Abend
 mit uns verbringt.
@@ -99,13 +92,13 @@ mit uns verbringt.
 Die Tür geht. Nasser Wind, Jackenrascheln, der Geruch nach Hafen – eine Mischung
 aus Metall, draußen und einem Hauch Diesel. Sini tritt herein, schüttelt Tropfen
 aus den Haaren, hängt den Ausweis an den Haken, als sei er ein müder Fisch.
-„Hei.“ Ihre Stimme hat eine tiefe, weiche Kante nach langen Schichten.
+„Hei.“ **Ihre Stimme hat eine tiefe, weiche Kante nach langen Schichten.**
 
 Ich halte ihr mein Heft hin wie eine Medaille. Sie setzt sich, stützt den
 Ellbogen auf, nimmt die Rolle der strengen Assistentin ein, als hätte sie das
 irgendwo geübt. Ich erkläre den Ausgangszustand, die jährliche Vermehrung, die
 Sterblichkeit, das Durchzählen über drei Jahre, alles ohne die Formeln, die
-schon brav in der anderen Datei schlafen. Sie nickt jeweils sehr ernst, wobei
+schon brav **in der anderen Datei schlafen**. Sie nickt jeweils sehr ernst, wobei
 ihre Braue manchmal klettert, wenn ich mich in Begeisterung wiederhole. Dann
 klappe ich das Heft zu, halte die Pointe wie ein Schild hoch: „Und jetzt die
 praktische Folge: Population nach Jahr drei: minus zehn, weil wir Hunger haben.“
@@ -137,9 +130,8 @@ Faden bleibt ganz.
 
 Später sitze ich wieder am Tisch und schreibe „Fischsee – bestanden“ auf die
 letzte Zeile. Ich falte den herzförmigen Zettel einmal, zweimal, stecke ihn
-zwischen die Seiten meines Hefts. Er riecht nach Kaffee und ein bisschen nach
-Fjällräven. Ich lege die Beine noch einmal hoch, betaste die Verbände: warm,
-weich, nicht mehr beleidigt. „Morgen bleibst du wieder hier“, sage ich zu meinen
+zwischen die Seiten meines Hefts. Ich lege die Beine noch einmal hoch, betaste die Verbände: warm,
+weich, nicht mehr beleidigt. „Morgen bleiben wie wieder hier“, sage ich zu meinen
 Füßen. „Wir rechnen uns gesund.“
 
 Ob es morgen wieder einen Zettel gibt? Ich weiß es nicht. Ich tue so, als wäre

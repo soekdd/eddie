@@ -27,13 +27,13 @@ nicht mal die Lehrer finden Worte.
 Greta sagt immer wieder: „So etwas passiert nicht hier. Nicht in Schweden.“ Aber
 es ist passiert. Ein Schuss hat das Bild dieser sicheren Welt zerrissen.
 
-Vidar kommt direkt nach der Schule zu mir in die WG, acuch er ist betroffen und
+Vidar kommt direkt nach der Schule zu mir in die WG, auch er ist betroffen und
 traurig.
 
 Dann kommen die Gerüchte. Der Täter soll aus dem Drogenmilieu stammen. Die
-Nachrichten nennen eine Beschreibung: mittelgroß, schlank, dunkle Haare. Mir
-zieht es den Boden weg. Denn das ist er. Oder könnte er sein. Der Mann, den ich
-längst in die hinterste Kammer meines Kopfes gesperrt habe.
+Nachrichten nennen eine Beschreibung: mittelgroß, Anfang 40, schlank, dunkle
+Haare, Narbe. Mir zieht es den Boden weg. Denn das ist er. Oder könnte er sein.
+Der Mann, den ich längst in die hinterste Kammer meines Kopfes gesperrt habe.
 
 Alles ist plötzlich wieder da. Sein Griff, sein Atem, diese schmale Gasse. Ich
 habe geglaubt, ich hätte es vergessen. Aber der Schuss auf Palme hat auch meine

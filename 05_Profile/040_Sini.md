@@ -4,7 +4,8 @@ synopsis: 'Sini: 22‑jährige finnische Halb‑Sámi mit blauem Iro; charismati
 
 # Sinikka
 
-Sini: 22‑jährige finnische Halb‑Sámi mit blauem Iro; charismatisch, pragmatisch und humorvoll provokant – mischt Charme und Haltung, mit blinden Flecken.
+Sini: 22‑jährige finnische Halb‑Sámi mit blauem Iro; charismatisch, pragmatisch
+und humorvoll provokant – mischt Charme und Haltung, mit blinden Flecken.
 
 _AKA:_ Sini
 
@@ -97,4 +98,5 @@ _AKA:_ Sini
 
 ## Image Prompt
 
-Sini, 22, half-Sami, with a blue mohawk and sidecut, wearing a T-shirt and light fabric pants as well.
+Sini, 22, half-Sami, with a blue mohawk and sidecut, wearing a T-shirt and light
+fabric pants as well.

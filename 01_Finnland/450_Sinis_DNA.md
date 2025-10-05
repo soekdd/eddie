@@ -106,7 +106,7 @@ Brauen hoch. „Na sowas.“ Sie setzt sich, nimmt den Kaffee, mustert meine Fü
 Nur noch dünne Mullbinden, die Haut darunter blassrosa, nicht mehr entzündet.
 Sie nickt langsam. Dann legt sie den Löffel hin und sagt: „Heute kein Zettel. Du
 bist besser drauf. Heute erlaube ich dir den ersten kleinen Spaziergang.
-Erinnerst du dich an die Bänke am Hafen?“
+Erinnerst du dich an die Bänke am Hafen?“ **Bänke erklären**
 
 „Ja klar, warum?“
 
@@ -140,7 +140,7 @@ Feuerzeugen und losen Münzen finde ich eine Kiste Buntstifte. Ich überlege: So
 ich ein blitzsauberes Blatt aus ihrem Schreibtisch nehmen? Oder lieber meinen
 völlig aufgeweichten Matheblock? Die Entscheidung fällt schnell: der Block. Eine
 Seite mit dunklen Wasserrändern, zerknittert, aber noch brauchbar. Genau
-richtig. Sie trägt meine Geschichte in sich – Entbehrung, Flucht, Rettung. Wie
+richtig. Es trägt meine Geschichte in sich – Entbehrung, Flucht, Rettung. Wie
 könnte es passender sein?
 
 Ein Regal steht voller finnischer und schwedischer Biologielehrbücher. Moment,
@@ -172,7 +172,7 @@ Am Abend schlüpfe ich dann wieder in meine schwarzen Bergschuhe. Zum ersten Mal
 seit über einer Woche wage ich es – meine Füße protestieren kaum noch, und doch
 hasse und liebe ich dieses einzige Paar Schuhe zugleich. Sie haben mich
 geschunden, aber auch getragen. Der Weg durch die Stadt fühlt sich fremd an, als
-wäre ich hier nie gewesen, obwohl ich schon so lange bleibe.
+wäre ich hier nie gewesen, obwohl ich schon so lange bleibe. **Ausdruck**
 
 Sini hat mir den Weg beschrieben, und tatsächlich: Es ist leicht. Ich laufe
 langsam, nehme Rücksicht auf meine Füße. Ich erinnere mich an Sinis „keine
@@ -181,10 +181,8 @@ man muss. Als ich bei den Bänken ankomme, sehe ich Sini schon ganz klein über
 die Brücke laufen. Ihr blauer Iro wippt unverkennbar.
 
 Ich winke und setze mich auf die schönste Holzbank am kleinen Stadthafen, genau
-dort, wo die Masten Linien in den Himmel zeichnen und die Leinen leise klacken.
-Das Wasser riecht nach Metall und Algen, nach etwas, das immer schon da war.
-Sini setzt sich neben mich, beide Hände um ihren Rucksackriemen, als würde sie
-eine heimliche Trommel halten.
+dort, wo die Leinen in Masten leise klingeln.
+Sini setzt sich neben mich.
 
 „Wie geht es dir?“ frage ich schnell zuerst. Sie lacht: „Joo, ihan jees.“ – „Ja,
 ganz okay. Und wie geht es dir?“

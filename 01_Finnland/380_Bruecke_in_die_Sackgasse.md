@@ -104,7 +104,7 @@ Mänteln, und mich packen.
 
 Ich starre auf das Licht und sehe darin eine Falle. Ein Haus, das aussieht wie
 jedes andere, wird zur Bedrohung. Wenn ich hingehe, verraten sie mich, melden
-mich weiter, und ich lande genau da, wo ich nie wieder hinwollte, im
+mich weiter, und ich lande genau da, wo ich niemals hinwollte, im
 Jugendwerkhof oder in was Schlimmerem. Ich bleibe also liegen, presse mich unter
 das Dach, so flach wie möglich, als könnte mich der Regen tarnen. Jeder Schatten
 zwischen den Bäumen ist ein Verfolger, jedes Knacken ein Schritt. Ich höre

@@ -4,7 +4,9 @@ synopsis: 'Kurzprofil von Hauptfigur Eddie (Edda Riedel): 17‑jährige Dresdner
 
 # Edda Riedel
 
-Kurzprofil von Hauptfigur Eddie (Edda Riedel): 17‑jährige Dresdnerin, mathematisch begabt, eigenwillig und neugierig; Aussehen, Beziehungen, Antriebe und Konflikte im Überblick.
+Kurzprofil von Hauptfigur Eddie (Edda Riedel): 17‑jährige Dresdnerin,
+mathematisch begabt, eigenwillig und neugierig; Aussehen, Beziehungen, Antriebe
+und Konflikte im Überblick.
 
 _AKA:_ Eddie
 
@@ -124,4 +126,9 @@ _AKA:_ Eddie
 
 ## Image Prompt
 
-A 17-year-old gilr with very short, tousled blonde hair (slightly messy, not neat). She looks smart and resilient, but also feminine – soft features, expressive green eyes, blonde eyebrowns and a subtle youthful glow. No makeup. She is slim, a mixture of toughness and quiet charm. Her clothing is in the style of 1980s East Germany: an oversized green army jacket, worn red GDR tracksuit bottoms or sometimes an old oversized shirt.
+A 17-year-old gilr with very short, tousled blonde hair (slightly messy, not
+neat). She looks smart and resilient, but also feminine – soft features,
+expressive green eyes, blonde eyebrowns and a subtle youthful glow. No makeup.
+She is slim, a mixture of toughness and quiet charm. Her clothing is in the
+style of 1980s East Germany: an oversized green army jacket, worn red GDR
+tracksuit bottoms or sometimes an old oversized shirt.

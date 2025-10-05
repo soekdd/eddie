@@ -55,7 +55,7 @@ proofreading:
 Regen trommelt gegen die Fenster. Jemand zieht mir die Decke bis an die
 Schultern, und ich blinzle ins milchige Licht des Morgens. Mein Kopf ist nicht
 mehr brennend, nur schwer. Neben mir hockt sie – das Mädchen mit den blauen
-Haaren. Sie ist immer noch da. Auf dem Tisch liegen zwei Tassen, eine leer, eine
+Haaren. Sie ist immer noch da. Auf dem Tisch stehen zwei Tassen, eine leer, eine
 halbvoll; daneben meine klamm gewordene Karte und eine Schachtel mit Tabletten,
 die nicht meine sind. Ihre Augen fragen, bevor sie spricht.
 
@@ -99,7 +99,7 @@ sein sollten, an den Fersen offene Stellen, an den Zehen Blut, das sich mit
 Schmutz verbündet hat. Ich ziehe die Luft ein. Sie reagiert nicht mit Mitleid,
 sondern mit Tempo. Sani-Kasten auf, sterile Kompressen, eine Salbe, deren Geruch
 ich aus der Schulzeit kenne. Ihre Hände arbeiten ruhig, fest, entschlossen.
-„Nicht schön“, sagt sie und schaut mich dabei an, nicht die Wunden. „Aber wird.“
+„Nicht schön“, sagt sie und schaut mich dabei an. „Aber wird schon.“
 
 Ich atme durch, das Blut rauscht endlich leiser. Die Suppe ist verschwunden, der
 Kaffee zur Hälfte, mein Kopf ist innen aufgeräumter als vorhin. Das Mädchen mit

@@ -42,7 +42,7 @@ proofreading:
 # Immer ein See in der Nähe
 
 Heute verschlafe ich nicht. Ich sitze schon in der Küche, als Sini hereinkommt,
-noch feucht im Haar, den Terminalausweis um den Hals. Sie blinzelt überrascht,
+noch feucht im Haar, sie blinzelt überrascht,
 dann grinst sie. „Früh dran?“ Ich nicke, halte die Tasse hoch wie eine Trophäe.
 Wir frühstücken zusammen, Brot, Käse, Kaffee. Dann schiebt sie mir über den
 Tisch ein Papier, diesmal wellenförmig ausgeschnitten, als hätte eine Schere
@@ -57,9 +57,7 @@ Ich lache und puste Krümel über den Tisch. „Du spinnst.“ Sie lehnt sich zu
 
 Nach dem Frühstück ziehe ich die Mullbinden ab. Die Blasen sind fast verheilt,
 nur die tiefsten Stellen sind empfindlich. Ich wasche, tupfe, trage hauchdünn
-Salbe auf. Dann nur noch leichte Mullstreifen, damit nichts reibt. Es fühlt sich
-an wie Freiheit in Streifenform. Ich teste ein paar Schritte durch die Wohnung –
-kein Stechen mehr.
+Salbe auf. **hüpft durch die Wohnung**
 
 Dann kehre ich zum Zettel zurück. Ich male Finnland auf Küchenrolle, setze
 kleine blaue Tupfer für Seen. Ich rechne Flächen und Uferlängen, schreibe
@@ -67,9 +65,6 @@ kleine blaue Tupfer für Seen. Ich rechne Flächen und Uferlängen, schreibe
 
 > **➡ Tausend Seen**\
 > (…Im Band „Eddie rechnet“, Kapitel 14 zeige ich die ausführliche Rechnung.)
-
-(Die ernsthafte Rechnung: siehe
-Eddie_rechnet_Tag3_Tausend_Seen_Wahrscheinlichkeit.md.)
 
 Zwischendurch schaue ich in den Schrank. Kartoffeln, Zwiebeln, Käse. Ich
 beschließe, einen Auflauf zu machen. Und weil’s zum Thema passt, stelle ich eine
@@ -92,11 +87,11 @@ wieder. „Du solltest ein Schild tragen: Vorsicht, mathematisch frisiert.“
 Wir essen, reden über alles Mögliche: über die Fähre, die wegen Nebel verspätet
 war, über die Nachbarin, die immer dieselbe Schürze trägt, über Seen, die
 angeblich so klein sind, dass man sie im Sommer mit einem einzigen Schritt
-überspringen kann. Ich schaue sie an und denke: Da ist so viel mehr in ihr.
+überspringen kann. Ich schaue sie an und denke: **Da ist so viel mehr in ihr.
 Punk, Sámi, Biologie, Mathematik – alles in einem Körper, der gerade Auflauf
-schaufelt, als gäbe es kein Morgen.
+schaufelt, als gäbe es kein Morgen.**
 
-Später falte ich den Zettel, stecke ihn zu den anderen. Sie riechen inzwischen
+**Später falte ich den Zettel, stecke ihn zu den anderen. Sie riechen inzwischen
 nach Kaffee, Kartoffeln und ein bisschen nach Regen. Meine Füße liegen hoch,
 fast schmerzfrei. Und ich weiß: Morgen wird anders. Morgen werde ich aufstehen,
-bevor sie es tut.
+bevor sie es tut.**

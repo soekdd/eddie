@@ -111,9 +111,9 @@ proofreading:
     Note: 2
 ---
 
-# Keine Eile – Frühstück, Mutprobe & Hafenbank
+# Keine Eile
 
-Ich wache wieder auf Die Wohnung ist still, warm – und ich nicht. Ich liege auf
+Ich wache wieder auf. Die Wohnung ist still, warm – und ich nicht. Ich liege auf
 dem Sofa, der Schlaf ist eine alte Schallplatte, die ständig springt. Fieber
 brennt in mir, schiebt Bilder in meinen Kopf, die nicht zusammenpassen. Ich höre
 Stimmen im Flur, Schritte, die nicht da sind. Manchmal sehe ich meine Mutter,
@@ -208,12 +208,11 @@ sein; der Feministin ist, ohne das Wort zu tragen wie ein Schild; jemand, der
 „keine Eile“ sagt und doch immer dann da ist, wenn die Füße schwach werden. Eine
 Freundin, die nicht fragt, ob sie darf – sondern ob ich will.
 
-„Morgen“, sagt Sini schließlich, „kein Heldinnentum. Kaffee. Verbände.
+**„Morgen“**, sagt Sini schließlich, „kein Heldinnentum. Kaffee. Verbände.
 Vielleicht eine kurze Runde in der Stadt. Und wenn du ganz brav bist, reden wir
 in ein paar Tagen mit echten Busfahrern.“
 
-„Ich bin nie brav“, sage ich, und wir grinsen so breit, dass das Hafenwasser
-zurückgrinst.
+„Ich bin nie brav“, sage ich, und wir grinsen so breit.
 
 Als wir zu Bett gehen, weiß ich: Das ist der Ort, an dem sich eine Kette
 schlechter Entscheidungen in eine Geschichte von Mut verwandelt. Sini streift

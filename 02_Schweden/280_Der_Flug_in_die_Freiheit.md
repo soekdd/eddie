@@ -29,7 +29,7 @@ Maschine.
 
 Ich schließe die Augen und lege die Hand an die dünne Wand des Fensters. Unter
 mir, irgendwo im Frachtraum, liegt Streuner in seiner Box. Er wird sich
-schrecklich führchten. Seine Kuscheldecke und mein altes T-Shirt leisten ihm
+schrecklich fürchten. Seine Kuscheldecke und mein altes T-Shirt leisten ihm
 Gesellschaft. Bald mein Freund, bist auch Du wieder frei. Neben mir sitzen
 Männer in grauen Anzügen, die über Politik reden. Aber ich höre nichts davon. In
 meinem Kopf rauschen nur die Lichter, die ich eben noch sah, und die Ahnung,

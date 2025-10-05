@@ -77,7 +77,7 @@ kennt mich.“
 Die Türklingel reißt mich hoch. Ich starre, halb aus dem Sofa gerollt, halb im
 Traum. Wird jetzt die Polizei kommen? Werde ich — wieder — gepackt? Die Stimme
 an der Tür ist rau, aber warm. „Hyvä ilta,“ sagt ein Mann, und seine Stimme hat
-etwas Beruhigendes, als hätte sie zu viele Winter gehört. Er ist alt, der Arzt —
+etwas Beruhigendes. Er ist alt, der Arzt —
 klein, mit einem freundlichen Gesicht, einem großen Mantel und diesen Händen,
 die nach Arbeit riechen. Seine Augen sind wach und sanft.
 
@@ -85,7 +85,7 @@ Sini führt ihn hinein. Er beugt sich zu mir, murmelt auf Finnisch etwas, das wi
 „Ei huolta“ klingt — keine Sorge — und ich will glauben. Doch in mir hängt immer
 diese Angst: Er darf mich nicht der Polizei melden. Sini trifft seinen Blick,
 und in ihrem Gesicht sehe ich die Abwägung eines Versprechens. Er nickt nur, als
-hätte sie ihm etwas zugesichert.
+hätte er ihr etwas zugesichert.
 
 Er zieht Handschuhe an. Sini schneidet die alten Verbände mit einer kleinen
 Schere auf, als öffne sie eine Dose Unheil. Ich schreie, aber es kommt nur ein
@@ -119,7 +119,7 @@ vorher — eher wie eine Erinnerung an Schmerz.
 
 Sini beugt sich über mich, legt die Hand an meine Stirn, zählt still bis fünf.
 „Suihkuun nyt,“ sagt sie schließlich, ruhig wie ein Beschluss. Dann auf
-Englisch, für mich: „Shower.“ Bevor ich protestieren kann, kniet sie schon an
+Englisch, für mich: „Shower.“ **Tütchen um die Verbände** Bevor ich protestieren kann, kniet sie schon an
 meinen Füßen, löst behutsam die Verbände, prüft jede Stelle mit dem Blick einer
 Mechanikerin, die ihr Werkzeug kennt. „First off, then water, then new,“ murmelt
 sie, mehr zu sich als zu mir. Sie stützt mich hoch, ein Arm um meine Taille, der
@@ -129,7 +129,7 @@ sie mir das Shirt über den Kopf und führt mich in ihre Duschkabine.
 Das Wasser ist warm, aber mein Körper zittert, als stünde ich unter Eis. Ich
 lehne gegen die Fliesen, während sie die Seife auf meine Haut schäumt. „Mücken“,
 sagt sie knapp, als sie die roten Kratzer an meinen Armen sieht. Ich nicke,
-heiser. Blut an den Fingernägeln, Wunden, die nicht heilen wollen.
+kurz. Blut an den Fingernägeln, Wunden, die nicht heilen wollen.
 
 Danach trocknet sie mich ab, legt mich wieder auf das Sofa und verbindet die
 Füße neu. Ihre Finger sind sicher, der Druck fest, aber nie zu fest. Die neuen

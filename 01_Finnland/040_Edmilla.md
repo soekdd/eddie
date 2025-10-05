@@ -134,7 +134,7 @@ nur für die Sprache. Sonst: ‚sowjetisch‘.“
 девочка. Ich bin Edmilla, ein hübsches, typisch sowjetisches Mädchen. Schlank,
 im Kleidchen, mit albernen Spangen und Bändern im Haar, notorisch unpünktlich,
 immer mit riesiger Tasche. Politisch aber zuverlässig… und ich trage schwarze
-Schuhe!“
+Schuhe!“ **tschechische Bergschuhe**
 
 „Was? Wieso?“
 

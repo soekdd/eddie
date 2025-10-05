@@ -67,7 +67,13 @@ Es ist eine Nacht später, vielleicht auch zwei. Zeit verschwimmt. Ich streife
 durch eine Seitenstraße, weit weg von den hellen Plätzen, auf der Suche nach
 etwas Essbarem. Als der Typ mich anspricht, denke ich zuerst, er wolle nur
 Zigaretten schnorren. Ich kenne ihn vom Sehen – immer fahrig, immer mit
-flackernden Pupillen. Ich antworte knapp, will eigentlich weiter. Doch seine
+flackernden Pupillen. Sein Gesicht ist hartkantig, vom Wetter und von zu viel
+Billigalkohol gegerbt; eine Narbe zieht sich zur Schläfe, die Augen stehen ein
+bisschen zu weit auseinander, die Nasenspitze ist rot und aufgeraut. Er trägt
+einen alten, dunklen Mantel, zu groß an den Schultern, die Ärmel ausgefranst;
+seine Hände sind groß, die Finger dick und rau, die Knöchel ständig weiß von der
+Kälte. Wenn er lacht, zeigen sich gelbe Zähne, und es riecht nach billigem
+Schnaps und altem Tabak. Ich antworte knapp, will eigentlich weiter. Doch seine
 Hand packt plötzlich mein Handgelenk, viel zu fest. Ich versuche zu lachen, es
 locker zu nehmen, wie man das hier eben tut, wenn man nicht auffallen will. Aber
 er zieht, grob, unnachgiebig. Mein Herz rast sofort. Nicht jetzt, nicht hier.

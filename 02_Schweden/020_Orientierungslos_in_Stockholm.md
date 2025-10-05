@@ -145,16 +145,44 @@ lachen, einer zieht an einer Zigarette. Für mich aber sind sie nur eines:
 Gefahr. Ich spüre, wie mein Herz rast. Sie müssen mich suchen. Es ist eine
 Falle. Die Kirche, der Tipp, alles – eine Falle.
 
+Hier ist eine deutlich ausgebaute Fassung, die den Weg von der Sofia-Kirche bis
+unter die Västerbron erzählt:
+
 Ich drehe mich abrupt um, stolpere fast die Stufen hinunter. Meine Hände
-zittern. Weg, nur weg.
+zittern. Weg, nur weg. „Schhh,“ höre ich plötzlich neben mir. Eine Stimme, rau
+wie altes Papier. Eine Frau sitzt auf einer Bank, ein Bündel Plastiktüten zu
+ihren Füßen, die grauen Haare wirr, die Augen wässrig, aber aufmerksam. Sie hat
+gesehen, wie ich vor den Polizisten zurückschrecke. „No police,“ murmelt sie und
+schüttelt den Kopf. „Come.“ Ich weiß nicht, warum ich ihr folge. Vielleicht,
+weil ihre Stimme nicht nach Befehl klingt, sondern nach Mitleid. Vielleicht,
+weil ich keine andere Wahl habe. Sie hebt ihre Tüten, sie rascheln wie nasse
+Segel, und wir gehen los—durch enge Straßen, hinab zwischen Felsen und Wiesen,
+weg von der Kirche, weg von Vita Bergen.
 
-„Schhh,“ höre ich plötzlich neben mir. Eine Stimme, rau wie altes Papier. Eine
-Frau sitzt auf einer Bank, ein Bündel Plastiktüten zu ihren Füßen, die grauen
-Haare wirr, die Augen wässrig, aber aufmerksam. Sie hat gesehen, wie ich vor den
-Polizisten zurückschrecke. „No police,“ murmelt sie, und schüttelt den Kopf.
-„Come.“
+Anfangs halte ich den Abstand, atme flach (Mann, die riecht echt streng—kalter
+Rauch, alte Wolle, feuchte Pappe), doch ihre Schritte sind ruhig, so sicher, als
+wären die Wege ihr Wohnzimmer. Wir schlagen einen Bogen nach Nordwesten, queren
+breite Straßen mit gelben Laternenkegeln, tauchen wieder in schmale Gassen. Mein
+innerer Kompass kippt nach und nach (soll ich der verrückten Alten noch
+folgen?), die Lichter verschwimmen, nasse Blätter kleben an den Sohlen. Einmal
+bleibt sie stehen, hebt das Kinn, lauscht, als ob die Stadt ihr Antwort gäbe,
+und nickt nur: weiter.
 
-Ich weiß nicht, warum ich ihr folge. Vielleicht, weil ihre Stimme nicht nach
-Befehl klingt, sondern nach Mitleid. Vielleicht, weil ich keine andere Wahl
-habe. Sie schleppt ihre Tüten hoch, winkt mir, und wir gehen durch enge Straßen,
-hinein in einen Park.
+Nach einer Weile — eine Stunde? — öffnet sich vor uns Wasser wie schwarzes Glas.
+Wir tasten an einem niedrigen Geländer entlang, überqueren eine alte, schmale
+Brücke, so dicht über dem Kanal, dass der Wind Algen und Metall in die Nase
+drückt. Auf der Insel riecht es nach Laub und Geschichte; zwischen Bäumen duckt
+sich ein langes, dunkles Gebäude. Die Frau redet kaum, nur manchmal ein „Här“
+oder „Inte där“, wenn ich falsch treten will. (Ich verliere langsam die
+Orientierung.) Ihre Tüten klopfen gegen die Knie, mein Herz gegen die Rippen.
+
+Noch einmal über Wasser, diesmal nur ein Sprung, und dann Wiese, viel Wiese—und
+über uns das tiefe Dröhnen einer großen Brücke. Die Pfeiler stehen wie kalte
+Stämme; hier bleibt der Regen draußen. „Good place,“ sagt sie und legt eine Tüte
+ab. Sie zeigt mir eine Mulde hinter einer Böschung, trocken genug für die Nacht.
+Ich sammle Pappe, die der Wind an einen Zaun gepresst hat, breite meine Jacke
+als Kissen, stopfe Zeitung in die Schuhe. Die Frau zieht eine zerknitterte Decke
+aus einer ihrer Tüten, legt sie mir wortlos hin und deutet auf die
+Schattenkanten: Dort, nicht vor dem Wind. Über uns summt der Verkehr wie ferne
+See. Ich rolle mich ein, spüre den Brückendonner im Brustkorb und denke: Nur für
+heute. Nur so lange, bis mir wieder klar ist, wohin.

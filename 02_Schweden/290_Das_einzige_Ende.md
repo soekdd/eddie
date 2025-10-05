@@ -27,7 +27,7 @@ nacharbeiten zu müssen. Vier Monate Untersuchungshaft – und doch wieder hier,
 Institut, mit gebeugtem Rücken, die Augen gerötet, aber unbeirrbar am Arbeiten.
 
 Die Gänge sind still, fast gespenstisch um diese Zeit. Da klappern Schritte,
-schneller, energischer. Die Tür fliegt auf und sein Chef rauscht hinein,
+schneller, energischer. Die Tür fliegt auf und Radmer sein Chef rauscht hinein,
 strahlend wie immer, die Krawatte ein bisschen schief, aber das Lächeln groß und
 selbstzufrieden. Er tritt an den Tisch, beugt sich über die Papiere meines
 Vaters und sagt mit dieser lauten, verschwörerischen Stimme, so als sollte es
@@ -42,7 +42,7 @@ Fesseln von ihm genommen. Ein Zittern geht durch ihn, und dann laufen ihm die
 Tränen übers Gesicht. Einfach so, mitten im Institut, vor allen verbliebenen
 Kollegen.
 
-Sein Chef ist verwirrt, gerührt, vielleicht ein bisschen beschämt. „Aber… das
+Radmer ist verwirrt, gerührt, vielleicht ein bisschen beschämt. „Aber… das
 nimmst Du Dir ja sehr zu Herzen, mein Lieber…“
 
 Doch mein Vater hört ihn gar nicht mehr. Er springt auf, stößt fast den Stuhl um

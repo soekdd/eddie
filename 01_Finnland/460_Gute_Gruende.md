@@ -124,8 +124,7 @@ Manos plus die Einladung zu einem Aufnahmetest im Frühjahr.“
 „Und du hast ihn mit links bestanden“, sagt Sini.
 
 „Mit beiden Händen in den Taschen“, sage ich. „Es war… nicht schwer. Ein paar
-Beweise, ein paar Kombinatorik-Sachen. Ich hab’ beim Rausgehen meinen Kuli
-verloren, das war das Schwierigste.“
+Beweise, ein paar Kombinatorik-Sachen.
 
 Sini kichert.
 
@@ -178,7 +177,7 @@ geplante Aufnahme der Schülerin Edda R. an die Erweiterte Oberschule
 Martin-Andersen-Nexö mitgeteilt wurde. Die Schülerin hat trotz gewisser
 mathematischer Begabungen bisher keine ausreichende Verbundenheit mit unserer
 sozialistischen Gesellschaftsordnung erkennen lassen. Es zeigten sich wiederholt
-intellektualistische Tendenzen, bürgerlicher Individualismus und mangelnde
+*** Tendenzen, bürgerlicher Individualismus und mangelnde
 kollektiv-erzieherische Einordnung. In Versammlungen trat sie durch
 rechthaberische Diskussionsbeiträge auf, die geeignet sind, die klassenbewusste
 Haltung der Mitschüler zu verunsichern. Eine EOS ist ein Ort für politisch
@@ -196,7 +195,7 @@ Augen, weil er einen Plan sah.“
 
 „Dein Vater ist mein heimlicher Held“, sagt Sini leise.
 
-Ich nicke. „Er hat seinen Chef, seinen Professor an der Uni, angerufen. Der
+Ich nicke. „Er hat seinen Chef, seinen Professor an der Uni gesprochen. Der
 Professor kannte den Dekan der Mathe-Fakultät. Innerhalb von zwei Tagen hatten
 sie einen kleinen…“, ich forme mit den Fingern Gänsefüßchen
 „…proletarisch-akademischen Gipfel organisiert: den Dekan, den Direktor der
@@ -205,15 +204,15 @@ meine Eltern. In einem Zimmer, an einem Tisch.“
 
 „Und du?“, fragt Sini.
 
-„Ich war draußen. Ich saß auf der Fensterbank im Flur und zählte die Quadrate
-der Bodenfliesen. Ich habe versucht zu lauschen, und gleichzeitig war mir
+„Ich war draußen. Ich saß auf der Fensterbank im Flur und habe versucht zu lauschen.
+Gleichzeitig war mir
 schlecht.“
 
 Ich streiche mir über den Nacken. „Ich hab’ nur Bruchstücke mitbekommen. Durch
 die Tür. Ich hörte Wörter wie ‚Förderlinie‘, ‚Begabtenentwicklung‘, ‚staatliche
 Interessen‘. Dann wurde es lauter. Mein Direktor hat gebrüllt: ‚Die Kleine ist
 nicht gefestigt!‘ Und der Manos-Direktor sagte trocken: ‚Wir nehmen sie wegen
-Mathe, nicht wegen Liedgut.‘“
+Mathe, nicht wegen **Liedgut**.‘“
 
 Sini prustet. „Ich will diesem Mann ein Bier ausgeben.“
 
@@ -221,7 +220,7 @@ Sini prustet. „Ich will diesem Mann ein Bier ausgeben.“
 egal ist, und der nur überlegt, was er später in seinem Bericht schreibt. Der
 Dekan hat Zahlen aufgezählt — meine Punkte, Bezirksplätze, Empfehlungsschreiben.
 Er hat das Wort ‚außergewöhnlich‘ benutzt. Es war das erste Mal, dass mir das
-peinlich war. Ich stand da und fühlte mich wie ein Paket Mehl, das hin- und
+peinlich war. Ich fühlte mich wie ein Paket Mehl, das hin- und
 hergeschoben wird.“
 
 Ich schaue Sini an. „Am Ende kam mein Vater heraus, legte mir kurz die Hand auf

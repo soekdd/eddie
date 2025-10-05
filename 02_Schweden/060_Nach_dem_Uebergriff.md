@@ -54,7 +54,7 @@ vielleicht einen Ausweg finde.
 
 Ich erinnere mich, als wäre es jetzt.
 
-Die Kirche. Ein heller Raum, es riecht nach Suppe, nach frisch gewaschenen
+Die Bahnhofsmission. Ein heller Raum, es riecht nach Suppe, nach frisch gewaschenen
 Hemden von den Helfern, nach einem Leben, das nicht meines ist. Ich drücke mich
 in die hintere Ecke, hungrig, aber auch nervös. An der Essensausgabe steht er.
 Ein Junge, vielleicht ein Jahr älter als ich. Er reicht mir einen Teller,

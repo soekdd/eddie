@@ -211,7 +211,7 @@ Pflicht, und die fühlt sich an wie eine Strafe. Ich bin siebzehn, keine
 Überlebenskünstlerin, ich will nur nach Hause. Ich will meine Mutter.
 Stattdessen gehe ich immer weiter, völlig aufgefressen.
 
-Die Karte lügt: „ikkeläjärven laavu“ sollte die nächste Station sein. Der Himmel
+Die Karte lügt: „Ikkeläjärven laavu“ sollte die nächste Station sein. Der Himmel
 schüttet, der Boden klebt, am Ziel – nichts. Nur Wald, Felder, Leere. Ich starre
 auf die Stelle, als könnte ich die Hütte herbeizaubern. Dann sehe ich am Rand
 der Felder einen Hof: rote Gebäude, eine Reihe Birken davor, ein Weg biegt
@@ -231,14 +231,13 @@ kippe ins Heu, nicht weil ich will, sondern weil ich nicht mehr kann.
 Am Morgen ist der Regen schwächer. Ich auch. Die Felder dampfen, meine Haut
 juckt, die Hände sind aufgedunsen, voller Stiche wie ein Schlachtfeld. Ich gehe
 weiter, nicht mutig, nicht stark, nur weil die Beine noch tun, was sie sollen.
-Am Fluss endlich der Shelter mutterilaavu. Klein, trocken, ordentlich. Ich
+Am Fluss endlich der Shelter Mutterilaavu. Klein, trocken, ordentlich. Ich
 wasche mein Hemd, lache heiser – ein Geräusch, das so fremd klingt, dass ich
 selbst erschrecke.
 
-Ich koche dünnen Tee, halte ihn, als wäre er mein Herzschlag. Der Husten bleibt,
+Ich koche dünnen Tee. Der Husten bleibt,
 tief, dunkel. Aber die Sachen trocknen, der Rucksack wird leichter. Ich lege die
 Karte auf die Bank, ziehe die Linie mit dem Finger. Luftlinie: wenig.
 Wirklichkeit: unendlich. Ich will schreien, stampfen, alles hinschmeißen.
-Stattdessen schnüre ich die Schuhe. Ich schaue auf meine aufgeweichten Zehen,
-auf meine zerstochenen Hände. Sieg? Nein. Nur Fortsetzung. Und manchmal reicht
+Stattdessen schnüre ich die Schuhe. Sieg? Nein. Nur Fortsetzung. Und manchmal reicht
 das gerade so.

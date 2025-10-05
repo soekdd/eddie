@@ -58,15 +58,14 @@ Depots anlegt? Gehgeschwindigkeit 20 km pro Tag.“
 Ich schaue hoch. „Sini …?“ Aber sie schlüpft schon aus der Wohnung, winkt kurz
 und ruft: „Füße hoch! Nicht schummeln!“
 
-Ich setze mich, lege die Beine auf den Nachbarstuhl, löse vorsichtig die
+**Ich setze mich, lege die Beine auf den Nachbarstuhl,** löse vorsichtig die
 Verbände. Die Haut darunter sieht besser aus, nicht mehr so rot, nur noch zart
 rosa. Ich wasche, trockne, lege dünnere Mullstreifen auf. Ich nicke.
 Fortschritt.
 
 Dann stürze ich mich in das Depot-Problem. Ich rechne mit Rationen wie mit
 Goldbarren, kritzle kleine Lagerhaufen und Pfeile, male sogar Rentiergeweihe
-neben die Zahlen. (Die ernsthafte Rechnung: siehe
-Eddie_rechnet_Tag2_Depots_und_Rentiere.md.) Ich stopfe zwischendurch Wäsche in
+neben die Zahlen. Ich stopfe zwischendurch Wäsche in
 die Maschine und ertappe mich dabei, den Rhythmus der Trommel in „zwanzig
 Kilometer, zwanzig Kilometer“ umzudichten.
 
@@ -75,7 +74,7 @@ Als ich im Schrank nach Essbarem suche, entdecke ich eine Dose mit
 beschließe, sie für abends aufzuheben, dazu Kartoffeln. Zum Mittag gibt’s
 Pfannkuchen, mit verbrannter Kante, aber egal.
 
-Am Abend kommt Sini herein, riecht nach Regen, Hafen und Eisen. Sie wirft die
+Am Abend kommt Sini herein. Sie wirft die
 Jacke über den Stuhl, lässt die Tasche in die Ecke fallen. Ich habe die Dose
 geöffnet, die Kartoffeln gekocht, den Tisch gedeckt. Und neben dem Teller mein
 Heft, aufgeschlagen auf der letzten Seite: die Skizzen einer Expedition mit
@@ -102,13 +101,12 @@ meinte, sie sei die einzige mit den Zahlen im Kopf.
 Sie stößt mich mit der Schulter an. „Na los, probier. Ich hab Hunger.“
 
 Wir essen. Ich erkläre noch einmal die Strategie, diesmal spielerisch: „Depot
-eins: hier am Tisch. Depot zwei: deine Jackentasche. Enddistanz: bis zum Sofa,
+eins: hier am Tisch. Depot zwei: die Gabel. Enddistanz: bis zum Sofa,
 bevor wir umfallen.“ Sie lacht laut, kippt fast vom Stuhl.
 
 > **➡ Rentier-Depot**\
 > (…Oft schreibt man diese Aufgabe so, als sei es Napoleon, der seinen Feldzug plant. Doch Sinis Rentiere passen viel besser zum finnischen Erfinder der Aufgabe. Kapitel 13, im Band „Eddie rechnet“)
 
 Später schreibe ich „Rentier-Depot – bestanden“ unter die Aufgabe, falte den
-Zettel, stecke ihn zu dem vom Vortag. Sie riechen inzwischen nach Kaffee,
-Kartoffeln und einem Hauch Geheimnis. Ich lege meine Füße hoch. Sie danken es
+Zettel, stecke ihn zu dem vom Vortag.Ich lege meine Füße hoch. Sie danken es
 mir. Und ich danke ihr, leise, ohne Worte.
