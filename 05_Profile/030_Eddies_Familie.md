@@ -4,9 +4,7 @@ synopsis: 'Familienprofil: Vater kluger Ingenieur, politisch blockiert; Mutter k
 
 # Eddies Familie
 
-Familienprofil: Vater kluger Ingenieur, politisch blockiert; Mutter kreative
-Projektantin, ahnt Eddies Plan; kleiner Bruder geschützt — Bindungen, Werte und
-DDR‑Konflikte im Überblick.
+Familienprofil: Vater kluger Ingenieur, politisch blockiert; Mutter kreative Projektantin, ahnt Eddies Plan; kleiner Bruder geschützt — Bindungen, Werte und DDR‑Konflikte im Überblick.
 
 ## Basic
 - Relation To Eddie: Eltern und kleiner Bruder

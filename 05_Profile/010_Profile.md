@@ -5,4 +5,4 @@ synopsis: 'Auf den folgenden Seiten sind die Profile der wichtigsten Charaktere 
 # Profile
 
 Auf den folgenden Seiten sind die Profile der wichtigsten Charaktere der
-Geschichte abgelegt
+Geschichte abgelegt.

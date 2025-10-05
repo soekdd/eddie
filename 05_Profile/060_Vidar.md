@@ -4,8 +4,7 @@ synopsis: 'Vidar: 17‑jähriger Stockholmer mit koreanischen Wurzeln – still,
 
 # Vidar
 
-Vidar: 17‑jähriger Stockholmer mit koreanischen Wurzeln – still, gläubig,
-hilfsbereit; ringt mit Fremdheitsgefühl und wird Eddies leiser Halt.
+Vidar: 17‑jähriger Stockholmer mit koreanischen Wurzeln – still, gläubig, hilfsbereit; ringt mit Fremdheitsgefühl und wird Eddies leiser Halt.
 
 ## Basic
 - Age: 17
