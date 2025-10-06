@@ -65,20 +65,20 @@ Fortschritt.
 
 Dann stürze ich mich in das Depot-Problem. Ich rechne mit Rationen wie mit
 Goldbarren, kritzle kleine Lagerhaufen und Pfeile, male sogar Rentiergeweihe
-neben die Zahlen. Ich stopfe zwischendurch Wäsche in
-die Maschine und ertappe mich dabei, den Rhythmus der Trommel in „zwanzig
-Kilometer, zwanzig Kilometer“ umzudichten.
+neben die Zahlen. Ich stopfe zwischendurch Wäsche in die Maschine und ertappe
+mich dabei, den Rhythmus der Trommel in „zwanzig Kilometer, zwanzig Kilometer“
+umzudichten.
 
 Als ich im Schrank nach Essbarem suche, entdecke ich eine Dose mit
 „Poronkäristys“. Rentier-Eintopf. Natürlich. Ich lache laut. Passt. Ich
 beschließe, sie für abends aufzuheben, dazu Kartoffeln. Zum Mittag gibt’s
 Pfannkuchen, mit verbrannter Kante, aber egal.
 
-Am Abend kommt Sini herein. Sie wirft die
-Jacke über den Stuhl, lässt die Tasche in die Ecke fallen. Ich habe die Dose
-geöffnet, die Kartoffeln gekocht, den Tisch gedeckt. Und neben dem Teller mein
-Heft, aufgeschlagen auf der letzten Seite: die Skizzen einer Expedition mit
-Depots, ein kleiner Edding-Kreis um „≈ 70 km maximal“.
+Am Abend kommt Sini herein. Sie wirft die Jacke über den Stuhl, lässt die Tasche
+in die Ecke fallen. Ich habe die Dose geöffnet, die Kartoffeln gekocht, den
+Tisch gedeckt. Und neben dem Teller mein Heft, aufgeschlagen auf der letzten
+Seite: die Skizzen einer Expedition mit Depots, ein kleiner Edding-Kreis um „≈
+70 km maximal“.
 
 Ich deute darauf, halte eine kleine Rede über Lagerstrategien, über Hin- und
 Rückwege. Sini hört zu, die Ellbogen auf den Tisch gestützt, Kinn auf die Hände
@@ -101,8 +101,8 @@ meinte, sie sei die einzige mit den Zahlen im Kopf.
 Sie stößt mich mit der Schulter an. „Na los, probier. Ich hab Hunger.“
 
 Wir essen. Ich erkläre noch einmal die Strategie, diesmal spielerisch: „Depot
-eins: hier am Tisch. Depot zwei: die Gabel. Enddistanz: bis zum Sofa,
-bevor wir umfallen.“ Sie lacht laut, kippt fast vom Stuhl.
+eins: hier am Tisch. Depot zwei: die Gabel. Enddistanz: bis zum Sofa, bevor wir
+umfallen.“ Sie lacht laut, kippt fast vom Stuhl.
 
 > **➡ Rentier-Depot**\
 > (…Oft schreibt man diese Aufgabe so, als sei es Napoleon, der seinen Feldzug plant. Doch Sinis Rentiere passen viel besser zum finnischen Erfinder der Aufgabe. Kapitel 13, im Band „Eddie rechnet“)

@@ -212,8 +212,8 @@ bricht, meine Beine auch. Und doch treffe ich einen Weg. Kein Schild, nur
 Lkw-Spuren und ein gequetschter Frosch als Beweis, dass Zivilisation noch
 existiert. Ich kippe fast um vor Erleichterung.
 
-Aber ich habe Angst. Angst, dass ich mich verrechnet habe, dass ich mich wieder um
-ein Quadrat verzählt habe. Ich weine wieder, weil ich zu müde bin, mich zu
+Aber ich habe Angst. Angst, dass ich mich verrechnet habe, dass ich mich wieder
+um ein Quadrat verzählt habe. Ich weine wieder, weil ich zu müde bin, mich zu
 freuen. Meine Beine sind Holz, mein Kopf rechnet Kreise: Distanz A, Distanz B,
 Schnittpunkt C. Jeder Schnitt lässt meinen Körper noch mehr nachgeben.
 

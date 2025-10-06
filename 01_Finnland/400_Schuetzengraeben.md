@@ -77,9 +77,9 @@ kennt mich.“
 Die Türklingel reißt mich hoch. Ich starre, halb aus dem Sofa gerollt, halb im
 Traum. Wird jetzt die Polizei kommen? Werde ich — wieder — gepackt? Die Stimme
 an der Tür ist rau, aber warm. „Hyvä ilta,“ sagt ein Mann, und seine Stimme hat
-etwas Beruhigendes. Er ist alt, der Arzt —
-klein, mit einem freundlichen Gesicht, einem großen Mantel und diesen Händen,
-die nach Arbeit riechen. Seine Augen sind wach und sanft.
+etwas Beruhigendes. Er ist alt, der Arzt — klein, mit einem freundlichen
+Gesicht, einem großen Mantel und diesen Händen, die nach Arbeit riechen. Seine
+Augen sind wach und sanft.
 
 Sini führt ihn hinein. Er beugt sich zu mir, murmelt auf Finnisch etwas, das wie
 „Ei huolta“ klingt — keine Sorge — und ich will glauben. Doch in mir hängt immer
@@ -119,12 +119,13 @@ vorher — eher wie eine Erinnerung an Schmerz.
 
 Sini beugt sich über mich, legt die Hand an meine Stirn, zählt still bis fünf.
 „Suihkuun nyt,“ sagt sie schließlich, ruhig wie ein Beschluss. Dann auf
-Englisch, für mich: „Shower.“ **Tütchen um die Verbände** Bevor ich protestieren kann, kniet sie schon an
-meinen Füßen, löst behutsam die Verbände, prüft jede Stelle mit dem Blick einer
-Mechanikerin, die ihr Werkzeug kennt. „First off, then water, then new,“ murmelt
-sie, mehr zu sich als zu mir. Sie stützt mich hoch, ein Arm um meine Taille, der
-andere greift nach dem Handtuch. Ich lasse mich führen. Im Bad angekommen, zieht
-sie mir das Shirt über den Kopf und führt mich in ihre Duschkabine.
+Englisch, für mich: „Shower.“ **Tütchen um die Verbände** Bevor ich protestieren
+kann, kniet sie schon an meinen Füßen, löst behutsam die Verbände, prüft jede
+Stelle mit dem Blick einer Mechanikerin, die ihr Werkzeug kennt. „First off,
+then water, then new,“ murmelt sie, mehr zu sich als zu mir. Sie stützt mich
+hoch, ein Arm um meine Taille, der andere greift nach dem Handtuch. Ich lasse
+mich führen. Im Bad angekommen, zieht sie mir das Shirt über den Kopf und führt
+mich in ihre Duschkabine.
 
 Das Wasser ist warm, aber mein Körper zittert, als stünde ich unter Eis. Ich
 lehne gegen die Fliesen, während sie die Seife auf meine Haut schäumt. „Mücken“,

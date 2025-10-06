@@ -52,29 +52,30 @@ Oben in ihrer runden Schrift:
 
 „Aufgabe 1: Im See leben anfangs 100 Altfische. Jedes Jahr bekommt jeder
 Altfisch genau einen Jungfisch. Am Ende des Jahres sterben 40 % der Altfische,
-die Jungfische werden zu Altfischen. Wie viele Fische gibt es nach drei Jahren?“
+die Jungfische werden zu Altfischen. Wie viele Fische leben im See in 100
+Jahren?“
 
 Ich grinse. Klarer Fall: Füße hoch. Gehirn an. Terminal aus. Clever. Gemein.
 Lieb. Ich setze mich, ziehe den rechten Fuß auf den Stuhl neben mir. Die
 Verbände ziepen, aber weniger als gestern. Fortschritt. Ich löse die Mullbinden,
 prüfe: die Ränder sind nicht mehr knallrot, eher rosa. Ich wasche vorsichtig mit
-abgekochtem Wasser, tupfe trocken, lege einen dünnen Film Salbe auf, frische Gaze
-darüber. Links das Gleiche. Ich rede leise mit meinen Füßen, als wären sie zwei
-eigenwillige Hunde. „Artig bleiben. Heute kein Terminal.“
+abgekochtem Wasser, tupfe trocken, lege einen dünnen Film Salbe auf, frische
+Gaze darüber. Links das Gleiche. Ich rede leise mit meinen Füßen, als wären sie
+zwei eigenwillige Hunde. „Artig bleiben. Heute kein Terminal.“
 
 Ich ziehe mein Heft heran, lege den Zettel oben hin, damit er mich anschaut, und
 kritzle los. Ich male kleine Fische an den Rand, jeder mit einer peinlich
-genauen Rückenflosse. Für die Mathematik verweise ich mich selbst in die andere
-Datei – Ordnung muss sein, auch im Chaos: Rechnung siehe
-**Eddie_rechnet_Tag1_Fischsee.md**. Sättigung
+genauen Rückenflosse. Die Aufgabe ergibt eine klare Sättigungskurve. Apropos
+Sättigung:
 
-Nach einer Weile knurrt mein Bauch und die Vernunft schreit: Beweg dich nicht zu
-weit! Also bewege ich mich… bis zum Vorratsschrank. Ich mache
+Mein Bauch knurrt und die Vernunft schreit: Beweg dich nicht zu weit! Also
+bewege ich mich… bis zum Vorratsschrank und zum Tiefkühlschrank. Ich mache
 „Speisekammer-Archäologie“: eine kurze Expedition zwischen Gewürzgläsern, einer
-einsamen Zwiebel, einer Dose Ananas, Nudeln, Tiefkühlerbsen und – tadaa
-– Fischstäbchen. Ich halte die Packung hoch wie einen Pokal. Thema trifft Küche.
-Mathe motiviert den Magen. Ich stelle die Pfanne auf den Herd, löffle aus der Ananasdose ein paar Stückchen, aber hebe mir das
-Brutzeln für den Abend auf, als Belohnung.
+einsamen Zwiebel, einer Dose Ananas, Nudeln, Tiefkühlerbsen und – tadaa –
+Fischstäbchen. Ich halte die Packung hoch wie einen Pokal. Thema trifft Küche.
+Mathe motiviert den Magen. Ich stelle die Pfanne auf den Herd, löffle aus der
+Ananasdose ein paar Stückchen, aber hebe mir das Brutzeln für den Abend auf, als
+Belohnung.
 
 Am Nachmittag wird es in der Wohnung leiser als leise; das Licht kippt ins
 nordische Grau, das alles wie mit Backpapier überzieht. Ich lege mich fünf
@@ -98,10 +99,11 @@ Ich halte ihr mein Heft hin wie eine Medaille. Sie setzt sich, stützt den
 Ellbogen auf, nimmt die Rolle der strengen Assistentin ein, als hätte sie das
 irgendwo geübt. Ich erkläre den Ausgangszustand, die jährliche Vermehrung, die
 Sterblichkeit, das Durchzählen über drei Jahre, alles ohne die Formeln, die
-schon brav **in der anderen Datei schlafen**. Sie nickt jeweils sehr ernst, wobei
-ihre Braue manchmal klettert, wenn ich mich in Begeisterung wiederhole. Dann
-klappe ich das Heft zu, halte die Pointe wie ein Schild hoch: „Und jetzt die
-praktische Folge: Population nach Jahr drei: minus zehn, weil wir Hunger haben.“
+schon brav **in der anderen Datei schlafen**. Sie nickt jeweils sehr ernst,
+wobei ihre Braue manchmal klettert, wenn ich mich in Begeisterung wiederhole.
+Dann klappe ich das Heft zu, halte die Pointe wie ein Schild hoch: „Und jetzt
+die praktische Folge: Population nach Jahr drei: minus zehn, weil wir Hunger
+haben.“
 
 Sie lacht. Es ist dieses tiefe Lachen, das zuerst in den Schultern anfängt und
 dann auf dem Tisch landet. „Arme Fische“, sagt sie und beißt in eins.
@@ -130,9 +132,9 @@ Faden bleibt ganz.
 
 Später sitze ich wieder am Tisch und schreibe „Fischsee – bestanden“ auf die
 letzte Zeile. Ich falte den herzförmigen Zettel einmal, zweimal, stecke ihn
-zwischen die Seiten meines Hefts. Ich lege die Beine noch einmal hoch, betaste die Verbände: warm,
-weich, nicht mehr beleidigt. „Morgen bleiben wie wieder hier“, sage ich zu meinen
-Füßen. „Wir rechnen uns gesund.“
+zwischen die Seiten meines Hefts. Ich lege die Beine noch einmal hoch, betaste
+die Verbände: warm, weich, nicht mehr beleidigt. „Morgen bleiben wie wieder
+hier“, sage ich zu meinen Füßen. „Wir rechnen uns gesund.“
 
 Ob es morgen wieder einen Zettel gibt? Ich weiß es nicht. Ich tue so, als wäre
 heute eine Ausnahme, als hätte ich es nicht geliebt, so gehalten zu werden. Aber

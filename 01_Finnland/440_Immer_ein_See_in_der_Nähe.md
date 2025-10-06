@@ -91,7 +91,7 @@ angeblich so klein sind, dass man sie im Sommer mit einem einzigen Schritt
 Punk, Sámi, Biologie, Mathematik – alles in einem Körper, der gerade Auflauf
 schaufelt, als gäbe es kein Morgen.**
 
-**Später falte ich den Zettel, stecke ihn zu den anderen. Sie riechen inzwischen
+Später falte ich den Zettel, stecke ihn zu den anderen. Sie riechen inzwischen
 nach Kaffee, Kartoffeln und ein bisschen nach Regen. Meine Füße liegen hoch,
 fast schmerzfrei. Und ich weiß: Morgen wird anders. Morgen werde ich aufstehen,
-bevor sie es tut.**
+bevor sie es tut.

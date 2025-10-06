@@ -54,13 +54,14 @@ vielleicht einen Ausweg finde.
 
 Ich erinnere mich, als wäre es jetzt.
 
-Die Bahnhofsmission. Ein heller Raum, es riecht nach Suppe, nach frisch gewaschenen
-Hemden von den Helfern, nach einem Leben, das nicht meines ist. Ich drücke mich
-in die hintere Ecke, hungrig, aber auch nervös. An der Essensausgabe steht er.
-Ein Junge, vielleicht ein Jahr älter als ich. Er reicht mir einen Teller,
-höflich, mit gesenktem Blick. Kein dummer Spruch, kein Mitleid in den Augen. Nur
-dieser leise, ernste Ausdruck. Er sagt fast nichts, nur ein leises *„Bitte.“*
-Und trotzdem bleibt er mir im Kopf hängen, wie ein Lied, das man nicht loswird.
+Die Bahnhofsmission. Ein heller Raum, es riecht nach Suppe, nach frisch
+gewaschenen Hemden von den Helfern, nach einem Leben, das nicht meines ist. Ich
+drücke mich in die hintere Ecke, hungrig, aber auch nervös. An der Essensausgabe
+steht er. Ein Junge, vielleicht ein Jahr älter als ich. Er reicht mir einen
+Teller, höflich, mit gesenktem Blick. Kein dummer Spruch, kein Mitleid in den
+Augen. Nur dieser leise, ernste Ausdruck. Er sagt fast nichts, nur ein leises
+*„Bitte.“* Und trotzdem bleibt er mir im Kopf hängen, wie ein Lied, das man
+nicht loswird.
 
 Am nächsten Tag, zurück bei meiner Gruppe. Wir sitzen auf den Pappkartons, reden
 laut, lachen viel zu schrill, damit keiner merkt, wie mies uns wirklich ist. Und

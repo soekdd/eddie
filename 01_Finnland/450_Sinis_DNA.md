@@ -181,8 +181,7 @@ man muss. Als ich bei den Bänken ankomme, sehe ich Sini schon ganz klein über
 die Brücke laufen. Ihr blauer Iro wippt unverkennbar.
 
 Ich winke und setze mich auf die schönste Holzbank am kleinen Stadthafen, genau
-dort, wo die Leinen in Masten leise klingeln.
-Sini setzt sich neben mich.
+dort, wo die Leinen in Masten leise klingeln. Sini setzt sich neben mich.
 
 „Wie geht es dir?“ frage ich schnell zuerst. Sie lacht: „Joo, ihan jees.“ – „Ja,
 ganz okay. Und wie geht es dir?“

@@ -204,9 +204,8 @@ meine Eltern. In einem Zimmer, an einem Tisch.“
 
 „Und du?“, fragt Sini.
 
-„Ich war draußen. Ich saß auf der Fensterbank im Flur und habe versucht zu lauschen.
-Gleichzeitig war mir
-schlecht.“
+„Ich war draußen. Ich saß auf der Fensterbank im Flur und habe versucht zu
+lauschen. Gleichzeitig war mir schlecht.“
 
 Ich streiche mir über den Nacken. „Ich hab’ nur Bruchstücke mitbekommen. Durch
 die Tür. Ich hörte Wörter wie ‚Förderlinie‘, ‚Begabtenentwicklung‘, ‚staatliche
@@ -220,8 +219,8 @@ Sini prustet. „Ich will diesem Mann ein Bier ausgeben.“
 egal ist, und der nur überlegt, was er später in seinem Bericht schreibt. Der
 Dekan hat Zahlen aufgezählt — meine Punkte, Bezirksplätze, Empfehlungsschreiben.
 Er hat das Wort ‚außergewöhnlich‘ benutzt. Es war das erste Mal, dass mir das
-peinlich war. Ich fühlte mich wie ein Paket Mehl, das hin- und
-hergeschoben wird.“
+peinlich war. Ich fühlte mich wie ein Paket Mehl, das hin- und hergeschoben
+wird.“
 
 Ich schaue Sini an. „Am Ende kam mein Vater heraus, legte mir kurz die Hand auf
 den Kopf — ein sehr unsozialistisches, privates Zeichen — und sagte: ‚Er zieht

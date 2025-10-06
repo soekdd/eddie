@@ -18,13 +18,14 @@ proofreading: {}
 
 # Das einzige Ende
 
-Der Andreas-Schubert-Bau am Zelleschen Weg. Ein grauer Kasten, noch nicht alt,
-aber schon mit diesem spröden Betoncharme, der die Flure kälter wirken lässt als
-nötig. Neonlicht brummt über leeren Schreibtischen, die meisten Kollegen sind
-längst nach Hause gegangen. Nur mein Vater sitzt noch da, über Pläne gebeugt,
-mit der stummen Hartnäckigkeit eines Mannes, der glaubt, vier verlorene Monate
-nacharbeiten zu müssen. Vier Monate Untersuchungshaft – und doch wieder hier, im
-Institut, mit gebeugtem Rücken, die Augen gerötet, aber unbeirrbar am Arbeiten.
+Der Andreas-Schubert-Bau am Zelleschen Weg. Der Stolz der TU-Dresden, extra für
+die Kernkrafttechnik gebaut. Große Fenster, aber eben auch mit dieser spröde
+Betoncharme, der die Flure kälter wirken lässt als nötig. Neonlicht brummt über
+leeren Schreibtischen, die meisten Kollegen sind längst nach Hause gegangen. Nur
+mein Vater sitzt noch da, über Pläne gebeugt, mit der stummen Hartnäckigkeit
+eines Mannes, der glaubt, vier verlorene Monate nacharbeiten zu müssen. Vier
+Monate Untersuchungshaft – und doch wieder hier, im Institut, mit gebeugtem
+Rücken, die Augen gerötet, aber unbeirrbar am Arbeiten.
 
 Die Gänge sind still, fast gespenstisch um diese Zeit. Da klappern Schritte,
 schneller, energischer. Die Tür fliegt auf und Radmer sein Chef rauscht hinein,

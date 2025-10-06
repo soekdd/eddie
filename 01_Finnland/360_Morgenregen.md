@@ -235,9 +235,8 @@ Am Fluss endlich der Shelter Mutterilaavu. Klein, trocken, ordentlich. Ich
 wasche mein Hemd, lache heiser – ein Geräusch, das so fremd klingt, dass ich
 selbst erschrecke.
 
-Ich koche dünnen Tee. Der Husten bleibt,
-tief, dunkel. Aber die Sachen trocknen, der Rucksack wird leichter. Ich lege die
-Karte auf die Bank, ziehe die Linie mit dem Finger. Luftlinie: wenig.
-Wirklichkeit: unendlich. Ich will schreien, stampfen, alles hinschmeißen.
-Stattdessen schnüre ich die Schuhe. Sieg? Nein. Nur Fortsetzung. Und manchmal reicht
-das gerade so.
+Ich koche dünnen Tee. Der Husten bleibt, tief, dunkel. Aber die Sachen trocknen,
+der Rucksack wird leichter. Ich lege die Karte auf die Bank, ziehe die Linie mit
+dem Finger. Luftlinie: wenig. Wirklichkeit: unendlich. Ich will schreien,
+stampfen, alles hinschmeißen. Stattdessen schnüre ich die Schuhe. Sieg? Nein.
+Nur Fortsetzung. Und manchmal reicht das gerade so.
