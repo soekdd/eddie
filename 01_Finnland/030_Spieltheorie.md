@@ -105,5 +105,5 @@ verliere ich. Punkt.
 
 Mein Herz macht einen Knoten, mein Bein wippt, als hätte es einen eigenen Motor.
 Ich beiße auf die Lippe, bis Blut kommt. Tut gut. Erdung. Und dann höre ich sie
-wieder, in ihrer unverwechselbare eindringlichen Art: Papas Stimme, die mir sagt, dass ich
+wieder, in ihrer unverwechselbaren eindringlichen Art: Papas Stimme, die mir sagt, dass ich
 nicht würfeln darf, wenn mein Leben der Einsatz ist.
