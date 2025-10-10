@@ -68,9 +68,9 @@ Linienbus fährt stündlich, und fast niemand nimmt ihn. Na toll. Ich grinse,
 scherze was von „Schulbus lieber nicht verpassen“. Innen drin schreie ich.
 
 Denn wenn ihn keiner benutzt, kennt auch keiner die genauen Zeiten. Kein
-Fahrplan, keine Deckung, nur Zufall. Überschlag: Der Bus kommt also
-stündlich, steht – sagen wir – fünf Minuten. Unsauber? Ja. Reicht mir.
-Trefferchance grob genähert 5/60 ≈ 0,08.
+Fahrplan, keine Deckung, nur Zufall. Überschlag: Der Bus kommt also stündlich,
+steht – sagen wir – fünf Minuten. Unsauber? Ja. Reicht mir. Trefferchance grob
+genähert 5/60 ≈ 0,08.
 
 8 Prozenz, da brauche ich gar nicht weiterrechnen. Oder ich nehme, wenn
 überhaupt mal einer kommt, einfach den Bus in die andere Richtung. Hauptsache
@@ -107,5 +107,5 @@ verliere ich. Punkt.
 
 Mein Herz macht einen Knoten, mein Bein wippt, als hätte es einen eigenen Motor.
 Ich beiße auf die Lippe, bis Blut kommt. Tut gut. Erdung. Und dann höre ich sie
-wieder, in ihrer unverwechselbaren eindringlichen Art: Papas Stimme, die mir sagt, dass ich
-nicht würfeln darf, wenn mein Leben der Einsatz ist.
+wieder, in ihrer unverwechselbaren eindringlichen Art: Papas Stimme, die mir
+sagt, dass ich nicht würfeln darf, wenn mein Leben der Einsatz ist.

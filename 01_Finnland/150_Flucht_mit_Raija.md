@@ -110,7 +110,6 @@ Sie schaut mich ungläubig an.
 „Ich weiß schon, was du meinst“, gebe ich zu, „ich würde sowas niemals
 studieren.“
 
-
 Als wir in Jyväskylä einrollen, fällt mir die Stille auf: keine Abgaswolken,
 kein Knattern von Trabis. Neonlichter spiegeln sich in den Schaufenstern voller
 bunter Kleidung und glänzender Radios. Junge Leute lachen, stehen in Grüppchen,

@@ -36,6 +36,37 @@ ungestört, während interessierte Leserinnen und Leser Eddies Denkweise vertief
 und spielerisch nachvollziehen können, wie Mathematik vom Überlebensinstrument
 bis zur universellen Sprache wirkt.
 
+## Eddie die Buchreihe
+
+Eddie soll eine Buchreihe werden – eine fortlaufende Erzählung über eine
+ausgesprochen kluge und mutige junge Frau, die mit Hilfe der Mathematik durch
+die Zeitgeschichte der 80er und 90er Jahre wandert. Mathematik ist bei Eddie
+kein Zaubertrick, sondern ein Schlüssel: Formeln werden zu Karten, Beweise zu
+Türen, Symmetrien zu Kompassen. So findet sie Knotenpunkte, an denen Orte,
+Menschen und Ereignisse sich verdichten – und betritt sie.
+
+In jedem Band besucht Eddie reale Schauplätze: Werkhallen im Umbruch,
+Radiostudios, Computerräume, Grenzbahnhöfe, Unihöfe, Straßenküchen und
+Plattenbauten. Sie spricht mit Technikerinnen, Aktivisten, Politikerinnen,
+Musikerinnen, Arbeiterinnen und Wissenschaftlern. Sie hört zu, beobachtet
+präzise, und übersetzt das Geschehen in eine Sprache, die verständlich macht,
+ohne zu vereinfachen. Eddie berichtet vom Zeitgeist – vom Aufbruch und Zweifel,
+von Optimismus und Müdigkeit – und von politischen Situationen: dem Ende des
+Kalten Krieges, der Wiedervereinigung, der AIDS‑Krise, neoliberalen
+Weichenstellungen, den frühen Netzen, der Club‑ und Popkultur.
+
+Die Mathematik gibt dabei Struktur, Maßstab und Orientierung: Graphen helfen,
+Netzwerke zu begreifen; Transformationen machen Perspektivenwechsel sichtbar;
+Randbedingungen erklären, warum manches möglich wird und anderes scheitert. Jede
+Episode steht für sich, doch ein roter Faden verbindet alles: Eddie wächst,
+ringt mit Verantwortung, und lernt die Ambivalenzen hinter klaren Modellen
+kennen.
+
+Diese Buchreihe will neugierig machen – auf Geschichte, auf Orte, auf Menschen –
+und zeigen, wie mathemisches Denken nicht distanziert, sondern schärfer sehen
+lässt. Realistisch erzählt, sinnlich beobachtet, präzise befragt: Eddie reist,
+um zu verstehen, und lädt ein, mitzudenken.
+
 # Eddie – Fluchtgeschichte eines DDR-Mädchens (Exposé-Factsheet)
 
 ## 1. Markt & Zielgruppe
@@ -83,11 +114,11 @@ bis zur universellen Sprache wirkt.
 „Mein Roman erzählt die Geschichte von Eddie, einer 17-Jährigen aus der DDR, die
 gemeinsam mit ihrem Vater fast zwei Jahre lang ihre Flucht vorbereitet – mit
 einem kühnen Plan: die Teilnahme an der Internationalen Mathematik-Olympiade
-1985 in Finnland. Erzählt wird in der Ich-Form und im Präsens – so unmittelbar
-und unsicher, wie eine Flucht wirklich ist. Mathematik spielt dabei die
-Schlüsselrolle: als Tarnung, als Werkzeug zum Überleben und als universelle
-Sprache jenseits von Ideologien. Das Buch verbindet Coming-of-Age,
-Fluchtgeschichte und politisches Erinnern.“
+1985 in Finnland als Fluchgelegenheit zu nutzen. Erzählt wird in der Ich-Form
+und im Präsens – so unmittelbar und unsicher, wie eine Flucht wirklich ist.
+Mathematik spielt dabei die Schlüsselrolle: als Tarnung, als Werkzeug zum
+Überleben und als universelle Sprache jenseits von Ideologien. Das Buch
+verbindet Coming-of-Age, Fluchtgeschichte und politisches Erinnern.“
 
 ## Ein-Satz-Elevator-Pitch
 

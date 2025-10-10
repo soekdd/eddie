@@ -42,11 +42,10 @@ proofreading:
 # Immer ein See in der Nähe
 
 Heute verschlafe ich nicht. Ich sitze schon in der Küche, als Sini hereinkommt,
-noch feucht im Haar, sie blinzelt überrascht,
-dann grinst sie. „Früh dran?“ Ich nicke, halte die Tasse hoch wie eine Trophäe.
-Wir frühstücken zusammen, Brot, Käse, Kaffee. Dann schiebt sie mir über den
-Tisch ein Papier, diesmal wellenförmig ausgeschnitten, als hätte eine Schere
-Seegang gehabt.
+noch feucht im Haar, sie blinzelt überrascht, dann grinst sie. „Früh dran?“ Ich
+nicke, halte die Tasse hoch wie eine Trophäe. Wir frühstücken zusammen, Brot,
+Käse, Kaffee. Dann schiebt sie mir über den Tisch ein Papier, diesmal
+wellenförmig ausgeschnitten, als hätte eine Schere Seegang gehabt.
 
 Darauf steht: „Aufgabe 3: Finnland hat viele Seen. Wie groß ist ungefähr die
 Wahrscheinlichkeit, dass ein zufälliger Punkt höchstens 1 km von einem Seeufer
