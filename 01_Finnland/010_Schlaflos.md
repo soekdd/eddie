@@ -45,7 +45,6 @@ proofreading:
     Schwaechen: 'Einzelne gesetzte Formulierungen, minimale Wortwiederholungen.'
     Fix: 'Mikro-Glättung bei Wortwahl; Wiederholungen variieren; Rhythmus beibehalten.'
     Note: 2
-
 ---
 
 # Schlaflos

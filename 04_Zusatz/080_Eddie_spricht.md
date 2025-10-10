@@ -9,7 +9,6 @@ Lektüre direkt mit der Hauptfigur Eddie sprechen – in einem eigens entwickelt
 Online-Chat. Eddie antwortet in ihrer Sprache, mit ihrer Stimme, aus ihrer Zeit
 (DDR 1985). So wird die Geschichte lebendig und unmittelbar erfahrbar.
 
----
 
 ## So funktioniert es für die Leser:innen
 
@@ -22,7 +21,6 @@ Online-Chat. Eddie antwortet in ihrer Sprache, mit ihrer Stimme, aus ihrer Zeit
   - „Was dachtest du über die Westdeutschen?“
 - Eddie antwortet im vertrauten Tonfall der Romanfigur.
 
----
 
 ## Warum das innovativ ist
 
@@ -31,7 +29,6 @@ Online-Chat. Eddie antwortet in ihrer Sprache, mit ihrer Stimme, aus ihrer Zeit
 - **Mediales Echo:** Ein PR-Thema, das Journalisten und Literaturkritiker sofort aufgreifen.
 - **Mehrwert für den Verlag:** Positionierung als innovativer Vorreiter in der Verbindung von Literatur und Technologie.
 
----
 
 ## Aufwand und Umsetzung
 
@@ -40,7 +37,6 @@ Online-Chat. Eddie antwortet in ihrer Sprache, mit ihrer Stimme, aus ihrer Zeit
 - **Kosten:** Skalierbar, abhängig vom Nutzungsvolumen.
 - **Zeitplan:** Innerhalb weniger Wochen realisierbar.
 
----
 
 ## Vision
 

@@ -68,7 +68,7 @@ Linienbus fährt stündlich, und fast niemand nimmt ihn. Na toll. Ich grinse,
 scherze was von „Schulbus lieber nicht verpassen“. Innen drin schreie ich.
 
 Denn wenn ihn keiner benutzt, kennt auch keiner die genauen Zeiten. Kein
-Fahrplan, keine Deckung, nur Zufall. Also Näherung: Der Bus kommt also
+Fahrplan, keine Deckung, nur Zufall. Überschlag: Der Bus kommt also
 stündlich, steht – sagen wir – fünf Minuten. Unsauber? Ja. Reicht mir.
 Trefferchance grob genähert 5/60 ≈ 0,08.
 
@@ -85,8 +85,10 @@ Prozent Siegquote übrig. Zehn! Für ein Leben.
 Außerdem würde ein Bus nach Norden bedeuten, ich müsste nochmal umsteigen – neue
 Zeiten, neue Risiken. Die Quote klettert dadurch nicht, sie fällt.
 
-> **➡ Spieltheorie und Entscheidungsbäume**
-> (Die Mini-Rechnung ging jetzt etwas schnell: Im Band „Eddie rechnet“, Kapitel 2, packe ich sie Schritt für Schritt aus.)
+<div style="display: grid; grid-template-columns: auto 1fr; gap: 12px; align-items: start;">
+  <img src="images/symbol/fx.svg" alt="fx" style="width: 36px; height: auto;" />
+  <p style="margin: 0;"><strong>➡ Spieltheorie und Entscheidungsbäume</strong><br>(Die Mini-Rechnung ging jetzt etwas schnell: Im Band „Eddie rechnet“, Kapitel 2, packe ich sie Schritt für Schritt aus.)</p>
+</div>
 
 Ich schreibe die Brüche in Gedanken an die Decke, schiebe Pfeile im Kopf hin und
 her, streiche sie wieder. Es wird nicht besser.

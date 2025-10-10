@@ -72,8 +72,6 @@ In diesem Moment rüttelt etwas an der Tür. Maria weist mit der Hand auf den
 Altar. Ich husche schnell unter das große Tischtuch. Die Tür fliegt auf. Der
 Altar ist ein einfacher Tisch mit vier Holzbeinen.
 
----
-
 Ich kauere zitternd zusammengerollt auf dem Boden. Dann ein Gruß in gebrochenem
 Finnisch.
 
@@ -112,8 +110,6 @@ davon nicht beeindrucken.
 
 Gleich würde einer das Tischtuch wegziehen.
 
----
-
 Plötzlich höre ich ein Klicken. Ein summendes Geräusch beginnt, und gleich
 darauf fängt die kleine Kirchenglocke im Turm neben der Kirche an zu schlagen.
 
@@ -142,8 +138,6 @@ Hämisches Lachen durchbricht die Stille.
 „Na, Alte, das hat ja wohl nicht geklappt! Durchsucht die Kirche, sie wird uns
 nicht sagen, wo das Mädchen ist.“
 
----
-
 Ich liege auf dem Boden gekauert. Mein Herz schlägt wieder bis zum Hals. Ich
 höre die Schritte, wie sie sich dem Altar nähern.
 
@@ -165,8 +159,6 @@ ein Laut, nur ein Zucken – und sie werden mich finden.
 
 Und dann…
 
----
-
 …ein schneller Griff unter das Tischtuch an meinen Knöchel. Ein Mann zieht mich
 grob über den Boden hinaus vor den Altar.
 
@@ -183,8 +175,6 @@ Angst, das Sichverstellen, die blöden Kleidchen tragen – alles schon nach
 wenigen Minuten gescheitert.
 
 Da bricht es aus mir heraus – ich fange hemmungslos an zu heulen.
-
----
 
 Gleichzeitig wird Maria immer lauter, sie beschimpft die Männer auf Finnisch.
 Ich verstehe nicht, was sie sagt. Die Männer lachen nur.
@@ -203,8 +193,6 @@ nimmt mich in die Arme.
 „Ich bleibe bei dir, bis du sicher bist“, flüstert sie mir zu.
 
 Ich schluchze immer noch erbärmlich.
-
----
 
 Eine wilde Diskussion zwischen dem Polizisten und dem Mann, der wohl Finnisch
 spricht, beginnt. Es wird laut und heftig gestritten.

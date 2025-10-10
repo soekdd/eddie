@@ -97,5 +97,3 @@ Doch Raijas Arm um meine Schultern, ihre Nähe, ihr Herzschlag – das alles wie
 schwerer als die Gedanken. Ich lasse mich in diese Wärme fallen, als könnte sie
 mich für eine Nacht vor allem verbergen. Und irgendwann, mitten im stillen
 Weinen, übermannt mich der Schlaf.
-
----
