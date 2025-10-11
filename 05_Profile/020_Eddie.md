@@ -74,6 +74,9 @@ _AKA:_ Eddie
   - neigt zum Übermut
   - impulsiv
   - eigensinnig
+  - manchmal etwas arroganz
+  - schüchtern gegenüber dem anderen Geschlecht
+  - manchmal oberflächlich
 - Social Role: fast einziges Mädchen in ihrer Matheklasse – Außenseiterin, aber stolz darauf
 - Friends: klein, aber tief verbunden
 
@@ -126,9 +129,4 @@ _AKA:_ Eddie
 
 ## Image Prompt
 
-A 17-year-old gilr with very short, tousled blonde hair (slightly messy, not
-neat). She looks smart and resilient, but also feminine – soft features,
-expressive green eyes, blonde eyebrowns and a subtle youthful glow. No makeup.
-She is slim, a mixture of toughness and quiet charm. Her clothing is in the
-style of 1980s East Germany: an oversized green army jacket, worn red GDR
-tracksuit bottoms or sometimes an old oversized shirt.
+- Retro watercolour graphic novel, dramatic 1980s atmosphere. A 17-year-old girl with very short, tousled blonde hair (slightly messy, not neat). She looks smart and resilient, but also feminine – soft features, expressive green eyes, blonde eyebrowns and a subtle youthful glow. No makeup. She is slim, a mixture of toughness and quiet charm. Her clothing is in the style of 1980s East Germany: an oversized green army jacket, worn red GDR tracksuit bottoms or sometimes an old oversized shirt. The textures should be hand-painted watercolours with bold contours and a retro colour palette (warm, muted tones, 1980s vibe).

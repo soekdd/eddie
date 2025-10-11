@@ -98,5 +98,4 @@ _AKA:_ Sini
 
 ## Image Prompt
 
-Sini, 22, half-Sami, with a blue mohawk and sidecut, wearing a T-shirt and light
-fabric pants as well.
+- Sini, 22, half-Sami, with a blue mohawk and sidecut, wearing a T-shirt and light fabric pants as well.
