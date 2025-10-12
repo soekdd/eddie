@@ -31,9 +31,9 @@ tue so, als wäre das alles normal, doch innerlich warte ich jeden Tag darauf,
 dass irgendetwas kippt.
 
 Der Abend senkt sich über den Park, die Laternen werfen gelbe Flecken auf den
-nassen Asphalt. Ich gehe am Rand von Vita Bergen, suche ein trockenes Plätzchen
-für die Nacht. Streuner ist nicht da. Wenn er wegbleibt, fühle ich mich nackt,
-als hätte mir jemand die Haut abgezogen.
+nassen Asphalt. Ich gehe am Rand von Rålambshovsparken, suche ein trockenes
+Plätzchen für die Nacht. Streuner ist nicht da. Wenn er wegbleibt, fühle ich
+mich nackt, als hätte mir jemand die Haut abgezogen.
 
 Auf einer Bank sitzen drei Männer. Flaschen klirren, ihre Stimmen sind laut,
 dröhnend, schiefes Lachen. Einer sieht mich zuerst. „Hej, flicka!“ ruft er, und

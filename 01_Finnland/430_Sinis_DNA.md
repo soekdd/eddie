@@ -105,8 +105,8 @@ Rührei, decke den Tisch. Als Sini hereinkommt, bleibt sie stehen und zieht die
 Brauen hoch. „Na sowas.“ Sie setzt sich, nimmt den Kaffee, mustert meine Füße.
 Nur noch dünne Mullbinden, die Haut darunter blassrosa, nicht mehr entzündet.
 Sie nickt langsam. Dann legt sie den Löffel hin und sagt: „Heute kein Zettel. Du
-bist besser drauf. Heute erlaube ich dir den ersten kleinen Spaziergang.
-Erinnerst du dich an die Bänke am Hafen?“ **Bänke erklären**
+bist besser drauf. Heute erlaube ich dir den ersten kleinen Spaziergang. Am
+Sporthafen gibt es ein paar Bänke. Würdest du dich dort hinfinden?“
 
 „Ja klar, warum?“
 
@@ -116,32 +116,31 @@ nicht nur gespielt. Sie meint es ernst.
 
 „Ja, Frau General!“ – Sini grinst und ist auch schon aus der Tür.
 
-Und ich bin wieder allein. Schon wieder. Sini hat mich eindringlich ermahnt, die
-Füße weiterhin zu schonen. Also sitze ich hier, barfuß auf dem alten Holzboden,
-und lasse meinen Blick durch ihre süße kleine Wohnung wandern.
+Und schon wieder bin ich allein. Sini hat mich eindringlich ermahnt, die Füße
+weiterhin zu schonen. Also sitze ich hier, barfuß auf dem alten Holzboden, und
+lasse meinen Blick durch ihre süße kleine Wohnung wandern.
 
-Jetzt erkenne ich die Dinge, die mir vorher nur wie Kram vorkamen: die
+Langsam verstehe ich die Dinge, die mir vorher nur wie Kram vorkamen: die
 geschnitzten Löffel mit bunten Bändern, die Muster, die ich für bloßes Gekritzel
-gehalten habe – Sámi-Kunstwerke. Sie gehören genauso zu ihr wie die Poster an
-der Wand, Ramones und Dead Kennedys, leicht schief mit Klebeband fixiert. Sini
-ist beides: wild und stolz, Punk und Sámi.
+gehalten habe – Sámi-Kunstwerke. Sie gehören genauso zu ihr wie die Poster der
+Bands an der Wand, Ramones und Dead Kennedys, leicht schief mit Klebeband
+fixiert. Sini ist beides: wild und stolz, Punk und Sámi.
 
 An der Pinnwand hängt zwischen Kassenzetteln und Kinokarten ihr Studentenausweis
 von Helsinki. Ich trete näher, lese den Namen, das Foto – und bleibe erschrocken
-stehen. In drei Tagen hat sie Geburtstag!
+stehen. In drei Tagen ist Sinis Geburtstag!
 
 Mir fällt ein, wie sie mich in den letzten Tagen bei Laune gehalten hat, hier
 eingesperrt zwischen Sofa, Küche und Bad. Kleine Matheaufgaben, immer mit einem
 Grinsen, so als würde sie mir heimlich Nachhilfe in Lebensfreude geben. Jetzt
-will ich etwas zurückgeben.
+will ich etwas zurückgeben. Ich konnte schon immer ganz gut zeichnen.
 
-Ich wühle in ihren Schubladen. Zwischen Kassetten, einem halben Dutzend
-Feuerzeugen und losen Münzen finde ich eine Kiste Buntstifte. Ich überlege: Soll
-ich ein blitzsauberes Blatt aus ihrem Schreibtisch nehmen? Oder lieber meinen
-völlig aufgeweichten Matheblock? Die Entscheidung fällt schnell: der Block. Eine
-Seite mit dunklen Wasserrändern, zerknittert, aber noch brauchbar. Genau
-richtig. Es trägt meine Geschichte in sich – Entbehrung, Flucht, Rettung. Wie
-könnte es passender sein?
+Im Wohnzimmer liegt eine Kiste Buntstifte. Ich überlege: Soll ich ein
+blitzsauberes Blatt von ihrem Schreibtisch nehmen? Oder lieber meinen völlig
+aufgeweichten Matheblock? Die Entscheidung fällt schnell: der Block. Eine Seite
+mit dunklen Wasserrändern, zerknittert, aber noch brauchbar. Genau richtig. Es
+trägt meine Geschichte in sich – Entbehrung, Flucht, Rettung. Wie könnte es
+passender sein?
 
 Ein Regal steht voller finnischer und schwedischer Biologielehrbücher. Moment,
 da ist es, ein Genetikbuch: „Perinnöllisyystiede: Molekyylibiologian perusteet“.
@@ -171,10 +170,11 @@ Irgendwo in dieser Wohnung muss doch ein alter Bilderrahmen herumliegen…
 Am Abend schlüpfe ich dann wieder in meine schwarzen Bergschuhe. Zum ersten Mal
 seit über einer Woche wage ich es – meine Füße protestieren kaum noch, und doch
 hasse und liebe ich dieses einzige Paar Schuhe zugleich. Sie haben mich
-geschunden, aber auch getragen. Der Weg durch die Stadt fühlt sich fremd an, als
-wäre ich hier nie gewesen, obwohl ich schon so lange bleibe. **Ausdruck**
+geschunden, aber auch getragen. Der Weg durch die Stadt fühlt sich fremd an. Ich
+bin schon so viele Tage hier und doch ist alles fremd. Ich kann mich ja kaum
+daran erinnern, wie ich in Sinis Wohnung kam.
 
-Sini hat mir den Weg beschrieben, und tatsächlich: Es ist leicht. Ich laufe
+Doch sie hat mir den Weg beschrieben, und tatsächlich: Es ist leicht. Ich laufe
 langsam, nehme Rücksicht auf meine Füße. Ich erinnere mich an Sinis „keine
 Eile“. Die frische Abendluft tut mir gut. Laufen, weil man möchte, nicht weil
 man muss. Als ich bei den Bänken ankomme, sehe ich Sini schon ganz klein über

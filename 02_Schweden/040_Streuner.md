@@ -2,7 +2,7 @@
 date: '1985-10-06'
 day: 'Friday'
 daytime: 'morning'
-place: 'Centralstation Stockholm, northern city parts'
+place: 'Rålambshovsparken, Centralstation Stockholm, northern city parts'
 persons:
   - 'Eddie'
 synopsis: 'Eddie freundet sich mit einem hungrigen Hund an; aus geteiltem Brot wird stille Verbundenheit – der Streuner wird zu ihrem Anker im Straßenleben.'

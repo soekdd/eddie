@@ -17,49 +17,6 @@ proofreading: {}
 
 # Weihnachten
 
-Ich laufe durch die Straßen von Stockholm, die Hände tief in den Taschen, den
-Umschlag mit der Einladung dicht an meiner Brust. Alles um mich herum funkelt,
-Schaufenster voll mit Spielzeug, Schmuck, glänzendem Papier. Familien gehen an
-mir vorbei, Tüten voller Geschenke, Kinder mit roten Mützen und glühenden
-Gesichtern.
-
-Und ich? Ich habe nichts. Nicht mal ein paar Kronen, um Schokolade zu kaufen.
-Jeder Schritt pocht wie ein Hohn in mir: *Was willst du da am Weihnachtstisch,
-Eddie? Mit leeren Händen?*
-
-Ich bleibe vor einem Schaufenster stehen. Drinnen ein Baum, geschmückt bis in
-die letzte Nadel, Kugeln, Lichterketten, goldene Sterne. Mein Blick bleibt an
-den Sternen hängen. Einfach. Schön. Nicht gekauft, sondern gemacht. Ich sehe
-mein Spiegelbild im Glas, zerzaust, aber mit einem Gedanken, der plötzlich in
-mir aufblitzt: *Das kann ich auch.*
-
-Ein Stern. Aus Papier, aus irgendwas. Ein kleiner Funke, den ich geben kann.
-
-Ich gehe weiter, der Wind bläst kalt durch die Straßen. Vor mir wirbelt ein
-Stück buntes Bonbonpapier über den Gehweg. Ich trete drauf, hebe es auf. Es
-glitzert im Licht der Laternen, zerknittert, aber schön. Mein Herz macht einen
-Sprung. *Das ist es. Ich sammle, was ich finde, und mache etwas daraus.*
-
-Später, als ich in meiner Ecke sitze, Streuner neben mir, breite ich das Papier
-aus. Alufolie von einem alten Schokoriegel, bunte Fetzen, ein zerknitterter
-Kassenzettel. Meine Finger falten, reißen, knicken. Es wird krumm, ein bisschen
-schief -- aber am Ende liegt ein Stern in meinen Händen. Mein Stern.
-
-Ich halte ihn hoch, er glänzt im Dämmerlicht. *Den hänge ich an ihren Baum,*
-denke ich. *Damit sie wissen: Ich kann geben. Ich kann Teil sein.*
-
-Für Vidar aber reicht das nicht. Für ihn will ich mehr. Ich krame in meiner
-Tasche, hole den kleinen Bleistift hervor, den ich immer dabeihabe, und ein
-Blatt aus meinem zerknitterten Heft. Meine Finger zittern, als ich zeichne: drei
-Figuren, krumm und doch erkennbar. Er, ich und Streuner. Wir sitzen
-nebeneinander, ganz nah, als wären wir eine Familie.
-
-Darunter schreibe ich: *Meine erste richtige Familie.*
-
-Als ich fertig bin, drücke ich das Blatt an meine Brust. Tränen brennen mir in
-den Augen. Streuner legt den Kopf auf meine Knie, als wolle er sagen: *Ja,
-Eddie. Genau so.*
-
 Die Wohnung ist voll. Viel voller, als ich erwartet hatte. Nicht nur Vidars
 Eltern, sondern auch Verwandte, Cousins, Tanten, und erstaunlich viele Freunde
 der Familie. Ich drücke mich an Vidars Seite, halte mich an seinem Arm fest wie

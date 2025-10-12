@@ -76,16 +76,17 @@ stehen lernte.
 Heute frage ich sie beim Essen: „Sag mal Sini, wo hast du all diese tollen
 Aufgaben her? Bist du ein heimlicher Mathefan?“ Sini schüttelt den Kopf, bohrt
 die Gabel in den Auflauf. „Nicht mein Terrain. Die Aufgaben sind von meinem
-Vater. Ingenieur. Er hat ein Abo von so einer finnischen Mathezeitschrift. Er
-drückt mir immer ganze Jahrgänge in die Hand, in der Hoffnung, ich würde mich
-dafür interessieren. Ist aber nicht mein Ding.“ „Und, was dein Ding?“ Ein
-Schulterzucken. Ein kurzer Blick auf den Teller. „Nee, eigentlich Biologie… …in
-Helsinki.“ Pause. „Ein paar Semester.“ Das „ein paar“ ist so kurz, als hätte es
-Eile. Sie stochert in den Erbsen, als läge dort die perfekte Ausrede.
+Vater. Ingenieur. Er hat ein Abo von so einer finnischen Mathezeitschrift,
+Arkhimedes. Er drückt mir immer ganze Jahrgänge in die Hand, in der Hoffnung,
+ich würde mich dafür interessieren. Ist aber nicht so mein Ding.“ „Und, was dein
+Ding?“ Ein Schulterzucken. Ein kurzer Blick auf den Teller. „Naja, eigentlich
+Biologie… …in Helsinki.“ Pause. „Ein paar Semester.“ Das „ein paar“ kommt so
+kurz, als hätte es Eile. Sie stochert im Auflauf, als läge dort die perfekte
+Ausrede.
 
-„Ah.“ Ich nicke und warte. Es kommt nichts. Sini macht eine kleine Kurve um das
-Thema. Ich könnte nachfragen, ich tue es nicht. Ich kenne diese Stelle: Da hängt
-ein dünner Faden, und wenn man daran zieht, reißt er. Sini wechselt zum Wetter,
-zum Hafen, zur Fähre, die heute zu spät war, weil irgendwer sein Fahrrad so blöd
-geparkt hatte, dass der LKW nicht wenden konnte. Ich lache an der richtigen
-Stelle, sie lacht mit – und der Faden bleibt ganz.
+„Ah.“ Ich nicke und warte. Es kommt nichts. Sini macht also lieber eine Kurve um
+das Thema. Ich könnte nachfragen, ich tue es nicht. Ich kenne diese Stelle: Da
+hängt ein dünner Faden, und wenn man daran zieht, reißt er. Sini wechselt zum
+Wetter, zum Hafen, zur Fähre, die heute zu spät war, weil irgendwer sein Fahrrad
+so blöd geparkt hatte, dass der LKW nicht wenden konnte. Ich lache an der
+richtigen Stelle, sie lacht mit – und der Faden bleibt ganz.

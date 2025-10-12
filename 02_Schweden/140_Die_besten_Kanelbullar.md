@@ -50,7 +50,7 @@ entlanggehen. Das Café liegt hell erleuchtet an der Ecke, große Fenster,
 dahinter warmes Holz und der Duft von frisch gebackenem Gebäck. Für mich wirkt
 es fast wie ein anderes Universum.
 
-Wir setzen uns an einen Tisch am Fenster. Ich bestelle ohne Zögern: einen großen
+Wir setzen uns an einen Tisch am Fenster. Ich bestelle ohne Zögern: zwei große
 Pot Kaffee und zwei Zimtschnecken. Kanelbulle, so heißt das hier. Als der Teller
 kommt, steigt mir der Duft von Zimt und Zucker in die Nase, und ich vergesse für
 einen Moment alles andere. Ich beiße hinein, der Teig ist weich, süß, warm – die
@@ -62,7 +62,8 @@ vierzig. Alles, was ich heute habe. Alles, was mir der Übersetzer für einen
 ganzen Tag Arbeit gegeben hat. Vidar sieht auf den Betrag, dann auf mich – und
 ich erkenne den Schock in seinen Augen.
 
-„Das war alles?“ Seine Stimme ist leise, aber hart. „Eddie, das war alles?“
+„Das war alles?“ Seine Stimme ist leise, aber hart. „Eddie, das war alles, was
+Du hattest?“
 
 Ich zucke mit den Schultern, noch voller Glück über diesen Nachmittag. „Es war
 es wert.“

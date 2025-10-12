@@ -159,11 +159,11 @@ weil ich keine andere Wahl habe. Sie hebt ihre Tüten, sie rascheln wie nasse
 Segel, und wir gehen los—durch enge Straßen, hinab zwischen Felsen und Wiesen,
 weg von der Kirche, weg von Vita Bergen.
 
-Anfangs halte ich den Abstand, atme flach (Mann, die riecht echt streng—kalter
+Anfangs halte ich den Abstand, atme flach (Mann, die riecht echt streng — kalter
 Rauch, alte Wolle, feuchte Pappe), doch ihre Schritte sind ruhig, so sicher, als
 wären die Wege ihr Wohnzimmer. Wir schlagen einen Bogen nach Nordwesten, queren
 breite Straßen mit gelben Laternenkegeln, tauchen wieder in schmale Gassen. Mein
-innerer Kompass kippt nach und nach (soll ich der verrückten Alten noch
+innerer Kompass verlässt mich nach und nach (soll ich der verrückten Alten noch
 folgen?), die Lichter verschwimmen, nasse Blätter kleben an den Sohlen. Einmal
 bleibt sie stehen, hebt das Kinn, lauscht, als ob die Stadt ihr Antwort gäbe,
 und nickt nur: weiter.
@@ -176,13 +176,17 @@ sich ein langes, dunkles Gebäude. Die Frau redet kaum, nur manchmal ein „Här
 oder „Inte där“, wenn ich falsch treten will. (Ich verliere langsam die
 Orientierung.) Ihre Tüten klopfen gegen die Knie, mein Herz gegen die Rippen.
 
-Noch einmal über Wasser, diesmal nur ein Sprung, und dann Wiese, viel Wiese—und
-über uns das tiefe Dröhnen einer großen Brücke. Die Pfeiler stehen wie kalte
-Stämme; hier bleibt der Regen draußen. „Good place,“ sagt sie und legt eine Tüte
-ab. Sie zeigt mir eine Mulde hinter einer Böschung, trocken genug für die Nacht.
-Ich sammle Pappe, die der Wind an einen Zaun gepresst hat, breite meine Jacke
-als Kissen, stopfe Zeitung in die Schuhe. Die Frau zieht eine zerknitterte Decke
-aus einer ihrer Tüten, legt sie mir wortlos hin und deutet auf die
-Schattenkanten: Dort, nicht vor dem Wind. Über uns summt der Verkehr wie ferne
-See. Ich rolle mich ein, spüre den Brückendonner im Brustkorb und denke: Nur für
-heute. Nur so lange, bis mir wieder klar ist, wohin.
+Noch einmal über Wasser, diesmal länger, wieder eine alte - aber sehr große
+Brücke und dann Wiese, viel Wiese. Wir verlassen die Straßen und laufen durch
+einen Park, bis wir wieder unter der Brücke angelangt sind, die wir gerade
+überquert haben. Man schaut direkt auf Gamla Stan, die Insel mit dem Schloss
+drauf. Im Sommer ist der Strand hier vermutlich ein Freibad. Jetzt liegt es
+menschenverlassen da, aber über uns das tiefe Dröhnen der großen Brücke. Die
+Pfeiler stehen wie kalte Stämme; hier bleibt der Regen draußen. „Good place,“
+sagt sie und legt eine Tüte ab. Sie zeigt mir eine Mulde hinter einer Böschung,
+trocken genug für die Nacht. Ich sammle Pappe, die der Wind an einen Zaun
+gepresst hat, breite meine Jacke als Kissen, stopfe Zeitung in die Schuhe. Die
+Frau zieht eine zerknitterte Decke aus einer ihrer Tüten, legt sie mir wortlos
+hin. Über uns summt der Verkehr wie ferne See. Ich rolle mich ein, spüre den
+Brückendonner im Brustkorb und denke: Nur für heute. Nur so lange, bis mir
+wieder klar ist, wohin.

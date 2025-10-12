@@ -18,7 +18,7 @@ proofreading: {}
 
 # Erwischt im Waschhaus
 
-Ein paar Tage später gehe ich wieder in das Waschhaus. Ich habe schon Routine:
+Ein paar Wochen später gehe ich wieder in das Waschhaus. Ich habe schon Routine:
 meine Lumpen in die Maschine, während ich mich selbst mit dem Schlauch abdusche.
 Es fühlt sich fast schon wie ein Stück Zuhause an, dieses kleine, sterile Reich
 der Sauberkeit.
