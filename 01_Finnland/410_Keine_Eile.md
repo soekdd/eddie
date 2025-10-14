@@ -208,11 +208,11 @@ sein; der Feministin ist, ohne das Wort zu tragen wie ein Schild; jemand, der
 „keine Eile“ sagt und doch immer dann da ist, wenn die Füße schwach werden. Eine
 Freundin, die nicht fragt, sondern für einen da ist.
 
-**„Morgen“**, sagt Sini schließlich, „kein Heldinnentum. Kaffee. Verbände. In
-ein paar Tagen vielleicht eine kurze Runde in der Stadt. Und wenn du ganz brav
-bist, reden wir in einer Woche mit echten Busfahrern.“
+*„Morgen“*, sagt Sini schließlich, „kein Heldinnentum. Kaffee. Verbände. In ein
+paar Tagen vielleicht eine kurze Runde in der Stadt. Und wenn du ganz brav bist,
+reden wir in einer Woche mit echten Busfahrern.“
 
-„Ich bin nie brav“, sage ich, und wir grinsen so breit.
+„Ich bin nie brav“, sage ich, und wir grinsen breit.
 
 Als wir zu Bett gehen, weiß ich: Das ist der Ort, an dem sich eine Kette
 schlechter Entscheidungen in eine Geschichte von Mut verwandelt. Sini streift

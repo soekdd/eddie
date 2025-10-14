@@ -17,34 +17,38 @@ Altfische. Ich skizzierte eine Sättigungskurve und malte kleine Rückenflossen 
 den Rand.
 
 > **➡ Fischsee**\
-> (…Unser Hunger ist eindeutig zu groß um drei Jahre lang zu warten. Im Band „Eddie rechnet“, Kapitel 12 rechne ich die ganze Reihe aber ausführlich.)
+> (…Unser Hunger ist eindeutig zu groß um hundert Jahre lang zu warten. Im Band „Eddie rechnet“, Kapitel 12 rechne ich die ganze Reihe aber ausführlich.)
 
-Ach ja Sättigung: Abends kochte ich es Fischstäbchen mit Erbsen. Sini kam mit
+Ach ja Sättigung: Abends kochte ich Fischstäbchen mit Erbsen. Sini kam mit
 nassem Wind im Haar; ich hielt ihr mein Heft hin. „Population in hundert Jahren…
 minus zehn, weil wir Hunger haben.“ Sie lachte herzhaft. Wir aßen, und ich
 merkte, wie die Füße unter dem Tisch weniger Widerworte gaben. Vor dem Schlafen
-faltete ich den Zettel und dachte: Morgen rechne ich mich weiter gesund.
+faltete ich den Zettel und steckte ihn stolz in meinen Matheblock.
 
-Am zweiten Tag war ich früher wach; die Neugier weckte, noch mich bevor Sini das
+Am zweiten Tag war ich früher wach; die Neugier weckte mich, noch bevor Sini das
 Haus verließ. Sie grinste und zog aus der Jacke einen zweiten Zettel. Darauf ein
-Rentier, das wie ein Hund mit Antennen aussah. Aufgabe 2: Depotstrategie in der
-Wildnis: pro Tag eine Ration, maximal drei tragen, unterwegs Depots anlegen –
-wie weit hinein und zurück bei 20 km/Tag? Ich legte die Beine hoch, tauschte die
-Mullstreifen gegen schmalere, wagte einen Schritt ohne zu fluchen. Fortschritt.
-Dann Stapelpläne: Haufen, Pfeile, Umlagerung, zurücklassen, umdrehen.
+Rentier, das wie ein Hund mit Antennen aussah. **Aufgabe 2: Depotstrategie** Eine Wanderin verbraucht pro Tag 1 Ration und ihr Rentier kann höchstens 3 tragen. Am Start liegt unbegrenzter Vorrat. Wie weit
+kommt sie maximal in die Wildnis hinein und wieder zurück, wenn sie unterwegs
+Depots anlegt? Gehgeschwindigkeit 20 km pro Tag.
+
+Ich legte die Beine hoch, tauschte
+die Mullstreifen gegen schmalere, wagte einen Schritt ohne zu fluchen.
+Fortschritt. Dann Stapelpläne: Haufen, Pfeile, Umlagerung, zurücklassen,
+umdrehen.
 
 > **➡ Rentier-Depot**\
 > (…Ursprünglich hieß die Aufgabe das Jeep Problem. Doch Sinis Rentiere passen viel besser zu meiner Vaasalopet. Kapitel 13, im Band „Eddie rechnet“)
 
 Nebenbei surrte die Waschmaschine, und ihr Takt wurde zu „zwanzig, zwanzig,
-zwanzig“. Abends öffnete ich eine Dose „Poronkäristys“, kochte Kartoffeln,
-deckte den Tisch und umkreiste im Heft mein Ergebnis: ungefähr siebzig
-Kilometer. Sini studierte die Skizzen, schwieg einen Moment und tippte auf die
-Pfeile. „Ganz dein Ding. In Etappen. Nie mehr tragen als nötig.“ Mir wurde heiß
-im Nacken; sie wusste mehr, als sie sagte. Ich erklärte die Depotlogik noch
-einmal – mit Gabelbissen als Depots und dem Sofa als die Enddistanz. Sie lachte
-so sehr, dass sie fast vom Stuhl kippte. Der zweite Zettel wanderte zum ersten;
-meine Schritte zum Bad waren schon weniger Humpeln als gestern.
+zwanzig“. Abends öffnete ich eine Dose „Poronkäristys“, Rentiereintopf, kochte
+Kartoffeln, deckte den Tisch und umkreiste im Heft mein Ergebnis: ungefähr
+siebzig Kilometer. Sini studierte die Skizzen, schwieg einen Moment und tippte
+auf die Pfeile. „Ganz dein Ding. In Etappen. Nie mehr tragen als nötig.“ Mir
+wurde heiß im Nacken; sie wusste mehr, als sie sagte. Ich erklärte die
+Depotlogik noch einmal – mit Gabelbissen als Depots und dem Sofa als die
+Enddistanz. Sie lachte so sehr, dass sie fast vom Stuhl kippte. Der zweite
+Zettel wanderte zum ersten; meine Schritte zum Bad waren schon weniger Humpeln
+als gestern.
 
 Am dritten Tag war ich vor Sini auf. Haare handtuchfeucht, Kaffee frisch; ich
 saß schon, als sie hereinschneite. Wir frühstückten gemeinsam, dann schob sie
@@ -52,16 +56,16 @@ mir ein wellenförmig ausgeschnittenes Papier zu. Aufgabe 3: „Finnland hat vie
 Seen. Wie groß ist ungefähr die Wahrscheinlichkeit, dass ein zufälliger Punkt
 höchstens einen Kilometer vom Seeufer entfernt liegt?“ Ich zeichnete Finnland
 auf Küchenrolle, setzte blaue Tupfer, kritzelte „Uferaufdickung“ daneben und
-summte „Minkowski“ wie ein finnisches Dessert. Die Füße waren fast still; nur
-die tiefen Stellen erinnerten sich. Ich räumte ohne Pause die Tassen weg, hüpfte
-zweimal probehalber durch den Flur und erschrak, wie normal sich das anfühlte.
-Abends backte ich Kartoffelauflauf. Daneben stellte ich demonstrativ eine Schale
-Wasser: „Jede Kartoffel höchstens einen Kilometer vom See entfernt.“ Sini lachte
-so laut, dass sie sich den Bauch hielt. Beim Essen erklärte ich meine Schätzung
-– Flächen, Uferlängen, grobe Dichteargumente. „Du bist statistisch wassernah“,
-sagte sie und hob das Glas wie eine amtliche Bestätigung. Ich versuchte ihr die
-Bedeutung des deutschen Sprichwortes „Nah am Wasser gebaut“ zu übersetzen. Sinis
-Blick zu Folge erfolglos.
+summte „Minkowski“ wie ein finnisches Dessert. Eigentlich der Name eines russisch deutschen Mathematikers, dem selbst die schwierigsten Statistikaufgaben zu leicht waren. Die Füße waren fast still; nur
+die schlimmsten Wunden erinnerten sich. Ich räumte ohne Pause die Tassen weg,
+hüpfte zweimal probehalber durch den Flur und erschrak, wie normal sich das
+anfühlte. Abends machte ich Kartoffelauflauf. Daneben stellte ich demonstrativ
+eine Schale Wasser: „Jede Kartoffel höchstens einen Kilometer vom See entfernt.“
+Sini lachte so laut, dass sie sich den Bauch hielt. Beim Essen erklärte ich
+meine Schätzung – Flächen, Uferlängen, grobe Dichteargumente. „Du bist
+statistisch wassernah“, sagte sie und hob das Glas wie eine amtliche
+Bestätigung. Ich versuchte ihr die Bedeutung des deutschen Sprichwortes „Nah am
+Wasser gebaut“ zu übersetzen. Sinis Blick zu Folge erfolglos.
 
 Ich hatte verstanden: Sini hielt mich nicht fest, sie hielt mich ruhig. Die
 Aufgabe war schon die Belohnung. Abends kochte ich für sie – mein Dank, heiß aus

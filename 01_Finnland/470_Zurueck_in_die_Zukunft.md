@@ -51,7 +51,7 @@ klopft. Eine amerikanische Komödie, sagen alle, die sei „ganz großartig“. 
 nicke, tue cool, und innerlich schreie ich: Oh Gott, auf Englisch! Aber mein
 Englisch reicht inzwischen -- hoffe ich.
 
-Die Kauppapuistikko ist voller Licht. Vor uns das **Adams**, der Eingang direkt
+Die Kauppapuistikko ist voller Licht. Vor uns das *Adams*, der Eingang direkt
 von der Straße in dieses breite Foyer. Hinter der Glastür schlägt mir ein warmer
 Geruch entgegen: frisches Popcorn, Sirup-Limo, ein bisschen Teppichstaub. Links
 das Kassenfenster mit den kleinen, aufgesteckten Zetteln; rechts die Theke, wo
@@ -60,7 +60,7 @@ rote Polster, Messingkanten, hier und da blinkt eine Reklame. Irgendwo führt
 eine Tür zum kleinen Saal; wir gehen in den großen.
 
 Sini legt den Kopf schief. „Iso ämpäri?“ -- ein großer Eimer? Ich lache und
-nicke. Sie bestellt den **größten** Eimer Popcorn, dazu zwei Becher Limo, und
+nicke. Sie bestellt den *größten* Eimer Popcorn, dazu zwei Becher Limo, und
 noch eine Tüte irgendwas mit Schokolade und Salzlakritz. Wir tragen das wie zwei
 Bauarbeiter ihr Werkzeug, nur viel klebriger. In der Reihe mittig finde ich
 meinen Platz und sinke in einen Sitz, der so weich ist, dass ich beinahe
@@ -80,7 +80,7 @@ unten ein Loch. Das Popcorn ist warm, jedes Körnchen knackig, die Limo ist zu
 süß, aber ich trinke weiter, weil die Bläschen meine Zunge kitzeln. Sini greift
 mit den langen Fingern immer wieder rein, „tack“, sagt sie im Scherz, und ich
 antworte „please“, als wären wir im englischen Unterricht. Nach vielleicht fünf
-Minuten starre ich auf den **leeren** Eimer. Mein Bauch gluckert. Mein Kopf wird
+Minuten starre ich auf den *leeren* Eimer. Mein Bauch gluckert. Mein Kopf wird
 leicht.
 
 „Na, Genossin Edmilla, Westluxus bekommen?“, flüstert Sini und stupst mich mit
@@ -92,7 +92,7 @@ das die beste Medizin.
 
 Das Saallicht wird noch dunkler, hinter uns setzt ein leises Summen ein, und die
 Leinwand füllt sich. Englische Wörter fliegen über den Bildschirm. Mein Herz
-stolpert, doch mein Ohr springt an: Ich **verstehe**. Vielleicht nicht alles,
+stolpert, doch mein Ohr springt an: Ich *verstehe*. Vielleicht nicht alles,
 aber genug, um die Pointen zu fühlen, bevor die Leute lachen. Und wir lachen.
 Sini lacht laut, ich lache höher, dann lachen wir beide so, dass der Mann neben
 uns den Kopf schüttelt und schließlich selbst grinst. Ich vergesse meinen
@@ -104,7 +104,7 @@ Auf der Leinwand brüllt Biff: „Make like a tree and get outta here!“ Der Sa
 lacht. Ich nicht. Ich beuge mich zu Sini. „Was soll der Satz -- und was ist
 falsch daran?“
 
-Sini flüstert: „Eigentlich heißt's ‚make like a tree and **leave**' --
+Sini flüstert: „Eigentlich heißt's ‚make like a tree and *leave*' --
 Wortspiel: *leave* wie *leaf*.“ Es macht sofort *klick* -- und ich pruste los,
 viel zu laut, viel zu spät. Köpfe drehen sich, Stirnen runzeln sich, irgendwer
 räuspert. Ich presse mir die Hand vor den Mund, aber das macht's nur schlimmer;
@@ -114,7 +114,7 @@ glücklich wie zwei Kinder, die beim Flüstern erwischt wurden.
 Als es mit Marty an der Gitarre richtig durchgeht und das Riff losknallt, reißt
 es Sini einfach hoch. Plötzlich steht sie -- mitten in der Reihe! -- mit
 funkelnden Augen, blauen Haarspitzen wie kleine Blitze, und haut eine richtig
-wilde **Luftgitarre**. Erst will ich sie am Ärmel runterziehen -- peinlich,
+wilde *Luftgitarre*. Erst will ich sie am Ärmel runterziehen -- peinlich,
 peinlich! -- doch dann sehe ich, wie ihre Finger über die unsichtbaren Saiten
 jagen, wie sie mit dem Knie abtaucht und wieder hochschnellt, genau auf den
 Beat.
@@ -137,16 +137,16 @@ und sie lacht.
 
 Wir stolpern aus dem Adams in die Augustluft, die Kauppi blinkt wie ein
 Laufsteg. Sini stellt sich breitbeinig hin, reißt die Augen auf und ruft mit
-Doktor-Pathos: „**Great Scott!**“ Ich antworte sofort, tief und dramatisch:
-„**This is heavy.**“ Wir fallen ineinander vor Lachen, zwei Schatten auf dem
+Doktor-Pathos: „*Great Scott!*“ Ich antworte sofort, tief und dramatisch:
+„*This is heavy.*“ Wir fallen ineinander vor Lachen, zwei Schatten auf dem
 Pflaster.
 
-Sini hebt den Finger wie ein verrückter Professor: „**1.21 gigawatts!**“ Ich
-klopfe mir gegen die Stirn: „**Hello? McFly?**“ -- und sie spielt mit, stupst
-mir die Stirn zurück. Dann versuche ich feierlich Martys Tonfall: „**Roads?
-Where we're going, we don't need roads.**“ Ich versemmle die Betonung, wir
-prusten, und Sini legt noch einen drauf: „Und jetzt richtig: **Make like a tree
-and leave.**“ Wir quietschen vor Kichern, als hätten wir den Witz gerade neu
+Sini hebt den Finger wie ein verrückter Professor: „*1.21 gigawatts!*“ Ich
+klopfe mir gegen die Stirn: „*Hello? McFly?*“ -- und sie spielt mit, stupst
+mir die Stirn zurück. Dann versuche ich feierlich Martys Tonfall: „*Roads?
+Where we're going, we don't need roads.*“ Ich versemmle die Betonung, wir
+prusten, und Sini legt noch einen drauf: „Und jetzt richtig: *Make like a tree
+and leave.*“ Wir quietschen vor Kichern, als hätten wir den Witz gerade neu
 erfunden.
 
 Jetzt platzt die Schwärmerei aus mir heraus: „Er ist klein -- und trotzdem
@@ -165,7 +165,7 @@ und ich würde weinen und klatschen.“ Ich lache. „Er ist wie… Freiheit in
 Turnschuhen. Wenn er rennt, renne ich mit. Wenn er stolpert, steh' ich wieder
 auf.“ Sini schnaubt. „Er ist mein neuer Maßstab. Wer mich daten will, muss erst
 mal mit Marty McFly Schritt halten.“ „Dann tut's mir leid für Vaasa“, sage ich
-und hake mich ein. „Denn an **Michael J. Fox** kommt heute niemand vorbei.“
+und hake mich ein. „Denn an *Michael J. Fox* kommt heute niemand vorbei.“
 
 Wir gehen weiter, wiederholen unsere Lieblingsstellen, werfen uns die Sätze zu
 wie Bälle. Jeder Laternenfleck auf dem Pflaster ist ein kleiner Zeitsprung, jede

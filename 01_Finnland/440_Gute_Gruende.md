@@ -118,7 +118,7 @@ Ich rolle mit den Augen und rede weiter.
 Riesa, aber in Dresden hatten wir die Manos, offiziell: Erweiterte Oberschule
 Martin-Andersen-Nexö – alle sagten nur Manos. Kein Matheinternat, aber vom
 Anspruch ähnlich. Für mich klang das nach Himmel: weniger Gequatsche, mehr
-Zahlen. Gleich Anfang der Achten gab’s ein Elterngespräch mit dem Direchs der
+Zahlen. Gleich Anfang der Achten gab’s ein Elterngespräch mit dem Direx der
 Manos plus die Einladung zu einem Aufnahmetest im Frühjahr.“
 
 „Und du hast ihn mit links bestanden“, sagt Sini.
@@ -132,19 +132,16 @@ Sini kichert.
 meine alte POS – Polytechnische Oberschule, so eine Art Gesamtschule – hinter
 mir zu lassen. Der Direktor dort war eine Parteibestie in Menschengestalt. Wir
 hatten uns mehrfach in die Haare gekriegt. Ich hab’ mir angewöhnt, gut
-vorbereitet zu streiten. Er hatte es rhetorisch nicht darauf und im Rechnen war
-er eine Niete. Und wenn du die Zahlen auf deiner Seite hast, fängt die Ideologie
-an zu quietschen.“
+vorbereitet zu streiten. Er hatte es rhetorisch nicht drauf und im Rechnen war
+er eine Niete. Und wenn du die Zahlen auf deiner Seite hast, kommt die Ideologie
+mächtig in's Schleudern.“
 
-„Wie eine schlecht geölte Tür“, sagt Sini.
-
-„Wie ein Fahrrad ohne Kette“, sage ich, und wir lächeln beide.
-
-„Jedenfalls“, sage ich, „sie haben meine Eltern oft einbestellt, weil ich
-angeblich ‚negativ diskutiert‘ hätte. Dabei hab’ ich nur gefragt, warum wir im
-Matheunterricht ein halbes Jahr Produktionskennziffern der Stahlindustrie pauken
-müssen, ohne je zu berechnen, ob die Brücke über die Elbe die Last wirklich
-trägt. Und ob die berühmte Parteilinie ein Vektor ist oder nur ein Gummiband.“
+„Man hat meine Eltern oft einbestellt, weil ich angeblich ‚negativ diskutiert‘
+hätte. Dabei hab’ ich nur gefragt, warum wir im Matheunterricht ein halbes Jahr
+Produktionskennziffern der Stahlindustrie pauken müssen, ohne je zu berechnen,
+ob die neue Brücke über die Elbe die Last wirklich trägt. Und einmal habe ich
+ihn gefragt, ob die berühmte Parteilinie ein Vektor ist oder doch nur ein
+Gummiband.“
 
 „Freche Maus“, meint Sini, aber stolz.
 
@@ -155,10 +152,9 @@ Noch ein paar Monate, dann bin ich weg. Nie wieder sein Gesicht.“
 Ich trinke einen Schluck. Sini hört gebannt zu.
 
 „Und dann komme ich eines Tages nach Hause — wir wohnten nur ein paar Blocks von
-der Schule — und meine Mutter ist aufgeregt wie vor einem Gewitter. ‚Wir warten
-auf deinen Vater‘, sagt sie. Ich denke: Mist, was hab’ ich jetzt schon wieder
-getan? Aber mir fällt nichts ein. Ich hatte an dem Tag nicht mal sarkastisch
-geatmet.“
+der Schule — und meine Mutter ist übelst aufgeregt. ‚Wir warten auf deinen
+Vater‘, sagt sie. Ich denke: Mist, was hab’ ich jetzt schon wieder getan? Aber
+mir fällt nichts ein. Ich hatte an dem Tag nicht mal sarkastisch geatmet.“
 
 Sini lacht laut auf. „Sarkastisch geatmet!“
 
@@ -177,20 +173,20 @@ geplante Aufnahme der Schülerin Edda R. an die Erweiterte Oberschule
 Martin-Andersen-Nexö mitgeteilt wurde. Die Schülerin hat trotz gewisser
 mathematischer Begabungen bisher keine ausreichende Verbundenheit mit unserer
 sozialistischen Gesellschaftsordnung erkennen lassen. Es zeigten sich wiederholt
-*** Tendenzen, bürgerlicher Individualismus und mangelnde
-kollektiv-erzieherische Einordnung. In Versammlungen trat sie durch
-rechthaberische Diskussionsbeiträge auf, die geeignet sind, die klassenbewusste
-Haltung der Mitschüler zu verunsichern. Eine EOS ist ein Ort für politisch
-zuverlässige, gesellschaftlich aktive Jugendliche, die im Geiste der Partei
-erzogen sind. Um Plätze für solche Kinder freizuhalten, fordere ich, die
-Aufnahme von Edda R. zurückzunehmen. Mit sozialistischem Gruß.‘“
+Tendenzen, bürgerlicher Individualismus und mangelnde kollektiv-erzieherische
+Einordnung. In Versammlungen trat sie durch rechthaberische Diskussionsbeiträge
+auf, die geeignet sind, die klassenbewusste Haltung der Mitschüler zu
+verunsichern. Eine EOS ist ein Ort für politisch zuverlässige, gesellschaftlich
+aktive Jugendliche, die im Geiste der Partei erzogen sind. Um Plätze für solche
+Kinder freizuhalten, fordere ich, die Aufnahme von Edda R. zurückzunehmen. Mit
+sozialistischem Gruß.‘“
 
 Sini zieht die Brauen hoch. „Liebenswert.“
 
-„Er hat noch zwei Absätze angehängt über meine ‚negativen Erscheinung‘ – so
+„Er hat noch zwei Absätze angehängt über meine ‚negative Erscheinung‘ – so
 nannten sie es – und dass ich mit meinem ‚lockeren Mundwerk‘ Autoritäten
 untergrabe. Mein Vater hat mich dafür angemeckert: ‚Siehste, so was kommt von so
-was.‘ Aber das war mehr Zähnezeigen als Wut. Gleichzeitig leuchteten ihm die
+was.‘ Aber das war mehr Enttäuschung als Wut. Gleichzeitig leuchteten ihm die
 Augen, weil er einen Plan sah.“
 
 „Dein Vater ist mein heimlicher Held“, sagt Sini leise.
@@ -205,13 +201,13 @@ meine Eltern. In einem Zimmer, an einem Tisch.“
 „Und du?“, fragt Sini.
 
 „Ich war draußen. Ich saß auf der Fensterbank im Flur und habe versucht zu
-lauschen. Gleichzeitig war mir schlecht.“
+lauschen. Gleichzeitig war mir speiübel.“
 
 Ich streiche mir über den Nacken. „Ich hab’ nur Bruchstücke mitbekommen. Durch
 die Tür. Ich hörte Wörter wie ‚Förderlinie‘, ‚Begabtenentwicklung‘, ‚staatliche
 Interessen‘. Dann wurde es lauter. Mein Direktor hat gebrüllt: ‚Die Kleine ist
 nicht gefestigt!‘ Und der Manos-Direktor sagte trocken: ‚Wir nehmen sie wegen
-Mathe, nicht wegen **Liedgut**.‘“
+Mathe, nicht wegen Staatsbürgerkunde.‘“
 
 Sini prustet. „Ich will diesem Mann ein Bier ausgeben.“
 
@@ -219,8 +215,7 @@ Sini prustet. „Ich will diesem Mann ein Bier ausgeben.“
 egal ist, und der nur überlegt, was er später in seinem Bericht schreibt. Der
 Dekan hat Zahlen aufgezählt — meine Punkte, Bezirksplätze, Empfehlungsschreiben.
 Er hat das Wort ‚außergewöhnlich‘ benutzt. Es war das erste Mal, dass mir das
-peinlich war. Ich fühlte mich wie ein Paket Mehl, das hin- und hergeschoben
-wird.“
+peinlich war. Ich fühlte mich wie ein Paket, das hin- und hergeschoben wird.“
 
 Ich schaue Sini an. „Am Ende kam mein Vater heraus, legte mir kurz die Hand auf
 den Kopf — ein sehr unsozialistisches, privates Zeichen — und sagte: ‚Er zieht
@@ -235,35 +230,17 @@ gesagt: ‚Bei uns rechnet man besser, wenn man schweigt.‘“
 
 „Und du?“, fragt Sini. „Hast du… weniger geredet?“
 
-Ich grinse schief. „Ja… also, ich hab’ versucht. Mehr Mathe, weniger große
+Ich grinse schief. „Ja… also, ich hab’s versucht. Mehr Mathe, weniger große
 Klappe. Aber — “ Ich stoppe, weil plötzlich diese andere Geschichte hochkommt,
 die ich eigentlich selten erzähle. Ich schiebe die Gläser von mir weg, sehe Sini
 kurz nicht an. „Weißt du, das war ja nicht nur Spaß mit Mathe und Streit mit
-Direktoren. In der achten Klasse… da hat’s mich zum ersten Mal richtig erwischt.
-Nicht mich direkt, aber fast genauso schlimm.“
+Direktoren. In der neunten Klasse… da hat’s mich zum ersten Mal richtig
+erwischt. Nicht mich direkt, aber fast genauso schlimm.“
 
-Sini legt den Kopf schief, abwartend.
-
-„Eine aus meiner Klasse in der alten Schule, wir waren nicht eng befreundet,
-aber wir haben damals zusammen Hausaufgaben abgeschrieben, so ein alltägliches
-Mädchending eben. Ihre Eltern waren ganz normale Leute, er Mechaniker, sie
-Krankenschwester. Aber sie waren kirchlich aktiv. Jugendkreis, Friedensgebete,
-dieses ganze Gedöns mit Kerzen und ‚Schwerter zu Pflugscharen‘. Ich fand’s
-irgendwie sympathisch, aber dachte damals: naja, harmlos.“
-
-Ich stoße ein kurzes, trockenes Lachen aus. „Ha. Von wegen harmlos. Eines Tages
-waren die einfach weg. Beide Eltern. Die Stasi hat sie nachts geholt. Offiziell
-hieß es, sie hätten ‚staatsfeindliche Hetze‘ betrieben, weil sie Flugblätter
-verteilt hatten — irgendwas mit Abrüstung, Frieden, keine Raketen. Für die war
-das schon Terrorismus.“
+Sini legt den Kopf schief, abwartend. Ich erzähle ihr die Geschichte meines
+Klassenkameraden, der wegen der verpatzen Flucht seiner Eltern ins Heim musste.
 
 Sini zieht die Augenbrauen hoch. „Scheiße.“
-
-„Ja“, sage ich leise. „Und meine Klassenkameradin? Wurde am nächsten Tag von
-zwei Frauen abgeholt, ab ins Heim. Einfach so. Kein Tschüss, kein Nichts. Als ob
-man ein Paket von der Post abholt. Am Montag soll ihr Platz in der Schule leer
-gewesen sein, und das blieb er auch. Ich weiß nicht mal, wo genau sie
-hingekommen ist.“
 
 Es wird still. Ich spüre, wie mein Herz wieder schneller klopft, als wäre ich
 wieder fünfzehn und säße in diesem Klassenraum mit dem leeren Stuhl.
@@ -286,19 +263,18 @@ Mathematik, soweit er konnte.“
 
 „Genau. Die IMO war das Ticket. Aber man wusste immer erst spät, wo sie
 stattfinden würde. 1984 war sie zum Beispiel in Prag, da hätte ich gar nicht
-darüber nachdenken brauchen, über Flucht nachzudenken. Zum Glück war ich da
-ohnehin noch zu jung für die IMO. Aber 1985? Finnland. Bäm! Freiheit. Da wusste
-ich: Ich muss um jeden Preis in die Auswahl kommen, durfte ich nicht locker
-lassen. Ich hab’ gelernt wie besessen, jede Aufgabe, jede Kombinatorikaufgabe,
-Nächte durchgerechnet. Nicht, weil ich Mathe so sehr liebte — na gut, das auch —
-sondern weil das die einzige Leiter war, die noch nach draußen führte.“
+über Flucht nachdenken brauchen. Zum Glück war ich da ohnehin noch zu jung für
+die IMO. Aber 1985? Finnland. Bäm! Freiheit. Da wusste ich: Ich muss um jeden
+Preis in die Auswahl kommen, durfte nicht locker lassen. Ich hab’ gelernt wie
+besessen, jede Aufgabe, Nächte durchgerechnet. Nicht, weil ich Mathe so sehr
+liebte — na gut, das auch — sondern weil das die einzige Leiter war, die mich
+nach draußen führte.“
 
 Ich atme tief durch, merke, dass meine Stimme härter geworden ist. Dann zwinge
 ich mich zum Lächeln. „Also ja, ich hab’ weniger geredet. Aber innerlich hab’
 ich lauter gerechnet.“
 
-Sini kneift meine Finger zusammen. „Und genau deshalb bist du jetzt hier. Bei
-mir.“
+Sini drückt meine Hand. „Und genau deshalb bist du jetzt hier. Bei mir.“
 
 Ich lächle schief zurück. „Genau deshalb.“
 
@@ -312,5 +288,5 @@ sagt. Draußen klackert schon der Schlüsselbund vom Kellner, die Tische sind
 leer, nur wir sitzen noch da, die letzten Gäste. Ich trinke die kalte Cola in
 einem Zug und atme aus.
 
-„Weißt du was?“, sage ich. „Ich erzähl’ dir jetzt von meinem Vater. Ohne ihn
-wär’ das alles nur ein dummer Traum geblieben.“
+„Weißt du was?“, sage ich. „Ich erzähl’ dir auf dem Weg von meinem Vater. Ohne
+ihn wär’ das alles nur ein dummer Traum geblieben.“

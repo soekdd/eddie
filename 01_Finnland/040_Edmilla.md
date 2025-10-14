@@ -134,7 +134,7 @@ nur für die Sprache. Sonst: ‚sowjetisch‘.“
 девочка. Ich bin Edmilla, ein hübsches, typisch sowjetisches Mädchen. Schlank,
 im Kleidchen, mit albernen Spangen und Bändern im Haar, notorisch unpünktlich,
 immer mit riesiger Tasche. Politisch aber zuverlässig… und ich trage schwarze
-Schuhe!“ **tschechische Bergschuhe**
+Schuhe!“
 
 „Was? Wieso?“
 
@@ -144,7 +144,7 @@ Schuhe.“
 „Stimmt!“, musste er zugeben. „Aber bequem müssen sie sein. Keine Ahnung, wie
 lange du die tragen musst.“
 
-„Als ob die HO viel Auswahl hätte… Vielleicht Jungenschuhe, die ich mädchenhaft
+„Als ob die HO viel Auswahl hätte… Vielleicht tschechische Jungen-Bergschuhe, die ich mädchenhaft
 aufpeppe?“
 
 „Na klar, Jungenschuhe, genau wie deine Jungenhosen, Jungenjacken, Jungenshirts…

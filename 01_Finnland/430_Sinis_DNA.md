@@ -100,13 +100,13 @@ proofreading:
 
 # Sinis DNA
 
-Heute bin ich zuerst wach. Ich schleppe mich in die Küche, koche Kaffee, brate
+Ich bin wieder zuerst wach. Ich schleiche mich in die Küche, koche Kaffee, brate
 Rührei, decke den Tisch. Als Sini hereinkommt, bleibt sie stehen und zieht die
 Brauen hoch. „Na sowas.“ Sie setzt sich, nimmt den Kaffee, mustert meine Füße.
-Nur noch dünne Mullbinden, die Haut darunter blassrosa, nicht mehr entzündet.
-Sie nickt langsam. Dann legt sie den Löffel hin und sagt: „Heute kein Zettel. Du
+Keine Mullbinden, die Haut mittlerweile blassrosa, nicht mehr entzündet. Sie
+nickt langsam. Dann legt sie den Löffel hin und sagt: „Heute kein Zettel. Du
 bist besser drauf. Heute erlaube ich dir den ersten kleinen Spaziergang. Am
-Sporthafen gibt es ein paar Bänke. Würdest du dich dort hinfinden?“
+Yachthafen gibt es ein paar Bänke. Würdest du dich dort hinfinden?“
 
 „Ja klar, warum?“
 
@@ -152,11 +152,11 @@ Irokesenfrisur, struppig wie Sini selbst, wenn sie frühmorgens verschlafen aus
 dem Bad kommt. Der andere Strang ist artiger: Ich sticke ihm bunte Sámi-Muster
 an den Wendungen entlang.
 
-Die Codons sind nicht zufällig: Ich suche im Buch nach den Sequenzen, die für
-Prolin, Alanin, Methionin und Co. stehen. Auf der einen Helix bilden die
-Anfangsbuchstaben das Wort PUNK, auf der anderen SAMI. Neben den Codons lasse
+Die DNA Sequenzen sind nicht zufällig: Ich suche im Buch nach den Reihenfolgen, die für die Eiweiße
+**P**rolin, **A**lanin, **M**ethionin usw. stehen. Auf der einen Helix bilden die
+Anfangsbuchstaben das Wort PUNK, auf der anderen SAMI. Neben den Sequenzen lasse
 ich Kästchen frei – so wie bei ihren Matheaufgaben. Sini darf selbst
-herausfinden, welche Aminosäuren gemeint sind. Ein Rätsel, ein Kunstwerk, ein
+herausfinden, welche Eiweiße gemeint sind. Ein Rätsel, ein Kunstwerk, ein
 kleiner Biologie-Gruß für sie.
 
 Ich lehne mich zurück, betrachte mein Werk. Buntstiftspuren auf vergilbtem
@@ -164,14 +164,14 @@ Papier, Ränder wie Landkarten einer langen Reise. Vielleicht ist es das schöns
 Geschenk, das ich je gemacht habe. Jetzt brauche ich nur noch einen Rahmen.
 Irgendwo in dieser Wohnung muss doch ein alter Bilderrahmen herumliegen…
 
-> **➡ Ich zeig Dir Deine DNA**\
-> (…Mal ausnahmsweise keine Berechnung, sondern ein persönliches Geschenk für Biologie-Nerds und andere schlaue Köpfe. Im Kapitel 15 von Band „Eddie rechnet“, habe ich alle Buchstaben als Codons hinterlegt.)
+> **➡ Ich zeig Dir deine DNA**\
+> (…mal ausnahmsweise keine Berechnung, sondern eine Anleitung für ein persönliches Geschenk, dass Du einem Biologie-Nerd und anderen schlaue Köpfe machen kannst. Im Kapitel 15 von Band „Eddie rechnet“, habe ich für alle Buchstaben passende Sequenzen hinterlegt, so kannst Du beliebige Wörter oder Namen als DNA darstellen)
 
 Am Abend schlüpfe ich dann wieder in meine schwarzen Bergschuhe. Zum ersten Mal
 seit über einer Woche wage ich es – meine Füße protestieren kaum noch, und doch
 hasse und liebe ich dieses einzige Paar Schuhe zugleich. Sie haben mich
-geschunden, aber auch getragen. Der Weg durch die Stadt fühlt sich fremd an. Ich
-bin schon so viele Tage hier und doch ist alles fremd. Ich kann mich ja kaum
+geschunden, aber auch getragen. Der Weg durch die Stadt fühlt sich seltsam an.
+Ich bin schon so viele Tage hier und doch ist alles fremd. Ich kann mich ja kaum
 daran erinnern, wie ich in Sinis Wohnung kam.
 
 Doch sie hat mir den Weg beschrieben, und tatsächlich: Es ist leicht. Ich laufe
@@ -180,7 +180,7 @@ Eile“. Die frische Abendluft tut mir gut. Laufen, weil man möchte, nicht weil
 man muss. Als ich bei den Bänken ankomme, sehe ich Sini schon ganz klein über
 die Brücke laufen. Ihr blauer Iro wippt unverkennbar.
 
-Ich winke und setze mich auf die schönste Holzbank am kleinen Stadthafen, genau
+Ich winke und setze mich auf die schönste Holzbank am kleinen Yachthafen, genau
 dort, wo die Leinen in Masten leise klingeln. Sini setzt sich neben mich.
 
 „Wie geht es dir?“ frage ich schnell zuerst. Sie lacht: „Joo, ihan jees.“ – „Ja,
@@ -200,7 +200,7 @@ Ich starre auf die Karte. Die Preise lassen mich schlucken. „Sini … das ist 
 so viel wie ein Ticket für die Fähre.“
 
 Sie schaut in die Kerzenflamme, spielt mit dem Löffel. „Das ist was anderes.“
-Ihre Stimme klingt rau. Dann hebt sie den Kopf, legt eine Handbewegung in die
+Ihre Stimme klingt rau. Dann hebt sie den Kopf, macht eine Handbewegung in der
 Luft, fast wie eine Dozentin: „Du musst das lernen. Nicht nur rechnen. Nicht nur
 planen. Für deine Flucht musst du auch Menschen gewinnen. Busfahrer.
 Schalterleute. Leute, die Macht haben über deine Wege. Und manchmal …“ Sie
