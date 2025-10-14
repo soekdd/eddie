@@ -129,15 +129,15 @@ wieder sinke ich in kurze Fieberträume.
 Sini kommt schon am frühen Nachmittag zurück, viel früher, als sie müsste. „Hab
 nochmal die Schichten getauscht“, murmelt sie, stellt die Tasche ab, zieht die
 Jacke aus. Ihr Gesicht wechselt in Sekunden von Punk zu Krankenschwester. Sie
-zieht die Vorhänge am Fenster auf, lässt Licht in den Raum, schaut mich an, als
-würde sie meinen Puls im Gesicht lesen. „Schon geduscht heute?“ Mein schwaches
-Kopfnicken. Sie prüft die Verbände, die ich mit zittrigen Fingern angelegt habe.
-„Das machen wir mal neu. Medizin genommen?“ Wieder ein Nicken. „Braves Mädchen!“
-Ein Lächeln.
+zieht die Vorhänge auf, lässt Licht in den Raum, schaut mich an, als würde sie
+meinen Puls im Gesicht lesen. „Schon geduscht heute?“ Mein schwaches Kopfnicken.
+Sie prüft die Verbände, die ich mit zittrigen Fingern angelegt habe. „Das machen
+wir mal neu. Medizin genommen?“ Wieder ein Nicken. „Braves Mädchen!“ Ein
+Lächeln.
 
 Am Abend kann ich wieder sitzen. Ich schlucke Tee, schlucke Tabletten, die sie
 mir reicht. „Aber jetzt erzähl mir bitte deine Geschichte“, sagt sie
-schließlich. Keine große Geste, nur der Ton einer Tür, die aufgeht.
+schließlich. Keine große Geste, ein offener Blick, ehrliches Interesse.
 
 Ich atme durch und fange an. In meiner Vorstellung liegen meine Schritte ewig
 zurück, obwohl es nur vier Wochen sind: Edmilla – die albernen Bänder im Haar,
@@ -200,22 +200,25 @@ Letzteren. Für mich ist Sámi-Sein Sprache, Land, Streit mit dem Staat. Kein
 Kleidungsstück.“
 
 Sie zieht die Knie etwas näher an die Brust, blickt entschlossen in die Ferne.
-„Manchmal schenken wir unsere Erklärungen. Aber wir schulden sie niemandem.“
+„Wir schulden sie niemandem eine Erklärungen, aber dir schenke ich sie gern.“
 
 Ich sehe sie an und erkenne plötzlich die Konturen dessen, was ich mir immer
 gewünscht habe, ohne den Namen zu wissen: jemand, der wild ist, ohne laut zu
 sein; der Feministin ist, ohne das Wort zu tragen wie ein Schild; jemand, der
 „keine Eile“ sagt und doch immer dann da ist, wenn die Füße schwach werden. Eine
-Freundin, die nicht fragt, ob sie darf – sondern ob ich will.
+Freundin, die nicht fragt, sondern für einen da ist.
 
-**„Morgen“**, sagt Sini schließlich, „kein Heldinnentum. Kaffee. Verbände.
-Vielleicht eine kurze Runde in der Stadt. Und wenn du ganz brav bist, reden wir
-in ein paar Tagen mit echten Busfahrern.“
+**„Morgen“**, sagt Sini schließlich, „kein Heldinnentum. Kaffee. Verbände. In
+ein paar Tagen vielleicht eine kurze Runde in der Stadt. Und wenn du ganz brav
+bist, reden wir in einer Woche mit echten Busfahrern.“
 
 „Ich bin nie brav“, sage ich, und wir grinsen so breit.
 
 Als wir zu Bett gehen, weiß ich: Das ist der Ort, an dem sich eine Kette
 schlechter Entscheidungen in eine Geschichte von Mut verwandelt. Sini streift
-meinen Arm, nicht zufällig, nicht absichtlich – genau dazwischen. „Komm“, sagt
-sie. „Keine Eile.“ Und zum ersten Mal fühlt sich dieses „keine Eile“ nicht nach
-Stillstand an, sondern nach Richtung.
+meinen Arm, nicht zufällig, nicht absichtlich – genau dazwischen. Während mir
+schon die Augen zufallen, ist da noch etwas was unbedingt raus will: „Jetzt weiß
+ich, warum ich weitergegangen bin… obwohl Vaasa… nur eine Sackgasse ist. Weil…
+du hier bist.“ Sini lacht leise, als hätte ich einen komischen Fiebertraum
+geteilt, versteht nicht alles. Aber in ihrem Blick liegt ein kurzes Blitzen, als
+ahnte sie doch, was ich sagen wollte.

@@ -118,45 +118,35 @@ Die Verbände sind fest, aber trocken. Es tut immer noch weh, aber nicht wie
 vorher — eher wie eine Erinnerung an Schmerz.
 
 Sini beugt sich über mich, legt die Hand an meine Stirn, zählt still bis fünf.
-„Suihkuun nyt,“ sagt sie schließlich, ruhig wie ein Beschluss. Dann auf
-Englisch, für mich: „Shower.“ **Tütchen um die Verbände** Bevor ich protestieren
-kann, kniet sie schon an meinen Füßen, löst behutsam die Verbände, prüft jede
-Stelle mit dem Blick einer Mechanikerin, die ihr Werkzeug kennt. „First off,
-then water, then new,“ murmelt sie, mehr zu sich als zu mir. Sie stützt mich
-hoch, ein Arm um meine Taille, der andere greift nach dem Handtuch. Ich lasse
-mich führen. Im Bad angekommen, zieht sie mir das Shirt über den Kopf und führt
-mich in ihre Duschkabine.
+„Suihkuun nyt“, sagt sie schließlich, ruhig wie ein Beschluss. Dann auf
+Englisch, für mich: „Shower.“ Bevor ich protestieren kann, kniet sie schon an
+meinen Füßen, zaubert zwei Supermarkt-Beutel hervor und stülpt sie mir über die
+Verbände. Knoten knapp überm Knöchel, eine Ehrenrunde Gummi drum –
+Dichtigkeitstest mit dem Ernst einer Mechanikerin, die ihren Drehmomentschlüssel
+liebt. „Good enough,“ murmelt sie. Sie stützt mich hoch, ein Arm um meine
+Taille, der andere greift nach dem Handtuch. Ich lasse mich führen und watschele
+los, das Plastik raschelt wie frisch geschlüpfte Pinguinfüße. Im Bad zieht sie
+mir das Shirt über den Kopf und bugsierte mich in ihre Duschkabine.
 
 Das Wasser ist warm, aber mein Körper zittert, als stünde ich unter Eis. Ich
 lehne gegen die Fliesen, während sie die Seife auf meine Haut schäumt. „Mücken“,
 sagt sie knapp, als sie die roten Kratzer an meinen Armen sieht. Ich nicke,
 kurz. Blut an den Fingernägeln, Wunden, die nicht heilen wollen.
 
-Danach trocknet sie mich ab, legt mich wieder auf das Sofa und verbindet die
-Füße neu. Ihre Finger sind sicher, der Druck fest, aber nie zu fest. Die neuen
-Verbände geben mir Sicherheit. Auch auf die kleinen Wunden an den Armen und
-Beinen trägt sie Creme auf, tupft, pustet manchmal, fast automatisch. Und dann
-zieht sie mir frische Sachen an, ihre eigenen, viel zu weit. Ich bin etwas
-größer als sie, aber so abgemagert, dass die Sachen an mir hängen wie Segel. Ich
-starre in den Spiegel. Sinis Jogginghose hängt traurig an mir herunter. Sini
-lehnt sich in den Türrahmen, zieht eine Augenbraue hoch und grinst: „Die Hose
-hängt wie ein Vorhang – da ist kein Po drin. Aber keine Sorge, ich krieg dich
-schon wieder rund an den richtigen Stellen.“
+Danach rubbelt sie mich trocken, zupft die beiden Plastiktüten mit einem
+zufriedenen plopp von meinen Füßen und inspiziert die Zehen wie ein
+Arbeitsschutzinspektor. „Trocken. Bestanden.“ Keine neuen Wickel—nur Luft und
+Ruhe. Sie tupft etwas Creme auf die kleinen Schrammen an Armen und Beinen,
+pustet, als wären sie heiße Suppe.
+
+Zurück im Zimmer parkt sie mich aufs Sofa, kramt frische Sachen hervor — ihre
+eigenen, viel zu weit. Ich bin zwar ein Stück größer als sie, aber so
+abgemagert, dass die Klamotten an mir hängen wie Segel im Flautenwind. Im
+Spiegel hängt Sinis Jogginghose kläglich. Sini lehnt im Türrahmen, eine
+Augenbraue oben, Grinsen an: „Die Hose hängt wie ein Vorhang — da ist kein Po
+drin. Aber keine Sorge: ich krieg dich schon wieder rund an den richtigen
+Stellen.“
 
 Ich werde knallrot. „Sini!“ Doch sie lacht nur, als hätte sie mir gerade das
-größte Kompliment der Welt gemacht.
-
-Als wär ich ein Bauprojekt, das sie aufpäppeln will… aber irgendwie fühlt es
-sich gut an, dass sie sich so kümmert.
-
-Aber in der Nacht kommt das Fieber zurück. Wieder halluziniere ich, sehe Fähren
-im Wohnzimmer, höre fremdes Lachen. Ich lache zurück, schwanke, falle fast. Dann
-zieht sie mich dichter, hält mich fest. Ich murmele etwas, halb im Delirium:
-„Jetzt weiß ich, warum ich weitergegangen bin… obwohl Vaasa… nur eine Sackgasse
-ist. Weil… du hier bist.“ Sini lacht leise, als hätte ich einen komischen
-Fiebertraum geteilt, versteht nicht alles. Aber in ihrem Blick liegt ein kurzes
-Blitzen, als ahnte sie doch, was ich sagen wollte.
-
-Ihre Nähe erdet mich. Wärme gegen Kälte, Ruhe gegen Stimmen. Ich sinke
-irgendwann in ihren Arm, und das Schwarz ist diesmal kein Absturz, sondern ein
-Schlaf.
+größte Kompliment der Welt gemacht. Als wär ich ein Bauprojekt, das sie
+aufpäppeln will… aber irgendwie fühlt es sich gut an, dass sie sich so kümmert.

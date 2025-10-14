@@ -65,13 +65,13 @@ mir geht, die Hände tief in den Taschen, als wäre das hier das Normalste der
 Welt – das reicht schon, um mein Herz für einen Moment leichter schlagen zu
 lassen.
 
-Die Sozialstation der Sophienkirche riecht nach Suppe und Waschmittel. Neonlicht, schlichte Tische,
-stapelweise Formulare. Eine Frau mit warmer Stimme drückt mir einen Teller in
-die Hand, legt ein Päckchen Damenhygieneartikel dazu und sagt leise: „Das
-Wichtigste zuerst.“ Ich nicke stumm, während Vidar neben mir steht und so tut,
-als gehöre er einfach hierher. Doch ich sehe, wie seine Augen unruhig werden,
-als er hört, wie ich meinen Namen nuschele, wie ich meide, jede Polizei, jedes
-Amt auch nur zu erwähnen.
+Die Sozialstation der Sophienkirche riecht nach Suppe und Waschmittel.
+Neonlicht, schlichte Tische, stapelweise Formulare. Eine Frau mit warmer Stimme
+drückt mir einen Teller in die Hand, legt ein Päckchen Damenhygieneartikel dazu
+und sagt leise: „Das Wichtigste zuerst.“ Ich nicke stumm, während Vidar neben
+mir steht und so tut, als gehöre er einfach hierher. Doch ich sehe, wie seine
+Augen unruhig werden, als er hört, wie ich meinen Namen nuschele, wie ich meide,
+jede Polizei, jedes Amt auch nur zu erwähnen.
 
 Sie geben mir mehr, als ich erwartet habe: ein paar Adressen, eine Telefonnummer
 eines Anwalts, der „Verfolgte“ vertritt. Und dann die Nachricht, die mich fast

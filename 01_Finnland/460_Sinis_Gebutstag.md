@@ -147,3 +147,17 @@ Also fast.“
 
 Sini nickt wohlwollend. „Sehr gern, mein Hinkebein, ich habe auch eine
 Überraschung für dich, aber da musst du dich noch etwas gedulden.“
+
+---
+
+Aber in der Nacht kommt das Fieber zurück. Wieder halluziniere ich, sehe Fähren
+im Wohnzimmer, höre fremdes Lachen. Ich lache zurück, schwanke, falle fast. Dann
+zieht sie mich dichter, hält mich fest. Ich murmele etwas, halb im Delirium:
+„Jetzt weiß ich, warum ich weitergegangen bin… obwohl Vaasa… nur eine Sackgasse
+ist. Weil… du hier bist.“ Sini lacht leise, als hätte ich einen komischen
+Fiebertraum geteilt, versteht nicht alles. Aber in ihrem Blick liegt ein kurzes
+Blitzen, als ahnte sie doch, was ich sagen wollte.
+
+Ihre Nähe erdet mich. Wärme gegen Kälte, Ruhe gegen Stimmen. Ich sinke
+irgendwann in ihren Arm, und das Schwarz ist diesmal kein Absturz, sondern ein
+Schlaf.
