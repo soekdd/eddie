@@ -5,7 +5,7 @@ daytime: 'morning'
 place: 'Centralstation Stockholm, northern city parts'
 persons:
   - 'Eddie'
-synopsis: 'Verloren in Stockholm meide ich aus Angst vor Entdeckung die Botschaften, finde kurz Wärme in der Stadsmissionen, entkomme vermutlich wieder knapp der Stasi und lasse mich schließlich von einer Obdachlosen zu einem sicheren Schlafplatz unter der Brücke führen.'
+synopsis: 'Verloren in Stockholm meide ich aus Angst vor Entdeckung die Botschaften, finde kurz Wärme in der Stadsmission, entkomme vermutlich wieder knapp der Stasi und lasse mich schließlich von einer Obdachlosen zu einem sicheren Schlafplatz unter der Brücke führen.'
 mood: ''
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
@@ -18,7 +18,7 @@ proofreading:
     Fix: 'Zwei wiederkehrende Formulierungen variieren und an einer ruhigen Stelle den Puls kurz absenken, um Kontrast aufzubauen.'
     Note: 2
   Logik:
-    Einschaetzung: 'Die Wegführung ist grundsätzlich plausibel; der Bogen Botschaft → Stadsmissionen → Flucht ist glaubwürdig.'
+    Einschaetzung: 'Die Wegführung ist grundsätzlich plausibel; der Bogen Botschaft → Stadsmission → Flucht ist glaubwürdig.'
     Kritik: 'Einige Toponyme/Distanzen sind unklar (z.B. „Heleneborgsholmen?“), der Ablauf in der Mission (Formular, Sozialdienst, Polizei) könnte präziser sein.'
     Fix: 'Ortsfolge kurz gegen Karte prüfen und Benennungen vereinheitlichen; den Missions-Ablauf mit 1–2 konkreten Details schärfen.'
     Note: 3
@@ -30,7 +30,7 @@ proofreading:
   Sprache:
     Einschaetzung: 'Knackige Bilder, präziser Präsens-Duktus, gelungene Mathe-Metaphern als innere Struktur.'
     Kritik: 'Einige Rhythmusmuster („ich renne“, „ich warte“) häufen sich; schwedische Bezeichnungen sind nicht durchgehend konsistent.'
-    Fix: 'Satzbau und Wortfelder variieren, schwedische Begriffe vereinheitlichen (z.B. Stadsmissionen, Slussen).'
+    Fix: 'Satzbau und Wortfelder variieren, schwedische Begriffe vereinheitlichen (z.B. Stadsmission, Slussen).'
     Note: 2
   Fazit:
     Staerken:
@@ -83,10 +83,10 @@ Hafen schaukeln, alles wirkt wie eine Postkarte. Ich habe keine Zeit, schön zu
 finden, was so schön ist. Ich sehe nur Fluchtwege. Hinter mir könnten sie schon
 sein.
 
-Von dort laufe ich weiter, über Brücken, Inseln. Heleneborgsholmen? Ich merke,
+Von dort laufe ich weiter, über eine Brücke hin zu Heleneborgsholmen. Ich merke,
 wie Stockholm aus lauter Inseln besteht, verbunden durch diese Brücken, wie ein
-riesiges Spinnennetz. Für mich ist jede Brücke ein Risiko – drüber und sie sehen
-mich, drunter und ich verliere mich.
+riesiges Spinnennetz. Für mich ist jede Brücke ein Risiko gehe ich drüber sehen
+sie mich, meide ich sie, komme ich nicht voran.
 
 Irgendwann treibt es mich hinein ins Herz der Stadt. Gamla stan. Enge Gassen,
 Kopfsteinpflaster, bunte Häuser. Touristen mit Kameras lachen, als gäbe es
@@ -97,10 +97,10 @@ einzige, die in diesem Märchen zittert.
 Am Ende weiß ich nicht mehr, wie viele Stunden vergangen sind. Meine Beine
 brennen, mein Magen knurrt. Ich stolpere weiter über eine Brücke unter der sich
 eine riesige Schleusenanlage befindet. Dahinter sehe ich plötzlich dieses kleine
-Schild: Stadsmissionen. Gelbes Licht hinter Glas, Stimmen, Metalltabletts. Wärme
-schlägt mir entgegen, sobald ich die Tür aufdrücke, süß und schwer, Suppe und
-Kaffee. Der Vorraum: eine Bank, ein Tisch mit Formularen, ein Mann hinter einem
-schmalen Tresen. Er lächelt nicht, aber sein Blick ist weich.
+Schild: Stadsmission Slussen. Gelbes Licht hinter Glas, Stimmen, Metalltabletts.
+Wärme schlägt mir entgegen, sobald ich die Tür aufdrücke, süß und schwer, Suppe
+und Kaffee. Der Vorraum: eine Bank, ein Tisch mit Formularen, ein Mann hinter
+einem schmalen Tresen. Er lächelt nicht, aber sein Blick ist weich.
 
 „Hej,“ sagt er, dann auf Englisch: „Name?“
 
@@ -140,9 +140,8 @@ Berlinerisch breit wie ein Schuh. „Det hier is’ nix für dich. Die machen Pa
 und Theater. Ick weeß, wo de hinkannst. Komm ma.“
 
 Ich zucke zusammen. Ich habe ihn nicht kommen sehen. Er steht so nah, dass sein
-Atem meinen Hals streift. Der Mantel riecht nach kaltem Tabak und Altbier. Ein
-Lächeln, das keins ist. Er wirkt zufrieden, mich gefunden zu haben, als hätte er
-einen dicken Fisch geandelt.
+Atem meinen Hals streift. Er wirkt zufrieden, mich gefunden zu haben, als hätte
+er einen dicken Fisch geandelt.
 
 „Lass mich,“ sage ich, leise.
 
@@ -164,7 +163,7 @@ Hinter dem Tresen ruft jemand auf Schwedisch, Worte wie kleine Glocken,
 aneinandergetackert. Eine Frau in Schürze kommt aus der Küche, die Kelle noch in
 der Hand. Zwei Männer drehen sich von der Essensausgabe um; einer trägt eine
 Mütze, der andere die Müdigkeit in den Schultern. Der Berliner zieht, ich ziehe
-zurück. Ein kurzer Ruck, mein Mantel rutscht über die Schulter. Die Kelle
+zurück. Ein kurzer Ruck, meine Jacke rutscht über die Schulter. Die Kelle
 klappert gegen Metall.
 
 „Hej! Hej!“ Der Mann am Tresen kommt herum, stellt sich zwischen uns. „Gå
@@ -189,22 +188,19 @@ für einen winzigen Augenblick Mielke wie er in der finnischen Polzeistation die
 Sorgerechtsübertragung auf den Tresen knallt.
 
 Ich drehe mich weg, noch bevor der Knoten sich löst. Der Berliner flucht wieder.
-Ich reiße mich frei, spüre, wie der Mantel an mir hängt wie eine zweite,
-schlecht sitzende Haut, und laufe. Die Tür fliegt auf, Luft, nasser Wind, graues
+Ich reiße mich frei und laufe. Die Tür fliegt auf, Luft, nasser Wind, graues
 Wasser. Treppen, Pflaster, ein Ruf hinter mir, schwedisch, nicht böse. Schritte?
 Keine, oder ich höre sie nicht. Alles ist Lärm.
 
-Ich renne blind, als wäre vor mir nur noch eine Linie, die ich nicht
-überschreiten darf, und dahinter das schwarze Feld. Ich zähle meine Schritte, um
-mich zu beruhigen: zwei, drei, fünf, sieben. Primzahlen, Inseln. Ich biege in
-den Park ab, der kein Park ist, nur eine flache, grüne Fläche mit Bäumen,
-Sjöbergsplan, sagt ein Schild, ich lese es nicht, ich merke es mir trotzdem.
-Eine Hecke, eine Bank, ein rostiges Klettergerüst. Ich tauche hinter die Hecke,
-knie in nasse Erde. Der Geruch nach Laub und Metall ist plötzlich zu groß, ich
-könnte darin verschwinden.
+Ich renne blind, zähle meine Schritte, um mich zu beruhigen: zwei, drei, fünf,
+sieben. Primzahlen, Inseln. Ich biege in einen kleinen Park ab, der kein Park
+ist, nur eine flache, grüne Fläche mit Bäumen, Sjöbergsplan, sagt ein Schild,
+ich lese es nicht, ich merke es mir trotzdem. Eine Hecke, eine Bank, ein
+rostiges Klettergerüst. Ich tauche hinter die Hecke, knie in nasse Erde. Der
+Geruch nach Laub und Gras ist plötzlich zu groß, ich könnte darin verschwinden.
 
 Ich warte. Ich warte so lange, bis mein Herz wieder in ganzen Zahlen schlägt.
-Ich lausche auf Schritte, Worte, Dialekt. Nichts. Der Wind pfeift, die Boote am
+Lausche auf Schritte, Worte, Dialekt. Nichts. Der Wind pfeift, die Boote am
 nahen Hafen klappern. Ein Kind lacht irgendwo, zu weit weg, um mich zu
 erreichen. Ich ziehe die Jacke enger, taste die Stelle an meinem Arm, wo seine
 Finger waren. Es ist nicht Schmerz, es ist Markierung.

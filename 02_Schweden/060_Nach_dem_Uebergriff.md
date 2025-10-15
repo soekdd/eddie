@@ -47,15 +47,15 @@ Und so gehe ich los, mit schweren Schritten, aber mit einem Ziel. Zum ersten Mal
 seit Monaten habe ich das Gefühl, dass ich nicht nur überlebe -- sondern
 vielleicht einen Ausweg finde.
 
-Zur Stadsmissionen. Ein heller Raum, es riecht nach Suppe, nach frisch
-gewaschenen Hemden von den Helfern, nach einem Leben, das nicht meines ist. Ich
-drücke mich in die hintere Ecke, hungrig, aber auch nervös. An der Essensausgabe
-steht er. Der Junge, er reicht mir einen Teller, höflich, mit gesenktem Blick.
-Kein dummer Spruch, kein Mitleid in den Augen. Nur dieser leise, ernste
-Ausdruck. Er sagt fast nichts, nur ein leises *„Bitte.“* Ich wollte ihn
-ansprechen, sein Hilfsangebot annehmen. Doch jetzt stehe ich hier, wie ein
-Häufchen Elend und bekomme kein Wort heraus. Und trotzdem bleibt er mir im Kopf
-hängen, wie ein Lied, das man nicht los wird.
+Zur Stadsmission. Ein heller Raum, es riecht nach Suppe, nach frisch gewaschenen
+Hemden von den Helfern, nach einem Leben, das nicht meines ist. Ich drücke mich
+in die hintere Ecke, hungrig, aber auch nervös. An der Essensausgabe steht er.
+Der Junge, er reicht mir einen Teller, höflich, mit gesenktem Blick. Kein dummer
+Spruch, kein Mitleid in den Augen. Nur dieser leise, ernste Ausdruck. Er sagt
+fast nichts, nur ein leises *„Bitte.“* Ich wollte ihn ansprechen, sein
+Hilfsangebot annehmen. Doch jetzt stehe ich hier, wie ein Häufchen Elend und
+bekomme kein Wort heraus. Und trotzdem bleibt er mir im Kopf hängen, wie ein
+Lied, das man nicht los wird.
 
 Am nächsten Tag, zurück bei meiner Gruppe. Wir sitzen auf den Pappkartons, reden
 laut, lachen viel zu schrill, damit keiner merkt, wie mies uns wirklich ist. Und

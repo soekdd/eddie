@@ -151,7 +151,7 @@ zerbrechliches, zartes.
 
 Draußen ist die Luft kälter. Streuner drückt seine Nase in meine Kniekehle. Ich
 schwebe fast die Straße entlang, in Richtung Sofia Kyrka. Auf halbem Weg biege
-ich ab zur Stadsmissionen. Vidar ist da. Streuner wittert ihn zuerst, wedelt,
+ich ab zur Stadsmission. Vidar ist da. Streuner wittert ihn zuerst, wedelt,
 zieht. Ich halte ihm den Schatz hin, wie ein Kind eine Muschel.
 
 „Was hast du da?“ fragt Vidar. Ein Schatten Skepsis in seiner Stimme. „Eddie… du
