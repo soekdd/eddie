@@ -7,14 +7,44 @@ persons:
   - 'Eddie'
   - 'Raija'
   - 'graue Männer'
-synopsis: 'Mit Raijas Hilfe bis Umeå/Bahnhof: Eddie nimmt den Nachtzug nach Stockholm, versteckt sich vor möglichen Verfolgern, steigt im Betriebsareal aus und gelangt unerkannt zum Central – erste Schritte in die Anonymität der Freiheit.'
+synopsis: 'Mit Raija bis Umeå, dann Nachtzug: Die „grauen Männer“ kommen zu spät, ich halte bis Centralen durch, verberge mich vor Kontrollen und warte im Betriebsareal auf den Moment zum ungesehenen Ausstieg – Freiheit fast zum Greifen.'
 mood: ''
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'FIN_SWE_Eddie_und_Raija.png'
 todo: 'Wir haben vergessen zuerwähnen, dass Eddie in den Zug eingesteigen ist und er abfährt, bevor die grauen Gestalten kommen. Es wird Nacht während der Fahrt, Eddie kommt am zeitigen Morgen in Stockholm an. Beim Aussteigen gibt es Redundanzen im Text. Es fehlt der Vergleich mit ostdeutschen Städten. Die Hoffnungslosigkeit der zerfallenden Bausubstanz.'
-proofreading: {}
+proofreading:
+  Ton:
+    Einschaetzung: 'Ruhig gespannter Abschiedston; zarte Wärme gegenüber Raija kontrastiert mit wachsendem Verfolgungsdruck.'
+    Kritik: 'Ein, zwei Stellen wiederholen Gedankengänge (Optionen/Arlanda) sowie Angstbilder; Puls bleibt lange gleichförmig hoch.'
+    Fix: 'Doppelte Passage zu Optionen straffen; eine kurze Atempause/Entlastung setzen, um die folgende Anspannung zu staffeln.'
+    Note: 2
+  Logik:
+    Einschaetzung: 'Ablauf klar: Fähre → Bahnhof Umeå → Nachtzug → Ankunft/Verstecken → Betriebsareal.'
+    Kritik: 'Zeit-/Ortssignale zwischen Einfahrt Centralen, Ausstieg der Menge und Weiterrollen ins Betriebsareal könnten eindeutiger sein.'
+    Fix: 'Mit 1–2 knappen Ankern schärfen (Ansage, Uhrzeit, Lichtwechsel, Hinweis auf „Centralen“), und den Grund fürs Nicht‑Aussteigen einmal explizit verorten.'
+    Note: 2
+  Charaktere:
+    Einschaetzung: 'Raija als warm‑entschlossene Helferin; Ich‑Stimme fokussiert, kontrollierend; Gegenseite als diffuse Bedrohung.'
+    Kritik: 'Die „grauen Männer“ bleiben schemenhaft; eine nuancierende Beobachtung könnte die Bedrohung erden.'
+    Fix: 'Ein konkretes Detail ergänzen (Gangart, Mantelsaum, Akzent), ohne den Fokus von Eddie zu lösen.'
+    Note: 2
+  Sprache:
+    Einschaetzung: 'Bildhaft und präzise im Präsens; gelungene technische/akustische Wahrnehmungen (Rattern, Licht, Metall).'
+    Kritik: 'Vereinzelte Redundanzen (Mantel/Dunkelheit, Optionen) und ein doppelter Absatz zu „Optionen/Arlanda“.'
+    Fix: 'Dopplung entfernen; zwei wiederkehrende Formulierungen variieren; knappe, spezifische Sinneindrücke setzen.'
+    Note: 2
+  Fazit:
+    Staerken:
+      - 'Wärme im Abschied mit Raija als emotionaler Kontrast.'
+      - 'Klares Flucht‑Prozedere mit glaubwürdigem Risiko‑Management.'
+      - 'Dichte Raum‑ und Geräuschwahrnehmung im Zug/Depot.'
+    Schwaechen:
+      - 'Redundanzen (Optionen/Arlanda, Angstbilder).'
+      - 'Gegenspieler bleiben schemenhaft.'
+    Fix: 'Dopplungen straffen; 1–2 präzisierende Anker (Zeit/Ort) setzen; eine beobachtete Mini‑Geste der Verfolger einstreuen.'
+    Note: 2
 ---
 
 # Ankunft in Stockholm

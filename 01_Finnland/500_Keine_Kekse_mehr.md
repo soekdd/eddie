@@ -1,7 +1,10 @@
 ---
-date: ''
-day: ''
-daytime: 'night & morning'
+title: 'Keine Kekse mehr'
+date: '1985-08-17'
+date_from: '1985-08-17'
+date_to: '1985-08-18'
+day: 'Saturday'
+daytime: 'night & next days morning'
 place: 'Sinis Wohnung, Vaasa'
 persons:
   - 'Eddie'
@@ -45,10 +48,13 @@ proofreading:
     Note: 2
 ---
 
-Der Teig riecht nach Schokolade und Abenteuer. Ich hocke barfuß auf Sinis
-Küchenstuhl, rühre mit einem Holzlöffel, der aussieht, als hätte schon ihre
-Großmutter damit Suppe gekocht. Sini lehnt am Herd, schiebt die Haare aus dem
-Gesicht und versucht, das Rezept auf Finnisch zu entziffern.
+# Keine Kekse mehr
+
+Ein anderer Abend die gleiche gemütliche Küche. Der Teig riecht nach Schokolade
+und Abenteuer. Ich hocke barfuß auf Sinis Küchenstuhl, rühre mit einem
+Holzlöffel, der aussieht, als hätte schon ihre Großmutter damit Suppe gekocht.
+Sini lehnt am Herd, schiebt die Haare aus dem Gesicht und versucht, das Rezept
+auf Finnisch zu entziffern.
 
 „Kuinka paljon tätä?“ lese ich laut. „Keine Ahnung“, sagt sie und grinst. „Mach
 einfach rein. Wird schon.“
@@ -120,8 +126,8 @@ Am Morgen
 Das Licht tut weh. Sini sitzt auf dem Boden, eingewickelt in eine Decke, die
 Augen rot. Auf dem Tisch Krümel, kalter Tee, mein Herz rast immer noch nach.
 
-„Ich hab dich schreien gehört“, sagt sie. Ich nicke. „Ich… dachte, ich wär
-wieder dort. In Dresden. Im Keller.“
+„Ich hab dich schreien gehört“, sagt sie. Ich nicke. „Ich dachte… sie hätten
+mich.“
 
 Eine Pause. Ihre Hand zittert, als sie mir eine Tasse reicht. „Nie wieder
 Kekse“, sagt sie. Ich atme aus. „Nie wieder DDR.“

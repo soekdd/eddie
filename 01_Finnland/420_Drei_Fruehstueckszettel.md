@@ -1,3 +1,47 @@
+---
+title: 'Keine Eile – Frühstück, Mutprobe & Hafenbank'
+chapter_id: 'FIN_Vaasa_Tag1_Fruehstueck_und_Hafenbank'
+date: '1985-08-08'
+date_from: '1985-08-08'
+date_to: '1985-08-10'
+day: 'Wednesday'
+tense: 'present'
+pov: 'Eddie, first-person'
+mode: 'flashback'
+title: 'Die drei Frühstückszettel'
+persons:
+  - 'Eddie'
+  - 'Sini'
+synopsis: 'Drei Tage bleibe ich in Sinis Wohnung, heile Schritt für Schritt und löse jeden Morgen einen liebevoll gebastelten Mathe‑Zettel – vom Fischsee über die Depotstrategie bis zur finnischen Seenplatte; Kochen, Lachen und kleine Fortschritte werden unser Rhythmus.'
+proofreading:
+  Kapitel: '420_Drei_Fruehstueckszettel'
+  Ton:
+    Einschaetzung: 'Warm, verspielt und tröstlich; Mathe als Spielplatz, Alltag als Heilraum.'
+    Kritik: 'An manchen Stellen leicht episodisch; Fachbegriffe (z. B. „Minkowski“) tragen Humor, könnten aber kurz erdet werden.'
+    Fix: 'Pro Tag einen klaren Mini‑Zeitanker setzen; 1–2 kleine Körpermarker der Heilung/Überforderung zeigen; Fachbegriff einmal knapp in Alltagssprache spiegeln.'
+    Note: 2
+  Logik:
+    Einschaetzung: 'Drei Tage mit klarer Progression (1–2–3) und sichtbarem Heilungsverlauf.'
+    Kritik: 'Übergänge zwischen den Tagen sind teils weich; die Steigerung der „Einsätze“ (von Zettel zu Zettel) bleibt implizit.'
+    Fix: 'Zwischen den Tagen je ein kurzer Übergangssatz (Morgen/Abend) setzen; beim dritten Zettel die körperliche Leichtigkeit explizit markieren (z. B. Schrittfolge, Tempo).'
+    Note: 2
+  Charaktere:
+    Einschaetzung: 'Eddie klug, verletzlich und humorvoll; Sini zugewandt, klug führend, liebevoll streng.'
+    Kritik: 'Sinis innere Motivlage blitzt nur kurz auf (Helsinki/Biologie, Vater); Eddies Stolz vs. Dankbarkeit könnte an einer Stelle kantiger reiben.'
+    Fix: 'Bei der „Biologie/Helsinki“-Andeutung eine kleine nonverbale Reaktion einbauen (Blick/Hand); eine kurze Reibungsstelle bei Eddie (Impuls, sofort aufzubrechen) mit sanftem Abbremsen durch Sini kontern.'
+    Note: 2
+  Sprache:
+    Einschaetzung: 'Flüssig, bildhaft, mit humorvollen Einsprengseln; stimmiger Ich‑Duktus.'
+    Kritik: 'Vereinzelte dichte Fachstellen; wenige sehr lange Sätze.'
+    Fix: '1–2 Langsätze teilen; Mathe‑Begriffe punktuell in ein alltagssprachliches Bild überführen; Jugendsound an zwei Stellen kurz aufblitzen lassen.'
+    Note: 2
+  Fazit:
+    Staerken: 'Wärme und Humor; starkes Motiv „Zettel“; glaubwürdige Heilungsprogression; zarte Intimität.'
+    Schwaechen: 'Episodenübergänge weich; fachliche Dichte punktuell hoch; Reibung stellenweise zu glatt.'
+    Fix: 'Mini‑Zeitanker je Tag; kleine Körpermarker/Impulsbremsen; 1–2 Sätze straffen/übersetzen.'
+    Note: 2
+---
+
 # Die drei Frühstückszettel
 
 Drei Tage habe ich in Sinis Wohnung verbracht. Damit ich brav sitzen blieb,
