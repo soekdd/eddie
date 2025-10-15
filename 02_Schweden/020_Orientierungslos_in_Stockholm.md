@@ -5,13 +5,45 @@ daytime: 'morning'
 place: 'Centralstation Stockholm, northern city parts'
 persons:
   - 'Eddie'
-synopsis: 'Planlos durch Stockholm zwischen Angst und Staunen; Eddie meidet die Botschaften, irrt durch die Stadt und findet in der Bahnhofsmission Wärme und erste Hilfe – ein vorsichtiger Anker in der Fremde.'
+synopsis: 'Verloren in Stockholm meide ich aus Angst vor Entdeckung die Botschaften, finde kurz Wärme in der Stadsmissionen, entkomme vermutlich wieder knapp der Stasi und lasse mich schließlich von einer Obdachlosen zu einem sicheren Schlafplatz unter der Brücke führen.'
 mood: ''
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'SWE_Stockholm_Stadtmission.png'
-proofreading: {}
+proofreading:
+  Ton:
+    Einschaetzung: 'Dicht, gehetzt, suchend; starke Sinneseindrücke und konstantes Bedrohungsgefühl, unterbrochen von kurzen Inseln der Wärme.'
+    Kritik: 'Stellenweise wiederholen sich Flucht- und Atembilder, was die Varianz etwas schmälert.'
+    Fix: 'Zwei wiederkehrende Formulierungen variieren und an einer ruhigen Stelle den Puls kurz absenken, um Kontrast aufzubauen.'
+    Note: 2
+  Logik:
+    Einschaetzung: 'Die Wegführung ist grundsätzlich plausibel; der Bogen Botschaft → Stadsmissionen → Flucht ist glaubwürdig.'
+    Kritik: 'Einige Toponyme/Distanzen sind unklar (z.B. „Heleneborgsholmen?“), der Ablauf in der Mission (Formular, Sozialdienst, Polizei) könnte präziser sein.'
+    Fix: 'Ortsfolge kurz gegen Karte prüfen und Benennungen vereinheitlichen; den Missions-Ablauf mit 1–2 konkreten Details schärfen.'
+    Note: 3
+  Charaktere:
+    Einschaetzung: 'Ich-Perspektive trägt; Nebenfiguren (Tresenmann, Küchenfrau, Obdachlose) sind mit wenigen Zügen lebendig und funktional.'
+    Kritik: 'Der „Berliner“ gerät nahe an eine Schablone; beim Personal fehlt eine Nuance Ambivalenz.'
+    Fix: 'Dem „Berliner“ ein erdendes Detail geben (Sprache, Habitus, Motiv), dem Personal eine kleine, charakterisierende Geste hinzufügen.'
+    Note: 2
+  Sprache:
+    Einschaetzung: 'Knackige Bilder, präziser Präsens-Duktus, gelungene Mathe-Metaphern als innere Struktur.'
+    Kritik: 'Einige Rhythmusmuster („ich renne“, „ich warte“) häufen sich; schwedische Bezeichnungen sind nicht durchgehend konsistent.'
+    Fix: 'Satzbau und Wortfelder variieren, schwedische Begriffe vereinheitlichen (z.B. Stadsmissionen, Slussen).'
+    Note: 2
+  Fazit:
+    Staerken:
+      - 'Intensives Fluchtgefühl mit starker Körper- und Raumwahrnehmung.'
+      - 'Kontrast aus Kälte/Drohung und kurzen Momenten von Wärme/Hilfe.'
+      - 'Mathematische Bilder strukturieren innere Kontrolle überzeugend.'
+      - 'Szenische Konkretion (Formular, Gerüche, Texturen) erhöht Unmittelbarkeit.'
+    Schwaechen:
+      - 'Geographische Bezüge teils unscharf bzw. ungesichert.'
+      - 'Antagonist „Berliner“ streift Klischees.'
+      - 'Wiederholungen im Bewegungs- und Atemfeld mindern Varianz.'
+    Fix: 'Geographie und Benennungen prüfen/vereinheitlichen; Wiederholungen straffen; zwei Mini-Gesten zur Nuancierung von Antagonist und Helfenden ergänzen.'
+    Note: 2
 ---
 
 # Orientierungslos in Stockholm

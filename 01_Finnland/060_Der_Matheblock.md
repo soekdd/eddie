@@ -15,7 +15,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Joutsa_Fluchtblock.png'
 proofreading:
-  Kapitel: '060_Der_Matheblock'
   Ton:
     Einschaetzung: 'Spannend-nah; jugendliche Asides und Stressmarker tragen die Szene.'
     Kritik: 'Die Aufgaben-Einführung klingt noch minimal erklärend.'

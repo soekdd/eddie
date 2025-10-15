@@ -14,7 +14,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Sini_schaemt_sich.png'
 proofreading:
-  Kapitel: '520_Nicht_nur_ein_Ding'
   Ton:
     Einschaetzung: 'Klarer, jugendlicher Konflikt; „Nein“-Setzung und stille Momente tragen.'
     Kritik: 'Vereinzelt noch betonte Formulierungen; zwei Sätze könnten leiser enden.'

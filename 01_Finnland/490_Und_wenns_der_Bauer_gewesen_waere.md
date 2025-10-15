@@ -60,7 +60,6 @@ parts:
       - 'Sini propagiert strategischen Feminismus'
       - 'Eddie erkennt gegenseitige Verlustangst'
 proofreading:
-  Kapitel: '510_Und_wenns_der_Bauer_gewesen_waere'
   Ton:
     Einschaetzung: 'Warm, bittersüß; Trainingstag mit leichtem Humor, unterlegt von Abschiedsspannung.'
     Kritik: 'Der „Bauer“-Gag droht kurz den Ernst zu übertönen; einzelne Sätze klingen wie Thesen statt gefühlte Momente.'

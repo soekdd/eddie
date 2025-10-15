@@ -11,7 +11,6 @@ mood: 'warm, playful, intimate'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '570_Schlumpfine'
   Ton:
     Einschaetzung: 'Warm, verspielt, intim; Humor trägt die Szene, darunter leise Sehnsucht nach Zugehörigkeit.'
     Kritik: 'Der Schlumpfine‑Witz droht punktuell zu lange zu laufen; Ernstmomente (Zuhause/Abschied) könnten etwas früher mitschwingen.'

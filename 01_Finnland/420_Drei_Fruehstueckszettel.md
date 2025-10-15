@@ -27,14 +27,15 @@ faltete ich den Zettel und steckte ihn stolz in meinen Matheblock.
 
 Am zweiten Tag war ich früher wach; die Neugier weckte mich, noch bevor Sini das
 Haus verließ. Sie grinste und zog aus der Jacke einen zweiten Zettel. Darauf ein
-Rentier, das wie ein Hund mit Antennen aussah. **Aufgabe 2: Depotstrategie** Eine Wanderin verbraucht pro Tag 1 Ration und ihr Rentier kann höchstens 3 tragen. Am Start liegt unbegrenzter Vorrat. Wie weit
-kommt sie maximal in die Wildnis hinein und wieder zurück, wenn sie unterwegs
-Depots anlegt? Gehgeschwindigkeit 20 km pro Tag.
+Rentier, das wie ein Hund mit Antennen aussah. **Aufgabe 2: Depotstrategie**
+Eine Wanderin verbraucht pro Tag 1 Ration und ihr Rentier kann höchstens 3
+tragen. Am Start liegt unbegrenzter Vorrat. Wie weit kommt sie maximal in die
+Wildnis hinein und wieder zurück, wenn sie unterwegs Depots anlegt?
+Gehgeschwindigkeit 20 km pro Tag.
 
-Ich legte die Beine hoch, tauschte
-die Mullstreifen gegen schmalere, wagte einen Schritt ohne zu fluchen.
-Fortschritt. Dann Stapelpläne: Haufen, Pfeile, Umlagerung, zurücklassen,
-umdrehen.
+Ich legte die Beine hoch, tauschte die Mullstreifen gegen schmalere, wagte einen
+Schritt ohne zu fluchen. Fortschritt. Dann Stapelpläne: Haufen, Pfeile,
+Umlagerung, zurücklassen, umdrehen.
 
 > **➡ Rentier-Depot**\
 > (…Ursprünglich hieß die Aufgabe das Jeep Problem. Doch Sinis Rentiere passen viel besser zu meiner Vaasalopet. Kapitel 13, im Band „Eddie rechnet“)
@@ -56,16 +57,18 @@ mir ein wellenförmig ausgeschnittenes Papier zu. Aufgabe 3: „Finnland hat vie
 Seen. Wie groß ist ungefähr die Wahrscheinlichkeit, dass ein zufälliger Punkt
 höchstens einen Kilometer vom Seeufer entfernt liegt?“ Ich zeichnete Finnland
 auf Küchenrolle, setzte blaue Tupfer, kritzelte „Uferaufdickung“ daneben und
-summte „Minkowski“ wie ein finnisches Dessert. Eigentlich der Name eines russisch deutschen Mathematikers, dem selbst die schwierigsten Statistikaufgaben zu leicht waren. Die Füße waren fast still; nur
-die schlimmsten Wunden erinnerten sich. Ich räumte ohne Pause die Tassen weg,
-hüpfte zweimal probehalber durch den Flur und erschrak, wie normal sich das
-anfühlte. Abends machte ich Kartoffelauflauf. Daneben stellte ich demonstrativ
-eine Schale Wasser: „Jede Kartoffel höchstens einen Kilometer vom See entfernt.“
-Sini lachte so laut, dass sie sich den Bauch hielt. Beim Essen erklärte ich
-meine Schätzung – Flächen, Uferlängen, grobe Dichteargumente. „Du bist
-statistisch wassernah“, sagte sie und hob das Glas wie eine amtliche
-Bestätigung. Ich versuchte ihr die Bedeutung des deutschen Sprichwortes „Nah am
-Wasser gebaut“ zu übersetzen. Sinis Blick zu Folge erfolglos.
+summte „Minkowski“ wie ein finnisches Dessert. Eigentlich der Name eines
+russisch deutschen Mathematikers, dem selbst die schwierigsten Statistikaufgaben
+zu leicht waren. Die Füße waren fast still; nur die schlimmsten Wunden
+erinnerten sich. Ich räumte ohne Pause die Tassen weg, hüpfte zweimal
+probehalber durch den Flur und erschrak, wie normal sich das anfühlte. Abends
+machte ich Kartoffelauflauf. Daneben stellte ich demonstrativ eine Schale
+Wasser: „Jede Kartoffel höchstens einen Kilometer vom See entfernt.“ Sini lachte
+so laut, dass sie sich den Bauch hielt. Beim Essen erklärte ich meine Schätzung
+– Flächen, Uferlängen, grobe Dichteargumente. „Du bist statistisch wassernah“,
+sagte sie und hob das Glas wie eine amtliche Bestätigung. Ich versuchte ihr die
+Bedeutung des deutschen Sprichwortes „Nah am Wasser gebaut“ zu übersetzen. Sinis
+Blick zu Folge erfolglos.
 
 Ich hatte verstanden: Sini hielt mich nicht fest, sie hielt mich ruhig. Die
 Aufgabe war schon die Belohnung. Abends kochte ich für sie – mein Dank, heiß aus

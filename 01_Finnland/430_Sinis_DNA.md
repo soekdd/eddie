@@ -152,12 +152,12 @@ Irokesenfrisur, struppig wie Sini selbst, wenn sie frühmorgens verschlafen aus
 dem Bad kommt. Der andere Strang ist artiger: Ich sticke ihm bunte Sámi-Muster
 an den Wendungen entlang.
 
-Die DNA Sequenzen sind nicht zufällig: Ich suche im Buch nach den Reihenfolgen, die für die Eiweiße
-**P**rolin, **A**lanin, **M**ethionin usw. stehen. Auf der einen Helix bilden die
-Anfangsbuchstaben das Wort PUNK, auf der anderen SAMI. Neben den Sequenzen lasse
-ich Kästchen frei – so wie bei ihren Matheaufgaben. Sini darf selbst
-herausfinden, welche Eiweiße gemeint sind. Ein Rätsel, ein Kunstwerk, ein
-kleiner Biologie-Gruß für sie.
+Die DNA Sequenzen sind nicht zufällig: Ich suche im Buch nach den Reihenfolgen,
+die für die Eiweiße **P**rolin, **A**lanin, **M**ethionin usw. stehen. Auf der
+einen Helix bilden die Anfangsbuchstaben das Wort PUNK, auf der anderen SAMI.
+Neben den Sequenzen lasse ich Kästchen frei – so wie bei ihren Matheaufgaben.
+Sini darf selbst herausfinden, welche Eiweiße gemeint sind. Ein Rätsel, ein
+Kunstwerk, ein kleiner Biologie-Gruß für sie.
 
 Ich lehne mich zurück, betrachte mein Werk. Buntstiftspuren auf vergilbtem
 Papier, Ränder wie Landkarten einer langen Reise. Vielleicht ist es das schönste
@@ -165,7 +165,7 @@ Geschenk, das ich je gemacht habe. Jetzt brauche ich nur noch einen Rahmen.
 Irgendwo in dieser Wohnung muss doch ein alter Bilderrahmen herumliegen…
 
 > **➡ Ich zeig Dir deine DNA**\
-> (…mal ausnahmsweise keine Berechnung, sondern eine Anleitung für ein persönliches Geschenk, dass Du einem Biologie-Nerd und anderen schlaue Köpfe machen kannst. Im Kapitel 15 von Band „Eddie rechnet“, habe ich für alle Buchstaben passende Sequenzen hinterlegt, so kannst Du beliebige Wörter oder Namen als DNA darstellen)
+> (…mal ausnahmsweise keine Berechnung, sondern eine Anleitung für ein persönliches Geschenk, dass Du einem Biologie-Nerd und anderen schlauen Köpfe machen kannst. Im Kapitel 15 von Band „Eddie rechnet“, habe ich für alle Buchstaben passende Sequenzen hinterlegt, so kannst Du beliebige Wörter oder Namen als DNA darstellen)
 
 Am Abend schlüpfe ich dann wieder in meine schwarzen Bergschuhe. Zum ersten Mal
 seit über einer Woche wage ich es – meine Füße protestieren kaum noch, und doch

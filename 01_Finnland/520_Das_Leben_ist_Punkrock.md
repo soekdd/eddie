@@ -15,7 +15,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Jussi.png'
 proofreading:
-  Kapitel: '540_Das_Leben_ist_Punkrock'
   Ton:
     Einschaetzung: 'Wild, rotzig, jugendlich. Eddie klingt frech und trotzig.'
     Kritik: 'Ton schwankt: manchmal authentisch jugendlich, dann wieder zu reflektiert. Gefahr, dass die wilde Energie nicht durchgehend trägt.'

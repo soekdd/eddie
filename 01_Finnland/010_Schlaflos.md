@@ -12,7 +12,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Joutsa_Bungalow.png'
 proofreading:
-  Kapitel: '010_Schlaflos'
   Ton:
     Einschaetzung: 'Intensiv, nah dran; jugendliche Direktheit trägt die Unruhe.'
     Kritik: 'Vereinzelt wirken pointierte Sätze etwas gesetzt.'

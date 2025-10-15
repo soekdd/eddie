@@ -15,7 +15,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Busse.png'
 proofreading:
-  Kapitel: '560_Die_Verfuehrerin'
   Ton:
     Einschaetzung: 'Leicht, verspielt, zärtlich – unterlegt von Druck und Abschiedsnähe; Trainingsmodus statt Romanze.'
     Kritik: 'Makeover-/Flirtpassagen drohen kurz ins Glatte/Kitschige zu kippen; Eddies Unsicherheit könnte in der Heiterkeit untergehen.'

@@ -13,7 +13,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Kissenschlacht2.png'
 proofreading:
-  Kapitel: '500_Das_erste_Mal'
   Ton:
     Einschaetzung: 'Intim und verspielt; Unsicherheiten (Stocken, Lacher) und kleine Entlastungswitze machen die Szene spürbar jugendlich.'
     Kritik: 'Vereinzelte Formulierungen klingen noch wie spätere Rückschau.'

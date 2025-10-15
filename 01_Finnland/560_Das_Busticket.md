@@ -15,7 +15,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Zoellner.png'
 proofreading:
-  Kapitel: '580_Das_Busticket'
   Ton:
     Einschaetzung: 'Druckvoll und ernüchternd: Hoffnung kippt in Ohnmacht, getragen von der Bindung zu Sini.'
     Kritik: 'Stellenweise nüchtern; Emotionen bleiben im Kopf statt im Körper, der Schmerz des verpassten Moments hallt zu kurz nach.'

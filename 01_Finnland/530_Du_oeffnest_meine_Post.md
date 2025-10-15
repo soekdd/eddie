@@ -12,7 +12,6 @@ mood: 'tense, humiliating, bittersweet'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '550_Du_oeffnest_meine_Post'
   Ton:
     Einschaetzung: 'Konfrontativ, angespannt: warmer Einstieg, dann strenge Ansage; Eddies Verletzlichkeit ist spürbar.'
     Kritik: 'Selbstanklage droht den Ton punktuell zu dominieren; die Härte des Vaters überblendet kurz die leisen Töne.'

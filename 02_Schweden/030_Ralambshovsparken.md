@@ -58,7 +58,7 @@ ein Hund. Ich hebe es trotzdem auf. Essen ist Essen.
 
 Von Zeit zu Zeit tauchen Sozialarbeiter und Helfer im Park auf. Sie bringen
 Decken und Lebensmittel und stellen keine Fragen. Die meisten gehören wohl zur
-Bahnhofsmission, ich glaube mich an Gesichter erinnern zu können und den großen
+Stadsmission, ich glaube mich an Gesichter erinnern zu können und den großen
 Zentralbahnhof hört man bis hier her. Ein paar von ihnen sind vermutlich noch
 Schüler. Gerade vor denen schäme ich mich besonders. Ich sehe, wie sie mich
 entsetzt anschauen. „So jung, und schon so tief unten“ mögen sie denken. Ich

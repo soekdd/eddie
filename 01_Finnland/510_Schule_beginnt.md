@@ -12,7 +12,6 @@ mood: 'light, humorous, tinged with hidden melancholy'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 proofreading:
-  Kapitel: '530_Schule_beginnt'
   Ton:
     Einschaetzung: 'Leicht und humorvoll am Frühstück, darunter leise Melancholie; Lernsehnsucht klar fühlbar.'
     Kritik: 'Reflexionen kippen punktuell ins Essayhafte; jugendliche Direktheit und kleine Unsicherheiten fehlen stellenweise.'

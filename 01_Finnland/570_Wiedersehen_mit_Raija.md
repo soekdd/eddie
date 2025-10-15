@@ -14,7 +14,6 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Eddie_kuesst_Sini.png'
 proofreading:
-  Kapitel: '590_Wiedersehen_mit_Raija'
   Ton:
     Einschaetzung: 'Gedrängt, hoffnungsvoll, bittersüß; Wiedersehen, Plan, Abschied tragen ein leises Pathos.'
     Kritik: 'Punktuell pathetisch und sehr abgeklärt; jugendliche Unsicherheit tritt zurück, einzelne Sätze klingen wie Resümee.'

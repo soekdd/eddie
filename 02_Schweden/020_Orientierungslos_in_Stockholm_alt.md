@@ -5,7 +5,7 @@ daytime: 'morning'
 place: 'Centralstation Stockholm, northern city parts'
 persons:
   - 'Eddie'
-synopsis: 'Planlos durch Stockholm zwischen Angst und Staunen; Eddie meidet die Botschaften, irrt durch die Stadt und findet in der Bahnhofsmission Wärme und erste Hilfe – ein vorsichtiger Anker in der Fremde.'
+synopsis: 'Planlos durch Stockholm zwischen Angst und Staunen; Eddie meidet die Botschaften, irrt durch die Stadt und findet in der Stadsmission Wärme und erste Hilfe – ein vorsichtiger Anker in der Fremde.'
 mood: ''
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'

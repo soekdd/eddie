@@ -144,8 +144,8 @@ Schuhe.“
 „Stimmt!“, musste er zugeben. „Aber bequem müssen sie sein. Keine Ahnung, wie
 lange du die tragen musst.“
 
-„Als ob die HO viel Auswahl hätte… Vielleicht tschechische Jungen-Bergschuhe, die ich mädchenhaft
-aufpeppe?“
+„Als ob die HO viel Auswahl hätte… Vielleicht tschechische Jungen-Bergschuhe,
+die ich mädchenhaft aufpeppe?“
 
 „Na klar, Jungenschuhe, genau wie deine Jungenhosen, Jungenjacken, Jungenshirts…
 Was haben wir bei deiner Erziehung bloß falsch gemacht?“, lachte er.

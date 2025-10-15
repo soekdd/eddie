@@ -13,7 +13,6 @@ tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 todo: 'Der Dialog der Mädchen ist noch zu schwach, zu redundant.'
 proofreading:
-  Kapitel: '470_Papa'
   Ton:
     Einschaetzung: 'Warm, respektvoll, Eddie erinnert Szenen mit ihrem Vater.'
     Kritik: 'Ton kippt ins Nostalgische und wirkt stellenweise zu literarisch. Die jugendliche Direktheit tritt zurück.'
