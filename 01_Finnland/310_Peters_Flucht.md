@@ -62,7 +62,7 @@ er erst wieder Worte finden.
 Er spricht in einem Ton, der nichts Dramatisches haben will, aber alles enthält.
 „Meine Eltern“, beginnt er, „haben einen Ausreiseantrag gestellt, weil sie
 einfach nicht länger mitmachen wollten. Mein Vater war Schiffbauer in einer
-kleinen Werft, meine Mutter Lehrerin. Nach dem Antrag wurden sie von ihren
+großen Werft, meine Mutter Lehrerin. Nach dem Antrag wurden sie von ihren
 Vorgesetzten zur Rede gestellt. Mein Vater wurde versetzt, musste plötzlich
 irgendwo außerhalb von Rostock ein Lager verwalten. Meine Mutter durfte gar
 nicht mehr arbeiten. Von einem Tag auf den anderen war sie ‚überflüssig‘.“
@@ -81,6 +81,30 @@ Peter nickt mir dankbar zu. Die anderen sehen uns an – und ich merke, dass sie
 begreifen, es sind nicht nur seine Erinnerungen, sondern etwas, das wir alle
 kannten.
 
+Er atmet aus. „Aber das war nur die Erwachsenenseite. Für mich fing es da erst
+an.“ Seine Stimme wird flacher, aber fester. „In der Schule gab’s einen extra
+anberaumten Fahnenappell. Der Direktor ruft vor der versammelten Schule meinen
+Namen auf und ich musste vortreten. Dann sagte vor allen: ‚Das ist ein Kind von
+Verrätern an der DDR.‘ Er fordert alle Schüler auf, den Kontakt zu mir
+abzubrechen. ‚Kein Gruppenlernen, keine Hilfe – wer mit ihm befreundet ist,
+stellt sich gegen unser sozialistisches Vaterland.‘ Die Ausgrenzung war
+staatlich gewollt und organisiert“
+
+Er blickt ins Feuer, als sähe er wieder den Schulhof. „Im Unterricht setzt mich
+die Klassenlehrerin an einen Einzeltisch neben die Tür. Beim Sport: ‚Paare
+bilden!‘ – und ich stand allein. In der Pause rutscht die Bank neben mir
+plötzlich ein Stück weg, als hätte ich Gift an den Ellbogen. Der beste Freund
+meidet mich, nicht weil er will, sondern weil seine Eltern Angst haben. Einmal
+fliegt im Hof ein Ball knapp an meinem Kopf vorbei, alle lachen, und keiner hat
+ihn natürlich geworfen. AG Volleyball? Für mich gestrichen. Klassenfahrt?
+‚Erziehungsmaßnahme: nicht teilnahmeberechtigt.‘ Im Klassenbuch steht irgendwann
+‚mangelnde gesellschaftliche Haltung‘. Und wenn ich zur Tür reinkomme, wird es
+kurz still – so eine Stille, die lauter ist als jedes Wort.“
+
+Er schluckt. „Zu Hause sagten meine Eltern: ‚Wir ziehen das durch, das ist es
+wert.‘ Und ich hab genickt. Aber jeden Morgen war da dieses Loch im Bauch, weil
+du weißt: Heute bist du wieder der, an dem man ein Exempel statuiert.“
+
 Seine Stimme wird leiser. „Das Schlimmste war das Warten. Es war wie eine Art
 psychologische Kriegsführung. Man wusste nie, ob der Antrag überhaupt durchgeht.
 Jahre vergingen. Bei uns waren es fünf Jahre. In dieser Zeit hat die Stasi
@@ -91,7 +115,7 @@ schnell raus – damit niemand Aufsehen erregt.“
 
 Peter schaut ins Feuer. „Und dann war er da, der Bescheid. Wir mussten gehen.
 Ich erinnere mich noch, wie wir unsere wenigen Koffer packten, alles andere
-zurückließen. Kein Zurück, keine Erklärung, nur weg.“
+zurückließen. Kein Zögern, keine Erklärung, nur weg.“
 
 Er atmet tief durch. „Der Westen … war schwer. Uniabschlüsse mussten erst
 anerkannt werden. Mein Vater, meine Mutter – beide mussten von ganz unten
