@@ -89,7 +89,7 @@ doch dann winkt sie ab, als hätte sie den Faden verloren.
 
 Um die Schwere zu verscheuchen, balanciere ich ungelenk auf der Couchkante, Arme
 ausgestreckt. „Na, was bin ich?“ Sini grinst. „Ein Storch mit Arthritis?“ „Fast.
-Die Summe aller Momente — die Nullnummer, Baby.“ Sie prustet. „Ich hab’s
+Ich bin - 'Wenn die Summe aller Momente null ist', Baby.“ Sie prustet. „Ich hab’s
 kapiert: sehr stabil. Jetzt setz dich, Momentchen, bevor die Couch knickt.“
 
 Ich grinse. Sini lacht auf, schüttelt den Kopf. „Du und deine Physik. Irgendwann

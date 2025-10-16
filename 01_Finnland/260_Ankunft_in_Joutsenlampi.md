@@ -42,7 +42,6 @@ proofreading:
     Schwaechen: 'Essayistische Passagen; Nebenfiguren blass.'
     Fix: 'Leicht straffen, 2–3 Jugend‑Asides, 1–2 Mikrodetails (Nebenfigur), 1 Körpermarker.'
     Note: 2
-Todo: 'Zu viele Dopplung: Fenster, Sportstätten etc.'
 ---
 
 # Ankunft in Joutsenlampi
