@@ -79,8 +79,8 @@ mir. „Und wer bist du? Wieder eine von Sinis Rumtreiberinnen, die sie aufliest
 wie Straßenhunde?“ Seine Zuneigung zu Sini ist klar, aber für mich bleibt nur
 dieser kalte Blick. Rumtreiberin. Tja, stimmt ja irgendwie.
 
-„Eddie…“, flüstert Sini zu mir und faltet flehend die Hände. „Isä, lopeta!“ –
-„…hör auf!“ Sini klingt verzweifelt.
+„Eddie…“, flüstert Sini zu mir gewandt und faltet flehend die Hände. „Isä,
+lopeta!“ – „…hör auf!“ Sini klingt verzweifelt.
 
 Mein Magen dreht sich. Ich wusste nicht, dass ihr Vater die Wohnung bezahlt.
 Kein Wunder, dass Sini mir das verschwiegen hat. Und jetzt sehe ich: in den
@@ -146,7 +146,7 @@ aufgeben wollen.
 
 Sini wischt sich über die Augen, setzt sich auf und schnaubt trotzig. „Weißt du
 was, wir vergessen das mit den Busfahrern. Ich kauf dir einfach so ein blödes
-Ticket. Es ist nicht viel Geld für mich – höchstens zwei Pizzas.“
+Ticket. Es ist nicht viel Geld für mich – höchstens zwei Pizzen.“
 
 Ich packe sofort ihre Hand. „Nein, Sini. Wir bleiben deinem Plan treu. Wir haben
 noch zwei Wochen. Ich muss mich nur mehr anstrengen, das ist alles.“ Ich zwinge

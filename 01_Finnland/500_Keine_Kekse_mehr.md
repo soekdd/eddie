@@ -132,5 +132,4 @@ mich.“
 Eine Pause. Ihre Hand zittert, als sie mir eine Tasse reicht. „Nie wieder
 Kekse“, sagt sie. Ich atme aus. „Nie wieder DDR.“
 
-Wir lachen. Ganz kurz. Ganz brüchig. Dann sitzen wir nur da, und die Sonne
-brennt das Dunkle aus der Nacht.
+Dann sitzen wir nur da, und die Sonne brennt das Dunkle aus der Nacht.

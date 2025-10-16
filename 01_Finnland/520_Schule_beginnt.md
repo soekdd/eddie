@@ -76,19 +76,21 @@ Als wir das Geschirr abspülen, sage ich beiläufig, dass ich sie heute nicht bi
 zum Terminal begleite. Sie mustert mich, dann nickt sie nur und erklärt mir, wie
 ich zur Uni-Bibliothek finde.
 
-Am Nachmittag sitze ich dort zwischen hohen Regalen. Die meisten Bücher sind auf
-Finnisch oder Englisch. Ich greife nach einem schweren Band – „Technical
-Mechanics“ – und stürze mich hinein, als müsste ich es mir selbst beweisen.
-Seite um Seite, Formeln, Zeichnungen. Mein Kopf hämmert, aber ich höre nicht
-auf. Es ist fast wie ein Rausch, endlich wieder in Arbeit zu versinken.
+Am Nachmittag sitze ich dort zwischen hohen Regalen. Die Bücher sind auf
+Finnisch, Schwedisch oder Englisch. Ich greife nach einem schweren Band –
+„Technical Mechanics“ – und stürze mich hinein, als müsste ich es mir selbst
+beweisen. Seite um Seite, Formeln, Zeichnungen. Mein Kopf hämmert, aber ich höre
+nicht auf. Es ist fast wie ein Rausch, endlich wieder in Arbeit zu versinken.
 
 Abends treffe ich Sini wieder. Sie fragt, wie es war, ich erzähle, wie besessen
-ich gelesen habe. Da sagt sie leise: „Du weißt, ich hab auch mal Biologie
-studiert.“ Einen Moment denke ich, sie will mir endlich mehr erzählen, doch dann
-winkt sie ab, als hätte sie den Faden verloren.
+ich gelesen habe. Da sagt sie leise: „Das kenne ich. Du weißt, ich hab auch mal
+Biologie studiert.“ Einen Moment denke ich, sie will mir endlich mehr erzählen,
+doch dann winkt sie ab, als hätte sie den Faden verloren.
 
-Um die Schwere zu verscheuchen, mache ich einen Witz: „Weißt du, was ich heute
-gelernt habe? Wenn eine Kraft in Newton wirkt und niemand da ist, sie zu messen,
-dann hat sie trotzdem Arbeit verrichtet.“ Ich grinse. Sini lacht auf, schüttelt
-den Kopf. „Du und deine Physik. Irgendwann muss man mal ein Wort für Leute wie
-dich erfinden.“
+Um die Schwere zu verscheuchen, balanciere ich ungelenk auf der Couchkante, Arme
+ausgestreckt. „Na, was bin ich?“ Sini grinst. „Ein Storch mit Arthritis?“ „Fast.
+Die Summe aller Momente — die Nullnummer, Baby.“ Sie prustet. „Ich hab’s
+kapiert: sehr stabil. Jetzt setz dich, Momentchen, bevor die Couch knickt.“
+
+Ich grinse. Sini lacht auf, schüttelt den Kopf. „Du und deine Physik. Irgendwann
+muss man mal ein Wort für Leute wie dich erfinden.“

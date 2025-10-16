@@ -51,12 +51,12 @@ nicke, tue cool, und innerlich schreie ich: Oh Gott, auf Englisch! Aber mein
 Englisch reicht inzwischen -- hoffe ich.
 
 Die Kauppapuistikko ist voller Licht. Vor uns das *Adams*, der Eingang direkt
-von der Straße in dieses breite Foyer. Hinter der Glastür schlägt mir ein warmer
-Geruch entgegen: frisches Popcorn, Sirup-Limo, ein bisschen Teppichstaub. Links
-das Kassenfenster mit den kleinen, aufgesteckten Zetteln; rechts die Theke, wo
-Süßzeug in durchsichtigen Schütten liegt. Die Wände wirken neuer als bei uns,
-rote Polster, Messingkanten, hier und da blinkt eine Reklame. Irgendwo führt
-eine Tür zum kleinen Saal; wir gehen in den großen.
+von der Straße in dieses breite Foyer. **Hinter der Glastür schlägt mir ein
+warmer, süßlicher Geruch entgegen: frisches Popcorn, Sirup-Limo, der Geruch des
+Westens**. Links das Kassenfenster mit den kleinen, aufgesteckten Zetteln;
+rechts die Theke, wo Süßzeug in durchsichtigen Schütten liegt. Die Wände wirken
+neuer als bei uns, rote Polster, Messingkanten, hier und da blinkt eine Reklame.
+Irgendwo führt eine Tür zum kleinen Saal; wir gehen in den großen.
 
 Sini legt den Kopf schief. „Iso ämpäri?“ -- ein großer Eimer? Ich lache und
 nicke. Sie bestellt den *größten* Eimer Popcorn, dazu zwei Becher Limo, und noch
@@ -78,7 +78,7 @@ Ich esse. Und esse. Der Eimer schrumpft in rasender Geschwindigkeit, als wäre
 unten ein Loch. Das Popcorn ist warm, jedes Körnchen knackig, die Limo ist zu
 süß, aber ich trinke weiter, weil die Bläschen meine Zunge kitzeln. Sini greift
 mit den langen Fingern immer wieder rein, „tack“, sagt sie im Scherz, und ich
-antworte „please“, als wären wir im englischen Unterricht. Nach vielleicht fünf
+antworte „please“, als wären wir im Englischunterricht. Nach vielleicht fünf
 Minuten starre ich auf den *leeren* Eimer. Mein Bauch gluckert. Mein Kopf wird
 leicht.
 
@@ -130,21 +130,21 @@ schreit „This is an oldie…“, und ich denke: Wenn Freiheit ein Geräusch ha
 klingt sie genau so.
 
 Als wir später aus dem Adams treten, sitzt der Popcornberg noch schwer in mir,
-aber die Luft draußen ist kühl und salzig, und die Stadt blinkt. Sini hakt sich
-bei mir ein. „Also, Englisch bestanden?“ -- „Mit Auszeichnung“, behaupte ich,
-und sie lacht.
+aber die Luft draußen ist kühl und salzig, und die Stadt leuchtet einladend.
+Sini hakt sich bei mir ein. „Also, Englisch bestanden?“ -- „Mit Auszeichnung“,
+behaupte ich, und sie lacht.
 
-Wir stolpern aus dem Adams in die Augustluft, die Kauppi blinkt wie ein
-Laufsteg. Sini stellt sich breitbeinig hin, reißt die Augen auf und ruft mit
-Doktor-Pathos: „*Great Scott!*“ Ich antworte sofort, tief und dramatisch: „*This
-is heavy.*“ Wir fallen ineinander vor Lachen, zwei Schatten auf dem Pflaster.
+Wir stolpern lachend die Kauppi entlang. Sini stellt sich breitbeinig hin, reißt
+die Augen auf und ruft mit Doktor-Pathos: „*Great Scott!*“ Ich antworte sofort,
+tief und dramatisch: „*This is heavy.*“ Wir fallen ineinander vor Lachen, zwei
+Schatten auf dem Pflaster.
 
 Sini hebt den Finger wie ein verrückter Professor: „*1.21 gigawatts!*“ Ich
-klopfe mir gegen die Stirn: „*Hello? McFly?*“ -- und sie spielt mit, stupst mir
-die Stirn zurück. Dann versuche ich feierlich Martys Tonfall: „*Roads? Where
-we're going, we don't need roads.*“ Ich versemmle die Betonung, wir prusten, und
-Sini legt noch einen drauf: „Und jetzt richtig: *Make like a tree and leave.*“
-Wir quietschen vor Kichern, als hätten wir den Witz gerade neu erfunden.
+klopfe Sini gegen die Stirn: „*Hello? McFly?*“ -- und sie spielt mit, stupst mit
+die Stirn zurück. Dann versuche ich feierlich Docs Tonfall: „*Roads? Where we're
+going, we don't need roads.*“ Ich versemmle die Betonung, wir prusten, und Sini
+legt noch einen drauf: „Und jetzt richtig: *Make like a tree and leave.*“ Wir
+quietschen vor Kichern, als hätten wir den Witz gerade neu erfunden.
 
 Jetzt platzt die Schwärmerei aus mir heraus: „Er ist klein -- und trotzdem
 größer als alle anderen auf der Leinwand“, sage ich. „Wie er läuft! Dieses
@@ -156,7 +156,7 @@ zu wirken.“ „Und seine blauen Augen!“, schwärme ich weiter. „Kannst du 
 an diesen Peter erinnern, von dem ich dir erzählt habe, den aus Deutschland?
 Solche Augen waren das!“
 
-„Ach, nee“, lacht Sini ungläubig und macht weiter: „Dieser Blick! Dieses ‚Ich
+„Ach ja“, lacht Sini bestätigend und macht weiter: „Dieser Blick! Dieses ‚Ich
 pack das schon'-Leuchten. Ich schwöre, der könnte eine Einkaufsliste vorlesen
 und ich würde weinen und klatschen.“ Ich lache. „Er ist wie… Freiheit in
 Turnschuhen. Wenn er rennt, renne ich mit. Wenn er stolpert, steh' ich wieder

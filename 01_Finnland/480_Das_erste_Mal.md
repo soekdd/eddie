@@ -55,8 +55,7 @@ alles fühlt sich an, als würde die Welt gerade nur aus uns beiden bestehen.
 Plötzlich schaut Sini mich an, ihre Augen glitzern verschwörerisch. „Sag mal,
 Eddie… hast du schon mal mit einem Jungen…?“
 
-Ich nicke, bestimmt, fast trotzig. „Ja.“ Meine Wangen werden heiß; ich lache an
-der falschen Stelle und beiße mir auf die Lippe.
+Ich nicke, bestimmt, fast trotzig. „Ja.“ Meine Wangen werden heiß.
 
 Sie verschluckt sich fast. „Ja?! Und du willst mir jetzt nicht einfach nur ja
 hinwerfen. Ich will Details, Mädchen!“
@@ -100,18 +99,16 @@ kurz. „…haben wir uns nicht mehr getroffen.“
 Sini kneift die Augen zusammen. „Und wie war er so?“
 
 Also erzähle ich. Von seinem schelmischen Lächeln, seiner Ruhe, seiner Geduld.
-Wie er sich ständig die Haare aus der Stirn strich, wenn er nervös war. Von dem
-Gefühl, dass er mir Raum ließ, obwohl ich nervös war. Und doch, wenn ich heute
-daran denke, wundere ich mich: Er war neun Jahre älter als ich. Aber nie hatte
-ich das Gefühl, er hätte mehr Macht. Im Gegenteil – ich hatte entschieden, ich
-hatte gefragt, ich hatte ihn ausgewählt. Es war mein Plan, nicht seiner.
+Von dem Gefühl, dass er mir Raum ließ, obwohl ich nervös war. Und doch, wenn ich
+heute daran denke, wundere ich mich: Er war neun Jahre älter als ich. Aber nie
+hatte ich das Gefühl, er hätte mehr Macht. Im Gegenteil – ich hatte entschieden,
+ich hatte gefragt, ich hatte ihn ausgewählt. Es war mein Plan, nicht seiner.
 Ambivalent blieb nur eins: Er bat mich danach, dass es „unter uns“ bleibt –
-nicht aus Scham um mich, sagte er, sondern „wegen der anderen“. Ich weiß bis
-heute nicht, ob ich ihm das glaube.
+nicht nur um mich zu schützen, sagte er, sondern „wegen der anderen“. Ich weiß
+bis heute nicht, ob ich ihm das glaube.
 
-Sini hängt an meinen Lippen, ihre Augen funkeln. Immer wieder bricht sie in
-Gelächter aus, springt hoch, wirft sich wieder hin. Und ich lache mit, bis uns
-der Bauch wehtut.
+Sini hängt an meinen Lippen. Immer wieder bricht sie in Gelächter aus, springt
+hoch, wirft sich wieder hin. Und ich lache mit, bis uns der Bauch wehtut.
 
 Doch sie hat längst nicht genug. „Eddie… wie war er untenrum?“
 
@@ -119,8 +116,8 @@ Ich verschlucke mich am Tee. „Sini! Du bist unmöglich!“
 
 „Los, sag’s!“
 
-Ich werde rot, halte mir die Hände vors Gesicht. „Keine Ahnung Sisi, mir fehlt
-der Vergleich. Ich hab nichts vermisst.“
+Ich werde rot, halte mir die Hände vors Gesicht. „Keine Ahnung Sini, mir fehlt
+der Vergleich. Ich hab' nichts vermisst.“
 
 Sie quietscht, schlägt mit den Händen aufs Sofa. „Und? Schnell, langsam,
 romantisch?“
@@ -136,7 +133,7 @@ klingt? Sechzehn… und er fünfundzwanzig. Fast ein Jahrzehnt Unterschied.“
 
 Sini lacht laut. „Ach Eddie! Als ob dir das damals wichtig war!“
 
-„War’s nicht. Ich wollte einfach meine Erfahrung machen. Und ich hab ihn mir
+„War’s nicht. Ich wollte einfach meine Erfahrungen machen. Und ich hab ihn mir
 geschnappt, nicht andersrum.“
 
 Sini stupst mich in die Seite. „Siehst du! Du hast’s clever gemacht. Ich spring
@@ -145,7 +142,7 @@ rum, probier querbeet – und du schnappst dir gleich den Profi.“
 Ich werde rot, kichere. „Du redest, als hätte ich mir ’ne Bedienungsanleitung
 ausgesucht.“
 
-„Besser so als mit irgendeinem Pimpf in der Turnhalle!“
+„Besser so als mit irgendeinem Dödel in der Turnhalle!“
 
 Wir prusten beide los.
 
@@ -159,18 +156,16 @@ Sie grinst schief. „Mehr als du zählen willst.“
 
 Mir bleibt die Luft weg. „Sini!“
 
-Sie lacht, zuckt mit den Schultern. „Ich hab ausprobiert. Viel.“
+Sie lacht, zuckt mit den Schultern. „Ich hab' mich ausprobiert. Viel.“
 
 „Und dein erstes Mal?“, frage ich vorsichtig.
 
 Sie wird ernst, aber lächelt. „Doof. Ich war siebzehn, total verknallt. Dachte,
 er wär die große Liebe. Für ihn war’s wohl nicht so ernst. Tat weh – im Herzen
-mehr als sonst. Danach hab ich beschlossen: Nie wieder so. Ich nehm mir, was ich
-will.“
+mehr als sonst. Danach hab' ich beschlossen: Nie wieder so. Ich nehme mir, was
+ich will.“
 
-Wir bleiben ausgelassen, das Lachen reißt uns wieder mit.
-
-„Na los, deine verrücktesten Geschichten!“ dränge ich.
+„Was hast du dir genommen? Na los, deine verrücktesten Geschichten!“ dränge ich.
 
 Sie lacht. „Festival! Zelt, Regen, Matsch. Musik die ganze Nacht. Unbequem wie
 Sau, aber unvergesslich.“
@@ -209,7 +204,7 @@ Wegwerfbewegung. „Ich hab mir damals nichts vorgeworfen.“
 Ich starre sie an, überrascht von der Selbstverständlichkeit in ihrer Stimme.
 „Du meinst echt, du musst da gar nichts bedenken?“
 
-Sie zuckt die Schultern, völlig gelassen. „Warum sollte ich? Ich hab Bock, er
+Sie zuckt die Schultern, völlig gelassen. „Warum sollte ich? Ich hab' Bock, er
 hat Bock – fertig. Wenn er deswegen Stress daheim kriegt, dann liegt das an ihm.
 Nicht an mir.“
 
@@ -217,30 +212,28 @@ Nicht an mir.“
 bisschen gefährlich.
 
 Sini kneift die Augen zusammen, mustert mich einen Moment – und dann bricht sie
-in Gelächter aus. „Du guckst, als hätte ich dir gerade erzählt, ich esse Kinder
+in Gelächter aus. „Du schaust, als hätte ich dir gerade erzählt, ich esse Kinder
 zum Frühstück.“
 
 „Fast so“, grinse ich, ein bisschen überrumpelt.
 
-„Na gut“, ruft sie, hebt beschwichtigend die Hände. „Themawechsel. Männer können
-ja auch was fürs Lachen tun.“ Sie beugt sich zu mir. „Zum Beispiel ihre
-Gesichter, wenn sie kommen! Comedy pur! Grimassen, verdrehte Augen, als hätten
-sie Zahnschmerzen.“
-
-„Das will ich jetzt nicht im Detail wissen!“ Ich kugle mich vor Lachen und halte
-mir demonstrativ die Ohren zu, bin aber viel zu neugierig, um wirklich
-wegzuhören.
+„Na gut“, sagt sie und hebt beschwichtigend die Hände. „Themawechsel. Männer
+sind Blitz-Verknaller: zwei Blicke, ein halbgarer Witz – und zack, sie nehmen
+schon ein Mixtape für dich auf, planen den Sommerurlaub und denken sich Namen
+für die gemeinsamen Kinder aus. Dabei kennen sie nicht mal deinen Nachnamen.“
+Ich pruste los. „Hart.“ „Realistisch“, kontert sie und zwinkert.
 
 Wir werfen uns Kissen ins Gesicht, lachen Tränen.
 
-Sini wird wieder ernst und stemmt die Hände in die Hüften. „Also, Tipps: Nie was
-machen, nur weil er’s will. Alles muss Spaß machen. Langsam! Männer flippen aus,
-wenn du’s langsam machst – als hätten sie einen Timer im Kopf.“ Sie kichert.
-„Hände – nie vergessen. Und wenn mal was schiefgeht… nicht verkrampfen. Decke
-drüber, durchatmen, lachen. Humor macht alles besser.“
+Sini tupft sich die Augen trocken, setzt gespielt streng ihre Dozentinnenmiene
+auf. „Kurzlehrgang Spaß für dich: Erstens, Sex ist nicht vorbei, wenn er fertig
+ist — das ist höchstens Halbzeit. Zweitens, dein Finale ist Standard, kein
+Bonus. Drittens, Landkarte zeigen: Hand führen und Kommandos geben —
+‘langsamer’, ‘bleib da’, ‘mehr davon’. Er will Deinen Mund? Du willst seinen
+Mund! Viertens, wer bei Ansagen schmollt, fliegt aus dem Team. Fünftens, wenn
+heute nix zündet, kein Drama: andere Taktik, neues Spiel.“
 
-Ich grinse. Sie klingt wie ein unanständiger Mathelehrer. „Du bist echt wie ’ne
-große Schwester, nur unanständiger.“
+Ich grinse. „Du bist echt wie ’ne große Schwester, nur unanständiger.“
 
 „Genauso soll’s sein.“
 
@@ -253,7 +246,7 @@ Ich werde rot. „Zwei auf einmal.“
 
 Sie springt durchs Zimmer. „Zwei! Eddie, du bist schlimmer als ich dachte!“
 
-Ich kreische ins Kissen. „Ich hab nur gesagt, ich stell’s mir vor!“
+Ich kreische ins Kissen. „Ich hab' nur gesagt, ich stell’s mir vor!“
 
 „Du bist kein bisschen braver als ich. Du versteckst es nur besser.“
 
@@ -265,20 +258,12 @@ Show. Haut, Küsse, Hände, die wissen, wohin. Es gibt nichts Intimeres.“
 Ich nicke, ringe innerlich. Klingt schön, aber ich kann’s mir nicht vorstellen.
 „Nee. Ich kann das nicht fühlen. Für mich sind’s Männer.“
 
-Sie zuckt die Schultern. „Umso besser. Mehr Frauen bleiben für mich übrig.“
+Sie zuckt die Schultern. „Umso besser. Bleiben mehr Frauen für mich.“
 
 Wir werfen uns wieder Kissen an den Kopf, lachen bis uns die Luft ausgeht.
 
 Irgendwann sinken wir erschöpft ins Sofa, halb aufeinander. Die Teetassen sind
 kalt, die Wohnung still.
 
-Ich sehe sie an. Ihre blauen Haare, ihre blitzenden Augen. Ich hab ihr Dinge
+Ich sehe sie an. Ihre blauen Haare, ihre blitzenden Augen. Ich habe ihr Dinge
 erzählt, die niemand sonst erfahren hat. Und sie mir genauso.
-
-„Du bist verrückt, Sini“, flüstere ich.
-
-„Und du mutiger, als du glaubst“, sagt sie.
-
-Wir kichern noch einmal, leise, müde. Dann ziehe ich die Decke hoch und denke,
-kurz bevor ich einschlafe: Wenn es jemanden gibt, dem ich meine Geheimnisse
-anvertrauen kann, dann ihr.

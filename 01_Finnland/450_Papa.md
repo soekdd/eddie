@@ -76,9 +76,17 @@ Ich nicke. „Und das Bitterste: Ohne meinen Vater wäre dieser ganze Lehrstuhl
 längst tot. Alle Welt lobt die ‚Arbeiten von Professor Radmer‘. Aber eigentlich
 ist es nur sein Deckmantel.“
 
-Sini lacht trocken, aber nicht böse. „Also dein Vater ist das Herz. Und Radmer
-die Maske.“ Sie schaut mich schief an, als wollte sie prüfen, ob ich es auch so
-empfinde. „Masken sind leichter zu zerreißen als Herzen, weißt du?“
+Sini grinst leise. „Lass Radmer die Medaille hochhalten. Im Institut—Flur, in
+den Laboren, an der Kaffeemaschine — alle wissen, wer das möglich macht.“ Sie
+tippt zweimal auf den Tisch. „Das steht nicht auf dem Papier, aber es spricht
+sich rum. Ist das nicht auch Anerkennung?“
+
+Ich zucke mit den Schultern. „Ein bisschen. Aber heimliches Klatschen hinter der
+Bühne wärmt nur kurz.“
+
+„Mag sein.“ Sie hält meinen Blick. „Doch gute Arbeit hat ein langes Echo. Es
+findet den, der’s verdient. Und irgendwann steht’s nicht nur zwischen den
+Zeilen.“
 
 Ich will noch etwas erwidern, vielleicht einen meiner altklugen Sprüche, aber da
 steht plötzlich der Kellner vor uns. Groß, kantiges Gesicht, die Stirn schon
@@ -89,13 +97,12 @@ ein paar Worte, die eindeutig nach „Feierabend“ klingen.
 Ich kichere, obwohl meine Gedanken noch bei meinem Vater hängen.
 
 Wir ziehen die Jacken an, der Kellner löscht schon die Hälfte der Lichter. Als
-wir auf die Straße treten, umfängt uns die kühle Nachtluft, so klar und still,
-dass die letzten Worte von drinnen noch nachhallen.
+wir auf die Straße treten, umfängt uns die kühle Nachtluft, klar und still. Die
+letzten Worte von drinnen noch nachhallen.
 
 Maske und Herz. Radmer und mein Vater. Und irgendwo dazwischen: ich.
 
-Sini stupst mich an. „Na los, Herzmädchen. Heimweg, bevor er uns noch den Besen
+Sini stupst mich an. „Na los. Heimweg, bevor er uns noch den Besen
 hinterherwirft.“
 
-Ich lache, diesmal frei, und wir gehen nebeneinander in die dunkle Straße
-hinaus.
+Ich lache, diesmal frei, und wir gehen nebeneinander die dunkle Straße entlang.

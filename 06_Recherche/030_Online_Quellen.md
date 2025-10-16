@@ -2,7 +2,11 @@
 
 _Generiert am 2025-10-15 17:37 · Einträge: 13_
 
-Dieses Dossier sammelt Quellen (Bücher, Artikel, Webseiten, Archive, Interviews etc.) in strukturierter Form. Kernfelder: **Titel**, **Autor/Hrsg./Quelle**, **Datum/Jahr**, **Typ/Medium**, **Ort/Verlag**, **Links**, **Kennungen**, **Seiten**, **Tags**, **Bezug/Projekt**, **Priorität**, **Notizen**. Gruppierung nach **Kategorie**.
+Dieses Dossier sammelt Quellen (Bücher, Artikel, Webseiten, Archive, Interviews
+etc.) in strukturierter Form. Kernfelder: **Titel**, **Autor/Hrsg./Quelle**,
+**Datum/Jahr**, **Typ/Medium**, **Ort/Verlag**, **Links**, **Kennungen**,
+**Seiten**, **Tags**, **Bezug/Projekt**, **Priorität**, **Notizen**. Gruppierung
+nach **Kategorie**.
 
 ## Inhaltsverzeichnis
 

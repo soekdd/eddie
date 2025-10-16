@@ -288,5 +288,5 @@ sagt. Draußen klackert schon der Schlüsselbund vom Kellner, die Tische sind
 leer, nur wir sitzen noch da, die letzten Gäste. Ich trinke die kalte Cola in
 einem Zug und atme aus.
 
-„Weißt du was?“, sage ich. „Ich erzähl’ dir auf dem Weg von meinem Vater. Ohne
-ihn wär’ das alles nur ein dummer Traum geblieben.“
+„Weißt du was?“, sage ich. „Ich erzähl’ dir jetzt von meinem Vater. Ohne ihn
+wär’ das alles nur ein dummer Traum geblieben.“

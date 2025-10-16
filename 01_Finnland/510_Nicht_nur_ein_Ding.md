@@ -14,30 +14,31 @@ mode: 'mainline'
 illustrations:
   - 'FIN_Vaasa_Sini_schaemt_sich.png'
 proofreading:
+  Kapitel: '510_Nicht_nur_ein_Ding'
   Ton:
-    Einschaetzung: 'Klarer, jugendlicher Konflikt; „Nein“-Setzung und stille Momente tragen.'
-    Kritik: 'Vereinzelt noch betonte Formulierungen; zwei Sätze könnten leiser enden.'
-    Fix: 'Ein, zwei Enden entdramatisieren (Punkt statt Nachsatz); eine kurze Schweigepause vor der Versöhnung stehen lassen.'
+    Einschaetzung: 'Klar, respektvoll und jugendnah; Grenze/Nein und leise Morgenreparatur tragen, vorsichtige Hoffnung.'
+    Kritik: 'Zwei Stellen wirken erklärend statt zeigend; der Übergang von Wut zu Wärme atmet sehr kurz.'
+    Fix: 'Eine kurze Stille/Handlungspause vor dem Pfannkuchen‑Block; zwei erklärende Sätze in Körpersignale übersetzen (Blick, Abstand, Küchengeräusch).'
     Note: 2
   Logik:
-    Einschaetzung: 'Eskalation plausibel: Kneipe → Heimweg → Grenzverletzung → Nacht → Entschuldigung/Verantwortung.'
-    Kritik: 'Im Kneipenteil fehlen noch kleine Vorzeichen (Blicke/Gläserzahl).'
-    Fix: 'Einen kurzen Marker im Kneipenteil setzen (Blicke/Alkoholpegel); beim Heimweg einen Müdigkeits‑Hinweis belassen.'
+    Einschaetzung: 'Ablauf stimmig: Kneipe → Heimweg → Grenzverletzung → getrennte Nacht → Entschuldigung → Grenzabmachung → Hafen.'
+    Kritik: 'Im Kneipenteil fehlen 1–2 Vorzeichen (Blicke/Alkoholpegel) für die spätere Grenzüberschreitung.'
+    Fix: 'Dezentes Vorzeichen in der Kneipe setzen (Blick/Glas/Taumler); auf dem Heimweg Müdigkeit/Kälte kurz markieren; beim Frühstück Distanzregel einmal benennen.'
     Note: 2
   Charaktere:
-    Einschaetzung: 'Eddie verletzlich und bestimmt; Sini macht Fehler und übernimmt Verantwortung; Dynamik glaubwürdig.'
-    Kritik: 'Eddies Abhängigkeit wird sehr direkt benannt; eine Mini‑Gegenstärke ließe sich markieren.'
-    Fix: 'Eddie einen kleinen Selbstschutzmarker geben (Tür im Blick/Tasche neben sich); Sinis Schuldbekenntnis mit einer Geste unterstreichen (Tasse abstellen, Blick senken).'
+    Einschaetzung: 'Eddie verletzlich und klar in der Abgrenzung; Sini übernimmt Verantwortung ohne Ausflucht – glaubwürdig und reif.'
+    Kritik: 'Eddies Abhängigkeit wird sehr direkt benannt; eine kleine Eigenmächtigkeit als Gegengewicht könnte stärken.'
+    Fix: 'Eddie eine Mini‑Selbstschutzhandlung geben (Stuhl rücken, Tür im Blick, eigene Tasse); Sini eine stille Wiedergutmach‑Geste (Decke hinlegen, bewusst Abstand halten).'
     Note: 2
   Sprache:
-    Einschaetzung: 'Gestrafft, mit natürlichen Stockungen; weniger Pathos, klare Körpermarker.'
-    Kritik: 'Ein, zwei Bilder/Adjektive können weiter reduziert werden.'
-    Fix: 'Metaphern sparsam halten; 1–2 Adjektive streichen; kurze Sätze beibehalten.'
+    Einschaetzung: 'Präsens, klare Dialoge, gute Körpermarker; ruhiger, jugendnaher Duktus.'
+    Kritik: 'Vereinzelt Dopplungen und üppige Bilder/Adjektive.'
+    Fix: '1–2 Dopplungen streichen; je Abschnitt einen Langsatz teilen; Metaphern sparsam dosieren, besonders im Morgenblock.'
     Note: 2
   Fazit:
-    Staerken: 'Klare Grenze („Nein“), Verantwortung am Morgen, dichte Nähe/Distanz, glaubwürdiger Reparaturbeginn.'
-    Schwaechen: 'Kneipen‑Vorzeichen knapp, zwei Stellen noch leicht betont.'
-    Fix: 'Kneipen‑Marker ergänzen, Enden entdramatisieren, Metaphern weiter dosieren.'
+    Staerken: 'Konsent und Verantwortung, starke Grenzszene, glaubwürdige Reparatur, warme Hafenauflösung.'
+    Schwaechen: 'Kneipen‑Vorzeichen knapp; minimale Erklärstellen; kurze Atemstrecke vor Versöhnung.'
+    Fix: 'Vorzeichen in der Kneipe ergänzen; kurze Stille vor der Versöhnung; Dopplungen/Adjektive straffen.'
     Note: 2
 ---
 
@@ -170,11 +171,10 @@ Meine Augen brennen vom fehlenden Schlaf. Ich stehe auf, barfuß, und schleiche
 in die Küche. Der Boden ist eiskalt, die Luft trocken. Ich mache Tee, setze mich
 an den Tisch und starre ins Leere.
 
-Die Küche riecht nach kaltem Kaffee und einem Hauch von Zigarettenrauch vom
-Vorabend. Die Morgensonne fällt schräg durch die Gardine, zieht ein Muster aus
-hellen Vierecken auf den abgewetzten Holztisch. Ich sitze schon eine Weile hier,
-die Hände um meine Tasse gelegt, in der der Tee längst kalt geworden ist. Die
-Stille liegt schwer in der Wohnung.
+Die Morgensonne fällt schräg durch die Gardine, zieht ein Muster aus hellen
+Vierecken auf den abgewetzten Holztisch. Ich sitze schon eine Weile hier, die
+Hände um meine Tasse gelegt, in der der Tee längst kalt geworden ist. Die Stille
+liegt schwer in der Wohnung.
 
 Die Tür geht auf. Sini steht da, in einem zerknitterten T-Shirt und einer
 Trainingshose, barfuß. Ihre blauen Haare sind ein einziges Chaos. Sie blinzelt
@@ -183,17 +183,17 @@ Stimme ist rau, vorsichtig.
 
 Ich sehe nicht hoch. „Morgen.“
 
-Sie geht zum Wasserhahn, lässt es laufen, trinkt direkt aus einem Glas. Das
-Geräusch des Schluckens und das Klirren des Glases auf der Spüle hallen viel zu
-laut. Wir sagen erst nichts. Dann atmet sie hörbar aus. „Wegen gestern Abend…“
+Sie geht zum Wasserhahn, lässt es laufen, trinkt direkt aus dem Strahl. Das
+Geräusch des Schluckens und das Plätschern in der Spüle hallen viel zu laut. Wir
+sagen erst nichts. Dann atmet sie hörbar aus. „Wegen gestern Abend…“
 
-Ich lege die Tasse ab, meine Finger sind kalt. „Wegen gestern Abend…“ äffe ich
+Ich stelle die Tasse ab, meine Finger sind kalt. „Wegen gestern Abend…“ äffe ich
 sie wütend nach. Meine Stimme zittert, aber nicht vor Angst. Eher vor Wut und
 dieser Hilflosigkeit, die sich wie ein Knoten in mir festgesetzt hat.
 
 Sie setzt sich mir gegenüber, stützt die Ellenbogen auf den Tisch, den Kopf in
 den Händen. „Ich weiß. Ich war betrunken. Das ist keine Entschuldigung, aber…
-ich habe mich wie eine Idiotin benommen. Ich habe dich—“ Sie bricht ab,
+ich habe mich wie eine Idiotin benommen. Ich habe dich — “ Sie bricht ab,
 schluckt. „Ich habe dein Nein überfahren. Und ich habe dich wie… wie ein Ding
 behandelt. Das war falsch. Es tut mir leid.“
 
@@ -229,217 +229,53 @@ bin, heißt das nicht, dass ich dir gehöre.“
 
 Ich halte ihren Blick, nicke langsam. „Gut. Dann lass uns das so festhalten.“
 
-Sie lehnt sich zurück, reibt sich die Stirn. „Meinst du, wir brauchen dafür
-einen Vertrag? So mit Siegel und Zeugen?“
+„Dann lass uns das so festhalten.“
 
-„Und wer soll das bezeugen?“ frage ich trocken. „Die Birke vorm Fenster?“
+Wir grinsen schief und schlagen kurz ein. Die Luft wird leichter. Sini stellt
+die Pfanne auf, der Teig zischt. „Frieden?“, fragt sie leise. „Frieden. Und
+Pfannkuchen.“ Ich nehme ihr das Mehl aus der Hand. Wir arbeiten nebeneinander,
+ohne uns zu streifen, wie auf markierten Bahnen.
 
-Sini zuckt mit den Schultern. „Die ist sehr vertrauenswürdig. Hat gestern Abend
-nichts gesagt.“
+Als der erste Pfannkuchen landet, sage ich: „Bevor wir essen, noch eins.“ Die
+Worte sind schwer, aber ich bringe sie raus. „In der DDR ist Vertrauen kein
+Luxus. Es ist gefährlich. Ich hab gelernt, immer etwas von mir wegzuschließen.
+Sogar vor Freunden. Gestern hat’s mich erwischt, weil du für mich genau die
+Person warst, bei der ich nichts verstecken wollte.“
 
-Ich muss lachen, obwohl ich es nicht will. Das Geräusch kommt erst zögerlich,
-dann wärmer.
+Sini legt den Pfannenwender ab. „Ich hab’s kapiert. Ich hab dich verletzt. Es
+tut mir leid, Eddie.“ „Ich glaube dir. Und ich nehme deine Entschuldigung an.“
+Meine Stimme hält. „Ich brauche Zeit. Und klare Grenzen. Nicht zur Strafe—so
+funktioniert mein Kopf. Mädchen aus der DDR… wir zählen Risse im Vertrauen wie
+andere Sommersprossen.“
 
-„Na gut“, sage ich. „Vertrag mit der Birke. Aber nur, wenn du sie nicht auch
-begrapschst, wenn du betrunken bist.“
-
-„Abgemacht.“ Sie grinst schief, aber es ist ein vorsichtiges Grinsen, das fragt,
-ob es wieder okay ist, zu lächeln.
-
-Ich atme aus. Die Schwere zwischen uns ist nicht weg, aber sie ist leichter
-geworden, wie Nebel, den die Sonne langsam weggeschoben hat.
-
-„Also…“, meint sie nach einer kurzen Pause, „Frühstück? Ich könnte Rührei
-machen. Oder Toast. Oder… ich versuche Pfannkuchen, wenn du bereit bist, das
-Risiko einzugehen.“
-
-„Pfannkuchen.“ Ich lehne mich zurück. „Aber nur, wenn du mir vorher versprichst,
-dass sie nicht als Waffe eingesetzt werden.“
-
-…
-
-Die Pfanne knackt leise, als das Fett heiß wird. Sini steht am Herd, den
-Kochlöffel in der Hand, eine Schürze mit verblassten Erdbeeren umgebunden. Ich
-sitze am Küchentisch und beobachte sie, wie sie konzentriert den Teig rührt, als
-hätte sie gerade eine wissenschaftliche Mission.
-
-„Du guckst, als würdest du erwarten, dass das Ding explodiert“, sagt sie über
-die Schulter.
-
-„Ich guck, weil ich sehen will, wie du scheiterst.“
-
-„Optimistisch wie immer“, murmelt sie und gießt den ersten Schwung Teig in die
-Pfanne. Es riecht sofort nach warmem Ei und Butter.
-
-Nach zwei Minuten versucht sie, den Pfannkuchen zu wenden – und verfehlt die
-perfekte Flugbahn knapp. Das Ding landet halb auf dem Rand, halb wieder in der
-Pfanne.
-
-„Siehst du?“ Ich lehne mich zurück, verschränke die Arme. „Waffe Nummer eins.
-Wenn du das Teil jetzt wirfst, kannst du mich bewusstlos machen.“
-
-Sini lacht, zum ersten Mal seit gestern Abend unbeschwert. „Dann nehme ich
-lieber den Nächsten. Der hier wird als Beweismittel gebraucht.“
-
-Der zweite Versuch klappt besser. Sie legt den Pfannkuchen auf einen Teller,
-schiebt ihn zu mir. „Testesserin?“
-
-Ich steche ein Stück ab, kaue, tue so, als müsste ich lange überlegen. „Hm.
-Nicht giftig. Aber noch steigerungsfähig.“
-
-„Frech.“ Sie schiebt mir ein Glas Preiselbeermarmelade hin. „Hier. Süß macht
-alles besser.“
-
-Wir essen schweigend, aber es ist ein anderes Schweigen als heute Morgen –
-leichter, voller kleiner Pausen, die nicht drücken. Sini beobachtet mich nicht,
-sie drängt sich nicht auf. Sie lässt mich einfach essen.
-
-Als ich den Teller leer habe, sagt sie: „Siehst du, ich kann auch etwas machen,
-das man freiwillig runterschluckt.“
-
-Ich rolle mit den Augen, aber mein Lächeln verrät mich. „Okay, Vertrag mit der
-Birke gilt. Und du darfst Pfannkuchen machen, solange du nicht versuchst, mich
-danach zu hypnotisieren.“
-
+Sie nickt ernst. „Dann zähle ich mit. Und ich helfe, dass diese Risse heilen. So
+lange, bis es wieder hält.“ Ich muss lachen, obwohl mir fast die Tränen kommen.
 „Deal.“
 
-Draußen ist es Mittag geworden, drinnen riecht es nach Butter und Preiselbeeren.
-Und zum ersten Mal seit gestern fühlt es sich an, als könnte der Tag doch noch
-gut werden.
+Wir frühstücken in Ruhe. Butter, Preiselbeeren, viel Tee. Das Schweigen fühlt
+sich warm an. Später ziehen wir Jacken an und gehen zum Hafen. Sini hält bewusst
+Abstand—nicht zu nah, nicht zu weit. Der Wind riecht nach Salz und Diesel, Möwen
+kreischen, Licht flirrt auf dem Wasser.
 
-„Magst du raus?“ fragt sie schließlich. „Ein bisschen frische Luft? Wir könnten
-zum Hafen runtergehen… die Boote gucken.“
+Auf der Bank schenkt sie mir aus der Thermoskanne ein. „Nur Kaffee. Du gießt
+selbst ein.“ „Sehr großzügig“, murmele ich, und merke, wie mein Brustkorb
+aufmacht, Millimeter für Millimeter.
 
-Ich nicke zögerlich. „Ja. Aber nur, wenn du diesmal nicht versuchst, mich zu
-betüddeln wie eine kleine Schwester.“
+„Eddie“, sagt sie nach einer Weile, ohne mich anzusehen, „ich weiß, dass ich mir
+dein Vertrauen verdienen muss. Ich bleibe dran. Und wenn ich wieder Mist baue,
+sagst du’s sofort.“ „Mach ich“, sage ich. „Versprochen.“ Ein kleines Wort, das
+etwas aufknackt.
 
-Sie lächelt schief. „Abgemacht.“
+Auf dem Rückweg: „Später Pfannkuchen Runde zwei?“ „Ja. Und diesmal wendest du
+sie nicht wie Wurfgeschosse.“ „Abgemacht.“ Ihr Grinsen ist zaghaft und echt.
 
-Wir ziehen uns Jacken über – meine rote, abgewetzte, sie ihre graue mit
-abgeriebenen Ellenbogen – und treten hinaus in die klare Luft. Der September ist
-kühl, der Wind vom Meer trägt den Geruch von Salz und Diesel herüber. Die
-Straßen sind still, nur irgendwo weiter weg höre ich ein Mofa knattern.
+Zu Hause zündet sie zwei Kerzen an, stellt mir wortlos eine Decke hin. Kein
+Getue, keine Berührungen. Nur Raum. Und Wärme. Ich atme langsam aus; die
+Traurigkeit ist noch da, hat aber ihre Schwere verloren.
 
-Sini hält den Abstand beim Gehen, nicht zu nah, nicht zu weit. Ich merke, dass
-sie darauf achtet, nicht ungewollt meinen Arm zu streifen. Wir gehen
-nebeneinander, aber jeder mit seinem eigenen Raum.
+„Danke, Sini“, sage ich — mehr als nur für Tee und Pfannkuchen. „Gern“, sagt
+sie. „Wir kriegen das hin.“
 
-„Da drüben“, sagt sie und deutet auf ein kleines, verbeultes Fischerboot, das
-gerade von einem älteren Mann aus dem Hafenbecken gezogen wird. „Sieht aus, als
-hätte es schon hundert Winter überlebt.“
-
-Ich lache leise. „So wie meine Jacke.“
-
-„Nur deine Jacke ist schöner“, sagt sie und lässt es dabei. Keine Anspielung,
-kein Blick, der zu lange dauert – einfach nur ein Satz.
-
-Am Ende des Stegs setzen wir wieder auf die alte Holzbank. Die Wellen klatschen
-leise dagegen, Möwen kreischen irgendwo über uns. Sini reicht mir eine
-Thermoskanne, die sie im Rucksack mitgebracht hat. „Nur Kaffee. Du darfst ihn
-selbst einschenken.“
-
-Ich nehme den Deckelbecher, gieße mir ein, während der warme Dampf mir ins
-Gesicht steigt. Es ist so ein banaler Moment, aber genau das macht ihn wertvoll:
-keine Spannung, kein unausgesprochenes Drängen, nur zwei Frauen, die
-nebeneinander sitzen und aufs Wasser schauen.
-
-„Danke, Sini“, sage ich nach einer Weile. Nicht nur für den Kaffee.
-
-Sie nickt, ohne mich anzusehen. „Ich will, dass du dich sicher fühlst. Immer.“
-
-Wir sitzen noch lange dort, und der Wind spielt mit meinen Haaren. Zum ersten
-Mal seit gestern Nacht fühlt sich mein Atem wieder leicht an.
-
-Am Nachmittag sitzen wir wieder bei Sini in der Küche. Der Himmel draußen ist
-grau geworden, und der Wind hat aufgefrischt, drückt die Zweige der Birken gegen
-die Fensterscheiben. Ich sitze am Tisch, Sini hat mir eine Schüssel mit
-Haferflocken und frischen Beeren hingestellt.
-
-„Die Brombeeren sind aus dem Garten von meiner Chefin“, sagt sie beiläufig. „Die
-hat sie mir vorgestern geschenkt, voll lieb von ihr.“
-
-Ich stoße den Löffel in den Brei, ohne zu essen. „Sini… kann ich dir was
-erzählen? Aber versprich mir, dass du nicht gleich Mitleid hast.“
-
-Sie zieht die Augenbrauen zusammen, nickt langsam. „Versprochen.“
-
-Ich atme tief ein. „In der DDR ist Vertrauen… keine Option. Zumindest nicht für
-Leute wie mich.“
-
-„Leute wie dich?“
-
-„Die nicht spuren. Die zu viele Fragen stellen.“ Ich halte kurz inne, der Geruch
-von Kaffee und Beeren mischt sich mit diesem Knoten im Bauch. „Ich hab gelernt,
-immer einen Teil von mir zu verstecken. Sogar vor Freunden. Weil du nie weißt,
-ob sie's weitertragen. Ob sie's jemandem sagen, der's gegen dich verwendet.“
-
-Sini lehnt sich zurück, sagt nichts, und ich bin dankbar dafür.
-
-„In der Schule war's genauso“, fahre ich fort. „Ich war gut in Mathe, hab oft
-die Jungs überholt. Aber das hat mich nicht beliebt gemacht. Lehrer haben mir
-gesagt, ich soll mich nicht so hervortun. Bei meinen Großeltern hieß es, Mädchen
-sollen still und bescheiden sein. Das ist so tief drin… dass ich manchmal nicht
-mal mir selbst traue.“
-
-Ich merke, dass meine Stimme brüchig wird. „Deshalb war gestern Nacht… so
-schlimm. Nicht nur wegen dessen, was passiert ist. Sondern weil ich dich zu den
-wenigen gezählt hab, bei denen ich nicht aufpassen muss.“
-
-Sini legt die Hände auf den Tisch, verschränkt die Finger, als müsste sie
-verhindern, mich zu berühren. „Und genau das will ich sein. Die, bei der du
-nicht aufpassen musst.“
-
-Ich nicke, starre auf die Beeren in meiner Schüssel. „Aber du musst wissen: Wenn
-das Vertrauen einmal reißt… in meinem Kopf dauert's ewig, bis es wieder hält. In
-der DDR… wenn du's verlierst, bist du erledigt.“
-
-Sie atmet tief aus. „Dann lass mich dir beweisen, dass es hält. Egal wie lange
-es dauert.“
-
-Draußen rauscht der Wind, und ein einzelnes Blatt klebt an der Scheibe, als
-wollte es zuhören. Ich nehme einen Löffel von den Himbeeren, und ihr süßer,
-saurer Geschmack vermischt sich mit einem winzigen, vorsichtigen Gefühl von
-Hoffnung.
-
-Sini dreht das Radio an. Eine finnische Sängerin singt langsam und rau, die
-Melodie schwappt wie leises Wasser durch den Raum. Sini stellt zwei Kerzen auf
-den Tisch, zündet sie an, ohne ein Wort zu sagen. Das Licht flackert und lässt
-die Tapete wie in Bewegung wirken.
-
-„Ich gehe kurz duschen“, sagt sie, nimmt ihr Handtuch und verschwindet ins Bad.
-Keine Andeutung, kein Blick, der zu lange dauert. Einfach nur Alltag.
-
-Als sie zurückkommt, trägt sie einen dicken Pullover und eine Jogginghose, die
-an den Knien leicht ausgeleiert ist. Sie setzt sich in den Sessel gegenüber,
-nicht auf das Sofa neben mir. Zwischen uns der kleine Holztisch, auf dem zwei
-Tassen dampfen.
-
-„Ich hab dir Kamillentee gemacht“, sagt sie. „Ich weiß, du magst den lieber als
-Schwarztee.“
-
-Wir trinken schweigend. Die Kerzen knistern leise, irgendwo draußen rauscht ein
-Auto vorbei. Ich merke, wie mein Körper sich langsam entspannt, ohne dass ich es
-bewusst will.
-
-Nach einer Weile steht sie auf, holt eine Decke aus dem Schlafzimmer und legt
-sie mir in den Schoß. „Falls dir kalt wird.“ Sie bleibt nicht stehen, wartet
-nicht auf ein Danke. Geht einfach zurück zu ihrem Sessel, zieht ihre eigenen
-Beine unter die Decke, die dort liegt.
-
-Es ist so banal, so unspektakulär – und genau das macht es ungewohnt. Keine
-Annäherung, kein Druck. Nur Raum. Und Wärme.
-
-„Sini?“
-
-„Hm?“ Sie schaut auf.
-
-„Das… was du gerade machst… so normal sein… das ist mehr wert, als du glaubst.“
-
-Sie lächelt schwach. „Normal sein kann ich ziemlich gut, wenn ich will.“
-
-Wir bleiben sitzen, bis die Kerzen fast heruntergebrannt sind. „Heute nimmst du
-wieder das Bett“, sage ich. Ein fragender, dankbarer Blick von Sini. „Danke,
-Eddie.“
-
-Als Sini in ihr Schlafzimmer geht, ist der Knoten in meinem Bauch kleiner. Und
-zum ersten Mal denke ich: Vielleicht kann Vertrauen auch leise zurückkommen.
+Draußen hellt der Himmel auf. Die Abmachung steht, mein Nein steht, und ihr Ja
+zu meinen Grenzen auch. Zum ersten Mal seit gestern denke ich: Heute kann gut
+werden.

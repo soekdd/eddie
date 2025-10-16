@@ -102,9 +102,9 @@ anfeuert, die laut schreit und Fäuste in die Luft wirft. Doch heute wirkt ihr
 Jubel gedämpft, fast aufgesetzt. Ihr Lächeln ist da, aber nicht bis in die
 Augen.
 
-Dann steht sie plötzlich neben mir, drückt mir den Schlüssel in die Hand. „Wenn
-du willst … geh schon“, ruft sie, die Musik verschluckt fast ihre Worte. „Er ist
-in Ordnung.“
+Dann steht sie plötzlich neben mir, drückt mir ihren Wohnungsschlüssel in die
+Hand. „Wenn du willst … geh schon“, ruft sie, die Musik verschluckt fast ihre
+Worte. „Er ist in Ordnung.“
 
 Der Typ legt mir prompt den Arm um die Schultern. Ich spüre sein Gewicht, sein
 Drängen – und gleichzeitig dieses Ziehen in mir, weil ich Sini ansehe. Wie sie

@@ -2,7 +2,9 @@
 
 _Generiert am 2025-10-15 17:33 · Einträge: 35_
 
-Dieses Dossier wurde aus einer frei strukturierten CSV konsolidiert. Felder: **Name**, **Rolle/Bezug**, **Ort**, **Alter**, **Geburtsdatum**, **Notizen**. Gruppierung nach **Gruppe** (falls vorhanden).
+Dieses Dossier wurde aus einer frei strukturierten CSV konsolidiert. Felder:
+**Name**, **Rolle/Bezug**, **Ort**, **Alter**, **Geburtsdatum**, **Notizen**.
+Gruppierung nach **Gruppe** (falls vorhanden).
 
 ## Inhaltsverzeichnis
 
@@ -110,8 +112,7 @@ Dieses Dossier wurde aus einer frei strukturierten CSV konsolidiert. Felder: **N
 | Angelika Drauschke | DDR | Goldberger Str. 92
 18273 Güstrow
 
-Telefon
-Tel: 03843 / 334 035 | Angelika Rosenow |  |
+Telefon Tel: 03843 / 334 035 | Angelika Rosenow | |
 | Catherine Playoust | Australien | <https://staff.divinity.edu.au/staff/catherine-playoust/> |  |  |
 | Colin Stahlke | 2 | 7 | 2 | 4 |
 | Delegationsleiter: Horst Sewerin |  |  |  |  |
@@ -121,9 +122,7 @@ Tel: 03843 / 334 035 | Angelika Rosenow |  |
 | Georg Hein | Teilnehmer IMO'85 | Duisburg | Prof. Math. |  |
 | Gustav Burosch | Delegationsleiter DDR |  |  | <https://cpr.uni-rostock.de/resolve/id/cpr_person_00002309> |
 | Hagen von Eitzen | bester Vertreter der BRD Delegation | von Eitzen, Hagen
-Tel.: (0228) 210902
-Siegweg 18
-53129 Bonn |  | <http://www.von-eitzen.de/> |
+Tel.: (0228) 210902 Siegweg 18 53129 Bonn | | <http://www.von-eitzen.de/> |
 | Hagen von Eitzen | 3 | 7 | 7 | 7 |
 | Hasna Riahi | Tunesien | <https://www.researchgate.net/profile/Hasna-Riahi> |  |  |
 | Jarmila Ranošová | Tschechien | <https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cz.linkedin.com/in/jarmila-rano%25C5%25A1ov%25C3%25A1-92a290aa&ved=2ahUKEwjai_-7h5uPAxVxhf0HHZc8H0oQFnoECEQQAQ&usg=AOvVaw2Gnb5AwKbE8vYnMYZR52xL> |  |  |
@@ -156,8 +155,7 @@ Siegweg 18
 - **Ort:** Goldberger Str. 92
 18273 Güstrow
 
-Telefon
-Tel: 03843 / 334 035
+Telefon Tel: 03843 / 334 035
 
 - **Alter (Stand Storyzeit):** Angelika Rosenow
 
@@ -213,9 +211,7 @@ Tel: 03843 / 334 035
 
 - **Rolle/Bezug:** bester Vertreter der BRD Delegation
 - **Ort:** von Eitzen, Hagen
-Tel.: (0228) 210902
-Siegweg 18
-53129 Bonn
+Tel.: (0228) 210902 Siegweg 18 53129 Bonn
 - **Geburtsdatum:** <http://www.von-eitzen.de/>
 - **Notizen:** auf linkedIn kontaktiert | Sehr geehrter Herr v. Eitzen, ich bin für ein Buchprojekt auf der Suche nach Hagen von Eitzen, dem besten dt. Teilnehmer der Internationalen Mathematikolympiade 1985 in Joutsa. Ob der Einzigartigkeit Ihres Namen bin ich zuversichtlich, richtig zu liegen. Der Jugendroman den ich zusammen mit meiner Frau und unserer Tochter schreiben möchte, dreht sich um das genannte Ereignis. Könnten Sie in den nächsten Wochen bitte eine Stunde Zeit aufbringen und mir von dem Wettkampf berichten? Ich möchte die Stimmung und Umstände damals es so realistisch wie möglich schildern. Viele liebe Grüße
 
