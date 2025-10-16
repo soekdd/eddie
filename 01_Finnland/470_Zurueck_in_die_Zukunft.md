@@ -51,12 +51,13 @@ nicke, tue cool, und innerlich schreie ich: Oh Gott, auf Englisch! Aber mein
 Englisch reicht inzwischen -- hoffe ich.
 
 Die Kauppapuistikko ist voller Licht. Vor uns das *Adams*, der Eingang direkt
-von der Straße in dieses breite Foyer. **Hinter der Glastür schlägt mir ein
-warmer, süßlicher Geruch entgegen: frisches Popcorn, Sirup-Limo, der Geruch des
-Westens**. Links das Kassenfenster mit den kleinen, aufgesteckten Zetteln;
-rechts die Theke, wo Süßzeug in durchsichtigen Schütten liegt. Die Wände wirken
-neuer als bei uns, rote Polster, Messingkanten, hier und da blinkt eine Reklame.
-Irgendwo führt eine Tür zum kleinen Saal; wir gehen in den großen.
+von der Straße in dieses breite Foyer. Hinter der Glastür schlägt mir ein
+warmer, süßlicher Geruch entgegen: frisches Popcorn, Sirup-Limo, der
+konzentrierte Geruch des Westens. Links das Kassenfenster mit den kleinen,
+aufgesteckten Zetteln; rechts die Theke, wo Süßzeug in durchsichtigen Schütten
+liegt. Die Wände wirken neuer als bei uns, rote Polster, Messingkanten, hier und
+da blinkt eine Reklame. Irgendwo führt eine Tür zum kleinen Saal; wir gehen in
+den großen.
 
 Sini legt den Kopf schief. „Iso ämpäri?“ -- ein großer Eimer? Ich lache und
 nicke. Sie bestellt den *größten* Eimer Popcorn, dazu zwei Becher Limo, und noch

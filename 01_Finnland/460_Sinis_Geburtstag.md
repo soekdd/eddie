@@ -114,17 +114,17 @@ Sie löst das Papier, zieht das Blatt heraus – mein welliger Matheblock, mit
 Buntstift übermalt. Zwei Doppelhelixen, eine mit blauem Iro, die andere mit
 Sámi-Mustern. Sini hält den Atem an. „Eddie…“
 
-Ihre Finger wandern zu den Codons. „Das erste erkenne ich sofort, mit den vier
-Möglichkeiten… Prolin.“ Sie kichert. „Und das hier unten drunter, das ist doch
-Asparagin, oder? Oh, du hast wirklich die Codons nachgeschlagen!“ Sie lacht, ein
-helles, freudiges Lachen, und schreibt die Namen der Aminosäuren in die Linien,
-die ich gelassen habe. Die Anfangsbuchstaben zieht sie groß, feierlich fast, bis
-da steht: PUNK und SAMI.
+Ihre Finger wandern zu den Sequenzen. „Das erste erkenne ich sofort, mit den
+vier Codons ist… Prolin.“ Sie kichert. „Und das hier unten drunter, das ist doch
+Asparagin, oder? Oh, du hast wirklich die Eiweiße nachgeschlagen!“ Sie lacht,
+ein helles, freudiges Lachen, und schreibt die Namen der Aminosäuren in die
+Linien, die ich gelassen habe. Die Anfangsbuchstaben zieht sie groß, feierlich
+fast, bis da steht: PUNK und SAMI.
 
 Sie legt den Stift weg, sieht mich an. „Eddie, du hast es echt begriffen. Weißt
 du, wie viel mir das bedeutet? Du bist nicht nur die, die fragt, ob Sámi sowas
 wie Indianer sind. Du bist die, die sich hinsetzt, die Buchstaben sucht, die
-Codons malt… Das hier ist mehr als ein Geschenk. Das ist Verständnis.“
+Sequenzen malt… Das hier ist mehr als ein Geschenk. Das ist Verständnis.“
 
 Ich beiße mir auf die Lippe. Mir ist fast zum Heulen. Aber bevor ich noch weiter
 nachdenken kann, springe ich vor, umarme sie fest. Viel zu fest vielleicht. Sie

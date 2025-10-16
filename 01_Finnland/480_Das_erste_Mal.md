@@ -47,7 +47,7 @@ proofreading:
 
 # Das erste Mal
 
-Wir sind zurück vom Kino, noch ganz aufgekratzt. Michael J. Fox spukt uns beiden
+Wir sind zurück in der Wohnung, noch ganz aufgekratzt. Michael J. Fox spukt uns beiden
 im Kopf herum – klein, süß, witzig. Wir schwärmen, kichern, trinken warmen Tee
 auf Sinis kleinem Sofa. Die Tassen dampfen, die Uhr tickt irgendwo leise, und
 alles fühlt sich an, als würde die Welt gerade nur aus uns beiden bestehen.
@@ -219,8 +219,8 @@ zum Frühstück.“
 
 „Na gut“, sagt sie und hebt beschwichtigend die Hände. „Themawechsel. Männer
 sind Blitz-Verknaller: zwei Blicke, ein halbgarer Witz – und zack, sie nehmen
-schon ein Mixtape für dich auf, planen den Sommerurlaub und denken sich Namen
-für die gemeinsamen Kinder aus. Dabei kennen sie nicht mal deinen Nachnamen.“
+schon ein Mixtape für dich auf, planen den Sommerurlaub und überlegen, wie viele
+Kinder wir mal haben werden. Dabei kennen sie nicht mal deinen Nachnamen.“
 Ich pruste los. „Hart.“ „Realistisch“, kontert sie und zwinkert.
 
 Wir werfen uns Kissen ins Gesicht, lachen Tränen.
