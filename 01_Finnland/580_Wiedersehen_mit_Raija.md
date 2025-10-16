@@ -47,9 +47,13 @@ Wir liegen im Dunkeln auf Sinis Sofa. Die Uhr auf dem Küchentisch tickt leise,
 als wolle sie uns verhöhnen. Jedes Ticken sagt: noch eine Minute weniger. Noch
 eine Nacht, die wir verlieren.
 
-„Was, wenn wir einfach… morgen einen anderen Bus probieren?“ frage ich.\ „Und
-wenn die wieder fragen, wie alt du bist?“\ „Sag ich was anderes.“\ „Die schauen
-in deinem Pass, Eddie. Das bringt doch nichts.“
+„Was, wenn wir einfach… morgen einen anderen Bus probieren?“ frage ich.
+
+„Und wenn die wieder fragen, wie alt du bist?“
+
+„Sag ich was anderes.“
+
+„Die schauen in deinem Pass, Eddie. Das bringt doch nichts.“
 
 Wir reden uns fest. Ich schlage vor, dass ich mich als Austauschschülerin
 ausgebe, Sini als meine Cousine. Sie sagt, wir würden auffliegen, noch bevor wir
@@ -71,32 +75,41 @@ auf, scharf gegen den grauen Himmel. Ich frage mich, ob dort drinnen jemand
 wirklich bereit wäre, mich aufzunehmen, auch wenn die Polizei klopft.
 
 Dann fällt mein Blick auf einen kleinen Opel, hellblau, mit der Motorhaube noch
-vom Tau glänzend. Ich bleibe stehen. „Den kenn ich.“\ Sini folgt meinem Blick.
-„Dein Traumauto?“\ „Nein. Raijas Auto.“
+vom Tau glänzend. Ich bleibe stehen. „Den kenn ich.“
 
-Ich sehe mich um – und da ist sie. Keine zehn Meter entfernt, an der Ecke, wo
-der Gehweg zum Park abbiegt. Sie trägt die gleiche Lederjacke wie zuletzt an
-unserem gemeinsamen Sonntag in Jyväskylä.
+Sini folgt meinem Blick. „Dein Traumauto?“
+
+„Nein. Raijas Auto.“ Ich sehe mich um – und da ist sie. Keine zehn Meter
+entfernt, an der Ecke, wo der Gehweg zum Park abbiegt. Sie trägt die gleiche
+Lederjacke wie zuletzt an unserem gemeinsamen Sonntag in Jyväskylä.
 
 „Raija!“ Meine Stimme klingt lauter, als ich wollte. Sie dreht sich um, und dann
 ist da dieses Lächeln, das mich sofort wärmt.
 
 Wir rennen fast zu ihr. Sie zieht mich in eine Umarmung, fest, so wie man es nur
 macht, wenn man wirklich froh ist, jemanden wiederzusehen. Sini steht daneben,
-lächelt uns an.\ „Das ist also die berühmte Raija“, sagt sie.\ „Und das ist
-Sini“, sage ich stolz zu Raija.
+lächelt uns an.
+
+„Das ist also die berühmte Raija“, sagt sie.
+
+„Und das ist Sini“, sage ich stolz zu Raija.
 
 Wir stehen noch keine fünf Minuten zusammen, da fällt der Schatten auf das
-Gespräch.\ „Ich hab gestern was im Funk gehört, Eddie. Von dir. Am
-Fährterminal.“\ Mir wird schlagartig kalt. „Wenn *du* es gehört hast…“\ „…dann
-hat es Mielke auch“, beendet sie den Satz für mich.
+Gespräch.
+
+„Ich hab gestern was im Funk gehört, Eddie. Von dir. Am Fährterminal.“
+
+Mir wird schlagartig kalt. „Wenn *du* es gehört hast…“
+
+„…dann hat es Mielke auch“, beendet sie den Satz für mich.
 
 Die Luft zwischen uns wird schwer. Kein Lächeln mehr. Nur die Stille, in der wir
 alle wissen, was das heißt. Wir schauen uns um.
 
-„Komm“, sagt Raija. „Nicht hier.“\ Wir lassen ihr Auto stehen. Keiner sagt,
-warum – aber wir wissen es alle. Zu auffällig, zu nah am Kirchturm, zu leicht zu
-finden.
+„Komm“, sagt Raija. „Nicht hier.“
+
+Wir lassen ihr Auto stehen. Keiner sagt, warum – aber wir wissen es alle. Zu
+auffällig, zu nah am Kirchturm, zu leicht zu finden.
 
 Wir gehen schnell. Durch Straßen, die immer enger wirken, obwohl sie offen vor
 uns liegen. Sini führt uns im Zickzack durch die Gassen. Ich merke erst, als wir
@@ -120,19 +133,25 @@ vielleicht durch.“
 Raija, die bisher schweigend zugehört hat, schüttelt den Kopf. „Dieser
 Busfahrer-Plan war Mist. Wir machen das sauberer. Zwei Tickets – eins hin und
 zurück für mich, eins ohne Rückfahrt für dich. Ich begleite dich in Uniform, wie
-bei einer Gefangenenüberführung.“\ „Klingt … offiziell“, sage ich und versuche,
-mich nicht zu sehr in das Bild hineinzusteigern, wie ich in Handschellen, aber
-frei, nach Schweden fahre.
+bei einer Gefangenenüberführung.“
+
+„Klingt … offiziell“, sage ich und versuche, mich nicht zu sehr in das Bild
+hineinzusteigern, wie ich in Handschellen, aber frei, nach Schweden fahre.
 
 „Offiziell reicht nicht“, sagt Raija. „Ich brauch was auf Papier.“
 
-Da fällt es mir ein. „Was, wenn wir … eins dieser Faxe schicken?“\ Die beiden
-sehen mich an, als hätte ich vorgeschlagen, wir fliegen einfach mit einem
-Heißluftballon über die Ostsee. „Ein Fax?“, fragt Sini.\ „Ja! Die Dinger sind
-neu, sehen furchtbar wichtig aus. Jede Polizeistation in Finnland hat so eines.“
-„Na, du weißt ja Sachen“, lacht Sini. „Wir schreiben einen Auslieferungsauftrag,
-auf Schwedisch, an dich, Raija. Von einer erfundenen Behörde. Ist dein
-Schwedisch gut genug, Sini?“ Sini nickt.
+Da fällt es mir ein. „Was, wenn wir … eins dieser Faxe schicken?“
+
+Die beiden sehen mich an, als hätte ich vorgeschlagen, wir fliegen einfach mit
+einem Heißluftballon über die Ostsee. „Ein Fax?“, fragt Sini.
+
+„Ja! Die Dinger sind neu, sehen furchtbar wichtig aus. Jede Polizeistation in
+Finnland hat so eines.“
+
+„Na, du weißt ja Sachen“, lacht Sini.
+
+„Wir schreiben einen Auslieferungsauftrag, auf Schwedisch, an dich, Raija. Von
+einer erfundenen Behörde. Ist dein Schwedisch gut genug, Sini?“ Sini nickt.
 
 Eine Stunde später klappert Sinis alte Schreibmaschine. Ich tippe mit zwei
 Fingern, Sini übersetzt ins Schwedische, Raija kontrolliert jeden Satz wie eine
@@ -158,7 +177,7 @@ Am Morgen läuft alles wie geprobt. Uniform, Dokument, zwei Tickets. Die Zöllne
 sehen uns, sehen das Papier und winken durch. Sini eilt uns nach, bis in den
 Abfertigungsbereich. Man kennt sie, niemand hält sie auf.
 
-Wir stehen uns gegenüber. Ich will etwas sagen, etwas, das all mein Dankbarkeit
+Wir stehen uns gegenüber. Ich will etwas sagen, etwas, das all meine Dankbarkeit
 ausdrückt, etwas das sie für immer behält. Stattdessen atme ich tief ein,
 springe über meinen eigenen Schatten, lege meine Hände an ihre Wangen und küsse
 sie -- lange, mitten im Lärm und im Neonlicht. Sie erwidert es, als hätten wir
@@ -172,7 +191,7 @@ und die Ahnung, dass ich gerade alles hinter mir gelassen habe.
 
 Ich lehne mich an die Reling, das Metall noch kühl von der Nacht. Unter mir
 schlägt die Ostsee gegen den Rumpf, gleichmäßig, fast beruhigend -- wie ein
-Herzschlag, nur lauter.\ Hinter mir liegt Vaasa, vor mir liegt alles.
+Herzschlag, nur lauter. Hinter mir liegt Vaasa, vor mir liegt alles.
 
 Ich taste unauffällig über meine Lippen, als könnte da noch etwas von Sini sein.
 Ist da auch. Zumindest für mich.
@@ -186,9 +205,9 @@ auch nicht. Ihre bloße Anwesenheit ist wie ein Schutzschild.
 
 Ich starre nach vorn, wo der Horizont aussieht, als hätte ihn jemand mit einem
 Lineal gezogen. Irgendwo dahinter ist Schweden, das Land, das seit Monaten wie
-ein Märchen in meinem Kopf wohnt.\ Ich frage mich, ob es wirklich so ist, wie
-ich es mir vorstelle. Wahrscheinlich nicht. Aber es ist nicht die DDR. Das
-reicht fürs Erste.
+ein Märchen in meinem Kopf wohnt. Ich frage mich, ob es wirklich so ist, wie ich
+es mir vorstelle. Wahrscheinlich nicht. Aber es ist nicht die DDR. Das reicht
+fürs Erste.
 
 Der Wind frischt auf, zumpft an meinen kurzen Haaren. Ich lache leise, einfach
 so, weil ich kann. Und unter all dem neuen, wilden Gefühl liegt dieser eine
@@ -249,13 +268,13 @@ Aber unentschuldbar bleibt es trotzdem. Also warst du schon weg, als die Männer
 der Stasi vor unserer Wohnung standen… Glück im Unglück.“
 
 Wir schweigen. Die Ostsee zieht unter uns vorbei wie ein endloses Fließband.
-„Komisch, wie das Schicksal manchmal funktioniert“, murmelt Raija. „Als ich die
-Ohrfeige fing, habe ich nur trotzig reagiert und bin ohne Plan einfach nur raus
-aus der Wohnung. Und jetzt seh ich, dass sie mich gerettet hat.“
+„Komisch, wie das Schicksal manchmal funktioniert“, murmelt Raija.
 
-Ich beiße mir auf die Lippe. „Das erklärt aber, warum sie so schnell an deiner
-Wohnung waren. Aber hast du eine Ahnung, wie sie auch so schnell in der Kirche
-sein konnten?“
+„Als ich die Ohrfeige fing, habe ich nur trotzig reagiert und bin ohne Plan
+einfach nur raus aus der Wohnung. Und jetzt seh ich, dass sie mich gerettet
+hat.“ Ich beiße mir auf die Lippe. „Der Verrat von Jormas Kumpel erklärt aber,
+warum sie so schnell an deiner Wohnung waren. Aber hast du eine Ahnung, wie sie
+auch so schnell in der Kirche sein konnten?“
 
 Raija nickt langsam. „Das habe ich mich auch gefragt und mit meinem Kollegen
 durchdiskutiert. Wir denken, die Männer aus der Botschaft waren während der

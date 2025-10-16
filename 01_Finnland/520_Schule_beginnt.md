@@ -48,8 +48,8 @@ bei uns die Schule wieder los. In Dresden stehen sie jetzt alle im FDJ-Hemd
 stramm, die Fahnen knattern, und die Lehrer predigen, wie wichtig unser Beitrag
 zum Sozialismus ist.“
 
-Sini schaut kurz, dann springt sie auf, schnellt in Habachtstellung und ruft
-lachend: „Für Frieden und Sozialismus – seid bereit!“
+Sini schaut kurz, dann springt sie auf, salutiert und ruft lachend: „Für Frieden
+und Sozialismus – seid bereit!“
 
 Sie reißt die Hand hoch, aber so verkrampft, dass es mich fast vom Hocker haut.
 Ich pruste los, zwischen zwei Lachern keuche ich: „Sini, um Himmels willen –
@@ -64,8 +64,7 @@ falsche Zeit, ganz falsche Geste!“
 
 Für einen Moment wirkt sie richtig betreten, dann verzieht sie das Gesicht,
 macht eine völlig übertriebene Hampelmannbewegung daraus und wir brechen beide
-endgültig zusammen vor Lachen, so sehr, dass mir Tränen die Wangen
-hinunterlaufen.
+endgültig zusammen vor Lachen.
 
 Aber als sie wieder sitzt, bleibt bei mir ein Rest von Schwere. Lernen – das war
 immer meins. Ich mochte es, Neues aufzunehmen, Aufgaben zu lösen, zu verstehen.
@@ -82,15 +81,17 @@ Finnisch, Schwedisch oder Englisch. Ich greife nach einem schweren Band –
 beweisen. Seite um Seite, Formeln, Zeichnungen. Mein Kopf hämmert, aber ich höre
 nicht auf. Es ist fast wie ein Rausch, endlich wieder in Arbeit zu versinken.
 
-Abends treffe ich Sini wieder. Sie fragt, wie es war, ich erzähle, wie besessen
+Abends treffe ich Sini wieder. Sie fragt, wie es war. Ich erzähle, wie besessen
 ich gelesen habe. Da sagt sie leise: „Das kenne ich. Du weißt, ich hab auch mal
 Biologie studiert.“ Einen Moment denke ich, sie will mir endlich mehr erzählen,
 doch dann winkt sie ab, als hätte sie den Faden verloren.
 
 Um die Schwere zu verscheuchen, balanciere ich ungelenk auf der Couchkante, Arme
-ausgestreckt. „Na, was bin ich?“ Sini grinst. „Ein Storch mit Arthritis?“ „Fast.
-Ich bin - 'Wenn die Summe aller Momente null ist', Baby.“ Sie prustet. „Ich hab’s
-kapiert: sehr stabil. Jetzt setz dich, Momentchen, bevor die Couch knickt.“
+ausgestreckt. „Na, was bin ich?“ Sini grinst. „Ein Storch mit Arthritis?“ „Fast,
+ich bin 'ne Null!" "Hä, wieso eine Null? Du siehst nicht aus wie eine Null." Ich
+erkläre: "Die Summe aller meiner Momente ist null, Baby.“ Sie prustet. „Ich
+hab’s kapiert: sehr stabil. Jetzt setz dich, Momentchen, bevor die Couch
+knickt.“
 
 Ich grinse. Sini lacht auf, schüttelt den Kopf. „Du und deine Physik. Irgendwann
 muss man mal ein Wort für Leute wie dich erfinden.“

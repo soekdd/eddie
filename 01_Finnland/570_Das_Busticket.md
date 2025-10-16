@@ -62,12 +62,12 @@ zieht die Zigarette aus dem Mund. „Wohin willst du?“ „Rüber. Mit dir.“ 
 
 Ich spüre, wie mein Herz einen Schlag aussetzt. Ich hab's geschafft. Endlich.
 
-Ich renne zu Sini, um ihr die Nachricht zu bringen. Sie steht mit meiner
-Reisetasche am Fährterminal und sieht schon von Weitem, dass ich diesmal nicht
-mit hängenden Schultern komme. „Du hast es geschafft!“ Sie wirft die Arme um
-mich, drückt mich so fest, dass mir kurz die Luft wegbleibt. „Danke, dass du
-mich nicht aufgegeben hast.“ „Vergiss nicht, mir zu schreiben. Sofort, wenn du
-drüben bist.“
+Ich renne zu Sini, um ihr die Nachricht zu bringen. Sie steht mit meinem
+Rucksack am Fährterminal und sieht schon von Weitem, dass ich diesmal nicht mit
+hängenden Schultern komme. „Du hast es geschafft!“ Sie wirft die Arme um mich,
+drückt mich so fest, dass mir kurz die Luft wegbleibt. „Danke, dass du mich
+nicht aufgegeben hast.“ „Vergiss nicht, mir zu schreiben. Sofort, wenn du drüben
+bist.“
 
 Wir halten uns einen Moment zu lange. Ich löse mich zuerst -- nicht, weil ich
 will, sondern weil ich sonst vielleicht gar nicht mehr gehe.
@@ -116,5 +116,5 @@ Und sie hat recht. Die Zeit läuft uns davon. Ihre Wohnung muss bald geräumt
 werden. Wir haben keinen Plan, keine sicheren Wege, keine Idee, wie wir das noch
 drehen können.
 
-Ich lehne mich gegen die Wand des Terminals, schaue aufs graue Wasser. Zum
-ersten Mal, seit ich hier bin, fühlt sich alles wirklich hoffnungslos an.
+Ich lehne mich gegen die Wand des Terminals, schaue aufs graue Wasser. Die
+Hoffnungslosigkeit übermannt mich.

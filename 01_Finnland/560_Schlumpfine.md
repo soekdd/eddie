@@ -65,12 +65,12 @@ Sini verschränkt die Arme, die Stirn leicht gerunzelt. „Smurfs nennt man sie.
 Und ich weiß schon, worauf du hinauswillst: auf die Smurfette! Aber diesen
 Schlumpfine-Vergleich mag ich eigentlich gar nicht.“
 
-Ich ziehe die Beine an, sehe aufs Wasser und zucke lächelnd die Schultern. „Mir
-geht’s da anders. In meiner Matheklasse war ich fast immer das einzige Mädchen
-zwischen lauter Jungs. Genau deshalb hab ich mich oft wie Schlumpfine gefühlt –
-ein bisschen anders, manchmal allein, aber auch clever. Sie war für mich kein
-Klischee, sondern eher Beweis, dass man auch als Einzige im Haufen seinen Platz
-finden kann.“
+Ich hocke mich im Schneidersitz auf die Bank, sehe aufs Wasser und zucke
+lächelnd die Schultern. „Mir geht’s da anders. In meiner Matheklasse war ich
+fast immer das einzige Mädchen zwischen lauter Jungs. Genau deshalb hab ich mich
+oft wie Schlumpfine gefühlt – ein bisschen anders, manchmal allein, aber auch
+clever. Sie war für mich kein Klischee, sondern eher Beweis, dass man auch als
+Einzige im Haufen seinen Platz finden kann.“
 
 Sini schnaubt. „Hm. Klingt nett, aber die Story hinter ihr ist halt mies.
 Gargamel hat Schlumpfine erschaffen, um die Schlümpfe verrückt zu machen. Und
@@ -86,7 +86,7 @@ wir die?“
 
 „So: Gargamel erschafft Schlumpfine unwiderstehlich schön und klug, wie sie nun
 mal ist. Aber anstatt Zwietracht zu säen, nimmt sie die kleinen blauen Typen an
-der Hand und führt sie. Sie bevorzugt keinen, bringt Ordnung rein, macht die
+die Hand und führt sie. Sie bevorzugt keinen, bringt Ordnung rein, macht die
 Schlümpfe fast schon zu Gentlemen. Eine Frau, die die Männerwelt im Dorf einfach
 besser macht.“
 
@@ -98,16 +98,12 @@ Ich nicke, mein Grinsen wird schief. „Und stell dir vor: kurze blonde Haare,
 rebellischer Blick – trotzdem liegen alle Schlümpfe flach. Nicht weil sie
 sabbern, sondern weil sie Respekt gelernt haben.“
 
-Sini lacht schallend, hebt das Birkenblatt wie ein kleines Zepter. „Unsere
+Sini lacht schallend, hebt ein Birkenblatt wie ein kleines Zepter. „Unsere
 Schlumpfine wäre unbesiegbar. Punkig, klug, gerecht – und kein Papa Schlumpf der
 Welt dürfte ihr reinreden.“
 
-„Deal!“, sage ich und strecke ihr die Faust hin. Wir boxen dagegen, als hätten
-wir gerade ein Manifest beschlossen.
-
-Wir lachen beide noch, der Wind spielt mit Sinis Haar, und für einen Moment
-fühlt es sich an, als hätten wir die ganze Welt neu geordnet – ein Dorf voller
-Schlümpfe inklusive.
+„Deal!“, sage ich und halte ihr die Faust hin. Sie tippt mit ihrer dagegen –
+kurz, trocken, als hätten wir gerade ein Manifest beschlossen.
 
 Dann lehnt Sini sich zurück, streckt die Beine aus, ihre weißen Turnschuhe
 wippen leicht. „Na gut, damit kann ich leben. Clever, schön und ein bisschen
@@ -117,9 +113,9 @@ Jungenname?“
 
 „Eigentlich wollte mein Vater mich Ada nennen, nach Ada Lovelace“, erzähle ich.
 
-Sini guckt mich sofort an, die Augen glänzen. „Ada Lovelace? Klar kenne ich die!
-Ich weiß zwar nicht viel von Mathe oder Informatik, aber dass sie eine Pionierin
-war, finde ich richtig stark.“
+Sini schaut mich sofort an, die Augen glänzen. „Ada Lovelace? Klar kenne ich
+die! Ich weiß zwar nicht viel von Mathe oder Informatik, aber dass sie eine
+Pionierin war, finde ich richtig stark.“
 
 „Na ja, mein Vater fand es einfach beeindruckend, dass Ada Lovelace schon im 19.
 Jahrhundert komplexe Rechenmaschinen programmiert hat, lange bevor es Computer
@@ -172,8 +168,8 @@ Sini lacht auf: „Ja, das wäre endlos schlimmer.“
 „Absolut“, erwidere ich und lehne mich zurück, „am Ende haben mich sowieso alle
 nur Eddie genannt, sogar die Lehrer.“
 
-„Eddie?“ Sini lacht. „Das klingt ja viel cooler. Wie ein belgischer
-Fußballspieler oder ein britischer Reggae-Sänger.“
+„Eddie?“ Sini lacht. „Das klingt ja viel cooler. Wie der belgische
+Fußballspieler oder dieser britischer Reggae-Sänger.“
 
 Sini springt von der Bank auf und tut so, als ob sie Fußballspielerin und
 Sängerin zugleich wäre. Ich falle vor Lachen beinahe von der Bank. Es ist so

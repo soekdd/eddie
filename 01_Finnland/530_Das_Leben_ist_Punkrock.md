@@ -48,7 +48,7 @@ Die Kneipe ist wieder voller Rauch, voller Stimmen, voller Musik. Diesmal stehe
 ich nicht schüchtern am Rand, sondern mitten im Gedränge, schon mit einem
 Grinsen auf den Lippen. Freunde von Sini grüßen mich. Das Flackern des
 Neonbierglases, die verschwitzt riechenden Jacken, die klebrigen Tische – all
-das fühlt sich inzwischen vertraut an, fast wie ein Versprechen.
+das fühlt sich inzwischen vertraut an. Das wird ein toller Abend.
 
 Die Band legt los, der Bass hämmert mir direkt in den Bauch, und Sini reißt mich
 auf die Tanzfläche. Ich könnte noch „später vielleicht“ sagen, wie beim ersten
@@ -123,10 +123,10 @@ Ich schüttle den Kopf und greife nach ihrer Hand. „Doch. Heimgehen. Mit dir.�
 
 Wir stolpern lachend durch die kühle Nachtluft nach Hause, unsere Stimmen noch
 voller Bass und Lichtblitze. Vor ihrer Tür stoßen wir beinahe gleichzeitig den
-Atem aus, als hätten wir denselben Rhythmus.
+Atem aus, als hätten wir denselben Herzschlag.
 
 Später liegen wir nebeneinander auf ihrem Bett. Meine Schuhe stehen noch mitten
-im Zimmer, ihre Jacke hängt schief über dem Stuhl. Es riecht nach Rauch und
+im Zimmer, ihre Jacke hängt schief über dem Stuhl. Wir riechen nach Rauch und
 süßem Parfum.
 
 Sini starrt an die Decke. „Ich war so eifersüchtig“, sagt sie plötzlich.

@@ -96,11 +96,11 @@ Rucksack – der ist noch zu schwer.“
 Der Rucksack. Er bleibt im Zimmer stehen, dunkel und stumm. Für mich ist er mehr
 als Gepäck. Er ist das Symbol: Wenn ich es wirklich schaffe, wenn ich damit den
 Weg gehe, dann wird unsere Zeit hier an diesem Tisch vorbei sein. Mir wird kalt,
-obwohl der Kaffee heiß ist. Ich nicke, aber nur, weil ich ihre Augen sehe.
+obwohl der Kaffee heiß ist. Ich nicke stumm.
 
 Am Nachmittag mache ich mich auf den Weg. Ohne Rucksack. Jeder Schritt zieht
 noch, aber ich halte durch. Eine Stunde über Pflastersteine, vorbei am kleinen
-Sporthafen, über die Brücke nach Vasklot. Der Wind weht scharf, riecht nach Salz
+Yachthafen, über die Brücke nach Vasklot. Der Wind weht scharf, riecht nach Salz
 und Diesel.
 
 Am Terminal drängen Busse. Ich taste mich an die Fahrer heran, frage nach
@@ -110,15 +110,15 @@ richtig anzusehen. Sie wirken eher genervt als feindselig. Ich spüre, wie dünn
 ich wirke, wie schräg meine Klamotten hier aussehen. Das hilft nicht. Aber es
 ist mir recht – ich wollte ohnehin nur Sini abholen.
 
-Drinnen lehne ich am Schalter, sehe die Fähre entladen werden. Menschen,
+Drinnen lehne ich am Schalter, sehe wie die Fähre entladen wird. Menschen,
 Taschen, Stimmen in allen Sprachen. Dann taucht sie auf: Sini, Jacke offen, die
 Haare zerzaust vom Wind. Sie entdeckt mich, lächelt und ruft: „Bin gleich
 fertig!“ Dann kommt sie zu mir, die Schritte schnell, als wolle sie mich gleich
 mitnehmen.
 
-Wir gehen nebeneinander über die Brücke, das Holz unter unseren Sohlen klappert,
-und die Lichter der Altstadt spiegeln sich im Wasser. Ich bin schon halb müde,
-halb hungrig, als Sini plötzlich das Thema wechselt.
+Wir gehen nebeneinander über die Brücke, und die Lichter der Altstadt spiegeln
+sich im Wasser. Ich bin schon halb müde, halb hungrig, als Sini plötzlich das
+Thema wechselt.
 
 „Weißt du, Eddie,“ sagt sie, „Feminismus heißt nicht, dass wir alle brav
 Händchen halten und warten, bis uns einer Gleichberechtigung schenkt. Männer
@@ -129,10 +129,11 @@ Ich ziehe die Nase kraus. „Na toll. Dann bin ich schon Staub.“
 
 Sini schnaubt. „Genau. Deswegen: Frau muss selbst für den Ausgleich sorgen. Ein
 Knopf an der Bluse, der zufällig offen steht, ein Blick, der ein bisschen länger
-bleibt – Männer sind wie Schalter. Klick – und sie glauben, sie hätten die
-Macht. Dabei steuerst du sie längst.“
+bleibt – Männer reagieren auf wie auf Knopfdruck. Klick – und während sie noch
+glauben, sie hätten die Macht, steuerst du sie längst.“
 
-Ich kichere. „Das klingt nach einer sehr… wissenschaftlichen Theorie.“
+Ich kichere. „Das klingt nach einer sehr…“ ich forme lustige Gänsefüsschen in
+die Luft „wissenschaftlichen Theorie.“
 
 „Ist es auch!“ Sini hebt den Finger, als würde sie eine Vorlesung halten.
 „Männer sind leicht zu manipulieren. Und wenn’s der richtigen Sache dient – also

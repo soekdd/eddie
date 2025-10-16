@@ -49,16 +49,16 @@ Sofa, die Knie an die Brust gezogen, genieße die Ruhe und Vertrautheit.
 Zu meiner Überraschung dreht sich plötzlich der Schlüssel in der Tür. Ohne zu
 klingeln tritt ein Mann ein, groß, breitschultrig, mit einer Mappe unter dem
 Arm. Kaum sieht er Sini, breitet er die Arme aus. „Sinikka!“ Seine Stimme klingt
-weich, fast froh. Sini springt auf, wirft sich an seine Brust, drückt das
+weich, fast zärtlich. Sini springt auf, wirft sich an seine Brust, drückt das
 Gesicht in seinen Mantel. Er legt ihr die Hand in den Nacken, streicht ihr über
 den Rücken, murmelt ein paar Worte, die ich nicht verstehe. Aber die Geste ist
 eindeutig: hier begegnen sich Vater und Tochter, vertraut, nah, voller Wärme.
 Für einen Augenblick wirken sie wie zwei Menschen, die sich innig vermisst
 haben.
 
-Dann folgt sein Blick zu mir. Die Wärme verlischt sofort. Er mustert mich kühl,
-ohne auch nur ein Wort zu sagen. Als wäre ich bloß ein störender Gegenstand im
-Zimmer. Ich rutsche unwillkürlich ein Stück tiefer ins Sofa.
+Dann wandert sein Blick zu mir. Die Wärme verlischt sofort. Er mustert mich
+kühl, ohne auch nur ein Wort zu sagen. Als wäre ich bloß ein störender
+Gegenstand im Zimmer. Ich rutsche unwillkürlich ein Stück tiefer ins Sofa.
 
 „Papa, das ist Eddie“, sagt Sini hastig und fügt hinzu: „Bitte… wir reden jetzt
 auf Englisch.“
