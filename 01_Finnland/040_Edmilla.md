@@ -160,4 +160,4 @@ runtergeschluckt, mich für meine Outfits auslachen lassen. Hab in Stabi,
 Geschichte und sogar in Russisch geglänzt.
 
 Wenn es sich auszahlt, müsste ich Edmilla eigentlich dankbar sein. Aber morgen
-wird sie sterben – und ich werde sie keine Sekunde vermissen.
+wird sie dennoch sterben – und ich werde sie keine Sekunde vermissen.
