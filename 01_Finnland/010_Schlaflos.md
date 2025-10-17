@@ -52,11 +52,11 @@ Edmilla wird sterben.
 
 Morgen, nach dem Wettkampf. Punkt. Kein Drumrum. Ich hab's so geplant. Entweder
 sie wird geschnappt oder sie schafft es in die Freiheit. So oder so, ich streife
-sie ab wie 'ne alte Haut. Bei all der Angst ist das die einzige Gewissheit heute: Edmilla ist
-morgen Mittag weg. Für immer.
+sie ab wie 'ne alte Haut. Bei all der Angst ist das die einzige Gewissheit heute: Edmilla word
+morgen Mittag verschwinden. Für immer.
 
 Die Luft steht. Warm. Schwer. Sie klebt an mir. Die Hitze hängt im Holz, der
-Bungalow riecht nach Harz und frischer Farbe. Ich liege auf'm Bett, die Decke
+Bungalow riecht nach Harz und frischer Farbe. Ich liege auf dem Bett, die Decke
 längst weggestrampelt, T-Shirt nass. Neben mir atmen die Mädels gleichmäßig, ein
 Seufzer hier, ein Rascheln da. Als wäre Einpennen halt das Einfachste der Welt.
 Glück für sie.
@@ -65,7 +65,7 @@ Bei mir? Fehlanzeige. Ich dreh' mich von links nach rechts, wieder zurück.
 Kissen zu heiß, Laken nervt, Kopf noch schlimmer. Immer wieder Augen auf.
 Halbdunkel. Kein richtiges Dunkel. Durch das riesige Fenster fällt dieses blasse
 Mittsommerlicht. Keine Nacht, kein Tag – nur so'n fieses graue Schimmern. Es
-hält mich wach. Und gerade heute bräuchte ich Erholung. Wirklich.
+hält mich wach. Und gerade heute bräuchte ich die Erholung. Wirklich.
 Einfach wegdriften, ohne Herzrasen, ohne Kopfkino. Mein Puls hämmert weiter.
 Stillliegen? Träum weiter!
 
@@ -74,7 +74,7 @@ der Nacht! Weiß selber nicht, ob's schon morgen ist. Genau mein Feeling:
 festgeklemmt zwischen gestern und morgen, in diesem endlosen Dämmerlicht, das
 keinen Schlaf kennt. Jetzt. Gleich. Morgen. Irgendwie dazwischen.
 
-Und dann ballert mir immer wieder das Pokerspiel in meinen Kopf. Erst das Kribbeln
+Und dann ballert mir immer wieder das Pokerspiel durch meinen Kopf. Erst das Kribbeln
 vom Gewinn, dann dieser Schock draußen im Halbdunkel zwischen den Hütten. Er.
 Mielke: „Edda?“
 
