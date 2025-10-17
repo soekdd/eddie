@@ -145,7 +145,7 @@ ständigen Angst, dass irgendein grauer Mann aus der DDR plötzlich aus dem
 Schatten tritt. Aber dieser Moment hat mir gezeigt: Ich schaffe das nicht. Diese
 Straßen sind stärker als ich. Noch ein paar Monate, und sie verschlingen mich
 ganz. Der Gedanke tut weh, aber er ist da, unausweichlich: Ich kann hier nicht
-bleiben. Dieses Leben aus Schlafplätzen in U-Bahn-Schächten, aus Almosen und
+bleiben. Dieses Leben aus Schlafplätzen unter Brücken und in U-Bahn-Schächten, aus Almosen und
 ständigen Blicken über die Schulter – es würde mich töten. Nicht sofort, aber
 sicher. Ich streiche dem Hund über den Nacken, während ich weitertappe, meine
 Beine weich wie Pudding. „Wir zwei“, flüstere ich heiser, „wir müssen hier weg.
