@@ -69,9 +69,9 @@ Ich tue so, als ob. Ich schiebe das Blatt hin und her, als würde die Perspektiv
 helfen. Tut sie nicht. Nur noch mehr Leere.
 
 Und dann halte ich’s nicht mehr aus. Stift weg. Ich versuche, so zu gucken, als
-wäre ich fertig. Aber ich weiß: Ich bin die Erste. Viel zu früh. Ich packe meine
-jämmerlichen Krakel in die offizielle IMO-Mappe. Mein Stuhl quietscht mies, als
-ich hochgehe. Ein paar Köpfe drehen sich. Ich spüre die Blicke. Ich lächle
+wäre ich fertig. Aber ich weiß: Ich bin die Erste. Viel zu früh. Ich packe mein
+jämmerliches Gekrakel in die offizielle IMO-Mappe. Mein Stuhl quietscht mies, als
+ich aufstehe. Ein paar Köpfe drehen sich. Ich spüre die Blicke. Ich lächle
 nicht. Sag nix. Tasche geschnappt. Tür im Visier.
 
 Zum Betreuer flüstere ich: „Bin fertig, muss mal schnell auf Toilette.“ Und zu
