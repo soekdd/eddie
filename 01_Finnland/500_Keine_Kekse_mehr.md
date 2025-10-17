@@ -50,7 +50,7 @@ proofreading:
 
 # Keine Kekse mehr
 
-Ein anderer Abend die gleiche gemütliche Küche. Der Teig riecht nach Schokolade
+Ein anderer Abend die gleiche gemütliche Küche. Der Teig steckt voller Schokolade
 und Abenteuer. Ich hocke barfuß auf Sinis Küchenstuhl, rühre mit einem
 Holzlöffel, der aussieht, als hätte schon ihre Großmutter damit Suppe gekocht.
 Sini lehnt am Herd, schiebt die Haare aus dem Gesicht und versucht, das Rezept
