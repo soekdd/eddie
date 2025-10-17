@@ -42,7 +42,7 @@ Und so gehe ich los, mit schweren Schritten, aber mit einem Ziel. Zum ersten Mal
 seit Monaten habe ich das Gefühl, dass ich nicht nur überlebe -- sondern
 vielleicht einen Ausweg finde.
 
-Zur Stadsmission. Ein heller Raum, es riecht nach Suppe, nach frisch gewaschenen
+Zur Stadsmission, aber diesmal nicht in Slussen, wo mich die Stasi schon mal im ein Haar erwischt hat. Ein heller Raum, es riecht nach Suppe, nach frisch gewaschenen
 Hemden von den Helfern, nach einem Leben, das nicht meines ist. Ich drücke mich
 in die hintere Ecke, hungrig, aber auch nervös. An der Essensausgabe steht er.
 Der Junge, er reicht mir einen Teller, höflich, mit gesenktem Blick. Kein dummer
