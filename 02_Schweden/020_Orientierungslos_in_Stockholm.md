@@ -56,7 +56,7 @@ der ich nur weiß: Hier müsste Freiheit sein.
 
 Doch alles ist zu groß. Zu hell. Zu laut.
 
-Ich halte mich an einer Mauer fest, taste mich Richtung Süden. Schon nach ein
+Ich halte mich an einer Mauer fest, taste mich Richtung Osten. Schon nach ein
 paar Schritten spüre ich, wie die Straßen vibrierender werden – Menschen,
 Lichter, Schaufenster. Ich lande auf einer breiten Einkaufsstraße.
 Drottninggatan. So viele Geschäfte, vollgestopft mit allem, was ich mir daheim
