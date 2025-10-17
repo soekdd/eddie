@@ -8,36 +8,37 @@ persons:
   - 'Raija'
   - 'Eddies Eltern'
   - 'Mielke'
-synopsis: 'Eddie öffnet sich Raija: Sie erzählt von ihren Eltern, DDR-Kontrolle, Schuld und dem Abschied in Schönefeld; Raija tröstet.'
+synopsis: 'Bei Raija erzähle ich stockend von Vater und Mutter, von Kontrolle in der DDR und meiner Schuld; der Abschied in Schönefeld liegt erst eine Woche zurück.'
 mood: 'intimate, heavy but tender'
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
 proofreading:
+  Kapitel: '190_Meine_Eltern'
   Ton:
-    Einschaetzung: 'Intim und ernst; Eddie ringt um Worte, während Raija behutsam zuhört.'
-    Kritik: 'Teilweise erklärend; kurze, stockende Halbsätze/Einwürfe (z. B. „äh“, „ich weiß…“) könnten die Unmittelbarkeit erhöhen.'
-    Fix: '1–2 stockende Halbsätze/Einwürfe einbauen; 1 kurze Atempause (Blick senken/Hände an Tasse) setzen, um die Unmittelbarkeit zu erhöhen.'
+    Einschaetzung: 'Intim, behutsam und nah; Raijas stilles Zuhören trägt die Szene, leise Körpermarker erden sie.'
+    Kritik: 'Teilweise erklärend; 1–2 Atempausen/abgebrochene Halbsätze könnten die Unmittelbarkeit erhöhen.'
+    Fix: 'Kurze Stille auf Tasse/Blick setzen; einen Satz brechen; die Schönefeld‑Erinnerung mit einem prägnanten Geräusch/Detail erden.'
     Note: 2
   Logik:
-    Einschaetzung: 'Plausible Öffnung gegenüber Raija; DDR-Kontext als kurzer Hintergrund funktioniert.'
-    Kritik: 'Manche Sätze bündeln viel Exposition; kleines Erinnerungsbild je Elternteil erdet das Allgemeine. Klarer markieren, was Mutter ahnt vs. weiß.'
-    Fix: 'Je Elternteil 1 konkretes Erinnerungsbild ergänzen; explizit markieren, was Mutter ahnt vs. was sie wissen könnte (Blick/Andeutung).'
+    Einschaetzung: 'Klarer Bogen: Aufwachen → Nachfrage → Elternbilder → DDR‑Kontext → Entschluss → Zeitpunkt des Abschieds.'
+    Kritik: 'Schönefeld erscheint nur als Info; die Grenze „Mutter ahnt vs. weiß“ bleibt andeutungsweise.'
+    Fix: 'Ein Schönefeld‑Bild ergänzen (Durchsage, kaltes Glas, Griff an der Tasche); einen Halbsatz, der das „ahnt vs. weiß“ leicht schärft; optional eine knappe Zeitmarke.'
     Note: 2
   Charaktere:
-    Einschaetzung: 'Eltern erscheinen in Konturen (starker Vater, wache Mutter); Eddie wirkt ambivalent und schuldbewusst.'
-    Kritik: 'Noch etwas typisiert; ein, zwei widersprüchliche Mini-Details (Geste, Macke, Satzfetzen) geben mehr Tiefe.'
-    Fix: 'Vater: 1 strenger Satzfetzen/harte Geste neben Wärme; Mutter: 1 kleine Macke (z. B. Reißbrett‑Geste) oder ambivalenter Blick; Eddie: 1 kurzer Körpermarker (trockener Mund/Kloß im Hals).'
-    Note: 3
+    Einschaetzung: 'Vater mit Strenge und Wärme; Mutter mit wachem, ambivalentem Blick und kleiner Macke; Eddie verletzlich, aber klar.'
+    Kritik: 'Beim Vater noch ein weiches Gegenmoment; bei Eddie ein spontaner, jugendlicher Einwurf möglich.'
+    Fix: 'Vater: beiläufige Nachgiebigkeit/Unsicherheit andeuten; Eddie: 1 knapper, rotziger Fetzen als Gegenakzent; Mutter: Blick einmal ins Schwanken bringen.'
+    Note: 2
   Sprache:
-    Einschaetzung: 'Klar, stellenweise jugendlich und direkt; Korrekturen für Fluss und Grammatik eingefügt.'
-    Kritik: 'Einzelne Formulierungen noch glatt; 1–2 abgebrochene Sätze/knappe Gedankenfetzen im Jugendsound verjüngen die Stimme.'
-    Fix: '1–2 abgebrochene Sätze/knappe Gedankenfetzen setzen; 1 längeren Satz teilen; 1 rotzig‑kurzer Einwurf als Kontrast.'
+    Einschaetzung: 'Präsens, klare Sätze, ruhiger Fluss; Dialogsparsamkeit wirkt.'
+    Kritik: 'Vereinzelt glatt/expositorisch.'
+    Fix: '1–2 Sätze teilen; 1 jugendlicher Halbsatz/Einwurf; Metaphern sparsam halten.'
     Note: 2
   Fazit:
-    Staerken: 'Intime Nähe zu Raija, nachvollziehbare Motivation, spürbare Schuld und Entschlossenheit.'
-    Schwaechen: 'Etwas Exposition, punktuell noch zu erwachsen.'
-    Fix: '1–2 kurze Gedanken-/Halbsätze einstreuen; je Elternteil ein konkretes, dorniges Detail (Geste, Blick, Satzfetzen) ergänzen.'
+    Staerken: 'Nähe und Vertrauen; klare Motivation; konkrete Elternbilder; kontrollierte, leise Emotion.'
+    Schwaechen: 'Punktuell erklärend; Schönefeld noch abstrakt; Atempausen knapp.'
+    Fix: 'Kleine Bilder statt Erklärung; 1–2 Atempausen/Einwürfe; Schönefeld mit einem Sinnesdetail erden.'
     Note: 2
 ---
 
@@ -53,21 +54,25 @@ bleibt bei mir, als wir später wieder gemeinsam frühstücken.
 Aber dann merk ich, wie sie mich mustert. Vorsichtig, behutsam, so, als wollte
 sie nicht wühlen und doch verstehen. „Eddie … deine Familie?“, fragt sie leise.
 
-Mir schnürt es die Kehle zu. Die Worte steigen langsam auf, schwer,
-unausweichlich.
+Mir schnürt es die Kehle zu. Der Mund ist trocken, die Zunge klebt kurz am
+Gaumen. Die Worte steigen langsam auf, schwer, unausweichlich.
 
 „Weißt du, Raija“, fang ich an, „meine Eltern … die sind irgendwie besonders.“
 Ich muss tief Luft holen, bevor es weitergeht. „Mein Vater ist Ingenieur an der
 Uni. Eigentlich könnte er promovieren, aber er will nicht in die SED eintreten.
 Also darf er nicht. Er ist der Einzige, der weiß, was ich vorhabe – meinen
-Fluchtplan. Ihm vertraue ich total.“
+Fluchtplan. Ihm vertraue ich total.“ Einen Moment sehe ich ihn vor mir: Wenn er
+in eine Sache vertieft ist, legt er seine Stirn in harte Falten. Wer ihn nicht
+kennt, glaubt, er wäre schwer verärgert. Aber schon im nächsten Moment kann er
+Dich fröhlich anschauen.
 
-Ich starre auf den Boden, als müsste ich die Wörter ablegen. „Meine Mutter ist
-freischaffende Projektantin. Sie hat so ein riesiges Reißbrett in unserer
-Wohnung. Ich … ich find sie wunderschön.“ Kurz huscht mir ein Lächeln übers
-Gesicht, aber es verfliegt gleich wieder. „Sie ist nicht eingeweiht. Mein Vater
-glaubt, er schützt sie so. Aber sie ahnt es. Ihr Blick … man könnte meinen, sie
-sagt nichts, aber sie sieht alles.“
+„Meine Mutter ist freischaffende Projektantin. Sie hat so ein riesiges Reißbrett
+in unserer Wohnung. Ich … ich find sie wunderschön.“ Kurz huscht mir ein Lächeln
+übers Gesicht, aber es verfliegt gleich wieder. „Sie ist nicht eingeweiht. Mein
+Vater glaubt, er schützt sie so. Aber sie ahnt es. Ihr Blick … weich und streng
+zugleich.“ Ich atme aus. „Und sie hat diese kleine Macke: Mit der flachen Hand
+fährt sie oft die Tischkante ab, als wäre überall ein Reißbrett – Becher
+ausrichten, Kanten prüfen, alles muss an seinen Platz.“
 
 Die Worte hängen in der Luft. Ich erzähle von der DDR, von der ständigen
 Kontrolle: Lehrer, die jedes Wort, jeden Blick registrieren. Nachbarn, die

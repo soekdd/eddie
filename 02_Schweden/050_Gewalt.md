@@ -27,13 +27,12 @@ Kreislauf, als hätte die Stadt mich verschluckt. Ich bin kein Gast mehr – ich
 gehöre schon zu den Schatten. Der Gestank klebt an mir wie eine zweite Haut:
 altes Bier, kalter Rauch, der muffige Geruch von zu oft getragenen Klamotten. In
 den Ecken liegt Müll, manchmal auch einer, der nicht mehr aufgestanden ist. Ich
-tue so, als wäre das alles normal, doch innerlich warte ich jeden Tag darauf,
-dass irgendetwas kippt.
+tue so, als wäre das alles normal, doch ich habe Angst, dass ich eines Tages da liegen werde.
 
 Der Abend senkt sich über den Park, die Laternen werfen gelbe Flecken auf den
 nassen Asphalt. Ich gehe am Rand von Rålambshovsparken, suche ein trockenes
 Plätzchen für die Nacht. Streuner ist nicht da. Wenn er wegbleibt, fühle ich
-mich nackt, als hätte mir jemand die Haut abgezogen.
+mich nackt.
 
 Auf einer Bank sitzen drei Männer. Flaschen klirren, ihre Stimmen sind laut,
 dröhnend, schiefes Lachen. Einer sieht mich zuerst. „Hej, flicka!“ ruft er, und
@@ -61,7 +60,7 @@ Brust springen.
 Ich habe es geschafft – diesmal. Aber der Gedanke, dass sie mich hätten halten
 können, dass es so leicht gewesen wäre, legt sich wie Blei auf meine Schultern.
 Ohne Streuner, ohne Hilfe, bin ich nur ein Körper in einer Stadt voller
-Schatten.
+Raubtiere.
 
 Es ist eine Nacht später, vielleicht auch zwei. Zeit verschwimmt. Ich streife
 durch eine Seitenstraße, weit weg von den hellen Plätzen, auf der Suche nach
@@ -72,7 +71,7 @@ Billigalkohol gegerbt; eine Narbe zieht sich zur Schläfe, die Augen stehen ein
 bisschen zu weit auseinander, die Nasenspitze ist rot und aufgeraut. Er trägt
 einen alten, dunklen Mantel, zu groß an den Schultern, die Ärmel ausgefranst;
 seine Hände sind groß, die Finger dick und rau, die Knöchel ständig weiß von der
-Kälte. Wenn er lacht, zeigen sich gelbe Zähne, und es riecht nach billigem
+Kälte. Wenn er lacht, zeigen sich gelbe Zähne, und es stinkt nach billigem
 Schnaps und altem Tabak. Ich antworte knapp, will eigentlich weiter. Doch seine
 Hand packt plötzlich mein Handgelenk, viel zu fest. Ich versuche zu lachen, es
 locker zu nehmen, wie man das hier eben tut, wenn man nicht auffallen will. Aber
@@ -85,7 +84,7 @@ weg hier, egal wie. Er lacht nicht, er redet nicht – er ist nur rohes Drängen
 rohes Ziehen. Ich denke noch: Ich habe das hier so lange überstanden. Ich habe
 gelernt, zu überleben. Ich lasse mich nicht brechen. Dann kommt der Schlag.
 
-Hart, direkt, vernichtend. Alles reißt mir weg. Noch bevor ich schreien kann,
+Hart, direkt, vernichtend. Es reißt mir die Beine weg. Noch bevor ich schreien kann,
 kracht mein Kopf gegen die Bordsteinkante. Ein höllisches Licht, dann völlige
 Dunkelheit. Für Sekunden falle ich in eine andere Welt. Da ist Wärme. Sini
 kichert neben mir, wir sitzen irgendwo im Kino, sie wirft Popcorn in die Luft
@@ -120,8 +119,8 @@ schmerzt. Ich nutze den Moment, krieche, stolpere, greife nach der Hose, reiße
 sie mir über, meine Finger zittern so sehr, dass ich den Knopf kaum zu bekomme.
 Ich renne. Einfach nur rennen. Jeder Schritt fühlt sich an, als würde er mich
 aus einem Abgrund ziehen. Der Hund bellt, löst sich von ihm und stürzt neben mir
-her, mein Retter, mein einziger Freund in dieser gottverlassenen Gegend. Ich
-lebe noch, hämmert es in meinem Kopf, während die Nacht um mich vorbeizieht. Nur
+her. Mein Retter, mein einziger Freund in dieser gottverlassenen Gegend. Ich
+lebe noch, hämmert es in meinem Kopf, während die Nacht an mir vorbeizieht. Nur
 knapp. Aber ich lebe.
 
 Ich renne immer weiter, ohne Ziel, stolpernd, halb blind vor Tränen, spüre ich
@@ -171,14 +170,7 @@ die an mir zerrten. Der Traum von Sini, so warm, so hell, und dann der Absturz
 zurück in die Dunkelheit. Ich schüttle den Kopf, will es wegwischen, doch es
 bleibt.
 
-Ein Gedanke frisst sich in mich: So kann ich nicht weitermachen. Nicht sieben
-Monate. Nicht bis Mai. Der Mai ist eine Ewigkeit, eine Zahl, die nur in
+So kann ich nicht weitermachen. Nicht sieben
+Monate. Nicht bis Mai. Bis Mai ist eine Ewigkeit, eine Zahl, die nur in
 Mathebüchern Sinn ergibt, nicht in meinem Leben. Aber gleichzeitig – er ist der
 einzige Fixpunkt, den ich habe. Achtzehn. Frei. Niemand kann mich zurückholen.
-
-Ich sehe Streuner an. Ohne ihn wäre ich jetzt vielleicht schon tot oder
-zumindest schwer verletzt und jeder Würde beraubt. Er blinzelt, als wüsste er,
-was ich denke. Ich lege die Stirn auf seine Flanke und atme tief.
-
-„Wir schaffen das“, flüstere ich. Ob ich es glaube, weiß ich nicht. Aber der
-Satz hängt in der Luft, und für einen Moment klingt er wahr.

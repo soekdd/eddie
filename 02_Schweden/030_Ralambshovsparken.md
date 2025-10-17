@@ -27,7 +27,7 @@ Pläne in meinem Kopf zerfallen, wie Zettel, die zu lange in der Tasche waren.
 Nur noch Fetzen davon.
 
 Aber irgendwo dazwischen, ganz leise, bleibt ein Gedanke, der mich warm hält.
-Mein achtzehnter Geburtstag. Dann ändert sich alles. Mielke hat keine Handhabe
+Mein achtzehnter Geburtstag. Dann ändert sich alles. Mielke hat dann keine Handhabe
 mehr über mich. Niemand kann mich zurückholen. Die schwedische Polizei wird mich
 nicht ausliefern – ich werde volljährig, eigenständig, endlich jemand, der
 selbst entscheidet. Mein achtzehnter Geburtstag… im Mai. Nur noch ein paar
@@ -46,7 +46,7 @@ Park riecht nach nassem Laub, nach Urin, nach billigem Wein. Ich wache auf, wenn
 es hell wird, und schlafe wieder ein, wenn die Kälte mich überrollt.
 
 Mein Körper klebt. Seit Wochen habe ich mich nicht gewaschen, außer mit ein paar
-Tropfen Wasser aus einem Brunnen. Die Kleider stinken, meine Haare sind fettig
+Tropfen Wasser aus Ostsee. Die Kleider stinken, meine Haare sind fettig
 und struppig. Auf meiner Vaasalopet bin ich einfach in die Seen gesprungen. Sich
 hier nackt in die Ostsee waschen? Dann wäre ich Freiwild. Ich versuche, mich
 klein zu machen, nicht aufzufallen. Aber die Leute sehen mich, wenn ich in der
@@ -72,12 +72,12 @@ Welt zum Greifen nah.
 
 Also gehe ich. Erst zögere ich, doch dann wage ich mich hinein. Kungsholmens
 biblioteket, gar nicht weit von Park weg. Drinnen warm, hell, voller Bücher. Der
-Geruch nach Papier und Tinte weckt schlagartig alle die Erinnerung - an Schule,
+Geruch nach Papier und Tinte weckt schlagartig alte die Erinnerung - an Schule,
 an Dresden, an alles, was einmal war. Ich setze mich an einen Tisch, tue so, als
 würde ich lesen. Stundenlang wärme ich mich.
 
 Doch irgendwann zieht eine Frau die Nase kraus, schaut mich an, als sei ich ein
-Tier, das sich verlaufen hat. Ich sehe es in ihren Augen: Ich gehöre hier nicht
+Tier, das sich verlaufen hat. Ich sehe es in ihren Augen: Hier gehöre ich nicht
 hin. Ich stinke. Ich schleiche hinaus, den Kopf gesenkt. Am nächsten Tag
 versuche ich es in einer anderen Bibliothek, wieder dasselbe Spiel.
 

@@ -48,7 +48,7 @@ proofreading:
 
 # Orientierungslos in Stockholm
 
-Ich drücke die Wagentür leise hinter mir zu. Es riecht nach Öl, Eisen,
+Ich drücke die Waggontür leise hinter mir zu. Es riecht nach Öl, Eisen,
 abgestandener Luft. Der Zug steht still, irgendwo auf einem Abstellgleis
 nördlich vom Bahnhof. Kein Mensch hier. Ich stolpere über Schotter, krieche
 durch eine Lücke im Zaun – und bin plötzlich mitten in dieser fremden Stadt, von
@@ -85,7 +85,7 @@ sein.
 
 Von dort laufe ich weiter, über eine Brücke hin zu Heleneborgsholmen. Ich merke,
 wie Stockholm aus lauter Inseln besteht, verbunden durch diese Brücken, wie ein
-riesiges Spinnennetz. Für mich ist jede Brücke ein Risiko gehe ich drüber sehen
+riesiges Spinnennetz. Für mich ist jede Brücke ein Risiko: Gehe ich hinüber, sehen
 sie mich, meide ich sie, komme ich nicht voran.
 
 Irgendwann treibt es mich hinein ins Herz der Stadt. Gamla stan. Enge Gassen,
@@ -129,8 +129,7 @@ ein Versprechen. „We can help. But socialtjänst…“ Er merkt, wie ich bei d
 zusammenzucke, hebt beschwichtigend die Hände. „No police. Only… you get bed,
 food. Safe.“
 
-Er sieht, was ich nicht sagen will. Die Frage steckt ihm dennoch in der Zunge
-fest. „Är du barn? Are you a child?“
+Er sieht, was ich nicht sagen will. Die Frage liegt ihm trotzdem auf der Zunge. „Är du barn? Are you a child?“
 
 Ich schüttele wieder den Kopf. Meine Stimme ist zu dünn. „Ich brauche nur…
 heute. Morgen finde ich…“
@@ -141,7 +140,7 @@ und Theater. Ick weeß, wo de hinkannst. Komm ma.“
 
 Ich zucke zusammen. Ich habe ihn nicht kommen sehen. Er steht so nah, dass sein
 Atem meinen Hals streift. Er wirkt zufrieden, mich gefunden zu haben, als hätte
-er einen dicken Fisch geandelt.
+er einen dicken Fisch geangelt.
 
 „Lass mich,“ sage ich, leise.
 
@@ -159,8 +158,7 @@ wäre er mein Fürsprecher. „Ick helf’ nur. Dit schaffen wa.“
 Seine Hand wird fester. Ich reiße den Arm, so dass die Gelenke knacken. „Fass
 mich nicht an.“
 
-Hinter dem Tresen ruft jemand auf Schwedisch, Worte wie kleine Glocken,
-aneinandergetackert. Eine Frau in Schürze kommt aus der Küche, die Kelle noch in
+Hinter dem Tresen ruft jemand auf Schwedisch, schnell und nachdrücklich. Eine Frau in Schürze kommt aus der Küche, die Kelle noch in
 der Hand. Zwei Männer drehen sich von der Essensausgabe um; einer trägt eine
 Mütze, der andere die Müdigkeit in den Schultern. Der Berliner zieht, ich ziehe
 zurück. Ein kurzer Ruck, meine Jacke rutscht über die Schulter. Die Kelle
@@ -171,7 +169,7 @@ härifrån!“ Er hebt die Hand, nicht drohend, sondern präsent, als zeige er e
 Grenze auf dem Boden. „No touching.“
 
 Der Berliner lacht kurz, hell und hässlich. „Mach ma halblang, Chef. Dit is’
-frei’ Stadt, wa?“ Seine Augen bleiben an mir hängen. „Komm nu. Ick warte
+'ne freie Stadt, wa?“ Seine Augen bleiben an mir hängen. „Komm nu. Ick warte
 draußen.“
 
 „Nein,“ sage ich. Das Wort ist kleiner als ich.
@@ -224,21 +222,18 @@ wird. Ich stelle mir vor, ich sei nur ein Punkt in einem Koordinatensystem, das
 niemand mehr abliest. Ein Rest. Eine Nullmenge. Für heute reicht das. Morgen
 zähle ich neu.
 
-Ich drehe mich abrupt um, stolpere fast die Stufen hinunter. Meine Hände
-zittern. Weg, nur weg. „Schhh,“ höre ich plötzlich neben mir. Eine Stimme, rau
+„Schhh,“ höre ich plötzlich neben mir. Eine Stimme, rau
 wie altes Papier. Eine Frau sitzt auf einer Bank, ein Bündel Plastiktüten zu
 ihren Füßen, die grauen Haare wirr, die Augen wässrig, aber aufmerksam. Sie hat
-gesehen, wie ich vor den Polizisten zurückschrecke. „No police,“ murmelt sie und
+gesehen, wie ich in die Hecke gekrochen bin. „No police,“ murmelt sie und
 schüttelt den Kopf. „Come.“ Ich weiß nicht, warum ich ihr folge. Vielleicht,
 weil ihre Stimme nicht nach Befehl klingt, sondern nach Mitleid. Vielleicht,
-weil ich keine andere Wahl habe. Sie hebt ihre Tüten, sie rascheln wie nasse
-Segel, und wir gehen los—durch enge Straßen, hinab zwischen Felsen und Wiesen,
-weg von der Kirche, weg von Vita Bergen.
+weil ich keine andere Wahl habe.
 
-Anfangs halte ich den Abstand, atme flach (Mann, die riecht echt streng — kalter
+Anfangs halte ich Abstand, atme flach (Mann, die riecht echt streng — kalter
 Rauch, alte Wolle, feuchte Pappe), doch ihre Schritte sind ruhig, so sicher, als
 wären die Wege ihr Wohnzimmer. Wir gehen den großen Strom entlang nach Westen,
-(soll ich der verrückten Alten noch folgen?), die Lichter verschwimmen, nasse
+(Soll ich der verrückten Alten noch folgen?), die Lichter verschwimmen, nasse
 Blätter kleben an den Sohlen. Einmal bleibt sie stehen, hebt das Kinn, lauscht,
 als ob die Stadt ihr Antwort gäbe, und nickt nur: weiter.
 
@@ -247,10 +242,10 @@ Glas. Wir tasten an einem niedrigen Geländer entlang, überqueren eine alte,
 schmale Brücke, so dicht über dem Kanal, dass der Wind Algen und Metall in die
 Nase drückt. Auf der Insel riecht es nach Laub und Geschichte; zwischen Bäumen
 duckt sich ein langes, dunkles Gebäude. Die Frau redet kaum, nur manchmal ein
-„Här“ oder „Inte där“, wenn ich falsch treten will. (Ich verliere langsam die
+„Här“ oder „Inte där“, um mich vor einem falschen Tritt zu warnen. (Ich verliere langsam die
 Orientierung.) Ihre Tüten klopfen gegen die Knie, mein Herz gegen die Rippen.
 
-Noch einmal über Wasser, diesmal länger, wieder eine alte - aber sehr große
+Noch einmal über Wasser, diesmal länger, wieder eine alte, aber sehr große
 Brücke und dann Wiese, viel Wiese. Wir verlassen die Straßen und laufen durch
 einen Park, bis wir wieder unter der Brücke angelangt sind, die wir gerade
 überquert haben. Man schaut direkt auf Gamla Stan, die Insel mit dem Schloss

@@ -56,10 +56,10 @@ nur geträumt.
 „Ich begleite dich noch bis zum Bahnhof“, sagt Raija, während wir die Gangway
 hinuntergehen.
 
-Dann sehe ich sie -- ein paar Männer in schwedischen Uniformen. Mein Puls
+Ich sehe ein paar Männer in schwedischen Uniformen. Mein Puls
 schlägt schneller. Sie gehen vorbei. Einer nickt mir zu, freundlich, ohne
-jegliche Skepsis. Ein leichter Druck von Erleichterung fährt durch mich. Sie
-kontrollieren mich nicht. Sie sehen mich nur, als wäre ich ein Reisender wie
+jegliche Skepsis. Eine Welle der Erleichterung fährt durch mich durch. Sie
+kontrollieren mich nicht. Sie sehen mich, als wäre ich nur ein Reisender wie
 jeder andere.
 
 Raijas Griff an meiner Hand ist fest, beruhigend, und gleichzeitig spüre ich das
@@ -80,8 +80,7 @@ leicht und drückt meine Hände noch einmal. „Geh, kleine Eddie. Sei vorsichti
 und komm zurück, wenn alles vorbei ist.“
 
 Ich kann die Tränen kaum zurückhalten. „Ich… danke dir… für alles.“\ „Du hast
-nichts zu danken“, sagt sie und lächelt dabei so, dass die Wärme durch den
-kalten Bahnhof zieht. „Nur geh, jetzt. Ich sehe dich wieder.“
+nichts zu danken“, sagt sie und lächelt zaghaft und zuversichtlich zu gleich. „Nur geh, jetzt. Ich sehe dich wieder.“
 
 Ich umarme sie ein letztes Mal, viel länger, als es nötig wäre. Meine
 Dankbarkeit brennt in mir wie Feuer, Raijas Wärme schmiegt sich an mich wie ein
@@ -90,7 +89,7 @@ Fähre zurück – der Weg bis Jyväskylä ist lang. Und heute Nacht fliegt Jorm
 raus.“ „Ich wünsche dir Kraft. Für alles“, sage ich. Sie nickt, ein kurzes,
 tapferes Lächeln.
 
-„Dir auch Kleines!“ Sie wendet sich ab und verschwindet zwischen den Säulen. Der
+„Dir auch Eddie!“ Sie wendet sich ab und verschwindet zwischen den Säulen. Der
 Platz fühlt sich sofort größer an, kälter.
 
 Die Frontlichter des Zuges tauchen den Bahnsteig in flackerndes Weiß, Metall
@@ -114,17 +113,11 @@ scharf, dann schiebt der Zug die Szene hinter sich. Sie erreichen die Tür des
 Zuges nicht mehr. Zu spät.
 
 Die Kälte sitzt mir plötzlich unter dem Brustbein. Wenn sie nach meiner kurzen
-Festhaltung beim Zoll mitbekommen haben, dass ich die Fähre nehme, dann sind sie
-mir gefolgt – knapp daneben dieses Mal. Wie lange noch knapp? Warten sie in
+Festnahme beim Zoll mitbekommen haben, dass ich die Fähre nehme, dann sind sie
+mir gefolgt – knapp daneben dieses Mal. Aber wie lange noch knapp? Warten sie in
 Stockholm?
 
-Ich klappe mein kleines Heft auf. Optionen. Es gibt nur einen Halt vor
-Stockholm: Arlanda – der Flughafen. Allein der Name ist Warnung genug; wer
-untertauchen will, steigt dort nicht aus. Also weiter bis Centralen, egal, wie
-sehr mir das Herz klopft. Vielleicht zwischen den Wagen wechseln, vielleicht im
-Gedränge bleiben, vielleicht einfach normal wirken.
-
-Ich klappe mein kleines Heft auf. Optionen. Es gibt nur einen Halt vor
+Ich klappe das kleine Zugbegleitheft auf. Optione: Es gibt nur einen Halt vor
 Stockholm: Arlanda – der Flughafen. Allein der Name ist Warnung genug; wer
 untertauchen will, steigt dort nicht aus. Also weiter bis Centralen, egal, wie
 sehr mir das Herz klopft. Vielleicht zwischen den Wagen wechseln, vielleicht im
@@ -144,10 +137,10 @@ zwischen Traum und Flucht. Einmal wache ich auf, weil der Zug irgendwo hält.
 Stille. Kein Bahnhof, nur Wind, der gegen das Blech drückt. Dann wieder
 Bewegung. Weiter Richtung Süden. Richtung Stockholm. Richtung Hoffnung.
 
-Die Minuten ziehen sich wie Gummi. Als wir in Stockholm einfahren, halte ich
-mich zurück. Alle steigen aus. Ich verkrieche mich auf der Toilette, atme so
-leise, dass ich mein eigenes Herz kaum höre. Ich kann nicht aus dem Fenster
-sehen. Ich höre, wie alle Fahrgäste aussteigen. Die Stasi wartet sicher auf dem
+Die Minuten ziehen sich wie Gummi. Als wir am frühen Morgen in Stockholm einfahren, halte ich
+mich zurück. Alle steigen aus. Ich verkrieche mich auf der Toilette, meine Atmung so flach, dass ich
+nicht mal ich sie hören kann. Ich kann nicht aus dem Fenster
+sehen. Inzwischn müssten alle Fahrgäste ausgestiegen sein. Die Stasi wartet sicher auf dem
 Bahnhof. Habe Geduld, Eddie!
 
 Dann setzt sich der Zug langsam wieder in Bewegung. Es sind keine Reisenden
@@ -159,5 +152,5 @@ Ich bleibe sitzen, das Herz hämmert. Nur noch ein paar Minuten, bis sicher ist,
 dass niemand mehr draußen steht. Dann werde ich es wagen.
 
 Ich atme tief durch, halte den Atem an – und spüre, wie sich etwas in mir
-verändert. Angst, Erleichterung und eine winzige, aber helle Funken Hoffnung.
+verändert. Angst, Erleichterung und ein winziger, aber heller Funken Hoffnung.
 Ich bin fast frei.

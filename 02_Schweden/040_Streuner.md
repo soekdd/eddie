@@ -21,7 +21,7 @@ Stein, eigentlich kaum essbar. Ich kaue mechanisch, will meinem Magen wenigstens
 irgendwas geben. Da höre ich ein Kratzen im Laub, ein leises Winseln.
 
 Zwischen den Bäumen taucht er auf. Dünn, das Fell struppig, ein Mischling,
-vielleicht fast so groß wie Schäferhund, nur schrecklich dünn. Die Rippen
+vielleicht fast so groß wie ein Schäferhund, nur schrecklich dünn. Die Rippen
 zeichnen sich unter dem Fell ab, seine Augen sind wach, aber vorsichtig. Er
 bleibt stehen, den Kopf leicht geneigt, als frage er, ob er näherkommen darf.
 
@@ -42,7 +42,7 @@ weit. Ich vergesse Hunger, Kälte, Gestank. Ich teile mit ihm, was ich habe – 
 Stück Brot, eine Scheibe Wurst, die mir jemand hingeworfen hat. Für einen Moment
 sind wir nicht zwei Verlorene, sondern ein Rudel.
 
-Manchmal bleibt er weg, und dann denke ich, das war’s, er kommt nie wieder. Doch
+Manchmal bleibt er so lange weg, und dann denke ich, das war’s, er kommt nie wieder. Doch
 irgendwann taucht er wieder auf, ganz selbstverständlich, als hätte er mich nur
 kurz vergessen. Einmal liegt er so lange neben mir, dass ich im Halbschlaf die
 Hand auf sein Fell lege. Da wird mir klar: Er ist kein Fremder mehr.
