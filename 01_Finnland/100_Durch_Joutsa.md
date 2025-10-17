@@ -109,8 +109,7 @@ Wieder Russisch, leise, fest: „Я помогу тебе… следуй за �
 helfen… folge mir.
 
 Ich nicke, kriege keinen Ton mehr raus, aber meine Beine gehorchen. Ich geh' zu
-ihr, rein in ihre Wärme. 
-Draußen warten Schritte, Rufe, Gefahr. Aber hier, unter ihrem Schutz, ein
-Atemzug Ruhe. Ein Herzschlag Pause.
+ihr, rein in ihre Wärme. Draußen warten Schritte, Rufe, Gefahr. Aber hier, unter
+ihrem Schutz, ein Atemzug Ruhe. Ein Herzschlag Pause.
 
 „Mein Name ist Maria“, sagt sie in klarem Russisch.

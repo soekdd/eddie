@@ -72,9 +72,9 @@ gemacht. Wer braucht schon blaue Augen, wenn er ganze Fichtenstämme heben kann?
 Alle lachen, sogar Peter, der schmunzelnd den Kopf schüttelt. Weniger Muskeln,
 aber diese Augen. Zum Glück muss ich mich nicht entscheiden.
 
-Stattdessen lache ich mit, aus vollem Herzen. Zum ersten Mal seit Tagen fühle
-ich mich nicht wie eine Fremde. Ich spüre, dass mein Geheimnis bei ihnen sicher
-ist. Es ist, als würde von jedem von ihnen ein kleines Stück Wärme zu mir
+Stattdessen lache ich mit, aus vollem Herzen. Mittlerweile fühle ich mich nicht
+mehr wie eine Fremde. Ich spüre, dass mein Geheimnis bei ihnen sicher ist. Es
+ist, als würde von jedem von ihnen ein kleines Stück Wärme zu mir
 herüberwandern.
 
 Draußen rauscht der Regen weiter, dicker und dichter als gestern. Wir sehen uns

@@ -52,8 +52,8 @@ Edmilla wird sterben.
 
 Morgen, nach dem Wettkampf. Punkt. Kein Drumrum. Ich hab's so geplant. Entweder
 sie wird geschnappt oder sie schafft es in die Freiheit. So oder so, ich streife
-sie ab wie 'ne alte Haut. Bei all der Angst ist das die einzige Gewissheit heute: Edmilla word
-morgen Mittag verschwinden. Für immer.
+sie ab wie 'ne alte Haut. Bei all der Angst ist das die einzige Gewissheit
+heute: Edmilla word morgen Mittag verschwinden. Für immer.
 
 Die Luft steht. Warm. Schwer. Sie klebt an mir. Die Hitze hängt im Holz, der
 Bungalow riecht nach Harz und frischer Farbe. Ich liege auf dem Bett, die Decke
@@ -65,8 +65,8 @@ Bei mir? Fehlanzeige. Ich dreh' mich von links nach rechts, wieder zurück.
 Kissen zu heiß, Laken nervt, Kopf noch schlimmer. Immer wieder Augen auf.
 Halbdunkel. Kein richtiges Dunkel. Durch das riesige Fenster fällt dieses blasse
 Mittsommerlicht. Keine Nacht, kein Tag – nur so'n fieses graue Schimmern. Es
-hält mich wach. Und gerade heute bräuchte ich die Erholung. Wirklich.
-Einfach wegdriften, ohne Herzrasen, ohne Kopfkino. Mein Puls hämmert weiter.
+hält mich wach. Und gerade heute bräuchte ich die Erholung. Wirklich. Einfach
+wegdriften, ohne Herzrasen, ohne Kopfkino. Mein Puls hämmert weiter.
 Stillliegen? Träum weiter!
 
 Ich starre an die Decke, Arme hinterm Kopf. Draußen ruft ein Vogel – mitten in
@@ -74,9 +74,9 @@ der Nacht! Weiß selber nicht, ob's schon morgen ist. Genau mein Feeling:
 festgeklemmt zwischen gestern und morgen, in diesem endlosen Dämmerlicht, das
 keinen Schlaf kennt. Jetzt. Gleich. Morgen. Irgendwie dazwischen.
 
-Und dann ballert mir immer wieder das Pokerspiel durch meinen Kopf. Erst das Kribbeln
-vom Gewinn, dann dieser Schock draußen im Halbdunkel zwischen den Hütten. Er.
-Mielke: „Edda?“
+Und dann ballert mir immer wieder das Pokerspiel durch meinen Kopf. Erst das
+Kribbeln vom Gewinn, dann dieser Schock draußen im Halbdunkel zwischen den
+Hütten. Er. Mielke: „Edda?“
 
 Meine Brust wird eng, wenn ich an seinen Anblick denke. Seine Stimme so
 einschüchternd. Sein Atem nach abgestandenem Rauch und Bier. Allein von seinem
@@ -110,17 +110,19 @@ Die nächste Lüge hatte ich kurz zuvor schon geübt:
 
 „Ein Kleid kaufen. So'n finnisches, wie die Mädchen hier tragen. Und vielleicht
 Eis oder Cola für die anderen.“ Sein Blick blieb an mir kleben – hart, prüfend,
-viel zu lang; Mein Gott, in seiner Vorstellung trage ich das Kleid schon. Mir wurde
-kalt. Dennoch hör' ich mich fast flehen: „Kann ich morgen in die Stadt? Bitte!“
+viel zu lang; Mein Gott, in seiner Vorstellung trage ich das Kleid schon. Mir
+wurde kalt. Dennoch hör' ich mich fast flehen: „Kann ich morgen in die Stadt?
+Bitte!“
 
 Er schnaubte. „Nach dem Wettkampf? Ins Einkaufszentrum?“
 
 „Ja.“
 
-„Hm.“ Sein Gesicht blieb hart wie Beton. „Das überlege ich mir noch – versprochen ist
-erst mal nichts. Mir wäre lieber, du hättest die Mathematik im Kopf, um der DDR
-hier einen ersten Platz zu erkämpfen. Statt Kerlen und Kleidchen.“ Er ließ eine
-Pause. „Und morgen trittst du ordentlich auf. Wettkampf, nicht Laufsteg.“
+„Hm.“ Sein Gesicht blieb hart wie Beton. „Das überlege ich mir noch –
+versprochen ist erst mal nichts. Mir wäre lieber, du hättest die Mathematik im
+Kopf, um der DDR hier einen ersten Platz zu erkämpfen. Statt Kerlen und
+Kleidchen.“ Er ließ eine Pause. „Und morgen trittst du ordentlich auf.
+Wettkampf, nicht Laufsteg.“
 
 Dann scheuchte mich mit 'ner Handbewegung ins Bett.
 

@@ -77,10 +77,10 @@ genähert 5/60 ≈ 0,08.
 weg. Nach Norden, Richtung Jyväskylä. Immerhin sind es jetzt zwei winzige
 Zeitfenster im Stundenkreis. Also bleiben rund 16 Prozent, dass ich zufällig
 genau dann auftauche, wenn ein Bus dasteht. Und als Bonus auf den Reststapel der
-Katastrophen: 20 Prozent Risiko, dass der Fahrer meine paar D‑Mark nicht schluckt. Und
-noch mal mindestens 20 Prozent, dass Mielke einfach am nächsten Halt einsteigt, mich packt
-und „zurück nach Hause“ bellt. Multipliziert bleiben Pi mal Daumen etwa zehn
-Prozent Siegquote übrig. Zehn! Für ein Leben.
+Katastrophen: 20 Prozent Risiko, dass der Fahrer meine paar D‑Mark nicht
+schluckt. Und noch mal mindestens 20 Prozent, dass Mielke einfach am nächsten
+Halt einsteigt, mich packt und „zurück nach Hause“ bellt. Multipliziert bleiben
+Pi mal Daumen etwa zehn Prozent Siegquote übrig. Zehn! Für ein Leben.
 
 Außerdem würde ein Bus nach Norden bedeuten, ich müsste nochmal umsteigen – neue
 Zeiten, neue Risiken. Die Quote klettert dadurch nicht, sie fällt.

@@ -107,9 +107,9 @@ optimistisch. Aber in meinem Kopf klingt auch: *Wenn das nicht klappt, haben wir
 keinen Plan B und die Zeit läuft uns davon.* „Deine Haare sehen allerdings
 schrecklich aus.“
 
-Sie drückt mir ein buntes Haarband in die Hand. „Bist du heute Abend noch da,
-gehen wir zu einer Freundin und schneiden sie raspelkurz, damit die Schuhcreme
-endlich ganz verschwindet.“
+Sie bindet mir ein buntes Band ins Haar. „Bist du heute Abend noch da, gehen wir
+zu einer Freundin und schneiden sie raspelkurz, damit die Schuhcreme endlich
+ganz verschwindet.“
 
 So ausstaffiert marschiere ich zur langen Schlange der wartenden Busfahrer. Ich
 fühle mich nackt. Billig. Als hätte ich eine fremde Hülle übergestreift, die an

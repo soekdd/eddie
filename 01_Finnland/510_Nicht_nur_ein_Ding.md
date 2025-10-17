@@ -245,8 +245,7 @@ Grenzen gelten.“
 
 Wir frühstücken in Ruhe. Butter, Preiselbeeren, viel Tee. Das Schweigen wird
 warm. Später ziehen wir Jacken an und gehen zum Hafen. Sini hält bewusst Abstand
-– nicht zu nah, nicht zu weit. Der Wind riecht nach Salz und Diesel, Möwen
-kreischen, Licht flirrt auf dem Wasser.
+– nicht zu nah, nicht zu weit. Die Möwen kreischen, Licht flirrt auf dem Wasser.
 
 Auf der Bank schenkt sie mir aus der Thermoskanne ein. „Nur Kaffee. Du gießt
 selbst ein.“ – „Sehr großzügig“, murmele ich, und merke, wie mein Brustkorb
@@ -267,5 +266,5 @@ Traurigkeit ist noch da, hat aber ihre Schwere verloren.
 kriegen das hin.“
 
 Draußen hellt der Himmel auf. Die Abmachung steht, mein Nein steht, und ihr Ja
-zu meinen Grenzen auch. Zum ersten Mal seit gestern denke ich: Heute kann gut
+zu meinen Grenzen auch. Und langsam wächst wieder die Gewissheit: Heute kann gut
 werden.

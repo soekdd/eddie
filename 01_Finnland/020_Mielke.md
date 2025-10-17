@@ -69,7 +69,7 @@ nicht zur NVA. Wäre ich ein Junge gewesen, hätte ich mir spätestens da gesagt
 „Alter, renn! Renn, so schnell du kannst!“
 
 Am meisten leiden die Leute, die ein bisschen mehr Herz und ein bisschen mehr
-Hirn haben als der Rest. Solche wie ich. Kein Wunder, dass ich ihn sofort
-Mielke getauft hab. Und witzigerweise – hier in Finnland hab ich ein paar
-Schüler gehört, die den Namen auch schon flüstern. Ich hab den nie laut gesagt!
-Aber die Ähnlichkeit ist einfach zu krass.
+Hirn haben als der Rest. Solche wie ich. Kein Wunder, dass ich ihn sofort Mielke
+getauft hab. Und witzigerweise – hier in Finnland hab ich ein paar Schüler
+gehört, die den Namen auch schon flüstern. Ich hab den nie laut gesagt! Aber die
+Ähnlichkeit ist einfach zu krass.

@@ -33,7 +33,6 @@ health_flags:
 sensory_focus:
   - 'Regen als ständiges Prasseln'
   - 'Windböen auf Metallbrücke'
-  - 'Geruch von Putzmittel im Terminal'
   - 'kalter Schlamm, nasse Kleidung'
   - 'Lichter der Stadt als fernes Flimmern'
 overnights:
@@ -130,8 +129,7 @@ Münzen auf den Tresen, als würden sie an meinen Fingern kleben. Die Frau an de
 Kasse schaut mich an, als wäre ich ein Gespenst. Ich kann ihr nicht in die Augen
 sehen. Ich kaufe auch Mückenspray, das letzte Döschen, halb zerdrückt, und eine
 Tube Creme, ohne zu verstehen, was draufsteht. Das Spray riecht scharf, die
-Creme kühlt wie ein kleines Wunder. Zum ersten Mal seit Wochen kratze ich nicht
-sofort bis aufs Blut.
+Creme kühlt wie ein kleines Wunder. Endlich kratze ich nicht mehr bis aufs Blut.
 
 Doch die Wahrheit kommt nicht im Laden. Sie wartet, bis ich allein bin, in der
 Dunkelheit der Laavu bei Haarinneva. Ich sitze da, das Brot trocken im Mund, die

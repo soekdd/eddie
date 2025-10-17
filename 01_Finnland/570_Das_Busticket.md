@@ -44,7 +44,7 @@ proofreading:
 
 # Das Busticket
 
-Der nächste Morgen riecht nach nassem Asphalt und zu viel Kaffee. Ich stehe
+Der nächste Morgen beginnt auf nassem Asphalt mit zu viel Kaffee. Ich stehe
 wieder bei den Reisebussen, und diesmal bin ich nicht hier, um zu üben -- heute
 muss es klappen. Ich habe Sinis Rock, ihre Jeansjacke, sogar das knappe Top
 darunter. Meine Haare sind jetzt so kurz, dass selbst der Wind kaum eine Chance
@@ -69,13 +69,12 @@ drückt mich so fest, dass mir kurz die Luft wegbleibt. „Danke, dass du mich
 nicht aufgegeben hast.“ „Vergiss nicht, mir zu schreiben. Sofort, wenn du drüben
 bist.“
 
-Wir halten uns einen Moment zu lange. Ich löse mich zuerst -- nicht, weil ich
+Wir halten uns einen Moment zu lange. Ich löse mich zuerst - nicht, weil ich
 will, sondern weil ich sonst vielleicht gar nicht mehr gehe.
 
-Der Bus rollt aufs Fährdeck, ich sitze direkt hinter dem Fahrer. Die Sitze
-riechen nach alter Polsterung, das Radio dudelt finnische Schlager. Ich schaue
-zu den Männern, die das Fahrzeug einweisen, dann zur grauen Wand des
-Zollgebäudes, die näherkommt.
+Der Bus rollt aufs Fährdeck, ich sitze direkt hinter dem Fahrer. Das Radio
+dudelt finnische Schlager. Ich schaue zu den Männern, die das Fahrzeug
+einweisen, dann zur grauen Wand des Zollgebäudes, die näherkommt.
 
 Zwei Beamte steigen ein, freundlich, aber geschäftsmäßig. „Papers, please.“ Ich
 reiche meine DDR-Dokumente rüber, wie ich's schon so oft getan habe. Nur dass es
@@ -98,11 +97,14 @@ was sie jetzt mit mir tun, oder der Gedanke, dass Sini glaubt, ich sei schon
 längst auf See. Tränen schießen mir in die Augen.
 
 Da plötzlich knallt die Tür auf. Sini. In ihrer Fährterminal-Weste, mit diesem
-Blick, der keine Widerrede duldet. „She's with me.“ „We can't—“ „She's with me,“
-wiederholt sie, so fest, dass keiner der Männer noch ein zweites Argument wagt.
+Blick, der keine Widerrede duldet. „Hän kuuluu minulle! She's with me.“ „We
+can't—“ „She's with me,“ wiederholt sie, so fest, dass keiner der Männer noch
+ein zweites Argument wagt.
 
 Ich weiß nicht, was sie ihnen erzählt. Vielleicht will ich's auch gar nicht
-wissen. Aber fünf Minuten später sind wir draußen, und die Fähre ist längst weg.
+wissen. Meinen Rucksack, meinen Pass und mich selbst hat sie einfach
+eingesammelt. Fünf Minuten später sind wir draußen, und die Fähre ist längst
+weg.
 
 Wir stehen schweigend vor den Toren des Terminals. Das Dröhnen der
 Schiffsmotoren klingt noch in meinen Ohren, wie ein Hohn.

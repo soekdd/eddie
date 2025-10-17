@@ -221,5 +221,4 @@ er’s mit mir zu tun!“
 Sabine wischt sich tatsächlich eine Träne aus dem Auge, lacht gleichzeitig über
 sich selbst. „Mensch, Eddie … du bist echt irre mutig.“
 
-Ich sitze da, zwischen ihnen, und spüre zum ersten Mal seit Wochen so etwas wie
-Rückhalt.
+Ich sitze da, zwischen ihnen, und spüre ihren Rückhalt.
