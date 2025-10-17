@@ -80,7 +80,7 @@ Mielke! Wie hat er mich so schnell gefunden? Mein Herz pocht bis zum Hals.
 Maria entgegnet etwas auf Finnisch. Mielke wechselt auf Russisch: „Wir suchen
 ein junges Mädchen!“
 
-Weitere Personen scheinen die Kirche zu betreten. Ich bin erst eine halbe Stunde
+Weitere Personen scheinen die Kirche zu betreten. Ich bin keine halbe Stunde
 weg. Wie kann er jetzt schon Verstärkung bekommen haben?
 
 Er wiederholt seine Frage, diesmal etwas fordernder.
@@ -162,7 +162,7 @@ Und dann…
 …ein schneller Griff unter das Tischtuch an meinen Knöchel. Ein Mann zieht mich
 grob über den Boden hinaus vor den Altar.
 
-Maria kommt angerannt, doch einer der anderen Männer hält sie grob zurück.
+Maria kommt angerannt, doch einer der anderen Männer hält sie hart zurück.
 
 Mielke grinst mich an. „Haben wir dich!“, lacht er. „Das war ja eine kurze
 Flucht! Du weißt, was wir mit Verrätern machen?“
@@ -170,7 +170,7 @@ Flucht! Du weißt, was wir mit Verrätern machen?“
 Ich liege immer noch auf dem Boden. Kann mich nicht bewegen vor Schreck. Mir
 laufen die Tränen.
 
-Was bin ich für eine Verliererin? Der ganze Plan, die Vorbereitung, die ständige
+Was bin ich für eine Versagerin? Der ganze Plan, die Vorbereitung, die ständige
 Angst, das Sichverstellen, die blöden Kleidchen tragen – alles schon nach
 wenigen Minuten gescheitert.
 
