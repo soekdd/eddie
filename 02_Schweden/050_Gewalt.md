@@ -170,7 +170,4 @@ die an mir zerrten. Der Traum von Sini, so warm, so hell, und dann der Absturz
 zurück in die Dunkelheit. Ich schüttle den Kopf, will es wegwischen, doch es
 bleibt.
 
-So kann ich nicht weitermachen. Nicht sieben
-Monate. Nicht bis Mai. Bis Mai ist eine Ewigkeit, eine Zahl, die nur in
-Mathebüchern Sinn ergibt, nicht in meinem Leben. Aber gleichzeitig – er ist der
-einzige Fixpunkt, den ich habe. Achtzehn. Frei. Niemand kann mich zurückholen.
+Ich brauche einen neuen Plan.
