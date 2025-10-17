@@ -170,4 +170,4 @@ die an mir zerrten. Der Traum von Sini, so warm, so hell, und dann der Absturz
 zurück in die Dunkelheit. Ich schüttle den Kopf, will es wegwischen, doch es
 bleibt.
 
-Ich brauche einen neuen Plan.
+Wieder fällt mein Blick auf Streuner. Ich brauche ganz schnell einen neuen Plan.
