@@ -208,13 +208,12 @@ sie „Ambulanssi“ sagt. Nein. Nein. Bitte nicht. Ich habe keine Geschichte, d
 ich einem Krankenwagen erzählen kann.
 
 Sie hilft mir auf, erstaunlich stark. Ich selbst bin ihr keine Hilfe dabei. Wir
-schleppen uns ins kleine Büro des Terminals. Es riecht nach Kaffee, Heizkörpern
-und trockener Luft. Jemand gibt mir eine Decke. Das Mädchen redet schnell und
-leise, immer wieder fällt das Wort „tyttö“, Mädchen, und ich weiß nicht, ob ich
-gemeint bin oder sie. Ich liege auf einer durchgesessenen Couch und sehe ihr zu,
-wie sie meinen Becher füllt, wie sie meine nassen Sachen auf Heizungsrohre
-drapiert, wie sie das Fenster einen Spalt schließt, als der Wind gegen die Tür
-hämmert.
+schleppen uns ins kleine Büro des Terminals. Jemand gibt mir eine Decke. Das
+Mädchen redet schnell und leise, immer wieder fällt das Wort „tyttö“, Mädchen,
+und ich weiß nicht, ob ich gemeint bin oder sie. Ich liege auf einer
+durchgesessenen Couch und sehe ihr zu, wie sie meinen Becher füllt, wie sie
+meine nassen Sachen auf Heizungsrohre drapiert, wie sie das Fenster einen Spalt
+schließt, als der Wind gegen die Tür hämmert.
 
 „Ambulanssi?“ fragt sie noch mal. Ich schüttle den Kopf. „Nicht… nicht heute.“
 Sie nickt, als hätte sie damit gerechnet. Dann setzt sie sich auf einen Stuhl

@@ -50,7 +50,6 @@ sensory_focus:
   - 'kariertes Landschafts-Raster (Gräben im rechten Winkel)'
   - 'nasses Holz, Lkw-Spuren, gequetschter Frosch'
   - 'Zählgeräusch der Schritte (Pace-Counting)'
-  - 'Geruch von Zuckerwasser/Tee, Asche in der Tasse'
   - 'das permanente Prasseln des Regens hinter Brettern'
 narrative_signposts:
   getting_lost: 'Verlaufen zwischen zwei Forstwegen; vermeintlich „richtige“ Wahl führt in Graben'

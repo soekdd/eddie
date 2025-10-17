@@ -100,8 +100,8 @@ obwohl der Kaffee heiß ist. Ich nicke stumm.
 
 Am Nachmittag mache ich mich auf den Weg. Ohne Rucksack. Jeder Schritt zieht
 noch, aber ich halte durch. Eine Stunde über Pflastersteine, vorbei am kleinen
-Yachthafen, über die Brücke nach Vasklot. Der Wind weht scharf, riecht nach Salz
-und Diesel.
+Yachthafen, über die Brücke nach Vasklot. Der Wind weht scharf, treibt Salz- und
+Dieselgeruch herüber.
 
 Am Terminal drängen Busse. Ich taste mich an die Fahrer heran, frage nach
 Tickets. Die Antworten sind halbherzig: „Heute nicht mehr, Mädchen.“ – „Frag am

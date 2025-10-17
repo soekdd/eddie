@@ -50,11 +50,11 @@ proofreading:
 
 # Keine Kekse mehr
 
-Ein anderer Abend die gleiche gemütliche Küche. Der Teig steckt voller Schokolade
-und Abenteuer. Ich hocke barfuß auf Sinis Küchenstuhl, rühre mit einem
-Holzlöffel, der aussieht, als hätte schon ihre Großmutter damit Suppe gekocht.
-Sini lehnt am Herd, schiebt die Haare aus dem Gesicht und versucht, das Rezept
-auf Finnisch zu entziffern.
+Ein anderer Abend die gleiche gemütliche Küche. Der Teig steckt voller
+Schokolade und Abenteuer. Ich hocke barfuß auf Sinis Küchenstuhl, rühre mit
+einem Holzlöffel, der aussieht, als hätte schon ihre Großmutter damit Suppe
+gekocht. Sini lehnt am Herd, schiebt die Haare aus dem Gesicht und versucht, das
+Rezept auf Finnisch zu entziffern.
 
 „Kuinka paljon tätä?“ lese ich laut. „Keine Ahnung“, sagt sie und grinst. „Mach
 einfach rein. Wird schon.“
