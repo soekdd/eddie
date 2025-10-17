@@ -54,7 +54,7 @@ gleichzeitig.
 
 Mein Kopf zeigt mir Busbahnhöfe mit Gewusel wie in Berlin oder Dresden: Leute
 überall, man kann easy irgendwo verschwinden. Aber hier in Finnland? Alles flach
-wie’m Brett. Kleine Häuser, Straßen so breit, dass man schon von weitem wie’n
+wie’n Brett. Kleine Häuser, Straßen so breit, dass man schon von weitem wie’n
 bunter Hund auffällt. Die Haltestelle hab ich gestern gesehen: ein einzelner
 Steig an der Hauptstraße, kleines offenes Häuschen, dahinter ein paar mickrige
 Büsche. Verstecken? Haha. Ich müsste mich da schon ins Gras legen und so tun,
@@ -77,8 +77,8 @@ genähert 5/60 ≈ 0,08.
 weg. Nach Norden, Richtung Jyväskylä. Immerhin sind es jetzt zwei winzige
 Zeitfenster im Stundenkreis. Also bleiben rund 16 Prozent, dass ich zufällig
 genau dann auftauche, wenn ein Bus dasteht. Und als Bonus auf den Reststapel der
-Katastrophen: 80 Prozent Chance, dass der Fahrer meine paar D‑Mark schluckt. Und
-noch mal 80 Prozent, dass Mielke nicht am nächsten Halt einsteigt, mich packt
+Katastrophen: 20 Prozent Risiko, dass der Fahrer meine paar D‑Mark nicht schluckt. Und
+noch mal mindestens 20 Prozent, dass Mielke einfach am nächsten Halt einsteigt, mich packt
 und „zurück nach Hause“ bellt. Multipliziert bleiben Pi mal Daumen etwa zehn
 Prozent Siegquote übrig. Zehn! Für ein Leben.
 
@@ -94,7 +94,7 @@ Ich schreibe die Brüche in Gedanken an die Decke, schiebe Pfeile im Kopf hin un
 her, streiche sie wieder. Es wird nicht besser.
 
 Und falls der Bus nur drei Minuten hält? Kann sein, wenn nur wenige Menschen
-umsteigen. Dann rutscht die Chance auf rund zehn Prozent. Da kann ich gleich
+umsteigen. Dann rutscht die Chance auf unter sechs Prozent. Da kann ich gleich
 Lotto spielen.
 
 Ach ja, ich habe inzwischen finnische Markka. Währungsproblem gestrichen. Aber
