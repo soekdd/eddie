@@ -17,11 +17,6 @@ proofreading: {}
 
 # Nach dem Übergriff: Kälte & Klarheit
 
-Ich laufe immer noch wie im Traum durch die Straßen. Meine Hände zittern, mein
-Gesicht brennt von der Wunde, mein Herz rast, aber in mir ist eine neue, kalte
-Klarheit. Der Hund drückt sich an mein Bein, als wüsste er, dass ich kurz davor
-bin, zusammenzubrechen.
-
 Und dann denke ich an ihn. Den Jungen. „Wenn du mal Hilfe brauchst“, hatte er
 leise gesagt.
 
