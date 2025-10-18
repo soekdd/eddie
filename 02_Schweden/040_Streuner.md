@@ -5,13 +5,39 @@ daytime: 'morning'
 place: 'Rålambshovsparken, Centralstation Stockholm, northern city parts'
 persons:
   - 'Eddie'
-synopsis: 'Eddie freundet sich mit einem hungrigen Hund an; aus geteiltem Brot wird stille Verbundenheit – der Streuner wird zu ihrem Anker im Straßenleben.'
+synopsis: 'Unter der Brücke finde ich eine fremde Tasche – Decke, Pullover, Schokolade, ein Teddy – und wenig später teilt ein ausgehungerter Hund mein Brot; der Streuner wird mein leiser Anker.'
 mood: ''
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'SWE_Stockholm_Eddie_trifft_Streuner.png'
-proofreading: {}
+proofreading:
+  Kapitel: '040_Streuner'
+  Ton:
+    Einschaetzung: 'Zart und nah; stille Wärme gegen Kälte und Scham, kleine Gesten tragen die Szene.'
+    Kritik: 'Einzelne Wiederholungen dämpfen die Spannung; einige Bilder bleiben allgemein (Spender, Hundebegegnung, Bibliothekswärme nur angedeutet).'
+    Fix: 'Zwei präzise Sinnesdetails ergänzen (z. B. Decken-Geruch, Atem des Hundes); 1–2 Wiederholungen straffen/varieren; ein kurzer Atembruch für mehr Unmittelbarkeit.'
+    Note: 2
+  Logik:
+    Einschaetzung: 'Kleiner, klarer Bogen: Tasche → Begegnungen → Bindung → Benennung; Ursache/Wirkung stimmig.'
+    Kritik: 'Zeitführung bleibt vage („ein paar Tage später“, „am nächsten Tag“); Spender bleibt völlig im Off; Ortssplitter (Park/City) ohne Funktion.'
+    Fix: 'Eine knappe Zeitmarke setzen (erste Frostnacht); den Spender minimal rahmen (Spur/Indiz statt Erklärung); irrelevante Ortsnennungen vermeiden oder verankern.'
+    Note: 2
+  Charaktere:
+    Einschaetzung: 'Eddie verletzlich, aber handlungsfähig; der Hund als Spiegel/Anker funktioniert; der unsichtbare Spender schafft leise Menschlichkeit.'
+    Kritik: 'Der Hund bleibt generisch; Eddies jugendlicher Trotz blitzt nur kurz; Spenderfigur bleibt komplett konturlos.'
+    Fix: 'Dem Hund ein prägnantes Merkmal geben (z. B. hinkender Schritt, schiefes Ohr); einen kurzen, jugendlichen Einwurf setzen; eine kleine Spur des Spenders (Knoten, Duft, Zettelrest).'
+    Note: 2
+  Sprache:
+    Einschaetzung: 'Klares Präsens, ruhiger Fluss, bildhafte, körpernahe Details.'
+    Kritik: 'Vereinzelte Redundanzen; gelegentlich lange Sätze ohne Rhythmuswechsel.'
+    Fix: 'Doppelnennungen kürzen; zwei Sätze teilen für Rhythmus; Adverbien prüfen und sparsamer setzen.'
+    Note: 2
+  Fazit:
+    Staerken: 'Intime Nähe; glaubwürdige Not und Trost; starke Symbolik durch den Hund; stimmige, leise Dramaturgie.'
+    Schwaechen: 'Zeit-/Ortsmarker diffus; Hund und Spender ohne markantes Detail; leichte Wiederholung.'
+    Fix: 'Präzise Marker und 1–2 neue, sinnliche Details; Wiederholungen straffen; ein charakteristisches Merkmal für Hund/Spender setzen.'
+    Note: 2
 ---
 
 # Streuner

@@ -199,3 +199,33 @@ alles liegt: Unterwäsche, Strümpfe, Tampons, Seife – alles ordentlich gefalt
 als wolle jemand, dass man sich wieder menschlich fühlt. Ich nehme, was ich
 brauche, nicht mehr. Als ich die Tür hinter mir schließe, riecht es zum ersten
 Mal seit Wochen nach Sauberkeit und Hoffnung.
+
+Ich gehe denselben Weg wie immer, hinunter zum Wasser, wo die Brücke den Himmel
+zerschneidet. Mein Platz liegt im Schatten, windgeschützt, halb hinter einer
+Betonstrebe. Der Boden ist hart, aber vertraut. Vielleicht zum letzten Mal,
+denke ich, als ich die Tasche abstelle. Vielleicht wird Vidar wirklich etwas
+gefunden haben.
+
+Ich bereite unser Lager und muss an ihn denken – wie er mit einen Fingern
+spielte, als wüsste er selbst nicht, was er sagen sollte. Seine ruhige Stimme,
+seine Mandelaugen, die manchmal lachen, bevor sein Mund es tut. Und dieses
+Lächeln, das nichts von Mitleid hatte, nur Wärme. Er war einfach da, ohne
+Fragen, ohne Urteil. Ich habe in den letzten Monaten viele Gesichter gesehen,
+aber keins, das so ehrlich war.
+
+„Vidar“, murmele ich in die Dunkelheit, nur um zu hören, wie der Name klingt.
+Weich. Gut. Wie etwas, das man behalten will.
+
+Streuner stupst mich mit der Nase an, legt sich dicht an meine Seite. Ich ziehe
+die Decke über uns, die alte, schwere, die nach allem riecht, was wir
+überstanden haben. Seine Wärme kriecht langsam in mich hinein, Herzschlag gegen
+Herzschlag. Über uns rauscht der Verkehr, ein gleichmäßiges Donnern, das wie
+ferne Brandung klingt. Ich streiche ihm über den Kopf, er seufzt leise.
+
+„Nur noch diese Nacht“, flüstere ich. „Vielleicht finden wir morgen ein
+Zuhause.“
+
+Er hebt kurz den Kopf, als hätte er verstanden, dann schmiegt er sich wieder an
+mich. Ich schließe die Augen. Der Beton unter mir ist kalt, aber in meiner Brust
+glimmt etwas Warmes – wie das Nachleuchten eines Blicks. Vidars Blick. Dann wird
+alles still, und wir schlafen ein.

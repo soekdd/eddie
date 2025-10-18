@@ -7,13 +7,39 @@ daytime: 'evening'
 place: 'Rålambshovsparken'
 persons:
   - 'Eddie'
-synopsis: 'In Rålambshovsparken findet Eddie einen notdürftigen Schlafplatz unter einer Brücke; zwischen Kälte, Hunger und Scham wärmt sie sich in Bibliotheken, zählt die Monate bis zu ihrem 18. Geburtstag – und hält einfach durch.'
+synopsis: 'Unter der Brücke im Rålambshovsparken friere ich, schäme mich für meinen Geruch, wärme mich in Bibliotheken und zähle die Wochen bis zu meinem achtzehnten Geburtstag – einfach durchhalten.'
 mood: ''
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'SWE_Stockholm_Park.png'
-proofreading: {}
+proofreading:
+  Kapitel: '030_Ralambshovsparken'
+  Ton:
+    Einschaetzung: 'Nah, still und körperlich spürbar; Kälte, Geruch und Scham tragen die Szene, der leise Hoffnungsfaden (18. Geburtstag) hält sie zusammen.'
+    Kritik: 'Stellenweise wiederholend und leicht erklärend; einzelne Bilder (Bibliothek, Helfer) bleiben allgemein; Atempausen könnten punktuell schärfer gesetzt sein.'
+    Fix: '1–2 konkrete, sinnliche Mini-Bilder ergänzen (z. B. ein nasser Buchrücken, das Surren der Heizung, eine Handbewegung des Jungen); ein, zwei Sätze teilen/abbrechen, um Atem zu geben; Exposition durch kurze Handlung zeigen.'
+    Note: 2
+  Logik:
+    Einschaetzung: 'Klarer Bogen: Angst → Park/Überleben → Hilfe/Hinweis → Bibliotheken → Warten auf Volljährigkeit.'
+    Kritik: 'Zeitfenster wirkt diffus (Wochen, aber wenige Marker); Ortsdetails (Meer/See) sind nicht ganz eindeutig; Wiederkehr der Bibliotheken ohne klare Progression.'
+    Fix: 'Eine knappe Zeitmarke oder Wetterzäsur setzen (erster Reif, erster Schnee); Ort minimal erden (Wasser/Brücke präziser); beim zweiten Bibliotheksbesuch eine kleine Veränderung zeigen.'
+    Note: 3
+  Charaktere:
+    Einschaetzung: 'Eddie verletzlich und zäh; Nebenfiguren (Helfer, Junge) stützen, ohne zu dominieren; Sini-Erinnerung als feiner Resonanzpunkt.'
+    Kritik: 'Nebenfiguren bleiben schemenhaft; Eddies jugendliche Reibung zeigt sich nur in Momenten; Sini-Anklang könnte etwas deutlicher emotional verknüpft sein.'
+    Fix: 'Jungen mit einem markanten Detail versehen (Stimme, Geste, Dialekt); Eddie 1 kurzen, jugendlich‑rotzigen Einwurf gönnen; Sini‑Echo mit einem konkreten Bild anklingen lassen.'
+    Note: 3
+  Sprache:
+    Einschaetzung: 'Präsens, klare Sätze, dichte Sinneseindrücke; ruhiger, eindringlicher Fluss.'
+    Kritik: 'Vereinzelte Wiederholungen und leichte Holprigkeiten; ein, zwei Füllwörter/Adverbien könnten straffer sein; Interpunktion bei Ellipsen uneinheitlich.'
+    Fix: 'Doppelte Aussagen kürzen, Adverbien prüfen; Satzlängen variieren (ein kurzer Schlag zwischendurch); Ellipsen sauber setzen oder durch Gedankenstrich ersetzen.'
+    Note: 3
+  Fazit:
+    Staerken: 'Unmittelbare Körperlichkeit; konsequente Innenperspektive; glaubwürdige Scham und Kälte; tragfähiger Hoffnungsanker.'
+    Schwaechen: 'Etwas Wiederholung; verwaschene Zeit-/Ortsmarker; Nebenfiguren blass.'
+    Fix: 'Kleine, präzise Szenenmarker setzen; ein markantes Detail pro Nebenfigur; Wiederholungen straffen und Atempausen akzentuieren.'
+    Note: 3
 ---
 
 # Rålambshovsparken

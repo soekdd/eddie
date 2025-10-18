@@ -17,7 +17,9 @@ proofreading: {}
 
 # Der Taschenrechner
 
-Ich laufe. Ein kleine Ewigkeit schon, Streuner ist wie immer an meiner Seite.
+Bevor ich Vidar am Abend wiedersehe, suche ich mir ein wärmes Plätzchen für den
+Tag. Wieder eine Bibliothek, diesmal etwas außerhalb, um Uni-Campus. Also laufe
+ich. Ein kleine Ewigkeit schon, Streuner ist wie immer an meiner Seite.
 Stockholm ist riesig, die vielen Inseln lassen es noch weiter
 auseinandertrifften Der Wind pfeift über die Brücken, trägt den Geruch von
 nassem Asphalt und Laub mit sich. 1½ Stunden, sagen sie – von der Stadt bis nach
@@ -150,9 +152,10 @@ nach links gedreht. Ich wickle ihn in meine letzten sauberen Sachen, wie etwas
 zerbrechliches, zartes.
 
 Draußen ist die Luft kälter. Streuner drückt seine Nase in meine Kniekehle. Ich
-schwebe fast die Straße entlang, in Richtung Sofia Kyrka. Auf halbem Weg biege
-ich ab zur Stadsmission. Vidar ist da. Streuner wittert ihn zuerst, wedelt,
-zieht. Ich halte ihm den Schatz hin, wie ein Kind eine Muschel.
+schwebe fast die Straßen entlang. in Richtung Slussen zur Stadsmission. Schon auf
+Gamla Stan sehe ich Vidar. Er ist wohl selbst noch auf dem Weg zur Mission.
+Streuner wittert ihn zuerst, wedelt, bellt kurz. Eine schüchterne Begrüßung.
+Ich halte ihm den Schatz hin, wie ein Kind eine Muschel.
 
 „Was hast du da?“ fragt Vidar. Ein Schatten Skepsis in seiner Stimme. „Eddie… du
 hast den doch nicht…?“
@@ -174,6 +177,6 @@ gekommen? Von Anfang an. Ich will nichts verpassen.“
 Ich atme ein, der Rauch der Stadt, Metall und Schnee. Der Rechner liegt gegen
 meine Rippen, ruhig wie ein Herz, das ich mir borgen durfte. Ich beginne zu
 erzählen. Schritt für Schritt. Und er hört zu, ohne zu drängen, mit dieser
-geduldigen Wärme, die länger hält als Suppe. Bis wir am Frauenhaus sind,
+geduldigen Wärme, die länger hält als Suppe. Bis wir an meiner Hütte sind,
 begleitet er uns, noch ein paar Meter, noch ein paar Sätze, als könne er mich
 mit Zuhören durch die Nacht tragen.
