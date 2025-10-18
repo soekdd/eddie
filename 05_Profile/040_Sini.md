@@ -2,7 +2,7 @@
 synopsis: 'Sini: 22‑jährige finnische Halb‑Sámi mit blauem Iro; charismatisch, pragmatisch und humorvoll provokant – mischt Charme und Haltung, mit blinden Flecken.'
 ---
 
-# Sinikka
+# Sinikka Lempinen
 
 Sini: 22‑jährige finnische Halb‑Sámi mit blauem Iro; charismatisch, pragmatisch
 und humorvoll provokant – mischt Charme und Haltung, mit blinden Flecken.
@@ -13,7 +13,7 @@ _AKA:_ Sini
 - Age: 22
 - Birth Year: 1963
 - Origin: Finnland, städtisches Randgebiet von Turku
-- Address: Sinikka Virtanen / Vöyrinkatu 25 / 65100 Vaasa / SUOMI - FINLAND
+- Address: Vöyrinkatu 25 / 65100 Vaasa / SUOMI - FINLAND
 
 ## Family
 - Background: Obere Mittelschicht

@@ -2,7 +2,7 @@
 synopsis: 'Vidar: 17‑jähriger Stockholmer mit koreanischen Wurzeln – still, gläubig, hilfsbereit; ringt mit Fremdheitsgefühl und wird Eddies leiser Halt.'
 ---
 
-# Vidar
+# Vidar Gullström
 
 Vidar: 17‑jähriger Stockholmer mit koreanischen Wurzeln – still, gläubig,
 hilfsbereit; ringt mit Fremdheitsgefühl und wird Eddies leiser Halt.
@@ -12,6 +12,7 @@ hilfsbereit; ringt mit Fremdheitsgefühl und wird Eddies leiser Halt.
 - Birth Year: 1968
 - Origin: Stockholm, Schweden
 - Heritage: südkoreanische Wurzeln, adoptiert in gehobene Mittelschichtfamilie
+- Address: Baggensgatan 29, 111 31 Stockholm, Sweden
 
 ## Family
 - Background: gebildete, stabile Mittelschichtfamilie in Stockholm; Eltern liebevoll, verstehen seine innere Fremdheit aber nicht ganz

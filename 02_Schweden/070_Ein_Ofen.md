@@ -101,13 +101,14 @@ stehen.
 „Hier“, sagt er, „das ist sie.“
 
 Ich halte den Atem an. Die Hütte ist winzig, aber wunderschön. Rote Wände, weiße
-Fensterrahmen, eine kleine Veranda.  Sie liegt fast am Wasser, nur ein Zaun und
+Fensterrahmen, eine kleine Veranda. Sie liegt fast am Wasser, nur ein Zaun und
 ein kleiner Weg sind noch dazwischen. Auf der anderen Seite liegt das Schloss
 Karlsberg, wie Vidar meint. In der klaren Luft liegt ein Hauch von Holz, Herbst,
 und Sicherheit.
 
 Drinnen ist es kühl. Ein schmales Bett, ein Tisch, ein Waschbecken, daneben ein
-eiserner Ofen mit einer kleinen Leitung, die nach draußen zu einem großen Metallfass führt.
+eiserner Ofen mit einer kleinen Leitung, die nach draußen zu einem großen
+Metallfass führt.
 
 Vidar geht in die Hocke, versucht, den Ofen zu starten. Ein Zischen, dann
 Stille. Noch mal. Nichts.

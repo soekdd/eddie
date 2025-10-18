@@ -2,7 +2,7 @@
 synopsis: 'Vidars Mutter: dominante, fürsorgliche Stockholmer Mittelschicht – kontrollierend, aber lernfähig; pendelt zwischen Schutzinstinkt und Offenheit gegenüber Eddie.'
 ---
 
-# unbenannt (Vidars Mutter)
+# Sofia Gullström
 
 Vidars Mutter: dominante, fürsorgliche Stockholmer Mittelschicht –
 kontrollierend, aber lernfähig; pendelt zwischen Schutzinstinkt und Offenheit
@@ -13,6 +13,7 @@ gegenüber Eddie.
 - Origin: Stockholm, Schweden
 - Family Status: gehobene, gebildete Mittelschicht
 - Relation To Vidar: Mutter
+- Address: Baggensgatan 29, 111 31 Stockholm, Sweden
 
 ## Family
 - Background: stabile, gebildete Familie; gibt Vidar eine liebevolle, aber sehr kontrollierende Erziehung
@@ -20,7 +21,7 @@ gegenüber Eddie.
 
 ## Appearance Static
 - Body: normal gebaut, gepflegt, energisch im Auftreten
-- Hair: hellbraun oder dunkelblond, mittellang, ordentlich frisiert
+- Hair: dunkelblond, mittellang, ordentlich frisiert
 - Eyes: hell (blau oder grün), aufmerksam, durchdringender Blick
 - Skin: hell, gepflegt, wirkt gesund
 - Clothing:

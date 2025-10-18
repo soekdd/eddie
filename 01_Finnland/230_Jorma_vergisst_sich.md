@@ -64,8 +64,8 @@ aber fahrig, von Alkohol geschwächt. Ich reiße mich los, stoße ihn hart vor d
 Brust.
 
 „Lass mich in Ruhe!“ schreie ich, doch er kommt wieder auf mich zu, taumelnd,
-und beugt sich noch weiter herunter. Der Geruch nach Schnaps schlägt mir ins
-Gesicht. Verdammt, er versucht, mich zu küssen.
+und beugt sich noch weiter herunter. Eine Welle seines Schnaps-Athmens schlägt
+mir ins Gesicht. Verdammt, er versucht, mich zu küssen.
 
 Mir schießt das Blut in den Kopf. Mein Blick verengt sich zu einem Tunnel, meine
 Hände vibrieren. Ich stoße ihn ein zweites Mal weg und die Worte reißen sich
