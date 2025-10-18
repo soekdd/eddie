@@ -159,9 +159,9 @@ schmerzt an jeder Stelle, die Haut brennt, mein Knie pocht. Die Wunde am Kopf
 pocht hart. Die Kleider sind zerfetzt, der Dreck klebt an mir, und der Geruch
 von Schweiß und Angst hängt mir in der Nase.
 
-Neben mir liegt Streuner, eingerollt, die Schnauze auf meinen Füßen. Er hebt kurz
-den Kopf, als ich mich bewege, seine Augen sind wach, aufmerksam. Dann legt er
-sich wieder hin, so, als warte er auf meine nächste Bewegung.
+Neben mir liegt Streuner, eingerollt, die Schnauze auf meinen Füßen. Er hebt
+kurz den Kopf, als ich mich bewege, seine Augen sind wach, aufmerksam. Dann legt
+er sich wieder hin, so, als warte er auf meine nächste Bewegung.
 
 Ich streiche über sein Fell. Meine Finger zittern noch immer, aber die Wärme
 unter seiner Haut ist echt, so echt wie nichts anderes in dieser Stadt.

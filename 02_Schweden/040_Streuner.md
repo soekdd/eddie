@@ -16,9 +16,18 @@ proofreading: {}
 
 # Streuner
 
-Ich sitze am Rand des Parks, ein Stück trockenes Brot in der Hand. Hart wie
-Stein, eigentlich kaum essbar. Ich kaue mechanisch, will meinem Magen wenigstens
-irgendwas geben. Da höre ich ein Kratzen im Laub, ein leises Winseln.
+Ich wache auf, auf meinem Platz unter der Brücke. Neben mir -- eine kleine
+Reisetasche. Mein Herz schlägt schneller. Ich öffne sie, vorsichtig, als könnte
+sie gleich verschwinden. Drinnen: Damenbinden. Eine weiche Kuscheldecke, die
+sofort nach Zuhause riecht, obwohl sie ganz fremd ist. Ein dicker Pullover. Fünf
+Tafeln Schokolade. Und ein kleiner Teddy, die Ohren leicht schief, aber mit
+einem Gesicht, das mir irgendwie Mut macht. Ich beiße mir auf die Lippe, so
+sehr, dass es wehtut. *Wer macht das?*
+
+Wieder ein paar Tage später. Ich sitze am Rand des Parks, ein Stück trockenes
+Brot in der Hand. Hart wie Stein, eigentlich kaum essbar. Ich kaue mechanisch,
+will meinem Magen wenigstens irgendwas geben. Da höre ich ein Kratzen im Laub,
+ein leises Winseln.
 
 Zwischen den Bäumen taucht er auf. Dünn, das Fell struppig, ein Mischling,
 vielleicht fast so groß wie ein Schäferhund, nur schrecklich dünn. Die Rippen

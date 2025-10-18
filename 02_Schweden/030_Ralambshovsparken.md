@@ -64,11 +64,11 @@ Schüler. Gerade vor denen schäme ich mich besonders. Ich sehe, wie sie mich
 entsetzt anschauen. „So jung, und schon so tief unten“ mögen sie denken. Ich
 freue mich über ihre Gaben und gleichzeitig möchte ich im Boden versinken.
 
-Einmal war da ein Junge, kaum älter als ich. Er drückt mir ein belegtes Brötchen
-in die Hand. „Wenn du mal Hilfe brauchst“, sagt er leise, „dann komm.“ und dann
-noch ein Ratschlag: „Public Libraries... ...wenn die mal kalt ist, es gibt sie
-überall in der Stadt.“ Bibliotheken habe ich immer geliebt. All das Wissen der
-Welt zum Greifen nah.
+Einmal war da ein Junge, kaum älter als ich. Seine Mandelaugen erinnern entfernt
+an Sini. Er drückt mir ein belegtes Brötchen in die Hand. „Wenn du mal Hilfe
+brauchst“, sagt er leise, „dann komm.“ und dann noch ein Ratschlag: „Public
+Libraries... ...wenn die mal kalt ist, es gibt sie überall in der Stadt.“
+Bibliotheken habe ich immer geliebt. All das Wissen der Welt zum Greifen nah.
 
 Also gehe ich. Erst zögere ich, doch dann wage ich mich hinein. Kungsholmens
 biblioteket, gar nicht weit von Park weg. Drinnen warm, hell, voller Bücher. Der

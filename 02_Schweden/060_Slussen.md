@@ -114,10 +114,12 @@ Verband festdrückt. Ich schüttele den Kopf. „Lieber nicht…“, flüstere i
 Sachen darunter sind zerrissen, fleckig, kaum noch Stoff, nur noch Erinnerung.
 
 Sie nickt, als wüsste sie’s längst. „Schon gut. Wir haben eine Kleiderkammer,
-lilla vän. Nimm dir dort, was du brauchst – warme Sachen, Seife, Damenhygiene.“
-Ihre Stimme ist weich, fast zärtlich, und sie sieht mich an, als wäre ich etwas
-Kostbares, das man nicht noch einmal verlieren darf. Ich nicke nur, zu dankbar,
-um zu sprechen.
+lilla vän. Sie ist nur ein Stück die Högbergsgatan herunter. Ich rufe dort an
+und sage Bescheid, dass du dich nicht registrieren musst. Du bist eine Ausnahme,
+mein Kind. Nimm dir dort, alles was du brauchst – warme Sachen, Seife,
+Damenhygiene.“ Ihre Stimme ist weich, fast zärtlich, und sie sieht mich an, als
+wäre ich etwas Kostbares, das man nicht noch einmal verlieren darf. Ich nicke
+nur, zu dankbar, um zu sprechen.
 
 Als mein Teller leer ist, steht sofort ein neuer vor mir, noch dampfend. Die
 Küchenfrau selbst hat ihn gebracht – dieselbe, die dem Berliner neulich mit der
@@ -132,9 +134,8 @@ ein bisschen nach Zuhause.
 
 Dann ist er plötzlich da — der Junge aus dem Park mit den Mandelaugen und dem
 tiefschwarzem Haar. Er setzt sich neben mich. Seine Nähe lässt mich
-zusammenzucken und gleichzeitig aufatmen. Eigentlich bin ich seinetwegen
-hierhergekommen. Der warme Empfang der Helfer hat mich das schon vergessen
-lassen-
+zusammenzucken und gleichzeitig aufatmen. Eigentlich bin ich seinetwegen hierher
+gekommen. Der warme Empfang der Helfer hat mich das schon vergessen lassen.
 
 „Du bist wieder da“, sagt er leise auf Englisch. Seine Stimme ist sanft, nicht
 neugierig, nur da. Ich schau ihn an. Mir wird heiß und kalt zugleich. Die Scham
@@ -160,3 +161,41 @@ schüchternes Lächeln, das die ganze Welt ein bisschen weniger bedrohlich macht
 Mut, finde ihn zwischen Suppenlöffel und Scham. „Mein Name ist Eddie.“ Kein
 Edmilla, kein Versteck. Nur Eddie. Er nickt, als wäre das genug. Für den Moment
 ist es das.
+
+Vidar bleibt noch einen Moment sitzen, tommelt mit den Fingern in seiner Hand
+leise auf den Tisch, als müsse er etwas abwägen. Dann sagt er leise: „Eddie… du
+solltest nicht draußen schlafen. Die Nächte werden kälter.“ Er schaut mich an,
+zögert. „Es gibt Unterkünfte von der Stadsmission. Häuser nur für Frauen. Da
+wärst du sicher – vor Kälte, vor… allem.“
+
+Ich halte inne, Löffel in der Luft. „Ich hab doch aber einen Hund.“
+
+Er blinzelt, überrascht. „Einen Hund?“
+
+Ich nicke. „Er ist… mein Lebensretter. Ohne ihn wär ich längst nicht mehr hier.“
+
+„Ach so…“ Er kratzt sich verlegen am Nacken. „Das ist schwierig. In den Häusern
+sind keine Hunde erlaubt.“
+
+„Dann geh ich nicht.“ Die Antwort kommt sofort, schärfer als beabsichtigt. Ich
+lege den Löffel hin. „Er hat mich nicht verlassen, also verlass ich ihn auch
+nicht.“
+
+Vidar sagt eine Weile nichts. Sein Blick wandert über den Tisch, über meine
+Hände, die sich ineinander krallen. „Ich versteh das“, sagt er schließlich.
+„Ich… werde mich kümmern. Vielleicht finde ich jemanden, der euch beide
+aufnehmen kann. Aber ich brauche etwas Zeit.“
+
+„Bis morgen Abend?“ frage ich, und er nickt.
+
+Für mich ist das kein Problem. Eine Nacht mehr oder weniger – was macht das
+schon. Ich lächle schwach, mehr für ihn als für mich. Dann stehe ich auf,
+bedanke mich mit einem Nicken.
+
+Draußen ist es schon dunkel, die Luft schmeckt nach Regen. Ich laufe die
+Högbergsgatan hinunter, wie er es mir beschrieben hat. Dort, in einem niedrigen
+Nebengebäude, ist die Kleiderkammer. Eine Frau mit grauen Haaren zeigt mir, wo
+alles liegt: Unterwäsche, Strümpfe, Tampons, Seife – alles ordentlich gefaltet,
+als wolle jemand, dass man sich wieder menschlich fühlt. Ich nehme, was ich
+brauche, nicht mehr. Als ich die Tür hinter mir schließe, riecht es zum ersten
+Mal seit Wochen nach Sauberkeit und Hoffnung.
