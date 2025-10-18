@@ -13,7 +13,7 @@ gegenüber Eddie.
 - Origin: Stockholm, Schweden
 - Family Status: gehobene, gebildete Mittelschicht
 - Relation To Vidar: Mutter
-- Address: Baggensgatan 29, 111 31 Stockholm, Sweden
+- Address: Baggensgatan 29 / 111 31 Stockholm / SWEDEN
 
 ## Family
 - Background: stabile, gebildete Familie; gibt Vidar eine liebevolle, aber sehr kontrollierende Erziehung

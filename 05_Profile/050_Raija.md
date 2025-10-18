@@ -10,6 +10,7 @@ Vorschrift und Menschlichkeit und wird für Eddie zur schützenden Bezugsperson.
 ## Basic
 - Age: 26
 - Origin: Joutsa, lebt in Jyväskylä
+- Address: Ainonkatu 18 / 40100 Jyväskylä / SUOMI - FINLAND
 
 ## Family
 - Background: Arbeiter- oder Beamtenfamilie; solide Erziehung, Werte wie Pflichtbewusstsein und Ehrlichkeit

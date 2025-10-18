@@ -12,7 +12,7 @@ hilfsbereit; ringt mit Fremdheitsgefühl und wird Eddies leiser Halt.
 - Birth Year: 1968
 - Origin: Stockholm, Schweden
 - Heritage: südkoreanische Wurzeln, adoptiert in gehobene Mittelschichtfamilie
-- Address: Baggensgatan 29, 111 31 Stockholm, Sweden
+- Address: Baggensgatan 29 / 111 31 Stockholm / SWEDEN
 
 ## Family
 - Background: gebildete, stabile Mittelschichtfamilie in Stockholm; Eltern liebevoll, verstehen seine innere Fremdheit aber nicht ganz
