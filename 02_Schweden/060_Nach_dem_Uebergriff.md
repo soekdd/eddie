@@ -15,13 +15,12 @@ todo: 'hier stimmt die Timeline nicht, unbedingt überarbeiten'
 proofreading: {}
 ---
 
-# Nach dem Übergriff: Kälte & Klarheit
+# Nach dem Übergriff
 
 Und dann denke ich an ihn. Den Jungen. „Wenn du mal Hilfe brauchst“, hatte er
 leise gesagt.
 
-Damals hatte ich gelacht, bitter und trotzig, und gedacht: *Was weißt du schon
-von Hilfe?* Außerdem wollte ich nicht, dass jemand meinen Schmutz, meinen
+Damals hatte ich gelacht, bitter und trotzig, und gedacht: *Was weißt du schon, warum ich hier bin?* Außerdem wollte ich nicht, dass jemand meinen Schmutz, meinen
 Gestank, meine abgewetzten Klamotten so nah erlebt. Meine Scham war wie eine
 Mauer.
 
