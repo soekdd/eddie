@@ -46,7 +46,9 @@ Ich laufe. Ein kleine Ewigkeit schon, Streuner ist wie immer an meiner Seite.
 Stockholm ist riesig, die vielen Inseln lassen es noch weiter
 auseinanderdriften. Der Wind pfeift über die Brücken, trägt den Geruch von
 nassem Asphalt und Laub mit sich. 1½ Stunden, sagen sie – von der Stadt bis nach
-Frescati. Mir ist egal, wie lang es wirklich ist. Nun, da ich für Wärme und Schutz gesorgt habe, brauche ich nun an einen Ort, wo mein Verstand wieder auftaut.
+Frescati. Mir ist egal, wie lang es wirklich ist. Nun, da ich für Wärme und
+Schutz gesorgt habe, brauche ich nun an einen Ort, wo mein Verstand wieder
+auftaut.
 
 Die Wege werden grüner, stiller. Dann taucht sie plötzlich auf: die
 Uni‑Bibliothek. Ein riesiger, heller Bau, so glatt, so neu, dass er fast
@@ -156,7 +158,8 @@ Taschenrechner.
 Er schiebt ihn über den Tisch. „Für Sie. Ich habe noch einen zweiten. Und Sie
 können damit offensichtlich besser umgehen als ich.“
 
-Der Rechner glänzt, neu, unberührt. Ich kann nur starren. „Ich … nein, das ist –“
+Der Rechner glänzt, neu, unberührt. Ich kann nur starren. „Ich … nein, das ist
+–“
 
 „Bitte.“ Er insistiert mit einem winzigen Lächeln, hinter dem ich Kalkül spüre.
 „Und … werden Sie morgen wieder hier sein?“
@@ -181,8 +184,8 @@ ist wohl selbst noch auf dem Weg zur Mission. Streuner wittert ihn zuerst,
 wedelt, bellt kurz. Eine schüchterne Begrüßung. Ich halte ihm den Schatz hin,
 wie ein Kind eine Muschel.
 
-„Was hast du da?“ fragt Vidar. Ein Schatten Skepsis in seiner Stimme. „Eddie … du
-hast den doch nicht …?“
+„Was hast du da?“ fragt Vidar. Ein Schatten Skepsis in seiner Stimme. „Eddie …
+du hast den doch nicht …?“
 
 Die Tränen kommen mir schneller, als ich atmen kann. „Wie kannst du das denken?“
 Es klingt zu laut, zu dünn.
