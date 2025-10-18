@@ -43,9 +43,17 @@ vielleicht einen Ausweg finde.
 
 
 ---
-Ich stehe wieder im Schatten der Treppe am Slussen, bis die Kälte der Mauer meine Beine taub macht. Der Wind riecht nach Hafen, altem Fett und nassem Papier. Leute kommen und gehen. Manche bleiben, reden kurz mit dem Mann an der Tür, verschwinden dann drinnen. Manche drehen ab, wie ich es letztes Mal getan habe. Ich zähle sie, damit die Zeit nicht an mir zerrt. Mein Herz klopft gegen die Rippen. Ich rieche mich selbst — abgestandener Schweiß, nasse Wolle, Angst. Früher war ich jemand, der sauber roch. Jetzt meide ich Spiegel.
+Ich stehe wieder im Schatten der Treppe am Slussen, bis die Kälte der Mauer meine Beine taub macht. Leute kommen und gehen. Manche bleiben, reden kurz mit dem Mann an der Tür, verschwinden dann drinnen. Manche drehen ab, wie ich es letztes Mal getan habe. Ich zähle sie, damit die Zeit nicht an mir zerrt. Mein Herz klopft gegen die Rippen. Ich rieche mich selbst — abgestandener Schweiß, nasse Wolle, Angst. Früher war ich jemand, der sauber roch. Jetzt meide ich Spiegel.
 
-Der Berliner ist nicht da. Ich warte, bis ich mir sicher bin, dann trete ich aus dem Schatten. Der Mann am Eingang sieht auf. Sein Blick bleibt an mir hängen, und in seinen Augen entdecke ich dieses leichte Zucken — Wiedererkennen. Er sagt leise auf Schwedisch: „Das Kind.“ Dann macht er diese kleine einladende Handbewegung, die nichts Bedrohliches hat: „Nicht weglaufen, wir helfen dir, keine Polizei, OK?“ Ich nicke kaum sichtbar. Die Beine tragen mich wie von selbst durch die Tür.
+Der Berliner ist nicht da. Ich warte, bis ich mir sicher bin, dann trete ich aus dem Schatten. Der Mann am Eingang hebt den Kopf, als ich näherkomme. Einen Moment lang starrt er, als müsse er sortieren, was er da sieht. Dann zieht sich ein kurzes Erkennen über sein Gesicht. „Barnet!“, ruft er leise, überrascht – das Kind! Seine Stimme klingt nicht streng, eher warm, erschrocken vor Sorge.
+
+Er bleibt ganz ruhig stehen, hebt die Hände leicht, als wolle er ein scheues Tier nicht vertreiben. „Inte polis… ingen fara… vi hjälper dig, okej?“ Keine Polizei… keine Gefahr… wir helfen dir, okay?
+
+Ich bleibe stehen, halb im Türrahmen, halb bereit zu fliehen. Der Wind von draußen streift mich kalt, aber drinnen riecht es nach Suppe und Wärme. Er lächelt vorsichtig, senkt die Stimme: „Nicht weglaufen, lilla vän… wir helfen dir. Niemand ruft die Polizei.“
+
+Dann erst, als ich aus dem Schatten trete, sieht er richtig hin. Sein Blick bleibt an meinem Gesicht hängen, an den zu kurzen Haaren, den schmutzigen Wangen, an meiner Haltung. Ich sehe, wie sein Ausdruck sich verändert – ein Moment des Erkennens, dann tiefe Sorge. „Du… du bist ein Mädchen“, murmelt er fast ungläubig. Und plötzlich wird seine Stimme noch weicher, brüchiger. „Komm rein, Kind… du frierst ja.“
+
+
 
 Drinnen ist es warm. Die Suppe dampft, Brot riecht nach Backofen. Der Löffel in meiner Hand fühlt sich fremd an, billig, aber ich presse ihn an die Lippen wie an einen Rettungsring. Ich will nicht weinen, aber die erste warme Suppe reißt etwas in mir auf, das lange zugesperrt war. Die Scham kriecht gleich hinterher, heiß und peinlich, und ich zwinge mich, ruhig zu sein.
 
