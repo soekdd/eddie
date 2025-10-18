@@ -5,14 +5,40 @@ daytime: 'morning'
 place: 'Centralstation Stockholm, northern city parts'
 persons:
   - 'Eddie'
-synopsis: 'Nach einem Übergriff in einer Seitenstraße rettet sie ihr Streuner im letzten Moment; Eddie erkennt, dass sie auf Stockholms Straßen nicht lange überlebt und ihren Plan ändern muss.'
+synopsis: 'Ein Mann zerrt mich in eine Seitenstraße, ein Schlag löscht das Licht; Streuner vertreibt ihn, ich taumle davon und weiß: So überlebe ich hier nicht – mein Plan muss sich ändern.'
 mood: ''
 tense: 'present, Eddies first-person perspective'
 mode: 'mainline'
 illustrations:
   - 'SWE_Stockholm_Eddie_entkommt_Gewalt.png'
 todo: 'Redundanzen am Ende des Textes!'
-proofreading: {}
+proofreading:
+  Kapitel: '050_Gewalt'
+  Ton:
+    Einschaetzung: 'Roh, unmittelbar und körpernah; Angst, Schmerz und Nachhall sind spürbar, der Hund setzt einen warmen Gegenpol.'
+    Kritik: 'Einige Passagen doppeln Empfindungen; zwei, drei Stellen erklären statt zu zeigen; vor dem Kernmoment entstehen kleine Längen.'
+    Fix: 'Vor dem Übergriff straffen (1–2 Sätze kürzen/verdichten); 1–2 prägnante Sinnesdetails im Kernmoment ergänzen (Geräusch, Griffpunkt, Bodengeruch); erklärende Sätze in Handlung/Gestik auflösen.'
+    Note: 2
+  Logik:
+    Einschaetzung: 'Klarer Verlauf: Bahnhofsmilieu → erste Bedrohung → eigentlicher Übergriff → Rettung durch Streuner → Konsequenz.'
+    Kritik: 'Zeitfolge teils diffus; Ortswechsel (Park/Seitenstraße/Hauptstraße) springen; Verletzungsfolgen nach dem Schlag wirken schnell abgeblendet.'
+    Fix: 'Je Wechsel eine knappe Zeit-/Ortsmarke setzen; Verletzung mit einem konkreten Marker erden (Pulsieren, Blutgeruch, verschwommenes Sehen); Entschluss am Ende an ein kleines Auslöserdetail koppeln.'
+    Note: 3
+  Charaktere:
+    Einschaetzung: 'Eddie entschlossen trotz Angst; Täter plastisch umrissen; Streuner als aktiver Retter und emotionaler Anker funktioniert.'
+    Kritik: 'Der Hauptangreifer bleibt schemenhaft austauschbar; Eddies jugendliche, rotzige Innentönung tritt hinter Beschreibung zurück.'
+    Fix: 'Angreifer mit einem Merkmal verankern (Stimme, Geruch, Kleidungsdetail); 1 kurzer, trotzig‑jugendlicher Gedanke im Kampf; Streuners Eingriff mit markanter Aktion benennen (Knurren/Biss/Anspringen).'
+    Note: 2
+  Sprache:
+    Einschaetzung: 'Dichte Präsensprosa, starke Verben, spürbarer Rhythmus in Flucht und Kampf.'
+    Kritik: 'Einige lange Satzketten bremsen Tempo; vereinzelte Adjektivhäufungen; direkte Rede teils holprig eingebunden.'
+    Fix: 'Satzlängen variieren (kurze Schläge im Konflikt); Adjektive bündeln/streichen; wörtliche Rede gezielt setzen oder indirekt fassen.'
+    Note: 2
+  Fazit:
+    Staerken: 'Unmittelbare Bedrohung; hohe Körperlichkeit; glaubwürdige Rettung; klare Konsequenz am Schluss.'
+    Schwaechen: 'Vorspann etwas lang; Sprünge bei Zeit/Ort; kleinere Wiederholungen und Erklärsätze.'
+    Fix: 'Vorspann komprimieren; präzise Marker je Wechsel; erklären → zeigen; 1–2 neue, sinnliche Details im Kernmoment.'
+    Note: 3
 ---
 
 # Gewalt

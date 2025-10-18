@@ -2,17 +2,43 @@
 date: '1985-10-14'
 day: 'Monday'
 daytime: 'night'
-place: 'Stockholm, Straßen nahe der Kirche'
+daytime: 'evening'
+place: 'Stockholm, Stadsmission Slussen'
 persons:
   - 'Eddie'
   - 'Streuner'
   - 'Vidar'
-synopsis: 'Nach dem vereitelten Übergriff beschließt Eddie, ihre Scham abzulegen und aktiv Hilfe zu suchen. Sie beobachtet Vidar.'
-mood: 'taumelnd, verletzt, entschlossen-klar'
-tense: 'present, Eddies first-person perspective'
+synopsis: 'Am Slussen trete ich aus dem Schatten und lasse mir helfen: Suppe, Verbände, Kleidung; Vidar hört zu – Hilfe ja, aber ohne Streuner gehe ich nirgends hin.'
+mood: ''
+tense: ''
 mode: 'mainline'
-todo: 'hier stimmt die Timeline nicht, unbedingt überarbeiten'
-proofreading: {}
+proofreading:
+  Kapitel: '060_Slussen'
+  Ton:
+    Einschaetzung: 'Warm, behutsam und nah; Scham kippt in Vertrauen, Wärme (Suppe, Hände, Stimme) kontrastiert die Kälte draußen.'
+    Kritik: 'Punktuell erklärend; wiederholt Motive Scham/Geruch/Wärme; der Schwellenmoment könnte noch fokussierter sein.'
+    Fix: '1–2 Wiederholungen straffen; den Schwellenmoment (Türrahmen → drinnen) mit einem präzisen Detail schärfen; zeigen statt erklären, wo möglich.'
+    Note: 2
+  Logik:
+    Einschaetzung: 'Klarer Bogen: Entschluss → Warten → Aufnahme → Versorgung → Gespräch → Angebot → Hund‑Konflikt → Kleiderkammer → Rückkehr.'
+    Kritik: 'Zeitmarken leicht diffus; „Berliner nicht da“ irritiert ohne Kontext; Ortswechsel springen (Treppe/Empfang/Raum/Kleiderkammer).' 
+    Fix: 'Knappen Zeit-/Wetterhinweis setzen; Berliner‑Bezug kurz erden oder weglassen; Übergänge mit einem Halbsatz verankern.'
+    Note: 3
+  Charaktere:
+    Einschaetzung: 'Eddie verletzlich und entschlossen; Helfer respektvoll; Vidar ruhig, zugewandt; Streuner als moralischer Fixpunkt.'
+    Kritik: 'Vidar noch wenig individuell; Helfer bleiben funktionshaft; Streuner in der Slussen‑Szene nur indirekt präsent.'
+    Fix: 'Vidar ein markantes Merkmal geben (Geste/Tonfall); einem Helfer ein kleines, präzises Detail; Streuner mit 1–2 indirekten Reaktionen anklingen lassen.'
+    Note: 2
+  Sprache:
+    Einschaetzung: 'Klares Präsens, sanfter Rhythmus, stimmige schwedische Einsprengsel.'
+    Kritik: 'Einige lange Satzketten; vereinzelte Adjektivhäufungen; Interpunktion bei Gedankenstrichen/Ellipsen uneinheitlich.'
+    Fix: 'Lange Sätze punktuell teilen; Adjektive bündeln/streichen; Strich/… vereinheitlichen.'
+    Note: 2
+  Fazit:
+    Staerken: 'Intimer Schwellenmoment; glaubwürdige Fürsorge; starke Kontraste (Kälte/Wärme); klare Motivation und nächste Schritte.'
+    Schwaechen: 'Leichte Redundanz; unscharfe Übergänge; Nebenfiguren ohne prägnante Merkmale.'
+    Fix: 'Straffen, präzise Übergangsmarker setzen und 1–2 charakteristische Details für Vidar/Helfer ergänzen.'
+    Note: 2
 ---
 
 # Slussen
