@@ -102,10 +102,10 @@ stehen.
 
 Ich halte den Atem an. Die Hütte ist winzig, aber wunderschön. Rote Wände, weiße
 Fensterrahmen, eine kleine Veranda. In der klaren Luft riecht es nach Holz, nach
-Herbst, nach Möglichkeit.
+Herbst, nach Sicherheit.
 
 Drinnen ist es kühl. Ein schmales Bett, ein Tisch, ein Waschbecken, daneben ein
-eiserner Ofen mit einer kleinen Leitung, die zu einem großen Metallfass führt.
+eiserner Ofen mit einer kleinen Leitung, die nach draußen zu einem großen Metallfass führt.
 
 Vidar geht in die Hocke, versucht, den Ofen zu starten. Ein Zischen, dann
 Stille. Noch mal. Nichts.
