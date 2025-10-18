@@ -42,13 +42,12 @@ proofreading:
 
 # Der Taschenrechner
 
-Ich laufe. Ein kleine Ewigkeit schon, Streuner ist wie immer an meiner Seite.
-Stockholm ist riesig, die vielen Inseln lassen es noch weiter
-auseinanderdriften. Der Wind pfeift über die Brücken, trägt den Geruch von
-nassem Asphalt und Laub mit sich. 1½ Stunden, sagen sie – von der Stadt bis nach
-Frescati. Mir ist egal, wie lang es wirklich ist. Nun, da ich für Wärme und
-Schutz gesorgt habe, brauche ich nun an einen Ort, wo mein Verstand wieder
-auftaut.
+Nun, da ich für Wärme und Schutz gesorgt habe, suche ich einen Ort, wo auch mein
+Verstand wieder auftaut. Dafür laufe ich. Eine kleine Ewigkeit schon, Streuner
+ist wie immer an meiner Seite. Stockholm ist riesig, die vielen Inseln lassen es
+noch weiter auseinanderdriften. Der Wind pfeift über die Brücken, trägt den
+Herbst mit sich mit und erinnert an den baldigen Winter. 1½ Stunden, sagen sie –
+von der Stadt bis nach Frescati. Mir ist egal, wie lang es wirklich ist.
 
 Die Wege werden grüner, stiller. Dann taucht sie plötzlich auf: die
 Uni‑Bibliothek. Ein riesiger, heller Bau, so glatt, so neu, dass er fast
@@ -58,12 +57,12 @@ stinkenden Schuhen, meinen ungewaschenen Haaren, meinem Körper, der seit Wochen
 keine Seife mehr gesehen hat. Ich spüre, wie sich Menschen umdrehen, kurz,
 unauffällig – aber ich merke jeden Blick. Streuner muss hier auf mich warten.
 Das kennt er schon, er ist ein Straßenhund, das macht ihm nicht viel aus. Er
-wird die Gegend erkunden, um immer mal nach mir schauen.
+wird die Gegend erkunden, um immer mal nach mir zu schauen.
 
 Ich halte mich im Schatten, schleiche an Gruppen vorbei, die lachen und reden,
 als wäre Lernen hier ein Vergnügen. So habe ich früher auch gefühlt.
 
-Innen riecht es nach Papier und frischem Holz der Inneneinrichtung. Der Boden
+Innen ist die Luft voll von Papier und frischem Holz der Einrichtung. Der Boden
 glänzt. Ich setze kaum einen Fuß auf, aus Angst, eine Spur zu hinterlassen. In
 mir kämpft alles zwischen Staunen und Scham. Ich passe hier nicht her – nicht
 zwischen diese klaren Flächen, diese sauberen Menschen.
@@ -134,8 +133,8 @@ haben recht. Sie … Sie verstehen das?“
 „Ich kann gut mit Zahlen“, sage ich leise. „Worte sind schwieriger.“
 
 Er sinkt in den Stuhl, sieht auf die Blätter, dann auf mich. „Ich habe das
-damals ins Schwedische übersetzt. Das bedeutet, die ABV Ingenieure haben die
-ganze Zeit mit falschen...“ Dann bricht er ab. Sein Blick fährt zwischen den
+damals ins Schwedische übersetzt. Das bedeutet, die ABV‑Ingenieure haben die
+ganze Zeit mit falschen …“ Dann bricht er ab. Sein Blick fährt zwischen den
 Zahlen und meinem Gesicht hin und her, als suche er eine Ausrede im Papier. Er
 versteht, was passiert ist. Ich sehe, wie das Wissen in ihm ankommt: schwer,
 kalt. Doch bevor er es sagt, presst er die Lippen zusammen und nickt nur knapp.
@@ -147,7 +146,7 @@ aufeinanderbeißt, wenn eine Frau recht hat. Ich stecke den Stift ein, trete
 einen Schritt zurück.
 
 „Schon gut“, sage ich, vielleicht zu leise. Ich drehe mich weg. Scham und ein
-Rest Stolz ziehen an mir. Ich will nur wieder in meinen Platz zu meinen Büchern,
+Rest Stolz ziehen an mir. Ich will nur wieder an meinen Platz zu meinen Büchern,
 in meine Luft.
 
 „Warten Sie“, ruft er. Die Stimme kippt vom Pflichtton ins Berechnende. Ich
@@ -171,14 +170,14 @@ Rechnung im Kopf, und ich wäre nur noch ein nützlicher Randwert.
 
 Ich gehe zu meinem Platz, setze mich und sehe mir das kleine Wunder an. Texas
 Instruments TI‑74. Matrixdisplay. Programmierbar in Basic, wie ein Computer. Und
-dazu noch Nagelneu. Sicherlich weit über tausend Kronen. Es kribbelt in meinen
+dazu noch nagelneu. Sicherlich weit über tausend Kronen. Es kribbelt in meinen
 Fingern. Der Hunger und die Scham sind vergessen, als hätte jemand den Regler
 nach links gedreht. Ich wickle ihn in meine letzten sauberen Sachen, wie etwas
-zerbrechliches, zartes.
+Zerbrechliches, Zartes.
 
 Draußen ist die Luft kälter. Streuner drückt seine Nase in meine Kniekehle. Ich
 schwebe fast die Straßen entlang. Eigentlich wollte ich nach der Bibliothek nach
-Hause, freute mich schon auf meine kleines warmes Reich. Doch in meinem Übermut
+Hause, freute mich schon auf mein kleines warmes Reich. Doch in meinem Übermut
 mache ich einen Umweg zur Stadsmission. Schon auf Gamla Stan sehe ich Vidar. Er
 ist wohl selbst noch auf dem Weg zur Mission. Streuner wittert ihn zuerst,
 wedelt, bellt kurz. Eine schüchterne Begrüßung. Ich halte ihm den Schatz hin,
@@ -194,16 +193,3 @@ Er steht sofort, hebt beide Hände. „Hey. Tut mir leid. Dumm von mir. Ich bin
 froh, dass du da bist.“ Seine Stimme wird weich, warm von innen. Er legt mir
 seine Jacke über die Schultern, als wäre ich ein nasser Vogel. „Komm. Ich bring
 dich heim.“
-
-Wir gehen nebeneinander durch die Kälte. Streuner trippelt voran, als kenne er
-den Weg besser als wir.
-
-„Erzähl’s mir“, sagt Vidar nach ein paar Schritten. „Wie bist du zu dem Ding
-gekommen? Von Anfang an. Ich will nichts verpassen.“
-
-Ich atme ein, der Rauch der Stadt, Metall und Schnee. Der Rechner liegt gegen
-meine Rippen, ruhig wie ein Herz, das ich mir borgen durfte. Ich beginne zu
-erzählen. Schritt für Schritt. Und er hört zu, ohne zu drängen, mit dieser
-geduldigen Wärme, die länger hält als Suppe. Bis wir an meiner Hütte sind,
-begleitet er uns, noch ein paar Meter, noch ein paar Sätze, als könne er mich
-mit Zuhören durch die Nacht tragen.

@@ -1,5 +1,5 @@
 ---
-date: '1985-10-16'
+date: '1985-10-17'
 day: 'Wednesday'
 daytime: 'afternoon'
 place: 'Stockholm, Bibliothek'
@@ -19,17 +19,17 @@ proofreading: {}
 
 # Würde
 
-Ich treffe Vidar draußen, vor der Bibliothek. Der Atem hängt weiß in der Luft,
-sein Schal riecht nach Waschmittel. Er mustert mich, und ich sehe in seinen
-Augen, dass er etwas anders sieht als noch gestern. Nicht nur das Straßenmädchen
-mit zerfranster Jacke.
+Wir gehen nebeneinander durch die Kälte. Streuner trippelt voran, als kenne er
+den Weg besser als wir.
 
-„Du wirkst… als ob du was erlebt hättest,“ sagt er vorsichtig.
+„Erzähl’s mir“, sagt Vidar nach ein paar Schritten. „Wie bist du zu dem Ding
+gekommen? Von Anfang an. Ich will nichts verpassen.“
 
-Ich zucke die Schultern. „Hab ich auch.“ Und dann erzähle ich. Von dem Mann mit
-den Wörterbüchern, den Blättern, dem Taschenrechner. Davon, wie er mich fast
-rausgeworfen hätte. Und wie er am Ende merkte, dass meine Zahlen besser stimmen
-als seine.
+Und dann erzähle ich. Von dem Mann mit den Wörterbüchern, den Blättern, dem
+Taschenrechner. Davon, wie auch er mich erst des Diebstahls bezichtigte. Und wie
+er am Ende merkte, dass ich einen riesigen Fehler entdeckt hatte. „Stell Dir
+vor, alle schwedischen Ingenieure, des Unternehmens für das er arbeite, haben
+wegen seiner Übersetzung falsch gerechnet.“
 
 Vidar sagt lange nichts. Ich fürchte schon, er lacht mich aus. Stattdessen zieht
 er die Stirn kraus, als müsse er das Bild neu zusammensetzen. „Also… du hast ihn
@@ -43,15 +43,17 @@ Vidar sieht mich an, und diesmal ist es kein Mitleid in seinem Blick. Eher so
 etwas wie Respekt. „Du bist nicht nur…“ Er bricht ab, sucht das Wort. „…nicht
 nur hübsch und arm. Du bist klug. Richtig klug.“
 
-Mir wird heiß im Gesicht. Ich wende den Blick ab. „Klug kann man nicht essen.“
+Mir wird heiß im Gesicht. Ich wende den Blick ab. „Klug kann man nicht essen und
+hübsch… schau mich doch an. Das ist lange her.“
 
-Er nickt langsam. „Nein. Aber vielleicht… vielleicht fangen wir kleiner an.“ Er
-räuspert sich, schiebt die Hände in die Taschen. „Wenn du willst, kannst du zu
-uns kommen. Meine Eltern sind nicht oft daheim. Und du könntest…“ Er stockt,
-fast verlegen. „…die Waschmaschine benutzen.“
+Er schüttelt den Kopf. „Nein!“, hat kurz den Faden verloren „vielleicht…
+vielleicht fangen wir klein an.“ Er räuspert sich, schiebt die Hände in die
+Taschen. „Wenn du willst, kannst du zu uns kommen. Meine Eltern sind nicht oft
+daheim. Und du könntest…“ Er stockt, fast verlegen. „…die Waschmaschine
+benutzen.“
 
 Ich blinzle. Eine Waschmaschine. Es klingt lächerlich banal. Aber ich spüre den
-Schmutz an meinen Haaren, den Rauch in meiner Jacke, die Salzkrusten in den
+Schmutz an meiner Hose, den Rauch in meiner Jacke, die Salzkrusten in den
 Nähten. Eine Waschmaschine ist für mich im Moment fast so wertvoll wie Gold.
 
 Und plötzlich, wie ein Blitzschlag, begreife ich etwas. Die Tasche unter der

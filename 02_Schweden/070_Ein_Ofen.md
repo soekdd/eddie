@@ -101,8 +101,10 @@ stehen.
 „Hier“, sagt er, „das ist sie.“
 
 Ich halte den Atem an. Die Hütte ist winzig, aber wunderschön. Rote Wände, weiße
-Fensterrahmen, eine kleine Veranda. In der klaren Luft riecht es nach Holz, nach
-Herbst, nach Sicherheit.
+Fensterrahmen, eine kleine Veranda.  Sie liegt fast am Wasser, nur ein Zaun und
+ein kleiner Weg sind noch dazwischen. Auf der anderen Seite liegt das Schloss
+Karlsberg, wie Vidar meint. In der klaren Luft liegt ein Hauch von Holz, Herbst,
+und Sicherheit.
 
 Drinnen ist es kühl. Ein schmales Bett, ein Tisch, ein Waschbecken, daneben ein
 eiserner Ofen mit einer kleinen Leitung, die nach draußen zu einem großen Metallfass führt.
@@ -110,23 +112,25 @@ eiserner Ofen mit einer kleinen Leitung, die nach draußen zu einem großen Meta
 Vidar geht in die Hocke, versucht, den Ofen zu starten. Ein Zischen, dann
 Stille. Noch mal. Nichts.
 
-„Er will nicht“, murmelt er, runzelt die Stirn. Dann beugt er sich vor, findet
-unter dem Rand eine kleine Handpumpe. „Aha. Schau mal.“ Er drückt sie, und mit
-einem dumpfen Gluckern fließt Öl in den Brenner. Der Ofen fängt an zu fauchen,
-dann zu glühen. Ein leises, warmes Leben kehrt in die Hütte zurück.
+„Er will nicht“, murmelt er, runzelt die Stirn. Ich beuge mich ebenfalls dazu,
+finde unter dem Rand eine kleine Handpumpe. „Aha. Schau mal.“ Ich drücke sie,
+und mit einem dumpfen Gluckern fließt Öl in den Brenner. „Tochter von zwei
+Ingenieuren, weißt Du?“ Vidar lacht herzhaft. Der Ofen fängt an zu fauchen, dann
+zu glühen. „Dann ist er Ofen ja bei dir in guten Händen.“ Ein leises, warmes
+Leben kehrt in die Hütte zurück.
 
 Ich knie mich daneben, halte die Hände über die aufsteigende Wärme. Streuner
 rollt sich sofort davor zusammen, als hätte er nie woanders geschlafen.
 
-Vidar lächelt schief. „Das Fass ist voll. Es reicht bis zum Frühjahr. Ich hab’s
-prüfen lassen.“
+Vidar lächelt schief. „Das Fass ist voll. Es reicht bis zum Frühjahr. Wenn Du
+solange bleiben willst.“
 
 Ich kann kaum atmen vor Glück. „Ein Bett, ein Ofen, ein Dach“, flüstere ich.
 „Das ist mehr, als ich mir vorstellen konnte.“
 
 Er zuckt mit den Schultern, fast verlegen. „Ich komm ab und zu vorbei. Nur um zu
-sehen, ob alles in Ordnung ist. Wenn du was brauchst – Essen, Öl, irgendwas –
-sag’s mir, ja?“
+sehen, ob alles in Ordnung ist. Wenn du was brauchst – Essen, Klamotten,
+irgendwas – sag’s mir, ja?“
 
 Ich nicke, meine Stimme versagt kurz. „Danke, Vidar. Wirklich.“
 
@@ -139,5 +143,6 @@ Er hebt die Hand zum Gruß und geht den kleinen Pfad hinunter, bis seine Gestalt
 zwischen den Apfelbäumen verschwindet. Ich bleibe in der Tür stehen, atme den
 Duft von kaltem Holz und Öl ein. Streuner hebt kurz den Kopf, seufzt zufrieden.
 
-Dann schließe ich die Tür. Die Hütte knackt leise, als würde sie mich willkommen
-heißen. Zum ersten Mal seit meiner Flucht habe ich ein Zuhause.
+Dann schließe ich die Tür, drehe das Schloss. Die Hütte knackt leise, als würde
+sie mich willkommen heißen. Zum ersten Mal in meinem Leben habe ich ein eignes
+kleines Zuhause.
