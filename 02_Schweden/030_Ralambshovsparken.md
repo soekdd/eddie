@@ -27,10 +27,10 @@ Pläne in meinem Kopf zerfallen, wie Zettel, die zu lange in der Tasche waren.
 Nur noch Fetzen davon.
 
 Aber irgendwo dazwischen, ganz leise, bleibt ein Gedanke, der mich warm hält.
-Mein achtzehnter Geburtstag. Dann ändert sich alles. Mielke hat dann keine Handhabe
-mehr über mich. Niemand kann mich zurückholen. Die schwedische Polizei wird mich
-nicht ausliefern – ich werde volljährig, eigenständig, endlich jemand, der
-selbst entscheidet. Mein achtzehnter Geburtstag… im Mai. Nur noch ein paar
+Mein achtzehnter Geburtstag. Dann ändert sich alles. Mielke hat dann keine
+Handhabe mehr über mich. Niemand kann mich zurückholen. Die schwedische Polizei
+wird mich nicht ausliefern – ich werde volljährig, eigenständig, endlich jemand,
+der selbst entscheidet. Mein achtzehnter Geburtstag… im Mai. Nur noch ein paar
 Monate. Wenn ich bis dahin durchhalte, dann kann ich neu anfangen. Irgendwo.
 Vielleicht sogar hier.
 
@@ -46,8 +46,8 @@ Park riecht nach nassem Laub, nach Urin, nach billigem Wein. Ich wache auf, wenn
 es hell wird, und schlafe wieder ein, wenn die Kälte mich überrollt.
 
 Mein Körper klebt. Seit Wochen habe ich mich nicht gewaschen, außer mit ein paar
-Tropfen Wasser aus Ostsee. Die Kleider stinken, meine Haare sind fettig
-und struppig. Auf meiner Vaasalopet bin ich einfach in die Seen gesprungen. Sich
+Tropfen Wasser aus Ostsee. Die Kleider stinken, meine Haare sind fettig und
+struppig. Auf meiner Vaasalopet bin ich einfach in die Seen gesprungen. Sich
 hier nackt in die Ostsee waschen? Dann wäre ich Freiwild. Ich versuche, mich
 klein zu machen, nicht aufzufallen. Aber die Leute sehen mich, wenn ich in der
 Stadt auftauche: Sie riechen mich.

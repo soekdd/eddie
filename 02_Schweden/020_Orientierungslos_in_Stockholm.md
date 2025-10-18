@@ -85,8 +85,8 @@ sein.
 
 Von dort laufe ich weiter, über eine Brücke hin zu Heleneborgsholmen. Ich merke,
 wie Stockholm aus lauter Inseln besteht, verbunden durch diese Brücken, wie ein
-riesiges Spinnennetz. Für mich ist jede Brücke ein Risiko: Gehe ich hinüber, sehen
-sie mich, meide ich sie, komme ich nicht voran.
+riesiges Spinnennetz. Für mich ist jede Brücke ein Risiko: Gehe ich hinüber,
+sehen sie mich, meide ich sie, komme ich nicht voran.
 
 Irgendwann treibt es mich hinein ins Herz der Stadt. Gamla stan. Enge Gassen,
 Kopfsteinpflaster, bunte Häuser. Touristen mit Kameras lachen, als gäbe es
@@ -129,7 +129,8 @@ ein Versprechen. „We can help. But socialtjänst…“ Er merkt, wie ich bei d
 zusammenzucke, hebt beschwichtigend die Hände. „No police. Only… you get bed,
 food. Safe.“
 
-Er sieht, was ich nicht sagen will. Die Frage liegt ihm trotzdem auf der Zunge. „Är du barn? Are you a child?“
+Er sieht, was ich nicht sagen will. Die Frage liegt ihm trotzdem auf der Zunge.
+„Är du barn? Are you a child?“
 
 Ich schüttele wieder den Kopf. Meine Stimme ist zu dünn. „Ich brauche nur…
 heute. Morgen finde ich…“
@@ -158,18 +159,18 @@ wäre er mein Fürsprecher. „Ick helf’ nur. Dit schaffen wa.“
 Seine Hand wird fester. Ich reiße den Arm, so dass die Gelenke knacken. „Fass
 mich nicht an.“
 
-Hinter dem Tresen ruft jemand auf Schwedisch, schnell und nachdrücklich. Eine Frau in Schürze kommt aus der Küche, die Kelle noch in
-der Hand. Zwei Männer drehen sich von der Essensausgabe um; einer trägt eine
-Mütze, der andere die Müdigkeit in den Schultern. Der Berliner zieht, ich ziehe
-zurück. Ein kurzer Ruck, meine Jacke rutscht über die Schulter. Die Kelle
-klappert gegen Metall.
+Hinter dem Tresen ruft jemand auf Schwedisch, schnell und nachdrücklich. Eine
+Frau in Schürze kommt aus der Küche, die Kelle noch in der Hand. Zwei Männer
+drehen sich von der Essensausgabe um; einer trägt eine Mütze, der andere die
+Müdigkeit in den Schultern. Der Berliner zieht, ich ziehe zurück. Ein kurzer
+Ruck, meine Jacke rutscht über die Schulter. Die Kelle klappert gegen Metall.
 
 „Hej! Hej!“ Der Mann am Tresen kommt herum, stellt sich zwischen uns. „Gå
 härifrån!“ Er hebt die Hand, nicht drohend, sondern präsent, als zeige er eine
 Grenze auf dem Boden. „No touching.“
 
-Der Berliner lacht kurz, hell und hässlich. „Mach ma halblang, Chef. Dit is’
-'ne freie Stadt, wa?“ Seine Augen bleiben an mir hängen. „Komm nu. Ick warte
+Der Berliner lacht kurz, hell und hässlich. „Mach ma halblang, Chef. Dit is’ 'ne
+freie Stadt, wa?“ Seine Augen bleiben an mir hängen. „Komm nu. Ick warte
 draußen.“
 
 „Nein,“ sage ich. Das Wort ist kleiner als ich.
@@ -222,13 +223,13 @@ wird. Ich stelle mir vor, ich sei nur ein Punkt in einem Koordinatensystem, das
 niemand mehr abliest. Ein Rest. Eine Nullmenge. Für heute reicht das. Morgen
 zähle ich neu.
 
-„Schhh,“ höre ich plötzlich neben mir. Eine Stimme, rau
-wie altes Papier. Eine Frau sitzt auf einer Bank, ein Bündel Plastiktüten zu
-ihren Füßen, die grauen Haare wirr, die Augen wässrig, aber aufmerksam. Sie hat
-gesehen, wie ich in die Hecke gekrochen bin. „No police,“ murmelt sie und
-schüttelt den Kopf. „Come.“ Ich weiß nicht, warum ich ihr folge. Vielleicht,
-weil ihre Stimme nicht nach Befehl klingt, sondern nach Mitleid. Vielleicht,
-weil ich keine andere Wahl habe.
+„Schhh,“ höre ich plötzlich neben mir. Eine Stimme, rau wie altes Papier. Eine
+Frau sitzt auf einer Bank, ein Bündel Plastiktüten zu ihren Füßen, die grauen
+Haare wirr, die Augen wässrig, aber aufmerksam. Sie hat gesehen, wie ich in die
+Hecke gekrochen bin. „No police,“ murmelt sie und schüttelt den Kopf. „Come.“
+Ich weiß nicht, warum ich ihr folge. Vielleicht, weil ihre Stimme nicht nach
+Befehl klingt, sondern nach Mitleid. Vielleicht, weil ich keine andere Wahl
+habe.
 
 Anfangs halte ich Abstand, atme flach (Mann, die riecht echt streng — kalter
 Rauch, alte Wolle, feuchte Pappe), doch ihre Schritte sind ruhig, so sicher, als
@@ -242,8 +243,9 @@ Glas. Wir tasten an einem niedrigen Geländer entlang, überqueren eine alte,
 schmale Brücke, so dicht über dem Kanal, dass der Wind Algen und Metall in die
 Nase drückt. Auf der Insel riecht es nach Laub und Geschichte; zwischen Bäumen
 duckt sich ein langes, dunkles Gebäude. Die Frau redet kaum, nur manchmal ein
-„Här“ oder „Inte där“, um mich vor einem falschen Tritt zu warnen. (Ich verliere langsam die
-Orientierung.) Ihre Tüten klopfen gegen die Knie, mein Herz gegen die Rippen.
+„Här“ oder „Inte där“, um mich vor einem falschen Tritt zu warnen. (Ich verliere
+langsam die Orientierung.) Ihre Tüten klopfen gegen die Knie, mein Herz gegen
+die Rippen.
 
 Noch einmal über Wasser, diesmal länger, wieder eine alte, aber sehr große
 Brücke und dann Wiese, viel Wiese. Wir verlassen die Straßen und laufen durch

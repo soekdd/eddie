@@ -27,7 +27,8 @@ Kreislauf, als hätte die Stadt mich verschluckt. Ich bin kein Gast mehr – ich
 gehöre schon zu den Schatten. Der Gestank klebt an mir wie eine zweite Haut:
 altes Bier, kalter Rauch, der muffige Geruch von zu oft getragenen Klamotten. In
 den Ecken liegt Müll, manchmal auch einer, der nicht mehr aufgestanden ist. Ich
-tue so, als wäre das alles normal, doch ich habe Angst, dass ich eines Tages da liegen werde.
+tue so, als wäre das alles normal, doch ich habe Angst, dass ich eines Tages da
+liegen werde.
 
 Der Abend senkt sich über den Park, die Laternen werfen gelbe Flecken auf den
 nassen Asphalt. Ich gehe am Rand von Rålambshovsparken, suche ein trockenes
@@ -84,14 +85,14 @@ weg hier, egal wie. Er lacht nicht, er redet nicht – er ist nur rohes Drängen
 rohes Ziehen. Ich denke noch: Ich habe das hier so lange überstanden. Ich habe
 gelernt, zu überleben. Ich lasse mich nicht brechen. Dann kommt der Schlag.
 
-Hart, direkt, vernichtend. Es reißt mir die Beine weg. Noch bevor ich schreien kann,
-kracht mein Kopf gegen die Bordsteinkante. Ein höllisches Licht, dann völlige
-Dunkelheit. Für Sekunden falle ich in eine andere Welt. Da ist Wärme. Sini
-kichert neben mir, wir sitzen irgendwo im Kino, sie wirft Popcorn in die Luft
-und fängt es mit dem Mund. Ich lache, so laut, dass die Leute uns schon böse
-anschauen. Dann ist da Mama, die vor ihrem Reißbrett steht, ein Haar fällt ihr
-ins Gesicht, das sie immer wieder wegstreicht. Papa lehnt sich zu mir, legt mir
-eine Hand auf die Schulter. Alles fühlt sich geborgen an, sicher, als wäre
+Hart, direkt, vernichtend. Es reißt mir die Beine weg. Noch bevor ich schreien
+kann, kracht mein Kopf gegen die Bordsteinkante. Ein höllisches Licht, dann
+völlige Dunkelheit. Für Sekunden falle ich in eine andere Welt. Da ist Wärme.
+Sini kichert neben mir, wir sitzen irgendwo im Kino, sie wirft Popcorn in die
+Luft und fängt es mit dem Mund. Ich lache, so laut, dass die Leute uns schon
+böse anschauen. Dann ist da Mama, die vor ihrem Reißbrett steht, ein Haar fällt
+ihr ins Gesicht, das sie immer wieder wegstreicht. Papa lehnt sich zu mir, legt
+mir eine Hand auf die Schulter. Alles fühlt sich geborgen an, sicher, als wäre
 nichts auf der Welt böse. Ich will nicht zurück. Doch ich werde gezwungen.
 
 Kälte, Nässe, der ekelhafte Geruch von Abfall, Schweiß, Rauch. Ich blinzele
@@ -145,22 +146,22 @@ ständigen Angst, dass irgendein grauer Mann aus der DDR plötzlich aus dem
 Schatten tritt. Aber dieser Moment hat mir gezeigt: Ich schaffe das nicht. Diese
 Straßen sind stärker als ich. Noch ein paar Monate, und sie verschlingen mich
 ganz. Der Gedanke tut weh, aber er ist da, unausweichlich: Ich kann hier nicht
-bleiben. Dieses Leben aus Schlafplätzen unter Brücken und in U-Bahn-Schächten, aus Almosen und
-ständigen Blicken über die Schulter – es würde mich töten. Nicht sofort, aber
-sicher. Ich streiche dem Hund über den Nacken, während ich weitertappe, meine
-Beine weich wie Pudding. „Wir zwei“, flüstere ich heiser, „wir müssen hier weg.
-Bald.“ Er sieht zu mir hoch, als hätte er verstanden. Und in dieser Nacht, in
-diesem Rausch aus Angst und Dankbarkeit, weiß ich: Mein Plan muss sich ändern.
-Jetzt.
+bleiben. Dieses Leben aus Schlafplätzen unter Brücken und in U-Bahn-Schächten,
+aus Almosen und ständigen Blicken über die Schulter – es würde mich töten. Nicht
+sofort, aber sicher. Ich streiche dem Hund über den Nacken, während ich
+weitertappe, meine Beine weich wie Pudding. „Wir zwei“, flüstere ich heiser,
+„wir müssen hier weg. Bald.“ Er sieht zu mir hoch, als hätte er verstanden. Und
+in dieser Nacht, in diesem Rausch aus Angst und Dankbarkeit, weiß ich: Mein Plan
+muss sich ändern. Jetzt.
 
 Ich wache auf im Park, halb aufrecht gegen einen Baum gelehnt. Mein Körper
-schmerzt an jeder Stelle, die Haut brennt, mein Knie pocht. Die Kleider sind
-zerfetzt, der Dreck klebt an mir, und der Geruch von Schweiß und Angst hängt mir
-in der Nase.
+schmerzt an jeder Stelle, die Haut brennt, mein Knie pocht. Die Wunde am Kopf
+pocht hart. Die Kleider sind zerfetzt, der Dreck klebt an mir, und der Geruch
+von Schweiß und Angst hängt mir in der Nase.
 
-Neben mir liegt Streuner, eingerollt, die Schnauze auf den Pfoten. Er hebt kurz
+Neben mir liegt Streuner, eingerollt, die Schnauze auf meinen Füßen. Er hebt kurz
 den Kopf, als ich mich bewege, seine Augen sind wach, aufmerksam. Dann legt er
-sich wieder hin, so, als müsste er nicht schlafen, solange ich wach bin.
+sich wieder hin, so, als warte er auf meine nächste Bewegung.
 
 Ich streiche über sein Fell. Meine Finger zittern noch immer, aber die Wärme
 unter seiner Haut ist echt, so echt wie nichts anderes in dieser Stadt.
@@ -170,4 +171,5 @@ die an mir zerrten. Der Traum von Sini, so warm, so hell, und dann der Absturz
 zurück in die Dunkelheit. Ich schüttle den Kopf, will es wegwischen, doch es
 bleibt.
 
-Wieder fällt mein Blick auf Streuner. Ich brauche ganz schnell einen neuen Plan.
+Wieder fällt mein Blick auf Streuner. Wir brauchen ganz schnell einen neuen
+Plan.

@@ -56,11 +56,10 @@ nur geträumt.
 „Ich begleite dich noch bis zum Bahnhof“, sagt Raija, während wir die Gangway
 hinuntergehen.
 
-Ich sehe ein paar Männer in schwedischen Uniformen. Mein Puls
-schlägt schneller. Sie gehen vorbei. Einer nickt mir zu, freundlich, ohne
-jegliche Skepsis. Eine Welle der Erleichterung fährt durch mich durch. Sie
-kontrollieren mich nicht. Sie sehen mich, als wäre ich nur ein Reisender wie
-jeder andere.
+Ich sehe ein paar Männer in schwedischen Uniformen. Mein Puls schlägt schneller.
+Sie gehen vorbei. Einer nickt mir zu, freundlich, ohne jegliche Skepsis. Eine
+Welle der Erleichterung fährt durch mich durch. Sie kontrollieren mich nicht.
+Sie sehen mich, als wäre ich nur ein Reisender wie jeder andere.
 
 Raijas Griff an meiner Hand ist fest, beruhigend, und gleichzeitig spüre ich das
 Ziehen der Angst in mir. Bald werde ich wieder allein sein.
@@ -80,7 +79,8 @@ leicht und drückt meine Hände noch einmal. „Geh, kleine Eddie. Sei vorsichti
 und komm zurück, wenn alles vorbei ist.“
 
 Ich kann die Tränen kaum zurückhalten. „Ich… danke dir… für alles.“\ „Du hast
-nichts zu danken“, sagt sie und lächelt zaghaft und zuversichtlich zu gleich. „Nur geh, jetzt. Ich sehe dich wieder.“
+nichts zu danken“, sagt sie und lächelt zaghaft und zuversichtlich zu gleich.
+„Nur geh, jetzt. Ich sehe dich wieder.“
 
 Ich umarme sie ein letztes Mal, viel länger, als es nötig wäre. Meine
 Dankbarkeit brennt in mir wie Feuer, Raijas Wärme schmiegt sich an mich wie ein
@@ -137,11 +137,11 @@ zwischen Traum und Flucht. Einmal wache ich auf, weil der Zug irgendwo hält.
 Stille. Kein Bahnhof, nur Wind, der gegen das Blech drückt. Dann wieder
 Bewegung. Weiter Richtung Süden. Richtung Stockholm. Richtung Hoffnung.
 
-Die Minuten ziehen sich wie Gummi. Als wir am frühen Morgen in Stockholm einfahren, halte ich
-mich zurück. Alle steigen aus. Ich verkrieche mich auf der Toilette, meine Atmung so flach, dass ich
-nicht mal ich sie hören kann. Ich kann nicht aus dem Fenster
-sehen. Inzwischn müssten alle Fahrgäste ausgestiegen sein. Die Stasi wartet sicher auf dem
-Bahnhof. Habe Geduld, Eddie!
+Die Minuten ziehen sich wie Gummi. Als wir am frühen Morgen in Stockholm
+einfahren, halte ich mich zurück. Alle steigen aus. Ich verkrieche mich auf der
+Toilette, meine Atmung so flach, dass ich nicht mal ich sie hören kann. Ich kann
+nicht aus dem Fenster sehen. Inzwischn müssten alle Fahrgäste ausgestiegen sein.
+Die Stasi wartet sicher auf dem Bahnhof. Habe Geduld, Eddie!
 
 Dann setzt sich der Zug langsam wieder in Bewegung. Es sind keine Reisenden
 eingestiegen – also fährt er noch nicht zurück nach Umeå. Nach ein paar Minuten

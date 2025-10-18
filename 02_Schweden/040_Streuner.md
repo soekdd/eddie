@@ -42,10 +42,11 @@ weit. Ich vergesse Hunger, Kälte, Gestank. Ich teile mit ihm, was ich habe – 
 Stück Brot, eine Scheibe Wurst, die mir jemand hingeworfen hat. Für einen Moment
 sind wir nicht zwei Verlorene, sondern ein Rudel.
 
-Manchmal bleibt er so lange weg, und dann denke ich, das war’s, er kommt nie wieder. Doch
-irgendwann taucht er wieder auf, ganz selbstverständlich, als hätte er mich nur
-kurz vergessen. Einmal liegt er so lange neben mir, dass ich im Halbschlaf die
-Hand auf sein Fell lege. Da wird mir klar: Er ist kein Fremder mehr.
+Manchmal bleibt er so lange weg, und dann denke ich, das war’s, er kommt nie
+wieder. Doch irgendwann taucht er wieder auf, ganz selbstverständlich, als hätte
+er mich nur kurz vergessen. Einmal liegt er so lange neben mir, dass ich im
+Halbschlaf die Hand auf sein Fell lege. Da wird mir klar: Er ist kein Fremder
+mehr.
 
 „Streuner“, sage ich leise, fast wie ein Geheimnis. „Du bist ein Streuner.“ Er
 zuckt nicht mal. Als hätte er gewusst, dass er so heißt, schon bevor ich es
